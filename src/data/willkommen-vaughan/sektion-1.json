@@ -1,0 +1,865 @@
+{
+  "bookId": "willkommen-vaughan-4",
+  "bookTitle": "Buch 4",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: sein (ser/estar)",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Este boli es mío.",
+      "back": "Dieser Kuli ist meiner."
+    },
+    { "id": "s1-t002", "front": "El mío es azul.", "back": "Meiner ist blau." },
+    {
+      "id": "s1-t003",
+      "front": "El boli azul es mío.",
+      "back": "Der blaue Kuli ist meiner."
+    },
+    {
+      "id": "s1-t004",
+      "front": "La cuenta, por favor.",
+      "back": "Die Rechnung, bitte!"
+    },
+    {
+      "id": "s1-t005",
+      "front": "La mesa grande es cara.",
+      "back": "Der große Tisch ist teuer."
+    },
+    {
+      "id": "s1-t006",
+      "front": "El hombre alto es mi padre.",
+      "back": "Der große Mann ist mein Vater."
+    },
+    {
+      "id": "s1-t007",
+      "front": "La mujer alta es mi madre.",
+      "back": "Die große Frau ist meine Mutter."
+    },
+    {
+      "id": "s1-t008",
+      "front": "La chica alta es mi hija.",
+      "back": "Das große Mädchen ist meine Tochter."
+    },
+    {
+      "id": "s1-t009",
+      "front": "La mesa grande es bonita.",
+      "back": "Der große Tisch ist schön."
+    },
+    {
+      "id": "s1-t010",
+      "front": "La televisión grande es cara.",
+      "back": "Der große Fernseher ist teuer."
+    },
+    {
+      "id": "s1-t011",
+      "front": "El sillón grande es cómodo.",
+      "back": "Der große Sessel ist bequem."
+    },
+    {
+      "id": "s1-t012",
+      "front": "El reloj pequeño es viejo.",
+      "back": "Die kleine Uhr ist alt."
+    },
+    {
+      "id": "s1-t013",
+      "front": "La pequeña cómoda es nueva.",
+      "back": "Die kleine Kommode ist neu."
+    },
+    {
+      "id": "s1-t014",
+      "front": "La pequeña calle es bonita.",
+      "back": "Die kleine Straße ist schön."
+    },
+    {
+      "id": "s1-t015",
+      "front": "La casa roja es pequeña.",
+      "back": "Das rote Haus ist klein."
+    },
+    {
+      "id": "s1-t016",
+      "front": "La bicicleta roja es nueva.",
+      "back": "Das rote Fahrrad ist neu."
+    },
+    {
+      "id": "s1-t017",
+      "front": "El sofá rojo es cómodo.",
+      "back": "Das rote Sofa ist bequem."
+    },
+    {
+      "id": "s1-t018",
+      "front": "El sillón amarillo es feo.",
+      "back": "Der gelbe Sessel ist hässlich."
+    },
+    {
+      "id": "s1-t019",
+      "front": "El reloj amarillo es feo.",
+      "back": "Die gelbe Uhr ist hässlich."
+    },
+    {
+      "id": "s1-t020",
+      "front": "El coche amarillo también es feo.",
+      "back": "Das gelbe Auto ist auch hässlich."
+    },
+    {
+      "id": "s1-t021",
+      "front": "El hombre bajo es muy simpático.",
+      "back": "Der kleine Mann ist sehr nett."
+    },
+    {
+      "id": "s1-t022",
+      "front": "La chaqueta verde es muy fea.",
+      "back": "Die grüne Jacke ist sehr hässlich."
+    },
+    {
+      "id": "s1-t023",
+      "front": "La cama grande es muy cómoda.",
+      "back": "Das große Bett ist sehr bequem."
+    },
+    { "id": "s1-t024", "front": "Panadería", "back": "Bäckerei" },
+    {
+      "id": "s1-t025",
+      "front": "El boli rojo es mío.",
+      "back": "Der rote Kuli ist meiner."
+    },
+    {
+      "id": "s1-t026",
+      "front": "La silla marrón es mía.",
+      "back": "Der braune Stuhl ist meiner."
+    },
+    {
+      "id": "s1-t027",
+      "front": "El jersey verde es mío.",
+      "back": "Der grüne Pulli ist meiner."
+    },
+    {
+      "id": "s1-t028",
+      "front": "La silla azul también es mía.",
+      "back": "Der blaue Stuhl ist auch meiner."
+    },
+    {
+      "id": "s1-t029",
+      "front": "El jersey blanco también es mío.",
+      "back": "Der weiße Pulli ist auch meiner."
+    },
+    {
+      "id": "s1-t030",
+      "front": "La falda corta también es mía.",
+      "back": "Der kurze Rock ist auch meiner."
+    },
+    {
+      "id": "s1-t031",
+      "front": "El mío es el ordenador pequeño.",
+      "back": "Meiner ist der kleine Computer."
+    },
+    {
+      "id": "s1-t032",
+      "front": "La mía es la falda larga.",
+      "back": "Meiner ist der lange Rock."
+    },
+    {
+      "id": "s1-t033",
+      "front": "El mío es el escritorio marrón.",
+      "back": "Meiner ist der braune Schreibtisch."
+    },
+    {
+      "id": "s1-t034",
+      "front": "La mesa larga no es mía.",
+      "back": "Der lange Tisch ist nicht meiner."
+    },
+    {
+      "id": "s1-t035",
+      "front": "La falda corta no es mía.",
+      "back": "Der kurze Rock ist nicht meiner."
+    },
+    {
+      "id": "s1-t036",
+      "front": "El sillón pequeño no es mío.",
+      "back": "Der kleine Sessel ist nicht meiner."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Eso no es mío, ¡es tuyo! (masculino)",
+      "back": "Das ist nicht meiner, das ist deiner!"
+    },
+    {
+      "id": "s1-t038",
+      "front": "Eso de allí no es mío, ¡es tuyo! (masculino)",
+      "back": "Das da ist nicht meiner, das ist deiner!"
+    },
+    {
+      "id": "s1-t039",
+      "front": "Esto de aquí no es mío, ¡es tuyo! (masculino)",
+      "back": "Das hier ist nicht meiner, das ist deiner!"
+    },
+    { "id": "s1-t040", "front": "Múnich", "back": "München" },
+    {
+      "id": "s1-t041",
+      "front": "El pantalón gris es mío.",
+      "back": "Die graue Hose ist meine."
+    },
+    {
+      "id": "s1-t042",
+      "front": "La chaqueta verde es mía.",
+      "back": "Die grüne Jacke ist meine."
+    },
+    {
+      "id": "s1-t043",
+      "front": "El reloj pequeño es mío. (con Uhr femenino)",
+      "back": "Die kleine Uhr ist meine."
+    },
+    {
+      "id": "s1-t044",
+      "front": "El bolso grande también es mío.",
+      "back": "Die große Tasche ist auch meine."
+    },
+    {
+      "id": "s1-t045",
+      "front": "El bolso pequeño también es mío.",
+      "back": "Die kleine Tasche ist auch meine."
+    },
+    {
+      "id": "s1-t046",
+      "front": "La chaqueta verde también es mía.",
+      "back": "Die grüne Jacke ist auch meine."
+    },
+    {
+      "id": "s1-t047",
+      "front": "La mía es el bolso blanco.",
+      "back": "Meine ist die weiße Tasche."
+    },
+    {
+      "id": "s1-t048",
+      "front": "La mía es la chaqueta negra.",
+      "back": "Meine ist die schwarze Jacke."
+    },
+    {
+      "id": "s1-t049",
+      "front": "El mío es el pantalón gris. (Hose femenino)",
+      "back": "Meine ist die graue Hose."
+    },
+    {
+      "id": "s1-t050",
+      "front": "El pantalón amarillo tampoco es mío.",
+      "back": "Die gelbe Hose ist auch nicht meine."
+    },
+    {
+      "id": "s1-t051",
+      "front": "La lámpara grande tampoco es mía.",
+      "back": "Die große Lampe ist auch nicht meine."
+    },
+    {
+      "id": "s1-t052",
+      "front": "El reloj antiguo tampoco es mío.",
+      "back": "Die alte Uhr ist auch nicht meine."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Esa no es mía, ¡es tuya! (femenino)",
+      "back": "Das ist nicht meine, das ist deine!"
+    },
+    {
+      "id": "s1-t054",
+      "front": "Esa de allí no es mía, ¡es tuya!",
+      "back": "Das da ist nicht meine, das ist deine!"
+    },
+    {
+      "id": "s1-t055",
+      "front": "Esta de aquí no es mía, ¡es tuya!",
+      "back": "Das hier ist nicht meine, das ist deine!"
+    },
+    { "id": "s1-t056", "front": "31", "back": "einunddreißig" },
+    { "id": "s1-t057", "front": "32", "back": "zweiunddreißig" },
+    { "id": "s1-t058", "front": "33", "back": "dreiunddreißig" },
+    { "id": "s1-t059", "front": "34", "back": "vierunddreißig" },
+    { "id": "s1-t060", "front": "35", "back": "fünfunddreißig" },
+    { "id": "s1-t061", "front": "36", "back": "sechsunddreißig" },
+    { "id": "s1-t062", "front": "37", "back": "siebenunddreißig" },
+    { "id": "s1-t063", "front": "38", "back": "achtunddreißig" },
+    { "id": "s1-t064", "front": "39", "back": "neununddreißig" },
+    { "id": "s1-t065", "front": "40", "back": "vierzig" },
+    {
+      "id": "s1-t066",
+      "front": "Son las nueve y cuarto.",
+      "back": "Es ist viertel nach neun."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Son las dos y cuarto.",
+      "back": "Es ist viertel nach zwei."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Es la una y cuarto.",
+      "back": "Es ist viertel nach eins."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Son las cinco y cuarto.",
+      "back": "Es ist viertel nach fünf."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Son las siete y cuarto.",
+      "back": "Es ist viertel nach sieben."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Son las diez y cuarto.",
+      "back": "Es ist viertel nach zehn."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Son las cuatro y cuarto.",
+      "back": "Es ist viertel nach vier."
+    },
+    {
+      "id": "s1-t073",
+      "front": "Son las seis y cuarto.",
+      "back": "Es ist viertel nach sechs."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Son las ocho y cuarto.",
+      "back": "Es ist viertel nach acht."
+    },
+    {
+      "id": "s1-t075",
+      "front": "El vaso grande es mío.",
+      "back": "Das große Glas ist meins."
+    },
+    {
+      "id": "s1-t076",
+      "front": "El coche blanco es mío.",
+      "back": "Das weiße Auto ist meins."
+    },
+    {
+      "id": "s1-t077",
+      "front": "La bicicleta azul es mía.",
+      "back": "Das blaue Fahrrad ist meins."
+    },
+    {
+      "id": "s1-t078",
+      "front": "La bicicleta verde también es mía.",
+      "back": "Das grüne Fahrrad ist auch meins."
+    },
+    {
+      "id": "s1-t079",
+      "front": "La pequeña estantería también es mía.",
+      "back": "Das kleine Regal ist auch meins."
+    },
+    {
+      "id": "s1-t080",
+      "front": "El móvil amarillo también es mío.",
+      "back": "Das gelbe Handy ist auch meins."
+    },
+    {
+      "id": "s1-t081",
+      "front": "La mía es la cama grande.",
+      "back": "Meins ist das große Bett."
+    },
+    {
+      "id": "s1-t082",
+      "front": "El mío es el teléfono gris.",
+      "back": "Meins ist das graue Telefon."
+    },
+    {
+      "id": "s1-t083",
+      "front": "El mío es el coche rojo.",
+      "back": "Meins ist das rote Auto."
+    },
+    {
+      "id": "s1-t084",
+      "front": "El sofá feo no es mío.",
+      "back": "Das hässliche Sofa ist nicht meins."
+    },
+    {
+      "id": "s1-t085",
+      "front": "La estantería grande no es mía.",
+      "back": "Das große Regal ist nicht meins."
+    },
+    {
+      "id": "s1-t086",
+      "front": "La bicicleta blanca tampoco es mía.",
+      "back": "Das weiße Fahrrad ist auch nicht meins."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Eso no es mío, ¡es tuyo! (neutro)",
+      "back": "Das ist nicht meins, das ist deins!"
+    },
+    {
+      "id": "s1-t088",
+      "front": "Eso de allí no es mío, ¡es tuyo! (neutro)",
+      "back": "Das da ist nicht meins, das ist deins!"
+    },
+    {
+      "id": "s1-t089",
+      "front": "Esto de aquí no es mío, ¡es tuyo! (neutro)",
+      "back": "Das hier ist nicht meins, das ist deins!"
+    },
+    {
+      "id": "s1-t090",
+      "front": "El teléfono está encima de la mesa.",
+      "back": "Das Telefon steht auf dem Tisch."
+    },
+    {
+      "id": "s1-t091",
+      "front": "El gato está debajo del sofá.",
+      "back": "Die Katze liegt unter dem Sofa."
+    },
+    {
+      "id": "s1-t092",
+      "front": "La lámpara está al lado de la estantería.",
+      "back": "Die Lampe steht neben dem Regal."
+    },
+    {
+      "id": "s1-t093",
+      "front": "La caja está debajo del armario.",
+      "back": "Die Kiste steht unter dem Schrank."
+    },
+    {
+      "id": "s1-t094",
+      "front": "La televisión está encima del armario.",
+      "back": "Der Fernseher steht auf dem Schrank."
+    },
+    {
+      "id": "s1-t095",
+      "front": "La chaqueta está al lado del pantalón.",
+      "back": "Die Jacke steht neben der Hose."
+    },
+    {
+      "id": "s1-t096",
+      "front": "¿Cuál es tu boli?",
+      "back": "Welcher Kuli ist deiner?"
+    },
+    {
+      "id": "s1-t097",
+      "front": "¿Cuál es tu jersey?",
+      "back": "Welcher Pulli ist deiner?"
+    },
+    {
+      "id": "s1-t098",
+      "front": "¿Cuál es tu lápiz?",
+      "back": "Welcher Bleistift ist deiner?"
+    },
+    {
+      "id": "s1-t099",
+      "front": "¿Cuál es tu reloj?",
+      "back": "Welche Uhr ist deine?"
+    },
+    {
+      "id": "s1-t100",
+      "front": "¿Cuál es tu chaqueta?",
+      "back": "Welche Jacke ist deine?"
+    },
+    {
+      "id": "s1-t101",
+      "front": "¿Cuál es tu pantalón?",
+      "back": "Welche Hose ist deine?"
+    },
+    {
+      "id": "s1-t102",
+      "front": "¿Cuál es tu bicicleta?",
+      "back": "Welches Fahrrad ist deins?"
+    },
+    {
+      "id": "s1-t103",
+      "front": "¿Cuál es tu móvil?",
+      "back": "Welches Handy ist deins?"
+    },
+    {
+      "id": "s1-t104",
+      "front": "¿Cuál es tu teléfono?",
+      "back": "Welches Telefon ist deins?"
+    },
+    {
+      "id": "s1-t105",
+      "front": "¿Cuál es el tuyo? (masculino, sin sustantivo)",
+      "back": "Welcher ist deiner?"
+    },
+    {
+      "id": "s1-t106",
+      "front": "¿Cuál es la tuya? (femenino, sin sustantivo)",
+      "back": "Welche ist deine?"
+    },
+    {
+      "id": "s1-t107",
+      "front": "¿Cuál es el tuyo? (neutro, sin sustantivo)",
+      "back": "Welches ist deins?"
+    },
+    {
+      "id": "s1-t108",
+      "front": "Ese de allí es el mío. (masculino)",
+      "back": "Das da ist meiner."
+    },
+    {
+      "id": "s1-t109",
+      "front": "Esta de aquí es la mía. (femenino)",
+      "back": "Das hier ist meine."
+    },
+    {
+      "id": "s1-t110",
+      "front": "Ese de allí es el mío. (neutro)",
+      "back": "Das da ist meins."
+    },
+    {
+      "id": "s1-t111",
+      "front": "La tele gris está encima de la mesa.",
+      "back": "Der graue Fernseher steht auf dem Tisch."
+    },
+    {
+      "id": "s1-t112",
+      "front": "La lámpara blanca está en el suelo.",
+      "back": "Die weiße Lampe steht auf dem Boden."
+    },
+    {
+      "id": "s1-t113",
+      "front": "La estantería pequeña está encima de la cómoda.",
+      "back": "Das kleine Regal steht auf der Kommode."
+    },
+    {
+      "id": "s1-t114",
+      "front": "El chico pequeño está debajo de la ducha.",
+      "back": "Der kleine Junge steht unter der Dusche."
+    },
+    {
+      "id": "s1-t115",
+      "front": "La caja blanca está debajo de la cómoda.",
+      "back": "Die weiße Kiste steht unter der Kommode."
+    },
+    {
+      "id": "s1-t116",
+      "front": "La chica pequeña está debajo del árbol.",
+      "back": "Das kleine Mädchen steht unter dem Baum."
+    },
+    {
+      "id": "s1-t117",
+      "front": "El jersey feo está en la silla.",
+      "back": "Der hässliche Pulli liegt auf dem Stuhl."
+    },
+    {
+      "id": "s1-t118",
+      "front": "El periódico viejo está encima de la cómoda.",
+      "back": "Die alte Zeitung liegt auf der Kommode."
+    },
+    {
+      "id": "s1-t119",
+      "front": "El móvil nuevo está en el suelo.",
+      "back": "Das neue Handy liegt auf dem Boden."
+    },
+    {
+      "id": "s1-t120",
+      "front": "El lápiz corto está debajo del armario.",
+      "back": "Der kurze Bleistift liegt unter dem Schrank."
+    },
+    {
+      "id": "s1-t121",
+      "front": "La revista vieja está debajo de la caja.",
+      "back": "Die alte Zeitschrift liegt unter der Kiste."
+    },
+    {
+      "id": "s1-t122",
+      "front": "La chica pequeña está tumbada debajo del árbol.",
+      "back": "Das kleine Mädchen liegt unter dem Baum."
+    },
+    {
+      "id": "s1-t123",
+      "front": "La nueva tele está al lado de la ventana.",
+      "back": "Der neue Fernseher steht neben dem Fenster."
+    },
+    {
+      "id": "s1-t124",
+      "front": "La chaqueta verde está al lado del pantalón.",
+      "back": "Die grüne Jacke liegt neben der Hose."
+    },
+    {
+      "id": "s1-t125",
+      "front": "La estantería grande está al lado de la tele.",
+      "back": "Das große Regal steht neben dem Fernseher."
+    },
+    {
+      "id": "s1-t126",
+      "front": "¿Cuál es tu falda?",
+      "back": "Welcher Rock ist deiner?"
+    },
+    {
+      "id": "s1-t127",
+      "front": "¿Cuál es tu mesa?",
+      "back": "Welcher Tisch ist deiner?"
+    },
+    {
+      "id": "s1-t128",
+      "front": "¿Cuál es tu lámpara?",
+      "back": "Welche Lampe ist deine?"
+    },
+    {
+      "id": "s1-t129",
+      "front": "¿Cuál es tu coche?",
+      "back": "Welches Auto ist deins?"
+    },
+    {
+      "id": "s1-t130",
+      "front": "La falda azul es mía.",
+      "back": "Der blaue Rock ist meiner."
+    },
+    {
+      "id": "s1-t131",
+      "front": "La mesa marrón es mía.",
+      "back": "Der braune Tisch ist meiner."
+    },
+    {
+      "id": "s1-t132",
+      "front": "El jersey amarillo es mío.",
+      "back": "Der gelbe Pulli ist meiner."
+    },
+    {
+      "id": "s1-t133",
+      "front": "La chaqueta blanca es mía.",
+      "back": "Die weiße Jacke ist meine."
+    },
+    {
+      "id": "s1-t134",
+      "front": "El pantalón rojo es mío.",
+      "back": "Die rote Hose ist meine."
+    },
+    {
+      "id": "s1-t135",
+      "front": "La lámpara verde es mía.",
+      "back": "Die grüne Lampe ist meine."
+    },
+    {
+      "id": "s1-t136",
+      "front": "El coche gris es mío.",
+      "back": "Das graue Auto ist meins."
+    },
+    {
+      "id": "s1-t137",
+      "front": "La bicicleta negra es mía.",
+      "back": "Das schwarze Fahrrad ist meins."
+    },
+    {
+      "id": "s1-t138",
+      "front": "El teléfono blanco es mío.",
+      "back": "Das weiße Telefon ist meins."
+    },
+
+    {
+      "id": "s1-g001",
+      "front": "¿Cuándo se emplea \"meiner\"?",
+      "back": "Para sustantivos masculinos (terminados en -er como der/dieser).\nEj.: Der Kuli ist meiner. (= El boli es mío.)"
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Cuándo se emplea \"meine\"?",
+      "back": "Para sustantivos femeninos (terminados en -e como die/diese).\nEj.: Die Jacke ist meine. (= La chaqueta es mía.)"
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Cuándo se emplea \"meins\"?",
+      "back": "Para sustantivos neutros (terminados en -s como das/dieses).\nEj.: Das Auto ist meins. (= El coche es mío.)"
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Cuándo se emplea \"deiner / deine / deins\"?",
+      "back": "\"deiner\" para masc., \"deine\" para fem., \"deins\" para neutro.\nSiguen la misma regla que meiner/meine/meins, pero con la idea de \"tuyo\"."
+    },
+    {
+      "id": "s1-g005",
+      "front": "Con artículo definido (der/die/das), ¿cómo termina siempre el adjetivo?",
+      "back": "Siempre termina en -e:\n- Der große Tisch...\n- Die kleine Uhr...\n- Das rote Auto..."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué significa el verbo \"sein\"?",
+      "back": "ser / estar.\nEs el verbo central de toda la Sektion 1."
+    },
+    {
+      "id": "s1-g007",
+      "front": "Diferencia entre \"Stuhl\" y \"Sessel\"",
+      "back": "Stuhl = silla (sin reposabrazos).\nSessel = sillón."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué significa \"bequem\"?",
+      "back": "Cómodo.\nPronunciación: /bekvvéemmm/ — la \"v\" final es suave (NO la \"v\" fuerte alemana)."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Qué significa \"hässlich\"?",
+      "back": "Feo.\n(Antónimo de \"schön\" — bonito.) Este adjetivo no cambia tras el artículo definido."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué significa \"sehr\"?",
+      "back": "Muy.\nEj.: Der kleine Mann ist sehr nett. (= El hombre bajo es muy simpático.)"
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué significa \"nett\"?",
+      "back": "Simpático / agradable."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se comporta \"gelb\" como adjetivo?",
+      "back": "Tras el artículo definido siempre se usa la forma femenina \"gelbe\" (no cambia).\nEj.: der gelbe Sessel, die gelbe Uhr, das gelbe Auto."
+    },
+    {
+      "id": "s1-g013",
+      "front": "Plural de \"Hose\" (pantalón)",
+      "back": "Hosen"
+    },
+    { "id": "s1-g014", "front": "Plural de \"Rock\" (falda)", "back": "Röcke" },
+    {
+      "id": "s1-g015",
+      "front": "Plural de \"Pulli\" (jersey)",
+      "back": "Pullis"
+    },
+    { "id": "s1-g016", "front": "Plural de \"Sofa\" (sofá)", "back": "Sofas" },
+    {
+      "id": "s1-g017",
+      "front": "Plural de \"Kommode\" (cómoda)",
+      "back": "Kommoden"
+    },
+    {
+      "id": "s1-g018",
+      "front": "Plural de \"Sessel\" (sillón)",
+      "back": "Sessel (no cambia)"
+    },
+    {
+      "id": "s1-g019",
+      "front": "¿Qué significa el verbo \"stehen\"?",
+      "back": "Estar (de pie) — para objetos en posición vertical.\nEj.: Das Telefon steht auf dem Tisch."
+    },
+    {
+      "id": "s1-g020",
+      "front": "¿Qué significa el verbo \"liegen\"?",
+      "back": "Estar (tumbado) — para objetos en posición horizontal.\nEj.: Die Katze liegt unter dem Sofa."
+    },
+    {
+      "id": "s1-g021",
+      "front": "¿Cómo se dice \"encima de\" en alemán?",
+      "back": "auf dem (+ masc./neutro)\nauf der (+ femenino)"
+    },
+    {
+      "id": "s1-g022",
+      "front": "¿Cómo se dice \"debajo de\" en alemán?",
+      "back": "unter dem (+ masc./neutro)\nunter der (+ femenino)"
+    },
+    {
+      "id": "s1-g023",
+      "front": "¿Cómo se dice \"al lado de\" en alemán?",
+      "back": "neben dem (+ masc./neutro)\nneben der (+ femenino)"
+    },
+    {
+      "id": "s1-g024",
+      "front": "¿Cómo se traduce \"Welcher?\"?",
+      "back": "¿Cuál? — para preguntar por un sustantivo masculino.\nEj.: Welcher Kuli ist deiner?"
+    },
+    {
+      "id": "s1-g025",
+      "front": "¿Cómo se traduce \"Welche?\"?",
+      "back": "¿Cuál? — para preguntar por un sustantivo femenino.\nEj.: Welche Jacke ist deine?"
+    },
+    {
+      "id": "s1-g026",
+      "front": "¿Cómo se traduce \"Welches?\"?",
+      "back": "¿Cuál? — para preguntar por un sustantivo neutro.\nEj.: Welches Auto ist deins?"
+    },
+    {
+      "id": "s1-g027",
+      "front": "¿Cómo se dice \"esto de aquí\" en alemán?",
+      "back": "Das hier"
+    },
+    {
+      "id": "s1-g028",
+      "front": "¿Cómo se dice \"eso de allí\" en alemán?",
+      "back": "Das da"
+    },
+    {
+      "id": "s1-g029",
+      "front": "Patrón para decir las horas con cuarto",
+      "back": "Es ist viertel nach [hora].\n= Son las [hora] y cuarto.\n\"viertel\" /fíiattel/ significa \"cuarto\" (de hora)."
+    },
+    {
+      "id": "s1-g030",
+      "front": "¿Qué significa \"München\" y por qué?",
+      "back": "Significa \"lugar del monje\" porque la ciudad fue fundada por los monjes benedictinos."
+    },
+    {
+      "id": "s1-g031",
+      "front": "Datos de Múnich (München)",
+      "back": "Tercera ciudad más poblada de Alemania.\nCapital del estado federado de Baviera (Bayern).\nAprox. 1.330.000 habitantes."
+    },
+    {
+      "id": "s1-g032",
+      "front": "¿Qué es el \"Hofbräuhaus\"?",
+      "back": "La cervecería más antigua del mundo, fundada en 1589 en Múnich.\nEn ella se disfruta del típico ambiente alemán."
+    },
+    {
+      "id": "s1-g033",
+      "front": "¿Qué es \"Der Föhn\"?",
+      "back": "El viento cálido de los Alpes que sopla allí y, incluso en invierno, hace subir las temperaturas."
+    },
+    {
+      "id": "s1-g034",
+      "front": "¿Cómo se pronuncia \"Bäckerei\"?",
+      "back": "/bekej(r)ái/ — panadería en alemán."
+    },
+    {
+      "id": "s1-g035",
+      "front": "¿De qué palabra es abreviatura \"Pulli\"?",
+      "back": "\"Pullover\" — del inglés y también es masculino: der Pullover / der Pulli.\nLa doble \"l\" se pronuncia como una \"y\" cualquiera."
+    },
+    {
+      "id": "s1-g036",
+      "front": "¿Cómo se dice \"escritorio\" en alemán?",
+      "back": "Der Schreibtisch"
+    },
+    {
+      "id": "s1-g037",
+      "front": "¿Cómo se traduce \"Die Rechnung\"?",
+      "back": "La cuenta.\nPronunciación: /di j(r)é(sh)nun(g) bíttte/"
+    },
+    {
+      "id": "s1-g038",
+      "front": "Adjetivo después de artículo definido + sustantivo NEUTRO",
+      "back": "El adjetivo lleva -e:\nDas große Bett. (= La cama grande.)\nDas rote Auto. (= El coche rojo.)"
+    },
+    {
+      "id": "s1-g039",
+      "front": "Adjetivo después de artículo definido + sustantivo FEMENINO",
+      "back": "El adjetivo lleva -e:\nDie kleine Uhr. (= El reloj pequeño.)\nDie grüne Jacke. (= La chaqueta verde.)"
+    },
+    {
+      "id": "s1-g040",
+      "front": "Adjetivo después de artículo definido + sustantivo MASCULINO",
+      "back": "El adjetivo lleva -e:\nDer große Tisch. (= La mesa grande.)\nDer blaue Kuli. (= El boli azul.)"
+    },
+    {
+      "id": "s1-g041",
+      "front": "¿Qué significa \"teuer\"?",
+      "back": "Caro/a.\nEj.: Der große Tisch ist teuer. (= La mesa grande es cara.)"
+    },
+    {
+      "id": "s1-g042",
+      "front": "¿Qué significa \"schön\"?",
+      "back": "Bonito/a, hermoso/a.\nEj.: Die kleine Straße ist schön."
+    },
+    {
+      "id": "s1-g043",
+      "front": "¿Qué significa \"neu\" y \"alt\"?",
+      "back": "neu = nuevo/a\nalt = viejo/a, antiguo/a"
+    },
+    {
+      "id": "s1-g044",
+      "front": "¿Qué significa \"klein\" y \"groß\"?",
+      "back": "klein = pequeño/a, bajo/a (de estatura)\ngroß = grande, alto/a"
+    },
+    {
+      "id": "s1-g045",
+      "front": "Colores básicos en alemán",
+      "back": "rot — rojo\nblau — azul\ngrün — verde\ngelb — amarillo\nweiß — blanco\nschwarz — negro\nbraun — marrón\ngrau — gris"
+    }
+  ]
+}

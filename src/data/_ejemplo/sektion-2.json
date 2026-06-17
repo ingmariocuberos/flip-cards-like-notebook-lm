@@ -1,0 +1,13 @@
+{
+  "bookId": "ejemplo-a1",
+  "bookTitle": "Ejemplo · Berliner Platz A1",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: Zahlen und Familie",
+  "order": 2,
+  "cards": [
+    { "id": "s2-001", "front": "eins", "back": "uno (1)" },
+    { "id": "s2-002", "front": "zwei", "back": "dos (2)" },
+    { "id": "s2-003", "front": "die Mutter", "back": "la madre\n(pl. die Mütter)" },
+    { "id": "s2-004", "front": "der Vater", "back": "el padre\n(pl. die Väter)" }
+  ]
+}

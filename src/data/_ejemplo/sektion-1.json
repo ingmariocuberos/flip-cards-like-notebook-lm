@@ -1,0 +1,14 @@
+{
+  "bookId": "ejemplo-a1",
+  "bookTitle": "Ejemplo · Berliner Platz A1",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: Hallo!",
+  "order": 1,
+  "cards": [
+    { "id": "s1-001", "front": "der Tisch", "back": "la mesa\n(pl. die Tische)" },
+    { "id": "s1-002", "front": "das Buch", "back": "el libro\n(pl. die Bücher)" },
+    { "id": "s1-003", "front": "die Tür", "back": "la puerta\n(pl. die Türen)" },
+    { "id": "s1-004", "front": "Guten Morgen!", "back": "¡Buenos días!\n(saludo formal, antes del mediodía)" },
+    { "id": "s1-005", "front": "Wie heißt du?", "back": "¿Cómo te llamas?\n(informal, 'du')" }
+  ]
+}
