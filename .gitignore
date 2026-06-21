@@ -49,3 +49,6 @@ sources/*.pdf
 sources/**/*.pdf
 sources/**/*__chunks/
 sources/**/*__pngs/
+
+# --- Notas internas (workflow privado, no compartir) ---
+sources/WORKFLOW.md
