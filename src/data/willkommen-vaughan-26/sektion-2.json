@@ -1,0 +1,684 @@
+{
+  "bookId": "willkommen-vaughan-26",
+  "bookTitle": "Buch 26",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: davor / danach / währenddessen / während / bevor / nachdem — adverbios y conjunciones temporales (antes/después/mientras)",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "Suelo desayunar a las nueve.",
+      "back": "Ich frühstücke meistens um neun."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Antes (de eso) me visto.",
+      "back": "Davor ziehe ich mich an."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Antes (de eso) suelo ducharme.",
+      "back": "Davor dusche ich mich meistens."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Suelo leer el periódico antes (de eso).",
+      "back": "Ich lese davor meistens die Zeitung."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Suelo comer a las dos.",
+      "back": "Ich esse meistens um zwei zu Mittag."
+    },
+    {
+      "id": "s2-t006",
+      "front": "Antes (de eso) siempre hago la compra.",
+      "back": "Davor gehe ich immer einkaufen."
+    },
+    {
+      "id": "s2-t007",
+      "front": "Antes (de eso) muchas veces voy a correr.",
+      "back": "Davor gehe ich oft joggen."
+    },
+    {
+      "id": "s2-t008",
+      "front": "Suelo dar un paseo antes (de eso).",
+      "back": "Ich gehe davor meistens spazieren."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Voy a pasarme luego.",
+      "back": "Ich werde nachher vorbeikommen."
+    },
+    {
+      "id": "s2-t010",
+      "front": "Antes (de eso) la llamaré.",
+      "back": "Davor werde ich sie anrufen."
+    },
+    {
+      "id": "s2-t011",
+      "front": "Antes (de eso) preguntaré a su compañero de piso.",
+      "back": "Davor werde ich ihren Mitbewohner fragen."
+    },
+    {
+      "id": "s2-t012",
+      "front": "Avisaré antes (de eso).",
+      "back": "Ich werde davor Bescheid sagen."
+    },
+    {
+      "id": "s2-t013",
+      "front": "Me he pasado hace un rato.",
+      "back": "Ich bin vorhin vorbeigekommen."
+    },
+    {
+      "id": "s2-t014",
+      "front": "La llamé antes (de eso).",
+      "back": "Davor habe ich sie angerufen."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Se lo pregunté antes (de eso).",
+      "back": "Davor habe ich ihn gefragt."
+    },
+    {
+      "id": "s2-t016",
+      "front": "Le avisé antes (de eso).",
+      "back": "Ich habe ihm davor Bescheid gesagt."
+    },
+    {
+      "id": "s2-t017",
+      "front": "Él estuvo en casa de un amigo ayer.",
+      "back": "Er war gestern bei einem Freund."
+    },
+    {
+      "id": "s2-t018",
+      "front": "Antes (de eso) él fue a hacer la compra.",
+      "back": "Davor ist er einkaufen gegangen."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Antes (de eso) él fue a correr.",
+      "back": "Davor ist er joggen gegangen."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Él fue a tomar algo antes (de eso).",
+      "back": "Er ist davor etwas trinken gegangen."
+    },
+    {
+      "id": "s2-t021",
+      "front": "Me levanto normalmente a las ocho.",
+      "back": "Ich stehe meistens um acht auf."
+    },
+    {
+      "id": "s2-t022",
+      "front": "Después (de eso) leo siempre el periódico.",
+      "back": "Danach lese ich immer die Zeitung."
+    },
+    {
+      "id": "s2-t023",
+      "front": "Después (de eso) desayuno.",
+      "back": "Danach frühstücke ich."
+    },
+    {
+      "id": "s2-t024",
+      "front": "Después (de eso) me lavo los dientes.",
+      "back": "Ich putze mir danach die Zähne."
+    },
+    {
+      "id": "s2-t025",
+      "front": "Vamos a ir luego a una fiesta de cumpleaños.",
+      "back": "Wir gehen später auf eine Geburtstagsfeier."
+    },
+    {
+      "id": "s2-t026",
+      "front": "Después (de eso) quizás vayamos a tomar algo.",
+      "back": "Danach gehen wir vielleicht etwas trinken."
+    },
+    {
+      "id": "s2-t027",
+      "front": "Después (de eso) quizás vayamos a tomar una cerveza.",
+      "back": "Danach gehen wir vielleicht ein Bier trinken."
+    },
+    {
+      "id": "s2-t028",
+      "front": "Después (de eso) quizás vayamos a pasear.",
+      "back": "Wir gehen danach vielleicht spazieren."
+    },
+    {
+      "id": "s2-t029",
+      "front": "Iremos más tarde al cine.",
+      "back": "Wir werden später ins Kino gehen."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Después (de eso) iremos probablemente a la estación.",
+      "back": "Danach werden wir wahrscheinlich zum Bahnhof gehen."
+    },
+    {
+      "id": "s2-t031",
+      "front": "Después (de eso) quedaremos probablemente con unos amigos.",
+      "back": "Danach werden wir uns wahrscheinlich mit Freunden treffen."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Después (de eso) nos iremos probablemente a tomar algo.",
+      "back": "Wir werden danach wahrscheinlich etwas trinken gehen."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Hoy he desayunado a las diez.",
+      "back": "Ich habe heute um zehn gefrühstückt."
+    },
+    {
+      "id": "s2-t034",
+      "front": "Después (de eso) leí el periódico.",
+      "back": "Danach habe ich die Zeitung gelesen."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Después (de eso) llamé a la oficina.",
+      "back": "Danach habe ich im Büro angerufen."
+    },
+    {
+      "id": "s2-t036",
+      "front": "Vi las noticias después (de eso).",
+      "back": "Ich habe danach die Nachrichten gesehen."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Hoy hemos comido a las tres.",
+      "back": "Wir haben heute um drei zu Mittag gegessen."
+    },
+    {
+      "id": "s2-t038",
+      "front": "Después (de eso) fui a comprar.",
+      "back": "Danach bin ich einkaufen gegangen."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Después (de eso) nos fuimos a pasear.",
+      "back": "Danach sind wir spazieren gegangen."
+    },
+    {
+      "id": "s2-t040",
+      "front": "Fuimos a tomar algo después (de eso).",
+      "back": "Wir sind danach etwas trinken gegangen."
+    },
+    {
+      "id": "s2-t041",
+      "front": "No puedes levantarte durante la comida.",
+      "back": "Während des Essens darfst du nicht aufstehen."
+    },
+    {
+      "id": "s2-t042",
+      "front": "Habrá menos autobuses durante la huelga.",
+      "back": "Während des Streiks wird es weniger Busse geben."
+    },
+    {
+      "id": "s2-t043",
+      "front": "No se puede fumar durante el vuelo.",
+      "back": "Man darf während des Flugs nicht rauchen."
+    },
+    {
+      "id": "s2-t044",
+      "front": "No pueden escribirse correos privados en horas de trabajo.",
+      "back": "Während der Arbeitszeit darf man keine privaten E-Mails schreiben."
+    },
+    {
+      "id": "s2-t045",
+      "front": "Suelo escuchar música de camino a casa.",
+      "back": "Während der Fahrt nach Hause höre ich meistens Musik."
+    },
+    {
+      "id": "s2-t046",
+      "front": "Debes estarte quieto durante la representación.",
+      "back": "Du sollst während der Vorstellung still sitzen."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Se quedó embarazada durante la carrera.",
+      "back": "Sie ist während des Studiums schwanger geworden."
+    },
+    {
+      "id": "s2-t048",
+      "front": "Estuve viviendo en casa durante la carrera.",
+      "back": "Ich habe während des Studiums zuhause gewohnt."
+    },
+    {
+      "id": "s2-t049",
+      "front": "Hubo menos autobuses durante la huelga.",
+      "back": "Während des Streiks gab es weniger Busse."
+    },
+    {
+      "id": "s2-t050",
+      "front": "Durante el viaje estuve durmiendo.",
+      "back": "Während der Fahrt habe ich geschlafen."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Me dormí durante la representación.",
+      "back": "Ich bin während der Vorstellung eingeschlafen."
+    },
+    {
+      "id": "s2-t052",
+      "front": "He hecho un curso de alemán durante las vacaciones.",
+      "back": "Ich habe während der Ferien einen Deutschkurs gemacht."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Él está cocinando. Mientras (tanto), ella está tumbada en el sofá.",
+      "back": "Er kocht gerade. Währenddessen liegt sie auf dem Sofa."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Estuve preparando la cena antes. Mientras (tanto), mi compañero de piso estaba escuchando música.",
+      "back": "Ich habe vorhin das Abendessen gemacht. Währenddessen hat mein Mitbewohner Musik gehört."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Antes estuve en la peluquería. Mientras (tanto) estuve leyendo revistas.",
+      "back": "Ich war vorhin beim Frisör. Ich habe währenddessen Zeitschriften gelesen."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Todavía tengo que hacer las maletas antes de que nos vayamos.",
+      "back": "Ich muss noch Koffer packen, bevor wir gehen."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Todavía tengo que preparar la mochila antes de que salgamos.",
+      "back": "Ich muss noch meinen Rucksack packen, bevor wir losfahren."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Antes de salir de casa tengo que hacer la maleta.",
+      "back": "Bevor ich aus dem Haus gehe, muss ich noch Koffer packen."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Avísame antes de empezar.",
+      "back": "Sag mir Bescheid, bevor du anfängst."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Avísanos antes de salir de casa.",
+      "back": "Sag uns Bescheid, bevor du aus dem Haus gehst."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Avíseme antes de empezar con ello.",
+      "back": "Sagen Sie mir Bescheid, bevor Sie damit anfangen."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Siempre me ducho antes de salir de casa.",
+      "back": "Ich dusche mich immer, bevor ich aus dem Haus gehe."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Siempre me ducho antes de desayunar.",
+      "back": "Ich dusche mich immer, bevor ich frühstücke."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Él siempre se ducha antes de salir por la noche.",
+      "back": "Er duscht sich immer, bevor er abends weggeht."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Me compré una guía de viaje antes de ir a Roma.",
+      "back": "Ich habe einen Reiseführer gekauft, bevor ich nach Rom gefahren bin."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Compré unas flores antes de ir a casa de mi madre.",
+      "back": "Ich habe Blumen gekauft, bevor ich zu meiner Mutter gefahren bin."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Compramos carne antes de ir a la barbacoa.",
+      "back": "Wir haben Fleisch gekauft, bevor wir zum Grillen gefahren sind."
+    },
+    {
+      "id": "s2-t068",
+      "front": "Le llamé (a él) antes de pasarme por su casa.",
+      "back": "Ich habe ihn angerufen, bevor ich bei ihm vorbeigegangen bin."
+    },
+    {
+      "id": "s2-t069",
+      "front": "La llamé (a ella) antes de pasarme por su casa.",
+      "back": "Ich habe sie angerufen, bevor ich bei ihr vorbeigegangen bin."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Él me llamó antes de pasarse por mi casa.",
+      "back": "Er hat mich angerufen, bevor er bei mir vorbeigekommen ist."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Llámame después de hablar con ella.",
+      "back": "Ruf mich an, nachdem du mit ihr geredet hast."
+    },
+    {
+      "id": "s2-t072",
+      "front": "Llámeme después de hablar con él.",
+      "back": "Rufen Sie mich an, nachdem Sie mit ihm geredet haben."
+    },
+    {
+      "id": "s2-t073",
+      "front": "Llame al Sr. Müller después de hablar con el cliente.",
+      "back": "Rufen Sie Herrn Müller an, nachdem Sie mit dem Kunden geredet haben."
+    },
+    {
+      "id": "s2-t074",
+      "front": "Puedes comer después de lavarte las manos.",
+      "back": "Du kannst essen, nachdem du die Hände gewaschen hast."
+    },
+    {
+      "id": "s2-t075",
+      "front": "Puedes comer después de terminar de hacer los deberes.",
+      "back": "Du kannst essen, nachdem du die Hausaufgaben fertig gemacht hast."
+    },
+    {
+      "id": "s2-t076",
+      "front": "Después de lavaros las manos, podéis comer.",
+      "back": "Nachdem ihr die Hände gewaschen habt, könnt ihr essen."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Sólo me puedo ir después de hacer las maletas.",
+      "back": "Ich kann erst los, nachdem ich die Koffer gepackt habe."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Sólo nos podemos ir después de preparar las mochilas.",
+      "back": "Wir können erst los, nachdem wir die Rucksäcke gepackt haben."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Sólo puedes irte después de preparar las bolsas.",
+      "back": "Nachdem du die Taschen gepackt hast, kannst du erst los."
+    },
+    {
+      "id": "s2-t080",
+      "front": "No puedo comer fruta después de haber bebido leche.",
+      "back": "Ich kann kein Obst essen, nachdem ich Milch getrunken habe."
+    },
+    {
+      "id": "s2-t081",
+      "front": "No puedo beber vino después de haber bebido cerveza.",
+      "back": "Ich kann keinen Wein trinken, nachdem ich Bier getrunken habe."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Después de haber bebido vino, no puedo beber cerveza.",
+      "back": "Nachdem ich Wein getrunken habe, kann ich kein Bier trinken."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Lo entenderás después de que te lo explique.",
+      "back": "Du wirst es verstehen, nachdem ich es dir erklärt habe."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Sólo lo entenderás después de que te lo hayan explicado.",
+      "back": "Du wirst es erst verstehen, nachdem man es dir erklärt hat."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Después de que te lo hayamos explicado, lo entenderás mejor.",
+      "back": "Nachdem wir es dir erklärt haben, wirst du es besser verstehen."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Siempre veo la televisión mientras plancho.",
+      "back": "Ich gucke immer Fernsehen, während ich bügele."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Siempre veo la televisión mientras cocino.",
+      "back": "Ich gucke immer Fernsehen, während ich koche."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Él suele ver la televisión mientras plancha.",
+      "back": "Während er bügelt, guckt er oft Fernsehen."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Estuve viendo la televisión mientras los niños hacían los deberes.",
+      "back": "Ich habe Fernsehen geguckt, während die Kinder die Hausaufgaben gemacht haben."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Estuve viendo la televisión mientras él leía el periódico.",
+      "back": "Ich habe Fernsehen geguckt, während er die Zeitung gelesen hat."
+    },
+    {
+      "id": "s2-t091",
+      "front": "Mientras yo estaba limpiando el piso, ella estaba viendo la televisión.",
+      "back": "Während ich die Wohnung geputzt habe, hat sie Fernsehen geguckt."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Estuve trabajando mientras iba a la universidad.",
+      "back": "Ich habe gearbeitet, während ich an der Uni war."
+    },
+    {
+      "id": "s2-t093",
+      "front": "Estuve trabajando a tiempo parcial mientras estudiaba la carrera.",
+      "back": "Ich habe Teilzeit gearbeitet, während ich studiert habe."
+    },
+    {
+      "id": "s2-t094",
+      "front": "Él estuvo trabajando a tiempo parcial mientras estudiaba la carrera.",
+      "back": "Während er studiert hat, hat er Teilzeit gearbeitet."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Estuve escuchando música mientras escribía algunos correos.",
+      "back": "Ich habe Musik gehört, während ich ein paar E-Mails geschrieben habe."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Estuve escuchando la radio mientras limpiaba el piso.",
+      "back": "Ich habe Radio gehört, während ich die Wohnung geputzt habe."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Mientras limpiaba el coche escuchaba música.",
+      "back": "Während ich das Auto geputzt habe, habe ich Musik gehört."
+    },
+    {
+      "id": "s2-t098",
+      "front": "Estuve durmiendo mientras mi hijo hacía los deberes.",
+      "back": "Ich habe geschlafen, während mein Sohn die Hausaufgaben gemacht hat."
+    },
+    {
+      "id": "s2-t099",
+      "front": "Estuve durmiendo mientras mi marido preparaba la comida.",
+      "back": "Ich habe geschlafen, während mein Mann das Mittagessen gemacht hat."
+    },
+    {
+      "id": "s2-t100",
+      "front": "Estaba durmiendo mientras mi compañero de piso estudiaba.",
+      "back": "Während mein Mitbewohner gelernt hat, habe ich geschlafen."
+    },
+    {
+      "id": "s2-t101",
+      "front": "Te acompaño en el sentimiento.",
+      "back": "Mein Beileid."
+    },
+    {
+      "id": "s2-t102",
+      "front": "Mi más sentido pésame.",
+      "back": "Mein herzliches Beileid."
+    },
+    {
+      "id": "s2-t103",
+      "front": "¡Precaución, placas de hielo!",
+      "back": "Vorsicht Glatteis!"
+    },
+    {
+      "id": "s2-t104",
+      "front": "¡Cuidado!",
+      "back": "Vorsicht!"
+    },
+    {
+      "id": "s2-t105",
+      "front": "Buenos días, queremos alquilar un coche.",
+      "back": "Guten Morgen, wir möchten ein Auto mieten."
+    },
+    {
+      "id": "s2-t106",
+      "front": "¿Para cuánto tiempo?",
+      "back": "Für wie lange?"
+    },
+    {
+      "id": "s2-t107",
+      "front": "Para una semana.",
+      "back": "Für eine Woche."
+    },
+    {
+      "id": "s2-t108",
+      "front": "Tenemos una oferta para una semana: un coche de gama media por 250€ con seguro a todo riesgo incluido.",
+      "back": "Wir haben ein Angebot für eine Woche: ein Mittelklassewagen für 250€ inklusive Vollkasko."
+    },
+    {
+      "id": "s2-t109",
+      "front": "¿Tiene aire acondicionado el coche?",
+      "back": "Hat der Wagen eine Klimaanlage?"
+    },
+    {
+      "id": "s2-t110",
+      "front": "Sí, y también un navegador.",
+      "back": "Ja, und auch ein Navigationsgerät."
+    },
+    {
+      "id": "s2-t111",
+      "front": "Bien, entonces cogemos esta oferta.",
+      "back": "Gut, dann nehmen wir das Angebot."
+    },
+    {
+      "id": "s2-t112",
+      "front": "¿Lo quieren devolver aquí?",
+      "back": "Wollen Sie es hier wieder abgeben?"
+    },
+    {
+      "id": "s2-t113",
+      "front": "No, en Frankfurt, en el aeropuerto.",
+      "back": "Nein, in Frankfurt am Flughafen."
+    },
+    {
+      "id": "s2-t114",
+      "front": "El depósito está lleno y el coche se tiene que devolver con el depósito lleno.",
+      "back": "Der Tank ist voll und das Auto muss mit vollem Tank wieder abgegeben werden."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué significan davor y danach y qué tipo de palabras son?",
+      "back": "Son adverbios: davor = «antes (de eso)», danach = «después (de eso)». Se refieren a algo ya mencionado. Suelen ir al principio (invirtiendo sujeto y verbo: Davor gehe ich...) o tras el verbo (Ich gehe davor...)."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Qué adverbio es sinónimo de davor?",
+      "back": "vorher (antes de eso). Ej.: Vorher habe ich gefrühstückt. = Antes (de eso) desayuné."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Cómo se forma el futuro con werden?",
+      "back": "werden conjugado + infinitivo al final. Ej.: Davor werde ich sie anrufen. = Antes la llamaré."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Con qué auxiliar forman el Perfekt los verbos de movimiento como gehen?",
+      "back": "Con sein + participio. Ej.: Davor ist er einkaufen gegangen. = Antes fue a hacer la compra."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué preposición es während y qué caso rige?",
+      "back": "während = «durante», rige GENITIVO. Masc./neutro añaden -s: während des Essens, während des Studiums. Fem./plural: während der Fahrt, während der Ferien."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Cómo se expresa «no se puede / no puedes» (permiso)?",
+      "back": "Con dürfen: Während des Essens darfst du nicht aufstehen. (dürfen = tener permiso para algo)."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Qué significa währenddessen y cómo se pronuncia?",
+      "back": "«mientras tanto» (adverbio). La primera d suena como t fuerte. Al principio de frase invierte sujeto y verbo: Währenddessen liegt sie auf dem Sofa."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Qué diferencia hay entre bevor y davor/vorher?",
+      "back": "bevor es CONJUNCIÓN («antes de que») e introduce una subordinada con el verbo al final: ..., bevor wir gehen. davor/vorher son adverbios."
+    },
+    {
+      "id": "s2-g009",
+      "front": "En una subordinada con bevor/nachdem, ¿qué pasa con los verbos separables?",
+      "back": "El prefijo se reúne con el verbo, que va conjugado al final: ..., bevor du anfängst. (anfangen)."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Qué significa nachdem y cómo funciona?",
+      "back": "CONJUNCIÓN «después de que». Introduce una subordinada con el verbo (normalmente en Perfekt) al final: Ruf mich an, nachdem du mit ihr gesprochen hast."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Cuál es la diferencia entre während preposición y während conjunción?",
+      "back": "Preposición + genitivo = «durante» (während des Studiums). Conjunción = «mientras (que)», introduce subordinada con verbo al final: ..., während ich meine Hausaufgaben mache."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Cómo se dice «ver la tele» coloquialmente?",
+      "back": "Fernsehen gucken (también fernsehen o Fernsehen schauen). Participio: geguckt."
+    },
+    {
+      "id": "s2-g013",
+      "front": "¿Qué significa Teilzeit arbeiten?",
+      "back": "Trabajar a tiempo parcial. die Teilzeitstelle / der Teilzeitjob = trabajo a tiempo parcial (temporal)."
+    },
+    {
+      "id": "s2-g014",
+      "front": "Participios (Partizip II) clave del libro",
+      "back": "vorbereiten→vorbereitet, einschlafen→eingeschlafen, bügeln→gebügelt, schlafen→geschlafen, packen→gepackt, gucken→geguckt, lernen→gelernt, putzen→geputzt, reden→geredet, waschen→gewaschen, arbeiten→gearbeitet, studieren→studiert, trinken→getrunken."
+    },
+    {
+      "id": "s2-g015",
+      "front": "Plurales irregulares del «infierno»",
+      "back": "der Rucksack→die Rucksäcke, der Koffer→die Koffer, der Bus→die Busse, die Hand→die Hände, der Freund→die Freunde, die E-Mail→die E-Mails, die Nachricht→die Nachrichten, die Zeitschrift→die Zeitschriften, die Hausaufgabe→die Hausaufgaben. Ferien = solo plural (vacaciones)."
+    },
+    {
+      "id": "s2-g016",
+      "front": "Sustantivos masculinos (DER) del repaso",
+      "back": "der Streik (huelga), der Flug (vuelo), der Rucksack (mochila), der Reiseführer (guía de viaje), der Mitbewohner (compañero de piso), der Bahnhof (estación), der Deutschkurs (curso de alemán), der Frisör (peluquero), der Kunde (cliente), der Wein (vino)."
+    },
+    {
+      "id": "s2-g017",
+      "front": "Sustantivos femeninos (DIE) del repaso",
+      "back": "die Arbeitszeit (horas de trabajo), die Fahrt (viaje), die Teilzeit (tiempo parcial), die Zeitung (periódico), die Vorstellung (representación), die Musik (música), die Milch (leche), die Wohnung (piso)."
+    },
+    {
+      "id": "s2-g018",
+      "front": "Sustantivos neutros (DAS) del repaso",
+      "back": "das Studium (carrera), das Mittagessen (comida), das Frühstück (desayuno), das Bier (cerveza), das Büro (oficina), das Sofa (sofá), das Abendessen (cena), das Fleisch (carne), das Obst (fruta), das Fernsehen (televisión), das Radio (radio)."
+    },
+    {
+      "id": "s2-g019",
+      "front": "¿Qué ciudad visitamos en este libro?",
+      "back": "Mönchengladbach, la mayor ciudad del Bajo Rin (Niederrhein), 259.000 habitantes, en Renania del Norte-Westfalia. Famoso: Heinz-Harald Frentzen, piloto de Fórmula 1. Museo de arte contemporáneo Abteiberg; club Borussia Mönchengladbach."
+    },
+    {
+      "id": "s2-g020",
+      "front": "¡Típico! El pan integral (Vollkornbrot)",
+      "back": "Alemania destaca por su variedad de panes: Schwarzbrot (pan negro), Roggenbrot (pan de centeno), con Sonnenblumenkerne (pipas de girasol) o Kürbiskerne (pipas de calabaza). Existe el Museum der Brotkultur (museo de la cultura del pan) en Ulm."
+    },
+    {
+      "id": "s2-g021",
+      "front": "Vocabulario de la oficina de alquiler de coches (Autovermietung)",
+      "back": "der Mittelklassewagen (coche de gama media), inklusive (incluido), die Vollkasko (seguro a todo riesgo), das Navigationsgerät / das Navi (navegador), die Klimaanlage (aire acondicionado), abgeben (entregar/devolver), der Tank (depósito), die Tankstelle (gasolinera), mit vollem Tank (con el depósito lleno)."
+    }
+  ]
+}

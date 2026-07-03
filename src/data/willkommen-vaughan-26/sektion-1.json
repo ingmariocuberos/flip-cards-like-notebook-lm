@@ -1,0 +1,679 @@
+{
+  "bookId": "willkommen-vaughan-26",
+  "bookTitle": "Buch 26",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: werden — volverse / convertirse / ponerse / llegar a ser (presente / Präteritum wurde / Perfekt geworden; werden + zu; immer + adjetivo)",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Me pongo rojo cuando bebo vino.",
+      "back": "Ich werde rot, wenn ich Wein trinke."
+    },
+    {
+      "id": "s1-t002",
+      "front": "Él se puso rojo cuando me vio.",
+      "back": "Er wurde rot, als er mich gesehen hat."
+    },
+    {
+      "id": "s1-t003",
+      "front": "Me puse rojo cuando me preguntó.",
+      "back": "Ich bin rot geworden, als er mich gefragt hat."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Me pongo triste cuando pienso en mi abuela.",
+      "back": "Ich werde traurig, wenn ich an meine Oma denke."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Ella se puso triste cuando me vio en el hospital.",
+      "back": "Sie wurde traurig, als sie mich im Krankenhaus gesehen hat."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Él se puso triste al verla en el hospital.",
+      "back": "Er ist traurig geworden, als er sie im Krankenhaus gesehen hat."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Pronto oscurecerá. Tengo que irme a casa.",
+      "back": "Es wird bald dunkel. Ich muss nach Hause."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Me tuve que ir a casa cuando oscureció.",
+      "back": "Ich musste nach Hause, als es dunkel wurde."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Ya ha oscurecido. Vámonos.",
+      "back": "Es ist schon dunkel geworden. Lass uns gehen."
+    },
+    {
+      "id": "s1-t010",
+      "front": "¡Me voy a volver loco!",
+      "back": "Ich werde noch verrückt!"
+    },
+    {
+      "id": "s1-t011",
+      "front": "¡Te has vuelto loco!",
+      "back": "Du bist verrückt geworden!"
+    },
+    {
+      "id": "s1-t012",
+      "front": "¡Te has vuelto completamente loco!",
+      "back": "Du bist ja total verrückt geworden!"
+    },
+    {
+      "id": "s1-t013",
+      "front": "Quiero quedarme embarazada.",
+      "back": "Ich will schwanger werden."
+    },
+    {
+      "id": "s1-t014",
+      "front": "Se quedó embarazada a los veintidós años.",
+      "back": "Sie wurde mit zweiundzwanzig (Jahren) schwanger."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Me quedé embarazada a los dieciocho.",
+      "back": "Ich bin mit achtzehn (Jahren) schwanger geworden."
+    },
+    {
+      "id": "s1-t016",
+      "front": "¡No te preocupes!",
+      "back": "Mach dir keine Sorgen!"
+    },
+    {
+      "id": "s1-t017",
+      "front": "Vado permanente. Salida de vehículos.",
+      "back": "Ausfahrt freihalten."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Cada vez estaba más oscuro.",
+      "back": "Es wurde immer dunkler."
+    },
+    {
+      "id": "s1-t019",
+      "front": "Ella se puso cada vez más triste.",
+      "back": "Sie wurde immer trauriger."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Me puse cada vez más roja.",
+      "back": "Ich wurde immer röter."
+    },
+    {
+      "id": "s1-t021",
+      "front": "Se enfadó cada vez más.",
+      "back": "Er wurde immer saurer."
+    },
+    {
+      "id": "s1-t022",
+      "front": "Quiero ser rico.",
+      "back": "Ich will reich werden."
+    },
+    {
+      "id": "s1-t023",
+      "front": "Ella se hizo rica con su idea.",
+      "back": "Sie wurde mit ihrer Idee reich."
+    },
+    {
+      "id": "s1-t024",
+      "front": "Él se ha hecho rico con su idea.",
+      "back": "Er ist mit seiner Idee reich geworden."
+    },
+    {
+      "id": "s1-t025",
+      "front": "Quiero ser rico y famoso.",
+      "back": "Ich will reich und berühmt werden."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Él se hizo famoso con esta canción.",
+      "back": "Er wurde mit diesem Lied berühmt."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Ella se ha hecho famosa con este disco.",
+      "back": "Sie ist mit diesem Album berühmt geworden."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Va cada vez peor.",
+      "back": "Es wird immer schlechter."
+    },
+    {
+      "id": "s1-t029",
+      "front": "La relación empeoró con el tiempo.",
+      "back": "Die Beziehung wurde mit der Zeit schlechter."
+    },
+    {
+      "id": "s1-t030",
+      "front": "Con el tiempo, la relación ha ido a peor.",
+      "back": "Mit der Zeit ist die Beziehung immer schlechter geworden."
+    },
+    {
+      "id": "s1-t031",
+      "front": "Va cada vez mejor.",
+      "back": "Es wird immer besser."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Su estado fue mejorando.",
+      "back": "Sein Zustand wurde immer besser."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Su estado ha ido mejorando con el tiempo.",
+      "back": "Mit der Zeit ist ihr Zustand besser geworden."
+    },
+    {
+      "id": "s1-t034",
+      "front": "Mi madre se enfada si llego tarde a casa.",
+      "back": "Meine Mutter wird böse, wenn ich spät nach Hause komme."
+    },
+    {
+      "id": "s1-t035",
+      "front": "Él se enfadó cuando se lo dije.",
+      "back": "Er wurde böse, als ich es ihm gesagt habe."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Me enfadé cuando la vi.",
+      "back": "Ich bin böse geworden, als ich sie gesehen habe."
+    },
+    {
+      "id": "s1-t037",
+      "front": "No quiero envejecer.",
+      "back": "Ich will nicht alt werden."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Mis abuelos han envejecido juntos.",
+      "back": "Meine Großeltern sind zusammen alt geworden."
+    },
+    {
+      "id": "s1-t039",
+      "front": "Mi madre se ha hecho mayor.",
+      "back": "Meine Mutter ist älter geworden."
+    },
+    {
+      "id": "s1-t040",
+      "front": "Hace frío cuando se abre la ventana.",
+      "back": "Es wird kalt, wenn man das Fenster aufmacht."
+    },
+    {
+      "id": "s1-t041",
+      "front": "Ha refrescado. Vámonos a casa.",
+      "back": "Es ist kälter geworden. Lass uns nach Hause gehen."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Ha refrescado. Vamos adentro.",
+      "back": "Es ist kalt geworden. Lass uns reingehen."
+    },
+    {
+      "id": "s1-t043",
+      "front": "La leche se estropea rápido cuando no está en el frigorífico.",
+      "back": "Milch wird schnell schlecht, wenn sie nicht im Kühlschrank ist."
+    },
+    {
+      "id": "s1-t044",
+      "front": "El yogur se ha estropeado.",
+      "back": "Der Joghurt ist schlecht geworden."
+    },
+    {
+      "id": "s1-t045",
+      "front": "La mantequilla se ha estropeado porque estaba fuera.",
+      "back": "Die Butter ist schlecht geworden, weil sie draußen war."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Si llueve se va a mojar la ropa de fuera.",
+      "back": "Die Wäsche wird draußen nass, wenn es regnet."
+    },
+    {
+      "id": "s1-t047",
+      "front": "La ropa se mojó porque estaba fuera.",
+      "back": "Die Wäsche wurde nass, weil sie draußen war."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Mis zapatos se han empapado.",
+      "back": "Meine Schuhe sind total nass geworden."
+    },
+    {
+      "id": "s1-t049",
+      "front": "No quiero quedarme en paro.",
+      "back": "Ich will nicht arbeitslos werden."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Él se quedó en paro después del accidente.",
+      "back": "Er wurde nach dem Unfall arbeitslos."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Ella se quedó en paro después del accidente de coche.",
+      "back": "Sie ist nach dem Autounfall arbeitslos geworden."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Buenos días, querría ir a Colonia.",
+      "back": "Guten Tag, ich möchte nach Köln fahren."
+    },
+    {
+      "id": "s1-t053",
+      "front": "¿Hoy mismo?",
+      "back": "Heute noch?"
+    },
+    {
+      "id": "s1-t054",
+      "front": "Sí, en el próximo tren directo.",
+      "back": "Ja, mit dem nächsten durchgehenden Zug."
+    },
+    {
+      "id": "s1-t055",
+      "front": "La próxima conexión a Colonia sin transbordo es con el ICE de Múnich de las 17:50 h.",
+      "back": "Die nächste Zugverbindung nach Köln ohne Umsteigen ist mit dem ICE nach München um 17:50 h."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Faltan sólo diez minutos. ¿De qué andén sale el tren?",
+      "back": "Das ist schon in zehn Minuten. Auf welchem Bahnsteig fährt der Zug ab?"
+    },
+    {
+      "id": "s1-t057",
+      "front": "Del andén 15. ¿Le saco el billete?",
+      "back": "Ab Gleis 15. Soll ich Ihnen einen Fahrschein ausstellen?"
+    },
+    {
+      "id": "s1-t058",
+      "front": "Sí, por favor, con reserva de asiento. ¿Cuánto cuesta el ticket?",
+      "back": "Ja bitte, mit Sitzplatzreservierung. Was kostet die Fahrkarte?"
+    },
+    {
+      "id": "s1-t059",
+      "front": "Son 71 €, por favor. ¿En efectivo o con tarjeta?",
+      "back": "Macht 71 €, bitte. Bar, oder mit Karte?"
+    },
+    {
+      "id": "s1-t060",
+      "front": "Pago en efectivo.",
+      "back": "Ich zahle bar."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Aquí tiene su billete. Buen viaje.",
+      "back": "Hier, Ihr Fahrschein. Gute Reise."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Quiero ser actor.",
+      "back": "Ich will Schauspieler werden."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Quiero ser bombero.",
+      "back": "Ich will Feuerwehrmann werden."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Quiero ser cantante.",
+      "back": "Ich will Sängerin werden."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Quiero ser piloto cuando sea mayor.",
+      "back": "Ich will Pilot werden, wenn ich groß bin."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Quiero ser un actor famoso cuando sea mayor.",
+      "back": "Ich will ein berühmter Schauspieler werden, wenn ich groß bin."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Él quiere ser cantante cuando sea mayor.",
+      "back": "Er will Sänger werden, wenn er groß ist."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Cuando sea mayor quiero ser veterinaria.",
+      "back": "Wenn ich groß bin, will ich Tierärztin werden."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Cuando sea mayor quiero ser policía.",
+      "back": "Wenn ich groß bin, will ich Polizist werden."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Cuando sea mayor, él quiere ser actor.",
+      "back": "Wenn er groß ist, will er Schauspieler werden."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Él fue padre a los veintiuno.",
+      "back": "Er ist mit einundzwanzig Vater geworden."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Mi hermana fue madre a los veintinueve.",
+      "back": "Meine Schwester ist mit neunundzwanzig Mutter geworden."
+    },
+    {
+      "id": "s1-t073",
+      "front": "He sido abuela a los sesenta.",
+      "back": "Ich bin mit sechzig Großmutter geworden."
+    },
+    {
+      "id": "s1-t074",
+      "front": "La semana que viene cumplo veinticinco.",
+      "back": "Ich werde nächste Woche fünfundzwanzig (Jahre alt)."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Mi hijo cumple dos años mañana.",
+      "back": "Mein Sohn wird morgen zwei (Jahre alt)."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Ayer cumplí cuarenta y seis años.",
+      "back": "Ich bin gestern sechsundvierzig (Jahre alt) geworden."
+    },
+    {
+      "id": "s1-t077",
+      "front": "El agua se convierte en hielo cuando se congela.",
+      "back": "Wasser wird zu Eis, wenn es gefriert."
+    },
+    {
+      "id": "s1-t078",
+      "front": "El agua se convierte en vapor cuando hierve.",
+      "back": "Wasser wird zu Dampf, wenn man es kocht."
+    },
+    {
+      "id": "s1-t079",
+      "front": "El agua no se convierte en hielo cuando hierve.",
+      "back": "Wasser wird nicht zu Eis, wenn man es kocht."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Se va a convertir en un problema.",
+      "back": "Es wird zu einem Problem."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Él se ha convertido en un problema.",
+      "back": "Er ist zu einem Problem geworden."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Este asunto se ha convertido en un problema serio.",
+      "back": "Diese Angelegenheit ist zu einem ernsten Problem geworden."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Puede convertirse en un problema.",
+      "back": "Es kann zu einem Problem werden."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Todo este asunto puede convertirse en un problema serio.",
+      "back": "Die ganze Sache kann zu einem ernsten Problem werden."
+    },
+    {
+      "id": "s1-t085",
+      "front": "El desempleo puede convertirse en un serio problema social.",
+      "back": "Arbeitslosigkeit kann zu einem ernsten sozialen Problem werden."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Las vacaciones se convirtieron en una pesadilla.",
+      "back": "Der Urlaub wurde zu einem Alptraum."
+    },
+    {
+      "id": "s1-t087",
+      "front": "La conversación se convirtió en una pelea.",
+      "back": "Das Gespräch wurde zu einem Streit."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Todo esto se ha convertido en una broma.",
+      "back": "Das Ganze ist zu einem Witz geworden."
+    },
+    {
+      "id": "s1-t089",
+      "front": "El príncipe se convirtió en rana.",
+      "back": "Der Prinz wurde zu einem Frosch."
+    },
+    {
+      "id": "s1-t090",
+      "front": "La rana se convirtió en príncipe.",
+      "back": "Der Frosch wurde zu einem Prinzen."
+    },
+    {
+      "id": "s1-t091",
+      "front": "La princesa se convirtió en reina.",
+      "back": "Die Prinzessin ist zu einer Königin geworden."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Todo saldrá bien.",
+      "back": "Alles wird gut."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Este verano va a hacer mucho calor.",
+      "back": "Dieser Sommer wird heiß (werden)."
+    },
+    {
+      "id": "s1-t094",
+      "front": "Este invierno va a ser suave.",
+      "back": "Dieser Winter wird mild (werden)."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Este fin de semana va a hacer buen tiempo.",
+      "back": "Das Wetter wird dieses Wochenende schön (werden)."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Será un éxito.",
+      "back": "Es wird ein Erfolg (werden)."
+    },
+    {
+      "id": "s1-t097",
+      "front": "La inauguración será un éxito rotundo.",
+      "back": "Die Eröffnung wird ein voller Erfolg (werden)."
+    },
+    {
+      "id": "s1-t098",
+      "front": "La presentación será un gran éxito.",
+      "back": "Die Präsentation wird ein großer Erfolg werden!"
+    },
+    {
+      "id": "s1-t099",
+      "front": "Seguro que la exposición será un gran éxito.",
+      "back": "Die Ausstellung wird sicher ein großer Erfolg (werden)."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Seguro que la fiesta será divertida.",
+      "back": "Die Feier wird sicher lustig (werden)."
+    },
+    {
+      "id": "s1-t101",
+      "front": "Seguro que el debate será interesante.",
+      "back": "Die Debatte wird sicher interessant (werden)."
+    },
+    {
+      "id": "s1-t102",
+      "front": "Las vacaciones van a ser geniales.",
+      "back": "Der Urlaub wird super (werden)!"
+    },
+    {
+      "id": "s1-t103",
+      "front": "Las vacaciones con mis suegros van a ser terribles.",
+      "back": "Der Urlaub mit meinen Schwiegereltern wird furchtbar (werden)."
+    },
+    {
+      "id": "s1-t104",
+      "front": "Seguro que las vacaciones serán geniales.",
+      "back": "Der Urlaub wird sicher toll (werden)!"
+    },
+    {
+      "id": "s1-t105",
+      "front": "La tarta ha quedado bien.",
+      "back": "Der Kuchen ist gut geworden."
+    },
+    {
+      "id": "s1-t106",
+      "front": "La foto ha quedado bonita.",
+      "back": "Das Bild ist schön geworden."
+    },
+    {
+      "id": "s1-t107",
+      "front": "Vuestro piso ha quedado genial.",
+      "back": "Eure Wohnung ist toll geworden."
+    },
+    {
+      "id": "s1-t108",
+      "front": "... cuando sea mayor.",
+      "back": "..., wenn ich groß bin."
+    },
+    {
+      "id": "s1-t109",
+      "front": "¡Fantástico! Son las 19:50.",
+      "back": "Toll! Es ist neunzehn Uhr fünfzig."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué significa \"werden\" como verbo pleno (no auxiliar)?",
+      "back": "Describe un proceso o cambio de estado. En español se traduce por ponerse, volverse, convertirse, quedarse, hacerse, llegar a ser o resultar, según el contexto."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Cómo se conjuga \"werden\" en presente?",
+      "back": "ich werde, du wirst, er/sie/es wird, wir werden, ihr werdet, sie/Sie werden."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Cómo se conjuga \"werden\" en pasado simple (Präteritum)?",
+      "back": "ich wurde, du wurdest, er/sie/es wurde, wir wurden, ihr wurdet, sie/Sie wurden."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Cómo se conjuga \"werden\" en pasado compuesto (Perfekt)?",
+      "back": "Con auxiliar sein + participio \"geworden\": ich bin geworden, du bist geworden, er/sie/es ist geworden, wir sind geworden, ihr seid geworden, sie/Sie sind geworden."
+    },
+    {
+      "id": "s1-g005",
+      "front": "Con \"werden\", ¿pasado simple o pasado compuesto?",
+      "back": "Salvo contadas excepciones son intercambiables: \"Sie wurde\" = \"Sie ist geworden\"."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿\"wenn\" o \"als\" en la subordinada?",
+      "back": "\"als\" = un momento puntual del pasado que no se repetirá; \"wenn\" = acciones que se repiten y el futuro (cuando también cabe decir 'siempre y cuando')."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Dónde va el verbo en la subordinada?",
+      "back": "El verbo conjugado va al final. En Perfekt, el participio cede su sitio al auxiliar: \"..., als er mich gesehen hat\"."
+    },
+    {
+      "id": "s1-g008",
+      "front": "Estructura \"werden + zu + dativo\"",
+      "back": "Expresa 'convertirse en' (transformación total/física): \"Wasser wird zu Eis\". La preposición \"zu\" rige dativo (zu einem / zu einer)."
+    },
+    {
+      "id": "s1-g009",
+      "front": "werden con personas: ¿con o sin \"zu\"?",
+      "back": "Sin \"zu\" para oficios/roles: \"Mutter werden\", \"Schauspieler werden\". Con \"zu\" para una transformación total: \"zu einem Frosch werden\"."
+    },
+    {
+      "id": "s1-g010",
+      "front": "Estructura \"immer + comparativo\"",
+      "back": "Significa 'cada vez más...': immer schlechter (cada vez peor), immer besser (cada vez mejor), immer röter (cada vez más rojo)."
+    },
+    {
+      "id": "s1-g011",
+      "front": "Comparativos irregulares de esta Sektion",
+      "back": "dunkel→dunkler y sauer→saurer pierden una \"e\"; rot→röter, alt→älter, kalt→kälter añaden Umlaut."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Qué caso rige \"werden\"?",
+      "back": "Nominativo, como \"sein\" y \"bleiben\": \"Der Urlaub wird super\"."
+    },
+    {
+      "id": "s1-g013",
+      "front": "¿Cómo se forma el futuro con \"werden\"?",
+      "back": "Auxiliar \"werden\" + infinitivo. Si el verbo principal también es \"werden\", se suele omitir uno: \"Die Debatte wird sicher interessant (werden)\"."
+    },
+    {
+      "id": "s1-g014",
+      "front": "Expresar la edad con \"mit\"",
+      "back": "\"mit\" + edad = 'a los X años': \"mit zweiundzwanzig (Jahren)\". \"mit\" rige dativo y \"Jahren\" acaba en -n (dativo plural)."
+    },
+    {
+      "id": "s1-g015",
+      "front": "Adjetivos con el sufijo \"-bar\"",
+      "back": "Equivalen a los acabados en '-ble': essbar (comestible), lesbar (legible), furchtbar (terrible)."
+    },
+    {
+      "id": "s1-g016",
+      "front": "Palabras compuestas en alemán",
+      "back": "Se juntan en una sola: \"der Autounfall\" (accidente de coche), no \"der Unfall von Auto\"."
+    },
+    {
+      "id": "s1-g017",
+      "front": "reingehen / rausgehen",
+      "back": "Verbos separables: \"rein\" = hacia adentro, \"raus\" = hacia afuera (con movimiento). \"drinnen\"/\"draußen\" = dentro/fuera (sin movimiento)."
+    },
+    {
+      "id": "s1-g018",
+      "front": "das Umsteigen / ohne Umsteigen",
+      "back": "'(el) transbordo' / 'sin transbordo'. \"Umsteigen\" es un verbo sustantivado."
+    },
+    {
+      "id": "s1-g019",
+      "front": "der Bahnsteig / das Gleis",
+      "back": "Ambos = 'andén' (sinónimos). \"ab Gleis 15\" = 'del andén 15'."
+    },
+    {
+      "id": "s1-g020",
+      "front": "die Fahrkarte / der Fahrschein",
+      "back": "Ambos = 'billete/ticket' (sinónimos). \"ausstellen\" = expedir / sacar (un billete)."
+    },
+    {
+      "id": "s1-g021",
+      "front": "Esta vez visitamos... Erfurt",
+      "back": "Capital y ciudad más grande de Turingia (Bundesland Thüringen), con unos 206.000 habitantes."
+    },
+    {
+      "id": "s1-g022",
+      "front": "Alemán famoso: Max Weber",
+      "back": "Filósofo, economista y sociólogo alemán, nacido en 1864."
+    },
+    {
+      "id": "s1-g023",
+      "front": "Plural de \"die Beziehung\"",
+      "back": "die Beziehungen. Los sustantivos acabados en \"-ung\" son femeninos."
+    },
+    {
+      "id": "s1-g024",
+      "front": "Hora digital (formato 24h)",
+      "back": "hora + \"Uhr\" + minutos: \"Es ist neunzehn Uhr fünfzig\" = Son las 19:50."
+    },
+    {
+      "id": "s1-g025",
+      "front": "Vocabulario clave: estado / asunto",
+      "back": "der Zustand = estado; die Angelegenheit = asunto; die Sache = cosa/asunto; \"die ganze Sache\" = todo este asunto."
+    }
+  ]
+}
