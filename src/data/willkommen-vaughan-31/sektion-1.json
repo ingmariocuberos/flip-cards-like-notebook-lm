@@ -1,0 +1,679 @@
+{
+  "bookId": "willkommen-vaughan-31",
+  "bookTitle": "Buch 31",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: indefinidos con irgend- (irgendwie/wo/wann/etwas/ein/welche/jemand)",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Eso da igual",
+      "back": "Das ist egal"
+    },
+    {
+      "id": "s1-t002",
+      "front": "Da igual (a secas)",
+      "back": "Ist egal"
+    },
+    {
+      "id": "s1-t003",
+      "front": "Conseguiré el dinero como sea.",
+      "back": "Ich werde irgendwie das Geld besorgen."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Me siento algo raro.",
+      "back": "Ich fühle mich irgendwie komisch."
+    },
+    {
+      "id": "s1-t005",
+      "front": "El tipo es algo raro.",
+      "back": "Der Typ ist irgendwie komisch."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Hoy me siento algo raro.",
+      "back": "Irgendwie fühle ich mich heute komisch."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Tengo que llegar al aeropuerto de algún modo.",
+      "back": "Ich muss irgendwie zum Flughafen kommen."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Tengo que conseguirlo de algún modo.",
+      "back": "Ich muss es irgendwie schaffen."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Tenemos que conseguirlo de algún modo.",
+      "back": "Wir müssen es irgendwie schaffen."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Lo conseguiré de alguna manera.",
+      "back": "Ich werde es irgendwie schaffen."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Lo conseguiremos de alguna manera.",
+      "back": "Irgendwie werden wir das schaffen."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Conseguiré el dinero de alguna manera.",
+      "back": "Irgendwie werde ich das Geld besorgen."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Ya lo conseguiré como sea.",
+      "back": "Ich werde es schon irgendwie schaffen."
+    },
+    {
+      "id": "s1-t014",
+      "front": "Ya conseguiremos el dinero como sea.",
+      "back": "Wir werden schon irgendwie das Geld besorgen."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Ya lo conseguiré como sea (el dinero).",
+      "back": "Irgendwie werde ich es schon besorgen."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Eso me suena de algo.",
+      "back": "Das kommt mir irgendwie bekannt vor."
+    },
+    {
+      "id": "s1-t017",
+      "front": "El tío me suena de algo.",
+      "back": "Der Typ kommt mir irgendwie bekannt vor."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Esta canción me suena de algo.",
+      "back": "Dieses Lied kommt mir irgendwie bekannt vor."
+    },
+    {
+      "id": "s1-t019",
+      "front": "¡Cuidado con el escalón! (letrero)",
+      "back": "Vorsicht Stufe!"
+    },
+    {
+      "id": "s1-t020",
+      "front": "¿Hay algún banco por aquí?",
+      "back": "Gibt es hier irgendwo eine Bank?"
+    },
+    {
+      "id": "s1-t021",
+      "front": "¿Hay algún cajero automático por aquí?",
+      "back": "Gibt es hier irgendwo einen Geldautomaten?"
+    },
+    {
+      "id": "s1-t022",
+      "front": "¿Hay servicios por aquí?",
+      "back": "Gibt es hier irgendwo eine Toilette?"
+    },
+    {
+      "id": "s1-t023",
+      "front": "Lo he perdido por alguna parte.",
+      "back": "Ich habe es irgendwo verloren."
+    },
+    {
+      "id": "s1-t024",
+      "front": "Ella ha perdido las llaves por aquí en alguna parte.",
+      "back": "Sie hat ihren Schlüssel irgendwo hier verloren."
+    },
+    {
+      "id": "s1-t025",
+      "front": "He perdido mi bolso en alguna parte del tren.",
+      "back": "Ich habe meine Tasche irgendwo im Zug verloren."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Ya he visto antes a esa mujer en alguna parte.",
+      "back": "Ich habe die Frau schon mal irgendwo gesehen."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Ya la he visto antes en alguna parte.",
+      "back": "Ich habe sie schon mal irgendwo gesehen."
+    },
+    {
+      "id": "s1-t028",
+      "front": "No sé dónde, pero ya le he visto antes en alguna parte.",
+      "back": "Ich weiß nicht wo, aber ich habe ihn schon mal irgendwo gesehen."
+    },
+    {
+      "id": "s1-t029",
+      "front": "¿Has visto mis llaves por alguna parte?",
+      "back": "Hast du meinen Schlüssel irgendwo gesehen?"
+    },
+    {
+      "id": "s1-t030",
+      "front": "¿Ha visto usted el expediente por alguna parte?",
+      "back": "Haben Sie die Akte irgendwo gesehen?"
+    },
+    {
+      "id": "s1-t031",
+      "front": "¿Has visto mi bolso por alguna parte?",
+      "back": "Hast du meine Handtasche irgendwo gesehen?"
+    },
+    {
+      "id": "s1-t032",
+      "front": "Ya he escuchado esa historia en alguna otra parte.",
+      "back": "Ich habe die Geschichte schon mal irgendwo anders gehört."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Ya he visto a ese chico en alguna otra parte.",
+      "back": "Ich habe den Typen schon mal irgendwo anders gesehen."
+    },
+    {
+      "id": "s1-t034",
+      "front": "¿Ya lo has visto en alguna otra parte?",
+      "back": "Hast du es schon mal irgendwo anders gesehen?"
+    },
+    {
+      "id": "s1-t035",
+      "front": "Pon el florero en cualquier parte.",
+      "back": "Stell die Vase irgendwo hin."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Algún día será demasiado tarde.",
+      "back": "Irgendwann wird es zu spät sein."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Algún día terminará todo.",
+      "back": "Irgendwann wird alles vorbei sein."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Será demasiado tarde algún día.",
+      "back": "Es wird irgendwann zu spät sein."
+    },
+    {
+      "id": "s1-t039",
+      "front": "En algún momento hay que empezar.",
+      "back": "Irgendwann muss man anfangen."
+    },
+    {
+      "id": "s1-t040",
+      "front": "En algún momento hay que dejarlo.",
+      "back": "Irgendwann muss man damit aufhören."
+    },
+    {
+      "id": "s1-t041",
+      "front": "En algún momento hay que empezar a buscar una solución.",
+      "back": "Man muss irgendwann anfangen, eine Lösung zu suchen."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Se lo tengo que decir a ella en algún momento.",
+      "back": "Ich muss es ihr irgendwann sagen."
+    },
+    {
+      "id": "s1-t043",
+      "front": "Se lo tienes que decir a él en algún momento.",
+      "back": "Irgendwann musst du es ihm sagen."
+    },
+    {
+      "id": "s1-t044",
+      "front": "En algún momento todos tenemos que morir.",
+      "back": "Irgendwann müssen wir alle sterben."
+    },
+    {
+      "id": "s1-t045",
+      "front": "Quiero hacer un curso de cocina algún día.",
+      "back": "Ich will irgendwann mal einen Kochkurs machen."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Una vez hice un curso de baile.",
+      "back": "Ich habe irgendwann mal einen Tanzkurs gemacht."
+    },
+    {
+      "id": "s1-t047",
+      "front": "Algún día queremos tener hijos.",
+      "back": "Wir wollen irgendwann mal Kinder haben."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Hablé con él en algún momento de la semana pasada.",
+      "back": "Irgendwann letzte Woche habe ich mit ihm geredet."
+    },
+    {
+      "id": "s1-t049",
+      "front": "Quedaremos algún día de la próxima semana.",
+      "back": "Irgendwann nächste Woche treffen wir uns."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Le llamaré después en algún momento.",
+      "back": "Ich werde ihn irgendwann später anrufen."
+    },
+    {
+      "id": "s1-t051",
+      "front": "después, en algún momento",
+      "back": "irgendwann später"
+    },
+    {
+      "id": "s1-t052",
+      "front": "algún día de la próxima semana",
+      "back": "irgendwann nächste Woche"
+    },
+    {
+      "id": "s1-t053",
+      "front": "en algún momento de la semana pasada",
+      "back": "irgendwann letzte Woche"
+    },
+    {
+      "id": "s1-t054",
+      "front": "Buenos días, me marcho hoy y quiero dejar la habitación después del desayuno. (hotel)",
+      "back": "Guten Morgen, ich reise heute ab und möchte nach dem Frühstück auschecken."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Llamadas telefónicas y minibar no, pero servicio de habitaciones sí, ayer por la noche.",
+      "back": "Telefongespräche und Minibar nicht, aber Zimmerservice, gestern Abend."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Preferiría pagar con tarjeta.",
+      "back": "Ich würde lieber mit Karte zahlen."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Sí, muchas gracias. ¿Podría llamarme también un taxi para el aeropuerto, por favor?",
+      "back": "Ja, vielen Dank. Könnten Sie mir bitte noch ein Taxi zum Flughafen rufen?"
+    },
+    {
+      "id": "s1-t058",
+      "front": "Ahora mismo le preparo la factura. ¿Tenía llamadas telefónicas, algo del minibar o del servicio de habitaciones?",
+      "back": "Ich bereite sofort ihre Rechnung vor. Hatten Sie Telefongespräche, irgendetwas aus der Minibar oder Zimmerservice?"
+    },
+    {
+      "id": "s1-t059",
+      "front": "Cierto, está aquí anotado. Entonces son dos noches con desayuno y la cena de ayer, en total 183€. ¿Quiere pagar en efectivo o con tarjeta?",
+      "back": "Stimmt, ist hier vermerkt. Das sind dann zwei Übernachtungen mit Frühstück und das Abendessen gestern, macht 183€. Zahlen Sie bar oder mit Kreditkarte?"
+    },
+    {
+      "id": "s1-t060",
+      "front": "Aquí tiene la factura. Si fuera tan amable de firmar aquí, por favor.",
+      "back": "Hier ihre Rechnung. Wenn Sie hier bitte unterschreiben wollen."
+    },
+    {
+      "id": "s1-t061",
+      "front": "No hace falta, la parada de taxis está en la misma puerta. Espero que haya disfrutado de su estancia.",
+      "back": "Das ist nicht nötig. Der Taxistand ist vor der Tür. Ich hoffe, Sie hatten einen angenehmen Aufenthalt."
+    },
+    {
+      "id": "s1-t062",
+      "front": "sobre las ocho y cuarto",
+      "back": "gegen viertel nach acht"
+    },
+    {
+      "id": "s1-t063",
+      "front": "sobre las seis menos cuarto",
+      "back": "gegen viertel vor sechs"
+    },
+    {
+      "id": "s1-t064",
+      "front": "Déle lo que sea.",
+      "back": "Geben Sie ihm irgendetwas."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Cuéntales lo que sea.",
+      "back": "Erzähl ihnen irgendetwas."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Diles lo que sea, da igual qué.",
+      "back": "Sag ihnen irgendetwas, egal was."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Algo no va bien.",
+      "back": "Irgendetwas ist nicht in Ordnung."
+    },
+    {
+      "id": "s1-t068",
+      "front": "¿Algo no va bien?",
+      "back": "Ist irgendetwas nicht in Ordnung?"
+    },
+    {
+      "id": "s1-t069",
+      "front": "¿Pasa algo?",
+      "back": "Ist irgendwas?"
+    },
+    {
+      "id": "s1-t070",
+      "front": "Algo anda mal aquí.",
+      "back": "Irgendetwas stimmt hier nicht."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Hay algo raro con eso.",
+      "back": "Bei der Sache stimmt irgendetwas nicht."
+    },
+    {
+      "id": "s1-t072",
+      "front": "¿Pasa algo malo?",
+      "back": "Stimmt irgendetwas nicht?"
+    },
+    {
+      "id": "s1-t073",
+      "front": "Ella ha dicho algo de una fiesta.",
+      "back": "Sie hat irgendetwas von einer Feier gesagt."
+    },
+    {
+      "id": "s1-t074",
+      "front": "El tipo del teléfono dijo algo de una oferta.",
+      "back": "Der Typ am Telefon hat irgendetwas von einem Angebot gesagt."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Ésos me contaron algo de un concurso.",
+      "back": "Die haben mir irgendetwas von einem Wettbewerb erzählt."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Ha surgido algo entre medias.",
+      "back": "Irgendetwas ist dazwischen gekommen."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Siempre surge algo entre medias.",
+      "back": "Es kommt immer irgendetwas dazwischen."
+    },
+    {
+      "id": "s1-t078",
+      "front": "¿Ha vuelto a surgir algo entre medias?",
+      "back": "Ist wieder irgendetwas dazwischen gekommen?"
+    },
+    {
+      "id": "s1-t079",
+      "front": "Alguna falda me quedará bien (seguro).",
+      "back": "Irgendein Rock wird mir schon passen."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Algún pantalón tuyo me quedará bien (seguro).",
+      "back": "Irgendeine Hose von dir wird mir schon passen."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Alguna camisa le quedará bien a él (seguro).",
+      "back": "Irgendein Hemd wird ihm schon passen."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Ya encontraré algún compañero de piso.",
+      "back": "Ich werde schon irgendeinen Mitbewohner finden."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Ya encontraremos alguna solución.",
+      "back": "Wir werden schon irgendeine Lösung finden."
+    },
+    {
+      "id": "s1-t084",
+      "front": "No te preocupes, ya encontraremos alguna salida.",
+      "back": "Keine Sorge, wir werden schon irgendeinen Ausweg finden."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Dame uno cualquiera, el que sea.",
+      "back": "Gib mir irgendeinen, egal welchen."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Deme una cualquiera, la que sea.",
+      "back": "Geben Sie mir irgendeine, egal welche."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Dale a ella uno cualquiera, el que sea.",
+      "back": "Gib ihr irgendeins, egal welches."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Hay unos desconocidos en la puerta.",
+      "back": "Da sind irgendwelche Leute an der Tür."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Algún zapato me quedará bien.",
+      "back": "Irgendwelche Schuhe werden mir schon passen."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Ya encontraremos gente para el proyecto.",
+      "back": "Wir werden schon irgendwelche Leute für das Projekt finden."
+    },
+    {
+      "id": "s1-t091",
+      "front": "¿Hay alguna panadería por aquí cerca?",
+      "back": "Gibt es hier irgendeinen Bäcker in der Nähe?"
+    },
+    {
+      "id": "s1-t092",
+      "front": "¿Hay alguna piscina por aquí cerca?",
+      "back": "Gibt es hier irgendein Freibad in der Nähe?"
+    },
+    {
+      "id": "s1-t093",
+      "front": "¿Hay alguna estación de metro por aquí cerca?",
+      "back": "Gibt es hier irgendeine U-Bahnstation in der Nähe?"
+    },
+    {
+      "id": "s1-t094",
+      "front": "¿Está alguien en contra?",
+      "back": "Ist irgendjemand dagegen?"
+    },
+    {
+      "id": "s1-t095",
+      "front": "¿Alguien no está de acuerdo?",
+      "back": "Ist irgendjemand nicht einverstanden?"
+    },
+    {
+      "id": "s1-t096",
+      "front": "¿Hay alguien que no esté de acuerdo con ello?",
+      "back": "Ist irgendjemand nicht damit einverstanden?"
+    },
+    {
+      "id": "s1-t097",
+      "front": "Ya llamará alguien a la policía.",
+      "back": "Irgendjemand wird schon die Polizei rufen."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Ya me llevará alguien.",
+      "back": "Irgendjemand wird mich schon mitnehmen."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Ya nos ayudará alguien.",
+      "back": "Irgendjemand wird uns schon helfen."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Alguien me ha dicho que el restaurante es bueno.",
+      "back": "Irgendjemand hat mir gesagt, dass das Restaurant gut ist."
+    },
+    {
+      "id": "s1-t101",
+      "front": "Alguien me ha dicho que U2 da un concierto este verano.",
+      "back": "Irgendjemand hat mir gesagt, dass U2 diesen Sommer ein Konzert gibt."
+    },
+    {
+      "id": "s1-t102",
+      "front": "Alguien nos ha dicho que este verano hay un festival aquí.",
+      "back": "Irgendjemand hat uns gesagt, dass diesen Sommer ein Festival hier stattfindet."
+    },
+    {
+      "id": "s1-t103",
+      "front": "¿Puede decirme alguien qué pasa aquí?",
+      "back": "Kann mir irgendjemand sagen, was hier los ist?"
+    },
+    {
+      "id": "s1-t104",
+      "front": "¿Puede decirme alguien cómo se llega mejor a la estación?",
+      "back": "Kann mir irgendjemand sagen, wie man am besten zum Bahnhof kommt?"
+    },
+    {
+      "id": "s1-t105",
+      "front": "¿Puede enseñarme alguien cómo se usa esto?",
+      "back": "Kann mir irgendjemand zeigen, wie man das hier benutzt?"
+    },
+    {
+      "id": "s1-t106",
+      "front": "¿A alguien le apetece jugar al fútbol?",
+      "back": "Hat irgendjemand Lust, Fußball zu spielen?"
+    },
+    {
+      "id": "s1-t107",
+      "front": "¿A alguien le apetece ir al cine esta noche?",
+      "back": "Hat irgendjemand Lust, heute Abend ins Kino zu gehen?"
+    },
+    {
+      "id": "s1-t108",
+      "front": "¿A alguien le apetece ir a nadar?",
+      "back": "Hat irgendjemand Lust, schwimmen zu gehen?"
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Cómo se forman los indefinidos con \"irgend-\"?",
+      "back": "Se une el prefijo \"irgend\" (= algún / cualquier) a adverbios o pronombres que ya conoces: irgend + wie/wo/wann → adverbios; irgend + ein/welche/jemand/etwas → pronombres. El resultado depende de a qué se una."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué diferencia hay entre los ADVERBIOS y los PRONOMBRES con irgend-?",
+      "back": "Los adverbios (irgendwie, irgendwo, irgendwann) son INVARIABLES y ocupan la posición del complemento circunstancial. Los pronombres (irgendein, irgendwelche, irgendjemand) SE DECLINAN según su caso (nominativo/acusativo/dativo)."
+    },
+    {
+      "id": "s1-g003",
+      "front": "irgendwie",
+      "back": "De alguna / cualquier manera; 'de algún modo', 'como sea'. Adverbio de modo, invariable."
+    },
+    {
+      "id": "s1-g004",
+      "front": "irgendwo",
+      "back": "En alguna / cualquier parte, 'por alguna parte'. Adverbio de lugar. \"irgendwo anders\" = en alguna otra parte."
+    },
+    {
+      "id": "s1-g005",
+      "front": "irgendwann",
+      "back": "En algún momento, algún día (futuro o pasado). Con \"mal\" → \"irgendwann mal\" = 'una vez' (momento más lejano)."
+    },
+    {
+      "id": "s1-g006",
+      "front": "irgendetwas / irgendwas",
+      "back": "Algo (no sé qué), cualquier cosa. \"irgendwas\" es la forma corta y coloquial; \"irgendetwas\" da más énfasis. Funciona como sujeto o complemento directo."
+    },
+    {
+      "id": "s1-g007",
+      "front": "irgendein / irgendeine + sustantivo",
+      "back": "Algún / cualquier (+ sustantivo singular). Se declina como \"ein\": nominativo irgendein (masc/neutro) / irgendeine (fem). No tiene plural."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Cómo se declina \"irgendein\" en acusativo?",
+      "back": "Masculino: irgendeinen (Ich werde irgendeinen Mitbewohner finden). Femenino: irgendeine. Neutro: irgendein. Solo (sin sustantivo) en acusativo neutro toma -s: irgendeins."
+    },
+    {
+      "id": "s1-g009",
+      "front": "irgendwelche",
+      "back": "Algunos / unos / cualesquiera (+ sustantivo PLURAL), ya que \"ein\" no tiene plural. Ej: Da sind irgendwelche Leute an der Tür."
+    },
+    {
+      "id": "s1-g010",
+      "front": "irgendjemand (+ irgendwer / irgendeiner)",
+      "back": "Alguien (no sé quién), cualquier persona. Sinónimos: \"irgendwer\" y \"irgendeiner\" (este último más coloquial)."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué matiz aporta \"schon\" a los indefinidos con irgend-?",
+      "back": "Aporta un matiz de seguridad/probabilidad: 'seguro que...', 'ya...'. Ej: Irgendein Rock wird mir schon passen (Seguro que alguna falda me quedará bien). Se puede sustituir por \"sicher\"."
+    },
+    {
+      "id": "s1-g012",
+      "front": "\"egal was\" / \"egal welchen\"",
+      "back": "\"egal\" = igual (forma corta de \"es ist egal\"). \"egal was\" = da igual qué; \"egal welchen/welche/welches\" = el/la que sea (welch- se declina igual que irgendein-)."
+    },
+    {
+      "id": "s1-g013",
+      "front": "Verbo \"schaffen\"",
+      "back": "Lograr / conseguir (también 'crear', 'trabajar'). \"Ich bin geschafft\" = estoy agotado. Ej: Ich muss es irgendwie schaffen."
+    },
+    {
+      "id": "s1-g014",
+      "front": "Verbo \"besorgen\"",
+      "back": "Conseguir, en el sentido de 'proporcionar' u 'obtener' algo. Ej: Ich werde das Geld besorgen (Conseguiré el dinero)."
+    },
+    {
+      "id": "s1-g015",
+      "front": "\"vorkommen\" y \"Das kommt mir ... vor\"",
+      "back": "vorkommen (separable) = parecer. \"Das kommt mir bekannt vor\" = eso me suena / me resulta familiar. \"Das kommt mir komisch/Spanisch vor\" = eso me parece raro / me suena a chino."
+    },
+    {
+      "id": "s1-g016",
+      "front": "\"verlieren\" y su participio",
+      "back": "verlieren = perder. Perfekt con haben: Ich habe meine Tasche verloren (participio \"verloren\", con 'o' larga)."
+    },
+    {
+      "id": "s1-g017",
+      "front": "\"dazwischen kommen\"",
+      "back": "\"dazwischen\" = en medio / entre medias. \"dazwischen kommen\" = surgir entre medias (Perfekt con sein: ist dazwischen gekommen). Con \"wieder\" = volver a surgir entre medias."
+    },
+    {
+      "id": "s1-g018",
+      "front": "\"in Ordnung\" vs \"stimmt nicht\"",
+      "back": "\"in Ordnung\" = en orden / todo bien; con \"nicht\" delante = no va bien. \"stimmen\" = ser correcto; \"stimmt nicht\" = no anda bien / algo va mal."
+    },
+    {
+      "id": "s1-g019",
+      "front": "\"jemanden mitnehmen\" vs \"jemanden fahren\"",
+      "back": "Ambos = llevar a alguien en coche. \"fahren\" = hacer el trayecto solo con ese fin; \"mitnehmen\" = el viaje se hace igual y alguien se acopla."
+    },
+    {
+      "id": "s1-g020",
+      "front": "\"Lust haben\" + zu + infinitivo",
+      "back": "Lust haben = tener ganas / apetecer. Para 'tener ganas de hacer X' se usa \"zu + infinitivo\": Hat irgendjemand Lust, schwimmen zu gehen?"
+    },
+    {
+      "id": "s1-g021",
+      "front": "\"dagegen\" y \"einverstanden\"",
+      "back": "dagegen = en contra (da + gegen). einverstanden = de acuerdo (su antónimo). \"nicht damit einverstanden\" = no estar de acuerdo con ello."
+    },
+    {
+      "id": "s1-g022",
+      "front": "La hora: \"gegen viertel nach/vor + hora\"",
+      "back": "gegen = sobre/alrededor de. viertel nach = y cuarto; viertel vor = menos cuarto. Ej: gegen viertel nach acht (sobre las 8:15), gegen viertel vor sechs (sobre las 5:45)."
+    },
+    {
+      "id": "s1-g023",
+      "front": "der Bäcker / \"zum Bäcker gehen\"",
+      "back": "der Bäcker = panadero; die Bäckerei = panadería. En alemán se usa mucho \"Ich gehe zum Bäcker\" (voy a la panadería, lit. 'al panadero')."
+    },
+    {
+      "id": "s1-g024",
+      "front": "El infierno de los plurales (Buch 31, Sektion 1)",
+      "back": "die Handtasche → die Handtaschen (bolso); der Typ → die Typen (tío); die Sorge → die Sorgen (preocupación); der Ausweg → die Auswege (salida/solución); der Wettbewerb → die Wettbewerbe (concurso)."
+    },
+    {
+      "id": "s1-g025",
+      "front": "Ciudad visitada: Gelsenkirchen",
+      "back": "~258.000 habitantes, en Nordrhein-Westfalen, al norte de la cuenca del Ruhr. Antiguo pueblo minero ('la ciudad de los mil fuegos'). Destaca el Nordsternpark y el ZOOM Erlebniswelt (zoo)."
+    },
+    {
+      "id": "s1-g026",
+      "front": "Personaje de Gelsenkirchen",
+      "back": "Mesut Özil, futbolista alemán nacido en 1988 que jugaba en el Real Madrid desde 2010."
+    }
+  ]
+}

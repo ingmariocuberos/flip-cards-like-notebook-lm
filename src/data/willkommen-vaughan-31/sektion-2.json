@@ -1,0 +1,1109 @@
+{
+  "bookId": "willkommen-vaughan-31",
+  "bookTitle": "Buch 31",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: lieber + verbos (preferir)",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "¿Está todo bien?",
+      "back": "Ist alles in Ordnung?"
+    },
+    {
+      "id": "s2-t002",
+      "front": "¿Quieres una cerveza?",
+      "back": "Möchtest du ein Bier?"
+    },
+    {
+      "id": "s2-t003",
+      "front": "No, prefiero un vino tinto.",
+      "back": "Nein, ich möchte lieber einen Rotwein."
+    },
+    {
+      "id": "s2-t004",
+      "front": "¿Quiere usted este abrigo?",
+      "back": "Möchten Sie diesen Mantel?"
+    },
+    {
+      "id": "s2-t005",
+      "front": "No, prefiero aquél de allí.",
+      "back": "Nein, ich möchte lieber diesen da."
+    },
+    {
+      "id": "s2-t006",
+      "front": "No, prefiero el gris.",
+      "back": "Nein, ich möchte lieber den grauen."
+    },
+    {
+      "id": "s2-t007",
+      "front": "¿Quieres quedarte aquí?",
+      "back": "Möchtest du hier bleiben?"
+    },
+    {
+      "id": "s2-t008",
+      "front": "No, prefiero irme.",
+      "back": "Nein, ich möchte lieber gehen."
+    },
+    {
+      "id": "s2-t009",
+      "front": "¿Quiere una ensalada de acompañamiento?",
+      "back": "Möchten Sie einen Salat als Beilage?"
+    },
+    {
+      "id": "s2-t010",
+      "front": "No, prefiero patatas cocidas.",
+      "back": "Nein, ich möchte lieber Salzkartoffeln."
+    },
+    {
+      "id": "s2-t011",
+      "front": "¿Quiere un kilo de cerezas?",
+      "back": "Möchten Sie ein Kilo Kirschen?"
+    },
+    {
+      "id": "s2-t012",
+      "front": "No, prefiero medio kilo.",
+      "back": "Nein, ich möchte lieber ein halbes Kilo."
+    },
+    {
+      "id": "s2-t013",
+      "front": "¿Quiere el abrigo rojo?",
+      "back": "Möchten Sie den roten Mantel?"
+    },
+    {
+      "id": "s2-t014",
+      "front": "¿Quieres la chaqueta verde?",
+      "back": "Möchtest du die grüne Jacke?"
+    },
+    {
+      "id": "s2-t015",
+      "front": "No, prefiero la azul.",
+      "back": "Nein, ich möchte lieber die blaue."
+    },
+    {
+      "id": "s2-t016",
+      "front": "¿Quiere usted la camisa de rayas?",
+      "back": "Möchten Sie das gestreifte Hemd?"
+    },
+    {
+      "id": "s2-t017",
+      "front": "No, prefiero la de cuadros.",
+      "back": "Nein, ich möchte lieber das karierte."
+    },
+    {
+      "id": "s2-t018",
+      "front": "¿Quiere usted esta blusa?",
+      "back": "Möchten Sie diese Bluse?"
+    },
+    {
+      "id": "s2-t019",
+      "front": "No, prefiero ésta de aquí.",
+      "back": "Nein, ich möchte lieber diese hier."
+    },
+    {
+      "id": "s2-t020",
+      "front": "¿Quieres este trozo?",
+      "back": "Möchtest du dieses Stück?"
+    },
+    {
+      "id": "s2-t021",
+      "front": "No, prefiero aquél de allí, el (trozo) más pequeño.",
+      "back": "Nein, ich möchte lieber dieses da, das kleinere."
+    },
+    {
+      "id": "s2-t022",
+      "front": "¿Quiere usted sentarse aquí dentro?",
+      "back": "Möchten Sie hier drinnen sitzen?"
+    },
+    {
+      "id": "s2-t023",
+      "front": "No, prefiero sentarme fuera.",
+      "back": "Nein, ich möchte lieber draußen sitzen."
+    },
+    {
+      "id": "s2-t024",
+      "front": "¿Quieres ir a un hotel de tres estrellas?",
+      "back": "Möchtest du in ein Drei-Sterne-Hotel (gehen)?"
+    },
+    {
+      "id": "s2-t025",
+      "front": "No, prefiero ir a uno de cinco estrellas.",
+      "back": "Nein, ich möchte lieber in ein Fünf-Sterne-Hotel (gehen)."
+    },
+    {
+      "id": "s2-t026",
+      "front": "¿Quieres algo de comer?",
+      "back": "Willst du etwas zu essen?"
+    },
+    {
+      "id": "s2-t027",
+      "front": "No, prefiero algo de beber.",
+      "back": "Nein, ich will lieber etwas zu trinken."
+    },
+    {
+      "id": "s2-t028",
+      "front": "¿Quieres éstos de aquí?",
+      "back": "Willst du diese hier?"
+    },
+    {
+      "id": "s2-t029",
+      "front": "No, prefiero aquéllos de allí.",
+      "back": "Nein, ich will lieber diese da."
+    },
+    {
+      "id": "s2-t030",
+      "front": "¿Quieren ustedes sentarse fuera?",
+      "back": "Wollen Sie draußen sitzen?"
+    },
+    {
+      "id": "s2-t031",
+      "front": "No, preferimos ir dentro.",
+      "back": "Nein, wir wollen lieber reingehen."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Autoescuela (señal)",
+      "back": "Fahrschule"
+    },
+    {
+      "id": "s2-t033",
+      "front": "¿Te gusta el poleo-menta?",
+      "back": "Magst du Pfefferminztee?"
+    },
+    {
+      "id": "s2-t034",
+      "front": "Sí, pero me gusta más la manzanilla.",
+      "back": "Ja, aber ich habe lieber Kamillentee."
+    },
+    {
+      "id": "s2-t035",
+      "front": "¿Le gustan las patatas hervidas?",
+      "back": "Mögen Sie Salzkartoffeln?"
+    },
+    {
+      "id": "s2-t036",
+      "front": "Sí, pero me gustan más las patatas panaderas.",
+      "back": "Ja, aber ich habe lieber Bratkartoffeln."
+    },
+    {
+      "id": "s2-t037",
+      "front": "¿Le gusta la pasta (a él)?",
+      "back": "Mag er Nudeln?"
+    },
+    {
+      "id": "s2-t038",
+      "front": "Sí, pero le gusta más la pizza.",
+      "back": "Ja, aber er hat lieber Pizza."
+    },
+    {
+      "id": "s2-t039",
+      "front": "¿Quieres un té negro?",
+      "back": "Möchtest du Schwarztee?"
+    },
+    {
+      "id": "s2-t040",
+      "front": "Preferiría un poleo-menta.",
+      "back": "Ich hätte lieber Pfefferminztee."
+    },
+    {
+      "id": "s2-t041",
+      "front": "¿Quiere usted un café solo?",
+      "back": "Möchten Sie einen schwarzen Kaffee?"
+    },
+    {
+      "id": "s2-t042",
+      "front": "Preferiría un café con leche.",
+      "back": "Ich hätte lieber einen Milchkaffee."
+    },
+    {
+      "id": "s2-t043",
+      "front": "¿Quiere usted este pan?",
+      "back": "Möchten Sie dieses Brot?"
+    },
+    {
+      "id": "s2-t044",
+      "front": "No, preferiría aquél de allí.",
+      "back": "Nein, ich hätte lieber dieses da."
+    },
+    {
+      "id": "s2-t045",
+      "front": "Preferiría tener un gato antes que un perro.",
+      "back": "Ich hätte lieber eine Katze als einen Hund."
+    },
+    {
+      "id": "s2-t046",
+      "front": "Preferiría tener un piso en el centro antes que un jardín grande.",
+      "back": "Ich hätte lieber eine Wohnung in der Innenstadt als einen großen Garten."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Preferiría tener un trabajo que me gustase antes que uno en el que se ganase mucho.",
+      "back": "Ich hätte lieber eine Arbeit, die Spaß macht, als eine Arbeit, bei der man viel verdient."
+    },
+    {
+      "id": "s2-t048",
+      "front": "Me gusta más cuando estoy solo.",
+      "back": "Ich habe es lieber, wenn ich allein bin."
+    },
+    {
+      "id": "s2-t049",
+      "front": "Me gusta más cuando tengo tranquilidad.",
+      "back": "Ich habe es lieber, wenn ich meine Ruhe habe."
+    },
+    {
+      "id": "s2-t050",
+      "front": "Me gusta más cuando me dejan en paz.",
+      "back": "Ich habe es lieber, wenn man mich in Ruhe lässt."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Preferiría que hicierais menos ruido.",
+      "back": "Ich hätte es lieber, wenn ihr leiser sein könntet."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Preferiría que vinieras más tarde.",
+      "back": "Ich hätte es lieber, wenn du später kommen würdest."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Preferiría que volviese usted mañana.",
+      "back": "Ich hätte es lieber, wenn Sie morgen wiederkommen könnten."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Este libro me gusta.",
+      "back": "Dieses Buch gefällt mir."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Prefiero este libro.",
+      "back": "Dieses Buch ist mir lieber."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Prefiero que lo hagas tú.",
+      "back": "Es ist mir lieber, wenn du das machst."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Preferiría tener tranquilidad.",
+      "back": "Es wäre mir lieber, wenn ich meine Ruhe hätte."
+    },
+    {
+      "id": "s2-t058",
+      "front": "¿Preferirías tener tranquilidad?",
+      "back": "Wäre es dir lieber, wenn du deine Ruhe hättest?"
+    },
+    {
+      "id": "s2-t059",
+      "front": "Prefiero que lo haga otra persona.",
+      "back": "Es ist mir lieber, wenn das jemand anders macht."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Prefiero tener tranquilidad.",
+      "back": "Es ist mir lieber, wenn ich meine Ruhe habe."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Prefiero que dejes de hacer eso.",
+      "back": "Es ist mir lieber, wenn du das lässt."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Preferiría que lo hiciera otra persona.",
+      "back": "Es wäre mir lieber, wenn das jemand anders machen würde."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Preferiría que te quitaras los zapatos.",
+      "back": "Es wäre mir lieber, wenn du dir die Schuhe ausziehen würdest."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Preferiría que dejases de hacerlo.",
+      "back": "Es wäre mir lieber, wenn du das lassen würdest."
+    },
+    {
+      "id": "s2-t065",
+      "front": "¿Prefieres que lo haga otra persona?",
+      "back": "Ist es dir lieber, wenn das jemand anders macht?"
+    },
+    {
+      "id": "s2-t066",
+      "front": "Sí, lo prefiero.",
+      "back": "Ja, das ist mir lieber."
+    },
+    {
+      "id": "s2-t067",
+      "front": "¿Preferirías que el perro se quedase fuera?",
+      "back": "Wäre es dir lieber, wenn der Hund draußen bleibt?"
+    },
+    {
+      "id": "s2-t068",
+      "front": "Sí, lo preferiría.",
+      "back": "Ja, das wäre mir lieber."
+    },
+    {
+      "id": "s2-t069",
+      "front": "¿Lo preferirías así?",
+      "back": "Wäre es dir so lieber?"
+    },
+    {
+      "id": "s2-t070",
+      "front": "Sí, así me parecería mucho mejor.",
+      "back": "Ja, so wäre mir das viel lieber."
+    },
+    {
+      "id": "s2-t071",
+      "front": "¿Quieres café?",
+      "back": "Möchtest du Kaffee?"
+    },
+    {
+      "id": "s2-t072",
+      "front": "Preferiría té.",
+      "back": "Tee wäre mir lieber."
+    },
+    {
+      "id": "s2-t073",
+      "front": "¿Quiere usted una cerveza?",
+      "back": "Möchten Sie ein Bier?"
+    },
+    {
+      "id": "s2-t074",
+      "front": "Preferiría un vaso de agua.",
+      "back": "Ein Glas Wasser wäre mir lieber."
+    },
+    {
+      "id": "s2-t075",
+      "front": "¿Prefieres sentarte fuera?",
+      "back": "Möchtest du lieber draußen sitzen?"
+    },
+    {
+      "id": "s2-t076",
+      "front": "¿Quiere usted una taza de té?",
+      "back": "Möchten Sie eine Tasse Tee?"
+    },
+    {
+      "id": "s2-t077",
+      "front": "La verdad es que preferiría un café.",
+      "back": "Kaffee wäre mir ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-t078",
+      "front": "¿Prefieres venir a mi casa?",
+      "back": "Möchtest du lieber zu mir kommen?"
+    },
+    {
+      "id": "s2-t079",
+      "front": "Sí, la verdad es que lo preferiría.",
+      "back": "Ja, das wäre mir ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-t080",
+      "front": "¡Pero si te ha enviado flores!",
+      "back": "Er hat dir doch Blumen geschickt!"
+    },
+    {
+      "id": "s2-t081",
+      "front": "La verdad es que preferiría una disculpa en persona.",
+      "back": "Eine persönliche Entschuldigung wäre mir ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Buenas tardes, queremos devolver el coche. El depósito está lleno.",
+      "back": "Guten Abend, wir bringen das Auto zurück. Der Tank ist voll."
+    },
+    {
+      "id": "s2-t083",
+      "front": "¿Todo bien con el coche?",
+      "back": "Alles in Ordnung mit dem Wagen?"
+    },
+    {
+      "id": "s2-t084",
+      "front": "Sí, aunque... ahora que pregunta, el aire acondicionado no funcionaba bien y el maletero no se abre bien.",
+      "back": "Ja, obwohl... jetzt, wo Sie fragen, die Klimaanlage hat nicht gut funktioniert und der Kofferraum klemmt."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Está bien que lo diga, se lo diré a nuestros mecánicos.",
+      "back": "Oh, gut, dass Sie das sagen, ich werde unseren Mechanikern Bescheid sagen."
+    },
+    {
+      "id": "s2-t086",
+      "front": "¿Tengo que firmar algo?",
+      "back": "Muss ich irgendetwas unterschreiben?"
+    },
+    {
+      "id": "s2-t087",
+      "front": "Sí, aquí por favor, y revise de nuevo el coche para no dejarse nada.",
+      "back": "Ja, bitte hier, und schauen Sie bitte noch mal im Auto nach, damit Sie nichts vergessen."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Tenía razón, mis gafas de sol estaban en la guantera. Aquí tiene las llaves.",
+      "back": "Sie hatten Recht, im Handschuhfach war meine Sonnenbrille. Hier der Schlüssel."
+    },
+    {
+      "id": "s2-t089",
+      "front": "¡Ya nos lo sabemos! Que tenga un buen día.",
+      "back": "Das kennen wir! Einen schönen Tag noch."
+    },
+    {
+      "id": "s2-t090",
+      "front": "¡Igualmente!",
+      "back": "Gleichfalls!"
+    },
+    {
+      "id": "s2-t091",
+      "front": "Costumbres en las bodas",
+      "back": "Hochzeitsbräuche"
+    },
+    {
+      "id": "s2-t092",
+      "front": "Marcha nupcial",
+      "back": "Hochzeitsmarsch"
+    },
+    {
+      "id": "s2-t093",
+      "front": "No me siento muy bien.",
+      "back": "Ich fühle mich nicht so gut."
+    },
+    {
+      "id": "s2-t094",
+      "front": "¿Vuelvo mejor mañana?",
+      "back": "Soll ich lieber morgen wiederkommen?"
+    },
+    {
+      "id": "s2-t095",
+      "front": "¿Nos vamos mejor?",
+      "back": "Sollen wir lieber gehen?"
+    },
+    {
+      "id": "s2-t096",
+      "front": "Está ocupado ahora mismo.",
+      "back": "Er ist gerade beschäftigt."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Está muy ocupada ahora mismo.",
+      "back": "Sie ist gerade sehr beschäftigt."
+    },
+    {
+      "id": "s2-t098",
+      "front": "¿Me vuelvo a pasar luego mejor?",
+      "back": "Soll ich lieber später noch mal vorbeikommen?"
+    },
+    {
+      "id": "s2-t099",
+      "front": "¿Llamo o mejor me paso por allí personalmente?",
+      "back": "Soll ich lieber anrufen oder persönlich vorbeikommen?"
+    },
+    {
+      "id": "s2-t100",
+      "front": "¿Entro o espero mejor fuera?",
+      "back": "Soll ich lieber reingehen oder draußen warten?"
+    },
+    {
+      "id": "s2-t101",
+      "front": "¿Compro flores o mejor me disculpo?",
+      "back": "Soll ich lieber Blumen kaufen oder mich entschuldigen?"
+    },
+    {
+      "id": "s2-t102",
+      "front": "¿Me voy fuera a fumar mejor?",
+      "back": "Soll ich lieber draußen rauchen?"
+    },
+    {
+      "id": "s2-t103",
+      "front": "¿Aplazo la reunión mejor?",
+      "back": "Soll ich die Besprechung lieber verschieben?"
+    },
+    {
+      "id": "s2-t104",
+      "front": "¿Quedamos luego mejor?",
+      "back": "Sollen wir uns lieber später treffen?"
+    },
+    {
+      "id": "s2-t105",
+      "front": "Sí, la verdad es que lo preferiría.",
+      "back": "Ja, das wäre mir ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-t106",
+      "front": "¿Mejor que no diga nada?",
+      "back": "Soll ich lieber nichts sagen?"
+    },
+    {
+      "id": "s2-t107",
+      "front": "Sí, lo prefiero (esa opción).",
+      "back": "Ja, das habe ich lieber."
+    },
+    {
+      "id": "s2-t108",
+      "front": "¿Aplazamos la reunión mejor?",
+      "back": "Sollen wir das Meeting lieber verschieben?"
+    },
+    {
+      "id": "s2-t109",
+      "front": "Sí, lo preferiría (esa opción).",
+      "back": "Ja, das hätte ich lieber."
+    },
+    {
+      "id": "s2-t110",
+      "front": "¿Quedamos mejor pasado mañana?",
+      "back": "Sollen wir uns lieber übermorgen treffen?"
+    },
+    {
+      "id": "s2-t111",
+      "front": "Sí, la verdad es que lo preferiría (esa opción).",
+      "back": "Ja, das hätte ich ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-t112",
+      "front": "¿Te viene bien hoy o prefieres que venga mañana?",
+      "back": "Passt es dir heute oder soll ich lieber morgen kommen?"
+    },
+    {
+      "id": "s2-t113",
+      "front": "¿Le viene a usted bien mañana o prefiere que vuelva la semana que viene?",
+      "back": "Passt es Ihnen morgen oder soll ich lieber nächste Woche wiederkommen?"
+    },
+    {
+      "id": "s2-t114",
+      "front": "¿Le viene bien esta tarde o prefiere que me pase mañana?",
+      "back": "Passt es Ihnen heute Nachmittag oder soll ich lieber morgen vorbeikommen?"
+    },
+    {
+      "id": "s2-t115",
+      "front": "¿Le gusta a usted jugar al fútbol?",
+      "back": "Spielen Sie gerne Fußball?"
+    },
+    {
+      "id": "s2-t116",
+      "front": "Sí, pero me gusta más jugar al tenis.",
+      "back": "Ja, aber ich spiele lieber Tennis."
+    },
+    {
+      "id": "s2-t117",
+      "front": "¿Te gusta hacer sudokus?",
+      "back": "Machst du gerne Sudoku?"
+    },
+    {
+      "id": "s2-t118",
+      "front": "Sí, pero me gusta más hacer crucigramas.",
+      "back": "Ja, aber ich mache lieber Kreuzworträtsel."
+    },
+    {
+      "id": "s2-t119",
+      "front": "¿Le gusta a usted trabajar en equipo?",
+      "back": "Arbeiten Sie gerne im Team?"
+    },
+    {
+      "id": "s2-t120",
+      "front": "Sí, pero me gusta más trabajar solo.",
+      "back": "Ja, aber ich arbeite lieber allein."
+    },
+    {
+      "id": "s2-t121",
+      "front": "Prefiero ir a la ópera que al teatro.",
+      "back": "Ich gehe lieber in die Oper als ins Theater."
+    },
+    {
+      "id": "s2-t122",
+      "front": "Me gusta más hacer crucigramas que sudokus.",
+      "back": "Ich mache lieber Kreuzworträtsel als Sudoku."
+    },
+    {
+      "id": "s2-t123",
+      "front": "Prefiero celebrar las Navidades con mi familia que con tus padres.",
+      "back": "Ich feiere lieber Weihnachten mit meiner Familie als mit deinen Eltern."
+    },
+    {
+      "id": "s2-t124",
+      "front": "Prefiero hacer footing por la mañana que por la tarde.",
+      "back": "Ich jogge lieber morgens als abends."
+    },
+    {
+      "id": "s2-t125",
+      "front": "Prefiero ir en tren que en autobús.",
+      "back": "Ich fahre lieber mit dem Zug als mit dem Bus."
+    },
+    {
+      "id": "s2-t126",
+      "front": "Prefiero celebrar las Navidades con mi familia que con mis suegros.",
+      "back": "Ich feiere lieber Weihnachten mit meiner Familie als mit meinen Schwiegereltern."
+    },
+    {
+      "id": "s2-t127",
+      "front": "La estación está muy lejos.",
+      "back": "Es ist sehr weit bis zum Bahnhof."
+    },
+    {
+      "id": "s2-t128",
+      "front": "Entonces cojo mejor el metro.",
+      "back": "Dann nehme ich lieber die U-Bahn."
+    },
+    {
+      "id": "s2-t129",
+      "front": "El centro no está muy lejos.",
+      "back": "Es ist nicht weit bis in die Innenstadt."
+    },
+    {
+      "id": "s2-t130",
+      "front": "Entonces prefiero ir andando.",
+      "back": "Dann gehe ich lieber zu Fuß."
+    },
+    {
+      "id": "s2-t131",
+      "front": "Entonces prefiero volver más tarde.",
+      "back": "Dann komme ich lieber später noch mal."
+    },
+    {
+      "id": "s2-t132",
+      "front": "Normalmente voy andando al trabajo, pero en invierno prefiero ir en coche.",
+      "back": "Normalerweise laufe ich zur Arbeit, aber im Winter fahre ich lieber mit dem Auto."
+    },
+    {
+      "id": "s2-t133",
+      "front": "Normalmente cojo el tren, pero en verano prefiero ir en bici.",
+      "back": "Normalerweise nehme ich den Zug, aber im Sommer fahre ich lieber mit dem Fahrrad."
+    },
+    {
+      "id": "s2-t134",
+      "front": "Normalmente cojo el autobús, pero en verano prefiero ir andando.",
+      "back": "Normalerweise nehme ich den Bus, aber im Sommer gehe ich lieber zu Fuß."
+    },
+    {
+      "id": "s2-t135",
+      "front": "Preferiría jugar a las cartas.",
+      "back": "Ich würde lieber Karten spielen."
+    },
+    {
+      "id": "s2-t136",
+      "front": "Venga, vamos a ver una película.",
+      "back": "Komm, lass uns einen Film sehen."
+    },
+    {
+      "id": "s2-t137",
+      "front": "Venga, vamos a quedarnos un poco más.",
+      "back": "Komm, lass uns noch ein bisschen bleiben."
+    },
+    {
+      "id": "s2-t138",
+      "front": "Preferiría irme a casa.",
+      "back": "Ich würde lieber nach Hause gehen."
+    },
+    {
+      "id": "s2-t139",
+      "front": "Venga, vámonos.",
+      "back": "Komm, lass uns gehen."
+    },
+    {
+      "id": "s2-t140",
+      "front": "Preferiría quedarme un poquito más.",
+      "back": "Ich würde lieber noch ein bisschen bleiben."
+    },
+    {
+      "id": "s2-t141",
+      "front": "¿Nos quedamos un poco más?",
+      "back": "Wollen wir noch ein bisschen bleiben?"
+    },
+    {
+      "id": "s2-t142",
+      "front": "¿Vamos a salir a comer?",
+      "back": "Wollen wir essen gehen?"
+    },
+    {
+      "id": "s2-t143",
+      "front": "Preferiría quedarme aquí y ver una película.",
+      "back": "Ich würde lieber hier bleiben und einen Film sehen."
+    },
+    {
+      "id": "s2-t144",
+      "front": "¿Pedimos una pizza?",
+      "back": "Wollen wir Pizza bestellen?"
+    },
+    {
+      "id": "s2-t145",
+      "front": "Preferiría pedir comida china.",
+      "back": "Ich würde lieber chinesisches Essen bestellen."
+    },
+    {
+      "id": "s2-t146",
+      "front": "Preferiría volver mañana, si puede ser.",
+      "back": "Ich würde lieber morgen wiederkommen, wenn's geht."
+    },
+    {
+      "id": "s2-t147",
+      "front": "Preferiría esperarle aquí, si puede ser.",
+      "back": "Ich würde lieber hier auf ihn warten, wenn's geht."
+    },
+    {
+      "id": "s2-t148",
+      "front": "Preferiría aplazar la cita, si puede ser.",
+      "back": "Ich würde lieber den Termin verschieben, wenn's geht."
+    },
+    {
+      "id": "s2-t149",
+      "front": "Preferiría quedar más tarde, si te parece bien.",
+      "back": "Ich würde mich lieber später treffen, wenn es dir recht ist."
+    },
+    {
+      "id": "s2-t150",
+      "front": "Preferiría pasarme mañana, si le parece a usted bien.",
+      "back": "Ich würde lieber morgen vorbeikommen, wenn es Ihnen recht ist."
+    },
+    {
+      "id": "s2-t151",
+      "front": "Preferiría pasarme más tarde, si te parece bien.",
+      "back": "Ich würde lieber später vorbeikommen, wenn es dir recht ist."
+    },
+    {
+      "id": "s2-t152",
+      "front": "Preferiría aplazar la reunión, si no tiene usted nada en contra.",
+      "back": "Ich würde lieber die Besprechung verschieben, wenn Sie nichts dagegen haben."
+    },
+    {
+      "id": "s2-t153",
+      "front": "En realidad, preferiría quedarme aquí, si no tienes nada en contra.",
+      "back": "Ich würde ehrlich gesagt lieber hier bleiben, wenn du nichts dagegen hast."
+    },
+    {
+      "id": "s2-t154",
+      "front": "Si no tiene usted nada en contra, preferiría aplazar la reunión hasta mañana.",
+      "back": "Wenn Sie nichts dagegen haben, würde ich das Meeting lieber auf morgen verschieben."
+    },
+    {
+      "id": "s2-t155",
+      "front": "el poleo-menta",
+      "back": "der Pfefferminztee"
+    },
+    {
+      "id": "s2-t156",
+      "front": "la manzanilla",
+      "back": "der Kamillentee"
+    },
+    {
+      "id": "s2-t157",
+      "front": "el jardín",
+      "back": "der Garten"
+    },
+    {
+      "id": "s2-t158",
+      "front": "el vino tinto",
+      "back": "der Rotwein"
+    },
+    {
+      "id": "s2-t159",
+      "front": "la ensalada",
+      "back": "der Salat"
+    },
+    {
+      "id": "s2-t160",
+      "front": "el abrigo",
+      "back": "der Mantel"
+    },
+    {
+      "id": "s2-t161",
+      "front": "la diversión",
+      "back": "der Spaß"
+    },
+    {
+      "id": "s2-t162",
+      "front": "la tarde",
+      "back": "der Nachmittag"
+    },
+    {
+      "id": "s2-t163",
+      "front": "el fútbol",
+      "back": "der Fußball"
+    },
+    {
+      "id": "s2-t164",
+      "front": "la cita",
+      "back": "der Termin"
+    },
+    {
+      "id": "s2-t165",
+      "front": "la disculpa",
+      "back": "die Entschuldigung"
+    },
+    {
+      "id": "s2-t166",
+      "front": "el acompañamiento (guarnición)",
+      "back": "die Beilage"
+    },
+    {
+      "id": "s2-t167",
+      "front": "la chaqueta",
+      "back": "die Jacke"
+    },
+    {
+      "id": "s2-t168",
+      "front": "la blusa",
+      "back": "die Bluse"
+    },
+    {
+      "id": "s2-t169",
+      "front": "el centro (de la ciudad)",
+      "back": "die Innenstadt"
+    },
+    {
+      "id": "s2-t170",
+      "front": "el piso",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s2-t171",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s2-t172",
+      "front": "la ópera",
+      "back": "die Oper"
+    },
+    {
+      "id": "s2-t173",
+      "front": "la reunión (junta)",
+      "back": "die Besprechung"
+    },
+    {
+      "id": "s2-t174",
+      "front": "la tranquilidad",
+      "back": "die Ruhe"
+    },
+    {
+      "id": "s2-t175",
+      "front": "el hotel de tres estrellas",
+      "back": "das Drei-Sterne-Hotel"
+    },
+    {
+      "id": "s2-t176",
+      "front": "el crucigrama",
+      "back": "das Kreuzworträtsel"
+    },
+    {
+      "id": "s2-t177",
+      "front": "el equipo",
+      "back": "das Team"
+    },
+    {
+      "id": "s2-t178",
+      "front": "la cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s2-t179",
+      "front": "la camisa",
+      "back": "das Hemd"
+    },
+    {
+      "id": "s2-t180",
+      "front": "el trozo",
+      "back": "das Stück"
+    },
+    {
+      "id": "s2-t181",
+      "front": "el pan",
+      "back": "das Brot"
+    },
+    {
+      "id": "s2-t182",
+      "front": "la reunión (meeting)",
+      "back": "das Meeting"
+    },
+    {
+      "id": "s2-t183",
+      "front": "el tenis",
+      "back": "das Tennis"
+    },
+    {
+      "id": "s2-t184",
+      "front": "el teatro",
+      "back": "das Theater"
+    },
+    {
+      "id": "s2-t185",
+      "front": "las cerezas",
+      "back": "die Kirschen"
+    },
+    {
+      "id": "s2-t186",
+      "front": "pedir (encargar)",
+      "back": "bestellen"
+    },
+    {
+      "id": "s2-t187",
+      "front": "parecer bien / venir bien (a alguien)",
+      "back": "recht sein"
+    },
+    {
+      "id": "s2-t188",
+      "front": "estar en contra",
+      "back": "dagegen sein"
+    },
+    {
+      "id": "s2-t189",
+      "front": "venir bien / cuadrar",
+      "back": "passen"
+    },
+    {
+      "id": "s2-t190",
+      "front": "disculparse",
+      "back": "sich entschuldigen"
+    },
+    {
+      "id": "s2-t191",
+      "front": "aplazar (posponer)",
+      "back": "verschieben"
+    },
+    {
+      "id": "s2-t192",
+      "front": "conseguir / lograr",
+      "back": "schaffen"
+    },
+    {
+      "id": "s2-t193",
+      "front": "ocupado (con muchas cosas)",
+      "back": "beschäftigt"
+    },
+    {
+      "id": "s2-t194",
+      "front": "de acuerdo / conforme",
+      "back": "einverstanden"
+    },
+    {
+      "id": "s2-t195",
+      "front": "orgulloso de",
+      "back": "stolz auf"
+    },
+    {
+      "id": "s2-t196",
+      "front": "las horas extra",
+      "back": "die Überstunden"
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Cómo se expresa \"preferir\" en alemán?",
+      "back": "No existe un verbo \"preferir\": se usa el adverbio \"lieber\" (comparativo de \"gerne\", literalmente 'más gustosamente / preferible'), colocado justo después del verbo conjugado."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Qué tres verbos en Konjunktiv II se combinan con \"lieber\" para expresar preferencias?",
+      "back": "mögen → möchte (Ich möchte lieber Tee), haben → hätte (Ich hätte lieber Tee) y sein → wäre (Tee wäre mir lieber). Todas = 'preferiría un té'."
+    },
+    {
+      "id": "s2-g003",
+      "front": "Diferencia entre \"Ich hätte lieber Tee\" y \"Tee wäre mir lieber\"",
+      "back": "En \"Ich hätte lieber Tee\" la persona es el sujeto y la cosa el complemento directo (acusativo). En \"Tee wäre mir lieber\" la cosa es el sujeto y la persona va en dativo (mir), como con \"gefallen\"."
+    },
+    {
+      "id": "s2-g004",
+      "front": "\"ich habe lieber\" vs \"ich hätte lieber\"",
+      "back": "\"ich habe lieber\" (presente) expresa preferencias en general = 'me gusta más'. \"ich hätte lieber\" (K-II de haben) = 'preferiría', más educado e indirecto. También vale \"ich mag lieber\" / \"ich hätte lieber mögen\"."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Cómo se dice \"preferir X a Y\" / \"antes que\"?",
+      "back": "Con la estructura \"lieber ... als ...\". Ej.: Ich hätte lieber eine Katze als einen Hund; Ich gehe lieber in die Oper als ins Theater."
+    },
+    {
+      "id": "s2-g006",
+      "front": "\"Es ist mir lieber, wenn...\" vs \"Es wäre mir lieber, wenn...\"",
+      "back": "\"Es ist mir lieber, wenn...\" = 'Prefiero que...' (indicativo). \"Es wäre mir lieber, wenn...\" = 'Preferiría que...' (K-II). La subordinada con \"wenn\" lleva el verbo al final."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Cómo se usa \"lieber\" con el verbo modal \"sollen\"?",
+      "back": "sollen + sujeto + lieber + infinitivo al final, para ofrecer/sugerir formalmente. Ej.: Soll ich lieber morgen wiederkommen? = ¿Vuelvo mejor mañana? (Sollen wir...? para 'nosotros')."
+    },
+    {
+      "id": "s2-g008",
+      "front": "Estructura \"Soll ich lieber ... oder ...?\"",
+      "back": "Ofrece dos alternativas; en la segunda se sobreentiende \"soll ich lieber\". Ej.: Soll ich lieber anrufen oder persönlich vorbeikommen? = ¿Llamo o mejor me paso personalmente?"
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Cómo se responde a \"soll ich lieber...?\" para decir 'lo prefiero / lo preferiría'?",
+      "back": "Con \"Das ist mir lieber\" ('lo prefiero') o \"Das wäre mir lieber\" ('lo preferiría'). Sinónimos: \"Das habe ich lieber\" / \"Das hätte ich lieber\"."
+    },
+    {
+      "id": "s2-g010",
+      "front": "El verbo \"passen\" + dativo (Passt es dir?)",
+      "back": "\"passen\" + dativo = 'venir bien / cuadrar'. Ej.: Passt es dir heute? = ¿Te viene bien hoy?; Passt es Ihnen morgen? = ¿Le viene bien mañana?"
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Dónde se coloca \"lieber\" con verbos normales?",
+      "back": "Justo después del verbo conjugado. Ej.: ich spiele lieber Tennis, ich mache lieber Kreuzworträtsel, ich gehe lieber, ich fahre lieber mit dem Zug."
+    },
+    {
+      "id": "s2-g012",
+      "front": "El adverbio \"dann\" (entonces / en ese caso)",
+      "back": "Significa 'entonces / en ese caso'. Al colocarlo al inicio de la frase provoca inversión sujeto-verbo. Ej.: Dann gehe ich lieber zu Fuß = Entonces prefiero ir andando."
+    },
+    {
+      "id": "s2-g013",
+      "front": "\"würde lieber\" (K-II de werden + lieber)",
+      "back": "Sirve para expresar preferencia con cualquier verbo: würde + lieber + infinitivo. Ej.: Ich würde lieber Karten spielen = Preferiría jugar a las cartas."
+    },
+    {
+      "id": "s2-g014",
+      "front": "\"Komm, lass uns...\" vs \"Wollen wir...?\"",
+      "back": "Ambas = 'Vamos a...' / '¿Vamos a...?'. \"lass uns\" + infinitivo (imperativo de lassen: Lass uns einen Film sehen). \"Wollen wir...?\" es la forma interrogativa (Wollen wir essen gehen?)."
+    },
+    {
+      "id": "s2-g015",
+      "front": "\"wenn's geht\" / \"wenn es dir recht ist\" / \"wenn Sie nichts dagegen haben\"",
+      "back": "'si puede ser' / 'si te parece bien' / 'si no tiene nada en contra'. Son subordinadas con el verbo al final. \"wenn's geht\" es la contracción de \"wenn es geht\"."
+    },
+    {
+      "id": "s2-g016",
+      "front": "La expresión \"jemandem etwas recht sein\" (recht sein)",
+      "back": "= 'parecer/venir bien' a alguien, con pronombre en dativo. Ej.: Mir ist es recht, Ihm ist es recht, Ihnen ist es recht. En subordinada: wenn es dir recht ist."
+    },
+    {
+      "id": "s2-g017",
+      "front": "El adverbio \"dagegen\" (dagegen sein)",
+      "back": "\"dagegen\" = da ('ello') + gegen ('contra'). Ich bin dagegen = Estoy en contra; Ich bin nicht dagegen = No estoy en contra; wenn Sie nichts dagegen haben = si no le importa / si le parece bien."
+    },
+    {
+      "id": "s2-g018",
+      "front": "La expresión \"ehrlich gesagt\"",
+      "back": "= 'la verdad es que / dicho sinceramente'. Al aparecer, \"lieber\" le cede la posición y queda en última posición: Kaffee wäre mir ehrlich gesagt lieber."
+    },
+    {
+      "id": "s2-g019",
+      "front": "\"quedar\" (citarse) en alemán",
+      "back": "Es reflexivo: sich treffen. Ich treffe mich, du triffst dich, er trifft sich, wir treffen uns. Ej.: Sollen wir uns lieber später treffen? = ¿Quedamos luego mejor?"
+    },
+    {
+      "id": "s2-g020",
+      "front": "Plurales del infierno de esta Sektion",
+      "back": "der Grund → die Gründe (motivo); das Praktikum → die Praktika (prácticas); die Versicherung → die Versicherungen (seguro); der Single → die Singles; das Team → die Teams; das Kreuzworträtsel → die Kreuzworträtsel (no cambia)."
+    },
+    {
+      "id": "s2-g021",
+      "front": "¿Qué es \"als Beilage\" y cómo se dice 'pasta'?",
+      "back": "\"als Beilage\" = 'de acompañamiento / como guarnición'. 'Pasta' se dice con el plural \"die Nudeln\" (die Nudel en singular es un solo fideo)."
+    },
+    {
+      "id": "s2-g022",
+      "front": "Ciudad visitada: Schwerin",
+      "back": "Capital de Mecklemburgo-Pomerania Occidental (Mecklenburg-Vorpommern), ~92.000 hab.; es la capital de estado más pequeña de Alemania. Destaca el Schweriner Schloss. Personalidad: el arquitecto Georg Adolf Demmler."
+    },
+    {
+      "id": "s2-g023",
+      "front": "¡TÍPICO!: costumbres de boda alemanas (Hochzeitsbräuche)",
+      "back": "Comparten con España la Marcha nupcial (Hochzeitsmarsch de Wagner) y el 'algo azul/prestado/nuevo/viejo'. Costumbres propias: Polterabend (romper loza da suerte), serrar juntos un tronco, plantar un manzano."
+    },
+    {
+      "id": "s2-g024",
+      "front": "La señal \"Fahrschule\"",
+      "back": "= 'autoescuela'. Palabra compuesta de die Schule ('escuela') + fahren ('conducir')."
+    }
+  ]
+}
