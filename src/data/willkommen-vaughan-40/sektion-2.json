@@ -1,0 +1,570 @@
+{
+  "bookId": "willkommen-vaughan-40",
+  "bookTitle": "Buch 40",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: Oraciones condicionales irreales en el pasado",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "Si hubieras estudiado, habrías aprobado el examen.",
+      "back": "Wenn du gelernt hättest, hättest du die Prüfung bestanden."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Si se lo hubieras contado a tus padres, se habrían preocupado.",
+      "back": "Wenn du es deinen Eltern erzählt hättest, hätten sie sich Sorgen gemacht."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Habríamos tardado menos si nos hubieras ayudado.",
+      "back": "Wir hätten weniger Zeit gebraucht, wenn du mitgeholfen hättest."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Si hubieras ido en coche, me habría ido contigo.",
+      "back": "Wenn du mit dem Auto gefahren wärst, wäre ich mitgefahren."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Si hubiéramos ido en tren, habríamos llegado aún más tarde.",
+      "back": "Wenn wir mit dem Zug gefahren wären, wären wir noch später angekommen."
+    },
+    {
+      "id": "s2-t006",
+      "front": "Nos habríamos mojado si hubiéramos ido en bicicleta.",
+      "back": "Wir wären nass geworden, wenn wir mit dem Fahrrad gefahren wären."
+    },
+    {
+      "id": "s2-t007",
+      "front": "Si lo hubiera sabido, no habría venido.",
+      "back": "Wenn ich das gewusst hätte, wäre ich nicht mitgegangen."
+    },
+    {
+      "id": "s2-t008",
+      "front": "Si hubiera ganado la lotería, habría dado la vuelta al mundo.",
+      "back": "Wenn ich im Lotto gewonnen hätte, wäre ich auf Weltreise gegangen."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Yo habría ido a la fiesta si hubiera recibido una invitación.",
+      "back": "Ich wäre auf die Party gegangen, wenn ich eine Einladung gehabt hätte."
+    },
+    {
+      "id": "s2-t010",
+      "front": "Si él hubiera estado, seguro que se habría divertido.",
+      "back": "Wenn er dabei gewesen wäre, hätte er sicher Spaß gehabt."
+    },
+    {
+      "id": "s2-t011",
+      "front": "Si yo hubiera estado de acuerdo, lo habría dicho.",
+      "back": "Wenn ich einverstanden gewesen wäre, hätte ich es gesagt."
+    },
+    {
+      "id": "s2-t012",
+      "front": "Seguro que ella se lo habría pasado bien si hubiera venido.",
+      "back": "Sie hätte sicher Spaß gehabt, wenn sie mitgekommen wäre."
+    },
+    {
+      "id": "s2-t013",
+      "front": "Aunque lo hubiera sabido antes, no te lo habría contado.",
+      "back": "Selbst wenn ich es vorher gewusst hätte, hätte ich es dir nicht erzählt."
+    },
+    {
+      "id": "s2-t014",
+      "front": "Aunque hubiera tenido miedo, habría participado.",
+      "back": "Selbst wenn ich Angst gehabt hätte, hätte ich mitgemacht."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Él habría participado aunque hubiera tenido miedo.",
+      "back": "Er hätte mitgemacht, selbst wenn er Angst gehabt hätte."
+    },
+    {
+      "id": "s2-t016",
+      "front": "Si yo no hubiera prestado atención, quizá habríamos tenido un accidente.",
+      "back": "Wenn ich nicht aufgepasst hätte, hätten wir vielleicht einen Unfall gehabt."
+    },
+    {
+      "id": "s2-t017",
+      "front": "Si yo no hubiera prestado atención, tú no habrías visto el coche.",
+      "back": "Wenn ich nicht aufgepasst hätte, hättest du das Auto nicht gesehen."
+    },
+    {
+      "id": "s2-t018",
+      "front": "Me habría preocupado si ella no me hubiera avisado antes.",
+      "back": "Ich hätte mir Sorgen gemacht, wenn sie mir nicht vorher Bescheid gesagt hätte."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Si no hubiéramos ido en autobús, nos habríamos mojado.",
+      "back": "Wenn wir nicht mit dem Bus gefahren wären, wären wir nass geworden."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Si no hubiéramos ido al cine, habríamos ido a comer.",
+      "back": "Wenn wir nicht ins Kino gegangen wären, wären wir essen gegangen."
+    },
+    {
+      "id": "s2-t021",
+      "front": "Habría ido a su cumpleaños si no hubiera estado enfermo.",
+      "back": "Ich wäre zu seinem Geburtstag gegangen, wenn ich nicht krank gewesen wäre."
+    },
+    {
+      "id": "s2-t022",
+      "front": "Si no me hubiera encontrado mal, me habría gustado venirme.",
+      "back": "Wenn ich mich nicht schlecht gefühlt hätte, wäre ich gerne mitgekommen."
+    },
+    {
+      "id": "s2-t023",
+      "front": "Si él no se hubiera encontrado mal, seguro que habría ido.",
+      "back": "Wenn er sich nicht schlecht gefühlt hätte, wäre er sicher mitgegangen."
+    },
+    {
+      "id": "s2-t024",
+      "front": "Me habría puesto enfermo si no hubiera llevado chaqueta.",
+      "back": "Ich wäre krank geworden, wenn ich keine Jacke angehabt hätte."
+    },
+    {
+      "id": "s2-t025",
+      "front": "Si no me hubiera apetecido, no habría participado.",
+      "back": "Wenn ich keine Lust gehabt hätte, hätte ich nicht mitgemacht."
+    },
+    {
+      "id": "s2-t026",
+      "front": "Si no hubieras llevado un GPS, habríamos tenido un problema.",
+      "back": "Wenn du kein Navi dabei gehabt hättest, hätten wir ein Problem gehabt."
+    },
+    {
+      "id": "s2-t027",
+      "front": "Ella se habría sentido decepcionada si no le hubiera comprado un regalo.",
+      "back": "Sie wäre enttäuscht gewesen, wenn ich ihr kein Geschenk gekauft hätte."
+    },
+    {
+      "id": "s2-t028",
+      "front": "Aunque no hubiéramos recibido invitación, habríamos ido igualmente.",
+      "back": "Selbst wenn wir keine Einladung gehabt hätten, wären wir trotzdem auf die Party gegangen."
+    },
+    {
+      "id": "s2-t029",
+      "front": "Aunque ella no hubiera estado enferma, se habría quedado en casa.",
+      "back": "Selbst wenn sie nicht krank gewesen wäre, wäre sie zuhause geblieben."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Habríamos llegado puntuales aunque el taxi no hubiera llegado antes.",
+      "back": "Wir wären pünktlich gekommen, selbst wenn das Taxi nicht früher gekommen wäre."
+    },
+    {
+      "id": "s2-t031",
+      "front": "Si hubiera prestado más atención, no me habría perdido conduciendo.",
+      "back": "Wenn ich besser aufgepasst hätte, hätte ich mich nicht verfahren."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Si no hubiera estudiado, no habría aprobado el examen.",
+      "back": "Wenn ich nicht gelernt hätte, hätte ich die Prüfung nicht bestanden."
+    },
+    {
+      "id": "s2-t033",
+      "front": "No habría hecho nada este fin de semana si hubiera llovido.",
+      "back": "Ich hätte letztes Wochenende nichts unternommen, wenn es geregnet hätte."
+    },
+    {
+      "id": "s2-t034",
+      "front": "Si hubiera estado en tu lugar, no habría vuelto a ir.",
+      "back": "Wenn ich an deiner Stelle gewesen wäre, wäre ich nicht noch mal zurückgegangen."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Si hubiera estado en tu lugar, no me habría enfadado.",
+      "back": "Wenn ich an deiner Stelle gewesen wäre, wäre ich nicht sauer gewesen."
+    },
+    {
+      "id": "s2-t036",
+      "front": "Yo no habría ido al trabajo si hubiera estado resfriado.",
+      "back": "Ich wäre nicht zur Arbeit gegangen, wenn ich erkältet gewesen wäre."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Si hubiera tenido más dinero, no habría ido en autobús a París.",
+      "back": "Wenn ich mehr Geld gehabt hätte, wäre ich nicht mit dem Bus nach Paris gefahren."
+    },
+    {
+      "id": "s2-t038",
+      "front": "Si hubiera estado en tu lugar, no habría dicho nada.",
+      "back": "Wenn ich an deiner Stelle gewesen wäre, hätte ich nichts gesagt."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Yo no habría hecho lo mismo si hubiera estado en su lugar.",
+      "back": "Ich hätte nicht das Gleiche getan, wenn ich an seiner Stelle gewesen wäre."
+    },
+    {
+      "id": "s2-t040",
+      "front": "Si tú no hubieras dicho nada, yo no habría tenido problemas.",
+      "back": "Wenn du nichts gesagt hättest, hätte ich keine Probleme bekommen."
+    },
+    {
+      "id": "s2-t041",
+      "front": "Si él no hubiera ido al extranjero, no habría necesitado pasaporte.",
+      "back": "Wenn er nicht ins Ausland gefahren wäre, hätte er keinen Pass gebraucht."
+    },
+    {
+      "id": "s2-t042",
+      "front": "No habría necesitado intérprete si hubiera hablado mejor alemán.",
+      "back": "Ich hätte keinen Dolmetscher gebraucht, wenn ich besser Deutsch gesprochen hätte."
+    },
+    {
+      "id": "s2-t043",
+      "front": "Aunque él hubiera tenido intérprete, no lo habría entendido.",
+      "back": "Selbst wenn er einen Dolmetscher gehabt hätte, hätte er es nicht verstanden."
+    },
+    {
+      "id": "s2-t044",
+      "front": "Aunque hubiera estado allí, yo no habría participado.",
+      "back": "Selbst wenn ich dabei gewesen wäre, hätte ich nicht mitgemacht."
+    },
+    {
+      "id": "s2-t045",
+      "front": "No habría conseguido mesa aunque hubiera llamado tres semanas antes.",
+      "back": "Ich hätte keinen Tisch bekommen, selbst wenn ich drei Wochen vorher angerufen hätte."
+    },
+    {
+      "id": "s2-t046",
+      "front": "Lo imposible no existe.",
+      "back": "Geht nicht, gibt's nicht."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Prohibido cambiar de sentido.",
+      "back": "Wenden verboten."
+    },
+    {
+      "id": "s2-t048",
+      "front": "Disculpe, ¿podría darme una almohada y unos auriculares?",
+      "back": "Entschuldigung, kann ich bitte ein Kissen und Kopfhörer haben?"
+    },
+    {
+      "id": "s2-t049",
+      "front": "¿Me podría traer también algo de beber?",
+      "back": "Kann ich auch noch etwas zu trinken haben?"
+    },
+    {
+      "id": "s2-t050",
+      "front": "Agua mineral con hielo y limón, por favor.",
+      "back": "Ein Mineralwasser mit Eis und Zitrone, bitte."
+    },
+    {
+      "id": "s2-t051",
+      "front": "¿Habrías estudiado más si hubieras tenido más tiempo?",
+      "back": "Hättest du mehr gelernt, wenn du mehr Zeit gehabt hättest?"
+    },
+    {
+      "id": "s2-t052",
+      "front": "¿Qué habrías hecho si hubiera llovido en tu fiesta?",
+      "back": "Was hättest du gemacht, wenn es auf deinem Gartenfest geregnet hätte?"
+    },
+    {
+      "id": "s2-t053",
+      "front": "¿Habría conseguido él el trabajo si hubiera tenido más experiencia?",
+      "back": "Hätte er den Job bekommen, wenn er mehr Erfahrung gehabt hätte?"
+    },
+    {
+      "id": "s2-t054",
+      "front": "¿Te habrías ido al extranjero si te hubieras quedado en paro?",
+      "back": "Wärst du ins Ausland gegangen, wenn du arbeitslos geworden wärst?"
+    },
+    {
+      "id": "s2-t055",
+      "front": "¿Qué habría pasado si yo no hubiera ido a la entrevista?",
+      "back": "Was wäre gewesen, wenn ich nicht zum Vorstellungsgespräch gegangen wäre?"
+    },
+    {
+      "id": "s2-t056",
+      "front": "¿Qué habría pasado si hubieras llegado tarde?",
+      "back": "Was wäre passiert, wenn du zu spät gekommen wärst?"
+    },
+    {
+      "id": "s2-t057",
+      "front": "¿Qué habrías hecho si hubieras estado en mi lugar?",
+      "back": "Was hättest du gemacht, wenn du an meiner Stelle gewesen wärst?"
+    },
+    {
+      "id": "s2-t058",
+      "front": "¿Qué habría hecho él si hubiera estado en tu situación?",
+      "back": "Was hätte er getan, wenn er an deiner Stelle gewesen wäre?"
+    },
+    {
+      "id": "s2-t059",
+      "front": "¿La habrías llamado si hubieras estado en mi lugar?",
+      "back": "Hättest du sie angerufen, wenn du an meiner Stelle gewesen wärst?"
+    },
+    {
+      "id": "s2-t060",
+      "front": "¿Te habrías quedado en Alemania si hubieras conseguido trabajo?",
+      "back": "Wärst du in Deutschland geblieben, wenn du eine Stelle bekommen hättest?"
+    },
+    {
+      "id": "s2-t061",
+      "front": "¿Qué habría pasado si alguien hubiera avisado?",
+      "back": "Was wäre passiert, wenn jemand Bescheid gesagt hätte?"
+    },
+    {
+      "id": "s2-t062",
+      "front": "¿Habrías venido a mi fiesta si hubiera invitado a tu ex?",
+      "back": "Wärst du zu meiner Feier gekommen, wenn ich deinen Ex eingeladen hätte?"
+    },
+    {
+      "id": "s2-t063",
+      "front": "¿La habrías llamado aunque hubiera tenido novio?",
+      "back": "Hättest du sie auch angerufen, wenn sie einen Freund gehabt hätte?"
+    },
+    {
+      "id": "s2-t064",
+      "front": "¿Te habrías ido a Alemania aunque hubieras tenido trabajo fijo en España?",
+      "back": "Wärst du auch nach Deutschland gegangen, wenn du einen festen Job in Spanien gehabt hättest?"
+    },
+    {
+      "id": "s2-t065",
+      "front": "¿Habrías conseguido trabajo fijo aunque hubieras estado embarazada?",
+      "back": "Hättest du auch eine feste Stelle bekommen, wenn du schwanger gewesen wärst?"
+    },
+    {
+      "id": "s2-t066",
+      "front": "¿Me habrías llamado si yo no hubiera dado señales?",
+      "back": "Hättest du mich angerufen, wenn ich mich nicht gemeldet hätte?"
+    },
+    {
+      "id": "s2-t067",
+      "front": "¿Te habrías preocupado si él no hubiera dado señales?",
+      "back": "Hättest du dir Sorgen gemacht, wenn er sich nicht gemeldet hätte?"
+    },
+    {
+      "id": "s2-t068",
+      "front": "¿Qué habrías hecho si no hubieras estudiado Medicina?",
+      "back": "Was hättest du gemacht, wenn du nicht Medizin studiert hättest?"
+    },
+    {
+      "id": "s2-t069",
+      "front": "¿Habrías ido a la despedida si yo no hubiera ido contigo?",
+      "back": "Wärst du auf die Abschiedsfeier gegangen, wenn ich nicht mitgekommen wäre?"
+    },
+    {
+      "id": "s2-t070",
+      "front": "¿Qué habría pasado si yo no hubiera estado allí?",
+      "back": "Was wäre passiert, wenn ich nicht dabei gewesen wäre?"
+    },
+    {
+      "id": "s2-t071",
+      "front": "¿Qué habría pasado si él no hubiera ido al médico?",
+      "back": "Was wäre passiert, wenn er nicht zum Arzt gegangen wäre?"
+    },
+    {
+      "id": "s2-t072",
+      "front": "¿Le habría llamado si él no hubiera llegado puntual?",
+      "back": "Hätten Sie ihn angerufen, wenn er nicht pünktlich gekommen wäre?"
+    },
+    {
+      "id": "s2-t073",
+      "front": "¿Te habrías decepcionado si él no hubiera dado señales?",
+      "back": "Wärst du enttäuscht gewesen, wenn er sich nicht gemeldet hätte?"
+    },
+    {
+      "id": "s2-t074",
+      "front": "¿Qué habría pasado si yo no hubiera dicho nada?",
+      "back": "Was wäre passiert, wenn ich nichts gesagt hätte?"
+    },
+    {
+      "id": "s2-t075",
+      "front": "¿Qué habríais hecho si no hubiera habido ningún médico cerca?",
+      "back": "Was hättet ihr getan, wenn es keinen Arzt in der Nähe gegeben hätte?"
+    },
+    {
+      "id": "s2-t076",
+      "front": "¿La habrías contratado si no hubiera tenido experiencia?",
+      "back": "Hättest du sie eingestellt, wenn sie keine Erfahrung auf dem Gebiet gehabt hätte?"
+    },
+    {
+      "id": "s2-t077",
+      "front": "¿Ella habría entendido que no le hubieras comprado ningún regalo?",
+      "back": "Hätte sie es verstanden, wenn du ihr kein Geschenk gekauft hättest?"
+    },
+    {
+      "id": "s2-t078",
+      "front": "¿Habrías solicitado el puesto aunque no hubieras tenido experiencia?",
+      "back": "Hättest du dich auch beworben, wenn du keine Erfahrung auf dem Gebiet gehabt hättest?"
+    },
+    {
+      "id": "s2-t079",
+      "front": "¿Te habrías ido a Francia aunque no hubieras conseguido plaza universitaria?",
+      "back": "Wärst du auch nach Frankreich gegangen, wenn du keinen Studienplatz bekommen hättest?"
+    },
+    {
+      "id": "s2-t080",
+      "front": "¿Te habrías quedado aquí aunque los vuelos no hubieran sido tan caros?",
+      "back": "Wärst du auch hier geblieben, wenn die Flüge nicht so teuer gewesen wären?"
+    },
+    {
+      "id": "s2-t081",
+      "front": "¿Ella no habría llamado si hubiera tenido problemas?",
+      "back": "Hätte sie nicht angerufen, wenn sie Probleme gehabt hätte?"
+    },
+    {
+      "id": "s2-t082",
+      "front": "¿No te habrían avisado si lo hubieran sabido?",
+      "back": "Hätten sie dir nicht Bescheid gesagt, wenn sie es gewusst hätten?"
+    },
+    {
+      "id": "s2-t083",
+      "front": "¿Él no habría preguntado si no lo hubiera entendido?",
+      "back": "Hätte er nicht nachgefragt, wenn er es nicht verstanden hätte?"
+    },
+    {
+      "id": "s2-t084",
+      "front": "¿No habría sido mejor que nos hubiéramos quedado en casa?",
+      "back": "Wäre es nicht besser gewesen, wenn wir zuhause geblieben wären?"
+    },
+    {
+      "id": "s2-t085",
+      "front": "¿No habría sido más razonable que hubiéramos salido antes?",
+      "back": "Wäre es nicht vernünftiger gewesen, wenn wir früher losgefahren wären?"
+    },
+    {
+      "id": "s2-t086",
+      "front": "¿No habría sido más fácil que te hubieras quedado allí?",
+      "back": "Wäre es nicht einfacher gewesen, wenn du dort geblieben wärst?"
+    },
+    {
+      "id": "s2-t087",
+      "front": "¿No te habría parecido mal que él no hubiera venido?",
+      "back": "Hättest du es nicht blöd gefunden, wenn er nicht gekommen wäre?"
+    },
+    {
+      "id": "s2-t088",
+      "front": "¿No le habría parecido mal que los invitados hubieran llegado tarde?",
+      "back": "Hätte er es nicht blöd gefunden, wenn die Gäste zu spät gekommen wären?"
+    },
+    {
+      "id": "s2-t089",
+      "front": "¿Ella no habría llamado si hubiera sido una emergencia?",
+      "back": "Hätte sie nicht angerufen, wenn es ein Notfall gewesen wäre?"
+    },
+    {
+      "id": "s2-t090",
+      "front": "¿No habría habido problemas si yo hubiera terminado más tarde?",
+      "back": "Hätte es keine Probleme gegeben, wenn ich es später fertig gemacht hätte?"
+    },
+    {
+      "id": "s2-t091",
+      "front": "¿No habría sido un problema si hubiéramos llegado más tarde?",
+      "back": "Wäre es kein Problem gewesen, wenn wir später nachgekommen wären?"
+    },
+    {
+      "id": "s2-t092",
+      "front": "¿No habría habido sitio si él se hubiera traído al perro?",
+      "back": "Hätte es keinen Platz im Auto gegeben, wenn er den Hund mitgenommen hätte?"
+    },
+    {
+      "id": "s2-t093",
+      "front": "¿No habría habido sitio incluso si nos hubiéramos quedado en casa?",
+      "back": "Hätte es auch dann keinen Platz gegeben, wenn wir zuhause geblieben wären?"
+    },
+    {
+      "id": "s2-t094",
+      "front": "¿No te habrías venido incluso si hubiera invitado a Martin?",
+      "back": "Wärst du auch dann nicht mitgekommen, wenn ich Martin eingeladen hätte?"
+    },
+    {
+      "id": "s2-t095",
+      "front": "¿No habría conseguido usted trabajo fijo aunque ya llevara tiempo allí?",
+      "back": "Hätten Sie auch dann keine feste Stelle bekommen, wenn Sie schon lange dort gearbeitet hätten?"
+    },
+    {
+      "id": "s2-t096",
+      "front": "¿Agua con o sin gas?",
+      "back": "Stilles Wasser oder mit Kohlensäure?"
+    },
+    {
+      "id": "s2-t097",
+      "front": "¿Cuándo viene la comida?",
+      "back": "Wann kommt das Essen?"
+    },
+    {
+      "id": "s2-t098",
+      "front": "Nosotros pasamos enseguida con la comida.",
+      "back": "Wir kommen anschließend mit dem Essen vorbei."
+    },
+    {
+      "id": "s2-t099",
+      "front": "Taberna de viticultor.",
+      "back": "Die Strauße."
+    },
+    {
+      "id": "s2-t100",
+      "front": "¿Qué significa Spaß haben?",
+      "back": "Divertirse o pasárselo bien."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué tiempo se usa en ambas partes de una condicional irreal pasada?",
+      "back": "El Konjunktiv II pluscuamperfecto: Wenn du gelernt hättest, hättest du bestanden."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Dónde va el verbo conjugado en la subordinada con wenn?",
+      "back": "Al final: wenn du es gewusst hättest."
+    },
+    {
+      "id": "s2-g003",
+      "front": "Si la subordinada con wenn va primero, ¿qué orden sigue la principal?",
+      "back": "Verbo antes que sujeto: Wenn ..., hätte ich ..."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Cómo se elige entre hätte y wäre?",
+      "back": "Según el auxiliar del verbo principal en el perfecto: haben o sein."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué significa selbst wenn?",
+      "back": "Aunque / incluso si."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Qué alternativa ofrece auch ... wenn?",
+      "back": "También significa aunque; auch suele aparecer en la principal."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Dónde se coloca nicht en una subordinada?",
+      "back": "Antes del bloque verbal final y después de los pronombres: wenn ich mich nicht gemeldet hätte."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Cómo se niega un sustantivo?",
+      "back": "Con kein declinado: wenn du kein Geschenk gekauft hättest."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Cómo se pregunta qué habría pasado?",
+      "back": "Was wäre passiert, wenn ...? o Was wäre gewesen, wenn ...?"
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Qué significa sich bewerben?",
+      "back": "Solicitar un puesto o presentar una candidatura."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué expresa auch dann ..., wenn ...?",
+      "back": "Incluso en el caso de que..."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Qué diferencia hay entre habrías y hubieras en estas frases alemanas?",
+      "back": "No hay una forma distinta: ambas se expresan con el mismo Konjunktiv II pluscuamperfecto."
+    }
+  ]
+}
+
