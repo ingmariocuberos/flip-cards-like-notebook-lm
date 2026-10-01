@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-41",
+  "bookTitle": "Buch 41",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: Je ... desto y je ... umso",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Cuanto más grande, mejor.",
+      "back": "Je größer, desto besser."
+    },
+    {
+      "id": "s1-t002",
+      "front": "Cuanto más, mejor.",
+      "back": "Je mehr, desto besser."
+    },
+    {
+      "id": "s1-t003",
+      "front": "Cuanto menos, mejor.",
+      "back": "Je weniger, desto besser."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Cuanto más, más fácil.",
+      "back": "Je mehr, desto einfacher."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Cuanto más, más difícil.",
+      "back": "Je mehr, desto schwieriger."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Cuanto más, más lento.",
+      "back": "Je mehr, desto langsamer."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Cuanto más azúcar, mejor.",
+      "back": "Je mehr Zucker, desto besser."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Cuantos más niños, más difícil.",
+      "back": "Je mehr Kinder, desto schwieriger."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Cuanta menos gente, más fácil.",
+      "back": "Je weniger Leute, desto einfacher."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Cuantos más coches, más accidentes.",
+      "back": "Je mehr Autos, desto mehr Unfälle."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Cuantos más pedidos, más beneficios.",
+      "back": "Je mehr Aufträge, desto mehr Gewinn."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Cuantos menos pedidos, menos trabajo.",
+      "back": "Je weniger Aufträge, desto weniger Arbeit."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Cuanto mayor el problema, más difícil la solución.",
+      "back": "Je größer das Problem, desto schwieriger die Lösung."
+    },
+    {
+      "id": "s1-t014",
+      "front": "Cuanto más difícil el trabajo, mayor el sueldo.",
+      "back": "Je schwieriger die Arbeit, desto höher das Gehalt."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Cuanto mejor el servicio, mayores las propinas.",
+      "back": "Je besser der Service, desto höher das Trinkgeld."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Cuanto más estudies, mejor.",
+      "back": "Je mehr du lernst, desto besser."
+    },
+    {
+      "id": "s1-t017",
+      "front": "Cuanto más lo pienses, peor.",
+      "back": "Je mehr du nachdenkst, desto schlimmer."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Cuanta más gente ayude, mejor.",
+      "back": "Je mehr Leute mithelfen, desto besser."
+    },
+    {
+      "id": "s1-t019",
+      "front": "Cuanto menos sepas, mejor.",
+      "back": "Je weniger du weißt, desto besser."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Cuanto menos coma él, peor.",
+      "back": "Je weniger er isst, desto schlimmer."
+    },
+    {
+      "id": "s1-t021",
+      "front": "Cuanta menos gente participe, más difícil será.",
+      "back": "Je weniger Leute mitmachen, desto schwieriger."
+    },
+    {
+      "id": "s1-t022",
+      "front": "Cuanto antes empieces, mejor.",
+      "back": "Je früher du anfängst, desto besser."
+    },
+    {
+      "id": "s1-t023",
+      "front": "Cuanto antes empiece usted, más fácil será.",
+      "back": "Je früher Sie anfangen, desto einfacher."
+    },
+    {
+      "id": "s1-t024",
+      "front": "Cuanto antes salgamos, mejor.",
+      "back": "Je früher wir losgehen, desto besser."
+    },
+    {
+      "id": "s1-t025",
+      "front": "Cuanto más trabajes, mayor será tu sueldo.",
+      "back": "Je mehr du arbeitest, desto höher dein Gehalt."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Cuanto más espere usted, más grave será el problema.",
+      "back": "Je länger Sie warten, desto schlimmer das Problem."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Cuanto más tarde se empiece, peor será la preparación.",
+      "back": "Je später man anfängt, desto schlechter die Vorbereitung."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Cuanto más tiempo podáis quedaros, mejor.",
+      "back": "Je länger ihr bleiben könnt, desto besser."
+    },
+    {
+      "id": "s1-t029",
+      "front": "Cuanto más a menudo puedas pasarte, mejor.",
+      "back": "Je öfter du vorbeikommen kannst, desto besser."
+    },
+    {
+      "id": "s1-t030",
+      "front": "Cuanto antes podamos empezar, más fácil será la preparación.",
+      "back": "Je früher wir anfangen können, desto einfacher die Vorbereitung."
+    },
+    {
+      "id": "s1-t031",
+      "front": "Cuanto más aprendas, más sabrás.",
+      "back": "Je mehr du lernst, desto mehr weißt du."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Cuanto más preguntes, más aprenderás.",
+      "back": "Je mehr du fragst, desto mehr lernst du."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Cuanto menos preguntes, menos aprenderás.",
+      "back": "Je weniger du fragst, desto weniger lernst du."
+    },
+    {
+      "id": "s1-t034",
+      "front": "Cuanto más sano comas, más delgado estarás.",
+      "back": "Je gesünder du isst, desto schlanker bist du."
+    },
+    {
+      "id": "s1-t035",
+      "front": "Cuanto más practiques, mejor hablarás.",
+      "back": "Je mehr du übst, desto besser sprichst du."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Cuanto más tiempo pienso, más furioso me pongo.",
+      "back": "Je länger ich überlege, desto wütender werde ich."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Cuanto más come uno, más gordo se pone.",
+      "back": "Je mehr man isst, desto dicker wird man."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Cuanto más lento se conduce, más se ve.",
+      "back": "Je langsamer man fährt, desto mehr sieht man."
+    },
+    {
+      "id": "s1-t039",
+      "front": "Cuanto más a menudo practica uno, mejor se vuelve.",
+      "back": "Je öfter man übt, desto besser wird man."
+    },
+    {
+      "id": "s1-t040",
+      "front": "Cuanto más esperaba, más furioso me ponía.",
+      "back": "Je länger ich gewartet habe, desto wütender wurde ich."
+    },
+    {
+      "id": "s1-t041",
+      "front": "Cuanto más llamaba él, más impaciente se volvía.",
+      "back": "Je öfter er angerufen hat, desto ungeduldiger wurde er."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Cuanto más escuchaba, menos entendía.",
+      "back": "Je mehr ich zugehört habe, desto weniger habe ich verstanden."
+    },
+    {
+      "id": "s1-t043",
+      "front": "Cuanta más gente pueda ayudar, antes me podré ir.",
+      "back": "Je mehr Leute mithelfen können, desto früher kann ich gehen."
+    },
+    {
+      "id": "s1-t044",
+      "front": "Cuanto menos tenga que ayudarte, más podrás aprender.",
+      "back": "Je weniger ich dir helfen muss, desto mehr kannst du lernen."
+    },
+    {
+      "id": "s1-t045",
+      "front": "Cuanto antes quieras marcharte, más tiempo tendré que quedarme.",
+      "back": "Je früher du gehen willst, desto länger muss ich bleiben."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Cuantos más exámenes apruebes, mejor.",
+      "back": "Je mehr Prüfungen du bestehst, desto besser."
+    },
+    {
+      "id": "s1-t047",
+      "front": "Cuantas más vueltas le des, peor se volverá.",
+      "back": "Je mehr Gedanken du dir machst, desto schlimmer wird es."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Cuantas mejores notas saques, más contentos estarán tus padres.",
+      "back": "Je bessere Noten du bekommst, desto zufriedener sind deine Eltern."
+    },
+    {
+      "id": "s1-t049",
+      "front": "Cuanto más estudies, mejores notas sacarás.",
+      "back": "Je mehr du lernst, desto bessere Noten bekommst du."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Cuanto más espere, más vueltas le daré.",
+      "back": "Je länger ich warte, desto mehr Gedanken werde ich mir machen."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Cuanta más práctica tenga, menos errores cometerá.",
+      "back": "Je mehr Übung Sie haben, desto weniger Fehler machen Sie."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Cuanto antes vayas al médico, mejor.",
+      "back": "Je früher du zum Arzt gehst, desto besser."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Cuanto más voy a pasear al parque, mejor me siento.",
+      "back": "Je öfter ich im Park spazieren gehe, desto besser fühle ich mich."
+    },
+    {
+      "id": "s1-t054",
+      "front": "Cuanto más tiempo me quede aquí fuera, más frío tendré.",
+      "back": "Je länger ich hier draußen bleibe, desto kälter wird mir."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Cuanto peor me encuentro, más voy al médico.",
+      "back": "Je schlechter ich mich fühle, desto öfter gehe ich zum Arzt."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Cuanto más hablo por teléfono con mi madre, menos voy a verla.",
+      "back": "Je öfter ich mit meiner Mutter telefoniere, desto seltener fahre ich zu ihr."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Cuanto más oscuro está, más rápido cruzo el parque.",
+      "back": "Je dunkler es ist, desto schneller laufe ich durch den Park."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Cuanto más tiempo se tiene, más vueltas se les da a las cosas.",
+      "back": "Je mehr Zeit man hat, desto mehr Gedanken macht man sich."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Cuanta menos práctica se tiene, más errores se cometen.",
+      "back": "Je weniger Übung man hat, desto mehr Fehler macht man."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Cuanto más se va al médico, mejor.",
+      "back": "Je öfter man zum Arzt geht, desto besser."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Cuanto más reflexiono sobre el asunto, peor se vuelve.",
+      "back": "Je mehr ich über die Sache nachdenke, desto schlimmer wird es."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Cuanto más pienso sobre ello, más seguro estoy.",
+      "back": "Je mehr ich darüber nachdenke, desto sicherer bin ich."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Cuanto más reflexiono, menos lo entiendo.",
+      "back": "Je länger ich darüber nachdenke, desto weniger verstehe ich es."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Cuanto antes empieces a estudiar, mayor será la probabilidad de que apruebes.",
+      "back": "Je früher du mit dem Lernen anfängst, desto größer ist die Chance, dass du die Prüfung bestehst."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Cuanto más conduzcas, mayor será la probabilidad de tener un accidente.",
+      "back": "Je öfter du mit dem Auto fährst, desto größer ist die Chance, dass du einen Unfall hast."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Cuanto mejor hagas la Selectividad, mayor será la probabilidad de conseguir plaza.",
+      "back": "Je besser dein Abitur ist, desto größer ist die Chance, dass du einen Studienplatz bekommst."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Cuanto mejor sea tu nota final, mayor será la probabilidad de conseguir un buen puesto.",
+      "back": "Je besser deine Abschlussnote ist, desto höher ist die Wahrscheinlichkeit, dass du eine gute Stelle bekommst."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Cuanto más despacio conduzca, menor será la probabilidad de que se pase la salida.",
+      "back": "Je langsamer Sie fahren, desto geringer ist die Wahrscheinlichkeit, dass Sie die Ausfahrt verpassen."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Cuanto menos deporte hagas, mayor será la probabilidad de que te dé un infarto.",
+      "back": "Je weniger Sport du machst, desto höher ist die Wahrscheinlichkeit, dass du einen Herzinfarkt bekommst."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Cuanto más tiempo pienso, más seguro estoy de que quiero estudiar Psicología.",
+      "back": "Je länger ich darüber nachdenke, desto sicherer bin ich, dass ich Psychologie studieren will."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Cuanto más fumes, mayor será el riesgo de padecer cáncer de pulmón.",
+      "back": "Je mehr du rauchst, desto größer ist die Gefahr, dass du Lungenkrebs bekommst."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Cuanto más hablo con ella, más seguro estoy de que necesita ayuda profesional.",
+      "back": "Je mehr ich mit ihr rede, desto sicherer bin ich, dass sie professionelle Hilfe braucht."
+    },
+    {
+      "id": "s1-t073",
+      "front": "Cuanto más vueltas se le dé, peor.",
+      "back": "Je mehr man sich darüber Gedanken macht, desto schlimmer."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Cuanto más se fuma, mayor es el riesgo de padecer cáncer de pulmón.",
+      "back": "Je mehr man raucht, desto größer ist die Gefahr, dass man Lungenkrebs bekommt."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Cuanto más rápido se conduce, mayor es la probabilidad de tener un accidente.",
+      "back": "Je schneller man fährt, desto größer ist die Chance, dass man einen Unfall hat."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Con umso: cuanto más grande, mejor.",
+      "back": "Je größer, umso besser."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Cuanto más lento, más fácil.",
+      "back": "Je langsamer, umso einfacher."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Con umso: cuanto más difícil el trabajo, mayor el sueldo.",
+      "back": "Je schwieriger die Arbeit, umso höher das Gehalt."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Cuanto antes empiece usted, mejor.",
+      "back": "Je früher Sie anfangen, umso besser."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Con umso: cuanto más lo pienses, peor.",
+      "back": "Je mehr du nachdenkst, umso schlimmer."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Cuanto más espere usted, más grave será la situación.",
+      "back": "Je länger Sie warten, umso schlimmer die Situation."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Cuanto más sano comas, más adelgazarás.",
+      "back": "Je gesünder du isst, umso schlanker wirst du."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Cuanto más lo pienso, más triste me pongo.",
+      "back": "Je länger ich nachdenke, umso trauriger werde ich."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Cuanto más se practica, mejor se habla.",
+      "back": "Je öfter man übt, umso besser spricht man."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Con umso: cuanta más práctica tenga, menos errores cometerá.",
+      "back": "Je mehr Übung Sie haben, umso weniger Fehler machen Sie."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Cuantas más veces se vaya al médico, mejor.",
+      "back": "Je öfter man zum Arzt geht, umso besser."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Cuanto más tiempo me quede aquí dentro, más calor tendré.",
+      "back": "Je länger ich hier drinnen bleibe, umso heißer wird mir."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Con umso: cuanto más tiempo pienso, más seguro estoy de que quiero estudiar Psicología.",
+      "back": "Je länger ich darüber nachdenke, umso sicherer bin ich, dass ich Psychologie studieren will."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Con umso: cuanto más se fuma, mayor es el riesgo de padecer cáncer de pulmón.",
+      "back": "Je mehr man raucht, umso größer ist die Gefahr, dass man Lungenkrebs bekommt."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Cuanto mejor haga la Selectividad, mayor será la probabilidad de conseguir plaza.",
+      "back": "Je besser Ihr Abitur ist, umso höher ist die Wahrscheinlichkeit, dass Sie einen Studienplatz bekommen."
+    },
+    {
+      "id": "s1-t091",
+      "front": "No me malinterpretes.",
+      "back": "Versteh mich nicht falsch."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Cancelar.",
+      "back": "Abbrechen."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Tengo una ampolla en el pie y apenas puedo pisar.",
+      "back": "Ich habe eine Blase am Fuß und kann kaum auftreten."
+    },
+    {
+      "id": "s1-t094",
+      "front": "La herida está cerrada, pero es muy dolorosa.",
+      "back": "Die Wunde ist geschlossen, aber sehr schmerzhaft."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Bien, entonces me llevo las tiritas.",
+      "back": "Gut, dann hätte ich gerne die Pflaster."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Lo haré. Muchas gracias.",
+      "back": "Das werde ich tun. Vielen Dank."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Entre las dos y cuarto y las cuatro y cuarto.",
+      "back": "Zwischen Viertel nach zwei und Viertel nach vier."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Entre las seis y cuarto y las ocho y cuarto.",
+      "back": "Zwischen Viertel nach sechs und Viertel nach acht."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Entre las tres y cuarto y las once y cuarto.",
+      "back": "Zwischen Viertel nach drei und Viertel nach elf."
+    },
+    {
+      "id": "s1-t100",
+      "front": "La práctica hace al maestro.",
+      "back": "Übung macht den Meister."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué significa je ... desto?",
+      "back": "Cuanto más/menos..., tanto más/menos..."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué alternativa tiene desto?",
+      "back": "umso; je ... umso mantiene el mismo significado y orden."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué orden lleva la parte introducida por je?",
+      "back": "Orden subordinado: el verbo conjugado va al final."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Qué orden lleva la parte introducida por desto o umso?",
+      "back": "El comparativo ocupa la primera posición y después van verbo y sujeto."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Pueden je y desto aparecer sin verbos?",
+      "back": "Sí: Je größer, desto besser."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué forma comparativa corresponde a viel y wenig?",
+      "back": "mehr y weniger."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Qué ocurre con un verbo separable en la parte con je?",
+      "back": "No se separa: je früher du anfängst."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Dónde va un modal en la subordinada con je?",
+      "back": "Al final, detrás del infinitivo: je länger ihr bleiben könnt."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Cómo se añade una consecuencia con dass?",
+      "back": "Tras la principal: desto größer ist die Chance, dass ..."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Cómo se expresa «cometer errores»?",
+      "back": "Fehler machen, literalmente «hacer errores»."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué significa sich Gedanken machen?",
+      "back": "Darle vueltas o preocuparse por algo."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se dice «cuanto antes, mejor»?",
+      "back": "Je früher, desto besser."
+    }
+  ]
+}

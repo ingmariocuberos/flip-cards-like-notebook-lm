@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-41",
+  "bookTitle": "Buch 41",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: El superlativo con am",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Mi hija es la que mejor canta.",
+      "back": "Meine Tochter kann am schönsten singen."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Yo soy quien más rápido corre.",
+      "back": "Ich kann am schnellsten rennen."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Él es quien te lo puede explicar más fácilmente.",
+      "back": "Er kann es dir am einfachsten erklären."
+    },
+    {
+      "id": "s3-t004",
+      "front": "En el salón es donde hay más luz.",
+      "back": "Im Wohnzimmer ist es am hellsten."
+    },
+    {
+      "id": "s3-t005",
+      "front": "En este punto es donde más profundo es el lago.",
+      "back": "Der See ist an dieser Stelle am tiefsten."
+    },
+    {
+      "id": "s3-t006",
+      "front": "En verano es cuando más caros son los vuelos.",
+      "back": "Im Sommer sind die Flüge am teuersten."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Así es como más rápido se hace.",
+      "back": "So geht es am schnellsten."
+    },
+    {
+      "id": "s3-t008",
+      "front": "De esta manera es como más fácil se hace.",
+      "back": "Auf diese Art geht es am einfachsten."
+    },
+    {
+      "id": "s3-t009",
+      "front": "¿De qué manera se hace más rápido?",
+      "back": "Auf welche Art geht es am schnellsten?"
+    },
+    {
+      "id": "s3-t010",
+      "front": "¿Dónde se puede comprar más barato por aquí?",
+      "back": "Wo kann man hier am billigsten einkaufen?"
+    },
+    {
+      "id": "s3-t011",
+      "front": "¿Cuál es la forma más rápida de llegar a la autopista?",
+      "back": "Wie kommt man am schnellsten auf die Autobahn?"
+    },
+    {
+      "id": "s3-t012",
+      "front": "¿Cuál es la forma más fácil de llegar a la estación desde aquí?",
+      "back": "Wie kommt man von hier am einfachsten zum Bahnhof?"
+    },
+    {
+      "id": "s3-t013",
+      "front": "Me duele la rodilla derecha. Sobre todo por la noche.",
+      "back": "Mein rechtes Knie tut mir weh. Nachts ist es am schlimmsten."
+    },
+    {
+      "id": "s3-t014",
+      "front": "Hubo muchas turbulencias. Sobre todo durante el aterrizaje.",
+      "back": "Es gab viele Turbulenzen. Bei der Landung war es am schlimmsten."
+    },
+    {
+      "id": "s3-t015",
+      "front": "En vacaciones llovió mucho. Sobre todo durante la primera semana.",
+      "back": "Im Urlaub hat es viel geregnet. In der ersten Woche war es am schlimmsten."
+    },
+    {
+      "id": "s3-t016",
+      "front": "¿Cuál es la pega?",
+      "back": "Wo ist der Haken?"
+    },
+    {
+      "id": "s3-t017",
+      "front": "Zona nudista.",
+      "back": "FKK-Bereich."
+    },
+    {
+      "id": "s3-t018",
+      "front": "En este punto es donde el río es más ancho.",
+      "back": "An dieser Stelle ist der Fluss am breitesten."
+    },
+    {
+      "id": "s3-t019",
+      "front": "Por la noche es cuando más ruido hay en esta calle.",
+      "back": "Spät abends ist es in dieser Straße am lautesten."
+    },
+    {
+      "id": "s3-t020",
+      "front": "Nueva Zelanda es el país más alejado de aquí.",
+      "back": "Neuseeland ist am weitesten von hier entfernt."
+    },
+    {
+      "id": "s3-t021",
+      "front": "A mediodía es cuando más calor hace.",
+      "back": "Mittags ist es am wärmsten."
+    },
+    {
+      "id": "s3-t022",
+      "front": "En otoño es cuando llueve con mayor intensidad.",
+      "back": "Im Herbst regnet es am stärksten."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Esta casa es la que parece más grande de todas.",
+      "back": "Dieses Haus sieht am größten von allen aus."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Este es el camino más corto.",
+      "back": "Dieser Weg ist am kürzesten."
+    },
+    {
+      "id": "s3-t025",
+      "front": "En el Polo Norte es donde más frío hace.",
+      "back": "Am Nordpol ist es am kältesten."
+    },
+    {
+      "id": "s3-t026",
+      "front": "Este libro es el que parece más viejo de todos.",
+      "back": "Dieses Buch sieht am ältesten von allen aus."
+    },
+    {
+      "id": "s3-t027",
+      "front": "Así es como más se tarda, créeme.",
+      "back": "So dauert es am längsten, glaub mir."
+    },
+    {
+      "id": "s3-t028",
+      "front": "Esta vez es cuando más ha tardado.",
+      "back": "Dieses Mal hat es am längsten gedauert."
+    },
+    {
+      "id": "s3-t029",
+      "front": "Date prisa; siempre eres tú quien más tarda.",
+      "back": "Beeil dich mal. Du brauchst immer am längsten."
+    },
+    {
+      "id": "s3-t030",
+      "front": "Ella es quien salta más alto.",
+      "back": "Sie kann am höchsten springen."
+    },
+    {
+      "id": "s3-t031",
+      "front": "En el Polo Sur es donde el sol es menos fuerte.",
+      "back": "Am Südpol ist die Sonne am schwächsten."
+    },
+    {
+      "id": "s3-t032",
+      "front": "¿Quién vive más cerca de aquí?",
+      "back": "Wer wohnt am nächsten von hier?"
+    },
+    {
+      "id": "s3-t033",
+      "front": "De mi clase, soy quien mejor habla alemán.",
+      "back": "In meinem Kurs kann ich am besten Deutsch."
+    },
+    {
+      "id": "s3-t034",
+      "front": "De mi familia, mi hermano es quien mejor habla inglés.",
+      "back": "In meiner Familie kann mein Bruder am besten Englisch."
+    },
+    {
+      "id": "s3-t035",
+      "front": "De todos mis hermanos, soy quien mejor va en el colegio.",
+      "back": "Von meinen Geschwistern bin ich am besten in der Schule."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Es mejor que vuelvas a preguntar.",
+      "back": "Frag am besten noch mal nach."
+    },
+    {
+      "id": "s3-t037",
+      "front": "¿A quién es mejor que pregunte?",
+      "back": "Wen frage ich am besten?"
+    },
+    {
+      "id": "s3-t038",
+      "front": "Andreas es quien mejor te lo puede explicar.",
+      "back": "Andreas kann es dir am besten erklären."
+    },
+    {
+      "id": "s3-t039",
+      "front": "El vestido rojo es el que más me gusta.",
+      "back": "Das rote Kleid gefällt mir am besten."
+    },
+    {
+      "id": "s3-t040",
+      "front": "El protagonista es quien más me ha gustado.",
+      "back": "Der Hauptdarsteller hat mir am besten gefallen."
+    },
+    {
+      "id": "s3-t041",
+      "front": "¿Quién te ha gustado más?",
+      "back": "Wer hat dir am besten gefallen?"
+    },
+    {
+      "id": "s3-t042",
+      "front": "Lo que peor se me da son las Matemáticas y la Física.",
+      "back": "Ich bin am schlechtesten in Mathematik und Physik."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Lo que peor se me daba siempre era Química.",
+      "back": "Ich war immer am schlechtesten in Chemie."
+    },
+    {
+      "id": "s3-t044",
+      "front": "Lo que peor se me daba siempre era Geografía.",
+      "back": "Am schlechtesten war ich immer in Erdkunde."
+    },
+    {
+      "id": "s3-t045",
+      "front": "Desde allí es desde donde mejor se ve el escenario.",
+      "back": "Von dort aus kann man die Bühne am besten sehen."
+    },
+    {
+      "id": "s3-t046",
+      "front": "Desde aquí es desde donde peor se ve el escenario.",
+      "back": "Von hier aus sieht man die Bühne am schlechtesten."
+    },
+    {
+      "id": "s3-t047",
+      "front": "Desde allí es desde donde mejor se ve a los actores.",
+      "back": "Man kann von dort aus die Schauspieler am besten sehen."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Buenas tardes, tengo una blusa con una mancha de vino.",
+      "back": "Guten Tag, ich habe eine Bluse mit einem Rotweinfleck."
+    },
+    {
+      "id": "s3-t049",
+      "front": "No hay problema; tenemos un detergente especial para esos casos.",
+      "back": "Kein Problem. Wir haben ein Spezialwaschmittel für solche Fälle."
+    },
+    {
+      "id": "s3-t050",
+      "front": "¿Tiene alguna otra cosa aparte de la blusa?",
+      "back": "Haben Sie sonst noch etwas außer der Bluse?"
+    },
+    {
+      "id": "s3-t051",
+      "front": "¿Cuándo estará lista la blusa?",
+      "back": "Wann ist die Bluse fertig?"
+    },
+    {
+      "id": "s3-t052",
+      "front": "Entonces vuelvo el sábado.",
+      "back": "Dann komme ich am Samstag wieder."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Con este curso es con el que más he aprendido.",
+      "back": "Mit diesem Kurs habe ich am meisten gelernt."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Cuando más se aprende es cuando uno mismo apunta las cosas.",
+      "back": "Man lernt am meisten, wenn man die Sachen selbst aufschreibt."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Cuando más aprendo es cuando digo las frases en alto.",
+      "back": "Ich lerne am meisten, wenn ich die Sätze laut sage."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Al principio es cuando más me he reído.",
+      "back": "Am Anfang habe ich am meisten gelacht."
+    },
+    {
+      "id": "s3-t057",
+      "front": "En ese momento es cuando más me reí.",
+      "back": "An der Stelle habe ich am meisten gelacht."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Esta es la escena que más me hizo reír.",
+      "back": "In der Szene musste ich am meisten lachen."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Al final es cuando más lloré.",
+      "back": "Am Ende habe ich am meisten geweint."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Ese momento es el que más me hizo llorar.",
+      "back": "An der Stelle musste ich am meisten weinen."
+    },
+    {
+      "id": "s3-t061",
+      "front": "La última escena es la que más hizo llorar a todos.",
+      "back": "In der letzten Szene mussten alle am meisten weinen."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Lo que más me interesa es el arte moderno.",
+      "back": "Mich interessiert am meisten moderne Kunst."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Lo que más me interesa es el fútbol.",
+      "back": "Fußball interessiert mich am meisten."
+    },
+    {
+      "id": "s3-t064",
+      "front": "¿Qué es lo que más le interesa a usted?",
+      "back": "Was interessiert Sie am meisten?"
+    },
+    {
+      "id": "s3-t065",
+      "front": "Hasta ahora, lo que más me ha gustado ha sido el nuevo disco.",
+      "back": "Bisher gefällt mir das neue Album am meisten."
+    },
+    {
+      "id": "s3-t066",
+      "front": "¿Qué es lo que más te ha gustado?",
+      "back": "Was hat dir am meisten gefallen?"
+    },
+    {
+      "id": "s3-t067",
+      "front": "Colonia es lo que más me ha gustado.",
+      "back": "Köln hat mir am meisten gefallen."
+    },
+    {
+      "id": "s3-t068",
+      "front": "Entre semana es cuando menos fumo.",
+      "back": "Unter der Woche rauche ich am wenigsten."
+    },
+    {
+      "id": "s3-t069",
+      "front": "En verano es cuando menos trabajo.",
+      "back": "Im Sommer arbeite ich am wenigsten."
+    },
+    {
+      "id": "s3-t070",
+      "front": "Por la noche es cuando menos como.",
+      "back": "Abends esse ich am wenigsten."
+    },
+    {
+      "id": "s3-t071",
+      "front": "La banda sonora es lo que menos me gusta.",
+      "back": "Die Filmmusik gefällt mir am wenigsten."
+    },
+    {
+      "id": "s3-t072",
+      "front": "La protagonista es quien menos me ha gustado.",
+      "back": "Die Hauptdarstellerin hat mir am wenigsten gefallen."
+    },
+    {
+      "id": "s3-t073",
+      "front": "¿Qué es lo que menos le ha gustado a usted?",
+      "back": "Was hat Ihnen am wenigsten gefallen?"
+    },
+    {
+      "id": "s3-t074",
+      "front": "Este tema es el que menos me interesa.",
+      "back": "Dieses Thema interessiert mich am wenigsten."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Esta exposición es lo que menos me interesa de este museo.",
+      "back": "In diesem Museum interessiert mich diese Ausstellung am wenigsten."
+    },
+    {
+      "id": "s3-t076",
+      "front": "Los motivos son lo que menos me interesa.",
+      "back": "Die Gründe interessieren mich am wenigsten."
+    },
+    {
+      "id": "s3-t077",
+      "front": "Siempre pasan cosas así cuando menos te lo esperas.",
+      "back": "So etwas passiert immer, wenn man es am wenigsten erwartet."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Eso es lo que menos me habría esperado.",
+      "back": "Das hätte ich am wenigsten erwartet."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Él me llamó cuando menos me lo esperaba.",
+      "back": "Er hat mich angerufen, als ich es am wenigsten erwartet hatte."
+    },
+    {
+      "id": "s3-t080",
+      "front": "Esta fotocopiadora es la que menos se utiliza.",
+      "back": "Dieser Kopierer wird am wenigsten benutzt."
+    },
+    {
+      "id": "s3-t081",
+      "front": "En este departamento es donde menos se fuma.",
+      "back": "In dieser Abteilung wird am wenigsten geraucht."
+    },
+    {
+      "id": "s3-t082",
+      "front": "Los viernes es cuando menos se trabaja aquí.",
+      "back": "Freitags wird hier am wenigsten gearbeitet."
+    },
+    {
+      "id": "s3-t083",
+      "front": "Después de hacer deporte es cuando más sed tengo.",
+      "back": "Nach dem Sport habe ich am meisten Durst."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Por las mañanas es cuando más hambre tengo.",
+      "back": "Morgens habe ich am meisten Hunger."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Entre semana es cuando menos tiempo tengo.",
+      "back": "Unter der Woche habe ich am wenigsten Zeit."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Cuando más divertido resulta es cuando juega mucha gente.",
+      "back": "Es macht am meisten Spaß, wenn viele Leute mitspielen."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Era más divertido cuando los demás también jugaban.",
+      "back": "Es hat am meisten Spaß gemacht, als die anderen mitgespielt haben."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Así es como menos divertido es.",
+      "back": "So macht es am wenigsten Spaß."
+    },
+    {
+      "id": "s3-t089",
+      "front": "En la fiesta es donde más vino hemos bebido.",
+      "back": "Auf der Feier haben wir am meisten Wein getrunken."
+    },
+    {
+      "id": "s3-t090",
+      "front": "Allí es donde menos champán se bebía.",
+      "back": "Dort wurde am wenigsten Sekt getrunken."
+    },
+    {
+      "id": "s3-t091",
+      "front": "En la Oktoberfest es donde más cerveza se bebe.",
+      "back": "Auf dem Oktoberfest wird am meisten Bier getrunken."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Este coche es el que más gasolina consume.",
+      "back": "Dieses Auto verbraucht am meisten Benzin."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Nuestra calefacción es la que más electricidad consume.",
+      "back": "Unsere Heizung verbraucht am meisten Strom."
+    },
+    {
+      "id": "s3-t094",
+      "front": "El ciclomotor es el que menos gasolina consume.",
+      "back": "Das Mofa verbraucht am wenigsten Benzin."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Me gasto la mayor parte del dinero en ropa.",
+      "back": "Ich gebe am meisten Geld für Kleidung aus."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Mi madre gasta la mayor parte del dinero en productos ecológicos.",
+      "back": "Meine Mutter gibt am meisten Geld für Biolebensmittel aus."
+    },
+    {
+      "id": "s3-t097",
+      "front": "En lo que menos gasta dinero mi madrina es en zapatos.",
+      "back": "Meine Patentante gibt am wenigsten Geld für Schuhe aus."
+    },
+    {
+      "id": "s3-t098",
+      "front": "¿Qué es lo que menos te interesa?",
+      "back": "Was interessiert dich am wenigsten?"
+    },
+    {
+      "id": "s3-t099",
+      "front": "¿Quién canta mejor?",
+      "back": "Wer singt am schönsten?"
+    },
+    {
+      "id": "s3-t100",
+      "front": "Aquí es donde hay más claridad.",
+      "back": "Hier ist es am hellsten."
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Cuándo se usa am + superlativo?",
+      "back": "Cuando el superlativo no acompaña directamente a un sustantivo."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Cómo se forma normalmente?",
+      "back": "am + raíz del adjetivo + -sten: am schönsten."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Cuándo se añade -esten?",
+      "back": "Tras raíces difíciles de pronunciar, como breit → am breitesten."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Qué ocurre con muchos monosílabos con a, o o u?",
+      "back": "Añaden Umlaut: warm → am wärmsten; groß → am größten."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Cuál es el superlativo de gut?",
+      "back": "am besten."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Cuál es el superlativo de schlecht?",
+      "back": "am schlechtesten."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Cuál es el superlativo de viel?",
+      "back": "am meisten."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Cuál es el superlativo de wenig?",
+      "back": "am wenigsten."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Cómo se expresa una recomendación con am besten?",
+      "back": "Frag am besten noch mal nach = lo mejor es que preguntes otra vez."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Qué caso usa gefallen para la persona?",
+      "back": "Dativo: Das Kleid gefällt mir am besten."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Cómo se forma la pasiva de estos ejemplos?",
+      "back": "werden + participio: Hier wird am wenigsten gearbeitet."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Qué diferencia hay entre am meisten y die meiste/den meisten?",
+      "back": "am meisten funciona adverbialmente; meist- con artículo acompaña a un sustantivo."
+    }
+  ]
+}
