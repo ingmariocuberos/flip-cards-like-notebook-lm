@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-46",
+  "bookTitle": "Buch 46",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: noch ein, noch etwas, noch mehr y noch jemand",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Quiero otro café. Apenas he dormido.",
+      "back": "Ich möchte noch einen Kaffee. Ich habe kaum geschlafen."
+    },
+    {
+      "id": "s1-t002",
+      "front": "Querría otro trozo de pastel. ¡Está muy bueno!",
+      "back": "Ich hätte gerne noch ein Stück Kuchen. Er ist sehr lecker!"
+    },
+    {
+      "id": "s1-t003",
+      "front": "Él querría otro cigarrillo.",
+      "back": "Er hätte gerne noch eine Zigarette."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Necesito otro café. Apenas he dormido.",
+      "back": "Ich brauche noch einen Kaffee. Ich habe kaum geschlafen."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Necesito otra manta. ¿Tienes una?",
+      "back": "Ich brauche noch eine Decke. Hast du eine?"
+    },
+    {
+      "id": "s1-t006",
+      "front": "Ella necesita otro pañuelo. ¿Tienes uno?",
+      "back": "Sie braucht noch ein Taschentuch. Hast du eins?"
+    },
+    {
+      "id": "s1-t007",
+      "front": "Pero si ya tienes una televisión. Sí, pero quiero otra.",
+      "back": "Du hast doch schon einen Fernseher! Ja, aber ich möchte noch einen."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Pero si ya tienes tres gatos. Sí, pero quiero otro.",
+      "back": "Du hast doch schon drei Katzen! Ja, aber ich möchte noch eine."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Necesito otro café. Uno no me basta.",
+      "back": "Ich brauche noch einen Kaffee. Einer reicht mir nicht."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Él quiere otra manta. Una no le basta.",
+      "back": "Er will noch eine Decke. Eine reicht ihm nicht."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Querría otro cojín. Uno no me basta.",
+      "back": "Ich hätte gerne noch ein Kissen. Eins reicht mir nicht."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Si quieres, cógete otro chicle.",
+      "back": "Du kannst dir gerne noch einen Kaugummi nehmen."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Si quiere, cójase otro cigarrillo.",
+      "back": "Sie können sich gerne noch eine Zigarette nehmen."
+    },
+    {
+      "id": "s1-t014",
+      "front": "¿Tienes otro pañuelo?",
+      "back": "Hast du noch ein Taschentuch?"
+    },
+    {
+      "id": "s1-t015",
+      "front": "¿Tienes otro boli? El mío se ha quedado sin tinta.",
+      "back": "Hast du noch einen Kuli? Meiner ist leer."
+    },
+    {
+      "id": "s1-t016",
+      "front": "¿Tiene usted otra hoja de papel? La mía está llena.",
+      "back": "Haben Sie noch ein Blatt Papier? Meins ist voll."
+    },
+    {
+      "id": "s1-t017",
+      "front": "¿Quieres otro trozo?",
+      "back": "Möchtest du noch ein Stück?"
+    },
+    {
+      "id": "s1-t018",
+      "front": "¿Querrías otra taza de té?",
+      "back": "Hättest du gerne noch eine Tasse Tee?"
+    },
+    {
+      "id": "s1-t019",
+      "front": "¿Querría usted otra almohada?",
+      "back": "Hätten Sie gerne noch ein Kissen?"
+    },
+    {
+      "id": "s1-t020",
+      "front": "¿Te cojo otra manta? Creo que esta no calienta lo suficiente.",
+      "back": "Soll ich dir noch eine Decke holen? Ich glaube, diese hier ist nicht warm genug."
+    },
+    {
+      "id": "s1-t021",
+      "front": "¿Le cojo a usted otra hoja de papel?",
+      "back": "Soll ich Ihnen noch ein Blatt Papier holen?"
+    },
+    {
+      "id": "s1-t022",
+      "front": "¿Te hago otro café?",
+      "back": "Soll ich dir noch einen Kaffee machen?"
+    },
+    {
+      "id": "s1-t023",
+      "front": "¿Podría darme otro cigarrillo?",
+      "back": "Könnte ich noch eine Zigarette haben?"
+    },
+    {
+      "id": "s1-t024",
+      "front": "Perdón, ¿podría traerme otra almohada?",
+      "back": "Entschuldigung, könnte ich noch ein Kissen haben?"
+    },
+    {
+      "id": "s1-t025",
+      "front": "¿Sería posible que me diera una almohada más?",
+      "back": "Ist es möglich, noch ein Kissen zu bekommen?"
+    },
+    {
+      "id": "s1-t026",
+      "front": "¿Sería posible tomar otro zumo de naranja?",
+      "back": "Ist es möglich, noch einen Orangensaft zu bekommen?"
+    },
+    {
+      "id": "s1-t027",
+      "front": "Me gustaría pedir algo más.",
+      "back": "Ich würde gerne noch etwas bestellen."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Perdone, me gustaría decir algo más.",
+      "back": "Entschuldigen Sie bitte, ich würde gerne noch etwas sagen."
+    },
+    {
+      "id": "s1-t029",
+      "front": "He comprado algo más. ¿Quieres saber lo que es?",
+      "back": "Ich habe noch etwas gekauft. Willst du wissen, was es ist?"
+    },
+    {
+      "id": "s1-t030",
+      "front": "Quería pedir algo más, además del vino.",
+      "back": "Ich wollte außer dem Wein noch etwas bestellen."
+    },
+    {
+      "id": "s1-t031",
+      "front": "Le compraré algo más, además de la tarjeta.",
+      "back": "Ich werde ihr außer der Karte noch etwas kaufen."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Quiero regalarle algo más, además del vale.",
+      "back": "Ich will ihm außer dem Gutschein noch etwas schenken."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Entonces, ¿necesitas algo más?",
+      "back": "Brauchst du sonst noch etwas?"
+    },
+    {
+      "id": "s1-t034",
+      "front": "Además del café, ¿quiere usted tomar algo más?",
+      "back": "Möchten Sie außer dem Kaffee sonst noch etwas?"
+    },
+    {
+      "id": "s1-t035",
+      "front": "¿Quieres pedir algo más?",
+      "back": "Möchtest du sonst noch etwas bestellen?"
+    },
+    {
+      "id": "s1-t036",
+      "front": "¿Le traigo algo más, además de sus gafas?",
+      "back": "Soll ich dir außer deiner Brille sonst noch etwas holen?"
+    },
+    {
+      "id": "s1-t037",
+      "front": "¿Quiere algo más? Sí, otra cerveza, por favor.",
+      "back": "Darf es noch etwas sein? Ja, noch ein Bier, bitte."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Querría más pastel, si queda algo.",
+      "back": "Ich hätte gerne noch mehr Kuchen, wenn welcher übrig ist."
+    },
+    {
+      "id": "s1-t039",
+      "front": "Querría más nata, si queda algo.",
+      "back": "Ich hätte gerne noch mehr Sahne, wenn welche übrig ist."
+    },
+    {
+      "id": "s1-t040",
+      "front": "¿Quieres más pastel o tienes bastante?",
+      "back": "Willst du noch mehr Kuchen oder hast du genug?"
+    },
+    {
+      "id": "s1-t041",
+      "front": "¿Puedo ponerme más vino? Sí, claro.",
+      "back": "Kann ich mir noch mehr Wein nehmen? Aber natürlich!"
+    },
+    {
+      "id": "s1-t042",
+      "front": "Coge cuanto quieras. Tengo más de eso.",
+      "back": "Nimm, so viel du willst. Ich habe noch mehr davon."
+    },
+    {
+      "id": "s1-t043",
+      "front": "¿Tiene más equipaje o este es todo?",
+      "back": "Haben Sie noch mehr Gepäck oder ist das alles?"
+    },
+    {
+      "id": "s1-t044",
+      "front": "¿Qué más falta?",
+      "back": "Was fehlt noch?"
+    },
+    {
+      "id": "s1-t045",
+      "front": "¿Qué más falta en la mesa?",
+      "back": "Was fehlt noch auf dem Tisch?"
+    },
+    {
+      "id": "s1-t046",
+      "front": "¿Qué más has comprado?",
+      "back": "Was hast du noch gekauft?"
+    },
+    {
+      "id": "s1-t047",
+      "front": "¿Qué más traigo?",
+      "back": "Was soll ich noch holen?"
+    },
+    {
+      "id": "s1-t048",
+      "front": "¿Qué más traigo del mercado?",
+      "back": "Was soll ich noch vom Markt mitbringen?"
+    },
+    {
+      "id": "s1-t049",
+      "front": "No sé qué más debo hacer para que me perdones.",
+      "back": "Ich weiß nicht, was ich noch tun soll, damit du mir verzeihst."
+    },
+    {
+      "id": "s1-t050",
+      "front": "¿Crees que alguien más podría ayudar?",
+      "back": "Glaubst du, dass noch jemand mithelfen könnte?"
+    },
+    {
+      "id": "s1-t051",
+      "front": "Ich möchte noch einen Kaffee. Ich habe kaum geschlafen.",
+      "back": "Quiero otro café. Apenas he dormido."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Ich hätte gerne noch ein Stück Kuchen. Er ist sehr lecker!",
+      "back": "Querría otro trozo de pastel. ¡Está muy bueno!"
+    },
+    {
+      "id": "s1-t053",
+      "front": "Er hätte gerne noch eine Zigarette.",
+      "back": "Él querría otro cigarrillo."
+    },
+    {
+      "id": "s1-t054",
+      "front": "Ich brauche noch einen Kaffee. Ich habe kaum geschlafen.",
+      "back": "Necesito otro café. Apenas he dormido."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Ich brauche noch eine Decke. Hast du eine?",
+      "back": "Necesito otra manta. ¿Tienes una?"
+    },
+    {
+      "id": "s1-t056",
+      "front": "Sie braucht noch ein Taschentuch. Hast du eins?",
+      "back": "Ella necesita otro pañuelo. ¿Tienes uno?"
+    },
+    {
+      "id": "s1-t057",
+      "front": "Du hast doch schon einen Fernseher! Ja, aber ich möchte noch einen.",
+      "back": "Pero si ya tienes una televisión. Sí, pero quiero otra."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Du hast doch schon drei Katzen! Ja, aber ich möchte noch eine.",
+      "back": "Pero si ya tienes tres gatos. Sí, pero quiero otro."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Ich brauche noch einen Kaffee. Einer reicht mir nicht.",
+      "back": "Necesito otro café. Uno no me basta."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Er will noch eine Decke. Eine reicht ihm nicht.",
+      "back": "Él quiere otra manta. Una no le basta."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Ich hätte gerne noch ein Kissen. Eins reicht mir nicht.",
+      "back": "Querría otro cojín. Uno no me basta."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Du kannst dir gerne noch einen Kaugummi nehmen.",
+      "back": "Si quieres, cógete otro chicle."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Sie können sich gerne noch eine Zigarette nehmen.",
+      "back": "Si quiere, cójase otro cigarrillo."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Hast du noch ein Taschentuch?",
+      "back": "¿Tienes otro pañuelo?"
+    },
+    {
+      "id": "s1-t065",
+      "front": "Hast du noch einen Kuli? Meiner ist leer.",
+      "back": "¿Tienes otro boli? El mío se ha quedado sin tinta."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Haben Sie noch ein Blatt Papier? Meins ist voll.",
+      "back": "¿Tiene usted otra hoja de papel? La mía está llena."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Möchtest du noch ein Stück?",
+      "back": "¿Quieres otro trozo?"
+    },
+    {
+      "id": "s1-t068",
+      "front": "Hättest du gerne noch eine Tasse Tee?",
+      "back": "¿Querrías otra taza de té?"
+    },
+    {
+      "id": "s1-t069",
+      "front": "Hätten Sie gerne noch ein Kissen?",
+      "back": "¿Querría usted otra almohada?"
+    },
+    {
+      "id": "s1-t070",
+      "front": "Soll ich dir noch eine Decke holen? Ich glaube, diese hier ist nicht warm genug.",
+      "back": "¿Te cojo otra manta? Creo que esta no calienta lo suficiente."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Soll ich Ihnen noch ein Blatt Papier holen?",
+      "back": "¿Le cojo a usted otra hoja de papel?"
+    },
+    {
+      "id": "s1-t072",
+      "front": "Soll ich dir noch einen Kaffee machen?",
+      "back": "¿Te hago otro café?"
+    },
+    {
+      "id": "s1-t073",
+      "front": "Könnte ich noch eine Zigarette haben?",
+      "back": "¿Podría darme otro cigarrillo?"
+    },
+    {
+      "id": "s1-t074",
+      "front": "Entschuldigung, könnte ich noch ein Kissen haben?",
+      "back": "Perdón, ¿podría traerme otra almohada?"
+    },
+    {
+      "id": "s1-t075",
+      "front": "Ist es möglich, noch ein Kissen zu bekommen?",
+      "back": "¿Sería posible que me diera una almohada más?"
+    },
+    {
+      "id": "s1-t076",
+      "front": "Ist es möglich, noch einen Orangensaft zu bekommen?",
+      "back": "¿Sería posible tomar otro zumo de naranja?"
+    },
+    {
+      "id": "s1-t077",
+      "front": "Ich würde gerne noch etwas bestellen.",
+      "back": "Me gustaría pedir algo más."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Entschuldigen Sie bitte, ich würde gerne noch etwas sagen.",
+      "back": "Perdone, me gustaría decir algo más."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Ich habe noch etwas gekauft. Willst du wissen, was es ist?",
+      "back": "He comprado algo más. ¿Quieres saber lo que es?"
+    },
+    {
+      "id": "s1-t080",
+      "front": "Ich wollte außer dem Wein noch etwas bestellen.",
+      "back": "Quería pedir algo más, además del vino."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Ich werde ihr außer der Karte noch etwas kaufen.",
+      "back": "Le compraré algo más, además de la tarjeta."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Ich will ihm außer dem Gutschein noch etwas schenken.",
+      "back": "Quiero regalarle algo más, además del vale."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Brauchst du sonst noch etwas?",
+      "back": "Entonces, ¿necesitas algo más?"
+    },
+    {
+      "id": "s1-t084",
+      "front": "Möchten Sie außer dem Kaffee sonst noch etwas?",
+      "back": "Además del café, ¿quiere usted tomar algo más?"
+    },
+    {
+      "id": "s1-t085",
+      "front": "Möchtest du sonst noch etwas bestellen?",
+      "back": "¿Quieres pedir algo más?"
+    },
+    {
+      "id": "s1-t086",
+      "front": "Soll ich dir außer deiner Brille sonst noch etwas holen?",
+      "back": "¿Le traigo algo más, además de sus gafas?"
+    },
+    {
+      "id": "s1-t087",
+      "front": "Darf es noch etwas sein? Ja, noch ein Bier, bitte.",
+      "back": "¿Quiere algo más? Sí, otra cerveza, por favor."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Ich hätte gerne noch mehr Kuchen, wenn welcher übrig ist.",
+      "back": "Querría más pastel, si queda algo."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Ich hätte gerne noch mehr Sahne, wenn welche übrig ist.",
+      "back": "Querría más nata, si queda algo."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Willst du noch mehr Kuchen oder hast du genug?",
+      "back": "¿Quieres más pastel o tienes bastante?"
+    },
+    {
+      "id": "s1-t091",
+      "front": "Kann ich mir noch mehr Wein nehmen? Aber natürlich!",
+      "back": "¿Puedo ponerme más vino? Sí, claro."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Nimm, so viel du willst. Ich habe noch mehr davon.",
+      "back": "Coge cuanto quieras. Tengo más de eso."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Haben Sie noch mehr Gepäck oder ist das alles?",
+      "back": "¿Tiene más equipaje o este es todo?"
+    },
+    {
+      "id": "s1-t094",
+      "front": "Was fehlt noch?",
+      "back": "¿Qué más falta?"
+    },
+    {
+      "id": "s1-t095",
+      "front": "Was fehlt noch auf dem Tisch?",
+      "back": "¿Qué más falta en la mesa?"
+    },
+    {
+      "id": "s1-t096",
+      "front": "Was hast du noch gekauft?",
+      "back": "¿Qué más has comprado?"
+    },
+    {
+      "id": "s1-t097",
+      "front": "Was soll ich noch holen?",
+      "back": "¿Qué más traigo?"
+    },
+    {
+      "id": "s1-t098",
+      "front": "Was soll ich noch vom Markt mitbringen?",
+      "back": "¿Qué más traigo del mercado?"
+    },
+    {
+      "id": "s1-t099",
+      "front": "Ich weiß nicht, was ich noch tun soll, damit du mir verzeihst.",
+      "back": "No sé qué más debo hacer para que me perdones."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Glaubst du, dass noch jemand mithelfen könnte?",
+      "back": "¿Crees que alguien más podría ayudar?"
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué significa noch ein/e?",
+      "back": "Otro u otra en el sentido de uno adicional."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué diferencia hay entre noch ein Bier y ein anderes Bier?",
+      "back": "noch ein Bier es otra cerveza adicional; ein anderes Bier, una cerveza distinta."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué significa reichen más dativo?",
+      "back": "Bastar a alguien: Einer reicht mir nicht."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Qué pronombres sustituyen a uno o una según el género?",
+      "back": "einer para masculino, eine para femenino y eins para neutro."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Qué significa noch etwas?",
+      "back": "Algo más."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué caso rige außer?",
+      "back": "Dativo."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Qué aporta sonst en sonst noch etwas?",
+      "back": "El sentido de «además de lo ya mencionado»."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué significa noch mehr?",
+      "back": "Más o todavía más."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Qué estructura formal pregunta si alguien quiere algo más?",
+      "back": "Darf es noch etwas sein?"
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué significa Was ... noch?",
+      "back": "¿Qué más...?"
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué significa noch jemand?",
+      "back": "Alguien más."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se dice «a partir de las once menos cuarto»?",
+      "back": "Ab viertel vor elf."
+    }
+  ]
+}

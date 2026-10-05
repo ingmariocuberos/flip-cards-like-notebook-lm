@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-46",
+  "bookTitle": "Buch 46",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: Expresiones con auch immer",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "Quiero comer algo, lo que sea.",
+      "back": "Ich will irgendwas essen, was auch immer."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Tenemos que hacer algo, lo que sea.",
+      "back": "Wir müssen irgendwas unternehmen, was auch immer."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Cuéntale algo, lo que sea.",
+      "back": "Erzähl ihm irgendwas, was auch immer."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Diga lo que diga, siempre es lo erróneo.",
+      "back": "Was auch immer ich sage, es ist immer das Falsche."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Haga lo que haga, nunca es lo suficientemente bueno.",
+      "back": "Was auch immer ich mache, es ist nie gut genug."
+    },
+    {
+      "id": "s2-t006",
+      "front": "Intente lo que intente, hago siempre todo mal.",
+      "back": "Was auch immer ich versuche, ich mache alles falsch."
+    },
+    {
+      "id": "s2-t007",
+      "front": "Fuera cual fuera el motivo, nunca nos enteraremos de la verdad.",
+      "back": "Was auch immer der Grund war, wir werden die Wahrheit nie erfahren."
+    },
+    {
+      "id": "s2-t008",
+      "front": "Pase lo que pase, no subas nunca al coche de un desconocido.",
+      "back": "Was auch immer passiert, steig nie bei Fremden ins Auto ein."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Sea lo que sea lo que te propones, ten mucho cuidado.",
+      "back": "Was auch immer du vorhast, pass gut auf dich auf."
+    },
+    {
+      "id": "s2-t010",
+      "front": "Alguien nos tiene que ayudar, sea quien sea.",
+      "back": "Irgendjemand muss uns helfen, wer auch immer."
+    },
+    {
+      "id": "s2-t011",
+      "front": "Alguien nos avisará, sea quien sea.",
+      "back": "Irgendjemand wird uns Bescheid sagen, wer auch immer."
+    },
+    {
+      "id": "s2-t012",
+      "front": "Llame quien llame, no lo cojas.",
+      "back": "Wer auch immer anruft, geh nicht dran."
+    },
+    {
+      "id": "s2-t013",
+      "front": "Sea quien sea el que me llame, dígale que no estoy.",
+      "back": "Wer auch immer für mich anruft, sagen Sie, ich bin nicht da."
+    },
+    {
+      "id": "s2-t014",
+      "front": "Sea quien sea el que te lo haya contado, te ha mentido.",
+      "back": "Wer auch immer dir das erzählt hat, er hat dich angelogen."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Fuera quien fuera, tiene que hacerse cargo de los daños.",
+      "back": "Wer auch immer das war, er muss für den Schaden aufkommen."
+    },
+    {
+      "id": "s2-t016",
+      "front": "Haya sido quien haya sido, tiene que hacerse cargo de los daños.",
+      "back": "Wer auch immer das gewesen ist, er muss für den Schaden aufkommen."
+    },
+    {
+      "id": "s2-t017",
+      "front": "Fuera quien fuera el que estaba cerca del lugar del crimen, tuvo que escuchar algo.",
+      "back": "Wer auch immer in der Nähe des Tatorts war, er muss etwas gehört haben."
+    },
+    {
+      "id": "s2-t018",
+      "front": "Tengo que encontrar un piso pronto, sea donde sea.",
+      "back": "Ich muss bald eine Wohnung finden, wo auch immer."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Vamos a comer algo, sea donde sea.",
+      "back": "Lass uns irgendwo etwas essen gehen, wo auch immer."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Donde quiera que estés, espero que te vaya bien.",
+      "back": "Wo auch immer du bist, ich hoffe, dir geht es gut."
+    },
+    {
+      "id": "s2-t021",
+      "front": "Donde quiera que aparezca, todos le admiran.",
+      "back": "Wo auch immer er auftaucht, alle bewundern ihn."
+    },
+    {
+      "id": "s2-t022",
+      "front": "Donde quiera que aparezca, todos quieren su autógrafo.",
+      "back": "Alle wollen ein Autogramm von ihr haben, wo auch immer sie auftaucht."
+    },
+    {
+      "id": "s2-t023",
+      "front": "Donde quiera que vaya, todo me recuerda a ella.",
+      "back": "Wo auch immer ich hingehe, alles erinnert mich an sie."
+    },
+    {
+      "id": "s2-t024",
+      "front": "Donde quiera que lo hayas oído, créeme, no es cierto.",
+      "back": "Wo auch immer du das gehört hast, glaub mir, es stimmt nicht."
+    },
+    {
+      "id": "s2-t025",
+      "front": "Él ya me ha llamado varias veces, sea por lo que sea.",
+      "back": "Er hat mich schon mehrmals angerufen, warum auch immer."
+    },
+    {
+      "id": "s2-t026",
+      "front": "Ella no coge el teléfono, sea por lo que sea.",
+      "back": "Sie geht nicht ans Telefon, warum auch immer."
+    },
+    {
+      "id": "s2-t027",
+      "front": "Siempre vamos al mismo bar, sea por lo que sea.",
+      "back": "Wir gehen immer in die gleiche Kneipe, warum auch immer."
+    },
+    {
+      "id": "s2-t028",
+      "front": "Sea cual sea la razón de hacerlo así, él tendrá sus motivos.",
+      "back": "Warum auch immer er es so macht, er wird seine Gründe haben."
+    },
+    {
+      "id": "s2-t029",
+      "front": "Llames por lo que llames, ahora no tengo tiempo.",
+      "back": "Warum auch immer du anrufst, ich habe jetzt keine Zeit."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Llame por lo que llame, él no quiere que le molesten.",
+      "back": "Warum auch immer Sie anrufen, er will nicht gestört werden."
+    },
+    {
+      "id": "s2-t031",
+      "front": "Sea cual sea la razón por la que él lo haya hecho, nunca sabremos la verdad.",
+      "back": "Warum auch immer er es getan hat, wir werden die Wahrheit nie erfahren."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Creo que él tiene problemas personales. De todas formas, no me parece bien su comportamiento.",
+      "back": "Ich glaube, er hat private Probleme. Wie auch immer, ich finde sein Verhalten nicht in Ordnung."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Saldremos mañana o pasado mañana. De todas formas, te avisaremos.",
+      "back": "Wir fahren morgen oder übermorgen. Wie auch immer, wir sagen dir dann Bescheid."
+    },
+    {
+      "id": "s2-t034",
+      "front": "O llamas tú o llamo yo. Sea como sea, lo principal es que hablemos.",
+      "back": "Du rufst an oder ich rufe an. Wie auch immer, Hauptsache, wir sprechen uns."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Quiero un escalope, o como se diga.",
+      "back": "Ich möchte ein Schnitzel haben, oder wie auch immer das heißt."
+    },
+    {
+      "id": "s2-t036",
+      "front": "Decidas lo que decidas, yo te apoyaré.",
+      "back": "Wie auch immer du dich entscheidest, ich werde dich unterstützen."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Da igual cómo lo pintes, es y seguirá siendo una vergüenza.",
+      "back": "Wie auch immer du es drehst und wendest, es ist und bleibt eine Unverschämtheit."
+    },
+    {
+      "id": "s2-t038",
+      "front": "Vuelve cuando quieras.",
+      "back": "Komm wieder, wann auch immer du willst."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Dile que puede volver cuando quiera.",
+      "back": "Sag ihm, er kann wiederkommen, wann auch immer er will."
+    },
+    {
+      "id": "s2-t040",
+      "front": "Pues pásate mañana o cuando tengas tiempo.",
+      "back": "Komm doch morgen vorbei, oder wann auch immer du Zeit hast."
+    },
+    {
+      "id": "s2-t041",
+      "front": "Quedamos este fin de semana o cuando tengas tiempo.",
+      "back": "Lass uns dieses Wochenende treffen, oder wann auch immer du Zeit hast."
+    },
+    {
+      "id": "s2-t042",
+      "front": "Pásate cuando te apetezca.",
+      "back": "Komm vorbei, wann auch immer du Lust hast."
+    },
+    {
+      "id": "s2-t043",
+      "front": "Siempre que lo veo, está ocupado.",
+      "back": "Wann auch immer ich ihn sehe, er ist beschäftigt."
+    },
+    {
+      "id": "s2-t044",
+      "front": "Siempre que la veo, está de mal humor.",
+      "back": "Wann auch immer ich sie sehe, sie ist schlecht gelaunt."
+    },
+    {
+      "id": "s2-t045",
+      "front": "Siempre que puedo intento escuchar la radio alemana.",
+      "back": "Wann auch immer es möglich ist, versuche ich, deutsches Radio zu hören."
+    },
+    {
+      "id": "s2-t046",
+      "front": "Siempre que tengo tiempo intento estudiar alemán.",
+      "back": "Wann auch immer ich Zeit habe, versuche ich, Deutsch zu lernen."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Buenos días. Aquí tiene mi carné de conducir y los papeles del coche.",
+      "back": "Guten Tag. Hier bitte, der Führerschein und die Fahrzeugpapiere."
+    },
+    {
+      "id": "s2-t048",
+      "front": "¿Iba demasiado rápido?",
+      "back": "Bin ich zu schnell gefahren?"
+    },
+    {
+      "id": "s2-t049",
+      "front": "Mi luz trasera está rota. No lo sabía.",
+      "back": "Mein Rücklicht ist kaputt? Das wusste ich nicht."
+    },
+    {
+      "id": "s2-t050",
+      "front": "Muchas gracias, ahora mismo me encargo de la luz trasera rota.",
+      "back": "Vielen Dank. Ich kümmere mich sofort um das defekte Rücklicht."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Ich will irgendwas essen, was auch immer.",
+      "back": "Quiero comer algo, lo que sea."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Wir müssen irgendwas unternehmen, was auch immer.",
+      "back": "Tenemos que hacer algo, lo que sea."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Erzähl ihm irgendwas, was auch immer.",
+      "back": "Cuéntale algo, lo que sea."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Was auch immer ich sage, es ist immer das Falsche.",
+      "back": "Diga lo que diga, siempre es lo erróneo."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Was auch immer ich mache, es ist nie gut genug.",
+      "back": "Haga lo que haga, nunca es lo suficientemente bueno."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Was auch immer ich versuche, ich mache alles falsch.",
+      "back": "Intente lo que intente, hago siempre todo mal."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Was auch immer der Grund war, wir werden die Wahrheit nie erfahren.",
+      "back": "Fuera cual fuera el motivo, nunca nos enteraremos de la verdad."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Was auch immer passiert, steig nie bei Fremden ins Auto ein.",
+      "back": "Pase lo que pase, no subas nunca al coche de un desconocido."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Was auch immer du vorhast, pass gut auf dich auf.",
+      "back": "Sea lo que sea lo que te propones, ten mucho cuidado."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Irgendjemand muss uns helfen, wer auch immer.",
+      "back": "Alguien nos tiene que ayudar, sea quien sea."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Irgendjemand wird uns Bescheid sagen, wer auch immer.",
+      "back": "Alguien nos avisará, sea quien sea."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Wer auch immer anruft, geh nicht dran.",
+      "back": "Llame quien llame, no lo cojas."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Wer auch immer für mich anruft, sagen Sie, ich bin nicht da.",
+      "back": "Sea quien sea el que me llame, dígale que no estoy."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Wer auch immer dir das erzählt hat, er hat dich angelogen.",
+      "back": "Sea quien sea el que te lo haya contado, te ha mentido."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Wer auch immer das war, er muss für den Schaden aufkommen.",
+      "back": "Fuera quien fuera, tiene que hacerse cargo de los daños."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Wer auch immer das gewesen ist, er muss für den Schaden aufkommen.",
+      "back": "Haya sido quien haya sido, tiene que hacerse cargo de los daños."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Wer auch immer in der Nähe des Tatorts war, er muss etwas gehört haben.",
+      "back": "Fuera quien fuera el que estaba cerca del lugar del crimen, tuvo que escuchar algo."
+    },
+    {
+      "id": "s2-t068",
+      "front": "Ich muss bald eine Wohnung finden, wo auch immer.",
+      "back": "Tengo que encontrar un piso pronto, sea donde sea."
+    },
+    {
+      "id": "s2-t069",
+      "front": "Lass uns irgendwo etwas essen gehen, wo auch immer.",
+      "back": "Vamos a comer algo, sea donde sea."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Wo auch immer du bist, ich hoffe, dir geht es gut.",
+      "back": "Donde quiera que estés, espero que te vaya bien."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Wo auch immer er auftaucht, alle bewundern ihn.",
+      "back": "Donde quiera que aparezca, todos le admiran."
+    },
+    {
+      "id": "s2-t072",
+      "front": "Alle wollen ein Autogramm von ihr haben, wo auch immer sie auftaucht.",
+      "back": "Donde quiera que aparezca, todos quieren su autógrafo."
+    },
+    {
+      "id": "s2-t073",
+      "front": "Wo auch immer ich hingehe, alles erinnert mich an sie.",
+      "back": "Donde quiera que vaya, todo me recuerda a ella."
+    },
+    {
+      "id": "s2-t074",
+      "front": "Wo auch immer du das gehört hast, glaub mir, es stimmt nicht.",
+      "back": "Donde quiera que lo hayas oído, créeme, no es cierto."
+    },
+    {
+      "id": "s2-t075",
+      "front": "Er hat mich schon mehrmals angerufen, warum auch immer.",
+      "back": "Él ya me ha llamado varias veces, sea por lo que sea."
+    },
+    {
+      "id": "s2-t076",
+      "front": "Sie geht nicht ans Telefon, warum auch immer.",
+      "back": "Ella no coge el teléfono, sea por lo que sea."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Wir gehen immer in die gleiche Kneipe, warum auch immer.",
+      "back": "Siempre vamos al mismo bar, sea por lo que sea."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Warum auch immer er es so macht, er wird seine Gründe haben.",
+      "back": "Sea cual sea la razón de hacerlo así, él tendrá sus motivos."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Warum auch immer du anrufst, ich habe jetzt keine Zeit.",
+      "back": "Llames por lo que llames, ahora no tengo tiempo."
+    },
+    {
+      "id": "s2-t080",
+      "front": "Warum auch immer Sie anrufen, er will nicht gestört werden.",
+      "back": "Llame por lo que llame, él no quiere que le molesten."
+    },
+    {
+      "id": "s2-t081",
+      "front": "Warum auch immer er es getan hat, wir werden die Wahrheit nie erfahren.",
+      "back": "Sea cual sea la razón por la que él lo haya hecho, nunca sabremos la verdad."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Ich glaube, er hat private Probleme. Wie auch immer, ich finde sein Verhalten nicht in Ordnung.",
+      "back": "Creo que él tiene problemas personales. De todas formas, no me parece bien su comportamiento."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Wir fahren morgen oder übermorgen. Wie auch immer, wir sagen dir dann Bescheid.",
+      "back": "Saldremos mañana o pasado mañana. De todas formas, te avisaremos."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Du rufst an oder ich rufe an. Wie auch immer, Hauptsache, wir sprechen uns.",
+      "back": "O llamas tú o llamo yo. Sea como sea, lo principal es que hablemos."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Ich möchte ein Schnitzel haben, oder wie auch immer das heißt.",
+      "back": "Quiero un escalope, o como se diga."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Wie auch immer du dich entscheidest, ich werde dich unterstützen.",
+      "back": "Decidas lo que decidas, yo te apoyaré."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Wie auch immer du es drehst und wendest, es ist und bleibt eine Unverschämtheit.",
+      "back": "Da igual cómo lo pintes, es y seguirá siendo una vergüenza."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Komm wieder, wann auch immer du willst.",
+      "back": "Vuelve cuando quieras."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Sag ihm, er kann wiederkommen, wann auch immer er will.",
+      "back": "Dile que puede volver cuando quiera."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Komm doch morgen vorbei, oder wann auch immer du Zeit hast.",
+      "back": "Pues pásate mañana o cuando tengas tiempo."
+    },
+    {
+      "id": "s2-t091",
+      "front": "Lass uns dieses Wochenende treffen, oder wann auch immer du Zeit hast.",
+      "back": "Quedamos este fin de semana o cuando tengas tiempo."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Komm vorbei, wann auch immer du Lust hast.",
+      "back": "Pásate cuando te apetezca."
+    },
+    {
+      "id": "s2-t093",
+      "front": "Wann auch immer ich ihn sehe, er ist beschäftigt.",
+      "back": "Siempre que lo veo, está ocupado."
+    },
+    {
+      "id": "s2-t094",
+      "front": "Wann auch immer ich sie sehe, sie ist schlecht gelaunt.",
+      "back": "Siempre que la veo, está de mal humor."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Wann auch immer es möglich ist, versuche ich, deutsches Radio zu hören.",
+      "back": "Siempre que puedo intento escuchar la radio alemana."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Wann auch immer ich Zeit habe, versuche ich, Deutsch zu lernen.",
+      "back": "Siempre que tengo tiempo intento estudiar alemán."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Guten Tag. Hier bitte, der Führerschein und die Fahrzeugpapiere.",
+      "back": "Buenos días. Aquí tiene mi carné de conducir y los papeles del coche."
+    },
+    {
+      "id": "s2-t098",
+      "front": "Bin ich zu schnell gefahren?",
+      "back": "¿Iba demasiado rápido?"
+    },
+    {
+      "id": "s2-t099",
+      "front": "Mein Rücklicht ist kaputt? Das wusste ich nicht.",
+      "back": "Mi luz trasera está rota. No lo sabía."
+    },
+    {
+      "id": "s2-t100",
+      "front": "Vielen Dank. Ich kümmere mich sofort um das defekte Rücklicht.",
+      "back": "Muchas gracias, ahora mismo me encargo de la luz trasera rota."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué significa was auch immer?",
+      "back": "Lo que sea o «diga/haga/pase lo que...» según el verbo."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Qué significa wer auch immer?",
+      "back": "Quien sea o «llame quien llame»."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Qué significa wo auch immer?",
+      "back": "Donde sea o «donde quiera que...»."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Qué significa warum auch immer?",
+      "back": "Sea por lo que sea o «sea cual sea la razón...»."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué significa wie auch immer?",
+      "back": "De todas formas, sea como sea o «como se diga» según el contexto."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Qué significa wann auch immer?",
+      "back": "Cuando sea o siempre que."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Se invierte sujeto y verbo en la principal después de una subordinada con auch immer?",
+      "back": "No; el libro mantiene el orden habitual en la oración principal."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Qué significa drangehen en un contexto telefónico?",
+      "back": "Coger el teléfono."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Qué significa für den Schaden aufkommen?",
+      "back": "Hacerse cargo de los daños."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Qué función tienen müssen, dürfen o können con perfecto en estas frases?",
+      "back": "Expresan una suposición sobre el pasado."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué significa oder wie auch immer das heißt?",
+      "back": "O como se diga."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Qué significa wie auch immer man es dreht und wendet?",
+      "back": "Da igual cómo se mire o cómo se pinte."
+    }
+  ]
+}

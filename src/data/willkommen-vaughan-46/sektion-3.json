@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-46",
+  "bookTitle": "Buch 46",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: egal y unabhängig davon",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Tengo que comer algo ahora, da igual qué.",
+      "back": "Ich muss jetzt was essen, egal was."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Diles algo, da igual qué.",
+      "back": "Sag ihnen irgendwas, egal was."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Da igual qué, lo principal es que comas algo ahora.",
+      "back": "Egal was, Hauptsache, du isst jetzt was."
+    },
+    {
+      "id": "s3-t004",
+      "front": "Da igual lo que pase, no te muevas del sitio.",
+      "back": "Egal, was passiert, beweg dich nicht vom Fleck."
+    },
+    {
+      "id": "s3-t005",
+      "front": "Da igual lo que necesites, puedes confiar en mí.",
+      "back": "Egal, was du brauchst, du kannst dich auf mich verlassen."
+    },
+    {
+      "id": "s3-t006",
+      "front": "Da igual lo que necesites, puedes llamarme a cualquier hora.",
+      "back": "Egal, was du brauchst, du kannst mich jederzeit anrufen."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Da igual lo que haga, para ti nunca lo hago bien.",
+      "back": "Egal, was ich mache, ich kann es dir nicht recht machen."
+    },
+    {
+      "id": "s3-t008",
+      "front": "Da igual lo que cocine, para ella nunca lo hago bien.",
+      "back": "Egal, was ich koche, ich kann es ihr nicht recht machen."
+    },
+    {
+      "id": "s3-t009",
+      "front": "Da igual el motivo que fuera, su comportamiento no tiene disculpa.",
+      "back": "Egal, was der Grund war, sein Verhalten ist nicht zu entschuldigen."
+    },
+    {
+      "id": "s3-t010",
+      "front": "Alguien tiene que ayudarnos, da igual quién.",
+      "back": "Irgendjemand muss uns helfen, egal wer."
+    },
+    {
+      "id": "s3-t011",
+      "front": "Alguien tiene que venirse, da igual quién.",
+      "back": "Irgendjemand muss mitkommen, egal wer."
+    },
+    {
+      "id": "s3-t012",
+      "front": "Da igual quién tenga la razón, deberías disculparte.",
+      "back": "Egal, wer Recht hat, du solltest dich entschuldigen."
+    },
+    {
+      "id": "s3-t013",
+      "front": "Da igual quién tenga la razón, él debería disculparse por su comportamiento.",
+      "back": "Egal, wer Recht hat, er sollte sich für sein Verhalten entschuldigen."
+    },
+    {
+      "id": "s3-t014",
+      "front": "Da igual quién haya sido, tendrá que hacerse cargo de los daños.",
+      "back": "Egal, wer das gewesen ist, er wird für den Schaden aufkommen müssen."
+    },
+    {
+      "id": "s3-t015",
+      "front": "Da igual quién haya sido, tendrá que pagar por ello.",
+      "back": "Egal, wer das gewesen ist, er wird dafür büßen müssen."
+    },
+    {
+      "id": "s3-t016",
+      "front": "Da igual quién tenga la culpa, tenemos que encontrar una solución.",
+      "back": "Egal, wer daran schuld ist, wir müssen eine Lösung finden."
+    },
+    {
+      "id": "s3-t017",
+      "front": "Da igual quién te lo haya contado, eso es mentira.",
+      "back": "Egal, wer dir das erzählt hat, es ist eine Lüge."
+    },
+    {
+      "id": "s3-t018",
+      "front": "Da igual quién te lo haya contado, te ha mentido.",
+      "back": "Egal, wer dir das erzählt hat, er hat dich angelogen."
+    },
+    {
+      "id": "s3-t019",
+      "front": "Tengo que encontrar un piso pronto, da igual dónde.",
+      "back": "Ich muss bald eine Wohnung finden, egal wo."
+    },
+    {
+      "id": "s3-t020",
+      "front": "Él tiene que encontrar un trabajo pronto, da igual dónde.",
+      "back": "Er muss bald eine Arbeit finden, egal wo."
+    },
+    {
+      "id": "s3-t021",
+      "front": "Vamos a tomar algo a alguna parte, da igual dónde.",
+      "back": "Lass uns irgendwo etwas trinken gehen, egal wo."
+    },
+    {
+      "id": "s3-t022",
+      "front": "Da igual dónde mire, todo me recuerda a él.",
+      "back": "Egal, wo ich hinschaue, alles erinnert mich an ihn."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Da igual dónde mires, solo se ve agua.",
+      "back": "Egal, wo man hinschaut, man sieht nur Wasser."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Da igual dónde vaya, todos le conocen.",
+      "back": "Egal, wo er hingeht, alle kennen ihn."
+    },
+    {
+      "id": "s3-t025",
+      "front": "Da igual dónde vaya, todos me preguntan por mi famoso hermano.",
+      "back": "Egal, wo ich hingehe, alle fragen mich nach meinem berühmten Bruder."
+    },
+    {
+      "id": "s3-t026",
+      "front": "Da igual dónde aparezca, siempre tiene que firmar autógrafos.",
+      "back": "Egal, wo er auftaucht, er muss immer Autogramme geben."
+    },
+    {
+      "id": "s3-t027",
+      "front": "Da igual dónde lo hayas oído, créeme, no es cierto.",
+      "back": "Egal, wo du das gehört hast, glaub mir, es stimmt nicht."
+    },
+    {
+      "id": "s3-t028",
+      "front": "Llámame, da igual cuándo.",
+      "back": "Ruf mich an, egal wann."
+    },
+    {
+      "id": "s3-t029",
+      "front": "Simplemente pásate, da igual cuándo.",
+      "back": "Komm einfach vorbei, egal wann."
+    },
+    {
+      "id": "s3-t030",
+      "front": "Da igual cuándo, nos puedes llamar en cualquier momento.",
+      "back": "Egal wann, du kannst uns jederzeit anrufen."
+    },
+    {
+      "id": "s3-t031",
+      "front": "No importa cuándo le vea, él siempre tiene prisa.",
+      "back": "Egal, wann ich ihn sehe, er ist immer in Eile."
+    },
+    {
+      "id": "s3-t032",
+      "front": "No importa cuándo la vea, ella siempre tiene prisa.",
+      "back": "Egal, wann ich sie sehe, sie ist immer in Eile."
+    },
+    {
+      "id": "s3-t033",
+      "front": "No importa cuándo le llame, nunca coge el teléfono.",
+      "back": "Egal, wann ich ihn anrufe, er nimmt nie ab."
+    },
+    {
+      "id": "s3-t034",
+      "front": "No importa cuándo llame, nadie coge el teléfono.",
+      "back": "Egal, wann ich dort anrufe, niemand nimmt ab."
+    },
+    {
+      "id": "s3-t035",
+      "front": "Da igual la hora a la que te llame, nunca lo coges.",
+      "back": "Egal, wann ich bei dir anrufe, du gehst nie dran."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Da igual la hora a la que os llame, siempre comunica.",
+      "back": "Egal, wann ich bei euch anrufe, es ist immer besetzt."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Da igual la hora a la que quieras comer allí, nunca consigues mesa en el momento.",
+      "back": "Egal, wann man dort essen will, man bekommt nie sofort einen Tisch."
+    },
+    {
+      "id": "s3-t038",
+      "front": "Tengo que adelgazar para la boda, da igual cómo.",
+      "back": "Ich muss bis zur Hochzeit abnehmen, egal wie."
+    },
+    {
+      "id": "s3-t039",
+      "front": "Tengo que ponerme bien para el examen, da igual cómo.",
+      "back": "Ich muss bis zur Prüfung gesund werden, egal wie."
+    },
+    {
+      "id": "s3-t040",
+      "front": "Él tiene que encontrar un piso nuevo, da igual cómo.",
+      "back": "Er muss eine neue Wohnung finden, egal wie."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Da igual cómo lo haga, para ti nunca lo hago bien.",
+      "back": "Egal, wie ich es mache, ich kann es dir nicht recht machen."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Da igual lo que decidas, te apoyaré.",
+      "back": "Egal, wie du dich entscheidest, ich werde dich unterstützen."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Da igual cómo termine la cosa, puedes confiar en mí.",
+      "back": "Egal, wie die Sache ausgeht, du kannst dich auf mich verlassen."
+    },
+    {
+      "id": "s3-t044",
+      "front": "Da igual cómo lo mires, es y será una vergüenza.",
+      "back": "Egal, wie man es dreht und wendet, es ist und bleibt eine Unverschämtheit."
+    },
+    {
+      "id": "s3-t045",
+      "front": "Da igual cómo lo mires, es y será un engaño.",
+      "back": "Egal, wie du es drehst und wendest, es ist und bleibt ein Betrug."
+    },
+    {
+      "id": "s3-t046",
+      "front": "Independientemente de lo que me hayas contado de él, no le soporto.",
+      "back": "Unabhängig davon, was du mir über ihn erzählt hast, kann ich ihn nicht leiden."
+    },
+    {
+      "id": "s3-t047",
+      "front": "Independientemente de quién haya tenido la culpa, tenemos que encontrar una solución.",
+      "back": "Unabhängig davon, wer daran schuld ist, müssen wir eine Lösung finden."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Independientemente de cómo termine la cosa, te apoyaré.",
+      "back": "Unabhängig davon, wie die Sache ausgeht, werde ich dich unterstützen."
+    },
+    {
+      "id": "s3-t049",
+      "front": "Independientemente de dónde sea la fiesta, dormiré en un hotel.",
+      "back": "Unabhängig davon, wo die Feier stattfindet, werde ich in einem Hotel übernachten."
+    },
+    {
+      "id": "s3-t050",
+      "front": "Independientemente de si tienes razón o no, deberías pedirle disculpas.",
+      "back": "Unabhängig davon, ob du Recht hast oder nicht, solltest du dich bei ihr entschuldigen."
+    },
+    {
+      "id": "s3-t051",
+      "front": "Ich muss jetzt was essen, egal was.",
+      "back": "Tengo que comer algo ahora, da igual qué."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Sag ihnen irgendwas, egal was.",
+      "back": "Diles algo, da igual qué."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Egal was, Hauptsache, du isst jetzt was.",
+      "back": "Da igual qué, lo principal es que comas algo ahora."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Egal, was passiert, beweg dich nicht vom Fleck.",
+      "back": "Da igual lo que pase, no te muevas del sitio."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Egal, was du brauchst, du kannst dich auf mich verlassen.",
+      "back": "Da igual lo que necesites, puedes confiar en mí."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Egal, was du brauchst, du kannst mich jederzeit anrufen.",
+      "back": "Da igual lo que necesites, puedes llamarme a cualquier hora."
+    },
+    {
+      "id": "s3-t057",
+      "front": "Egal, was ich mache, ich kann es dir nicht recht machen.",
+      "back": "Da igual lo que haga, para ti nunca lo hago bien."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Egal, was ich koche, ich kann es ihr nicht recht machen.",
+      "back": "Da igual lo que cocine, para ella nunca lo hago bien."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Egal, was der Grund war, sein Verhalten ist nicht zu entschuldigen.",
+      "back": "Da igual el motivo que fuera, su comportamiento no tiene disculpa."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Irgendjemand muss uns helfen, egal wer.",
+      "back": "Alguien tiene que ayudarnos, da igual quién."
+    },
+    {
+      "id": "s3-t061",
+      "front": "Irgendjemand muss mitkommen, egal wer.",
+      "back": "Alguien tiene que venirse, da igual quién."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Egal, wer Recht hat, du solltest dich entschuldigen.",
+      "back": "Da igual quién tenga la razón, deberías disculparte."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Egal, wer Recht hat, er sollte sich für sein Verhalten entschuldigen.",
+      "back": "Da igual quién tenga la razón, él debería disculparse por su comportamiento."
+    },
+    {
+      "id": "s3-t064",
+      "front": "Egal, wer das gewesen ist, er wird für den Schaden aufkommen müssen.",
+      "back": "Da igual quién haya sido, tendrá que hacerse cargo de los daños."
+    },
+    {
+      "id": "s3-t065",
+      "front": "Egal, wer das gewesen ist, er wird dafür büßen müssen.",
+      "back": "Da igual quién haya sido, tendrá que pagar por ello."
+    },
+    {
+      "id": "s3-t066",
+      "front": "Egal, wer daran schuld ist, wir müssen eine Lösung finden.",
+      "back": "Da igual quién tenga la culpa, tenemos que encontrar una solución."
+    },
+    {
+      "id": "s3-t067",
+      "front": "Egal, wer dir das erzählt hat, es ist eine Lüge.",
+      "back": "Da igual quién te lo haya contado, eso es mentira."
+    },
+    {
+      "id": "s3-t068",
+      "front": "Egal, wer dir das erzählt hat, er hat dich angelogen.",
+      "back": "Da igual quién te lo haya contado, te ha mentido."
+    },
+    {
+      "id": "s3-t069",
+      "front": "Ich muss bald eine Wohnung finden, egal wo.",
+      "back": "Tengo que encontrar un piso pronto, da igual dónde."
+    },
+    {
+      "id": "s3-t070",
+      "front": "Er muss bald eine Arbeit finden, egal wo.",
+      "back": "Él tiene que encontrar un trabajo pronto, da igual dónde."
+    },
+    {
+      "id": "s3-t071",
+      "front": "Lass uns irgendwo etwas trinken gehen, egal wo.",
+      "back": "Vamos a tomar algo a alguna parte, da igual dónde."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Egal, wo ich hinschaue, alles erinnert mich an ihn.",
+      "back": "Da igual dónde mire, todo me recuerda a él."
+    },
+    {
+      "id": "s3-t073",
+      "front": "Egal, wo man hinschaut, man sieht nur Wasser.",
+      "back": "Da igual dónde mires, solo se ve agua."
+    },
+    {
+      "id": "s3-t074",
+      "front": "Egal, wo er hingeht, alle kennen ihn.",
+      "back": "Da igual dónde vaya, todos le conocen."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Egal, wo ich hingehe, alle fragen mich nach meinem berühmten Bruder.",
+      "back": "Da igual dónde vaya, todos me preguntan por mi famoso hermano."
+    },
+    {
+      "id": "s3-t076",
+      "front": "Egal, wo er auftaucht, er muss immer Autogramme geben.",
+      "back": "Da igual dónde aparezca, siempre tiene que firmar autógrafos."
+    },
+    {
+      "id": "s3-t077",
+      "front": "Egal, wo du das gehört hast, glaub mir, es stimmt nicht.",
+      "back": "Da igual dónde lo hayas oído, créeme, no es cierto."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Ruf mich an, egal wann.",
+      "back": "Llámame, da igual cuándo."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Komm einfach vorbei, egal wann.",
+      "back": "Simplemente pásate, da igual cuándo."
+    },
+    {
+      "id": "s3-t080",
+      "front": "Egal wann, du kannst uns jederzeit anrufen.",
+      "back": "Da igual cuándo, nos puedes llamar en cualquier momento."
+    },
+    {
+      "id": "s3-t081",
+      "front": "Egal, wann ich ihn sehe, er ist immer in Eile.",
+      "back": "No importa cuándo le vea, él siempre tiene prisa."
+    },
+    {
+      "id": "s3-t082",
+      "front": "Egal, wann ich sie sehe, sie ist immer in Eile.",
+      "back": "No importa cuándo la vea, ella siempre tiene prisa."
+    },
+    {
+      "id": "s3-t083",
+      "front": "Egal, wann ich ihn anrufe, er nimmt nie ab.",
+      "back": "No importa cuándo le llame, nunca coge el teléfono."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Egal, wann ich dort anrufe, niemand nimmt ab.",
+      "back": "No importa cuándo llame, nadie coge el teléfono."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Egal, wann ich bei dir anrufe, du gehst nie dran.",
+      "back": "Da igual la hora a la que te llame, nunca lo coges."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Egal, wann ich bei euch anrufe, es ist immer besetzt.",
+      "back": "Da igual la hora a la que os llame, siempre comunica."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Egal, wann man dort essen will, man bekommt nie sofort einen Tisch.",
+      "back": "Da igual la hora a la que quieras comer allí, nunca consigues mesa en el momento."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Ich muss bis zur Hochzeit abnehmen, egal wie.",
+      "back": "Tengo que adelgazar para la boda, da igual cómo."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Ich muss bis zur Prüfung gesund werden, egal wie.",
+      "back": "Tengo que ponerme bien para el examen, da igual cómo."
+    },
+    {
+      "id": "s3-t090",
+      "front": "Er muss eine neue Wohnung finden, egal wie.",
+      "back": "Él tiene que encontrar un piso nuevo, da igual cómo."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Egal, wie ich es mache, ich kann es dir nicht recht machen.",
+      "back": "Da igual cómo lo haga, para ti nunca lo hago bien."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Egal, wie du dich entscheidest, ich werde dich unterstützen.",
+      "back": "Da igual lo que decidas, te apoyaré."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Egal, wie die Sache ausgeht, du kannst dich auf mich verlassen.",
+      "back": "Da igual cómo termine la cosa, puedes confiar en mí."
+    },
+    {
+      "id": "s3-t094",
+      "front": "Egal, wie man es dreht und wendet, es ist und bleibt eine Unverschämtheit.",
+      "back": "Da igual cómo lo mires, es y será una vergüenza."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Egal, wie du es drehst und wendest, es ist und bleibt ein Betrug.",
+      "back": "Da igual cómo lo mires, es y será un engaño."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Unabhängig davon, was du mir über ihn erzählt hast, kann ich ihn nicht leiden.",
+      "back": "Independientemente de lo que me hayas contado de él, no le soporto."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Unabhängig davon, wer daran schuld ist, müssen wir eine Lösung finden.",
+      "back": "Independientemente de quién haya tenido la culpa, tenemos que encontrar una solución."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Unabhängig davon, wie die Sache ausgeht, werde ich dich unterstützen.",
+      "back": "Independientemente de cómo termine la cosa, te apoyaré."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Unabhängig davon, wo die Feier stattfindet, werde ich in einem Hotel übernachten.",
+      "back": "Independientemente de dónde sea la fiesta, dormiré en un hotel."
+    },
+    {
+      "id": "s3-t100",
+      "front": "Unabhängig davon, ob du Recht hast oder nicht, solltest du dich bei ihr entschuldigen.",
+      "back": "Independientemente de si tienes razón o no, deberías pedirle disculpas."
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Qué significa egal was?",
+      "back": "Da igual qué o da igual lo que."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué significa egal wer?",
+      "back": "Da igual quién."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Qué significa egal wo?",
+      "back": "Da igual dónde."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Qué significa egal wann?",
+      "back": "Da igual cuándo."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Qué significa egal wie?",
+      "back": "Da igual cómo."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Qué significa unabhängig davon?",
+      "back": "Independientemente de."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Qué elementos pueden seguir a unabhängig davon?",
+      "back": "was, wer, wie, wo u ob."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Se invierte la oración principal después de unabhängig davon?",
+      "back": "Sí, cuando la subordinada va primero: kann ich, müssen wir, werde ich."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué significa jemandem etwas recht machen?",
+      "back": "Hacer algo de manera que le parezca bien a alguien."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Qué significa sich nicht vom Fleck bewegen?",
+      "back": "No moverse del sitio."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Qué verbos del libro significan «coger el teléfono»?",
+      "back": "drangehen, ans Telefon gehen y abnehmen."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Qué significa nicht zu entschuldigen sein?",
+      "back": "No tener disculpa."
+    }
+  ]
+}
