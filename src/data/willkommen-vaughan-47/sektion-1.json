@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-47",
+  "bookTitle": "Buch 47",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: Suposiciones con werden y müssen",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "¿Por qué no ha venido hoy? Estará enfermo.",
+      "back": "Warum ist er heute nicht gekommen? Er wird krank sein."
+    },
+    {
+      "id": "s1-t002",
+      "front": "¿Por qué no viene hoy? Estará ocupada.",
+      "back": "Warum kommt sie heute nicht? Sie wird verhindert sein."
+    },
+    {
+      "id": "s1-t003",
+      "front": "¿Dónde están los vecinos? Estarán de viaje.",
+      "back": "Wo sind die Nachbarn? Sie werden verreist sein."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Estará enfermo; si no, vendría con nosotros.",
+      "back": "Er wird krank sein, sonst würde er mitkommen."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Estará ocupado; si no, vendría con nosotros.",
+      "back": "Er wird verhindert sein, sonst würde er mitkommen."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Estarán de viaje; si no, vendrían con nosotros.",
+      "back": "Sie werden verreist sein, sonst würden sie mitkommen."
+    },
+    {
+      "id": "s1-t007",
+      "front": "¿Dónde están mis gafas? Estarán en la mesita de noche, como siempre.",
+      "back": "Wo ist meine Brille? Sie wird auf dem Nachttisch liegen, wie immer."
+    },
+    {
+      "id": "s1-t008",
+      "front": "¿Dónde está el coche? Estará en el garaje, como siempre.",
+      "back": "Wo steht das Auto? Es wird in der Garage stehen, wie immer."
+    },
+    {
+      "id": "s1-t009",
+      "front": "¿Dónde está el perro? Estará en el jardín, como siempre.",
+      "back": "Wo ist der Hund? Er wird im Garten sein, wie immer."
+    },
+    {
+      "id": "s1-t010",
+      "front": "No sabrá nada de eso; si no, no puedo explicarme su comportamiento.",
+      "back": "Er wird nichts davon wissen, sonst kann ich mir sein Verhalten nicht erklären."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Estará cansado; si no, no puedo explicarme su comportamiento.",
+      "back": "Er wird müde sein, sonst kann ich mir sein Verhalten nicht erklären."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Tendrá una hermana gemela; si no, no me lo puedo explicar.",
+      "back": "Sie wird eine Zwillingsschwester haben, sonst kann ich es mir nicht erklären."
+    },
+    {
+      "id": "s1-t013",
+      "front": "No tendrá hijos; si no, habría mencionado algo.",
+      "back": "Er wird keine Kinder haben, sonst hätte er etwas erwähnt."
+    },
+    {
+      "id": "s1-t014",
+      "front": "No sabrá nada del asunto; si no, habría mencionado algo.",
+      "back": "Sie wird nichts von der Sache wissen, sonst hätte sie etwas erwähnt."
+    },
+    {
+      "id": "s1-t015",
+      "front": "No sabrán nada de eso; si no, habrían mencionado algo.",
+      "back": "Sie werden nichts davon wissen, sonst hätten sie etwas erwähnt."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Habrá tenido sus razones.",
+      "back": "Er wird seine Gründe gehabt haben."
+    },
+    {
+      "id": "s1-t017",
+      "front": "Te habrás olvidado las llaves en casa.",
+      "back": "Du wirst die Schlüssel zuhause vergessen haben."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Ella no habrá sabido nada de eso.",
+      "back": "Sie wird nichts davon gewusst haben."
+    },
+    {
+      "id": "s1-t019",
+      "front": "Probablemente habrá tenido sus razones.",
+      "back": "Sie wird wohl ihre Gründe gehabt haben."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Probablemente él no habrá sabido nada de eso.",
+      "back": "Er wird wohl nichts davon gewusst haben."
+    },
+    {
+      "id": "s1-t021",
+      "front": "Entonces probablemente me habré olvidado la llave de casa en tu casa.",
+      "back": "Dann werde ich wohl meinen Hausschlüssel bei dir vergessen haben."
+    },
+    {
+      "id": "s1-t022",
+      "front": "Me habrán entendido mal.",
+      "back": "Sie werden mich falsch verstanden haben."
+    },
+    {
+      "id": "s1-t023",
+      "front": "Ella me habrá entendido mal; si no, lo habría hecho de otra manera.",
+      "back": "Sie wird mich falsch verstanden haben, sonst hätte sie das anders gemacht."
+    },
+    {
+      "id": "s1-t024",
+      "front": "Si es así, probablemente la habré entendido mal.",
+      "back": "Wenn das so ist, werde ich sie wohl falsch verstanden haben."
+    },
+    {
+      "id": "s1-t025",
+      "front": "Habrá tenido sus razones; si no, no lo habría hecho.",
+      "back": "Er wird seine Gründe gehabt haben, sonst hätte er es nicht gemacht."
+    },
+    {
+      "id": "s1-t026",
+      "front": "No habrá tenido ni idea; si no, no habría hecho eso.",
+      "back": "Sie wird keine Ahnung gehabt haben, sonst hätte sie das nicht gemacht."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Probablemente habrán tenido sus razones; si no, no habrían hecho eso.",
+      "back": "Sie werden wohl ihre Gründe gehabt haben, sonst hätten sie das nicht gemacht."
+    },
+    {
+      "id": "s1-t028",
+      "front": "No lo habrá notado; si no, habría mencionado algo.",
+      "back": "Er wird es nicht gemerkt haben, sonst hätte er etwas erwähnt."
+    },
+    {
+      "id": "s1-t029",
+      "front": "Probablemente nadie lo habrá notado; si no, alguien se habría quejado.",
+      "back": "Das wird wohl niemand gemerkt haben, sonst hätte sich jemand beschwert."
+    },
+    {
+      "id": "s1-t030",
+      "front": "Ella lo habrá notado; si no, no se habría quejado.",
+      "back": "Sie wird es gemerkt haben, sonst hätte sie sich nicht beschwert."
+    },
+    {
+      "id": "s1-t031",
+      "front": "¿Por qué no vino ayer? Habrá estado ocupado.",
+      "back": "Warum ist er gestern nicht gekommen? Er wird verhindert gewesen sein."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Se habrá quedado dormida delante del televisor.",
+      "back": "Sie wird vorm Fernseher eingeschlafen sein."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Habrá sido difícil encontrar una vivienda en esa zona.",
+      "back": "Es wird schwierig gewesen sein, in der Gegend eine Wohnung zu finden."
+    },
+    {
+      "id": "s1-t034",
+      "front": "No habrá pasado nada.",
+      "back": "Es wird nichts passiert sein."
+    },
+    {
+      "id": "s1-t035",
+      "front": "No te preocupes, no habrá pasado nada; si no, habría llamado.",
+      "back": "Mach dir keine Sorgen, es wird nichts passiert sein, sonst hätte er angerufen."
+    },
+    {
+      "id": "s1-t036",
+      "front": "No se preocupe, no habrá pasado nada grave; si no, habría llamado ella.",
+      "back": "Machen Sie sich keine Sorgen, es wird nichts Schlimmes passiert sein, sonst hätte sie angerufen."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Le habrá resultado embarazoso.",
+      "back": "Es wird ihm peinlich gewesen sein."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Le habrá resultado embarazoso; si no, habría venido hoy.",
+      "back": "Es wird ihr peinlich gewesen sein, sonst wäre sie heute gekommen."
+    },
+    {
+      "id": "s1-t039",
+      "front": "El asunto le habrá resultado embarazoso; si no, habría hablado de ello.",
+      "back": "Die Sache wird ihm peinlich gewesen sein, sonst hätte er darüber gesprochen."
+    },
+    {
+      "id": "s1-t040",
+      "front": "Habrán ido en autobús; si no, el coche no estaría delante de la puerta.",
+      "back": "Sie werden mit dem Bus gefahren sein, sonst wäre das Auto nicht vor der Tür."
+    },
+    {
+      "id": "s1-t041",
+      "front": "Ya habrá salido; si no, el coche estaría delante de la puerta.",
+      "back": "Er wird schon losgefahren sein, sonst wäre das Auto vor der Tür."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Los vecinos se habrán ido de viaje; si no, su coche estaría delante de la puerta.",
+      "back": "Die Nachbarn werden weggefahren sein, sonst wäre ihr Auto vor der Tür."
+    },
+    {
+      "id": "s1-t043",
+      "front": "No consigo localizar al señor Meier. Tiene que estar de vacaciones.",
+      "back": "Ich kann Herrn Meier nicht erreichen. Er muss im Urlaub sein."
+    },
+    {
+      "id": "s1-t044",
+      "front": "Suena tu móvil. Tiene que ser el taxi.",
+      "back": "Dein Handy klingelt. Das muss das Taxi sein."
+    },
+    {
+      "id": "s1-t045",
+      "front": "¿Qué es ese ruido? Tienen que ser los vecinos.",
+      "back": "Was ist dieser Lärm? Das müssen die Nachbarn sein."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Tiene que resultarle terriblemente embarazoso.",
+      "back": "Es muss ihm furchtbar peinlich sein."
+    },
+    {
+      "id": "s1-t047",
+      "front": "Tiene que tener mucho trabajo; si no, vendría a la fiesta de despedida.",
+      "back": "Er muss viel Arbeit haben, sonst würde er zur Abschiedsfeier kommen."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Tiene que haberlo sabido.",
+      "back": "Er muss es gewusst haben."
+    },
+    {
+      "id": "s1-t049",
+      "front": "Debe de haberse equivocado, pues ese número de teléfono no existe.",
+      "back": "Du musst dich geirrt haben, denn diese Telefonnummer existiert nicht."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Tiene que haber pasado algo grave; si no, no habrían llamado a la ambulancia.",
+      "back": "Es muss etwas Schlimmes passiert sein, sonst hätten sie nicht den Krankenwagen gerufen."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Warum ist er heute nicht gekommen? Er wird krank sein.",
+      "back": "¿Por qué no ha venido hoy? Estará enfermo."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Warum kommt sie heute nicht? Sie wird verhindert sein.",
+      "back": "¿Por qué no viene hoy? Estará ocupada."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Wo sind die Nachbarn? Sie werden verreist sein.",
+      "back": "¿Dónde están los vecinos? Estarán de viaje."
+    },
+    {
+      "id": "s1-t054",
+      "front": "Er wird krank sein, sonst würde er mitkommen.",
+      "back": "Estará enfermo; si no, vendría con nosotros."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Er wird verhindert sein, sonst würde er mitkommen.",
+      "back": "Estará ocupado; si no, vendría con nosotros."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Sie werden verreist sein, sonst würden sie mitkommen.",
+      "back": "Estarán de viaje; si no, vendrían con nosotros."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Wo ist meine Brille? Sie wird auf dem Nachttisch liegen, wie immer.",
+      "back": "¿Dónde están mis gafas? Estarán en la mesita de noche, como siempre."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Wo steht das Auto? Es wird in der Garage stehen, wie immer.",
+      "back": "¿Dónde está el coche? Estará en el garaje, como siempre."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Wo ist der Hund? Er wird im Garten sein, wie immer.",
+      "back": "¿Dónde está el perro? Estará en el jardín, como siempre."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Er wird nichts davon wissen, sonst kann ich mir sein Verhalten nicht erklären.",
+      "back": "No sabrá nada de eso; si no, no puedo explicarme su comportamiento."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Er wird müde sein, sonst kann ich mir sein Verhalten nicht erklären.",
+      "back": "Estará cansado; si no, no puedo explicarme su comportamiento."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Sie wird eine Zwillingsschwester haben, sonst kann ich es mir nicht erklären.",
+      "back": "Tendrá una hermana gemela; si no, no me lo puedo explicar."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Er wird keine Kinder haben, sonst hätte er etwas erwähnt.",
+      "back": "No tendrá hijos; si no, habría mencionado algo."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Sie wird nichts von der Sache wissen, sonst hätte sie etwas erwähnt.",
+      "back": "No sabrá nada del asunto; si no, habría mencionado algo."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Sie werden nichts davon wissen, sonst hätten sie etwas erwähnt.",
+      "back": "No sabrán nada de eso; si no, habrían mencionado algo."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Er wird seine Gründe gehabt haben.",
+      "back": "Habrá tenido sus razones."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Du wirst die Schlüssel zuhause vergessen haben.",
+      "back": "Te habrás olvidado las llaves en casa."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Sie wird nichts davon gewusst haben.",
+      "back": "Ella no habrá sabido nada de eso."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Sie wird wohl ihre Gründe gehabt haben.",
+      "back": "Probablemente habrá tenido sus razones."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Er wird wohl nichts davon gewusst haben.",
+      "back": "Probablemente él no habrá sabido nada de eso."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Dann werde ich wohl meinen Hausschlüssel bei dir vergessen haben.",
+      "back": "Entonces probablemente me habré olvidado la llave de casa en tu casa."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Sie werden mich falsch verstanden haben.",
+      "back": "Me habrán entendido mal."
+    },
+    {
+      "id": "s1-t073",
+      "front": "Sie wird mich falsch verstanden haben, sonst hätte sie das anders gemacht.",
+      "back": "Ella me habrá entendido mal; si no, lo habría hecho de otra manera."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Wenn das so ist, werde ich sie wohl falsch verstanden haben.",
+      "back": "Si es así, probablemente la habré entendido mal."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Er wird seine Gründe gehabt haben, sonst hätte er es nicht gemacht.",
+      "back": "Habrá tenido sus razones; si no, no lo habría hecho."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Sie wird keine Ahnung gehabt haben, sonst hätte sie das nicht gemacht.",
+      "back": "No habrá tenido ni idea; si no, no habría hecho eso."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Sie werden wohl ihre Gründe gehabt haben, sonst hätten sie das nicht gemacht.",
+      "back": "Probablemente habrán tenido sus razones; si no, no habrían hecho eso."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Er wird es nicht gemerkt haben, sonst hätte er etwas erwähnt.",
+      "back": "No lo habrá notado; si no, habría mencionado algo."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Das wird wohl niemand gemerkt haben, sonst hätte sich jemand beschwert.",
+      "back": "Probablemente nadie lo habrá notado; si no, alguien se habría quejado."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Sie wird es gemerkt haben, sonst hätte sie sich nicht beschwert.",
+      "back": "Ella lo habrá notado; si no, no se habría quejado."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Warum ist er gestern nicht gekommen? Er wird verhindert gewesen sein.",
+      "back": "¿Por qué no vino ayer? Habrá estado ocupado."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Sie wird vorm Fernseher eingeschlafen sein.",
+      "back": "Se habrá quedado dormida delante del televisor."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Es wird schwierig gewesen sein, in der Gegend eine Wohnung zu finden.",
+      "back": "Habrá sido difícil encontrar una vivienda en esa zona."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Es wird nichts passiert sein.",
+      "back": "No habrá pasado nada."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Mach dir keine Sorgen, es wird nichts passiert sein, sonst hätte er angerufen.",
+      "back": "No te preocupes, no habrá pasado nada; si no, habría llamado."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Machen Sie sich keine Sorgen, es wird nichts Schlimmes passiert sein, sonst hätte sie angerufen.",
+      "back": "No se preocupe, no habrá pasado nada grave; si no, habría llamado ella."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Es wird ihm peinlich gewesen sein.",
+      "back": "Le habrá resultado embarazoso."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Es wird ihr peinlich gewesen sein, sonst wäre sie heute gekommen.",
+      "back": "Le habrá resultado embarazoso; si no, habría venido hoy."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Die Sache wird ihm peinlich gewesen sein, sonst hätte er darüber gesprochen.",
+      "back": "El asunto le habrá resultado embarazoso; si no, habría hablado de ello."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Sie werden mit dem Bus gefahren sein, sonst wäre das Auto nicht vor der Tür.",
+      "back": "Habrán ido en autobús; si no, el coche no estaría delante de la puerta."
+    },
+    {
+      "id": "s1-t091",
+      "front": "Er wird schon losgefahren sein, sonst wäre das Auto vor der Tür.",
+      "back": "Ya habrá salido; si no, el coche estaría delante de la puerta."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Die Nachbarn werden weggefahren sein, sonst wäre ihr Auto vor der Tür.",
+      "back": "Los vecinos se habrán ido de viaje; si no, su coche estaría delante de la puerta."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Ich kann Herrn Meier nicht erreichen. Er muss im Urlaub sein.",
+      "back": "No consigo localizar al señor Meier. Tiene que estar de vacaciones."
+    },
+    {
+      "id": "s1-t094",
+      "front": "Dein Handy klingelt. Das muss das Taxi sein.",
+      "back": "Suena tu móvil. Tiene que ser el taxi."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Was ist dieser Lärm? Das müssen die Nachbarn sein.",
+      "back": "¿Qué es ese ruido? Tienen que ser los vecinos."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Es muss ihm furchtbar peinlich sein.",
+      "back": "Tiene que resultarle terriblemente embarazoso."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Er muss viel Arbeit haben, sonst würde er zur Abschiedsfeier kommen.",
+      "back": "Tiene que tener mucho trabajo; si no, vendría a la fiesta de despedida."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Er muss es gewusst haben.",
+      "back": "Tiene que haberlo sabido."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Du musst dich geirrt haben, denn diese Telefonnummer existiert nicht.",
+      "back": "Debe de haberse equivocado, pues ese número de teléfono no existe."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Es muss etwas Schlimmes passiert sein, sonst hätten sie nicht den Krankenwagen gerufen.",
+      "back": "Tiene que haber pasado algo grave; si no, no habrían llamado a la ambulancia."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Cómo expresa werden una suposición sobre el presente?",
+      "back": "Con werden conjugado más infinitivo: Er wird krank sein."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué matiz añade wohl a una suposición?",
+      "back": "La presenta como probable: Sie wird wohl ihre Gründe gehabt haben."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Cómo se forma una suposición sobre el pasado con haben?",
+      "back": "werden más participio II más haben: Er wird es gewusst haben."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Cómo se forma una suposición sobre el pasado con sein?",
+      "back": "werden más participio II más sein: Er wird losgefahren sein."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Qué significa sonst en estas deducciones?",
+      "back": "Si no o de lo contrario; introduce la prueba que sustenta la suposición."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Para qué se usa müssen en esta sección?",
+      "back": "Para una deducción que el hablante considera prácticamente segura."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Cómo se construye una deducción presente con müssen?",
+      "back": "müssen conjugado más infinitivo: Er muss krank sein."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Cómo se construye una deducción pasada con müssen y haben?",
+      "back": "müssen conjugado más participio II más haben: Er muss es gewusst haben."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Cómo se construye una deducción pasada con müssen y sein?",
+      "back": "müssen conjugado más participio II más sein: Er muss weggefahren sein."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué diferencia de certeza hay entre Er wird krank sein y Er muss krank sein?",
+      "back": "La primera es una conjetura; la segunda, una conclusión muy firme."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué auxiliar usa passieren en el perfecto?",
+      "back": "sein: Es muss etwas passiert sein."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Dónde van haben o sein en estas formas de infinitivo perfecto?",
+      "back": "Al final, después del participio: gewusst haben, gefahren sein."
+    }
+  ]
+}
