@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-45",
+  "bookTitle": "Buch 45",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: lieben, hassen y nicht leiden können",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Te quiero.",
+      "back": "Ich liebe dich."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Él me quiere.",
+      "back": "Er liebt mich."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Le quiero con toda mi alma.",
+      "back": "Ich liebe ihn von ganzem Herzen."
+    },
+    {
+      "id": "s3-t004",
+      "front": "Quiero a mi familia.",
+      "back": "Ich liebe meine Familie."
+    },
+    {
+      "id": "s3-t005",
+      "front": "Quiero a mi perro.",
+      "back": "Ich liebe meinen Hund."
+    },
+    {
+      "id": "s3-t006",
+      "front": "Él quiere a su padre con toda su alma.",
+      "back": "Er liebt seinen Vater von ganzem Herzen."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Me encanta la comida china.",
+      "back": "Ich liebe chinesisches Essen."
+    },
+    {
+      "id": "s3-t008",
+      "front": "A mi madre le encanta la comida japonesa.",
+      "back": "Meine Mutter liebt japanisches Essen."
+    },
+    {
+      "id": "s3-t009",
+      "front": "Nos encanta la comida mexicana.",
+      "back": "Wir lieben mexikanisches Essen."
+    },
+    {
+      "id": "s3-t010",
+      "front": "Me encanta el olor a café recién hecho.",
+      "back": "Ich liebe den Geruch nach frischem Kaffee."
+    },
+    {
+      "id": "s3-t011",
+      "front": "Me encanta el olor a pan recién hecho.",
+      "back": "Ich liebe den Geruch nach frischen Brötchen."
+    },
+    {
+      "id": "s3-t012",
+      "front": "A él le encanta el olor a lluvia.",
+      "back": "Er liebt den Geruch nach Regen."
+    },
+    {
+      "id": "s3-t013",
+      "front": "Me encantan las cenas románticas con mi marido.",
+      "back": "Ich liebe romantische Abendessen mit meinem Mann."
+    },
+    {
+      "id": "s3-t014",
+      "front": "Me encantan las películas antiguas en blanco y negro.",
+      "back": "Ich liebe alte Schwarz-Weiß-Filme."
+    },
+    {
+      "id": "s3-t015",
+      "front": "Me encantan las puestas de sol en la playa.",
+      "back": "Ich liebe Sonnenuntergänge am Meer."
+    },
+    {
+      "id": "s3-t016",
+      "front": "Me encanta viajar.",
+      "back": "Ich liebe es, zu reisen."
+    },
+    {
+      "id": "s3-t017",
+      "front": "Me encanta aprender idiomas.",
+      "back": "Ich liebe es, Sprachen zu lernen."
+    },
+    {
+      "id": "s3-t018",
+      "front": "Me encanta escuchar música.",
+      "back": "Ich liebe es, Musik zu hören."
+    },
+    {
+      "id": "s3-t019",
+      "front": "Me encanta dar paseos por la playa por la mañana temprano.",
+      "back": "Ich liebe es, frühmorgens am Strand spazieren zu gehen."
+    },
+    {
+      "id": "s3-t020",
+      "front": "Me encanta ir a la montaña en primavera.",
+      "back": "Ich liebe es, im Frühling in die Berge zu fahren."
+    },
+    {
+      "id": "s3-t021",
+      "front": "Me encanta sentarme en el balcón al atardecer.",
+      "back": "Ich liebe es, bei Sonnenuntergang auf meinem Balkon zu sitzen."
+    },
+    {
+      "id": "s3-t022",
+      "front": "Me encanta dormir hasta tarde los domingos.",
+      "back": "Ich liebe es, sonntags auszuschlafen."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Me encanta levantarme tarde los fines de semana.",
+      "back": "Ich liebe es, am Wochenende spät aufzustehen."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Me encanta mirar fotos antiguas de familia.",
+      "back": "Ich liebe es, alte Familienfotos anzuschauen."
+    },
+    {
+      "id": "s3-t025",
+      "front": "Me encanta cuando llueve en verano.",
+      "back": "Ich liebe es, wenn es im Sommer regnet."
+    },
+    {
+      "id": "s3-t026",
+      "front": "Me encanta cuando hace sol en invierno.",
+      "back": "Ich liebe es, wenn im Winter die Sonne scheint."
+    },
+    {
+      "id": "s3-t027",
+      "front": "Me encanta cuando todo sale según lo planeado.",
+      "back": "Ich liebe es, wenn alles nach Plan geht."
+    },
+    {
+      "id": "s3-t028",
+      "front": "Me encanta cuando tengo los lunes libres.",
+      "back": "Ich liebe es, wenn ich montags freihabe."
+    },
+    {
+      "id": "s3-t029",
+      "front": "Me encanta cuando puedo dormir hasta tarde.",
+      "back": "Ich liebe es, wenn ich ausschlafen kann."
+    },
+    {
+      "id": "s3-t030",
+      "front": "Odio la coliflor.",
+      "back": "Ich hasse Blumenkohl."
+    },
+    {
+      "id": "s3-t031",
+      "front": "Él odia los huevos fritos.",
+      "back": "Er hasst Spiegeleier."
+    },
+    {
+      "id": "s3-t032",
+      "front": "Odio a la gente tacaña.",
+      "back": "Ich hasse geizige Menschen."
+    },
+    {
+      "id": "s3-t033",
+      "front": "Ella odia a la gente envidiosa.",
+      "back": "Sie hasst neidische Menschen."
+    },
+    {
+      "id": "s3-t034",
+      "front": "Ella odia a los hombres celosos.",
+      "back": "Sie hasst eifersüchtige Männer."
+    },
+    {
+      "id": "s3-t035",
+      "front": "Odio el olor a coliflor.",
+      "back": "Ich hasse den Geruch nach Blumenkohl."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Ella odia el olor a tabaco.",
+      "back": "Sie hasst den Geruch nach Zigaretten."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Odio el ruido del chirriar de las ruedas.",
+      "back": "Ich hasse das Geräusch von quietschenden Reifen."
+    },
+    {
+      "id": "s3-t038",
+      "front": "Odio ir al dentista.",
+      "back": "Ich hasse es, zum Zahnarzt zu gehen."
+    },
+    {
+      "id": "s3-t039",
+      "front": "Odio tener los pies fríos.",
+      "back": "Ich hasse es, kalte Füße zu haben."
+    },
+    {
+      "id": "s3-t040",
+      "front": "Odio llegar tarde.",
+      "back": "Ich hasse es, zu spät zu kommen."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Odio que me mientan.",
+      "back": "Ich hasse es, wenn man mich anlügt."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Odio que me interrumpan.",
+      "back": "Ich hasse es, wenn man mich unterbricht."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Odio cuando la gente come con la boca abierta.",
+      "back": "Ich hasse es, wenn Leute schmatzen."
+    },
+    {
+      "id": "s3-t044",
+      "front": "Odio cuando alguien se mete en mis asuntos.",
+      "back": "Ich hasse es, wenn jemand sich in meine Angelegenheiten einmischt."
+    },
+    {
+      "id": "s3-t045",
+      "front": "No le aguanto.",
+      "back": "Ich kann ihn nicht leiden."
+    },
+    {
+      "id": "s3-t046",
+      "front": "No soporto a mi profesor de matemáticas.",
+      "back": "Ich kann meinen Mathelehrer nicht leiden."
+    },
+    {
+      "id": "s3-t047",
+      "front": "No aguanto a la gente maleducada.",
+      "back": "Ich kann unhöfliche Leute nicht leiden."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Nunca he aguantado al vecino.",
+      "back": "Ich konnte den Nachbarn noch nie leiden."
+    },
+    {
+      "id": "s3-t049",
+      "front": "No soporto dormir con la ventana abierta.",
+      "back": "Ich kann es nicht leiden, mit offenem Fenster zu schlafen."
+    },
+    {
+      "id": "s3-t050",
+      "front": "No soporto que la gente hable con la boca llena.",
+      "back": "Ich kann es nicht leiden, wenn Leute mit vollem Mund reden."
+    },
+    {
+      "id": "s3-t051",
+      "front": "Ich liebe dich.",
+      "back": "Te quiero."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Er liebt mich.",
+      "back": "Él me quiere."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Ich liebe ihn von ganzem Herzen.",
+      "back": "Le quiero con toda mi alma."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Ich liebe meine Familie.",
+      "back": "Quiero a mi familia."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Ich liebe meinen Hund.",
+      "back": "Quiero a mi perro."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Er liebt seinen Vater von ganzem Herzen.",
+      "back": "Él quiere a su padre con toda su alma."
+    },
+    {
+      "id": "s3-t057",
+      "front": "Ich liebe chinesisches Essen.",
+      "back": "Me encanta la comida china."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Meine Mutter liebt japanisches Essen.",
+      "back": "A mi madre le encanta la comida japonesa."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Wir lieben mexikanisches Essen.",
+      "back": "Nos encanta la comida mexicana."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Ich liebe den Geruch nach frischem Kaffee.",
+      "back": "Me encanta el olor a café recién hecho."
+    },
+    {
+      "id": "s3-t061",
+      "front": "Ich liebe den Geruch nach frischen Brötchen.",
+      "back": "Me encanta el olor a pan recién hecho."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Er liebt den Geruch nach Regen.",
+      "back": "A él le encanta el olor a lluvia."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Ich liebe romantische Abendessen mit meinem Mann.",
+      "back": "Me encantan las cenas románticas con mi marido."
+    },
+    {
+      "id": "s3-t064",
+      "front": "Ich liebe alte Schwarz-Weiß-Filme.",
+      "back": "Me encantan las películas antiguas en blanco y negro."
+    },
+    {
+      "id": "s3-t065",
+      "front": "Ich liebe Sonnenuntergänge am Meer.",
+      "back": "Me encantan las puestas de sol en la playa."
+    },
+    {
+      "id": "s3-t066",
+      "front": "Ich liebe es, zu reisen.",
+      "back": "Me encanta viajar."
+    },
+    {
+      "id": "s3-t067",
+      "front": "Ich liebe es, Sprachen zu lernen.",
+      "back": "Me encanta aprender idiomas."
+    },
+    {
+      "id": "s3-t068",
+      "front": "Ich liebe es, Musik zu hören.",
+      "back": "Me encanta escuchar música."
+    },
+    {
+      "id": "s3-t069",
+      "front": "Ich liebe es, frühmorgens am Strand spazieren zu gehen.",
+      "back": "Me encanta dar paseos por la playa por la mañana temprano."
+    },
+    {
+      "id": "s3-t070",
+      "front": "Ich liebe es, im Frühling in die Berge zu fahren.",
+      "back": "Me encanta ir a la montaña en primavera."
+    },
+    {
+      "id": "s3-t071",
+      "front": "Ich liebe es, bei Sonnenuntergang auf meinem Balkon zu sitzen.",
+      "back": "Me encanta sentarme en el balcón al atardecer."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Ich liebe es, sonntags auszuschlafen.",
+      "back": "Me encanta dormir hasta tarde los domingos."
+    },
+    {
+      "id": "s3-t073",
+      "front": "Ich liebe es, am Wochenende spät aufzustehen.",
+      "back": "Me encanta levantarme tarde los fines de semana."
+    },
+    {
+      "id": "s3-t074",
+      "front": "Ich liebe es, alte Familienfotos anzuschauen.",
+      "back": "Me encanta mirar fotos antiguas de familia."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Ich liebe es, wenn es im Sommer regnet.",
+      "back": "Me encanta cuando llueve en verano."
+    },
+    {
+      "id": "s3-t076",
+      "front": "Ich liebe es, wenn im Winter die Sonne scheint.",
+      "back": "Me encanta cuando hace sol en invierno."
+    },
+    {
+      "id": "s3-t077",
+      "front": "Ich liebe es, wenn alles nach Plan geht.",
+      "back": "Me encanta cuando todo sale según lo planeado."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Ich liebe es, wenn ich montags freihabe.",
+      "back": "Me encanta cuando tengo los lunes libres."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Ich liebe es, wenn ich ausschlafen kann.",
+      "back": "Me encanta cuando puedo dormir hasta tarde."
+    },
+    {
+      "id": "s3-t080",
+      "front": "Ich hasse Blumenkohl.",
+      "back": "Odio la coliflor."
+    },
+    {
+      "id": "s3-t081",
+      "front": "Er hasst Spiegeleier.",
+      "back": "Él odia los huevos fritos."
+    },
+    {
+      "id": "s3-t082",
+      "front": "Ich hasse geizige Menschen.",
+      "back": "Odio a la gente tacaña."
+    },
+    {
+      "id": "s3-t083",
+      "front": "Sie hasst neidische Menschen.",
+      "back": "Ella odia a la gente envidiosa."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Sie hasst eifersüchtige Männer.",
+      "back": "Ella odia a los hombres celosos."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Ich hasse den Geruch nach Blumenkohl.",
+      "back": "Odio el olor a coliflor."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Sie hasst den Geruch nach Zigaretten.",
+      "back": "Ella odia el olor a tabaco."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Ich hasse das Geräusch von quietschenden Reifen.",
+      "back": "Odio el ruido del chirriar de las ruedas."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Ich hasse es, zum Zahnarzt zu gehen.",
+      "back": "Odio ir al dentista."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Ich hasse es, kalte Füße zu haben.",
+      "back": "Odio tener los pies fríos."
+    },
+    {
+      "id": "s3-t090",
+      "front": "Ich hasse es, zu spät zu kommen.",
+      "back": "Odio llegar tarde."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Ich hasse es, wenn man mich anlügt.",
+      "back": "Odio que me mientan."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Ich hasse es, wenn man mich unterbricht.",
+      "back": "Odio que me interrumpan."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Ich hasse es, wenn Leute schmatzen.",
+      "back": "Odio cuando la gente come con la boca abierta."
+    },
+    {
+      "id": "s3-t094",
+      "front": "Ich hasse es, wenn jemand sich in meine Angelegenheiten einmischt.",
+      "back": "Odio cuando alguien se mete en mis asuntos."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Ich kann ihn nicht leiden.",
+      "back": "No le aguanto."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Ich kann meinen Mathelehrer nicht leiden.",
+      "back": "No soporto a mi profesor de matemáticas."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Ich kann unhöfliche Leute nicht leiden.",
+      "back": "No aguanto a la gente maleducada."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Ich konnte den Nachbarn noch nie leiden.",
+      "back": "Nunca he aguantado al vecino."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Ich kann es nicht leiden, mit offenem Fenster zu schlafen.",
+      "back": "No soporto dormir con la ventana abierta."
+    },
+    {
+      "id": "s3-t100",
+      "front": "Ich kann es nicht leiden, wenn Leute mit vollem Mund reden.",
+      "back": "No soporto que la gente hable con la boca llena."
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Qué significados tiene lieben?",
+      "back": "Amar o querer a alguien, y encantar algo."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué caso rige lieben?",
+      "back": "Acusativo."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Cómo se expresa que encanta realizar una acción?",
+      "back": "Ich liebe es más una subordinada con zu e infinitivo."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Dónde se coloca zu con verbos separables?",
+      "back": "Entre el prefijo y la raíz: auszuschlafen, aufzustehen, anzuschauen."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Cómo se construye «el olor a...»?",
+      "back": "der Geruch nach más dativo."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Qué significa hassen?",
+      "back": "Odiar; rige acusativo."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Cómo se niega un sustantivo con hassen?",
+      "back": "Con kein declinado cuando se niega el sustantivo."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Cómo se expresa «el ruido de...»?",
+      "back": "das Geräusch von más dativo."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué significa nicht leiden können?",
+      "back": "No aguantar o no soportar a alguien o algo."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Qué expresión es sinónima de nicht leiden können?",
+      "back": "nicht ausstehen können."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Qué diferencia señala el libro entre nicht aushalten y nicht leiden können?",
+      "back": "nicht aushalten se usa para no poder seguir soportando algo; nicht leiden können, para personas o cosas en general."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Cómo se dice «de niño»?",
+      "back": "Als Kind."
+    }
+  ]
+}

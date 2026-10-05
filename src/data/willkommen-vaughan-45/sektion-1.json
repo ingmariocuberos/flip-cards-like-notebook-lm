@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-45",
+  "bookTitle": "Buch 45",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: El verbo holen y sus usos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Ahora voy a por panecillos.",
+      "back": "Ich werde gleich Brötchen holen."
+    },
+    {
+      "id": "s1-t002",
+      "front": "¿Puedes ir a por panecillos mañana por la mañana?",
+      "back": "Kannst du morgen früh Brötchen holen?"
+    },
+    {
+      "id": "s1-t003",
+      "front": "¿Voy a por panecillos mañana por la mañana?",
+      "back": "Soll ich morgen früh Brötchen holen?"
+    },
+    {
+      "id": "s1-t004",
+      "front": "Voy a sacar mi vestido de novia del armario.",
+      "back": "Ich werde mein Hochzeitskleid aus dem Schrank holen."
+    },
+    {
+      "id": "s1-t005",
+      "front": "¿Puedes sacar la maleta del ropero?",
+      "back": "Kannst du den Koffer aus dem Kleiderschrank holen?"
+    },
+    {
+      "id": "s1-t006",
+      "front": "He sacado la ropa de verano del ropero.",
+      "back": "Ich habe die Sommersachen aus dem Kleiderschrank geholt."
+    },
+    {
+      "id": "s1-t007",
+      "front": "¿Puedes subir una botella de vino del sótano?",
+      "back": "Kannst du eine Flasche Wein aus dem Keller holen?"
+    },
+    {
+      "id": "s1-t008",
+      "front": "¿Subo más vino del sótano?",
+      "back": "Soll ich mehr Wein aus dem Keller holen?"
+    },
+    {
+      "id": "s1-t009",
+      "front": "He subido un saco de patatas del sótano.",
+      "back": "Ich habe einen Sack Kartoffeln aus dem Keller geholt."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Bajaré las maletas del desván.",
+      "back": "Ich werde die Koffer vom Speicher holen."
+    },
+    {
+      "id": "s1-t011",
+      "front": "¿Puedes bajar los juguetes del desván?",
+      "back": "Kannst du die Spielsachen vom Speicher holen?"
+    },
+    {
+      "id": "s1-t012",
+      "front": "He bajado mi ropa de invierno del desván.",
+      "back": "Ich habe meine Wintersachen vom Speicher geholt."
+    },
+    {
+      "id": "s1-t013",
+      "front": "¿Puedes meter las sillas en casa? Va a empezar a llover.",
+      "back": "Kannst du die Stühle ins Haus holen? Es fängt gleich an, zu regnen."
+    },
+    {
+      "id": "s1-t014",
+      "front": "Voy a meter la colada en casa. Seguro que va a empezar a llover.",
+      "back": "Ich werde die Wäsche ins Haus holen. Es fängt sicher gleich an, zu regnen."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Tráeme un vaso de agua, por favor.",
+      "back": "Hol mir bitte ein Glas Wasser."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Tráele sus pastillas.",
+      "back": "Hol ihm bitte seine Tabletten."
+    },
+    {
+      "id": "s1-t017",
+      "front": "Tráigame el expediente, por favor.",
+      "back": "Holen Sie mir bitte die Akte."
+    },
+    {
+      "id": "s1-t018",
+      "front": "¿Puedes traerme el periódico? Está encima de la mesilla.",
+      "back": "Kannst du mir die Zeitung holen? Sie liegt auf dem Nachttisch."
+    },
+    {
+      "id": "s1-t019",
+      "front": "¿Puede traerle sus pastillas? Están encima del escritorio.",
+      "back": "Können Sie ihr die Tabletten holen? Sie liegen auf dem Schreibtisch."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Te he traído tus pastillas. ¿Dónde las dejo?",
+      "back": "Ich habe dir deine Tabletten geholt. Wo soll ich sie hinlegen?"
+    },
+    {
+      "id": "s1-t021",
+      "front": "Os he traído la maleta. ¿Dónde la dejo?",
+      "back": "Ich habe euch den Koffer geholt. Wo soll ich ihn hinstellen?"
+    },
+    {
+      "id": "s1-t022",
+      "front": "¿Puedes sacarme la chaqueta de la mochila?",
+      "back": "Kannst du mir meine Jacke aus dem Rucksack holen?"
+    },
+    {
+      "id": "s1-t023",
+      "front": "¿Te subo una cerveza del sótano?",
+      "back": "Soll ich dir ein Bier aus dem Keller holen?"
+    },
+    {
+      "id": "s1-t024",
+      "front": "¿Serías tan amable de traerme una manta?",
+      "back": "Wärst du so lieb und holst mir eine Decke?"
+    },
+    {
+      "id": "s1-t025",
+      "front": "¿Serías tan amable de subirnos unas cervezas del sótano?",
+      "back": "Wärst du so lieb und holst uns ein paar Bier aus dem Keller?"
+    },
+    {
+      "id": "s1-t026",
+      "front": "Lo mejor es que te cojas un plano de la ciudad.",
+      "back": "Hol dir am besten einen Stadtplan."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Lo mejor es que se coja usted un plano del metro para que sepa dónde tiene que hacer transbordo.",
+      "back": "Holen Sie sich am besten einen U-Bahnplan, damit Sie wissen, wo Sie umsteigen müssen."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Voy a cogerme una silla. ¿Me puedes coger una a mí también?",
+      "back": "Ich werde mir einen Stuhl holen. Kannst du mir auch einen holen?"
+    },
+    {
+      "id": "s1-t029",
+      "front": "Nos vamos a coger un helado. ¿Me podéis traer uno a mí también?",
+      "back": "Wir werden uns ein Eis holen. Könnt ihr mir auch eins holen?"
+    },
+    {
+      "id": "s1-t030",
+      "front": "Puedes cogerte una manta, si quieres.",
+      "back": "Du kannst dir gerne eine Decke holen."
+    },
+    {
+      "id": "s1-t031",
+      "front": "Podéis cogeros algo para comer, si queréis.",
+      "back": "Ihr könnt euch gerne etwas zu essen holen."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Voy a cogerme algo dulce de la nevera.",
+      "back": "Ich werde mir was Süßes aus dem Kühlschrank holen."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Me he subido una botella de vino del sótano.",
+      "back": "Ich habe mir eine Flasche Wein aus dem Keller geholt."
+    },
+    {
+      "id": "s1-t034",
+      "front": "¡Cógete una cerveza tú mismo!",
+      "back": "Hol dir doch selbst ein Bier!"
+    },
+    {
+      "id": "s1-t035",
+      "front": "Al final me he cogido la manta yo mismo.",
+      "back": "Schlussendlich habe ich mir selbst die Decke geholt."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Ve a buscar a los otros.",
+      "back": "Hol die anderen."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Vete buscando a los otros. La función va a empezar en cualquier momento.",
+      "back": "Hol schon mal die anderen. Die Vorstellung fängt jeden Moment an."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Dile a tu padre que se ponga al teléfono. Hay una llamada para él.",
+      "back": "Hol deinen Vater ans Telefon. Da ist ein Anruf für ihn."
+    },
+    {
+      "id": "s1-t039",
+      "front": "Dígale al señor Maurer que se ponga al teléfono. Hay una llamada para él.",
+      "back": "Holen Sie bitte Herrn Maurer ans Telefon. Da ist ein Anruf für ihn."
+    },
+    {
+      "id": "s1-t040",
+      "front": "¿Puedes llamar a tus hermanos para comer?",
+      "back": "Kannst du bitte deine Brüder zum Essen holen?"
+    },
+    {
+      "id": "s1-t041",
+      "front": "Voy a por alguien que entienda de ordenadores.",
+      "back": "Ich werde jemanden holen, der sich mit Computern auskennt."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Espere un momento, llamaré a alguien que entiende de esto.",
+      "back": "Warten Sie einen Moment, ich werde jemanden holen, der sich damit auskennt."
+    },
+    {
+      "id": "s1-t043",
+      "front": "¡Pide ayuda, rápido!",
+      "back": "Hol Hilfe, schnell!"
+    },
+    {
+      "id": "s1-t044",
+      "front": "Tenemos que pedir ayuda inmediatamente.",
+      "back": "Wir müssen sofort Hilfe holen."
+    },
+    {
+      "id": "s1-t045",
+      "front": "Tienes que llamar a un médico inmediatamente.",
+      "back": "Du musst sofort einen Arzt holen."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Llamaré a la policía si no cesa el alboroto.",
+      "back": "Ich werde die Polizei holen, wenn der Krach nicht aufhört."
+    },
+    {
+      "id": "s1-t047",
+      "front": "Pediremos ayuda si ella se desmaya.",
+      "back": "Wir werden Hilfe holen, wenn sie ohnmächtig wird."
+    },
+    {
+      "id": "s1-t048",
+      "front": "¿Llamo a un médico? No, no hace falta.",
+      "back": "Soll ich einen Arzt holen? Nein, das ist nicht nötig."
+    },
+    {
+      "id": "s1-t049",
+      "front": "Ten cuidado, no te vayas a coger un resfriado.",
+      "back": "Pass auf, dass du dir keine Erkältung holst."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Si no entro pronto, me voy a coger una pulmonía.",
+      "back": "Wenn ich nicht bald reingehe, werde ich mir noch eine Lungenentzündung holen."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Ich werde gleich Brötchen holen.",
+      "back": "Ahora voy a por panecillos."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Kannst du morgen früh Brötchen holen?",
+      "back": "¿Puedes ir a por panecillos mañana por la mañana?"
+    },
+    {
+      "id": "s1-t053",
+      "front": "Soll ich morgen früh Brötchen holen?",
+      "back": "¿Voy a por panecillos mañana por la mañana?"
+    },
+    {
+      "id": "s1-t054",
+      "front": "Ich werde mein Hochzeitskleid aus dem Schrank holen.",
+      "back": "Voy a sacar mi vestido de novia del armario."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Kannst du den Koffer aus dem Kleiderschrank holen?",
+      "back": "¿Puedes sacar la maleta del ropero?"
+    },
+    {
+      "id": "s1-t056",
+      "front": "Ich habe die Sommersachen aus dem Kleiderschrank geholt.",
+      "back": "He sacado la ropa de verano del ropero."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Kannst du eine Flasche Wein aus dem Keller holen?",
+      "back": "¿Puedes subir una botella de vino del sótano?"
+    },
+    {
+      "id": "s1-t058",
+      "front": "Soll ich mehr Wein aus dem Keller holen?",
+      "back": "¿Subo más vino del sótano?"
+    },
+    {
+      "id": "s1-t059",
+      "front": "Ich habe einen Sack Kartoffeln aus dem Keller geholt.",
+      "back": "He subido un saco de patatas del sótano."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Ich werde die Koffer vom Speicher holen.",
+      "back": "Bajaré las maletas del desván."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Kannst du die Spielsachen vom Speicher holen?",
+      "back": "¿Puedes bajar los juguetes del desván?"
+    },
+    {
+      "id": "s1-t062",
+      "front": "Ich habe meine Wintersachen vom Speicher geholt.",
+      "back": "He bajado mi ropa de invierno del desván."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Kannst du die Stühle ins Haus holen? Es fängt gleich an, zu regnen.",
+      "back": "¿Puedes meter las sillas en casa? Va a empezar a llover."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Ich werde die Wäsche ins Haus holen. Es fängt sicher gleich an, zu regnen.",
+      "back": "Voy a meter la colada en casa. Seguro que va a empezar a llover."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Hol mir bitte ein Glas Wasser.",
+      "back": "Tráeme un vaso de agua, por favor."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Hol ihm bitte seine Tabletten.",
+      "back": "Tráele sus pastillas."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Holen Sie mir bitte die Akte.",
+      "back": "Tráigame el expediente, por favor."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Kannst du mir die Zeitung holen? Sie liegt auf dem Nachttisch.",
+      "back": "¿Puedes traerme el periódico? Está encima de la mesilla."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Können Sie ihr die Tabletten holen? Sie liegen auf dem Schreibtisch.",
+      "back": "¿Puede traerle sus pastillas? Están encima del escritorio."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Ich habe dir deine Tabletten geholt. Wo soll ich sie hinlegen?",
+      "back": "Te he traído tus pastillas. ¿Dónde las dejo?"
+    },
+    {
+      "id": "s1-t071",
+      "front": "Ich habe euch den Koffer geholt. Wo soll ich ihn hinstellen?",
+      "back": "Os he traído la maleta. ¿Dónde la dejo?"
+    },
+    {
+      "id": "s1-t072",
+      "front": "Kannst du mir meine Jacke aus dem Rucksack holen?",
+      "back": "¿Puedes sacarme la chaqueta de la mochila?"
+    },
+    {
+      "id": "s1-t073",
+      "front": "Soll ich dir ein Bier aus dem Keller holen?",
+      "back": "¿Te subo una cerveza del sótano?"
+    },
+    {
+      "id": "s1-t074",
+      "front": "Wärst du so lieb und holst mir eine Decke?",
+      "back": "¿Serías tan amable de traerme una manta?"
+    },
+    {
+      "id": "s1-t075",
+      "front": "Wärst du so lieb und holst uns ein paar Bier aus dem Keller?",
+      "back": "¿Serías tan amable de subirnos unas cervezas del sótano?"
+    },
+    {
+      "id": "s1-t076",
+      "front": "Hol dir am besten einen Stadtplan.",
+      "back": "Lo mejor es que te cojas un plano de la ciudad."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Holen Sie sich am besten einen U-Bahnplan, damit Sie wissen, wo Sie umsteigen müssen.",
+      "back": "Lo mejor es que se coja usted un plano del metro para que sepa dónde tiene que hacer transbordo."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Ich werde mir einen Stuhl holen. Kannst du mir auch einen holen?",
+      "back": "Voy a cogerme una silla. ¿Me puedes coger una a mí también?"
+    },
+    {
+      "id": "s1-t079",
+      "front": "Wir werden uns ein Eis holen. Könnt ihr mir auch eins holen?",
+      "back": "Nos vamos a coger un helado. ¿Me podéis traer uno a mí también?"
+    },
+    {
+      "id": "s1-t080",
+      "front": "Du kannst dir gerne eine Decke holen.",
+      "back": "Puedes cogerte una manta, si quieres."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Ihr könnt euch gerne etwas zu essen holen.",
+      "back": "Podéis cogeros algo para comer, si queréis."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Ich werde mir was Süßes aus dem Kühlschrank holen.",
+      "back": "Voy a cogerme algo dulce de la nevera."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Ich habe mir eine Flasche Wein aus dem Keller geholt.",
+      "back": "Me he subido una botella de vino del sótano."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Hol dir doch selbst ein Bier!",
+      "back": "¡Cógete una cerveza tú mismo!"
+    },
+    {
+      "id": "s1-t085",
+      "front": "Schlussendlich habe ich mir selbst die Decke geholt.",
+      "back": "Al final me he cogido la manta yo mismo."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Hol die anderen.",
+      "back": "Ve a buscar a los otros."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Hol schon mal die anderen. Die Vorstellung fängt jeden Moment an.",
+      "back": "Vete buscando a los otros. La función va a empezar en cualquier momento."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Hol deinen Vater ans Telefon. Da ist ein Anruf für ihn.",
+      "back": "Dile a tu padre que se ponga al teléfono. Hay una llamada para él."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Holen Sie bitte Herrn Maurer ans Telefon. Da ist ein Anruf für ihn.",
+      "back": "Dígale al señor Maurer que se ponga al teléfono. Hay una llamada para él."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Kannst du bitte deine Brüder zum Essen holen?",
+      "back": "¿Puedes llamar a tus hermanos para comer?"
+    },
+    {
+      "id": "s1-t091",
+      "front": "Ich werde jemanden holen, der sich mit Computern auskennt.",
+      "back": "Voy a por alguien que entienda de ordenadores."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Warten Sie einen Moment, ich werde jemanden holen, der sich damit auskennt.",
+      "back": "Espere un momento, llamaré a alguien que entiende de esto."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Hol Hilfe, schnell!",
+      "back": "¡Pide ayuda, rápido!"
+    },
+    {
+      "id": "s1-t094",
+      "front": "Wir müssen sofort Hilfe holen.",
+      "back": "Tenemos que pedir ayuda inmediatamente."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Du musst sofort einen Arzt holen.",
+      "back": "Tienes que llamar a un médico inmediatamente."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Ich werde die Polizei holen, wenn der Krach nicht aufhört.",
+      "back": "Llamaré a la policía si no cesa el alboroto."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Wir werden Hilfe holen, wenn sie ohnmächtig wird.",
+      "back": "Pediremos ayuda si ella se desmaya."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Soll ich einen Arzt holen? Nein, das ist nicht nötig.",
+      "back": "¿Llamo a un médico? No, no hace falta."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Pass auf, dass du dir keine Erkältung holst.",
+      "back": "Ten cuidado, no te vayas a coger un resfriado."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Wenn ich nicht bald reingehe, werde ich mir noch eine Lungenentzündung holen.",
+      "back": "Si no entro pronto, me voy a coger una pulmonía."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué significados adopta holen según el contexto?",
+      "back": "Ir a por, traer, coger, sacar, subir, bajar o meter."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué caso rige aus?",
+      "back": "Dativo: aus dem Schrank, aus dem Keller."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué caso rige von?",
+      "back": "Dativo: vom Speicher."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Cuál es el participio de holen?",
+      "back": "geholt."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Cómo se estructura «traer algo a alguien»?",
+      "back": "jemandem etwas holen; la persona va en dativo y la cosa en acusativo."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué significa sich etwas holen?",
+      "back": "Ir a buscar o cogerse algo para uno mismo."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿En qué caso va el pronombre reflexivo de sich etwas holen?",
+      "back": "En dativo: mir, dir, sich, uns, euch, sich."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué diferencia hay entre ans Telefon y am Telefon?",
+      "back": "ans Telefon implica movimiento hacia el teléfono; am Telefon indica estar al teléfono."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Qué significa Hilfe holen?",
+      "back": "Pedir o ir a buscar ayuda."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Cómo se expresa «cogerse una enfermedad»?",
+      "back": "sich eine Krankheit holen."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Cómo se dice «no vaya a ser que...»?",
+      "back": "Nicht, dass..."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se dice «a partir de las dos y cuarto»?",
+      "back": "Ab viertel nach zwei."
+    }
+  ]
+}

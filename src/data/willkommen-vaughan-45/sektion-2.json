@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-45",
+  "bookTitle": "Buch 45",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: Verbos derivados de holen",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "Normalmente recojo a los niños los martes.",
+      "back": "Ich hole die Kinder meistens dienstags ab."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Mi marido recoge a los niños normalmente los jueves y los viernes.",
+      "back": "Mein Mann holt die Kinder meistens donnerstags und freitags ab."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Recojo a los niños del colegio todos los días.",
+      "back": "Ich hole die Kinder jeden Tag von der Schule ab."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Hoy no puedo recoger a los niños de clase de piano.",
+      "back": "Ich kann die Kinder heute nicht vom Klavierunterricht abholen."
+    },
+    {
+      "id": "s2-t005",
+      "front": "¿Te recojo el abrigo de la tintorería?",
+      "back": "Soll ich deinen Mantel von der Reinigung abholen?"
+    },
+    {
+      "id": "s2-t006",
+      "front": "Siempre voy a recoger a los niños en bicicleta.",
+      "back": "Ich hole die Kinder immer mit dem Fahrrad ab."
+    },
+    {
+      "id": "s2-t007",
+      "front": "Te iré a buscar en moto si hace sol.",
+      "back": "Ich werde dich mit dem Mofa abholen, wenn die Sonne scheint."
+    },
+    {
+      "id": "s2-t008",
+      "front": "¿Me puedes venir a buscar en coche? Llevo muchas cosas.",
+      "back": "Kannst du mich mit dem Auto abholen? Ich habe viele Sachen dabei."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Voy saliendo, que todavía tengo que recoger a los niños.",
+      "back": "Ich gehe schon mal los, weil ich noch die Kinder abholen muss."
+    },
+    {
+      "id": "s2-t010",
+      "front": "Me fui antes porque todavía tenía que recoger mi abrigo de la tintorería.",
+      "back": "Ich bin früher gegangen, weil ich noch meinen Mantel von der Reinigung abholen musste."
+    },
+    {
+      "id": "s2-t011",
+      "front": "Recogeré el paquete de camino al trabajo.",
+      "back": "Ich werde das Paket auf dem Weg zur Arbeit abholen."
+    },
+    {
+      "id": "s2-t012",
+      "front": "¿Puedes recoger a los niños de camino a casa?",
+      "back": "Kannst du die Kinder auf dem Weg nach Hause abholen?"
+    },
+    {
+      "id": "s2-t013",
+      "front": "Mira en tu bolso y sácalo todo.",
+      "back": "Schau mal in deiner Tasche nach und hol alles raus."
+    },
+    {
+      "id": "s2-t014",
+      "front": "Mire en su maleta y sáquelo todo.",
+      "back": "Schauen Sie mal in dem Koffer nach und holen Sie alles raus."
+    },
+    {
+      "id": "s2-t015",
+      "front": "No encuentro mis llaves. Mira de nuevo en tu chaqueta y sácalo todo.",
+      "back": "Ich kann meinen Schlüssel nicht finden. Schau noch mal in deiner Jacke nach und hol alles raus."
+    },
+    {
+      "id": "s2-t016",
+      "front": "Lo he sacado todo. Las llaves no están en mi chaqueta.",
+      "back": "Ich habe alles rausgeholt. Der Schlüssel ist nicht in meiner Jacke."
+    },
+    {
+      "id": "s2-t017",
+      "front": "¿Ha sacado usted todos los líquidos?",
+      "back": "Haben Sie alle Flüssigkeiten rausgeholt?"
+    },
+    {
+      "id": "s2-t018",
+      "front": "Mete la colada dentro, por favor. Va a empezar a llover.",
+      "back": "Hol bitte die Wäsche rein. Es fängt gleich an, zu regnen."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Meted vuestras cosas dentro. Seguro que va a empezar a llover.",
+      "back": "Holt eure Sachen rein. Es fängt bestimmt gleich an, zu regnen."
+    },
+    {
+      "id": "s2-t020",
+      "front": "He metido la colada dentro.",
+      "back": "Ich habe die Wäsche reingeholt."
+    },
+    {
+      "id": "s2-t021",
+      "front": "¿Metiste las toallas dentro ayer por la noche?",
+      "back": "Hast du gestern Abend die Handtücher reingeholt?"
+    },
+    {
+      "id": "s2-t022",
+      "front": "Si no meto la colada dentro, se mojará todo.",
+      "back": "Wenn ich die Wäsche nicht reinhole, wird alles nass."
+    },
+    {
+      "id": "s2-t023",
+      "front": "Si no te sacas la astilla, puedes tener una infección sanguínea.",
+      "back": "Wenn du den Splitter nicht rausholst, kannst du eine Blutvergiftung bekommen."
+    },
+    {
+      "id": "s2-t024",
+      "front": "El ICE puede compensar el retraso.",
+      "back": "Der ICE kann die Verspätung aufholen."
+    },
+    {
+      "id": "s2-t025",
+      "front": "Qué bien que hayamos podido compensar el retraso.",
+      "back": "Gut, dass wir die Verspätung aufholen konnten."
+    },
+    {
+      "id": "s2-t026",
+      "front": "El tren compensó el retraso.",
+      "back": "Der Zug hat die Verspätung aufgeholt."
+    },
+    {
+      "id": "s2-t027",
+      "front": "No pudieron recortar la ventaja.",
+      "back": "Sie konnten den Vorsprung nicht aufholen."
+    },
+    {
+      "id": "s2-t028",
+      "front": "Hemos recortado la ventaja.",
+      "back": "Wir haben den Vorsprung aufgeholt."
+    },
+    {
+      "id": "s2-t029",
+      "front": "Si nos esforzamos podremos compensar la desventaja.",
+      "back": "Wenn wir uns anstrengen, werden wir den Rückstand aufholen können."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Es difícil recortar una ventaja tan grande.",
+      "back": "Es ist schwierig, einen so großen Vorsprung aufzuholen."
+    },
+    {
+      "id": "s2-t031",
+      "front": "Eso lo compensas sin problema.",
+      "back": "Das holst du locker wieder auf."
+    },
+    {
+      "id": "s2-t032",
+      "front": "No te preocupes, puedes volver a compensar la desventaja sin problema.",
+      "back": "Mach dir keine Sorgen, du kannst den Rückstand locker wieder aufholen."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Usted puede hacer el examen a posteriori.",
+      "back": "Sie können die Prüfung nachholen."
+    },
+    {
+      "id": "s2-t034",
+      "front": "Hice el examen a posteriori porque estaba enfermo el día del examen.",
+      "back": "Ich habe die Prüfung nachgeholt, weil ich am Prüfungstermin krank war."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Me gustaría hacer la Selectividad.",
+      "back": "Ich würde gerne mein Abitur nachholen."
+    },
+    {
+      "id": "s2-t036",
+      "front": "A él le gustaría hacer el examen final.",
+      "back": "Er würde gerne seinen Schulabschluss nachholen."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Deberías hacer la Selectividad para poder ir a la universidad.",
+      "back": "Du solltest dein Abitur nachholen, um an die Uni gehen zu können."
+    },
+    {
+      "id": "s2-t038",
+      "front": "He trasnochado y ahora tengo que recuperar sueño.",
+      "back": "Ich habe die Nacht durchgemacht und muss jetzt Schlaf nachholen."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Desde que me divorcié no he vuelto a salir. Tengo que recuperar el tiempo perdido.",
+      "back": "Ich bin seit meiner Scheidung nicht mehr ausgegangen. Ich habe viel nachzuholen."
+    },
+    {
+      "id": "s2-t040",
+      "front": "No me gusta adelantar en las carreteras nacionales.",
+      "back": "Ich überhole nicht gerne auf der Landstraße."
+    },
+    {
+      "id": "s2-t041",
+      "front": "En la autopista siempre adelanto a los camiones.",
+      "back": "Auf der Autobahn überhole ich immer die LKWs."
+    },
+    {
+      "id": "s2-t042",
+      "front": "Aquí no está permitido adelantar.",
+      "back": "Man darf hier nicht überholen."
+    },
+    {
+      "id": "s2-t043",
+      "front": "No está permitido adelantar por la derecha.",
+      "back": "Man darf nicht von rechts überholen."
+    },
+    {
+      "id": "s2-t044",
+      "front": "Hemos adelantado al tractor, por fin.",
+      "back": "Wir haben endlich den Traktor überholt."
+    },
+    {
+      "id": "s2-t045",
+      "front": "El tío que va detrás quiere adelantarme todo el rato.",
+      "back": "Der Typ hinter mir will mich die ganze Zeit überholen."
+    },
+    {
+      "id": "s2-t046",
+      "front": "No está permitido adelantar sin poner antes el intermitente.",
+      "back": "Man darf nicht überholen, ohne davor zu blinken."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Recupérate bien.",
+      "back": "Erhol dich gut."
+    },
+    {
+      "id": "s2-t048",
+      "front": "Tengo que recuperarme primero del largo viaje.",
+      "back": "Ich muss mich erst mal von der langen Reise erholen."
+    },
+    {
+      "id": "s2-t049",
+      "front": "Ella necesita mucha tranquilidad para recuperarse.",
+      "back": "Sie braucht viel Ruhe, um sich zu erholen."
+    },
+    {
+      "id": "s2-t050",
+      "front": "Ella no volverá al colegio hasta que se haya recuperado totalmente.",
+      "back": "Sie kommt erst wieder in die Schule, wenn sie sich vollständig erholt hat."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Ich hole die Kinder meistens dienstags ab.",
+      "back": "Normalmente recojo a los niños los martes."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Mein Mann holt die Kinder meistens donnerstags und freitags ab.",
+      "back": "Mi marido recoge a los niños normalmente los jueves y los viernes."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Ich hole die Kinder jeden Tag von der Schule ab.",
+      "back": "Recojo a los niños del colegio todos los días."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Ich kann die Kinder heute nicht vom Klavierunterricht abholen.",
+      "back": "Hoy no puedo recoger a los niños de clase de piano."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Soll ich deinen Mantel von der Reinigung abholen?",
+      "back": "¿Te recojo el abrigo de la tintorería?"
+    },
+    {
+      "id": "s2-t056",
+      "front": "Ich hole die Kinder immer mit dem Fahrrad ab.",
+      "back": "Siempre voy a recoger a los niños en bicicleta."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Ich werde dich mit dem Mofa abholen, wenn die Sonne scheint.",
+      "back": "Te iré a buscar en moto si hace sol."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Kannst du mich mit dem Auto abholen? Ich habe viele Sachen dabei.",
+      "back": "¿Me puedes venir a buscar en coche? Llevo muchas cosas."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Ich gehe schon mal los, weil ich noch die Kinder abholen muss.",
+      "back": "Voy saliendo, que todavía tengo que recoger a los niños."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Ich bin früher gegangen, weil ich noch meinen Mantel von der Reinigung abholen musste.",
+      "back": "Me fui antes porque todavía tenía que recoger mi abrigo de la tintorería."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Ich werde das Paket auf dem Weg zur Arbeit abholen.",
+      "back": "Recogeré el paquete de camino al trabajo."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Kannst du die Kinder auf dem Weg nach Hause abholen?",
+      "back": "¿Puedes recoger a los niños de camino a casa?"
+    },
+    {
+      "id": "s2-t063",
+      "front": "Schau mal in deiner Tasche nach und hol alles raus.",
+      "back": "Mira en tu bolso y sácalo todo."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Schauen Sie mal in dem Koffer nach und holen Sie alles raus.",
+      "back": "Mire en su maleta y sáquelo todo."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Ich kann meinen Schlüssel nicht finden. Schau noch mal in deiner Jacke nach und hol alles raus.",
+      "back": "No encuentro mis llaves. Mira de nuevo en tu chaqueta y sácalo todo."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Ich habe alles rausgeholt. Der Schlüssel ist nicht in meiner Jacke.",
+      "back": "Lo he sacado todo. Las llaves no están en mi chaqueta."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Haben Sie alle Flüssigkeiten rausgeholt?",
+      "back": "¿Ha sacado usted todos los líquidos?"
+    },
+    {
+      "id": "s2-t068",
+      "front": "Hol bitte die Wäsche rein. Es fängt gleich an, zu regnen.",
+      "back": "Mete la colada dentro, por favor. Va a empezar a llover."
+    },
+    {
+      "id": "s2-t069",
+      "front": "Holt eure Sachen rein. Es fängt bestimmt gleich an, zu regnen.",
+      "back": "Meted vuestras cosas dentro. Seguro que va a empezar a llover."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Ich habe die Wäsche reingeholt.",
+      "back": "He metido la colada dentro."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Hast du gestern Abend die Handtücher reingeholt?",
+      "back": "¿Metiste las toallas dentro ayer por la noche?"
+    },
+    {
+      "id": "s2-t072",
+      "front": "Wenn ich die Wäsche nicht reinhole, wird alles nass.",
+      "back": "Si no meto la colada dentro, se mojará todo."
+    },
+    {
+      "id": "s2-t073",
+      "front": "Wenn du den Splitter nicht rausholst, kannst du eine Blutvergiftung bekommen.",
+      "back": "Si no te sacas la astilla, puedes tener una infección sanguínea."
+    },
+    {
+      "id": "s2-t074",
+      "front": "Der ICE kann die Verspätung aufholen.",
+      "back": "El ICE puede compensar el retraso."
+    },
+    {
+      "id": "s2-t075",
+      "front": "Gut, dass wir die Verspätung aufholen konnten.",
+      "back": "Qué bien que hayamos podido compensar el retraso."
+    },
+    {
+      "id": "s2-t076",
+      "front": "Der Zug hat die Verspätung aufgeholt.",
+      "back": "El tren compensó el retraso."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Sie konnten den Vorsprung nicht aufholen.",
+      "back": "No pudieron recortar la ventaja."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Wir haben den Vorsprung aufgeholt.",
+      "back": "Hemos recortado la ventaja."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Wenn wir uns anstrengen, werden wir den Rückstand aufholen können.",
+      "back": "Si nos esforzamos podremos compensar la desventaja."
+    },
+    {
+      "id": "s2-t080",
+      "front": "Es ist schwierig, einen so großen Vorsprung aufzuholen.",
+      "back": "Es difícil recortar una ventaja tan grande."
+    },
+    {
+      "id": "s2-t081",
+      "front": "Das holst du locker wieder auf.",
+      "back": "Eso lo compensas sin problema."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Mach dir keine Sorgen, du kannst den Rückstand locker wieder aufholen.",
+      "back": "No te preocupes, puedes volver a compensar la desventaja sin problema."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Sie können die Prüfung nachholen.",
+      "back": "Usted puede hacer el examen a posteriori."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Ich habe die Prüfung nachgeholt, weil ich am Prüfungstermin krank war.",
+      "back": "Hice el examen a posteriori porque estaba enfermo el día del examen."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Ich würde gerne mein Abitur nachholen.",
+      "back": "Me gustaría hacer la Selectividad."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Er würde gerne seinen Schulabschluss nachholen.",
+      "back": "A él le gustaría hacer el examen final."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Du solltest dein Abitur nachholen, um an die Uni gehen zu können.",
+      "back": "Deberías hacer la Selectividad para poder ir a la universidad."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Ich habe die Nacht durchgemacht und muss jetzt Schlaf nachholen.",
+      "back": "He trasnochado y ahora tengo que recuperar sueño."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Ich bin seit meiner Scheidung nicht mehr ausgegangen. Ich habe viel nachzuholen.",
+      "back": "Desde que me divorcié no he vuelto a salir. Tengo que recuperar el tiempo perdido."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Ich überhole nicht gerne auf der Landstraße.",
+      "back": "No me gusta adelantar en las carreteras nacionales."
+    },
+    {
+      "id": "s2-t091",
+      "front": "Auf der Autobahn überhole ich immer die LKWs.",
+      "back": "En la autopista siempre adelanto a los camiones."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Man darf hier nicht überholen.",
+      "back": "Aquí no está permitido adelantar."
+    },
+    {
+      "id": "s2-t093",
+      "front": "Man darf nicht von rechts überholen.",
+      "back": "No está permitido adelantar por la derecha."
+    },
+    {
+      "id": "s2-t094",
+      "front": "Wir haben endlich den Traktor überholt.",
+      "back": "Hemos adelantado al tractor, por fin."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Der Typ hinter mir will mich die ganze Zeit überholen.",
+      "back": "El tío que va detrás quiere adelantarme todo el rato."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Man darf nicht überholen, ohne davor zu blinken.",
+      "back": "No está permitido adelantar sin poner antes el intermitente."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Erhol dich gut.",
+      "back": "Recupérate bien."
+    },
+    {
+      "id": "s2-t098",
+      "front": "Ich muss mich erst mal von der langen Reise erholen.",
+      "back": "Tengo que recuperarme primero del largo viaje."
+    },
+    {
+      "id": "s2-t099",
+      "front": "Sie braucht viel Ruhe, um sich zu erholen.",
+      "back": "Ella necesita mucha tranquilidad para recuperarse."
+    },
+    {
+      "id": "s2-t100",
+      "front": "Sie kommt erst wieder in die Schule, wenn sie sich vollständig erholt hat.",
+      "back": "Ella no volverá al colegio hasta que se haya recuperado totalmente."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué significa abholen?",
+      "back": "Recoger a una persona o una cosa."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Qué preposición indica de dónde se recoge algo?",
+      "back": "von más dativo."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Qué expresan los prefijos raus- y rein-?",
+      "back": "Movimiento hacia afuera y hacia adentro, respectivamente."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Cuáles son los participios de rausholen y reinholen?",
+      "back": "rausgeholt y reingeholt."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué significa aufholen?",
+      "back": "Recuperar o compensar una ventaja, desventaja o retraso."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Qué diferencia hay entre Vorsprung y Rückstand?",
+      "back": "Vorsprung es ventaja; Rückstand es desventaja o retraso respecto a otros."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Qué significa nachholen?",
+      "back": "Hacer a posteriori algo que no se pudo hacer antes o recuperar algo perdido."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Dónde se coloca zu en los verbos separables?",
+      "back": "Entre el prefijo y la raíz: aufzuholen, nachzuholen."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Qué significa überholen?",
+      "back": "Adelantar en la carretera."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Por qué el participio es überholt y no übergeholt?",
+      "back": "Porque überholen es no separable y no añade ge-."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué significa sich erholen?",
+      "back": "Recuperarse o descansar."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Qué caso rige von con sich erholen?",
+      "back": "Dativo: sich von der Reise erholen."
+    }
+  ]
+}
