@@ -1,0 +1,570 @@
+{
+  "bookId": "willkommen-vaughan-43",
+  "bookTitle": "Buch 43",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: Einfallen, auffallen, durchfallen, schwerfallen y leichtfallen",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "No se me ocurre nada.",
+      "back": "Mir fällt nichts ein."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Se me ha ocurrido una idea.",
+      "back": "Mir ist eine Idee eingefallen."
+    },
+    {
+      "id": "s2-t003",
+      "front": "¿Se te ocurre algo?",
+      "back": "Fällt dir etwas ein?"
+    },
+    {
+      "id": "s2-t004",
+      "front": "Ahora mismo no se me ocurre ninguna solución.",
+      "back": "Mir fällt gerade keine Lösung ein."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Seguro que se nos ocurre algo.",
+      "back": "Uns fällt bestimmt etwas ein."
+    },
+    {
+      "id": "s2-t006",
+      "front": "¿Qué se le ocurrió?",
+      "back": "Was ist Ihnen eingefallen?"
+    },
+    {
+      "id": "s2-t007",
+      "front": "De repente se me ocurrió su nombre.",
+      "back": "Plötzlich ist mir sein Name eingefallen."
+    },
+    {
+      "id": "s2-t008",
+      "front": "No se le ocurrió ninguna excusa.",
+      "back": "Ihm ist keine Ausrede eingefallen."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Se me ocurre una forma mejor.",
+      "back": "Mir fällt eine bessere Möglichkeit ein."
+    },
+    {
+      "id": "s2-t010",
+      "front": "A nadie se le ocurrió preguntar.",
+      "back": "Niemandem ist eingefallen zu fragen."
+    },
+    {
+      "id": "s2-t011",
+      "front": "Ahora mismo no recuerdo la dirección.",
+      "back": "Mir fällt gerade die Adresse nicht ein."
+    },
+    {
+      "id": "s2-t012",
+      "front": "No me acuerdo de su apellido.",
+      "back": "Mir fällt sein Nachname nicht ein."
+    },
+    {
+      "id": "s2-t013",
+      "front": "¿Te acuerdas de su número?",
+      "back": "Fällt dir seine Nummer ein?"
+    },
+    {
+      "id": "s2-t014",
+      "front": "De repente recordé dónde estaba la llave.",
+      "back": "Plötzlich ist mir eingefallen, wo der Schlüssel war."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Ahora me acuerdo.",
+      "back": "Jetzt fällt es mir wieder ein."
+    },
+    {
+      "id": "s2-t016",
+      "front": "No consigo acordarme.",
+      "back": "Es fällt mir einfach nicht ein."
+    },
+    {
+      "id": "s2-t017",
+      "front": "¿No te viene a la mente?",
+      "back": "Fällt es dir nicht ein?"
+    },
+    {
+      "id": "s2-t018",
+      "front": "Su nombre me vino a la mente enseguida.",
+      "back": "Sein Name ist mir sofort eingefallen."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Eso me recuerda algo.",
+      "back": "Dazu fällt mir etwas ein."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Cuando me acuerde, te llamaré.",
+      "back": "Wenn es mir einfällt, rufe ich dich an."
+    },
+    {
+      "id": "s2-t021",
+      "front": "Él llama la atención porque es muy alto.",
+      "back": "Er fällt auf, weil er so groß ist."
+    },
+    {
+      "id": "s2-t022",
+      "front": "Ese vestido llama mucho la atención.",
+      "back": "Dieses Kleid fällt sehr auf."
+    },
+    {
+      "id": "s2-t023",
+      "front": "¿Se nota mucho?",
+      "back": "Fällt das auf?"
+    },
+    {
+      "id": "s2-t024",
+      "front": "Me llamó la atención que estaba nervioso.",
+      "back": "Mir ist aufgefallen, dass er nervös war."
+    },
+    {
+      "id": "s2-t025",
+      "front": "¿No te ha llamado la atención?",
+      "back": "Ist dir das nicht aufgefallen?"
+    },
+    {
+      "id": "s2-t026",
+      "front": "Su ausencia llamó la atención.",
+      "back": "Seine Abwesenheit ist aufgefallen."
+    },
+    {
+      "id": "s2-t027",
+      "front": "Ella siempre llama la atención.",
+      "back": "Sie fällt immer auf."
+    },
+    {
+      "id": "s2-t028",
+      "front": "No quiero llamar la atención.",
+      "back": "Ich will nicht auffallen."
+    },
+    {
+      "id": "s2-t029",
+      "front": "La diferencia apenas se nota.",
+      "back": "Der Unterschied fällt kaum auf."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Lo primero que me llamó la atención fue el silencio.",
+      "back": "Zuerst ist mir die Ruhe aufgefallen."
+    },
+    {
+      "id": "s2-t031",
+      "front": "He suspendido.",
+      "back": "Ich bin durchgefallen."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Ha suspendido el examen.",
+      "back": "Er ist bei der Prüfung durchgefallen."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Espero no suspender.",
+      "back": "Ich hoffe, dass ich nicht durchfalle."
+    },
+    {
+      "id": "s2-t034",
+      "front": "¿Por qué suspendiste?",
+      "back": "Warum bist du durchgefallen?"
+    },
+    {
+      "id": "s2-t035",
+      "front": "La mitad de la clase suspendió.",
+      "back": "Die Hälfte der Klasse ist durchgefallen."
+    },
+    {
+      "id": "s2-t036",
+      "front": "Volvió a suspender el examen de conducir.",
+      "back": "Sie ist wieder durch die Fahrprüfung gefallen."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Me cuesta.",
+      "back": "Es fällt mir schwer."
+    },
+    {
+      "id": "s2-t038",
+      "front": "Me cuesta levantarme temprano.",
+      "back": "Es fällt mir schwer, früh aufzustehen."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Le cuesta hablar de ello.",
+      "back": "Es fällt ihm schwer, darüber zu sprechen."
+    },
+    {
+      "id": "s2-t040",
+      "front": "¿Te cuesta aprender alemán?",
+      "back": "Fällt es dir schwer, Deutsch zu lernen?"
+    },
+    {
+      "id": "s2-t041",
+      "front": "Al principio me costaba mucho.",
+      "back": "Am Anfang ist es mir sehr schwergefallen."
+    },
+    {
+      "id": "s2-t042",
+      "front": "La decisión le resultó difícil.",
+      "back": "Die Entscheidung ist ihr schwergefallen."
+    },
+    {
+      "id": "s2-t043",
+      "front": "Los idiomas se me dan bien.",
+      "back": "Sprachen fallen mir leicht."
+    },
+    {
+      "id": "s2-t044",
+      "front": "Me resulta fácil aprender vocabulario.",
+      "back": "Es fällt mir leicht, Vokabeln zu lernen."
+    },
+    {
+      "id": "s2-t045",
+      "front": "A ella no le cuesta hablar en público.",
+      "back": "Es fällt ihr leicht, vor Publikum zu sprechen."
+    },
+    {
+      "id": "s2-t046",
+      "front": "¿Qué se te da bien?",
+      "back": "Was fällt dir leicht?"
+    },
+    {
+      "id": "s2-t047",
+      "front": "El ejercicio me resultó fácil.",
+      "back": "Die Übung ist mir leichtgefallen."
+    },
+    {
+      "id": "s2-t048",
+      "front": "A los niños les resulta fácil.",
+      "back": "Den Kindern fällt es leicht."
+    },
+    {
+      "id": "s2-t049",
+      "front": "¡Encantado!",
+      "back": "Sehr erfreut!"
+    },
+    {
+      "id": "s2-t050",
+      "front": "Eso fue más fácil de lo esperado.",
+      "back": "Das ist mir leichter gefallen als erwartet."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Mir fällt nichts ein.",
+      "back": "No se me ocurre nada."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Mir ist eine Idee eingefallen.",
+      "back": "Se me ha ocurrido una idea."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Fällt dir etwas ein?",
+      "back": "¿Se te ocurre algo?"
+    },
+    {
+      "id": "s2-t054",
+      "front": "Mir fällt gerade keine Lösung ein.",
+      "back": "Ahora mismo no se me ocurre ninguna solución."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Uns fällt bestimmt etwas ein.",
+      "back": "Seguro que se nos ocurre algo."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Was ist Ihnen eingefallen?",
+      "back": "¿Qué se le ocurrió?"
+    },
+    {
+      "id": "s2-t057",
+      "front": "Plötzlich ist mir sein Name eingefallen.",
+      "back": "De repente se me ocurrió su nombre."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Ihm ist keine Ausrede eingefallen.",
+      "back": "No se le ocurrió ninguna excusa."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Mir fällt eine bessere Möglichkeit ein.",
+      "back": "Se me ocurre una forma mejor."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Niemandem ist eingefallen zu fragen.",
+      "back": "A nadie se le ocurrió preguntar."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Mir fällt gerade die Adresse nicht ein.",
+      "back": "Ahora mismo no recuerdo la dirección."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Mir fällt sein Nachname nicht ein.",
+      "back": "No me acuerdo de su apellido."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Fällt dir seine Nummer ein?",
+      "back": "¿Te acuerdas de su número?"
+    },
+    {
+      "id": "s2-t064",
+      "front": "Plötzlich ist mir eingefallen, wo der Schlüssel war.",
+      "back": "De repente recordé dónde estaba la llave."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Jetzt fällt es mir wieder ein.",
+      "back": "Ahora me acuerdo."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Es fällt mir einfach nicht ein.",
+      "back": "No consigo acordarme."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Fällt es dir nicht ein?",
+      "back": "¿No te viene a la mente?"
+    },
+    {
+      "id": "s2-t068",
+      "front": "Sein Name ist mir sofort eingefallen.",
+      "back": "Su nombre me vino a la mente enseguida."
+    },
+    {
+      "id": "s2-t069",
+      "front": "Dazu fällt mir etwas ein.",
+      "back": "Eso me recuerda algo."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Wenn es mir einfällt, rufe ich dich an.",
+      "back": "Cuando me acuerde, te llamaré."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Er fällt auf, weil er so groß ist.",
+      "back": "Él llama la atención porque es muy alto."
+    },
+    {
+      "id": "s2-t072",
+      "front": "Dieses Kleid fällt sehr auf.",
+      "back": "Ese vestido llama mucho la atención."
+    },
+    {
+      "id": "s2-t073",
+      "front": "Fällt das auf?",
+      "back": "¿Se nota mucho?"
+    },
+    {
+      "id": "s2-t074",
+      "front": "Mir ist aufgefallen, dass er nervös war.",
+      "back": "Me llamó la atención que estaba nervioso."
+    },
+    {
+      "id": "s2-t075",
+      "front": "Ist dir das nicht aufgefallen?",
+      "back": "¿No te ha llamado la atención?"
+    },
+    {
+      "id": "s2-t076",
+      "front": "Seine Abwesenheit ist aufgefallen.",
+      "back": "Su ausencia llamó la atención."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Sie fällt immer auf.",
+      "back": "Ella siempre llama la atención."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Ich will nicht auffallen.",
+      "back": "No quiero llamar la atención."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Der Unterschied fällt kaum auf.",
+      "back": "La diferencia apenas se nota."
+    },
+    {
+      "id": "s2-t080",
+      "front": "Zuerst ist mir die Ruhe aufgefallen.",
+      "back": "Lo primero que me llamó la atención fue el silencio."
+    },
+    {
+      "id": "s2-t081",
+      "front": "Ich bin durchgefallen.",
+      "back": "He suspendido."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Er ist bei der Prüfung durchgefallen.",
+      "back": "Ha suspendido el examen."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Ich hoffe, dass ich nicht durchfalle.",
+      "back": "Espero no suspender."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Warum bist du durchgefallen?",
+      "back": "¿Por qué suspendiste?"
+    },
+    {
+      "id": "s2-t085",
+      "front": "Die Hälfte der Klasse ist durchgefallen.",
+      "back": "La mitad de la clase suspendió."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Sie ist wieder durch die Fahrprüfung gefallen.",
+      "back": "Volvió a suspender el examen de conducir."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Es fällt mir schwer.",
+      "back": "Me cuesta."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Es fällt mir schwer, früh aufzustehen.",
+      "back": "Me cuesta levantarme temprano."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Es fällt ihm schwer, darüber zu sprechen.",
+      "back": "Le cuesta hablar de ello."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Fällt es dir schwer, Deutsch zu lernen?",
+      "back": "¿Te cuesta aprender alemán?"
+    },
+    {
+      "id": "s2-t091",
+      "front": "Am Anfang ist es mir sehr schwergefallen.",
+      "back": "Al principio me costaba mucho."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Die Entscheidung ist ihr schwergefallen.",
+      "back": "La decisión le resultó difícil."
+    },
+    {
+      "id": "s2-t093",
+      "front": "Sprachen fallen mir leicht.",
+      "back": "Los idiomas se me dan bien."
+    },
+    {
+      "id": "s2-t094",
+      "front": "Es fällt mir leicht, Vokabeln zu lernen.",
+      "back": "Me resulta fácil aprender vocabulario."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Es fällt ihr leicht, vor Publikum zu sprechen.",
+      "back": "A ella no le cuesta hablar en público."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Was fällt dir leicht?",
+      "back": "¿Qué se te da bien?"
+    },
+    {
+      "id": "s2-t097",
+      "front": "Die Übung ist mir leichtgefallen.",
+      "back": "El ejercicio me resultó fácil."
+    },
+    {
+      "id": "s2-t098",
+      "front": "Den Kindern fällt es leicht.",
+      "back": "A los niños les resulta fácil."
+    },
+    {
+      "id": "s2-t099",
+      "front": "Sehr erfreut!",
+      "back": "¡Encantado!"
+    },
+    {
+      "id": "s2-t100",
+      "front": "Das ist mir leichter gefallen als erwartet.",
+      "back": "Eso fue más fácil de lo esperado."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué caso lleva la persona con einfallen?",
+      "back": "Dativo: Mir fällt etwas ein."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Cuáles son los dos sentidos de einfallen?",
+      "back": "Ocurrírsele algo a alguien y venirle algo a la memoria."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Dónde va ein en una oración principal?",
+      "back": "Al final: Mir fällt nichts ein."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Cuál es el participio de einfallen?",
+      "back": "eingefallen."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué significa auffallen?",
+      "back": "Llamar la atención o notarse."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Cómo se dice «me llamó la atención que...»?",
+      "back": "Mir ist aufgefallen, dass ..."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Qué significa durchfallen?",
+      "back": "Suspender un examen."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Qué auxiliar usa durchfallen en perfecto?",
+      "back": "sein: Ich bin durchgefallen."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Qué significa schwerfallen?",
+      "back": "Resultarle difícil o costarle algo a alguien."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Qué significa leichtfallen?",
+      "back": "Resultarle fácil o dársele bien algo a alguien."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué caso lleva la persona con schwerfallen y leichtfallen?",
+      "back": "Dativo."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Cómo se añade una acción a schwerfallen?",
+      "back": "Con una construcción de infinitivo con zu."
+    }
+  ]
+}
+

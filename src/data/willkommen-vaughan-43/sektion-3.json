@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-43",
+  "bookTitle": "Buch 43",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: Expresiones idiomáticas con fallen",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "No me interrumpas continuamente.",
+      "back": "Fall mir nicht andauernd ins Wort."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Siempre me interrumpe.",
+      "back": "Er fällt mir immer ins Wort."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Perdone que le interrumpa.",
+      "back": "Entschuldigen Sie, dass ich Ihnen ins Wort falle."
+    },
+    {
+      "id": "s3-t004",
+      "front": "No quería interrumpirte.",
+      "back": "Ich wollte dir nicht ins Wort fallen."
+    },
+    {
+      "id": "s3-t005",
+      "front": "¿Por qué me interrumpes?",
+      "back": "Warum fällst du mir ins Wort?"
+    },
+    {
+      "id": "s3-t006",
+      "front": "Ella le interrumpió en mitad de la frase.",
+      "back": "Sie ist ihm mitten im Satz ins Wort gefallen."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Déjame terminar y no me interrumpas.",
+      "back": "Lass mich ausreden und fall mir nicht ins Wort."
+    },
+    {
+      "id": "s3-t008",
+      "front": "Odio que me interrumpan.",
+      "back": "Ich hasse es, wenn man mir ins Wort fällt."
+    },
+    {
+      "id": "s3-t009",
+      "front": "Él me dio una puñalada trapera.",
+      "back": "Er ist mir in den Rücken gefallen."
+    },
+    {
+      "id": "s3-t010",
+      "front": "No esperaba que me traicionara.",
+      "back": "Ich hatte nicht erwartet, dass er mir in den Rücken fällt."
+    },
+    {
+      "id": "s3-t011",
+      "front": "Sus compañeros le dieron una puñalada trapera.",
+      "back": "Seine Kollegen sind ihm in den Rücken gefallen."
+    },
+    {
+      "id": "s3-t012",
+      "front": "No le des una puñalada trapera.",
+      "back": "Fall ihm nicht in den Rücken."
+    },
+    {
+      "id": "s3-t013",
+      "front": "Me sentí traicionado.",
+      "back": "Ich hatte das Gefühl, dass man mir in den Rücken gefallen ist."
+    },
+    {
+      "id": "s3-t014",
+      "front": "¿Por qué me traicionaste?",
+      "back": "Warum bist du mir in den Rücken gefallen?"
+    },
+    {
+      "id": "s3-t015",
+      "front": "Me desmayo cuando veo sangre.",
+      "back": "Ich falle in Ohnmacht, wenn ich Blut sehe."
+    },
+    {
+      "id": "s3-t016",
+      "front": "Ella casi se desmayó.",
+      "back": "Sie wäre fast in Ohnmacht gefallen."
+    },
+    {
+      "id": "s3-t017",
+      "front": "Él se desmayó de repente.",
+      "back": "Er ist plötzlich in Ohnmacht gefallen."
+    },
+    {
+      "id": "s3-t018",
+      "front": "No te vayas a desmayar.",
+      "back": "Fall bloß nicht in Ohnmacht."
+    },
+    {
+      "id": "s3-t019",
+      "front": "¿Se ha desmayado?",
+      "back": "Ist sie in Ohnmacht gefallen?"
+    },
+    {
+      "id": "s3-t020",
+      "front": "Con este calor podría desmayarme.",
+      "back": "Bei dieser Hitze könnte ich in Ohnmacht fallen."
+    },
+    {
+      "id": "s3-t021",
+      "front": "Se me quita un peso de encima.",
+      "back": "Da fällt mir ein Stein vom Herzen."
+    },
+    {
+      "id": "s3-t022",
+      "front": "Al oírlo, se me quitó un peso de encima.",
+      "back": "Als ich das hörte, fiel mir ein Stein vom Herzen."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Seguro que se te quitará un peso de encima.",
+      "back": "Dir wird bestimmt ein Stein vom Herzen fallen."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Se le quitó un gran peso de encima.",
+      "back": "Ihm ist ein großer Stein vom Herzen gefallen."
+    },
+    {
+      "id": "s3-t025",
+      "front": "¡Qué alivio!",
+      "back": "Da fällt mir ein Stein vom Herzen!"
+    },
+    {
+      "id": "s3-t026",
+      "front": "Eso me pone de los nervios.",
+      "back": "Das fällt mir auf die Nerven."
+    },
+    {
+      "id": "s3-t027",
+      "front": "Me pone de los nervios que llegue tarde.",
+      "back": "Es fällt mir auf die Nerven, dass er zu spät kommt."
+    },
+    {
+      "id": "s3-t028",
+      "front": "No me pongas de los nervios.",
+      "back": "Fall mir nicht auf die Nerven."
+    },
+    {
+      "id": "s3-t029",
+      "front": "El ruido me pone de los nervios.",
+      "back": "Der Lärm fällt mir auf die Nerven."
+    },
+    {
+      "id": "s3-t030",
+      "front": "Últimamente me pone mucho de los nervios.",
+      "back": "In letzter Zeit fällt er mir sehr auf die Nerven."
+    },
+    {
+      "id": "s3-t031",
+      "front": "¿También te pone de los nervios?",
+      "back": "Fällt das dir auch auf die Nerven?"
+    },
+    {
+      "id": "s3-t032",
+      "front": "Ella no tiene un pelo de tonta.",
+      "back": "Sie ist nicht auf den Kopf gefallen."
+    },
+    {
+      "id": "s3-t033",
+      "front": "No eres tonto.",
+      "back": "Du bist nicht auf den Kopf gefallen."
+    },
+    {
+      "id": "s3-t034",
+      "front": "Él sabe defenderse; no tiene un pelo de tonto.",
+      "back": "Er kann sich wehren; er ist nicht auf den Kopf gefallen."
+    },
+    {
+      "id": "s3-t035",
+      "front": "No te preocupes, ella es muy lista.",
+      "back": "Keine Sorge, sie ist nicht auf den Kopf gefallen."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Aunque sea joven, no tiene un pelo de tonto.",
+      "back": "Obwohl er jung ist, ist er nicht auf den Kopf gefallen."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Él no tiene pelos en la lengua.",
+      "back": "Er ist nicht auf den Mund gefallen."
+    },
+    {
+      "id": "s3-t038",
+      "front": "Ella siempre dice lo que piensa.",
+      "back": "Sie ist nicht auf den Mund gefallen."
+    },
+    {
+      "id": "s3-t039",
+      "front": "No tienes pelos en la lengua, ¿verdad?",
+      "back": "Du bist nicht auf den Mund gefallen, oder?"
+    },
+    {
+      "id": "s3-t040",
+      "front": "A él tampoco le faltan palabras.",
+      "back": "Auch er ist nicht auf den Mund gefallen."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Nunca le faltan palabras.",
+      "back": "Sie ist wirklich nicht auf den Mund gefallen."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Me interrumpió y me puso de los nervios.",
+      "back": "Er ist mir ins Wort gefallen und auf die Nerven gegangen."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Cuando aprobaron mi solicitud, se me quitó un peso de encima.",
+      "back": "Als mein Antrag genehmigt wurde, fiel mir ein Stein vom Herzen."
+    },
+    {
+      "id": "s3-t044",
+      "front": "La noticia fue tan mala que casi me desmayo.",
+      "back": "Die Nachricht war so schlimm, dass ich fast in Ohnmacht gefallen wäre."
+    },
+    {
+      "id": "s3-t045",
+      "front": "No permitas que te traicionen.",
+      "back": "Lass nicht zu, dass man dir in den Rücken fällt."
+    },
+    {
+      "id": "s3-t046",
+      "front": "No tiene un pelo de tonta y sabe lo que quiere.",
+      "back": "Sie ist nicht auf den Kopf gefallen und weiß, was sie will."
+    },
+    {
+      "id": "s3-t047",
+      "front": "No tiene pelos en la lengua y siempre responde.",
+      "back": "Er ist nicht auf den Mund gefallen und antwortet immer."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Deja de interrumpirme.",
+      "back": "Hör auf, mir ins Wort zu fallen."
+    },
+    {
+      "id": "s3-t049",
+      "front": "Ese sonido me pone de los nervios.",
+      "back": "Dieses Geräusch fällt mir auf die Nerven."
+    },
+    {
+      "id": "s3-t050",
+      "front": "Me alivió saber que todo estaba bien.",
+      "back": "Mir fiel ein Stein vom Herzen, als ich hörte, dass alles in Ordnung war."
+    },
+    {
+      "id": "s3-t051",
+      "front": "Fall mir nicht andauernd ins Wort.",
+      "back": "No me interrumpas continuamente."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Er fällt mir immer ins Wort.",
+      "back": "Siempre me interrumpe."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Entschuldigen Sie, dass ich Ihnen ins Wort falle.",
+      "back": "Perdone que le interrumpa."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Ich wollte dir nicht ins Wort fallen.",
+      "back": "No quería interrumpirte."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Warum fällst du mir ins Wort?",
+      "back": "¿Por qué me interrumpes?"
+    },
+    {
+      "id": "s3-t056",
+      "front": "Sie ist ihm mitten im Satz ins Wort gefallen.",
+      "back": "Ella le interrumpió en mitad de la frase."
+    },
+    {
+      "id": "s3-t057",
+      "front": "Lass mich ausreden und fall mir nicht ins Wort.",
+      "back": "Déjame terminar y no me interrumpas."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Ich hasse es, wenn man mir ins Wort fällt.",
+      "back": "Odio que me interrumpan."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Er ist mir in den Rücken gefallen.",
+      "back": "Él me dio una puñalada trapera."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Ich hatte nicht erwartet, dass er mir in den Rücken fällt.",
+      "back": "No esperaba que me traicionara."
+    },
+    {
+      "id": "s3-t061",
+      "front": "Seine Kollegen sind ihm in den Rücken gefallen.",
+      "back": "Sus compañeros le dieron una puñalada trapera."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Fall ihm nicht in den Rücken.",
+      "back": "No le des una puñalada trapera."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Ich hatte das Gefühl, dass man mir in den Rücken gefallen ist.",
+      "back": "Me sentí traicionado."
+    },
+    {
+      "id": "s3-t064",
+      "front": "Warum bist du mir in den Rücken gefallen?",
+      "back": "¿Por qué me traicionaste?"
+    },
+    {
+      "id": "s3-t065",
+      "front": "Ich falle in Ohnmacht, wenn ich Blut sehe.",
+      "back": "Me desmayo cuando veo sangre."
+    },
+    {
+      "id": "s3-t066",
+      "front": "Sie wäre fast in Ohnmacht gefallen.",
+      "back": "Ella casi se desmayó."
+    },
+    {
+      "id": "s3-t067",
+      "front": "Er ist plötzlich in Ohnmacht gefallen.",
+      "back": "Él se desmayó de repente."
+    },
+    {
+      "id": "s3-t068",
+      "front": "Fall bloß nicht in Ohnmacht.",
+      "back": "No te vayas a desmayar."
+    },
+    {
+      "id": "s3-t069",
+      "front": "Ist sie in Ohnmacht gefallen?",
+      "back": "¿Se ha desmayado?"
+    },
+    {
+      "id": "s3-t070",
+      "front": "Bei dieser Hitze könnte ich in Ohnmacht fallen.",
+      "back": "Con este calor podría desmayarme."
+    },
+    {
+      "id": "s3-t071",
+      "front": "Da fällt mir ein Stein vom Herzen.",
+      "back": "Se me quita un peso de encima."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Als ich das hörte, fiel mir ein Stein vom Herzen.",
+      "back": "Al oírlo, se me quitó un peso de encima."
+    },
+    {
+      "id": "s3-t073",
+      "front": "Dir wird bestimmt ein Stein vom Herzen fallen.",
+      "back": "Seguro que se te quitará un peso de encima."
+    },
+    {
+      "id": "s3-t074",
+      "front": "Ihm ist ein großer Stein vom Herzen gefallen.",
+      "back": "Se le quitó un gran peso de encima."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Da fällt mir ein Stein vom Herzen!",
+      "back": "¡Qué alivio!"
+    },
+    {
+      "id": "s3-t076",
+      "front": "Das fällt mir auf die Nerven.",
+      "back": "Eso me pone de los nervios."
+    },
+    {
+      "id": "s3-t077",
+      "front": "Es fällt mir auf die Nerven, dass er zu spät kommt.",
+      "back": "Me pone de los nervios que llegue tarde."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Fall mir nicht auf die Nerven.",
+      "back": "No me pongas de los nervios."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Der Lärm fällt mir auf die Nerven.",
+      "back": "El ruido me pone de los nervios."
+    },
+    {
+      "id": "s3-t080",
+      "front": "In letzter Zeit fällt er mir sehr auf die Nerven.",
+      "back": "Últimamente me pone mucho de los nervios."
+    },
+    {
+      "id": "s3-t081",
+      "front": "Fällt das dir auch auf die Nerven?",
+      "back": "¿También te pone de los nervios?"
+    },
+    {
+      "id": "s3-t082",
+      "front": "Sie ist nicht auf den Kopf gefallen.",
+      "back": "Ella no tiene un pelo de tonta."
+    },
+    {
+      "id": "s3-t083",
+      "front": "Du bist nicht auf den Kopf gefallen.",
+      "back": "No eres tonto."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Er kann sich wehren; er ist nicht auf den Kopf gefallen.",
+      "back": "Él sabe defenderse; no tiene un pelo de tonto."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Keine Sorge, sie ist nicht auf den Kopf gefallen.",
+      "back": "No te preocupes, ella es muy lista."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Obwohl er jung ist, ist er nicht auf den Kopf gefallen.",
+      "back": "Aunque sea joven, no tiene un pelo de tonto."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Er ist nicht auf den Mund gefallen.",
+      "back": "Él no tiene pelos en la lengua."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Sie ist nicht auf den Mund gefallen.",
+      "back": "Ella siempre dice lo que piensa."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Du bist nicht auf den Mund gefallen, oder?",
+      "back": "No tienes pelos en la lengua, ¿verdad?"
+    },
+    {
+      "id": "s3-t090",
+      "front": "Auch er ist nicht auf den Mund gefallen.",
+      "back": "A él tampoco le faltan palabras."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Sie ist wirklich nicht auf den Mund gefallen.",
+      "back": "Nunca le faltan palabras."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Er ist mir ins Wort gefallen und auf die Nerven gegangen.",
+      "back": "Me interrumpió y me puso de los nervios."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Als mein Antrag genehmigt wurde, fiel mir ein Stein vom Herzen.",
+      "back": "Cuando aprobaron mi solicitud, se me quitó un peso de encima."
+    },
+    {
+      "id": "s3-t094",
+      "front": "Die Nachricht war so schlimm, dass ich fast in Ohnmacht gefallen wäre.",
+      "back": "La noticia fue tan mala que casi me desmayo."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Lass nicht zu, dass man dir in den Rücken fällt.",
+      "back": "No permitas que te traicionen."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Sie ist nicht auf den Kopf gefallen und weiß, was sie will.",
+      "back": "No tiene un pelo de tonta y sabe lo que quiere."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Er ist nicht auf den Mund gefallen und antwortet immer.",
+      "back": "No tiene pelos en la lengua y siempre responde."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Hör auf, mir ins Wort zu fallen.",
+      "back": "Deja de interrumpirme."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Dieses Geräusch fällt mir auf die Nerven.",
+      "back": "Ese sonido me pone de los nervios."
+    },
+    {
+      "id": "s3-t100",
+      "front": "Mir fiel ein Stein vom Herzen, als ich hörte, dass alles in Ordnung war.",
+      "back": "Me alivió saber que todo estaba bien."
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Qué significa jemandem ins Wort fallen?",
+      "back": "Interrumpir a alguien; la persona va en dativo."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué significa jemandem in den Rücken fallen?",
+      "back": "Traicionar o dar una puñalada trapera a alguien."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Cómo se dice «desmayarse»?",
+      "back": "in Ohnmacht fallen."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Qué significa jemandem fällt ein Stein vom Herzen?",
+      "back": "A alguien se le quita un peso de encima."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Cómo se dice «poner de los nervios» con fallen?",
+      "back": "jemandem auf die Nerven fallen."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Qué significa nicht auf den Kopf gefallen sein?",
+      "back": "No tener un pelo de tonto; ser listo."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Qué significa nicht auf den Mund gefallen sein?",
+      "back": "No tener pelos en la lengua o saber responder."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Qué caso lleva la persona en estas expresiones?",
+      "back": "Normalmente dativo: mir, dir, ihm, ihr, uns, euch, ihnen."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué auxiliar usa fallen en el perfecto de estas expresiones?",
+      "back": "sein."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Cómo se forma el imperativo de ins Wort fallen?",
+      "back": "Fall mir nicht ins Wort."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Qué diferencia hay entre Kopf y Mund en estas expresiones?",
+      "back": "Kopf alude a inteligencia; Mund, a desenvoltura verbal."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Son literales estas expresiones con fallen?",
+      "back": "No; deben aprenderse como unidades idiomáticas completas."
+    }
+  ]
+}

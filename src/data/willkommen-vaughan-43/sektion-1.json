@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-43",
+  "bookTitle": "Buch 43",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: Fallen y sus preposiciones y prefijos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "El libro se me cayó en el pie.",
+      "back": "Das Buch ist mir auf den Fuß gefallen."
+    },
+    {
+      "id": "s1-t002",
+      "front": "La lámpara cayó al suelo.",
+      "back": "Die Lampe ist auf den Boden gefallen."
+    },
+    {
+      "id": "s1-t003",
+      "front": "La nieve cayó sobre el tejado.",
+      "back": "Der Schnee ist auf das Dach gefallen."
+    },
+    {
+      "id": "s1-t004",
+      "front": "La toalla se cayó del balcón.",
+      "back": "Das Handtuch ist vom Balkon gefallen."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Se cayó de la bicicleta.",
+      "back": "Er ist vom Fahrrad gefallen."
+    },
+    {
+      "id": "s1-t006",
+      "front": "La manzana cayó del árbol.",
+      "back": "Der Apfel ist vom Baum gefallen."
+    },
+    {
+      "id": "s1-t007",
+      "front": "El pendiente se me cayó en el váter.",
+      "back": "Mein Ohrring ist in die Toilette gefallen."
+    },
+    {
+      "id": "s1-t008",
+      "front": "La llave cayó en el agua.",
+      "back": "Der Schlüssel ist ins Wasser gefallen."
+    },
+    {
+      "id": "s1-t009",
+      "front": "El niño cayó en la piscina.",
+      "back": "Das Kind ist in den Pool gefallen."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Se te ha caído algo del bolsillo.",
+      "back": "Dir ist etwas aus der Tasche gefallen."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Las monedas se cayeron del monedero.",
+      "back": "Die Münzen sind aus dem Portemonnaie gefallen."
+    },
+    {
+      "id": "s1-t012",
+      "front": "El papel se cayó de la carpeta.",
+      "back": "Das Papier ist aus der Mappe gefallen."
+    },
+    {
+      "id": "s1-t013",
+      "front": "La nota cayó detrás del armario.",
+      "back": "Der Zettel ist hinter den Schrank gefallen."
+    },
+    {
+      "id": "s1-t014",
+      "front": "La pelota cayó detrás del sofá.",
+      "back": "Der Ball ist hinter das Sofa gefallen."
+    },
+    {
+      "id": "s1-t015",
+      "front": "El bolígrafo cayó detrás del escritorio.",
+      "back": "Der Kugelschreiber ist hinter den Schreibtisch gefallen."
+    },
+    {
+      "id": "s1-t016",
+      "front": "El móvil se me cayó debajo del sofá.",
+      "back": "Mein Handy ist unter das Sofa gefallen."
+    },
+    {
+      "id": "s1-t017",
+      "front": "La llave cayó debajo de la mesa.",
+      "back": "Der Schlüssel ist unter den Tisch gefallen."
+    },
+    {
+      "id": "s1-t018",
+      "front": "El juguete cayó debajo de la cama.",
+      "back": "Das Spielzeug ist unter das Bett gefallen."
+    },
+    {
+      "id": "s1-t019",
+      "front": "El mando cayó entre el frigorífico y la ventana.",
+      "back": "Die Fernbedienung ist zwischen den Kühlschrank und das Fenster gefallen."
+    },
+    {
+      "id": "s1-t020",
+      "front": "La moneda cayó entre los asientos.",
+      "back": "Die Münze ist zwischen die Sitze gefallen."
+    },
+    {
+      "id": "s1-t021",
+      "front": "El papel cayó entre los libros.",
+      "back": "Das Papier ist zwischen die Bücher gefallen."
+    },
+    {
+      "id": "s1-t022",
+      "front": "¡Cuidado, no te caigas!",
+      "back": "Pass auf, fall nicht hin!"
+    },
+    {
+      "id": "s1-t023",
+      "front": "Me caí en la calle.",
+      "back": "Ich bin auf der Straße hingefallen."
+    },
+    {
+      "id": "s1-t024",
+      "front": "El niño se cayó jugando.",
+      "back": "Das Kind ist beim Spielen hingefallen."
+    },
+    {
+      "id": "s1-t025",
+      "front": "¿Dónde te caíste?",
+      "back": "Wo bist du hingefallen?"
+    },
+    {
+      "id": "s1-t026",
+      "front": "Casi me caigo.",
+      "back": "Ich wäre fast hingefallen."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Se cayó y se hizo daño.",
+      "back": "Er ist hingefallen und hat sich wehgetan."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Hoy se me cae todo.",
+      "back": "Mir fällt heute alles runter."
+    },
+    {
+      "id": "s1-t029",
+      "front": "El vaso se va a caer.",
+      "back": "Das Glas fällt gleich runter."
+    },
+    {
+      "id": "s1-t030",
+      "front": "El libro se cayó de la mesa.",
+      "back": "Das Buch ist vom Tisch runtergefallen."
+    },
+    {
+      "id": "s1-t031",
+      "front": "¡Que no se te caiga el móvil!",
+      "back": "Lass dein Handy nicht runterfallen!"
+    },
+    {
+      "id": "s1-t032",
+      "front": "La taza se me cayó.",
+      "back": "Mir ist die Tasse runtergefallen."
+    },
+    {
+      "id": "s1-t033",
+      "front": "¿Qué se ha caído?",
+      "back": "Was ist runtergefallen?"
+    },
+    {
+      "id": "s1-t034",
+      "front": "Que no entre nieve.",
+      "back": "Nicht, dass Schnee reinfällt."
+    },
+    {
+      "id": "s1-t035",
+      "front": "La pelota cayó dentro.",
+      "back": "Der Ball ist reingefallen."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Se me cayó la llave dentro.",
+      "back": "Der Schlüssel ist mir reingefallen."
+    },
+    {
+      "id": "s1-t037",
+      "front": "Ten cuidado de no caer dentro.",
+      "back": "Pass auf, dass du nicht reinfällst."
+    },
+    {
+      "id": "s1-t038",
+      "front": "¿Qué ha caído dentro de la caja?",
+      "back": "Was ist in die Kiste reingefallen?"
+    },
+    {
+      "id": "s1-t039",
+      "front": "Se te va a caer la bufanda.",
+      "back": "Dein Schal fällt gleich raus."
+    },
+    {
+      "id": "s1-t040",
+      "front": "La hoja se salió de la carpeta.",
+      "back": "Das Blatt ist aus der Mappe rausgefallen."
+    },
+    {
+      "id": "s1-t041",
+      "front": "La moneda se cayó del bolsillo.",
+      "back": "Die Münze ist aus der Tasche rausgefallen."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Que no se caiga nada fuera.",
+      "back": "Nicht, dass etwas rausfällt."
+    },
+    {
+      "id": "s1-t043",
+      "front": "La mano se desprendió de la escultura.",
+      "back": "Die Hand ist von der Skulptur abgefallen."
+    },
+    {
+      "id": "s1-t044",
+      "front": "Una rueda se desprendió del coche.",
+      "back": "Ein Rad ist vom Auto abgefallen."
+    },
+    {
+      "id": "s1-t045",
+      "front": "El botón se me cayó de la camisa.",
+      "back": "Der Knopf ist mir vom Hemd abgefallen."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Las hojas se caen en otoño.",
+      "back": "Im Herbst fallen die Blätter ab."
+    },
+    {
+      "id": "s1-t047",
+      "front": "La etiqueta se ha despegado.",
+      "back": "Das Etikett ist abgefallen."
+    },
+    {
+      "id": "s1-t048",
+      "front": "¿Por qué se ha desprendido esa pieza?",
+      "back": "Warum ist dieses Teil abgefallen?"
+    },
+    {
+      "id": "s1-t049",
+      "front": "Hombre, por fin.",
+      "back": "Na endlich!"
+    },
+    {
+      "id": "s1-t050",
+      "front": "Tú sabrás.",
+      "back": "Das musst du wissen."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Das Buch ist mir auf den Fuß gefallen.",
+      "back": "El libro se me cayó en el pie."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Die Lampe ist auf den Boden gefallen.",
+      "back": "La lámpara cayó al suelo."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Der Schnee ist auf das Dach gefallen.",
+      "back": "La nieve cayó sobre el tejado."
+    },
+    {
+      "id": "s1-t054",
+      "front": "Das Handtuch ist vom Balkon gefallen.",
+      "back": "La toalla se cayó del balcón."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Er ist vom Fahrrad gefallen.",
+      "back": "Se cayó de la bicicleta."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Der Apfel ist vom Baum gefallen.",
+      "back": "La manzana cayó del árbol."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Mein Ohrring ist in die Toilette gefallen.",
+      "back": "El pendiente se me cayó en el váter."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Der Schlüssel ist ins Wasser gefallen.",
+      "back": "La llave cayó en el agua."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Das Kind ist in den Pool gefallen.",
+      "back": "El niño cayó en la piscina."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Dir ist etwas aus der Tasche gefallen.",
+      "back": "Se te ha caído algo del bolsillo."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Die Münzen sind aus dem Portemonnaie gefallen.",
+      "back": "Las monedas se cayeron del monedero."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Das Papier ist aus der Mappe gefallen.",
+      "back": "El papel se cayó de la carpeta."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Der Zettel ist hinter den Schrank gefallen.",
+      "back": "La nota cayó detrás del armario."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Der Ball ist hinter das Sofa gefallen.",
+      "back": "La pelota cayó detrás del sofá."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Der Kugelschreiber ist hinter den Schreibtisch gefallen.",
+      "back": "El bolígrafo cayó detrás del escritorio."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Mein Handy ist unter das Sofa gefallen.",
+      "back": "El móvil se me cayó debajo del sofá."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Der Schlüssel ist unter den Tisch gefallen.",
+      "back": "La llave cayó debajo de la mesa."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Das Spielzeug ist unter das Bett gefallen.",
+      "back": "El juguete cayó debajo de la cama."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Die Fernbedienung ist zwischen den Kühlschrank und das Fenster gefallen.",
+      "back": "El mando cayó entre el frigorífico y la ventana."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Die Münze ist zwischen die Sitze gefallen.",
+      "back": "La moneda cayó entre los asientos."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Das Papier ist zwischen die Bücher gefallen.",
+      "back": "El papel cayó entre los libros."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Pass auf, fall nicht hin!",
+      "back": "¡Cuidado, no te caigas!"
+    },
+    {
+      "id": "s1-t073",
+      "front": "Ich bin auf der Straße hingefallen.",
+      "back": "Me caí en la calle."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Das Kind ist beim Spielen hingefallen.",
+      "back": "El niño se cayó jugando."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Wo bist du hingefallen?",
+      "back": "¿Dónde te caíste?"
+    },
+    {
+      "id": "s1-t076",
+      "front": "Ich wäre fast hingefallen.",
+      "back": "Casi me caigo."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Er ist hingefallen und hat sich wehgetan.",
+      "back": "Se cayó y se hizo daño."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Mir fällt heute alles runter.",
+      "back": "Hoy se me cae todo."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Das Glas fällt gleich runter.",
+      "back": "El vaso se va a caer."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Das Buch ist vom Tisch runtergefallen.",
+      "back": "El libro se cayó de la mesa."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Lass dein Handy nicht runterfallen!",
+      "back": "¡Que no se te caiga el móvil!"
+    },
+    {
+      "id": "s1-t082",
+      "front": "Mir ist die Tasse runtergefallen.",
+      "back": "La taza se me cayó."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Was ist runtergefallen?",
+      "back": "¿Qué se ha caído?"
+    },
+    {
+      "id": "s1-t084",
+      "front": "Nicht, dass Schnee reinfällt.",
+      "back": "Que no entre nieve."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Der Ball ist reingefallen.",
+      "back": "La pelota cayó dentro."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Der Schlüssel ist mir reingefallen.",
+      "back": "Se me cayó la llave dentro."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Pass auf, dass du nicht reinfällst.",
+      "back": "Ten cuidado de no caer dentro."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Was ist in die Kiste reingefallen?",
+      "back": "¿Qué ha caído dentro de la caja?"
+    },
+    {
+      "id": "s1-t089",
+      "front": "Dein Schal fällt gleich raus.",
+      "back": "Se te va a caer la bufanda."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Das Blatt ist aus der Mappe rausgefallen.",
+      "back": "La hoja se salió de la carpeta."
+    },
+    {
+      "id": "s1-t091",
+      "front": "Die Münze ist aus der Tasche rausgefallen.",
+      "back": "La moneda se cayó del bolsillo."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Nicht, dass etwas rausfällt.",
+      "back": "Que no se caiga nada fuera."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Die Hand ist von der Skulptur abgefallen.",
+      "back": "La mano se desprendió de la escultura."
+    },
+    {
+      "id": "s1-t094",
+      "front": "Ein Rad ist vom Auto abgefallen.",
+      "back": "Una rueda se desprendió del coche."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Der Knopf ist mir vom Hemd abgefallen.",
+      "back": "El botón se me cayó de la camisa."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Im Herbst fallen die Blätter ab.",
+      "back": "Las hojas se caen en otoño."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Das Etikett ist abgefallen.",
+      "back": "La etiqueta se ha despegado."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Warum ist dieses Teil abgefallen?",
+      "back": "¿Por qué se ha desprendido esa pieza?"
+    },
+    {
+      "id": "s1-t099",
+      "front": "Na endlich!",
+      "back": "Hombre, por fin."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Das musst du wissen.",
+      "back": "Tú sabrás."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué auxiliar usa fallen en perfecto?",
+      "back": "sein: ist/sind gefallen."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué caso lleva auf al indicar el destino de una caída?",
+      "back": "Acusativo: auf den Fuß fallen."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué caso rige von?",
+      "back": "Dativo: vom Balkon fallen."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Qué caso lleva in cuando algo cae dentro?",
+      "back": "Acusativo: in die Toilette fallen."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Qué caso rige aus?",
+      "back": "Dativo: aus der Tasche fallen."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué caso llevan hinter, unter y zwischen con dirección?",
+      "back": "Acusativo."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Qué significa hinfallen?",
+      "back": "Caerse una persona, normalmente al tropezar."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué significa runterfallen?",
+      "back": "Caerse hacia abajo; se usa mucho con objetos."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Qué diferencia hay entre reinfallen y rausfallen?",
+      "back": "reinfallen es caer dentro; rausfallen, caer fuera."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué significa abfallen?",
+      "back": "Caerse o desprenderse de algo."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Cuál es el participio de fallen?",
+      "back": "gefallen."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se forma el imperativo singular negativo?",
+      "back": "Fall nicht hin!"
+    }
+  ]
+}
