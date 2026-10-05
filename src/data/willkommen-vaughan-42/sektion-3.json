@@ -1,0 +1,570 @@
+{
+  "bookId": "willkommen-vaughan-42",
+  "bookTitle": "Buch 42",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: Usos del verbo tun",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Hoy tengo mucho que hacer.",
+      "back": "Ich habe heute viel zu tun."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Ahora mismo no tengo nada que hacer.",
+      "back": "Ich habe zurzeit nichts zu tun."
+    },
+    {
+      "id": "s3-t003",
+      "front": "¿Tiene usted mucho que hacer ahora?",
+      "back": "Haben Sie zurzeit viel zu tun?"
+    },
+    {
+      "id": "s3-t004",
+      "front": "¿No tienes nada que hacer?",
+      "back": "Hast du nichts zu tun?"
+    },
+    {
+      "id": "s3-t005",
+      "front": "El fin de semana estaba hasta arriba de trabajo.",
+      "back": "Ich hatte am Wochenende alle Hände voll zu tun."
+    },
+    {
+      "id": "s3-t006",
+      "front": "Los bomberos estuvieron hasta arriba de trabajo.",
+      "back": "Die Feuerwehr hatte alle Hände voll zu tun."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Él está en Suiza por negocios.",
+      "back": "Er hat geschäftlich in der Schweiz zu tun."
+    },
+    {
+      "id": "s3-t008",
+      "front": "Estuve en la zona por un tema de trabajo.",
+      "back": "Ich hatte geschäftlich in der Gegend zu tun."
+    },
+    {
+      "id": "s3-t009",
+      "front": "¿Viajas mucho al extranjero por negocios?",
+      "back": "Hast du viel geschäftlich im Ausland zu tun?"
+    },
+    {
+      "id": "s3-t010",
+      "front": "¿Está trabajando ahora mismo en la zona?",
+      "back": "Haben Sie gerade in der Gegend zu tun?"
+    },
+    {
+      "id": "s3-t011",
+      "front": "Él no puede caminar bien. Tiene que ver con su enfermedad.",
+      "back": "Er kann nicht gut laufen. Das hat mit seiner Krankheit zu tun."
+    },
+    {
+      "id": "s3-t012",
+      "front": "Él está resfriado a menudo. Tiene que ver con fumar.",
+      "back": "Er ist oft erkältet. Das hat mit dem Rauchen zu tun."
+    },
+    {
+      "id": "s3-t013",
+      "front": "No es nada personal contra ti.",
+      "back": "Das hat nichts mit dir persönlich zu tun."
+    },
+    {
+      "id": "s3-t014",
+      "front": "No tiene nada que ver con eso.",
+      "back": "Das hat nichts damit zu tun."
+    },
+    {
+      "id": "s3-t015",
+      "front": "Yo no tuve nada que ver con eso.",
+      "back": "Ich hatte nichts damit zu tun."
+    },
+    {
+      "id": "s3-t016",
+      "front": "Creo que él tiene algo que ver con eso.",
+      "back": "Ich glaube, er hat etwas damit zu tun."
+    },
+    {
+      "id": "s3-t017",
+      "front": "¿Crees que la tos tiene que ver con fumar?",
+      "back": "Glaubst du, der Husten hat mit dem Rauchen zu tun?"
+    },
+    {
+      "id": "s3-t018",
+      "front": "¿Qué tiene que ver eso?",
+      "back": "Was hat das damit zu tun?"
+    },
+    {
+      "id": "s3-t019",
+      "front": "¿Qué tiene que ver tu problema conmigo?",
+      "back": "Was hat dein Problem mit mir zu tun?"
+    },
+    {
+      "id": "s3-t020",
+      "front": "¿Con qué tiene que ver eso?",
+      "back": "Womit hat das zu tun?"
+    },
+    {
+      "id": "s3-t021",
+      "front": "Tengo mucho trato con ella.",
+      "back": "Ich habe viel mit ihr zu tun."
+    },
+    {
+      "id": "s3-t022",
+      "front": "Ya no tengo trato con mis compañeros de clase.",
+      "back": "Ich habe nichts mehr mit meinen Klassenkameraden zu tun."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Últimamente he tenido mucho trato con ella.",
+      "back": "Ich hatte in letzter Zeit viel mit ihr zu tun."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Antes tenía más trato con él.",
+      "back": "Früher hatte ich mehr mit ihm zu tun."
+    },
+    {
+      "id": "s3-t025",
+      "front": "¿Todavía tienes trato con ella?",
+      "back": "Hast du noch mit ihr zu tun?"
+    },
+    {
+      "id": "s3-t026",
+      "front": "En mi profesión se trata mucho con niños.",
+      "back": "In meinem Beruf hat man viel mit Kindern zu tun."
+    },
+    {
+      "id": "s3-t027",
+      "front": "En nuestra profesión se trata a menudo con la policía.",
+      "back": "In unserem Beruf hat man oft mit der Polizei zu tun."
+    },
+    {
+      "id": "s3-t028",
+      "front": "No quiero tener nada que ver con él.",
+      "back": "Ich will nichts mit ihm zu tun haben."
+    },
+    {
+      "id": "s3-t029",
+      "front": "Ella ya no quiere tener nada que ver contigo.",
+      "back": "Sie will nichts mehr mit dir zu tun haben."
+    },
+    {
+      "id": "s3-t030",
+      "front": "¿Todavía quieres tener algo que ver con ellos?",
+      "back": "Willst du noch etwas mit ihnen zu tun haben?"
+    },
+    {
+      "id": "s3-t031",
+      "front": "¿Puedes hacerme un favor?",
+      "back": "Kannst du mir einen Gefallen tun?"
+    },
+    {
+      "id": "s3-t032",
+      "front": "¿Puede usted hacerme un favor?",
+      "back": "Können Sie mir einen Gefallen tun?"
+    },
+    {
+      "id": "s3-t033",
+      "front": "Ya le he hecho favores varias veces.",
+      "back": "Ich habe ihm schon oft einen Gefallen getan."
+    },
+    {
+      "id": "s3-t034",
+      "front": "Hazme el favor y llama por mí.",
+      "back": "Tu mir den Gefallen und ruf dort für mich an."
+    },
+    {
+      "id": "s3-t035",
+      "front": "Hacemos todo lo posible para ayudarle.",
+      "back": "Wir tun unser Bestes, um Ihnen zu helfen."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Haremos todo lo posible para que la conferencia sea un éxito.",
+      "back": "Wir werden unser Bestes tun, damit die Konferenz ein Erfolg wird."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Quiero hacer el bien.",
+      "back": "Ich möchte Gutes tun."
+    },
+    {
+      "id": "s3-t038",
+      "front": "No finjas.",
+      "back": "Tu nicht so."
+    },
+    {
+      "id": "s3-t039",
+      "front": "¡Venga, no finjas!",
+      "back": "Tu doch nicht so!"
+    },
+    {
+      "id": "s3-t040",
+      "front": "Él hace como si no supiera nada.",
+      "back": "Er tut so, als ob er von nichts wüsste."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Ella hace como si lo supiera todo.",
+      "back": "Sie tut so, als ob sie alles wüsste."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Ella fingió que no sabía nada.",
+      "back": "Sie hat so getan, als ob sie von nichts gewusst hätte."
+    },
+    {
+      "id": "s3-t043",
+      "front": "¿Solo estás fingiendo o estás enfadado de verdad?",
+      "back": "Tust du nur so oder bist du wirklich sauer?"
+    },
+    {
+      "id": "s3-t044",
+      "front": "Nos hemos quejado, pero no pasa nada.",
+      "back": "Wir haben uns beschwert, aber es tut sich nichts."
+    },
+    {
+      "id": "s3-t045",
+      "front": "Ya me he quejado, pero se ha hecho poco.",
+      "back": "Ich habe mich schon beschwert, aber es tut sich wenig."
+    },
+    {
+      "id": "s3-t046",
+      "front": "Respecto a la obra, no se ha hecho nada.",
+      "back": "Bezüglich der Baustelle hat sich nichts getan."
+    },
+    {
+      "id": "s3-t047",
+      "front": "Respecto a las quejas, se ha hecho poco.",
+      "back": "Bezüglich der Beschwerden hat sich wenig getan."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Sigue sin hacerse nada.",
+      "back": "Es hat sich immer noch nichts getan."
+    },
+    {
+      "id": "s3-t049",
+      "front": "¿Hay novedades?",
+      "back": "Hat sich etwas getan?"
+    },
+    {
+      "id": "s3-t050",
+      "front": "¿Hay novedades respecto a su solicitud?",
+      "back": "Hat sich bezüglich seines Antrags etwas getan?"
+    },
+    {
+      "id": "s3-t051",
+      "front": "Ich habe heute viel zu tun.",
+      "back": "Hoy tengo mucho que hacer."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Ich habe zurzeit nichts zu tun.",
+      "back": "Ahora mismo no tengo nada que hacer."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Haben Sie zurzeit viel zu tun?",
+      "back": "¿Tiene usted mucho que hacer ahora?"
+    },
+    {
+      "id": "s3-t054",
+      "front": "Hast du nichts zu tun?",
+      "back": "¿No tienes nada que hacer?"
+    },
+    {
+      "id": "s3-t055",
+      "front": "Ich hatte am Wochenende alle Hände voll zu tun.",
+      "back": "El fin de semana estaba hasta arriba de trabajo."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Die Feuerwehr hatte alle Hände voll zu tun.",
+      "back": "Los bomberos estuvieron hasta arriba de trabajo."
+    },
+    {
+      "id": "s3-t057",
+      "front": "Er hat geschäftlich in der Schweiz zu tun.",
+      "back": "Él está en Suiza por negocios."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Ich hatte geschäftlich in der Gegend zu tun.",
+      "back": "Estuve en la zona por un tema de trabajo."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Hast du viel geschäftlich im Ausland zu tun?",
+      "back": "¿Viajas mucho al extranjero por negocios?"
+    },
+    {
+      "id": "s3-t060",
+      "front": "Haben Sie gerade in der Gegend zu tun?",
+      "back": "¿Está trabajando ahora mismo en la zona?"
+    },
+    {
+      "id": "s3-t061",
+      "front": "Er kann nicht gut laufen. Das hat mit seiner Krankheit zu tun.",
+      "back": "Él no puede caminar bien. Tiene que ver con su enfermedad."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Er ist oft erkältet. Das hat mit dem Rauchen zu tun.",
+      "back": "Él está resfriado a menudo. Tiene que ver con fumar."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Das hat nichts mit dir persönlich zu tun.",
+      "back": "No es nada personal contra ti."
+    },
+    {
+      "id": "s3-t064",
+      "front": "Das hat nichts damit zu tun.",
+      "back": "No tiene nada que ver con eso."
+    },
+    {
+      "id": "s3-t065",
+      "front": "Ich hatte nichts damit zu tun.",
+      "back": "Yo no tuve nada que ver con eso."
+    },
+    {
+      "id": "s3-t066",
+      "front": "Ich glaube, er hat etwas damit zu tun.",
+      "back": "Creo que él tiene algo que ver con eso."
+    },
+    {
+      "id": "s3-t067",
+      "front": "Glaubst du, der Husten hat mit dem Rauchen zu tun?",
+      "back": "¿Crees que la tos tiene que ver con fumar?"
+    },
+    {
+      "id": "s3-t068",
+      "front": "Was hat das damit zu tun?",
+      "back": "¿Qué tiene que ver eso?"
+    },
+    {
+      "id": "s3-t069",
+      "front": "Was hat dein Problem mit mir zu tun?",
+      "back": "¿Qué tiene que ver tu problema conmigo?"
+    },
+    {
+      "id": "s3-t070",
+      "front": "Womit hat das zu tun?",
+      "back": "¿Con qué tiene que ver eso?"
+    },
+    {
+      "id": "s3-t071",
+      "front": "Ich habe viel mit ihr zu tun.",
+      "back": "Tengo mucho trato con ella."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Ich habe nichts mehr mit meinen Klassenkameraden zu tun.",
+      "back": "Ya no tengo trato con mis compañeros de clase."
+    },
+    {
+      "id": "s3-t073",
+      "front": "Ich hatte in letzter Zeit viel mit ihr zu tun.",
+      "back": "Últimamente he tenido mucho trato con ella."
+    },
+    {
+      "id": "s3-t074",
+      "front": "Früher hatte ich mehr mit ihm zu tun.",
+      "back": "Antes tenía más trato con él."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Hast du noch mit ihr zu tun?",
+      "back": "¿Todavía tienes trato con ella?"
+    },
+    {
+      "id": "s3-t076",
+      "front": "In meinem Beruf hat man viel mit Kindern zu tun.",
+      "back": "En mi profesión se trata mucho con niños."
+    },
+    {
+      "id": "s3-t077",
+      "front": "In unserem Beruf hat man oft mit der Polizei zu tun.",
+      "back": "En nuestra profesión se trata a menudo con la policía."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Ich will nichts mit ihm zu tun haben.",
+      "back": "No quiero tener nada que ver con él."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Sie will nichts mehr mit dir zu tun haben.",
+      "back": "Ella ya no quiere tener nada que ver contigo."
+    },
+    {
+      "id": "s3-t080",
+      "front": "Willst du noch etwas mit ihnen zu tun haben?",
+      "back": "¿Todavía quieres tener algo que ver con ellos?"
+    },
+    {
+      "id": "s3-t081",
+      "front": "Kannst du mir einen Gefallen tun?",
+      "back": "¿Puedes hacerme un favor?"
+    },
+    {
+      "id": "s3-t082",
+      "front": "Können Sie mir einen Gefallen tun?",
+      "back": "¿Puede usted hacerme un favor?"
+    },
+    {
+      "id": "s3-t083",
+      "front": "Ich habe ihm schon oft einen Gefallen getan.",
+      "back": "Ya le he hecho favores varias veces."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Tu mir den Gefallen und ruf dort für mich an.",
+      "back": "Hazme el favor y llama por mí."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Wir tun unser Bestes, um Ihnen zu helfen.",
+      "back": "Hacemos todo lo posible para ayudarle."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Wir werden unser Bestes tun, damit die Konferenz ein Erfolg wird.",
+      "back": "Haremos todo lo posible para que la conferencia sea un éxito."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Ich möchte Gutes tun.",
+      "back": "Quiero hacer el bien."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Tu nicht so.",
+      "back": "No finjas."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Tu doch nicht so!",
+      "back": "¡Venga, no finjas!"
+    },
+    {
+      "id": "s3-t090",
+      "front": "Er tut so, als ob er von nichts wüsste.",
+      "back": "Él hace como si no supiera nada."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Sie tut so, als ob sie alles wüsste.",
+      "back": "Ella hace como si lo supiera todo."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Sie hat so getan, als ob sie von nichts gewusst hätte.",
+      "back": "Ella fingió que no sabía nada."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Tust du nur so oder bist du wirklich sauer?",
+      "back": "¿Solo estás fingiendo o estás enfadado de verdad?"
+    },
+    {
+      "id": "s3-t094",
+      "front": "Wir haben uns beschwert, aber es tut sich nichts.",
+      "back": "Nos hemos quejado, pero no pasa nada."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Ich habe mich schon beschwert, aber es tut sich wenig.",
+      "back": "Ya me he quejado, pero se ha hecho poco."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Bezüglich der Baustelle hat sich nichts getan.",
+      "back": "Respecto a la obra, no se ha hecho nada."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Bezüglich der Beschwerden hat sich wenig getan.",
+      "back": "Respecto a las quejas, se ha hecho poco."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Es hat sich immer noch nichts getan.",
+      "back": "Sigue sin hacerse nada."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Hat sich etwas getan?",
+      "back": "¿Hay novedades?"
+    },
+    {
+      "id": "s3-t100",
+      "front": "Hat sich bezüglich seines Antrags etwas getan?",
+      "back": "¿Hay novedades respecto a su solicitud?"
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Cuándo se usa tun en vez de machen?",
+      "back": "En expresiones fijas como zu tun haben, einen Gefallen tun y so tun."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué significa viel zu tun haben?",
+      "back": "Tener mucho que hacer."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Qué significa alle Hände voll zu tun haben?",
+      "back": "Estar hasta arriba de trabajo."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Qué significa mit etwas zu tun haben?",
+      "back": "Tener que ver con algo; mit exige dativo."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Por qué hace falta damit en Das hat nichts damit zu tun?",
+      "back": "Porque la expresión alemana necesita explicitar «con ello»."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Qué significa mit jemandem zu tun haben?",
+      "back": "Tener trato con alguien."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Cómo se dice «hacerle un favor a alguien»?",
+      "back": "jemandem einen Gefallen tun; la persona va en dativo."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Cuál es el imperativo singular y plural de tun?",
+      "back": "tu y tut."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué significa sein Bestes tun?",
+      "back": "Hacer todo lo posible o dar lo mejor de uno mismo."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Qué significa so tun, als ob ...?",
+      "back": "Hacer como si / fingir; suele llevar Konjunktiv II."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Qué significa es tut sich nichts?",
+      "back": "No pasa nada / no se está haciendo nada."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Qué caso rige bezüglich?",
+      "back": "Genitivo: bezüglich des Antrags, bezüglich der Beschwerden."
+    }
+  ]
+}
+

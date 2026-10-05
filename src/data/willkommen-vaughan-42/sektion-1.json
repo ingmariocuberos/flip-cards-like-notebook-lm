@@ -1,0 +1,570 @@
+{
+  "bookId": "willkommen-vaughan-42",
+  "bookTitle": "Buch 42",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: Oraciones causales y consecutivas",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Lo digo por eso, porque después puede haber problemas.",
+      "back": "Ich sage es deswegen, weil es später Probleme geben kann."
+    },
+    {
+      "id": "s1-t002",
+      "front": "Te lo he recordado por eso, porque la última vez lo olvidaste.",
+      "back": "Ich habe dich deswegen daran erinnert, weil du es das letzte Mal vergessen hast."
+    },
+    {
+      "id": "s1-t003",
+      "front": "Por eso me llevo el paraguas, porque el tiempo aquí es inestable.",
+      "back": "Ich nehme deswegen den Regenschirm mit, weil das Wetter hier wechselhaft ist."
+    },
+    {
+      "id": "s1-t004",
+      "front": "Lo digo por eso, porque siempre lo olvidas.",
+      "back": "Ich sage es deshalb, weil du es immer vergisst."
+    },
+    {
+      "id": "s1-t005",
+      "front": "Por eso no he dicho nada, porque de todos modos no me escuchas.",
+      "back": "Ich habe deshalb nichts gesagt, weil du sowieso nicht auf mich hörst."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Por eso él no ha dicho nada, porque ella nunca le hace caso.",
+      "back": "Er hat deshalb nichts gesagt, weil sie sowieso nie auf ihn hört."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Por esa razón no digo nada, porque él hace lo que quiere de todos modos.",
+      "back": "Ich sage aus dem Grund nichts, weil er sowieso macht, was er will."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Por esa razón no le he dicho nada, porque nunca me escucha.",
+      "back": "Ich habe ihm aus dem Grund nichts gesagt, weil er sowieso nie auf mich hört."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Por esa razón no he comprado ningún regalo, porque la invitaré a comer.",
+      "back": "Ich habe aus dem Grund kein Geschenk besorgt, weil ich sie zum Essen einladen werde."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Precisamente por eso lo digo, porque la última vez no me escuchaste.",
+      "back": "Ich sage es gerade deswegen, weil du letztes Mal nicht auf mich gehört hast."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Precisamente por eso quería un gato, porque dan poco trabajo.",
+      "back": "Ich wollte gerade deshalb eine Katze, weil Katzen nicht viel Arbeit machen."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Precisamente por esa razón no dije nada, porque no estaba seguro.",
+      "back": "Ich habe gerade aus dem Grund nichts gesagt, weil ich nicht sicher war."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Él me llamó solo por eso, porque quería dinero de mí.",
+      "back": "Er hat mich nur deswegen angerufen, weil er Geld von mir wollte."
+    },
+    {
+      "id": "s1-t014",
+      "front": "No te lo he dicho solo por eso, porque no quería hacerte daño.",
+      "back": "Ich habe es dir nur deshalb nicht gesagt, weil ich dir nicht wehtun wollte."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Él solo lo hizo por ese motivo, porque me quería hacer daño.",
+      "back": "Er hat es nur aus dem Grund gemacht, weil er mir wehtun wollte."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Como él no ha dado señales, ya he salido.",
+      "back": "Da er sich nicht gemeldet hat, bin ich schon mal losgefahren."
+    },
+    {
+      "id": "s1-t017",
+      "front": "Como ella dio señales demasiado tarde, ya no quedaban plazas.",
+      "back": "Da sie sich zu spät gemeldet hat, war kein Platz mehr frei."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Me preocupo porque ya está oscuro y ella aún no ha dado señales.",
+      "back": "Ich mache mir Sorgen, da es schon dunkel ist und sie sich noch nicht gemeldet hat."
+    },
+    {
+      "id": "s1-t019",
+      "front": "Como ha habido quejas, ya no se pueden traer mascotas.",
+      "back": "Da es Beschwerden gegeben hat, darf man keine Haustiere mehr mitbringen."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Como ha habido quejas, ya no se permite sentarse fuera después de las diez.",
+      "back": "Da es Beschwerden gegeben hat, darf man nach zehn Uhr nicht mehr draußen sitzen."
+    },
+    {
+      "id": "s1-t021",
+      "front": "A partir de las diez debemos apagar la música porque ya hubo quejas.",
+      "back": "Ab zehn Uhr müssen wir die Musik ausmachen, da es schon Beschwerden gegeben hat."
+    },
+    {
+      "id": "s1-t022",
+      "front": "Dado que el tiempo ha empeorado, el partido debe aplazarse.",
+      "back": "Da sich das Wetter verschlechtert hat, muss das Spiel verschoben werden."
+    },
+    {
+      "id": "s1-t023",
+      "front": "Dado que su estado empeoró, tuvo que ser operado.",
+      "back": "Da sich sein Zustand verschlechtert hat, musste er operiert werden."
+    },
+    {
+      "id": "s1-t024",
+      "front": "La paciente se quedará en el hospital porque su estado ha empeorado.",
+      "back": "Die Patientin wird im Krankenhaus bleiben, da sich ihr Zustand verschlechtert hat."
+    },
+    {
+      "id": "s1-t025",
+      "front": "Dado que nuestro vuelo tiene retraso, aplazaremos la reunión.",
+      "back": "Da unser Flug Verspätung hat, werden wir das Meeting verschieben."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Como el vuelo del señor Berger tiene retraso, la reunión debe aplazarse.",
+      "back": "Da der Flug von Herrn Berger Verspätung hat, muss die Besprechung verschoben werden."
+    },
+    {
+      "id": "s1-t027",
+      "front": "La reunión se aplazó porque el tren del jefe llevaba retraso.",
+      "back": "Die Teambesprechung wurde verschoben, da der Zug vom Chef Verspätung hatte."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Como empezó a llover, tuvimos que suspender el partido.",
+      "back": "Da es anfing zu regnen, mussten wir das Spiel absagen."
+    },
+    {
+      "id": "s1-t029",
+      "front": "Como empezó a nevar, se suspendió el partido.",
+      "back": "Da es anfing zu schneien, wurde das Spiel abgesagt."
+    },
+    {
+      "id": "s1-t030",
+      "front": "El partido se suspendió porque empezó a granizar.",
+      "back": "Das Spiel wurde abgesagt, da es anfing zu hageln."
+    },
+    {
+      "id": "s1-t031",
+      "front": "Él habla un poco de ruso porque vive allí desde hace año y medio.",
+      "back": "Er spricht ein bisschen Russisch, denn er wohnt seit anderthalb Jahren dort."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Ella sabe mucho de libros porque trabaja en una editorial.",
+      "back": "Sie weiß viel über Bücher, denn sie arbeitet bei einem Verlag."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Creo que vuelvo a casa porque ya llevo media hora esperando.",
+      "back": "Ich glaube, ich gehe wieder nach Hause, denn ich warte schon seit einer halben Stunde."
+    },
+    {
+      "id": "s1-t034",
+      "front": "Pregunte al señor Maurer, porque él es quien más sabe sobre eso.",
+      "back": "Fragen Sie Herrn Maurer, denn er weiß am meisten darüber."
+    },
+    {
+      "id": "s1-t035",
+      "front": "Llame a la señora Hermann, porque seguro que sabe más que yo.",
+      "back": "Rufen Sie Frau Hermann an, denn sie weiß sicher mehr darüber als ich."
+    },
+    {
+      "id": "s1-t036",
+      "front": "Pregunta a Andrea, porque trabajó mucho tiempo en una editorial.",
+      "back": "Frag Andrea, denn sie hat lange bei einem Verlag gearbeitet."
+    },
+    {
+      "id": "s1-t037",
+      "front": "¿Sabes cómo llegar a casa? Porque no puedo recogerte.",
+      "back": "Weißt du, wie du nach Hause kommst? Denn ich kann dich nicht abholen."
+    },
+    {
+      "id": "s1-t038",
+      "front": "¿Recuerdas cómo se llama el restaurante? Porque yo no.",
+      "back": "Weißt du noch, wie das Restaurant heißt? Denn ich kann mich nicht erinnern."
+    },
+    {
+      "id": "s1-t039",
+      "front": "¿Te llevas el monedero? Porque no llevo dinero.",
+      "back": "Nimmst du dein Portemonnaie mit? Denn ich habe kein Geld dabei."
+    },
+    {
+      "id": "s1-t040",
+      "front": "Deberíamos estar allí antes de las ocho, porque después no habrá mesa.",
+      "back": "Wir sollten vor acht dort sein, denn später bekommen wir keinen Tisch mehr."
+    },
+    {
+      "id": "s1-t041",
+      "front": "Deberías estar allí como muy tarde a las siete, porque luego hay cola.",
+      "back": "Du solltest spätestens um sieben dort sein, denn später muss man lange anstehen."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Debería salir como muy pronto a las once, porque antes hay cola.",
+      "back": "Sie sollten frühestens um elf Uhr losgehen, denn früher muss man lange anstehen."
+    },
+    {
+      "id": "s1-t043",
+      "front": "No puedo comer lácteos, porque entonces me duele el estómago.",
+      "back": "Ich kann keine Milchprodukte essen, denn dann bekomme ich Bauchschmerzen."
+    },
+    {
+      "id": "s1-t044",
+      "front": "Voy a preguntar si alguien va en coche, porque entonces me apunto.",
+      "back": "Ich frage mal, ob jemand mit dem Auto fährt, denn dann komme ich mit."
+    },
+    {
+      "id": "s1-t045",
+      "front": "Pregúntale si hay que pagar entrada, porque entonces no voy.",
+      "back": "Frag ihn mal, ob es Eintritt kostet, denn dann komme ich nicht mit."
+    },
+    {
+      "id": "s1-t046",
+      "front": "La lluvia arreció, por lo que el partido se suspendió.",
+      "back": "Der Regen wurde immer stärker, weswegen das Spiel abgesagt wurde."
+    },
+    {
+      "id": "s1-t047",
+      "front": "El granizo arreció, por lo que el partido se aplazó.",
+      "back": "Der Hagel wurde immer stärker, weswegen das Spiel verschoben wurde."
+    },
+    {
+      "id": "s1-t048",
+      "front": "El vuelo tenía retraso, por lo que la reunión se aplazó.",
+      "back": "Der Flug hatte Verspätung, weshalb die Besprechung verschoben wurde."
+    },
+    {
+      "id": "s1-t049",
+      "front": "El restaurante gana popularidad, por lo que últimamente hay que reservar.",
+      "back": "Das Restaurant wird immer beliebter, weswegen man neuerdings reservieren muss."
+    },
+    {
+      "id": "s1-t050",
+      "front": "El club gana popularidad, por lo que últimamente hay que hacer cola.",
+      "back": "Der Club wird immer beliebter, weswegen man neuerdings anstehen muss."
+    },
+    {
+      "id": "s1-t051",
+      "front": "El hotel es muy popular, por lo que hay que reservar temprano.",
+      "back": "Das Hotel ist sehr beliebt, weshalb man früh reservieren muss."
+    },
+    {
+      "id": "s1-t052",
+      "front": "La participación electoral fue baja, por lo que se hace más propaganda.",
+      "back": "Die Wahlbeteiligung war sehr gering, weswegen immer mehr Wahlwerbung gemacht wird."
+    },
+    {
+      "id": "s1-t053",
+      "front": "La participación es escasa, por lo que se hace más propaganda en televisión.",
+      "back": "Die Wahlbeteiligung ist gering, weshalb immer mehr Wahlwerbung im Fernsehen gemacht wird."
+    },
+    {
+      "id": "s1-t054",
+      "front": "La exposición es un éxito, por lo que se prolonga una y otra vez.",
+      "back": "Die Ausstellung ist ein voller Erfolg, weshalb sie immer wieder verlängert wird."
+    },
+    {
+      "id": "s1-t055",
+      "front": "¿Por qué no se prolonga la exposición?",
+      "back": "Weswegen wird die Ausstellung nicht verlängert?"
+    },
+    {
+      "id": "s1-t056",
+      "front": "¿Por qué no se proyecta la película en versión original?",
+      "back": "Weswegen wird der Film nicht in der Originalfassung gezeigt?"
+    },
+    {
+      "id": "s1-t057",
+      "front": "¿Por qué solo se proyecta en versión original?",
+      "back": "Weswegen wird der Film nur in der Originalfassung gezeigt?"
+    },
+    {
+      "id": "s1-t058",
+      "front": "¿Por qué hay que reservar aquí últimamente?",
+      "back": "Weshalb muss man hier neuerdings reservieren?"
+    },
+    {
+      "id": "s1-t059",
+      "front": "¿Por qué tiene que aplazarse la reunión?",
+      "back": "Weshalb muss die Besprechung verschoben werden?"
+    },
+    {
+      "id": "s1-t060",
+      "front": "¿Por qué hay que hacer cada vez más propaganda electoral?",
+      "back": "Weshalb muss immer mehr Wahlwerbung gemacht werden?"
+    },
+    {
+      "id": "s1-t061",
+      "front": "No había autobuses, así que tuve que coger un taxi.",
+      "back": "Es gab keine Busse, sodass ich ein Taxi nehmen musste."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Tenía mucho trabajo, así que tuve que aplazar la cita.",
+      "back": "Ich hatte viel Arbeit, sodass ich den Termin verschieben musste."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Él tenía una reunión, así que tuvo que aplazar la cita médica.",
+      "back": "Er hatte eine Besprechung, sodass er den Arzttermin verschieben musste."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Llovía cada vez más, así que el partido se suspendió definitivamente.",
+      "back": "Der Regen wurde immer stärker, sodass das Spiel schlussendlich abgesagt wurde."
+    },
+    {
+      "id": "s1-t065",
+      "front": "La tos empeoraba, así que al final fui al médico.",
+      "back": "Der Husten wurde immer schlimmer, sodass ich schlussendlich zum Arzt gegangen bin."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Ella se encontraba cada vez peor, así que no pudo venir.",
+      "back": "Es ging ihr immer schlechter, sodass sie schlussendlich nicht mitkommen konnte."
+    },
+    {
+      "id": "s1-t067",
+      "front": "No conseguimos el pedido, así que todo el trabajo fue en vano.",
+      "back": "Wir haben den Auftrag nicht bekommen, sodass die ganze Arbeit umsonst war."
+    },
+    {
+      "id": "s1-t068",
+      "front": "No recibimos confirmación, así que todo el esfuerzo fue en vano.",
+      "back": "Wir haben keine Zusage bekommen, sodass die ganze Mühe umsonst war."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Al final recibimos una negativa, así que el trabajo fue para nada.",
+      "back": "Wir haben eine Absage bekommen, sodass die ganze Arbeit umsonst war."
+    },
+    {
+      "id": "s1-t070",
+      "front": "No recibí ningún mensaje, así que no sabía dónde habíamos quedado.",
+      "back": "Ich habe keine Nachricht bekommen, sodass ich nicht wusste, wo wir uns treffen."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Él no dio señales, así que no sabía si quería venir.",
+      "back": "Er hat sich nicht gemeldet, sodass ich nicht wusste, ob er mitkommen wollte."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Ella no avisó, así que no sabía si quería venir en coche.",
+      "back": "Sie hat nicht Bescheid gesagt, sodass ich nicht wusste, ob sie mitfahren wollte."
+    },
+    {
+      "id": "s1-t073",
+      "front": "Llovía cada vez más, así que no quedó otra opción que cancelar la fiesta.",
+      "back": "Der Regen wurde immer stärker, sodass wir keine andere Wahl hatten, als das Fest abzusagen."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Él empeoraba, así que no tuvo otra opción que cancelar la boda.",
+      "back": "Es ging ihm immer schlechter, sodass er keine andere Wahl hatte, als die Hochzeit abzusagen."
+    },
+    {
+      "id": "s1-t075",
+      "front": "El vuelo se retrasó, así que no hubo más opción que cancelar la reunión.",
+      "back": "Unser Flug hatte Verspätung, sodass wir keine andere Wahl hatten, als die Besprechung abzusagen."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Dado que no recibimos el pedido, todo fue para nada.",
+      "back": "Dadurch, dass wir den Auftrag nicht bekommen haben, war alles umsonst."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Dado que recibí una negativa, todo el trabajo fue para nada.",
+      "back": "Dadurch, dass ich eine Absage bekommen habe, war die ganze Arbeit umsonst."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Dado que no recibimos confirmación, todo el esfuerzo fue en vano.",
+      "back": "Dadurch, dass wir keine Zusage bekommen haben, war die ganze Mühe umsonst."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Dado que viven más familias jóvenes, hay más guarderías.",
+      "back": "Dadurch, dass immer mehr junge Familien hier wohnen, gibt es immer mehr Kindergärten."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Debido a que más gente va en bicicleta, hay más carriles bici.",
+      "back": "Dadurch, dass immer mehr Leute mit dem Fahrrad fahren, gibt es immer mehr Fahrradwege."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Dado que muchas empresas se van al extranjero, hay más parados.",
+      "back": "Dadurch, dass viele Firmen ins Ausland gehen, gibt es immer mehr Arbeitslose."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Por el simple hecho de no usar pilas, se protege el medio ambiente.",
+      "back": "Allein dadurch, dass man keine Batterien benutzt, kann man die Umwelt schützen."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Por el simple hecho de ver películas en versión original, se mejora el inglés.",
+      "back": "Allein dadurch, dass man Filme in Originalfassung ansieht, kann man sein Englisch verbessern."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Por ver películas en versión original, he mejorado mi alemán.",
+      "back": "Allein dadurch, dass ich Filme in Originalfassung ansehe, habe ich mein Deutsch verbessert."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Esta zona es verde. Se debe a que llueve mucho.",
+      "back": "Diese Gegend ist sehr grün. Das kommt dadurch, dass es hier viel regnet."
+    },
+    {
+      "id": "s1-t086",
+      "front": "Aquí hay más guarderías. Se debe a que viven más familias jóvenes.",
+      "back": "Es gibt hier immer mehr Kindergärten. Das kommt dadurch, dass immer mehr junge Familien hier wohnen."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Aquí hay menos autobuses. Se debe a que más gente va en coche.",
+      "back": "Es gibt hier immer weniger Busse. Das kommt dadurch, dass immer mehr Leute mit dem Auto fahren."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Esta zona es seca. Se debe a que llueve poco.",
+      "back": "Diese Gegend ist sehr trocken. Das kommt daher, dass es hier selten regnet."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Cancelé la cita. Se debe a que me fui antes de vacaciones.",
+      "back": "Ich habe den Termin abgesagt. Das kommt daher, dass ich früher in den Urlaub gefahren bin."
+    },
+    {
+      "id": "s1-t090",
+      "front": "Mi hija está resfriada. Se debe a que no se abriga.",
+      "back": "Meine Tochter ist ständig erkältet. Das kommt daher, dass sie sich nicht warm anzieht."
+    },
+    {
+      "id": "s1-t091",
+      "front": "¿Y qué?",
+      "back": "Na und?"
+    },
+    {
+      "id": "s1-t092",
+      "front": "Continuar.",
+      "back": "Weiter."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Disculpe, ¿este sitio está libre?",
+      "back": "Entschuldigung, ist hier noch frei?"
+    },
+    {
+      "id": "s1-t094",
+      "front": "Sí, adelante, siéntese.",
+      "back": "Ja, setzen Sie sich ruhig dazu."
+    },
+    {
+      "id": "s1-t095",
+      "front": "¿Sabe si el camarero viene a la mesa?",
+      "back": "Wissen Sie, ob der Kellner an den Tisch kommt?"
+    },
+    {
+      "id": "s1-t096",
+      "front": "¿Le puedo invitar a una cerveza?",
+      "back": "Darf ich Sie zu einem Bier einladen?"
+    },
+    {
+      "id": "s1-t097",
+      "front": "Entre las seis menos cuarto y las cuatro y cuarto.",
+      "back": "Zwischen Viertel vor sechs und Viertel nach vier."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Entre las ocho y las siete y media.",
+      "back": "Zwischen acht und halb acht."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Entre las dos menos cuarto y las dos y media.",
+      "back": "Zwischen Viertel vor zwei und halb drei."
+    },
+    {
+      "id": "s1-t100",
+      "front": "De todos modos.",
+      "back": "Sowieso."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué orden exige weil?",
+      "back": "Orden subordinado: el verbo conjugado va al final."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué diferencia estructural hay entre weil y denn?",
+      "back": "weil manda el verbo al final; denn conserva el orden de una oración principal."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Cuándo suele usarse da?",
+      "back": "Frecuentemente al principio para expresar «dado que/como»; manda el verbo al final."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Qué significan deswegen y deshalb?",
+      "back": "Por eso; son adverbios y provocan inversión si encabezan la oración."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Qué significa aus dem Grund?",
+      "back": "Por esa razón."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Qué significan weswegen y weshalb?",
+      "back": "Por lo que; también pueden significar «¿por qué?» en preguntas."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Qué orden sigue una subordinada con weswegen/weshalb?",
+      "back": "El verbo conjugado va al final."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué expresa sodass?",
+      "back": "Una consecuencia: así que / de manera que."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Puede sodass iniciar una oración independiente?",
+      "back": "No; debe ir precedido de la causa en una oración principal."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué significa dadurch, dass ...?",
+      "back": "Dado que / por el hecho de que; solo aparece al principio en este uso."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué significa allein dadurch, dass ...?",
+      "back": "Por el simple hecho de que..."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Cómo se expresa «esto se debe a que»?",
+      "back": "Das kommt dadurch, dass ... o Das kommt daher, dass ..."
+    }
+  ]
+}
+

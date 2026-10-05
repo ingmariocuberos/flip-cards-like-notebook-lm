@@ -1,0 +1,570 @@
+{
+  "bookId": "willkommen-vaughan-42",
+  "bookTitle": "Buch 42",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: El futuro con können y müssen",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "Pronto podré volver a trabajar.",
+      "back": "Ich werde bald wieder arbeiten können."
+    },
+    {
+      "id": "s2-t002",
+      "front": "Él pronto podrá volver a caminar.",
+      "back": "Er wird bald wieder laufen können."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Ella pronto podrá volver a oír.",
+      "back": "Sie wird bald wieder hören können."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Esta noche podremos volver a salir.",
+      "back": "Wir werden heute Abend wieder ausgehen können."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Nos será imposible cumplir el plazo.",
+      "back": "Wir werden unmöglich die Frist einhalten können."
+    },
+    {
+      "id": "s2-t006",
+      "front": "A partir de ahora podré trabajar a jornada completa.",
+      "back": "Ich werde in Zukunft Vollzeit arbeiten können."
+    },
+    {
+      "id": "s2-t007",
+      "front": "A partir de ahora podremos contratar más personal.",
+      "back": "Wir werden in Zukunft mehr Personal einstellen können."
+    },
+    {
+      "id": "s2-t008",
+      "front": "Solo si estudias a tiempo podrás aprobar.",
+      "back": "Nur wenn du rechtzeitig lernst, wirst du die Prüfung bestehen können."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Si mejora, podrá volver a hacer deporte.",
+      "back": "Wenn es ihm besser geht, wird er wieder Sport machen können."
+    },
+    {
+      "id": "s2-t010",
+      "front": "Si te das prisa, podrás entregar el informe.",
+      "back": "Wenn du dich beeilst, wirst du den Bericht abgeben können."
+    },
+    {
+      "id": "s2-t011",
+      "front": "No podré ir con vosotros.",
+      "back": "Ich werde nicht mitgehen können."
+    },
+    {
+      "id": "s2-t012",
+      "front": "No podré entregar el informe.",
+      "back": "Ich werde den Bericht nicht abgeben können."
+    },
+    {
+      "id": "s2-t013",
+      "front": "Este año no podré ir a la fiesta.",
+      "back": "Ich werde dieses Jahr nicht auf die Feier gehen können."
+    },
+    {
+      "id": "s2-t014",
+      "front": "Él no podrá irse de vacaciones.",
+      "back": "Er wird nicht in den Urlaub fahren können."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Mi madrina no podrá venir a mi boda.",
+      "back": "Meine Patentante wird nicht zu meiner Hochzeit kommen können."
+    },
+    {
+      "id": "s2-t016",
+      "front": "En estas circunstancias no podremos cumplir el plazo.",
+      "back": "Wir werden unter diesen Umständen die Frist nicht einhalten können."
+    },
+    {
+      "id": "s2-t017",
+      "front": "Este año no podré hacer grandes gastos.",
+      "back": "Ich werde dieses Jahr keine großen Ausgaben machen können."
+    },
+    {
+      "id": "s2-t018",
+      "front": "A partir de ahora no podré hacer horas extra.",
+      "back": "In Zukunft werde ich keine Überstunden machen können."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Si seguimos así, no podremos cumplir el plazo.",
+      "back": "Wenn wir so weitermachen, werden wir die Frist nicht einhalten können."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Como tuvo un accidente, no podrá jugar al fútbol.",
+      "back": "Da er einen Unfall hatte, wird er nicht mehr Fußball spielen können."
+    },
+    {
+      "id": "s2-t021",
+      "front": "¿Podremos cumplir el plazo?",
+      "back": "Werden wir die Frist einhalten können?"
+    },
+    {
+      "id": "s2-t022",
+      "front": "¿Podrá él volver a andar alguna vez?",
+      "back": "Wird er jemals wieder laufen können?"
+    },
+    {
+      "id": "s2-t023",
+      "front": "¿Podrá alguien asumir el turno de mañana?",
+      "back": "Wird jemand den Frühdienst übernehmen können?"
+    },
+    {
+      "id": "s2-t024",
+      "front": "¿Cuándo podremos ver las fotos?",
+      "back": "Wann werden wir die Fotos anschauen können?"
+    },
+    {
+      "id": "s2-t025",
+      "front": "¿Podrá entregar el trabajo si sigue así?",
+      "back": "Wird er die Hausarbeit abgeben können, wenn er so weitermacht?"
+    },
+    {
+      "id": "s2-t026",
+      "front": "Tendré que decirle la verdad.",
+      "back": "Ich werde ihr die Wahrheit sagen müssen."
+    },
+    {
+      "id": "s2-t027",
+      "front": "La alcaldesa tendrá que asumir la responsabilidad.",
+      "back": "Die Bürgermeisterin wird die Verantwortung übernehmen müssen."
+    },
+    {
+      "id": "s2-t028",
+      "front": "El ayuntamiento tendrá que reformar la piscina.",
+      "back": "Die Stadt wird das Freibad renovieren müssen."
+    },
+    {
+      "id": "s2-t029",
+      "front": "Tarde o temprano tendrás que decírselo.",
+      "back": "Früher oder später wirst du es ihm sagen müssen."
+    },
+    {
+      "id": "s2-t030",
+      "front": "Tarde o temprano tendrá que dejar de fumar.",
+      "back": "Früher oder später werden Sie mit dem Rauchen aufhören müssen."
+    },
+    {
+      "id": "s2-t031",
+      "front": "Si ella no da señales, tendremos que llamar a la policía.",
+      "back": "Wenn sie sich nicht meldet, werden wir die Polizei rufen müssen."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Si empeora el tiempo, tendremos que ir en tren.",
+      "back": "Falls sich das Wetter verschlechtert, werden wir mit dem Zug fahren müssen."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Si tus notas no mejoran, tendrás que tomar clases de apoyo.",
+      "back": "Falls sich deine Noten nicht verbessern, wirst du Nachhilfeunterricht nehmen müssen."
+    },
+    {
+      "id": "s2-t034",
+      "front": "Pues entonces tendré que coger un taxi.",
+      "back": "Dann werde ich wohl ein Taxi nehmen müssen."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Pues entonces tendremos que darnos prisa.",
+      "back": "Dann werden wir uns wohl beeilen müssen."
+    },
+    {
+      "id": "s2-t036",
+      "front": "No tendrá que pagar la factura.",
+      "back": "Sie werden die Rechnung nicht bezahlen müssen."
+    },
+    {
+      "id": "s2-t037",
+      "front": "Al final no tendré que dejar el piso.",
+      "back": "Ich werde schlussendlich nicht ausziehen müssen."
+    },
+    {
+      "id": "s2-t038",
+      "front": "No tendrás que encargarte de eso.",
+      "back": "Du wirst dich nicht darum kümmern müssen."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Al final no tendremos que mudarnos.",
+      "back": "Wir werden nun doch nicht umziehen müssen."
+    },
+    {
+      "id": "s2-t040",
+      "front": "Espero no tener que hacer horas extra.",
+      "back": "Ich hoffe, ich werde keine Überstunden machen müssen."
+    },
+    {
+      "id": "s2-t041",
+      "front": "No tendré que aceptar el primer trabajo que aparezca.",
+      "back": "Ich werde nicht die erstbeste Stelle annehmen müssen."
+    },
+    {
+      "id": "s2-t042",
+      "front": "¿Tendré que pagar los daños?",
+      "back": "Werde ich den Schaden bezahlen müssen?"
+    },
+    {
+      "id": "s2-t043",
+      "front": "¿Tendremos que cumplir el plazo pese a todo?",
+      "back": "Werden wir die Frist trotz allem einhalten müssen?"
+    },
+    {
+      "id": "s2-t044",
+      "front": "¿Tendrá alguien que hacer el turno de tarde?",
+      "back": "Wird jemand den Spätdienst übernehmen müssen?"
+    },
+    {
+      "id": "s2-t045",
+      "front": "¿Tendré que hacer dieta antes de la operación?",
+      "back": "Werde ich vor der OP eine Diät machen müssen?"
+    },
+    {
+      "id": "s2-t046",
+      "front": "¿Tendrá que quedarse ella en el hospital tras la operación?",
+      "back": "Wird sie nach der OP im Krankenhaus bleiben müssen?"
+    },
+    {
+      "id": "s2-t047",
+      "front": "¿Tendré que pagar yo mismo los gastos médicos?",
+      "back": "Werde ich die Arztkosten selbst bezahlen müssen?"
+    },
+    {
+      "id": "s2-t048",
+      "front": "¿Es posible que ella tenga que dejar el piso?",
+      "back": "Wird sie unter Umständen ausziehen müssen?"
+    },
+    {
+      "id": "s2-t049",
+      "front": "¿Es posible que él tenga que repetir curso?",
+      "back": "Wird er unter Umständen das Schuljahr wiederholen müssen?"
+    },
+    {
+      "id": "s2-t050",
+      "front": "¿Tendrá que tomar clases de apoyo si esto sigue así?",
+      "back": "Wird sie Nachhilfeunterricht nehmen müssen, falls es so weitergeht?"
+    },
+    {
+      "id": "s2-t051",
+      "front": "Ich werde bald wieder arbeiten können.",
+      "back": "Pronto podré volver a trabajar."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Er wird bald wieder laufen können.",
+      "back": "Él pronto podrá volver a caminar."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Sie wird bald wieder hören können.",
+      "back": "Ella pronto podrá volver a oír."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Wir werden heute Abend wieder ausgehen können.",
+      "back": "Esta noche podremos volver a salir."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Wir werden unmöglich die Frist einhalten können.",
+      "back": "Nos será imposible cumplir el plazo."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Ich werde in Zukunft Vollzeit arbeiten können.",
+      "back": "A partir de ahora podré trabajar a jornada completa."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Wir werden in Zukunft mehr Personal einstellen können.",
+      "back": "A partir de ahora podremos contratar más personal."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Nur wenn du rechtzeitig lernst, wirst du die Prüfung bestehen können.",
+      "back": "Solo si estudias a tiempo podrás aprobar."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Wenn es ihm besser geht, wird er wieder Sport machen können.",
+      "back": "Si mejora, podrá volver a hacer deporte."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Wenn du dich beeilst, wirst du den Bericht abgeben können.",
+      "back": "Si te das prisa, podrás entregar el informe."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Ich werde nicht mitgehen können.",
+      "back": "No podré ir con vosotros."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Ich werde den Bericht nicht abgeben können.",
+      "back": "No podré entregar el informe."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Ich werde dieses Jahr nicht auf die Feier gehen können.",
+      "back": "Este año no podré ir a la fiesta."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Er wird nicht in den Urlaub fahren können.",
+      "back": "Él no podrá irse de vacaciones."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Meine Patentante wird nicht zu meiner Hochzeit kommen können.",
+      "back": "Mi madrina no podrá venir a mi boda."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Wir werden unter diesen Umständen die Frist nicht einhalten können.",
+      "back": "En estas circunstancias no podremos cumplir el plazo."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Ich werde dieses Jahr keine großen Ausgaben machen können.",
+      "back": "Este año no podré hacer grandes gastos."
+    },
+    {
+      "id": "s2-t068",
+      "front": "In Zukunft werde ich keine Überstunden machen können.",
+      "back": "A partir de ahora no podré hacer horas extra."
+    },
+    {
+      "id": "s2-t069",
+      "front": "Wenn wir so weitermachen, werden wir die Frist nicht einhalten können.",
+      "back": "Si seguimos así, no podremos cumplir el plazo."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Da er einen Unfall hatte, wird er nicht mehr Fußball spielen können.",
+      "back": "Como tuvo un accidente, no podrá jugar al fútbol."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Werden wir die Frist einhalten können?",
+      "back": "¿Podremos cumplir el plazo?"
+    },
+    {
+      "id": "s2-t072",
+      "front": "Wird er jemals wieder laufen können?",
+      "back": "¿Podrá él volver a andar alguna vez?"
+    },
+    {
+      "id": "s2-t073",
+      "front": "Wird jemand den Frühdienst übernehmen können?",
+      "back": "¿Podrá alguien asumir el turno de mañana?"
+    },
+    {
+      "id": "s2-t074",
+      "front": "Wann werden wir die Fotos anschauen können?",
+      "back": "¿Cuándo podremos ver las fotos?"
+    },
+    {
+      "id": "s2-t075",
+      "front": "Wird er die Hausarbeit abgeben können, wenn er so weitermacht?",
+      "back": "¿Podrá entregar el trabajo si sigue así?"
+    },
+    {
+      "id": "s2-t076",
+      "front": "Ich werde ihr die Wahrheit sagen müssen.",
+      "back": "Tendré que decirle la verdad."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Die Bürgermeisterin wird die Verantwortung übernehmen müssen.",
+      "back": "La alcaldesa tendrá que asumir la responsabilidad."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Die Stadt wird das Freibad renovieren müssen.",
+      "back": "El ayuntamiento tendrá que reformar la piscina."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Früher oder später wirst du es ihm sagen müssen.",
+      "back": "Tarde o temprano tendrás que decírselo."
+    },
+    {
+      "id": "s2-t080",
+      "front": "Früher oder später werden Sie mit dem Rauchen aufhören müssen.",
+      "back": "Tarde o temprano tendrá que dejar de fumar."
+    },
+    {
+      "id": "s2-t081",
+      "front": "Wenn sie sich nicht meldet, werden wir die Polizei rufen müssen.",
+      "back": "Si ella no da señales, tendremos que llamar a la policía."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Falls sich das Wetter verschlechtert, werden wir mit dem Zug fahren müssen.",
+      "back": "Si empeora el tiempo, tendremos que ir en tren."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Falls sich deine Noten nicht verbessern, wirst du Nachhilfeunterricht nehmen müssen.",
+      "back": "Si tus notas no mejoran, tendrás que tomar clases de apoyo."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Dann werde ich wohl ein Taxi nehmen müssen.",
+      "back": "Pues entonces tendré que coger un taxi."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Dann werden wir uns wohl beeilen müssen.",
+      "back": "Pues entonces tendremos que darnos prisa."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Sie werden die Rechnung nicht bezahlen müssen.",
+      "back": "No tendrá que pagar la factura."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Ich werde schlussendlich nicht ausziehen müssen.",
+      "back": "Al final no tendré que dejar el piso."
+    },
+    {
+      "id": "s2-t088",
+      "front": "Du wirst dich nicht darum kümmern müssen.",
+      "back": "No tendrás que encargarte de eso."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Wir werden nun doch nicht umziehen müssen.",
+      "back": "Al final no tendremos que mudarnos."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Ich hoffe, ich werde keine Überstunden machen müssen.",
+      "back": "Espero no tener que hacer horas extra."
+    },
+    {
+      "id": "s2-t091",
+      "front": "Ich werde nicht die erstbeste Stelle annehmen müssen.",
+      "back": "No tendré que aceptar el primer trabajo que aparezca."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Werde ich den Schaden bezahlen müssen?",
+      "back": "¿Tendré que pagar los daños?"
+    },
+    {
+      "id": "s2-t093",
+      "front": "Werden wir die Frist trotz allem einhalten müssen?",
+      "back": "¿Tendremos que cumplir el plazo pese a todo?"
+    },
+    {
+      "id": "s2-t094",
+      "front": "Wird jemand den Spätdienst übernehmen müssen?",
+      "back": "¿Tendrá alguien que hacer el turno de tarde?"
+    },
+    {
+      "id": "s2-t095",
+      "front": "Werde ich vor der OP eine Diät machen müssen?",
+      "back": "¿Tendré que hacer dieta antes de la operación?"
+    },
+    {
+      "id": "s2-t096",
+      "front": "Wird sie nach der OP im Krankenhaus bleiben müssen?",
+      "back": "¿Tendrá que quedarse ella en el hospital tras la operación?"
+    },
+    {
+      "id": "s2-t097",
+      "front": "Werde ich die Arztkosten selbst bezahlen müssen?",
+      "back": "¿Tendré que pagar yo mismo los gastos médicos?"
+    },
+    {
+      "id": "s2-t098",
+      "front": "Wird sie unter Umständen ausziehen müssen?",
+      "back": "¿Es posible que ella tenga que dejar el piso?"
+    },
+    {
+      "id": "s2-t099",
+      "front": "Wird er unter Umständen das Schuljahr wiederholen müssen?",
+      "back": "¿Es posible que él tenga que repetir curso?"
+    },
+    {
+      "id": "s2-t100",
+      "front": "Wird sie Nachhilfeunterricht nehmen müssen, falls es so weitergeht?",
+      "back": "¿Tendrá que tomar clases de apoyo si esto sigue así?"
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Cómo se forma el futuro con un modal?",
+      "back": "werden conjugado + infinitivo principal + modal en infinitivo."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Cuál es el orden de los infinitivos?",
+      "back": "Primero el verbo principal y al final el modal: arbeiten können."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Cómo se pregunta en futuro?",
+      "back": "Se coloca werden antes del sujeto: Wirst du ... können?"
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Cómo se niega normalmente?",
+      "back": "Con nicht antes del elemento negado o del bloque verbal final."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Cómo se niega un sustantivo indefinido?",
+      "back": "Con kein declinado: keine Überstunden machen können."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Qué significa in Zukunft?",
+      "back": "A partir de ahora; «en el futuro» es in der Zukunft."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Qué significa jemals?",
+      "back": "Alguna vez, incluso alguna vez en el futuro."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Qué significa unter diesen Umständen?",
+      "back": "En estas circunstancias."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Qué significa unter Umständen?",
+      "back": "Posiblemente / quizá."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Qué significa früher oder später?",
+      "back": "Tarde o temprano."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué significa nun doch nicht?",
+      "back": "Pues al final no."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Qué diferencia hay entre weitergehen y weitermachen?",
+      "back": "weitergehen se usa con una situación; weitermachen, con una persona."
+    }
+  ]
+}
+
