@@ -26,11 +26,6 @@
       "back": "denken"
     },
     {
-      "id": "s2-005",
-      "front": "eco",
-      "back": "echoen"
-    },
-    {
       "id": "s2-006",
       "front": "ir en vehículo / conducir",
       "back": "fahren"
@@ -111,14 +106,14 @@
       "back": "müssen"
     },
     {
+      "id": "s2-033",
+      "front": "fumar",
+      "back": "rauchen"
+    },
+    {
       "id": "s2-022",
       "front": "lluvia",
       "back": "regnen"
-    },
-    {
-      "id": "s2-023",
-      "front": "correr hacia abajo",
-      "back": "rinnen"
     },
     {
       "id": "s2-024",
@@ -164,6 +159,11 @@
       "id": "s2-032",
       "front": "vivir / residir",
       "back": "wohnen"
+    },
+    {
+      "id": "s2-034",
+      "front": "querer",
+      "back": "wollen"
     }
   ]
 }
