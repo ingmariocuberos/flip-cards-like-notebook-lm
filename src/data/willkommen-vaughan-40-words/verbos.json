@@ -1,0 +1,499 @@
+{
+  "bookId": "willkommen-vaughan-40-words",
+  "bookTitle": "Buch 40 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "recoger",
+      "back": "abholen"
+    },
+    {
+      "id": "s2-002",
+      "front": "empezar",
+      "back": "anfangen"
+    },
+    {
+      "id": "s2-003",
+      "front": "tener en",
+      "back": "anhaben"
+    },
+    {
+      "id": "s2-004",
+      "front": "llegar",
+      "back": "ankommen"
+    },
+    {
+      "id": "s2-005",
+      "front": "llamar",
+      "back": "anrufen"
+    },
+    {
+      "id": "s2-006",
+      "front": "haz un esfuerzo",
+      "back": "anstrengen"
+    },
+    {
+      "id": "s2-007",
+      "front": "trabajar",
+      "back": "arbeiten"
+    },
+    {
+      "id": "s2-008",
+      "front": "abrir",
+      "back": "aufmachen"
+    },
+    {
+      "id": "s2-009",
+      "front": "grabar",
+      "back": "aufnehmen"
+    },
+    {
+      "id": "s2-010",
+      "front": "ten cuidado",
+      "back": "aufpassen"
+    },
+    {
+      "id": "s2-011",
+      "front": "levántate",
+      "back": "aufstehen"
+    },
+    {
+      "id": "s2-012",
+      "front": "despierta",
+      "back": "aufwachen"
+    },
+    {
+      "id": "s2-013",
+      "front": "pedir prestado",
+      "back": "ausleihen"
+    },
+    {
+      "id": "s2-014",
+      "front": "hornear",
+      "back": "backen"
+    },
+    {
+      "id": "s2-015",
+      "front": "date prisa",
+      "back": "beeilen"
+    },
+    {
+      "id": "s2-016",
+      "front": "recibir",
+      "back": "bekommen"
+    },
+    {
+      "id": "s2-017",
+      "front": "orden",
+      "back": "bestellen"
+    },
+    {
+      "id": "s2-018",
+      "front": "aplicar",
+      "back": "bewerben"
+    },
+    {
+      "id": "s2-019",
+      "front": "quedarse",
+      "back": "bleiben"
+    },
+    {
+      "id": "s2-020",
+      "front": "pensar",
+      "back": "denken"
+    },
+    {
+      "id": "s2-021",
+      "front": "poder / tener permiso",
+      "back": "dürfen"
+    },
+    {
+      "id": "s2-022",
+      "front": "compras",
+      "back": "einkaufen"
+    },
+    {
+      "id": "s2-023",
+      "front": "invitar",
+      "back": "einladen"
+    },
+    {
+      "id": "s2-024",
+      "front": "conjunto",
+      "back": "einstellen"
+    },
+    {
+      "id": "s2-025",
+      "front": "recomendar",
+      "back": "empfehlen"
+    },
+    {
+      "id": "s2-026",
+      "front": "coger un resfriado",
+      "back": "erkälten"
+    },
+    {
+      "id": "s2-027",
+      "front": "susto",
+      "back": "erschrecken"
+    },
+    {
+      "id": "s2-028",
+      "front": "decir",
+      "back": "erzählen"
+    },
+    {
+      "id": "s2-029",
+      "front": "comer",
+      "back": "essen"
+    },
+    {
+      "id": "s2-030",
+      "front": "ir en vehículo / conducir",
+      "back": "fahren"
+    },
+    {
+      "id": "s2-031",
+      "front": "encontrar",
+      "back": "finden"
+    },
+    {
+      "id": "s2-032",
+      "front": "preguntar",
+      "back": "fragen"
+    },
+    {
+      "id": "s2-033",
+      "front": "sentir",
+      "back": "fühlen"
+    },
+    {
+      "id": "s2-034",
+      "front": "dar",
+      "back": "geben"
+    },
+    {
+      "id": "s2-035",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-036",
+      "front": "ganar",
+      "back": "gewinnen"
+    },
+    {
+      "id": "s2-037",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-038",
+      "front": "ayuda",
+      "back": "helfen"
+    },
+    {
+      "id": "s2-039",
+      "front": "comprar",
+      "back": "kaufen"
+    },
+    {
+      "id": "s2-040",
+      "front": "sonido",
+      "back": "klingen"
+    },
+    {
+      "id": "s2-041",
+      "front": "venir / pasarse",
+      "back": "kommen"
+    },
+    {
+      "id": "s2-042",
+      "front": "poder / saber hacer algo",
+      "back": "können"
+    },
+    {
+      "id": "s2-043",
+      "front": "correr",
+      "back": "laufen"
+    },
+    {
+      "id": "s2-044",
+      "front": "aprender / estudiar",
+      "back": "lernen"
+    },
+    {
+      "id": "s2-045",
+      "front": "alejarse",
+      "back": "losfahren"
+    },
+    {
+      "id": "s2-046",
+      "front": "irse / ponerse en marcha",
+      "back": "losgehen"
+    },
+    {
+      "id": "s2-047",
+      "front": "hacer",
+      "back": "machen"
+    },
+    {
+      "id": "s2-048",
+      "front": "significar",
+      "back": "meinen"
+    },
+    {
+      "id": "s2-049",
+      "front": "informe",
+      "back": "melden"
+    },
+    {
+      "id": "s2-050",
+      "front": "recuerda (merken)",
+      "back": "merken"
+    },
+    {
+      "id": "s2-051",
+      "front": "trae contigo",
+      "back": "mitbringen"
+    },
+    {
+      "id": "s2-052",
+      "front": "montar a lo largo",
+      "back": "mitfahren"
+    },
+    {
+      "id": "s2-053",
+      "front": "seguir adelante",
+      "back": "mitgehen"
+    },
+    {
+      "id": "s2-054",
+      "front": "ayudar",
+      "back": "mithelfen"
+    },
+    {
+      "id": "s2-055",
+      "front": "ven conmigo",
+      "back": "mitkommen"
+    },
+    {
+      "id": "s2-056",
+      "front": "únete a",
+      "back": "mitmachen"
+    },
+    {
+      "id": "s2-057",
+      "front": "llévate contigo",
+      "back": "mitnehmen"
+    },
+    {
+      "id": "s2-058",
+      "front": "tener que / deber",
+      "back": "müssen"
+    },
+    {
+      "id": "s2-059",
+      "front": "preguntar (nachfragen)",
+      "back": "nachfragen"
+    },
+    {
+      "id": "s2-060",
+      "front": "sal",
+      "back": "nachkommen"
+    },
+    {
+      "id": "s2-061",
+      "front": "tomar",
+      "back": "nehmen"
+    },
+    {
+      "id": "s2-062",
+      "front": "parque",
+      "back": "parken"
+    },
+    {
+      "id": "s2-063",
+      "front": "lluvia",
+      "back": "regnen"
+    },
+    {
+      "id": "s2-064",
+      "front": "reservar",
+      "back": "reservieren"
+    },
+    {
+      "id": "s2-065",
+      "front": "llamar (rufen)",
+      "back": "rufen"
+    },
+    {
+      "id": "s2-066",
+      "front": "decir (sagen)",
+      "back": "sagen"
+    },
+    {
+      "id": "s2-067",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-068",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-069",
+      "front": "deber / tener que",
+      "back": "sollen"
+    },
+    {
+      "id": "s2-070",
+      "front": "hablar",
+      "back": "sprechen"
+    },
+    {
+      "id": "s2-071",
+      "front": "estar de pie / encontrarse en posición vertical",
+      "back": "stehen"
+    },
+    {
+      "id": "s2-072",
+      "front": "de acuerdo",
+      "back": "stimmen"
+    },
+    {
+      "id": "s2-073",
+      "front": "estudiar",
+      "back": "studieren"
+    },
+    {
+      "id": "s2-074",
+      "front": "reunirse",
+      "back": "treffen"
+    },
+    {
+      "id": "s2-075",
+      "front": "separar",
+      "back": "trennen"
+    },
+    {
+      "id": "s2-076",
+      "front": "beber",
+      "back": "trinken"
+    },
+    {
+      "id": "s2-077",
+      "front": "hacer (tun)",
+      "back": "tun"
+    },
+    {
+      "id": "s2-078",
+      "front": "izquierda",
+      "back": "überlassen"
+    },
+    {
+      "id": "s2-079",
+      "front": "considerar",
+      "back": "überlegen"
+    },
+    {
+      "id": "s2-080",
+      "front": "hacerse cargo",
+      "back": "übernehmen"
+    },
+    {
+      "id": "s2-081",
+      "front": "transferir",
+      "back": "überweisen"
+    },
+    {
+      "id": "s2-082",
+      "front": "cambiar",
+      "back": "umsteigen"
+    },
+    {
+      "id": "s2-083",
+      "front": "empresa",
+      "back": "unternehmen"
+    },
+    {
+      "id": "s2-084",
+      "front": "mejorar",
+      "back": "verbessern"
+    },
+    {
+      "id": "s2-085",
+      "front": "procedimiento",
+      "back": "verfahren"
+    },
+    {
+      "id": "s2-086",
+      "front": "correr (verlaufen)",
+      "back": "verlaufen"
+    },
+    {
+      "id": "s2-087",
+      "front": "señorita",
+      "back": "verpassen"
+    },
+    {
+      "id": "s2-088",
+      "front": "moverse",
+      "back": "verschieben"
+    },
+    {
+      "id": "s2-089",
+      "front": "entender",
+      "back": "verstehen"
+    },
+    {
+      "id": "s2-090",
+      "front": "ven aquí",
+      "back": "vorbeikommen"
+    },
+    {
+      "id": "s2-091",
+      "front": "esperar",
+      "back": "warten"
+    },
+    {
+      "id": "s2-092",
+      "front": "vete",
+      "back": "weggehen"
+    },
+    {
+      "id": "s2-093",
+      "front": "llegar a ser / convertirse",
+      "back": "werden"
+    },
+    {
+      "id": "s2-094",
+      "front": "querer",
+      "back": "wollen"
+    },
+    {
+      "id": "s2-095",
+      "front": "pagar",
+      "back": "zahlen"
+    },
+    {
+      "id": "s2-096",
+      "front": "permitir",
+      "back": "zulassen"
+    },
+    {
+      "id": "s2-097",
+      "front": "cerrar",
+      "back": "zumachen"
+    },
+    {
+      "id": "s2-098",
+      "front": "volver (zurückgehen)",
+      "back": "zurückgehen"
+    }
+  ]
+}
