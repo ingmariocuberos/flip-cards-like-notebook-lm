@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-49",
+  "bookTitle": "Buch 49",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: ausrichten, sagen y bestellen",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Dale saludos a tu hermano.",
+      "back": "Richte deinem Bruder Grüße aus."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Dale un abrazo a tu madre de mi parte.",
+      "back": "Richte deiner Mutter liebe Grüße von mir aus."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Dele recuerdos a sus padres.",
+      "back": "Richten Sie Ihren Eltern schöne Grüße aus."
+    },
+    {
+      "id": "s3-t004",
+      "front": "Dile que se ha dejado su bufanda.",
+      "back": "Richte ihr aus, dass sie ihren Schal vergessen hat."
+    },
+    {
+      "id": "s3-t005",
+      "front": "Diles que traigan leche del supermercado.",
+      "back": "Richte ihnen aus, dass sie Milch vom Supermarkt mitbringen sollen."
+    },
+    {
+      "id": "s3-t006",
+      "front": "Dígale que hoy llegaremos un poco más tarde.",
+      "back": "Richten Sie ihm aus, dass wir heute etwas später kommen."
+    },
+    {
+      "id": "s3-t007",
+      "front": "Me han dicho que te dé muchos recuerdos.",
+      "back": "Ich soll dir schöne Grüße ausrichten."
+    },
+    {
+      "id": "s3-t008",
+      "front": "Me han dicho que os dé un abrazo.",
+      "back": "Ich soll euch liebe Grüße ausrichten."
+    },
+    {
+      "id": "s3-t009",
+      "front": "Me han dicho que te diga que te has dejado la bufanda en casa de Lena.",
+      "back": "Ich soll dir ausrichten, dass du deinen Schal bei Lena vergessen hast."
+    },
+    {
+      "id": "s3-t010",
+      "front": "Me han dicho que le diga que ha llamado el señor Berger.",
+      "back": "Ich soll Ihnen ausrichten, dass Herr Berger angerufen hat."
+    },
+    {
+      "id": "s3-t011",
+      "front": "Pero tenías que decirle que he llamado.",
+      "back": "Du solltest ihm doch ausrichten, dass ich angerufen habe."
+    },
+    {
+      "id": "s3-t012",
+      "front": "Pero teníais que decirles que la cita se ha aplazado.",
+      "back": "Ihr solltet ihnen doch ausrichten, dass der Termin verschoben wurde."
+    },
+    {
+      "id": "s3-t013",
+      "front": "Dale saludos a tu prima de mi parte.",
+      "back": "Richte deiner Cousine Grüße von mir aus."
+    },
+    {
+      "id": "s3-t014",
+      "front": "Dale saludos a tu primo de nuestra parte.",
+      "back": "Richte deinem Cousin Grüße von uns aus."
+    },
+    {
+      "id": "s3-t015",
+      "front": "Dele un abrazo a su madre de mi parte.",
+      "back": "Richten Sie Ihrer Mutter liebe Grüße von mir aus."
+    },
+    {
+      "id": "s3-t016",
+      "front": "Dile de nuestra parte que se ponga en contacto con nosotros.",
+      "back": "Richte ihm von uns aus, dass er sich melden soll."
+    },
+    {
+      "id": "s3-t017",
+      "front": "Dígale de mi parte que se ponga en contacto conmigo cuanto antes.",
+      "back": "Richten Sie ihr von mir aus, dass sie sich so bald wie möglich melden soll."
+    },
+    {
+      "id": "s3-t018",
+      "front": "Decidle de mi parte que lo llamo mañana.",
+      "back": "Richtet ihm von mir aus, dass ich ihn morgen anrufe."
+    },
+    {
+      "id": "s3-t019",
+      "front": "Ella me ha dicho que te dé recuerdos de su parte.",
+      "back": "Ich soll dir schöne Grüße von ihr ausrichten."
+    },
+    {
+      "id": "s3-t020",
+      "front": "Me ha dicho el jefe que le diga que la reunión será aplazada.",
+      "back": "Ich soll Ihnen vom Chef ausrichten, dass die Besprechung verschoben wird."
+    },
+    {
+      "id": "s3-t021",
+      "front": "Nos ha dicho tu madre que te digamos que ha llegado una carta para ti.",
+      "back": "Wir sollen dir von deiner Mutter ausrichten, dass ein Brief für dich angekommen ist."
+    },
+    {
+      "id": "s3-t022",
+      "front": "¿Puedes decirle algo?",
+      "back": "Kannst du ihm etwas ausrichten?"
+    },
+    {
+      "id": "s3-t023",
+      "front": "¿Puede decirle algo, por favor?",
+      "back": "Können Sie ihr bitte etwas ausrichten?"
+    },
+    {
+      "id": "s3-t024",
+      "front": "¿Puedes decirle que le devolveré la llamada más tarde?",
+      "back": "Kannst du ihr ausrichten, dass ich sie später zurückrufe?"
+    },
+    {
+      "id": "s3-t025",
+      "front": "¿Puede decirle que la reunión se ha aplazado?",
+      "back": "Können Sie ihr ausrichten, dass das Meeting verschoben wird?"
+    },
+    {
+      "id": "s3-t026",
+      "front": "¿Le digo algo al señor Ziegel?",
+      "back": "Soll ich Herrn Ziegel etwas ausrichten?"
+    },
+    {
+      "id": "s3-t027",
+      "front": "¿Les digo algo a los demás?",
+      "back": "Soll ich den anderen etwas ausrichten?"
+    },
+    {
+      "id": "s3-t028",
+      "front": "¿Quieres que le diga que has llamado?",
+      "back": "Soll ich ihr ausrichten, dass du angerufen hast?"
+    },
+    {
+      "id": "s3-t029",
+      "front": "¿Le has dicho que me llame?",
+      "back": "Hast du ihm ausgerichtet, dass er mich anrufen soll?"
+    },
+    {
+      "id": "s3-t030",
+      "front": "¿Le has dicho que el vuelo lleva retraso?",
+      "back": "Hast du ihr ausgerichtet, dass der Flug Verspätung hat?"
+    },
+    {
+      "id": "s3-t031",
+      "front": "¿Puedes decirle algo de mi parte?",
+      "back": "Kannst du ihm etwas von mir ausrichten?"
+    },
+    {
+      "id": "s3-t032",
+      "front": "¿Le digo algo de tu parte?",
+      "back": "Kann ich ihm etwas von dir ausrichten?"
+    },
+    {
+      "id": "s3-t033",
+      "front": "¿Le digo al señor Olfen algo de su parte?",
+      "back": "Soll ich Herrn Olfen etwas von Ihnen ausrichten?"
+    },
+    {
+      "id": "s3-t034",
+      "front": "¿Le digo de vuestra parte que venís más tarde de lo esperado?",
+      "back": "Soll ich ihm von euch ausrichten, dass ihr später kommt als erwartet?"
+    },
+    {
+      "id": "s3-t035",
+      "front": "¿Le has dicho de mi parte que se traiga un saco de dormir?",
+      "back": "Hast du ihm von mir ausgerichtet, dass er einen Schlafsack mitbringen soll?"
+    },
+    {
+      "id": "s3-t036",
+      "front": "Da recuerdos de mi parte a tu abuelo.",
+      "back": "Sag deinem Opa schöne Grüße von mir."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Dad recuerdos de mi parte a vuestra prima.",
+      "back": "Sagt eurer Cousine einen schönen Gruß von mir."
+    },
+    {
+      "id": "s3-t038",
+      "front": "Dile de mi parte que dé señales de vida.",
+      "back": "Sag ihm von mir, dass er sich melden soll."
+    },
+    {
+      "id": "s3-t039",
+      "front": "Dile de mi parte que dé señales de vida cuanto antes.",
+      "back": "Sag ihr von mir, dass sie sich so bald wie möglich melden soll."
+    },
+    {
+      "id": "s3-t040",
+      "front": "Decidles de nuestra parte que los llamamos mañana.",
+      "back": "Sagt ihnen von uns, dass wir sie morgen anrufen."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Me ha dicho la señora Mertel que le diga que le devuelva la llamada.",
+      "back": "Ich soll Ihnen von Frau Mertel sagen, dass Sie sie zurückrufen sollen."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Me ha dicho tu madre que te diga que ha llegado un paquete para ti.",
+      "back": "Ich soll dir von deiner Mutter sagen, dass ein Paket für dich angekommen ist."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Pero tenías que decirle de mi parte que he llamado.",
+      "back": "Du solltest ihm doch von mir sagen, dass ich angerufen habe."
+    },
+    {
+      "id": "s3-t044",
+      "front": "Dale recuerdos.",
+      "back": "Bestell schöne Grüße."
+    },
+    {
+      "id": "s3-t045",
+      "front": "Dale un abrazo.",
+      "back": "Bestell liebe Grüße."
+    },
+    {
+      "id": "s3-t046",
+      "front": "Dile que se mejore.",
+      "back": "Bestell ihm gute Besserung."
+    },
+    {
+      "id": "s3-t047",
+      "front": "Dadle un abrazo muy fuerte y decidle que se mejore.",
+      "back": "Bestellt ihm einen lieben Gruß und gute Besserung."
+    },
+    {
+      "id": "s3-t048",
+      "front": "Da recuerdos de nuestra parte a tus padres.",
+      "back": "Bestell deinen Eltern liebe Grüße von uns."
+    },
+    {
+      "id": "s3-t049",
+      "front": "¿Le puedes dar recuerdos de mi parte?",
+      "back": "Kannst du ihr einen lieben Gruß von mir bestellen?"
+    },
+    {
+      "id": "s3-t050",
+      "front": "¿Le digo que se mejore de tu parte?",
+      "back": "Soll ich ihr gute Besserung von dir bestellen?"
+    },
+    {
+      "id": "s3-t051",
+      "front": "Richte deinem Bruder Grüße aus.",
+      "back": "Dale saludos a tu hermano."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Richte deiner Mutter liebe Grüße von mir aus.",
+      "back": "Dale un abrazo a tu madre de mi parte."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Richten Sie Ihren Eltern schöne Grüße aus.",
+      "back": "Dele recuerdos a sus padres."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Richte ihr aus, dass sie ihren Schal vergessen hat.",
+      "back": "Dile que se ha dejado su bufanda."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Richte ihnen aus, dass sie Milch vom Supermarkt mitbringen sollen.",
+      "back": "Diles que traigan leche del supermercado."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Richten Sie ihm aus, dass wir heute etwas später kommen.",
+      "back": "Dígale que hoy llegaremos un poco más tarde."
+    },
+    {
+      "id": "s3-t057",
+      "front": "Ich soll dir schöne Grüße ausrichten.",
+      "back": "Me han dicho que te dé muchos recuerdos."
+    },
+    {
+      "id": "s3-t058",
+      "front": "Ich soll euch liebe Grüße ausrichten.",
+      "back": "Me han dicho que os dé un abrazo."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Ich soll dir ausrichten, dass du deinen Schal bei Lena vergessen hast.",
+      "back": "Me han dicho que te diga que te has dejado la bufanda en casa de Lena."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Ich soll Ihnen ausrichten, dass Herr Berger angerufen hat.",
+      "back": "Me han dicho que le diga que ha llamado el señor Berger."
+    },
+    {
+      "id": "s3-t061",
+      "front": "Du solltest ihm doch ausrichten, dass ich angerufen habe.",
+      "back": "Pero tenías que decirle que he llamado."
+    },
+    {
+      "id": "s3-t062",
+      "front": "Ihr solltet ihnen doch ausrichten, dass der Termin verschoben wurde.",
+      "back": "Pero teníais que decirles que la cita se ha aplazado."
+    },
+    {
+      "id": "s3-t063",
+      "front": "Richte deiner Cousine Grüße von mir aus.",
+      "back": "Dale saludos a tu prima de mi parte."
+    },
+    {
+      "id": "s3-t064",
+      "front": "Richte deinem Cousin Grüße von uns aus.",
+      "back": "Dale saludos a tu primo de nuestra parte."
+    },
+    {
+      "id": "s3-t065",
+      "front": "Richten Sie Ihrer Mutter liebe Grüße von mir aus.",
+      "back": "Dele un abrazo a su madre de mi parte."
+    },
+    {
+      "id": "s3-t066",
+      "front": "Richte ihm von uns aus, dass er sich melden soll.",
+      "back": "Dile de nuestra parte que se ponga en contacto con nosotros."
+    },
+    {
+      "id": "s3-t067",
+      "front": "Richten Sie ihr von mir aus, dass sie sich so bald wie möglich melden soll.",
+      "back": "Dígale de mi parte que se ponga en contacto conmigo cuanto antes."
+    },
+    {
+      "id": "s3-t068",
+      "front": "Richtet ihm von mir aus, dass ich ihn morgen anrufe.",
+      "back": "Decidle de mi parte que lo llamo mañana."
+    },
+    {
+      "id": "s3-t069",
+      "front": "Ich soll dir schöne Grüße von ihr ausrichten.",
+      "back": "Ella me ha dicho que te dé recuerdos de su parte."
+    },
+    {
+      "id": "s3-t070",
+      "front": "Ich soll Ihnen vom Chef ausrichten, dass die Besprechung verschoben wird.",
+      "back": "Me ha dicho el jefe que le diga que la reunión será aplazada."
+    },
+    {
+      "id": "s3-t071",
+      "front": "Wir sollen dir von deiner Mutter ausrichten, dass ein Brief für dich angekommen ist.",
+      "back": "Nos ha dicho tu madre que te digamos que ha llegado una carta para ti."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Kannst du ihm etwas ausrichten?",
+      "back": "¿Puedes decirle algo?"
+    },
+    {
+      "id": "s3-t073",
+      "front": "Können Sie ihr bitte etwas ausrichten?",
+      "back": "¿Puede decirle algo, por favor?"
+    },
+    {
+      "id": "s3-t074",
+      "front": "Kannst du ihr ausrichten, dass ich sie später zurückrufe?",
+      "back": "¿Puedes decirle que le devolveré la llamada más tarde?"
+    },
+    {
+      "id": "s3-t075",
+      "front": "Können Sie ihr ausrichten, dass das Meeting verschoben wird?",
+      "back": "¿Puede decirle que la reunión se ha aplazado?"
+    },
+    {
+      "id": "s3-t076",
+      "front": "Soll ich Herrn Ziegel etwas ausrichten?",
+      "back": "¿Le digo algo al señor Ziegel?"
+    },
+    {
+      "id": "s3-t077",
+      "front": "Soll ich den anderen etwas ausrichten?",
+      "back": "¿Les digo algo a los demás?"
+    },
+    {
+      "id": "s3-t078",
+      "front": "Soll ich ihr ausrichten, dass du angerufen hast?",
+      "back": "¿Quieres que le diga que has llamado?"
+    },
+    {
+      "id": "s3-t079",
+      "front": "Hast du ihm ausgerichtet, dass er mich anrufen soll?",
+      "back": "¿Le has dicho que me llame?"
+    },
+    {
+      "id": "s3-t080",
+      "front": "Hast du ihr ausgerichtet, dass der Flug Verspätung hat?",
+      "back": "¿Le has dicho que el vuelo lleva retraso?"
+    },
+    {
+      "id": "s3-t081",
+      "front": "Kannst du ihm etwas von mir ausrichten?",
+      "back": "¿Puedes decirle algo de mi parte?"
+    },
+    {
+      "id": "s3-t082",
+      "front": "Kann ich ihm etwas von dir ausrichten?",
+      "back": "¿Le digo algo de tu parte?"
+    },
+    {
+      "id": "s3-t083",
+      "front": "Soll ich Herrn Olfen etwas von Ihnen ausrichten?",
+      "back": "¿Le digo al señor Olfen algo de su parte?"
+    },
+    {
+      "id": "s3-t084",
+      "front": "Soll ich ihm von euch ausrichten, dass ihr später kommt als erwartet?",
+      "back": "¿Le digo de vuestra parte que venís más tarde de lo esperado?"
+    },
+    {
+      "id": "s3-t085",
+      "front": "Hast du ihm von mir ausgerichtet, dass er einen Schlafsack mitbringen soll?",
+      "back": "¿Le has dicho de mi parte que se traiga un saco de dormir?"
+    },
+    {
+      "id": "s3-t086",
+      "front": "Sag deinem Opa schöne Grüße von mir.",
+      "back": "Da recuerdos de mi parte a tu abuelo."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Sagt eurer Cousine einen schönen Gruß von mir.",
+      "back": "Dad recuerdos de mi parte a vuestra prima."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Sag ihm von mir, dass er sich melden soll.",
+      "back": "Dile de mi parte que dé señales de vida."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Sag ihr von mir, dass sie sich so bald wie möglich melden soll.",
+      "back": "Dile de mi parte que dé señales de vida cuanto antes."
+    },
+    {
+      "id": "s3-t090",
+      "front": "Sagt ihnen von uns, dass wir sie morgen anrufen.",
+      "back": "Decidles de nuestra parte que los llamamos mañana."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Ich soll Ihnen von Frau Mertel sagen, dass Sie sie zurückrufen sollen.",
+      "back": "Me ha dicho la señora Mertel que le diga que le devuelva la llamada."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Ich soll dir von deiner Mutter sagen, dass ein Paket für dich angekommen ist.",
+      "back": "Me ha dicho tu madre que te diga que ha llegado un paquete para ti."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Du solltest ihm doch von mir sagen, dass ich angerufen habe.",
+      "back": "Pero tenías que decirle de mi parte que he llamado."
+    },
+    {
+      "id": "s3-t094",
+      "front": "Bestell schöne Grüße.",
+      "back": "Dale recuerdos."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Bestell liebe Grüße.",
+      "back": "Dale un abrazo."
+    },
+    {
+      "id": "s3-t096",
+      "front": "Bestell ihm gute Besserung.",
+      "back": "Dile que se mejore."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Bestellt ihm einen lieben Gruß und gute Besserung.",
+      "back": "Dadle un abrazo muy fuerte y decidle que se mejore."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Bestell deinen Eltern liebe Grüße von uns.",
+      "back": "Da recuerdos de nuestra parte a tus padres."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Kannst du ihr einen lieben Gruß von mir bestellen?",
+      "back": "¿Le puedes dar recuerdos de mi parte?"
+    },
+    {
+      "id": "s3-t100",
+      "front": "Soll ich ihr gute Besserung von dir bestellen?",
+      "back": "¿Le digo que se mejore de tu parte?"
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Qué significa ausrichten con Grüße?",
+      "back": "Dar o transmitir saludos: Richte ihm Grüße aus."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué significa ausrichten seguido de una subordinada con dass?",
+      "back": "Transmitir un recado o decirle a alguien que..."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿En qué caso va el destinatario con ausrichten?",
+      "back": "En dativo: ihm, ihr, den anderen, Herrn Ziegel."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Cómo se expresa «de parte de»?",
+      "back": "Con von + dativo: von mir, von uns, vom Chef."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Por qué ausrichten no se separa con un verbo modal?",
+      "back": "Porque queda como infinitivo al final: Ich soll Grüße ausrichten."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Cuál es el participio de ausrichten?",
+      "back": "Ausgerichtet: Hast du ihm das ausgerichtet?"
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Qué expresa Soll ich ihm etwas ausrichten?",
+      "back": "Un ofrecimiento: ¿Le digo algo de tu parte?"
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Qué orden tiene la subordinada después de ausrichten?",
+      "back": "Dass coloca el verbo conjugado al final: ..., dass du angerufen hast."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué puede sustituir a ausrichten para transmitir un mensaje?",
+      "back": "Jemandem etwas von jemandem sagen."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Cuándo puede bestellen equivaler a ausrichten?",
+      "back": "Con saludos y buenos deseos, como Grüße o gute Besserung."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Se usa bestellen para introducir una subordinada con dass en este sentido?",
+      "back": "No; para un recado con dass se emplea ausrichten o sagen."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Qué significa Es ist soweit!?",
+      "back": "¡Ha llegado la hora! o ¡Ha llegado el momento!"
+    }
+  ]
+}

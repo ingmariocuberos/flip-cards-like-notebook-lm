@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-49",
+  "bookTitle": "Buch 49",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: los usos de ausmachen",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "No me importa.",
+      "back": "Es macht mir nichts aus."
+    },
+    {
+      "id": "s2-t002",
+      "front": "No nos importa en absoluto.",
+      "back": "Das macht uns absolut nichts aus."
+    },
+    {
+      "id": "s2-t003",
+      "front": "Seguro que a él no le importa.",
+      "back": "Das macht ihm sicher nichts aus."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Créeme, seguro que a ella no le importa.",
+      "back": "Glaub mir, das macht ihr ganz sicher nichts aus."
+    },
+    {
+      "id": "s2-t005",
+      "front": "A la mayoría de la gente no le importa.",
+      "back": "Es macht den meisten Leuten nichts aus."
+    },
+    {
+      "id": "s2-t006",
+      "front": "A la mayoría de los clientes no les importa.",
+      "back": "Das macht den meisten Kunden nichts aus."
+    },
+    {
+      "id": "s2-t007",
+      "front": "No me importó.",
+      "back": "Es hat mir nichts ausgemacht."
+    },
+    {
+      "id": "s2-t008",
+      "front": "A ellos seguro que no les importó.",
+      "back": "Es hat ihnen sicher nichts ausgemacht."
+    },
+    {
+      "id": "s2-t009",
+      "front": "No me importa que mi marido sea más joven que yo.",
+      "back": "Es macht mir nichts aus, dass mein Mann jünger ist als ich."
+    },
+    {
+      "id": "s2-t010",
+      "front": "A él no le importa que su novia sea más alta que él.",
+      "back": "Es macht ihm nichts aus, dass seine Freundin größer ist als er."
+    },
+    {
+      "id": "s2-t011",
+      "front": "No me importa si tengo que ir solo.",
+      "back": "Es macht mir nichts aus, wenn ich allein gehen muss."
+    },
+    {
+      "id": "s2-t012",
+      "front": "No me importa si fumas en el balcón.",
+      "back": "Es macht mir nichts aus, wenn du auf dem Balkon rauchst."
+    },
+    {
+      "id": "s2-t013",
+      "front": "No nos importaría quedarnos hoy un poco más.",
+      "back": "Es würde uns nichts ausmachen, heute etwas länger zu bleiben."
+    },
+    {
+      "id": "s2-t014",
+      "front": "Seguro que no le importaría llevarte en coche.",
+      "back": "Es würde ihm bestimmt nichts ausmachen, dich mit dem Auto mitzunehmen."
+    },
+    {
+      "id": "s2-t015",
+      "front": "Seguro que a ella no le importará que llevemos al perro.",
+      "back": "Es wird ihr sicher nichts ausmachen, dass wir den Hund mitbringen."
+    },
+    {
+      "id": "s2-t016",
+      "front": "No me importó que perdiéramos.",
+      "back": "Es hat mir nichts ausgemacht, dass wir verloren haben."
+    },
+    {
+      "id": "s2-t017",
+      "front": "No me importó ir a recogerte.",
+      "back": "Es hat mir nichts ausgemacht, dich abzuholen."
+    },
+    {
+      "id": "s2-t018",
+      "front": "¿Te importa si fumo?",
+      "back": "Macht es dir etwas aus, wenn ich rauche?"
+    },
+    {
+      "id": "s2-t019",
+      "front": "¿Te importa si llevo a mi marido?",
+      "back": "Macht es dir etwas aus, wenn ich meinen Mann mitbringe?"
+    },
+    {
+      "id": "s2-t020",
+      "front": "¿Le importa si llevo a mi perro?",
+      "back": "Macht es Ihnen etwas aus, wenn ich meinen Hund mitbringe?"
+    },
+    {
+      "id": "s2-t021",
+      "front": "¿Te importaría si llamo a tu exnovia?",
+      "back": "Würde es dir etwas ausmachen, wenn ich deine Ex-Freundin anrufe?"
+    },
+    {
+      "id": "s2-t022",
+      "front": "¿Le importaría si no voy?",
+      "back": "Würde es Ihnen etwas ausmachen, wenn ich nicht mitkomme?"
+    },
+    {
+      "id": "s2-t023",
+      "front": "¿Crees que a él le importa?",
+      "back": "Glaubst du, dass es ihm etwas ausmacht?"
+    },
+    {
+      "id": "s2-t024",
+      "front": "¿Cree que a ellos les importa que aplacemos la reunión?",
+      "back": "Glauben Sie, dass es ihnen etwas ausmacht, wenn wir die Besprechung verschieben?"
+    },
+    {
+      "id": "s2-t025",
+      "front": "¿Te importa fumar en el balcón?",
+      "back": "Macht es dir etwas aus, auf dem Balkon zu rauchen?"
+    },
+    {
+      "id": "s2-t026",
+      "front": "¿Le importaría quedar más tarde?",
+      "back": "Würde es Ihnen etwas ausmachen, sich später zu treffen?"
+    },
+    {
+      "id": "s2-t027",
+      "front": "Fijaremos un punto de encuentro.",
+      "back": "Wir werden einen Treffpunkt ausmachen."
+    },
+    {
+      "id": "s2-t028",
+      "front": "He acordado con ella que me llame en cuanto esté en casa.",
+      "back": "Ich habe mit ihr ausgemacht, dass sie mich anruft, sobald sie zuhause ist."
+    },
+    {
+      "id": "s2-t029",
+      "front": "He acordado una hora con él.",
+      "back": "Ich habe eine Uhrzeit mit ihm ausgemacht."
+    },
+    {
+      "id": "s2-t030",
+      "front": "He acordado con ellos que avisen cuando hayan terminado.",
+      "back": "Ich habe mit ihnen ausgemacht, dass sie Bescheid sagen, wenn sie fertig sind."
+    },
+    {
+      "id": "s2-t031",
+      "front": "No hemos acordado ninguna hora.",
+      "back": "Wir haben keine Uhrzeit ausgemacht."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Todavía no hemos acordado ningún punto de encuentro.",
+      "back": "Wir haben noch keinen Treffpunkt ausgemacht."
+    },
+    {
+      "id": "s2-t033",
+      "front": "¿Habéis acordado una hora?",
+      "back": "Habt ihr eine Zeit ausgemacht?"
+    },
+    {
+      "id": "s2-t034",
+      "front": "¿Has acordado una hora concreta?",
+      "back": "Hast du eine bestimmte Zeit ausgemacht?"
+    },
+    {
+      "id": "s2-t035",
+      "front": "¿Han acordado un punto de encuentro concreto?",
+      "back": "Haben Sie einen bestimmten Treffpunkt ausgemacht?"
+    },
+    {
+      "id": "s2-t036",
+      "front": "¿Qué habéis acordado?",
+      "back": "Was habt ihr ausgemacht?"
+    },
+    {
+      "id": "s2-t037",
+      "front": "¿Qué han acordado exactamente?",
+      "back": "Was genau haben sie ausgemacht?"
+    },
+    {
+      "id": "s2-t038",
+      "front": "¿Has acordado una hora con él?",
+      "back": "Hast du eine Zeit mit ihm ausgemacht?"
+    },
+    {
+      "id": "s2-t039",
+      "front": "¿Acordamos una hora?",
+      "back": "Sollen wir eine Zeit ausmachen?"
+    },
+    {
+      "id": "s2-t040",
+      "front": "¿Fijo un punto de encuentro con él?",
+      "back": "Soll ich einen Treffpunkt mit ihm ausmachen?"
+    },
+    {
+      "id": "s2-t041",
+      "front": "¿Sabes si ya han acordado algo?",
+      "back": "Weißt du, ob sie schon etwas ausgemacht haben?"
+    },
+    {
+      "id": "s2-t042",
+      "front": "¿Sabe si él ha acordado una hora con el cliente?",
+      "back": "Wissen Sie, ob er eine Zeit mit dem Kunden ausgemacht hat?"
+    },
+    {
+      "id": "s2-t043",
+      "front": "Los daños de transporte representan la mitad de todas las reclamaciones.",
+      "back": "Lieferschäden machen die Hälfte aller Reklamationen aus."
+    },
+    {
+      "id": "s2-t044",
+      "front": "Las fracturas representan el 40 % de las urgencias.",
+      "back": "Knochenbrüche machen 40% der Notfälle aus."
+    },
+    {
+      "id": "s2-t045",
+      "front": "La confianza es lo que caracteriza una verdadera amistad.",
+      "back": "Vertrauen macht eine echte Freundschaft aus."
+    },
+    {
+      "id": "s2-t046",
+      "front": "La competencia y la motivación son lo que caracteriza a un buen profesor.",
+      "back": "Kompetenz und Motivation machen einen guten Lehrer aus."
+    },
+    {
+      "id": "s2-t047",
+      "front": "¿Qué caracteriza a la verdadera amistad?",
+      "back": "Was macht echte Freundschaft aus?"
+    },
+    {
+      "id": "s2-t048",
+      "front": "¿Importa mucho usar aceite en vez de mantequilla?",
+      "back": "Macht das viel aus, wenn man statt Butter Öl nimmt?"
+    },
+    {
+      "id": "s2-t049",
+      "front": "Importa mucho reservar pronto.",
+      "back": "Das macht viel aus, wenn man früh bucht."
+    },
+    {
+      "id": "s2-t050",
+      "front": "No importa mucho usar yogur en vez de nata.",
+      "back": "Das macht nicht viel aus, wenn man statt Sahne Joghurt nimmt."
+    },
+    {
+      "id": "s2-t051",
+      "front": "Es macht mir nichts aus.",
+      "back": "No me importa."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Das macht uns absolut nichts aus.",
+      "back": "No nos importa en absoluto."
+    },
+    {
+      "id": "s2-t053",
+      "front": "Das macht ihm sicher nichts aus.",
+      "back": "Seguro que a él no le importa."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Glaub mir, das macht ihr ganz sicher nichts aus.",
+      "back": "Créeme, seguro que a ella no le importa."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Es macht den meisten Leuten nichts aus.",
+      "back": "A la mayoría de la gente no le importa."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Das macht den meisten Kunden nichts aus.",
+      "back": "A la mayoría de los clientes no les importa."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Es hat mir nichts ausgemacht.",
+      "back": "No me importó."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Es hat ihnen sicher nichts ausgemacht.",
+      "back": "A ellos seguro que no les importó."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Es macht mir nichts aus, dass mein Mann jünger ist als ich.",
+      "back": "No me importa que mi marido sea más joven que yo."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Es macht ihm nichts aus, dass seine Freundin größer ist als er.",
+      "back": "A él no le importa que su novia sea más alta que él."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Es macht mir nichts aus, wenn ich allein gehen muss.",
+      "back": "No me importa si tengo que ir solo."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Es macht mir nichts aus, wenn du auf dem Balkon rauchst.",
+      "back": "No me importa si fumas en el balcón."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Es würde uns nichts ausmachen, heute etwas länger zu bleiben.",
+      "back": "No nos importaría quedarnos hoy un poco más."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Es würde ihm bestimmt nichts ausmachen, dich mit dem Auto mitzunehmen.",
+      "back": "Seguro que no le importaría llevarte en coche."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Es wird ihr sicher nichts ausmachen, dass wir den Hund mitbringen.",
+      "back": "Seguro que a ella no le importará que llevemos al perro."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Es hat mir nichts ausgemacht, dass wir verloren haben.",
+      "back": "No me importó que perdiéramos."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Es hat mir nichts ausgemacht, dich abzuholen.",
+      "back": "No me importó ir a recogerte."
+    },
+    {
+      "id": "s2-t068",
+      "front": "Macht es dir etwas aus, wenn ich rauche?",
+      "back": "¿Te importa si fumo?"
+    },
+    {
+      "id": "s2-t069",
+      "front": "Macht es dir etwas aus, wenn ich meinen Mann mitbringe?",
+      "back": "¿Te importa si llevo a mi marido?"
+    },
+    {
+      "id": "s2-t070",
+      "front": "Macht es Ihnen etwas aus, wenn ich meinen Hund mitbringe?",
+      "back": "¿Le importa si llevo a mi perro?"
+    },
+    {
+      "id": "s2-t071",
+      "front": "Würde es dir etwas ausmachen, wenn ich deine Ex-Freundin anrufe?",
+      "back": "¿Te importaría si llamo a tu exnovia?"
+    },
+    {
+      "id": "s2-t072",
+      "front": "Würde es Ihnen etwas ausmachen, wenn ich nicht mitkomme?",
+      "back": "¿Le importaría si no voy?"
+    },
+    {
+      "id": "s2-t073",
+      "front": "Glaubst du, dass es ihm etwas ausmacht?",
+      "back": "¿Crees que a él le importa?"
+    },
+    {
+      "id": "s2-t074",
+      "front": "Glauben Sie, dass es ihnen etwas ausmacht, wenn wir die Besprechung verschieben?",
+      "back": "¿Cree que a ellos les importa que aplacemos la reunión?"
+    },
+    {
+      "id": "s2-t075",
+      "front": "Macht es dir etwas aus, auf dem Balkon zu rauchen?",
+      "back": "¿Te importa fumar en el balcón?"
+    },
+    {
+      "id": "s2-t076",
+      "front": "Würde es Ihnen etwas ausmachen, sich später zu treffen?",
+      "back": "¿Le importaría quedar más tarde?"
+    },
+    {
+      "id": "s2-t077",
+      "front": "Wir werden einen Treffpunkt ausmachen.",
+      "back": "Fijaremos un punto de encuentro."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Ich habe mit ihr ausgemacht, dass sie mich anruft, sobald sie zuhause ist.",
+      "back": "He acordado con ella que me llame en cuanto esté en casa."
+    },
+    {
+      "id": "s2-t079",
+      "front": "Ich habe eine Uhrzeit mit ihm ausgemacht.",
+      "back": "He acordado una hora con él."
+    },
+    {
+      "id": "s2-t080",
+      "front": "Ich habe mit ihnen ausgemacht, dass sie Bescheid sagen, wenn sie fertig sind.",
+      "back": "He acordado con ellos que avisen cuando hayan terminado."
+    },
+    {
+      "id": "s2-t081",
+      "front": "Wir haben keine Uhrzeit ausgemacht.",
+      "back": "No hemos acordado ninguna hora."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Wir haben noch keinen Treffpunkt ausgemacht.",
+      "back": "Todavía no hemos acordado ningún punto de encuentro."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Habt ihr eine Zeit ausgemacht?",
+      "back": "¿Habéis acordado una hora?"
+    },
+    {
+      "id": "s2-t084",
+      "front": "Hast du eine bestimmte Zeit ausgemacht?",
+      "back": "¿Has acordado una hora concreta?"
+    },
+    {
+      "id": "s2-t085",
+      "front": "Haben Sie einen bestimmten Treffpunkt ausgemacht?",
+      "back": "¿Han acordado un punto de encuentro concreto?"
+    },
+    {
+      "id": "s2-t086",
+      "front": "Was habt ihr ausgemacht?",
+      "back": "¿Qué habéis acordado?"
+    },
+    {
+      "id": "s2-t087",
+      "front": "Was genau haben sie ausgemacht?",
+      "back": "¿Qué han acordado exactamente?"
+    },
+    {
+      "id": "s2-t088",
+      "front": "Hast du eine Zeit mit ihm ausgemacht?",
+      "back": "¿Has acordado una hora con él?"
+    },
+    {
+      "id": "s2-t089",
+      "front": "Sollen wir eine Zeit ausmachen?",
+      "back": "¿Acordamos una hora?"
+    },
+    {
+      "id": "s2-t090",
+      "front": "Soll ich einen Treffpunkt mit ihm ausmachen?",
+      "back": "¿Fijo un punto de encuentro con él?"
+    },
+    {
+      "id": "s2-t091",
+      "front": "Weißt du, ob sie schon etwas ausgemacht haben?",
+      "back": "¿Sabes si ya han acordado algo?"
+    },
+    {
+      "id": "s2-t092",
+      "front": "Wissen Sie, ob er eine Zeit mit dem Kunden ausgemacht hat?",
+      "back": "¿Sabe si él ha acordado una hora con el cliente?"
+    },
+    {
+      "id": "s2-t093",
+      "front": "Lieferschäden machen die Hälfte aller Reklamationen aus.",
+      "back": "Los daños de transporte representan la mitad de todas las reclamaciones."
+    },
+    {
+      "id": "s2-t094",
+      "front": "Knochenbrüche machen 40% der Notfälle aus.",
+      "back": "Las fracturas representan el 40 % de las urgencias."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Vertrauen macht eine echte Freundschaft aus.",
+      "back": "La confianza es lo que caracteriza una verdadera amistad."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Kompetenz und Motivation machen einen guten Lehrer aus.",
+      "back": "La competencia y la motivación son lo que caracteriza a un buen profesor."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Was macht echte Freundschaft aus?",
+      "back": "¿Qué caracteriza a la verdadera amistad?"
+    },
+    {
+      "id": "s2-t098",
+      "front": "Macht das viel aus, wenn man statt Butter Öl nimmt?",
+      "back": "¿Importa mucho usar aceite en vez de mantequilla?"
+    },
+    {
+      "id": "s2-t099",
+      "front": "Das macht viel aus, wenn man früh bucht.",
+      "back": "Importa mucho reservar pronto."
+    },
+    {
+      "id": "s2-t100",
+      "front": "Das macht nicht viel aus, wenn man statt Sahne Joghurt nimmt.",
+      "back": "No importa mucho usar yogur en vez de nata."
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Cuáles son los tres sentidos de ausmachen en esta sección?",
+      "back": "Importar o molestar; acordar o fijar; y representar o caracterizar."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Cómo se separa ausmachen en presente?",
+      "back": "La raíz va conjugada y aus al final: Das macht mir nichts aus."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Cuál es el participio de ausmachen?",
+      "back": "Ausgemacht: Wir haben eine Uhrzeit ausgemacht."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿En qué caso va la persona en jemandem nichts ausmachen?",
+      "back": "En dativo: mir, dir, ihm, ihr, uns, euch, ihnen/Ihnen."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Qué se usa normalmente en la pregunta: nichts o etwas?",
+      "back": "Etwas: Macht es dir etwas aus...? En la respuesta negativa se usa nichts."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Cómo se formula una petición más cortés con ausmachen?",
+      "back": "Con würde + ausmachen: Würde es Ihnen etwas ausmachen...?"
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Dónde va el verbo en una subordinada con dass o wenn?",
+      "back": "Al final: ..., dass wir verloren haben; ..., wenn ich rauche."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Cómo se dice «acordar algo con alguien»?",
+      "back": "Etwas mit jemandem ausmachen; la persona va con mit + dativo."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿Qué significa einen Treffpunkt ausmachen?",
+      "back": "Fijar o acordar un punto de encuentro."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Dónde van auxiliar y participio en una subordinada con ob?",
+      "back": "Al final, con el auxiliar en última posición: ob sie etwas ausgemacht haben."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Cómo expresa ausmachen una proporción?",
+      "back": "Con el sentido de representar: Lieferschäden machen 50 % der Reklamationen aus."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Qué significa Das macht viel aus?",
+      "back": "Eso importa mucho o supone una gran diferencia."
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-49",
+  "bookTitle": "Buch 49",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: nämlich, beziehungsweise, eigentlich, und zwar, doch y also",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "Voy a cambiar el jersey; es que ya tengo uno de ese color.",
+      "back": "Ich werde den Pullover umtauschen, ich habe nämlich schon einen in der Farbe."
+    },
+    {
+      "id": "s1-t002",
+      "front": "Solo voy a comer una ensalada; es que no tengo mucha hambre.",
+      "back": "Ich werde nur einen Salat essen, ich habe nämlich keinen großen Hunger."
+    },
+    {
+      "id": "s1-t003",
+      "front": "No puedo tener gato; es que tengo alergia a los gatos.",
+      "back": "Ich kann keine Katze haben, ich habe nämlich eine Katzenallergie."
+    },
+    {
+      "id": "s1-t004",
+      "front": "No me imagino que él venga. Es que no es nada deportista.",
+      "back": "Ich kann mir nicht vorstellen, dass er mitkommt. Er ist nämlich total unsportlich."
+    },
+    {
+      "id": "s1-t005",
+      "front": "No voy contigo; es que estoy agotado.",
+      "back": "Ich komme nicht mit, ich bin nämlich total müde."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Esta noche salgo; es que mañana tengo libre.",
+      "back": "Ich gehe heute Abend weg, ich habe nämlich morgen frei."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Mañana temprano voy a la piscina; es que ahora estoy de vacaciones.",
+      "back": "Ich gehe morgen früh ins Schwimmbad, ich habe nämlich gerade Urlaub."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Tengo que darme prisa; es que dentro de un cuarto de hora tengo una cita.",
+      "back": "Ich muss mich beeilen, ich habe nämlich in einer Viertelstunde einen Termin."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Puedo darte o, mejor dicho, prestarte algo de dinero.",
+      "back": "Ich kann dir etwas Geld geben beziehungsweise ausleihen."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Sus parientes le dieron o, mejor dicho, le prestaron dinero.",
+      "back": "Ihre Verwandten haben ihr Geld gegeben beziehungsweise ausgeliehen."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Fui a casa andando o, mejor dicho, corriendo.",
+      "back": "Ich bin nach Hause gelaufen beziehungsweise gerannt."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Fui de vacaciones a España en coche o, mejor dicho, en avión.",
+      "back": "Ich bin nach Spanien in den Urlaub gefahren beziehungsweise geflogen."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Me gusta ver la televisión o, mejor dicho, series.",
+      "back": "Ich gucke gerne Fernsehen beziehungsweise Serien."
+    },
+    {
+      "id": "s1-t014",
+      "front": "¿Puedo hablar con tu padre o con tu madre, respectivamente?",
+      "back": "Kann ich deinen Vater beziehungsweise deine Mutter sprechen?"
+    },
+    {
+      "id": "s1-t015",
+      "front": "¿Se puede aparcar o parar aquí?",
+      "back": "Kann man hier parken beziehungsweise halten?"
+    },
+    {
+      "id": "s1-t016",
+      "front": "Mis hijas tienen doce y dieciséis años, respectivamente.",
+      "back": "Meine Töchter sind zwölf beziehungsweise sechzehn Jahre alt."
+    },
+    {
+      "id": "s1-t017",
+      "front": "La verdad es que él es bastante simpático.",
+      "back": "Eigentlich ist er ganz nett."
+    },
+    {
+      "id": "s1-t018",
+      "front": "En realidad estoy bastante satisfecho.",
+      "back": "Eigentlich bin ich ganz zufrieden."
+    },
+    {
+      "id": "s1-t019",
+      "front": "La verdad es que el piso es bastante bonito.",
+      "back": "Eigentlich ist die Wohnung ganz schön."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Por cierto, ¿has sabido algo de Steffi?",
+      "back": "Hast du eigentlich mal was von Steffi gehört?"
+    },
+    {
+      "id": "s1-t021",
+      "front": "Por cierto, ¿ya has enviado tu solicitud?",
+      "back": "Hast du eigentlich schon deine Bewerbung geschickt?"
+    },
+    {
+      "id": "s1-t022",
+      "front": "Por cierto, ¿no tienes miedo?",
+      "back": "Hast du eigentlich keine Angst?"
+    },
+    {
+      "id": "s1-t023",
+      "front": "Por cierto, ¿sabías que Steffi está embarazada?",
+      "back": "Wusstest du eigentlich, dass Steffi schwanger ist?"
+    },
+    {
+      "id": "s1-t024",
+      "front": "¿Qué quieres en realidad?",
+      "back": "Was willst du eigentlich?"
+    },
+    {
+      "id": "s1-t025",
+      "front": "¿Qué te pasa? Hoy estás muy raro.",
+      "back": "Was ist eigentlich los mit dir? Du bist heute so komisch."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Tenemos que irnos, y ahora mismo.",
+      "back": "Wir müssen los, und zwar sofort."
+    },
+    {
+      "id": "s1-t027",
+      "front": "Tienes que avisar, y rápido.",
+      "back": "Du musst Bescheid sagen, und zwar schnell."
+    },
+    {
+      "id": "s1-t028",
+      "front": "Tenemos que vernos, y lo antes posible.",
+      "back": "Wir müssen uns sehen, und zwar so bald wie möglich."
+    },
+    {
+      "id": "s1-t029",
+      "front": "Oí la conversación, y toda entera.",
+      "back": "Ich habe das Gespräch gehört, und zwar alles."
+    },
+    {
+      "id": "s1-t030",
+      "front": "Te he llamado, y no solo una vez.",
+      "back": "Ich habe dich angerufen, und zwar nicht nur einmal."
+    },
+    {
+      "id": "s1-t031",
+      "front": "No voy a los toros, y por principios.",
+      "back": "Ich gehe nicht zum Stierkampf, und zwar aus Prinzip nicht."
+    },
+    {
+      "id": "s1-t032",
+      "front": "No como carne, y por principios.",
+      "back": "Ich esse kein Fleisch, und zwar aus Prinzip nicht."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Aunque soy pequeño, juego al baloncesto de todos modos.",
+      "back": "Ich bin zwar klein, aber ich spiele trotzdem Basketball."
+    },
+    {
+      "id": "s1-t034",
+      "front": "Aunque soy alemán, no me gusta el chucrut.",
+      "back": "Ich bin zwar deutsch, aber ich mag trotzdem kein Sauerkraut."
+    },
+    {
+      "id": "s1-t035",
+      "front": "Eso no lo sabes. —¡Sí!",
+      "back": "Das weißt du nicht. – Doch!"
+    },
+    {
+      "id": "s1-t036",
+      "front": "¿No quieres venir? —Sí, pero tengo que trabajar.",
+      "back": "Willst du nicht mitkommen? – Doch, aber ich muss arbeiten."
+    },
+    {
+      "id": "s1-t037",
+      "front": "¿No recibiste mi mensaje? —Sí, pero no tuve tiempo de contestarte.",
+      "back": "Hast du meine Nachricht nicht bekommen? – Doch, aber ich hatte keine Zeit, dir zu antworten."
+    },
+    {
+      "id": "s1-t038",
+      "front": "Estaba claro que eso iba a pasar.",
+      "back": "Das war doch klar, dass das passieren würde."
+    },
+    {
+      "id": "s1-t039",
+      "front": "¡Pero no fue culpa mía!",
+      "back": "Das war doch nicht meine Schuld!"
+    },
+    {
+      "id": "s1-t040",
+      "front": "¡Pero ese no es mi problema!",
+      "back": "Das ist doch nicht mein Problem."
+    },
+    {
+      "id": "s1-t041",
+      "front": "¡Quédate un poco más!",
+      "back": "Bleib doch noch ein bisschen!"
+    },
+    {
+      "id": "s1-t042",
+      "front": "¡Siéntese!",
+      "back": "Setzen Sie sich doch!"
+    },
+    {
+      "id": "s1-t043",
+      "front": "Mañana finalmente no puedo. ¿Quedamos pasado mañana?",
+      "back": "Ich kann morgen doch nicht. Wollen wir uns übermorgen treffen?"
+    },
+    {
+      "id": "s1-t044",
+      "front": "Pero si ya no bebo.",
+      "back": "Ich trinke doch nicht mehr."
+    },
+    {
+      "id": "s1-t045",
+      "front": "No llamó, así que me fui adelantando.",
+      "back": "Er hat nicht angerufen, also bin ich schon mal losgefahren."
+    },
+    {
+      "id": "s1-t046",
+      "front": "Es un cliente importante, así que no lo hagas esperar.",
+      "back": "Das ist ein wichtiger Kunde, also lass ihn nicht warten."
+    },
+    {
+      "id": "s1-t047",
+      "front": "Así que ya lo sabías desde el principio.",
+      "back": "Du wusstest es also schon die ganze Zeit."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Eso quiere decir que no comes pescado. —Exacto.",
+      "back": "Das heißt also, du isst keinen Fisch. – Genau."
+    },
+    {
+      "id": "s1-t049",
+      "front": "¡Así que al final sí comes con nosotros!",
+      "back": "Du isst also doch mit!"
+    },
+    {
+      "id": "s1-t050",
+      "front": "Bueno, de acuerdo, entonces lo hacemos así.",
+      "back": "Also gut, dann machen wir das so."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Ich werde den Pullover umtauschen, ich habe nämlich schon einen in der Farbe.",
+      "back": "Voy a cambiar el jersey; es que ya tengo uno de ese color."
+    },
+    {
+      "id": "s1-t052",
+      "front": "Ich werde nur einen Salat essen, ich habe nämlich keinen großen Hunger.",
+      "back": "Solo voy a comer una ensalada; es que no tengo mucha hambre."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Ich kann keine Katze haben, ich habe nämlich eine Katzenallergie.",
+      "back": "No puedo tener gato; es que tengo alergia a los gatos."
+    },
+    {
+      "id": "s1-t054",
+      "front": "Ich kann mir nicht vorstellen, dass er mitkommt. Er ist nämlich total unsportlich.",
+      "back": "No me imagino que él venga. Es que no es nada deportista."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Ich komme nicht mit, ich bin nämlich total müde.",
+      "back": "No voy contigo; es que estoy agotado."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Ich gehe heute Abend weg, ich habe nämlich morgen frei.",
+      "back": "Esta noche salgo; es que mañana tengo libre."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Ich gehe morgen früh ins Schwimmbad, ich habe nämlich gerade Urlaub.",
+      "back": "Mañana temprano voy a la piscina; es que ahora estoy de vacaciones."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Ich muss mich beeilen, ich habe nämlich in einer Viertelstunde einen Termin.",
+      "back": "Tengo que darme prisa; es que dentro de un cuarto de hora tengo una cita."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Ich kann dir etwas Geld geben beziehungsweise ausleihen.",
+      "back": "Puedo darte o, mejor dicho, prestarte algo de dinero."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Ihre Verwandten haben ihr Geld gegeben beziehungsweise ausgeliehen.",
+      "back": "Sus parientes le dieron o, mejor dicho, le prestaron dinero."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Ich bin nach Hause gelaufen beziehungsweise gerannt.",
+      "back": "Fui a casa andando o, mejor dicho, corriendo."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Ich bin nach Spanien in den Urlaub gefahren beziehungsweise geflogen.",
+      "back": "Fui de vacaciones a España en coche o, mejor dicho, en avión."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Ich gucke gerne Fernsehen beziehungsweise Serien.",
+      "back": "Me gusta ver la televisión o, mejor dicho, series."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Kann ich deinen Vater beziehungsweise deine Mutter sprechen?",
+      "back": "¿Puedo hablar con tu padre o con tu madre, respectivamente?"
+    },
+    {
+      "id": "s1-t065",
+      "front": "Kann man hier parken beziehungsweise halten?",
+      "back": "¿Se puede aparcar o parar aquí?"
+    },
+    {
+      "id": "s1-t066",
+      "front": "Meine Töchter sind zwölf beziehungsweise sechzehn Jahre alt.",
+      "back": "Mis hijas tienen doce y dieciséis años, respectivamente."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Eigentlich ist er ganz nett.",
+      "back": "La verdad es que él es bastante simpático."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Eigentlich bin ich ganz zufrieden.",
+      "back": "En realidad estoy bastante satisfecho."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Eigentlich ist die Wohnung ganz schön.",
+      "back": "La verdad es que el piso es bastante bonito."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Hast du eigentlich mal was von Steffi gehört?",
+      "back": "Por cierto, ¿has sabido algo de Steffi?"
+    },
+    {
+      "id": "s1-t071",
+      "front": "Hast du eigentlich schon deine Bewerbung geschickt?",
+      "back": "Por cierto, ¿ya has enviado tu solicitud?"
+    },
+    {
+      "id": "s1-t072",
+      "front": "Hast du eigentlich keine Angst?",
+      "back": "Por cierto, ¿no tienes miedo?"
+    },
+    {
+      "id": "s1-t073",
+      "front": "Wusstest du eigentlich, dass Steffi schwanger ist?",
+      "back": "Por cierto, ¿sabías que Steffi está embarazada?"
+    },
+    {
+      "id": "s1-t074",
+      "front": "Was willst du eigentlich?",
+      "back": "¿Qué quieres en realidad?"
+    },
+    {
+      "id": "s1-t075",
+      "front": "Was ist eigentlich los mit dir? Du bist heute so komisch.",
+      "back": "¿Qué te pasa? Hoy estás muy raro."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Wir müssen los, und zwar sofort.",
+      "back": "Tenemos que irnos, y ahora mismo."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Du musst Bescheid sagen, und zwar schnell.",
+      "back": "Tienes que avisar, y rápido."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Wir müssen uns sehen, und zwar so bald wie möglich.",
+      "back": "Tenemos que vernos, y lo antes posible."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Ich habe das Gespräch gehört, und zwar alles.",
+      "back": "Oí la conversación, y toda entera."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Ich habe dich angerufen, und zwar nicht nur einmal.",
+      "back": "Te he llamado, y no solo una vez."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Ich gehe nicht zum Stierkampf, und zwar aus Prinzip nicht.",
+      "back": "No voy a los toros, y por principios."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Ich esse kein Fleisch, und zwar aus Prinzip nicht.",
+      "back": "No como carne, y por principios."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Ich bin zwar klein, aber ich spiele trotzdem Basketball.",
+      "back": "Aunque soy pequeño, juego al baloncesto de todos modos."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Ich bin zwar deutsch, aber ich mag trotzdem kein Sauerkraut.",
+      "back": "Aunque soy alemán, no me gusta el chucrut."
+    },
+    {
+      "id": "s1-t085",
+      "front": "Das weißt du nicht. – Doch!",
+      "back": "Eso no lo sabes. —¡Sí!"
+    },
+    {
+      "id": "s1-t086",
+      "front": "Willst du nicht mitkommen? – Doch, aber ich muss arbeiten.",
+      "back": "¿No quieres venir? —Sí, pero tengo que trabajar."
+    },
+    {
+      "id": "s1-t087",
+      "front": "Hast du meine Nachricht nicht bekommen? – Doch, aber ich hatte keine Zeit, dir zu antworten.",
+      "back": "¿No recibiste mi mensaje? —Sí, pero no tuve tiempo de contestarte."
+    },
+    {
+      "id": "s1-t088",
+      "front": "Das war doch klar, dass das passieren würde.",
+      "back": "Estaba claro que eso iba a pasar."
+    },
+    {
+      "id": "s1-t089",
+      "front": "Das war doch nicht meine Schuld!",
+      "back": "¡Pero no fue culpa mía!"
+    },
+    {
+      "id": "s1-t090",
+      "front": "Das ist doch nicht mein Problem.",
+      "back": "¡Pero ese no es mi problema!"
+    },
+    {
+      "id": "s1-t091",
+      "front": "Bleib doch noch ein bisschen!",
+      "back": "¡Quédate un poco más!"
+    },
+    {
+      "id": "s1-t092",
+      "front": "Setzen Sie sich doch!",
+      "back": "¡Siéntese!"
+    },
+    {
+      "id": "s1-t093",
+      "front": "Ich kann morgen doch nicht. Wollen wir uns übermorgen treffen?",
+      "back": "Mañana finalmente no puedo. ¿Quedamos pasado mañana?"
+    },
+    {
+      "id": "s1-t094",
+      "front": "Ich trinke doch nicht mehr.",
+      "back": "Pero si ya no bebo."
+    },
+    {
+      "id": "s1-t095",
+      "front": "Er hat nicht angerufen, also bin ich schon mal losgefahren.",
+      "back": "No llamó, así que me fui adelantando."
+    },
+    {
+      "id": "s1-t096",
+      "front": "Das ist ein wichtiger Kunde, also lass ihn nicht warten.",
+      "back": "Es un cliente importante, así que no lo hagas esperar."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Du wusstest es also schon die ganze Zeit.",
+      "back": "Así que ya lo sabías desde el principio."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Das heißt also, du isst keinen Fisch. – Genau.",
+      "back": "Eso quiere decir que no comes pescado. —Exacto."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Du isst also doch mit!",
+      "back": "¡Así que al final sí comes con nosotros!"
+    },
+    {
+      "id": "s1-t100",
+      "front": "Also gut, dann machen wir das so.",
+      "back": "Bueno, de acuerdo, entonces lo hacemos así."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué matiz aporta nämlich?",
+      "back": "Introduce una explicación o motivo: es que, pues o ya que. Suele ir dentro de la oración."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué puede significar beziehungsweise?",
+      "back": "Respectivamente, o bien, o mejor dicho, según el contexto."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué matices frecuentes aporta eigentlich?",
+      "back": "En realidad, la verdad es que o por cierto."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Para qué se usa und zwar?",
+      "back": "Para precisar o enfatizar lo anterior: concretamente, y además o y precisamente."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Cómo funciona la pareja zwar ... aber?",
+      "back": "Zwar introduce una concesión y aber el contraste: aunque... / si bien..., pero..."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Cómo responde doch a una pregunta o afirmación negativa?",
+      "back": "La contradice con un sí enfático: Das weißt du nicht. – Doch!"
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Qué efecto tiene doch en un imperativo?",
+      "back": "Suaviza o anima la petición: Bleib doch noch ein bisschen!"
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué puede indicar doch al hablar de planes?",
+      "back": "Un cambio respecto de lo previsto: Ich kann morgen doch nicht."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Qué significa also cuando enlaza una consecuencia?",
+      "back": "Así que o por lo tanto; después suele haber inversión: also bin ich..."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué expresa Das heißt also, ...?",
+      "back": "Eso quiere decir que... o entonces eso significa que..."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Cómo se dice «Son las cinco en punto»?",
+      "back": "Es ist Punkt fünf Uhr."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Qué significa Nicht, dass ich wüsste?",
+      "back": "No que yo sepa."
+    }
+  ]
+}
