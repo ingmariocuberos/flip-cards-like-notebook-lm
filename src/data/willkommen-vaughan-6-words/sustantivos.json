@@ -1,0 +1,639 @@
+{
+  "bookId": "willkommen-vaughan-6-words",
+  "bookTitle": "Buch 6 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "abogado",
+      "back": "der Anwalt"
+    },
+    {
+      "id": "s1-002",
+      "front": "abogada",
+      "back": "die Anwältin"
+    },
+    {
+      "id": "s1-003",
+      "front": "trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-004",
+      "front": "médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-005",
+      "front": "médica",
+      "back": "die Ärztin"
+    },
+    {
+      "id": "s1-006",
+      "front": "agosto",
+      "back": "der August"
+    },
+    {
+      "id": "s1-007",
+      "front": "salida",
+      "back": "der Ausgang"
+    },
+    {
+      "id": "s1-008",
+      "front": "bar",
+      "back": "die Bar"
+    },
+    {
+      "id": "s1-009",
+      "front": "profesión",
+      "back": "der Beruf"
+    },
+    {
+      "id": "s1-010",
+      "front": "cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-011",
+      "front": "jardín de la cerveza",
+      "back": "der Biergarten"
+    },
+    {
+      "id": "s1-012",
+      "front": "salchicha asada",
+      "back": "die Bratwurst"
+    },
+    {
+      "id": "s1-013",
+      "front": "hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-014",
+      "front": "estado federado",
+      "back": "das Bundesland"
+    },
+    {
+      "id": "s1-015",
+      "front": "alcalde",
+      "back": "der Bürgermeister"
+    },
+    {
+      "id": "s1-016",
+      "front": "alcaldesa",
+      "back": "die Bürgermeisterin"
+    },
+    {
+      "id": "s1-017",
+      "front": "café (establecimiento)",
+      "back": "das Café"
+    },
+    {
+      "id": "s1-018",
+      "front": "jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-019",
+      "front": "jefa",
+      "back": "die Chefin"
+    },
+    {
+      "id": "s1-020",
+      "front": "club",
+      "back": "der Club"
+    },
+    {
+      "id": "s1-021",
+      "front": "primo",
+      "back": "der Cousin"
+    },
+    {
+      "id": "s1-022",
+      "front": "alemana",
+      "back": "die Deutsche"
+    },
+    {
+      "id": "s1-023",
+      "front": "alemán",
+      "back": "der Deutsche"
+    },
+    {
+      "id": "s1-024",
+      "front": "inglesa",
+      "back": "die Engländerin"
+    },
+    {
+      "id": "s1-025",
+      "front": "inglés",
+      "back": "der Engländer"
+    },
+    {
+      "id": "s1-026",
+      "front": "nieto",
+      "back": "der Enkel"
+    },
+    {
+      "id": "s1-027",
+      "front": "nieta",
+      "back": "die Enkelin"
+    },
+    {
+      "id": "s1-028",
+      "front": "progenitor (padre o madre)",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-029",
+      "front": "febrero",
+      "back": "der Februar"
+    },
+    {
+      "id": "s1-030",
+      "front": "pescado",
+      "back": "der Fisch"
+    },
+    {
+      "id": "s1-031",
+      "front": "carne",
+      "back": "das Fleisch"
+    },
+    {
+      "id": "s1-032",
+      "front": "aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-033",
+      "front": "francés",
+      "back": "der Franzose"
+    },
+    {
+      "id": "s1-034",
+      "front": "francesa",
+      "back": "die Französin"
+    },
+    {
+      "id": "s1-035",
+      "front": "mujer / esposa",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-036",
+      "front": "amigo",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-037",
+      "front": "amiga / novia",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-038",
+      "front": "peluquero",
+      "back": "der Friseur"
+    },
+    {
+      "id": "s1-039",
+      "front": "peluquera",
+      "back": "die Friseurin"
+    },
+    {
+      "id": "s1-040",
+      "front": "dinero",
+      "back": "das Geld"
+    },
+    {
+      "id": "s1-041",
+      "front": "verdura",
+      "back": "das Gemüse"
+    },
+    {
+      "id": "s1-042",
+      "front": "hermano o hermana",
+      "back": "das Geschwister"
+    },
+    {
+      "id": "s1-043",
+      "front": "andén",
+      "back": "das Gleis"
+    },
+    {
+      "id": "s1-044",
+      "front": "alemán estándar",
+      "back": "das Hochdeutsch"
+    },
+    {
+      "id": "s1-045",
+      "front": "hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-046",
+      "front": "ingeniero",
+      "back": "der Ingenieur"
+    },
+    {
+      "id": "s1-047",
+      "front": "ingeniera",
+      "back": "die Ingenieurin"
+    },
+    {
+      "id": "s1-048",
+      "front": "italiano",
+      "back": "der Italiener"
+    },
+    {
+      "id": "s1-049",
+      "front": "italiana",
+      "back": "die Italienerin"
+    },
+    {
+      "id": "s1-050",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-051",
+      "front": "enero",
+      "back": "der Januar"
+    },
+    {
+      "id": "s1-052",
+      "front": "café (bebida)",
+      "back": "der Kaffee"
+    },
+    {
+      "id": "s1-053",
+      "front": "patata",
+      "back": "die Kartoffel"
+    },
+    {
+      "id": "s1-054",
+      "front": "queso",
+      "back": "der Käse"
+    },
+    {
+      "id": "s1-055",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-056",
+      "front": "cine",
+      "back": "das Kino"
+    },
+    {
+      "id": "s1-057",
+      "front": "tarta de cerezas",
+      "back": "die Kirschtorte"
+    },
+    {
+      "id": "s1-058",
+      "front": "taberna",
+      "back": "die Kneipe"
+    },
+    {
+      "id": "s1-059",
+      "front": "enfermero",
+      "back": "der Krankenpfleger"
+    },
+    {
+      "id": "s1-060",
+      "front": "enfermera",
+      "back": "die Krankenschwester"
+    },
+    {
+      "id": "s1-061",
+      "front": "bolígrafo",
+      "back": "der Kuli"
+    },
+    {
+      "id": "s1-062",
+      "front": "tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-063",
+      "front": "salchicha de hígado",
+      "back": "die Leberwurst"
+    },
+    {
+      "id": "s1-064",
+      "front": "profesor",
+      "back": "der Lehrer"
+    },
+    {
+      "id": "s1-065",
+      "front": "profesora",
+      "back": "die Lehrerin"
+    },
+    {
+      "id": "s1-066",
+      "front": "mayo",
+      "back": "der Mai"
+    },
+    {
+      "id": "s1-067",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-068",
+      "front": "leche",
+      "back": "die Milch"
+    },
+    {
+      "id": "s1-069",
+      "front": "diseñador de moda",
+      "back": "der Modeschöpfer"
+    },
+    {
+      "id": "s1-070",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-071",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-072",
+      "front": "vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-073",
+      "front": "cercanía / proximidad",
+      "back": "die Nähe"
+    },
+    {
+      "id": "s1-074",
+      "front": "sobrino",
+      "back": "der Neffe"
+    },
+    {
+      "id": "s1-075",
+      "front": "sobrina",
+      "back": "die Nichte"
+    },
+    {
+      "id": "s1-076",
+      "front": "emergencia / necesidad",
+      "back": "die Not"
+    },
+    {
+      "id": "s1-077",
+      "front": "salida de emergencia",
+      "back": "der Notausgang"
+    },
+    {
+      "id": "s1-078",
+      "front": "noviembre",
+      "back": "der November"
+    },
+    {
+      "id": "s1-079",
+      "front": "fideo",
+      "back": "die Nudel"
+    },
+    {
+      "id": "s1-080",
+      "front": "fruta",
+      "back": "das Obst"
+    },
+    {
+      "id": "s1-081",
+      "front": "octubre",
+      "back": "der Oktober"
+    },
+    {
+      "id": "s1-082",
+      "front": "parque",
+      "back": "der Park"
+    },
+    {
+      "id": "s1-083",
+      "front": "pasta",
+      "back": "die Pasta"
+    },
+    {
+      "id": "s1-084",
+      "front": "caballo",
+      "back": "das Pferd"
+    },
+    {
+      "id": "s1-085",
+      "front": "pizza",
+      "back": "die Pizza"
+    },
+    {
+      "id": "s1-086",
+      "front": "restaurante",
+      "back": "das Restaurant"
+    },
+    {
+      "id": "s1-087",
+      "front": "Jardín de las Rosas",
+      "back": "der Rosengarten"
+    },
+    {
+      "id": "s1-088",
+      "front": "vino tinto",
+      "back": "der Rotwein"
+    },
+    {
+      "id": "s1-089",
+      "front": "chucrut",
+      "back": "das Sauerkraut"
+    },
+    {
+      "id": "s1-090",
+      "front": "jamón",
+      "back": "der Schinken"
+    },
+    {
+      "id": "s1-091",
+      "front": "Castillo de Heidelberg",
+      "back": "das Schloss"
+    },
+    {
+      "id": "s1-092",
+      "front": "escalope",
+      "back": "das Schnitzel"
+    },
+    {
+      "id": "s1-093",
+      "front": "chocolate",
+      "back": "die Schokolade"
+    },
+    {
+      "id": "s1-094",
+      "front": "cuñado",
+      "back": "der Schwager"
+    },
+    {
+      "id": "s1-095",
+      "front": "cuñada",
+      "back": "die Schwägerin"
+    },
+    {
+      "id": "s1-096",
+      "front": "pan negro",
+      "back": "das Schwarzbrot"
+    },
+    {
+      "id": "s1-097",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-098",
+      "front": "suegra",
+      "back": "die Schwiegermutter"
+    },
+    {
+      "id": "s1-099",
+      "front": "yerno",
+      "back": "der Schwiegersohn"
+    },
+    {
+      "id": "s1-100",
+      "front": "nuera",
+      "back": "die Schwiegertochter"
+    },
+    {
+      "id": "s1-101",
+      "front": "suegro",
+      "back": "der Schwiegervater"
+    },
+    {
+      "id": "s1-102",
+      "front": "hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-103",
+      "front": "domingo",
+      "back": "der Sonntag"
+    },
+    {
+      "id": "s1-104",
+      "front": "diversión",
+      "back": "der Spaß"
+    },
+    {
+      "id": "s1-105",
+      "front": "español",
+      "back": "der Spanier"
+    },
+    {
+      "id": "s1-106",
+      "front": "española",
+      "back": "die Spanierin"
+    },
+    {
+      "id": "s1-107",
+      "front": "español / castellano (idioma)",
+      "back": "das Spanisch"
+    },
+    {
+      "id": "s1-108",
+      "front": "estudiante",
+      "back": "der Student"
+    },
+    {
+      "id": "s1-109",
+      "front": "estudiante (mujer)",
+      "back": "die Studentin"
+    },
+    {
+      "id": "s1-110",
+      "front": "beso del estudiante",
+      "back": "der Studentenkuss"
+    },
+    {
+      "id": "s1-111",
+      "front": "tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-112",
+      "front": "teatro",
+      "back": "das Theater"
+    },
+    {
+      "id": "s1-113",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-114",
+      "front": "servicio / aseo",
+      "back": "die Toilette"
+    },
+    {
+      "id": "s1-115",
+      "front": "tomate",
+      "back": "die Tomate"
+    },
+    {
+      "id": "s1-116",
+      "front": "propina",
+      "back": "das Trinkgeld"
+    },
+    {
+      "id": "s1-117",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-118",
+      "front": "vino",
+      "back": "der Wein"
+    },
+    {
+      "id": "s1-119",
+      "front": "cerveza de trigo",
+      "back": "das Weißbier"
+    },
+    {
+      "id": "s1-120",
+      "front": "vino blanco",
+      "back": "der Weißwein"
+    },
+    {
+      "id": "s1-121",
+      "front": "servicio / aseo (abreviatura)",
+      "back": "das WC"
+    },
+    {
+      "id": "s1-122",
+      "front": "salchicha",
+      "back": "die Wurst"
+    },
+    {
+      "id": "s1-123",
+      "front": "dentista",
+      "back": "der Zahnarzt"
+    },
+    {
+      "id": "s1-124",
+      "front": "tiempo",
+      "back": "die Zeit"
+    },
+    {
+      "id": "s1-125",
+      "front": "futuro",
+      "back": "die Zukunft"
+    },
+    {
+      "id": "s1-126",
+      "front": "Torre del Reloj de Berna",
+      "back": "der Zytglogge"
+    }
+  ]
+}
