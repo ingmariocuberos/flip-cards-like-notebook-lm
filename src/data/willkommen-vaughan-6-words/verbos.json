@@ -1,0 +1,54 @@
+{
+  "bookId": "willkommen-vaughan-6-words",
+  "bookTitle": "Buch 6 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "dar",
+      "back": "geben"
+    },
+    {
+      "id": "s2-002",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-003",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-004",
+      "front": "saber",
+      "back": "kennen"
+    },
+    {
+      "id": "s2-005",
+      "front": "significar",
+      "back": "meinen"
+    },
+    {
+      "id": "s2-006",
+      "front": "gustar",
+      "back": "mögen"
+    },
+    {
+      "id": "s2-007",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-008",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-009",
+      "front": "permanecer",
+      "back": "übrigbleiben"
+    }
+  ]
+}
