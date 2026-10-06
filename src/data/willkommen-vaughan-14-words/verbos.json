@@ -1,0 +1,59 @@
+{
+  "bookId": "willkommen-vaughan-14-words",
+  "bookTitle": "Buch 14 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "ir en vehículo / conducir",
+      "back": "fahren"
+    },
+    {
+      "id": "s2-002",
+      "front": "preguntar",
+      "back": "fragen"
+    },
+    {
+      "id": "s2-003",
+      "front": "dar",
+      "back": "geben"
+    },
+    {
+      "id": "s2-004",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-005",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-006",
+      "front": "decir",
+      "back": "sagen"
+    },
+    {
+      "id": "s2-007",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-008",
+      "front": "hacer",
+      "back": "tun"
+    },
+    {
+      "id": "s2-009",
+      "front": "herido",
+      "back": "verletzen"
+    },
+    {
+      "id": "s2-010",
+      "front": "llegar a ser / convertirse",
+      "back": "werden"
+    }
+  ]
+}
