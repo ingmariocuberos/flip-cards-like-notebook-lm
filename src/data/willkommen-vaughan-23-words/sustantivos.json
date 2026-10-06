@@ -1,0 +1,459 @@
+{
+  "bookId": "willkommen-vaughan-23-words",
+  "bookTitle": "Buch 23 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "la bateria",
+      "back": "der Akku"
+    },
+    {
+      "id": "s1-003",
+      "front": "el un",
+      "back": "der An"
+    },
+    {
+      "id": "s1-004",
+      "front": "farmacia",
+      "back": "die Apotheke"
+    },
+    {
+      "id": "s1-005",
+      "front": "trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-006",
+      "front": "el puesto de trabajo",
+      "back": "die Arbeitsstelle"
+    },
+    {
+      "id": "s1-007",
+      "front": "el tipo",
+      "back": "die Art"
+    },
+    {
+      "id": "s1-008",
+      "front": "el artículo",
+      "back": "der Artikel"
+    },
+    {
+      "id": "s1-009",
+      "front": "el horno",
+      "back": "der Backofen"
+    },
+    {
+      "id": "s1-010",
+      "front": "estación de tren",
+      "back": "der Bahnhof"
+    },
+    {
+      "id": "s1-011",
+      "front": "el grupo musical",
+      "back": "das Band"
+    },
+    {
+      "id": "s1-012",
+      "front": "el banco",
+      "back": "die Bank"
+    },
+    {
+      "id": "s1-013",
+      "front": "la caldera",
+      "back": "der Boiler"
+    },
+    {
+      "id": "s1-014",
+      "front": "el tribunal federal de justicia",
+      "back": "der Bundesgerichtshof"
+    },
+    {
+      "id": "s1-015",
+      "front": "ordenador",
+      "back": "der Computer"
+    },
+    {
+      "id": "s1-016",
+      "front": "la cosa",
+      "back": "das Ding"
+    },
+    {
+      "id": "s1-017",
+      "front": "la habitación doble",
+      "back": "das Doppelzimmer"
+    },
+    {
+      "id": "s1-018",
+      "front": "el correo electrónico",
+      "back": "die E-Mail"
+    },
+    {
+      "id": "s1-019",
+      "front": "la entrada (para un evento)",
+      "back": "die Eintrittskarte"
+    },
+    {
+      "id": "s1-020",
+      "front": "el éxito",
+      "back": "der Erfolg"
+    },
+    {
+      "id": "s1-021",
+      "front": "las ceremonias de inauguración",
+      "back": "die Eröffnungsfeier"
+    },
+    {
+      "id": "s1-022",
+      "front": "el control remoto",
+      "back": "die Fernbedienung"
+    },
+    {
+      "id": "s1-023",
+      "front": "el vuelo",
+      "back": "der Flug"
+    },
+    {
+      "id": "s1-024",
+      "front": "el desayuno",
+      "back": "das Frühstück"
+    },
+    {
+      "id": "s1-025",
+      "front": "la puerta del garaje",
+      "back": "das Garagentor"
+    },
+    {
+      "id": "s1-026",
+      "front": "la puerta",
+      "back": "das Gate"
+    },
+    {
+      "id": "s1-027",
+      "front": "el favor",
+      "back": "der Gefallen"
+    },
+    {
+      "id": "s1-028",
+      "front": "el cajero (automático)",
+      "back": "der Geldautomat"
+    },
+    {
+      "id": "s1-029",
+      "front": "el dispositivo",
+      "back": "das Gerät"
+    },
+    {
+      "id": "s1-030",
+      "front": "la felicidad",
+      "back": "das Glück"
+    },
+    {
+      "id": "s1-031",
+      "front": "la bombilla",
+      "back": "die Glühbirne"
+    },
+    {
+      "id": "s1-032",
+      "front": "el grande",
+      "back": "die Große"
+    },
+    {
+      "id": "s1-033",
+      "front": "el bueno (Guter)",
+      "back": "der Guter"
+    },
+    {
+      "id": "s1-034",
+      "front": "la parada",
+      "back": "die Haltestelle"
+    },
+    {
+      "id": "s1-035",
+      "front": "el equipaje de mano",
+      "back": "das Handgepäck"
+    },
+    {
+      "id": "s1-036",
+      "front": "la camisa",
+      "back": "das Hemd"
+    },
+    {
+      "id": "s1-037",
+      "front": "el vestido de novia",
+      "back": "das Hochzeitskleid"
+    },
+    {
+      "id": "s1-038",
+      "front": "hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-039",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-040",
+      "front": "el cien",
+      "back": "die Hundert"
+    },
+    {
+      "id": "s1-041",
+      "front": "la idea",
+      "back": "die Idee"
+    },
+    {
+      "id": "s1-042",
+      "front": "la ensalada de papa",
+      "back": "der Kartoffelsalat"
+    },
+    {
+      "id": "s1-043",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-044",
+      "front": "el vestido",
+      "back": "das Kleid"
+    },
+    {
+      "id": "s1-045",
+      "front": "el botón",
+      "back": "der Knopf"
+    },
+    {
+      "id": "s1-046",
+      "front": "maleta",
+      "back": "der Koffer"
+    },
+    {
+      "id": "s1-047",
+      "front": "el baúl",
+      "back": "der Kofferraum"
+    },
+    {
+      "id": "s1-048",
+      "front": "compañero de trabajo",
+      "back": "der Kollege"
+    },
+    {
+      "id": "s1-049",
+      "front": "el concepto",
+      "back": "das Konzept"
+    },
+    {
+      "id": "s1-050",
+      "front": "la corbata",
+      "back": "die Krawatte"
+    },
+    {
+      "id": "s1-051",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-052",
+      "front": "la maquina",
+      "back": "die Maschine"
+    },
+    {
+      "id": "s1-053",
+      "front": "la mañana",
+      "back": "der Morgen"
+    },
+    {
+      "id": "s1-054",
+      "front": "la música",
+      "back": "die Musik"
+    },
+    {
+      "id": "s1-055",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-056",
+      "front": "la noche",
+      "back": "die Nacht"
+    },
+    {
+      "id": "s1-057",
+      "front": "el horno (Ofen)",
+      "back": "der Ofen"
+    },
+    {
+      "id": "s1-058",
+      "front": "pendiente",
+      "back": "der Ohrring"
+    },
+    {
+      "id": "s1-059",
+      "front": "los paquetes",
+      "back": "das Paket"
+    },
+    {
+      "id": "s1-060",
+      "front": "el perfume",
+      "back": "das Parfüm"
+    },
+    {
+      "id": "s1-061",
+      "front": "el programa",
+      "back": "das Programm"
+    },
+    {
+      "id": "s1-062",
+      "front": "el proyecto",
+      "back": "das Projekt"
+    },
+    {
+      "id": "s1-063",
+      "front": "jersey (forma abreviada)",
+      "back": "der Pulli"
+    },
+    {
+      "id": "s1-064",
+      "front": "el descuento",
+      "back": "der Rabatt"
+    },
+    {
+      "id": "s1-065",
+      "front": "el neumático",
+      "back": "der Reifen"
+    },
+    {
+      "id": "s1-066",
+      "front": "falda",
+      "back": "der Rock"
+    },
+    {
+      "id": "s1-067",
+      "front": "el espectáculo",
+      "back": "die Schau"
+    },
+    {
+      "id": "s1-068",
+      "front": "el actor",
+      "back": "der Schauspieler"
+    },
+    {
+      "id": "s1-069",
+      "front": "zapato",
+      "back": "der Schuh"
+    },
+    {
+      "id": "s1-070",
+      "front": "sofá",
+      "back": "das Sofa"
+    },
+    {
+      "id": "s1-071",
+      "front": "lavavajillas (plural)",
+      "back": "die Spülmaschine"
+    },
+    {
+      "id": "s1-072",
+      "front": "la ciudad",
+      "back": "die Stadt"
+    },
+    {
+      "id": "s1-073",
+      "front": "las piezas / los trozos",
+      "back": "das Stück"
+    },
+    {
+      "id": "s1-074",
+      "front": "el talento",
+      "back": "das Talent"
+    },
+    {
+      "id": "s1-075",
+      "front": "la gasolinera",
+      "back": "die Tankstelle"
+    },
+    {
+      "id": "s1-076",
+      "front": "el botón (Taste)",
+      "back": "die Taste"
+    },
+    {
+      "id": "s1-077",
+      "front": "la terraza",
+      "back": "die Terrasse"
+    },
+    {
+      "id": "s1-078",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-079",
+      "front": "la foto de vacaciones",
+      "back": "das Urlaubsfoto"
+    },
+    {
+      "id": "s1-080",
+      "front": "el pudín de vainilla",
+      "back": "der Vanillepudding"
+    },
+    {
+      "id": "s1-081",
+      "front": "el retraso",
+      "back": "die Verspätung"
+    },
+    {
+      "id": "s1-082",
+      "front": "el de",
+      "back": "der Von"
+    },
+    {
+      "id": "s1-083",
+      "front": "la sugerencia",
+      "back": "der Vorschlag"
+    },
+    {
+      "id": "s1-084",
+      "front": "la lavadora",
+      "back": "die Waschmaschine"
+    },
+    {
+      "id": "s1-085",
+      "front": "el despertador",
+      "back": "der Wecker"
+    },
+    {
+      "id": "s1-086",
+      "front": "la bienvenida",
+      "back": "das Willkommen"
+    },
+    {
+      "id": "s1-087",
+      "front": "el WiFi",
+      "back": "das WLAN"
+    },
+    {
+      "id": "s1-088",
+      "front": "piso / vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-089",
+      "front": "los diez",
+      "back": "die Zehn"
+    },
+    {
+      "id": "s1-090",
+      "front": "la habitación",
+      "back": "das Zimmer"
+    }
+  ]
+}
