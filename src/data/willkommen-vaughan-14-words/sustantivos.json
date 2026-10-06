@@ -1,0 +1,454 @@
+{
+  "bookId": "willkommen-vaughan-14-words",
+  "bookTitle": "Buch 14 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde / la noche (atardecer)",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "la ambulancia",
+      "back": "die Ambulanz"
+    },
+    {
+      "id": "s1-003",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-004",
+      "front": "el brazo",
+      "back": "der Arm"
+    },
+    {
+      "id": "s1-005",
+      "front": "el médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-006",
+      "front": "el ojo",
+      "back": "das Auge"
+    },
+    {
+      "id": "s1-007",
+      "front": "el extranjero",
+      "back": "das Ausland"
+    },
+    {
+      "id": "s1-008",
+      "front": "el entierro / el funeral",
+      "back": "die Beerdigung"
+    },
+    {
+      "id": "s1-009",
+      "front": "la pierna",
+      "back": "das Bein"
+    },
+    {
+      "id": "s1-010",
+      "front": "la cama",
+      "back": "das Bett"
+    },
+    {
+      "id": "s1-011",
+      "front": "hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-012",
+      "front": "el centavo",
+      "back": "der Cent"
+    },
+    {
+      "id": "s1-013",
+      "front": "el primo",
+      "back": "der Cousin"
+    },
+    {
+      "id": "s1-014",
+      "front": "la prima",
+      "back": "die Cousine"
+    },
+    {
+      "id": "s1-015",
+      "front": "el euro",
+      "back": "der Euro"
+    },
+    {
+      "id": "s1-016",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-017",
+      "front": "celebraciones / fiestas (plural de Fest)",
+      "back": "das Fest"
+    },
+    {
+      "id": "s1-018",
+      "front": "el gimnasio",
+      "back": "das Fitness-Studio"
+    },
+    {
+      "id": "s1-019",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-020",
+      "front": "el amigo / el novio",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-021",
+      "front": "la novia / la amiga",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-022",
+      "front": "el peluquero / la peluquería",
+      "back": "der Friseur"
+    },
+    {
+      "id": "s1-023",
+      "front": "los pies (plural de Fuß)",
+      "back": "der Fuß"
+    },
+    {
+      "id": "s1-024",
+      "front": "el cumpleaños",
+      "back": "der Geburtstag"
+    },
+    {
+      "id": "s1-025",
+      "front": "fiestas de cumpleaños (plural)",
+      "back": "die Geburtstagsparty"
+    },
+    {
+      "id": "s1-026",
+      "front": "la cara",
+      "back": "das Gesicht"
+    },
+    {
+      "id": "s1-027",
+      "front": "la felicidad",
+      "back": "das Glück"
+    },
+    {
+      "id": "s1-028",
+      "front": "las felicitaciones",
+      "back": "der Glückwunsch"
+    },
+    {
+      "id": "s1-029",
+      "front": "la abuela",
+      "back": "die Großmutter"
+    },
+    {
+      "id": "s1-030",
+      "front": "el abuelo",
+      "back": "der Großvater"
+    },
+    {
+      "id": "s1-031",
+      "front": "el pelo (en alemán, plural)",
+      "back": "das Haar"
+    },
+    {
+      "id": "s1-032",
+      "front": "dolor de garganta",
+      "back": "der Halsschmerz"
+    },
+    {
+      "id": "s1-033",
+      "front": "la mano",
+      "back": "die Hand"
+    },
+    {
+      "id": "s1-034",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-035",
+      "front": "la boda",
+      "back": "die Hochzeit"
+    },
+    {
+      "id": "s1-036",
+      "front": "el hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-037",
+      "front": "años (plural de Jahr)",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-038",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-039",
+      "front": "el pediatra",
+      "back": "der Kinderarzt"
+    },
+    {
+      "id": "s1-040",
+      "front": "el cine",
+      "back": "das Kino"
+    },
+    {
+      "id": "s1-041",
+      "front": "la rodilla",
+      "back": "das Knie"
+    },
+    {
+      "id": "s1-042",
+      "front": "conferencias (plural de Konferenz)",
+      "back": "die Konferenz"
+    },
+    {
+      "id": "s1-043",
+      "front": "conciertos (plural de Konzert)",
+      "back": "das Konzert"
+    },
+    {
+      "id": "s1-044",
+      "front": "dolor de cabeza",
+      "back": "der Kopfschmerz"
+    },
+    {
+      "id": "s1-045",
+      "front": "la ambulancia (Krankenwagen)",
+      "back": "der Krankenwagen"
+    },
+    {
+      "id": "s1-046",
+      "front": "las ganas",
+      "back": "die Lust"
+    },
+    {
+      "id": "s1-047",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-048",
+      "front": "reuniones (plural de Meeting)",
+      "back": "das Meeting"
+    },
+    {
+      "id": "s1-049",
+      "front": "meses (plural de Monat)",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-050",
+      "front": "la mañana",
+      "back": "der Morgen"
+    },
+    {
+      "id": "s1-051",
+      "front": "la boca",
+      "back": "der Mund"
+    },
+    {
+      "id": "s1-052",
+      "front": "la madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-053",
+      "front": "el nombre",
+      "back": "der Name"
+    },
+    {
+      "id": "s1-054",
+      "front": "la nariz",
+      "back": "die Nase"
+    },
+    {
+      "id": "s1-055",
+      "front": "el oído / la oreja",
+      "back": "das Ohr"
+    },
+    {
+      "id": "s1-056",
+      "front": "el tío",
+      "back": "der Onkel"
+    },
+    {
+      "id": "s1-057",
+      "front": "el lugar",
+      "back": "der Ort"
+    },
+    {
+      "id": "s1-058",
+      "front": "la fiesta",
+      "back": "die Party"
+    },
+    {
+      "id": "s1-059",
+      "front": "correos (cartel)",
+      "back": "die Post"
+    },
+    {
+      "id": "s1-060",
+      "front": "la psicóloga",
+      "back": "die Psychologin"
+    },
+    {
+      "id": "s1-061",
+      "front": "la jubilación",
+      "back": "die Rente"
+    },
+    {
+      "id": "s1-062",
+      "front": "la espalda",
+      "back": "der Rücken"
+    },
+    {
+      "id": "s1-063",
+      "front": "el hombro",
+      "back": "die Schulter"
+    },
+    {
+      "id": "s1-064",
+      "front": "la cuñada",
+      "back": "die Schwägerin"
+    },
+    {
+      "id": "s1-065",
+      "front": "la hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-066",
+      "front": "la suegra",
+      "back": "die Schwiegermutter"
+    },
+    {
+      "id": "s1-067",
+      "front": "el hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-068",
+      "front": "el estado",
+      "back": "der Staat"
+    },
+    {
+      "id": "s1-069",
+      "front": "la madrastra",
+      "back": "die Stiefmutter"
+    },
+    {
+      "id": "s1-070",
+      "front": "el padrastro",
+      "back": "der Stiefvater"
+    },
+    {
+      "id": "s1-071",
+      "front": "la hora",
+      "back": "die Stunde"
+    },
+    {
+      "id": "s1-072",
+      "front": "el supermercado",
+      "back": "der Supermarkt"
+    },
+    {
+      "id": "s1-073",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-074",
+      "front": "la gasolinera",
+      "back": "die Tankstelle"
+    },
+    {
+      "id": "s1-075",
+      "front": "la tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-076",
+      "front": "la cita",
+      "back": "der Termin"
+    },
+    {
+      "id": "s1-077",
+      "front": "el teatro",
+      "back": "das Theater"
+    },
+    {
+      "id": "s1-078",
+      "front": "el veterinario",
+      "back": "der Tierarzt"
+    },
+    {
+      "id": "s1-079",
+      "front": "la veterinaria",
+      "back": "die Tierärztin"
+    },
+    {
+      "id": "s1-080",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-081",
+      "front": "las vacaciones",
+      "back": "der Urlaub"
+    },
+    {
+      "id": "s1-082",
+      "front": "el padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-083",
+      "front": "eventos (plural de Veranstaltung)",
+      "back": "die Veranstaltung"
+    },
+    {
+      "id": "s1-084",
+      "front": "semanas (plural de Woche)",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-085",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-086",
+      "front": "el diente",
+      "back": "der Zahn"
+    },
+    {
+      "id": "s1-087",
+      "front": "el dentista",
+      "back": "der Zahnarzt"
+    },
+    {
+      "id": "s1-088",
+      "front": "dolor de muelas",
+      "back": "der Zahnschmerz"
+    },
+    {
+      "id": "s1-089",
+      "front": "el tiempo",
+      "back": "die Zeit"
+    }
+  ]
+}
