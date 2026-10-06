@@ -91,6 +91,11 @@
       "back": "das Bett"
     },
     {
+      "id": "s1-144",
+      "front": "el billete",
+      "back": "das Billet"
+    },
+    {
       "id": "s1-018",
       "front": "el obispo",
       "back": "der Bischof"
@@ -151,6 +156,11 @@
       "back": "der Cousin"
     },
     {
+      "id": "s1-145",
+      "front": "la cubierta",
+      "back": "das Deck"
+    },
+    {
       "id": "s1-030",
       "front": "la manta / el techo",
       "back": "die Decke"
@@ -192,7 +202,7 @@
     },
     {
       "id": "s1-038",
-      "front": "el billete",
+      "front": "el billete (Fahrkarte)",
       "back": "die Fahrkarte"
     },
     {
@@ -266,6 +276,11 @@
       "back": "der Großelternteil"
     },
     {
+      "id": "s1-146",
+      "front": "la parada",
+      "back": "der Halt"
+    },
+    {
       "id": "s1-053",
       "front": "parada y estacionamiento prohibido (letrero)",
       "back": "das Halteverbot"
@@ -314,6 +329,11 @@
       "id": "s1-062",
       "front": "la tarjeta",
       "back": "die Karte"
+    },
+    {
+      "id": "s1-147",
+      "front": "que catalina",
+      "back": "das Katharina"
     },
     {
       "id": "s1-063",
