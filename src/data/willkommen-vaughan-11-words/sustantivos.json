@@ -316,11 +316,6 @@
       "back": "die Hauptstadt"
     },
     {
-      "id": "s1-201",
-      "front": "camisas (plural)",
-      "back": "das Hemd"
-    },
-    {
       "id": "s1-064",
       "front": "el otoño",
       "back": "der Herbst"
@@ -461,11 +456,6 @@
       "back": "das Lernen"
     },
     {
-      "id": "s1-092",
-      "front": "la gente",
-      "back": "das Leut"
-    },
-    {
       "id": "s1-093",
       "front": "el lote",
       "back": "das Los"
@@ -497,7 +487,7 @@
     },
     {
       "id": "s1-099",
-      "front": "personas / gente (plural)",
+      "front": "el ser humano",
       "back": "der Mensch"
     },
     {
@@ -716,9 +706,9 @@
       "back": "das Singen"
     },
     {
-      "id": "s1-146",
+      "id": "s1-208",
       "front": "calcetines (plural)",
-      "back": "der Socken"
+      "back": "die Socke"
     },
     {
       "id": "s1-147",
@@ -896,6 +886,11 @@
       "back": "die Vorspeise"
     },
     {
+      "id": "s1-209",
+      "front": "la ballena",
+      "back": "der Wal"
+    },
+    {
       "id": "s1-182",
       "front": "el agua",
       "back": "das Wasser"
@@ -909,6 +904,11 @@
       "id": "s1-184",
       "front": "vino",
       "back": "der Wein"
+    },
+    {
+      "id": "s1-210",
+      "front": "el viñedo",
+      "back": "der Weinberg"
     },
     {
       "id": "s1-185",
