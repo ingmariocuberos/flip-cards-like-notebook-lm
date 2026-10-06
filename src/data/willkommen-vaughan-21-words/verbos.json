@@ -1,0 +1,49 @@
+{
+  "bookId": "willkommen-vaughan-21-words",
+  "bookTitle": "Buch 21 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-002",
+      "front": "aprender / estudiar",
+      "back": "lernen"
+    },
+    {
+      "id": "s2-003",
+      "front": "leer",
+      "back": "lesen"
+    },
+    {
+      "id": "s2-004",
+      "front": "significar",
+      "back": "meinen"
+    },
+    {
+      "id": "s2-005",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-006",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-007",
+      "front": "entender",
+      "back": "verstehen"
+    },
+    {
+      "id": "s2-008",
+      "front": "vivir / residir",
+      "back": "wohnen"
+    }
+  ]
+}
