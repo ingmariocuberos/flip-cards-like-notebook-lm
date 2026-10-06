@@ -56,11 +56,6 @@
       "back": "der Dank"
     },
     {
-      "id": "s1-011",
-      "front": "la alemania",
-      "back": "das Deutschland"
-    },
-    {
       "id": "s1-012",
       "front": "la estupidez",
       "back": "die Dummheit"
@@ -69,11 +64,6 @@
       "id": "s1-013",
       "front": "el esoterismo",
       "back": "die Esoterik"
-    },
-    {
-      "id": "s1-014",
-      "front": "la europa",
-      "back": "die Europa"
     },
     {
       "id": "s1-015",
@@ -156,11 +146,6 @@
       "back": "der Hut"
     },
     {
-      "id": "s1-031",
-      "front": "irán",
-      "back": "der Iran"
-    },
-    {
       "id": "s1-032",
       "front": "chaqueta",
       "back": "die Jacke"
@@ -206,6 +191,11 @@
       "back": "die Kunst"
     },
     {
+      "id": "s1-093",
+      "front": "el amor",
+      "back": "die Liebe"
+    },
+    {
       "id": "s1-041",
       "front": "la literatura",
       "back": "die Literatur"
@@ -246,7 +236,7 @@
       "back": "die Mütze"
     },
     {
-      "id": "s1-049",
+      "id": "s1-094",
       "front": "el norte",
       "back": "der Norden"
     },
@@ -266,11 +256,6 @@
       "back": "die Party"
     },
     {
-      "id": "s1-053",
-      "front": "Porsche",
-      "back": "der Porsche"
-    },
-    {
       "id": "s1-054",
       "front": "el problema",
       "back": "das Problem"
@@ -286,7 +271,7 @@
       "back": "die Regenjacke"
     },
     {
-      "id": "s1-057",
+      "id": "s1-095",
       "front": "el impermeable",
       "back": "der Regenmantel"
     },
@@ -361,9 +346,9 @@
       "back": "die Stadtmitte"
     },
     {
-      "id": "s1-072",
-      "front": "la pluma",
-      "back": "der Stift"
+      "id": "s1-096",
+      "front": "la abadía",
+      "back": "das Stift"
     },
     {
       "id": "s1-073",
@@ -386,7 +371,7 @@
       "back": "die Tankstelle"
     },
     {
-      "id": "s1-077",
+      "id": "s1-097",
       "front": "los mil",
       "back": "die Tausend"
     },
@@ -402,7 +387,7 @@
     },
     {
       "id": "s1-080",
-      "front": "cascadas (plural)",
+      "front": "la cascada",
       "back": "der Wasserfall"
     },
     {
