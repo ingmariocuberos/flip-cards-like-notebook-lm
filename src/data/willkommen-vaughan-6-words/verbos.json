@@ -6,6 +6,11 @@
   "order": 2,
   "cards": [
     {
+      "id": "s2-010",
+      "front": "aprobar",
+      "back": "billigen"
+    },
+    {
       "id": "s2-001",
       "front": "dar",
       "back": "geben"
@@ -36,6 +41,11 @@
       "back": "mögen"
     },
     {
+      "id": "s2-011",
+      "front": "enviar",
+      "back": "schicken"
+    },
+    {
       "id": "s2-007",
       "front": "ver",
       "back": "sehen"
@@ -44,6 +54,11 @@
       "id": "s2-008",
       "front": "ser / estar",
       "back": "sein"
+    },
+    {
+      "id": "s2-012",
+      "front": "genial",
+      "back": "tollen"
     },
     {
       "id": "s2-009",
