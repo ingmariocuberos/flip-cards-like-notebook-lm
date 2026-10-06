@@ -66,11 +66,6 @@
       "back": "früh"
     },
     {
-      "id": "s3-013",
-      "front": "antes",
-      "back": "früher"
-    },
-    {
       "id": "s3-014",
       "front": "incluso",
       "back": "gar"
@@ -94,11 +89,6 @@
       "id": "s3-018",
       "front": "saludable",
       "back": "gesund"
-    },
-    {
-      "id": "s3-019",
-      "front": "lo mismo",
-      "back": "gleich"
     },
     {
       "id": "s3-020",
@@ -141,8 +131,13 @@
       "back": "krank"
     },
     {
-      "id": "s3-028",
+      "id": "s3-067",
       "front": "largo",
+      "back": "lang"
+    },
+    {
+      "id": "s3-028",
+      "front": "largo (lange)",
       "back": "lange"
     },
     {
@@ -164,11 +159,6 @@
       "id": "s3-032",
       "front": "veces",
       "back": "mal"
-    },
-    {
-      "id": "s3-033",
-      "front": "más",
-      "back": "mehr"
     },
     {
       "id": "s3-034",
@@ -261,11 +251,6 @@
       "back": "spät"
     },
     {
-      "id": "s3-052",
-      "front": "más tarde / luego",
-      "back": "später"
-    },
-    {
       "id": "s3-053",
       "front": "pasado mañana",
       "back": "übermorgen"
@@ -292,7 +277,7 @@
     },
     {
       "id": "s3-058",
-      "front": "antes (vorhin)",
+      "front": "antes",
       "back": "vorhin"
     },
     {
@@ -319,11 +304,6 @@
       "id": "s3-063",
       "front": "¿cómo?",
       "back": "wie"
-    },
-    {
-      "id": "s3-064",
-      "front": "querer",
-      "back": "wollen"
     },
     {
       "id": "s3-065",
