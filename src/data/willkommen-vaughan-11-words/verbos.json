@@ -56,11 +56,6 @@
       "back": "heißen"
     },
     {
-      "id": "s2-011",
-      "front": "más largo",
-      "back": "längern"
-    },
-    {
       "id": "s2-012",
       "front": "aprender / estudiar",
       "back": "lernen"
@@ -96,6 +91,11 @@
       "back": "rauchen"
     },
     {
+      "id": "s2-022",
+      "front": "enriquecer",
+      "back": "reichern"
+    },
+    {
       "id": "s2-019",
       "front": "ser / estar",
       "back": "sein"
@@ -109,6 +109,11 @@
       "id": "s2-021",
       "front": "ganar (verdienen)",
       "back": "verdienen"
+    },
+    {
+      "id": "s2-023",
+      "front": "querer",
+      "back": "wollen"
     }
   ]
 }
