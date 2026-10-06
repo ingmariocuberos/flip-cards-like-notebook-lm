@@ -1,0 +1,539 @@
+{
+  "bookId": "willkommen-vaughan-50-words",
+  "bookTitle": "Buch 50 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la salida",
+      "back": "die Abfahrt"
+    },
+    {
+      "id": "s1-002",
+      "front": "la salida (Abflug)",
+      "back": "der Abflug"
+    },
+    {
+      "id": "s1-003",
+      "front": "abogado",
+      "back": "der Anwalt"
+    },
+    {
+      "id": "s1-004",
+      "front": "médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-005",
+      "front": "la vanguardia",
+      "back": "der Avant"
+    },
+    {
+      "id": "s1-006",
+      "front": "la condición",
+      "back": "die Bedingung"
+    },
+    {
+      "id": "s1-007",
+      "front": "la relación",
+      "back": "die Beziehung"
+    },
+    {
+      "id": "s1-008",
+      "front": "cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-009",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-010",
+      "front": "castillo / fortaleza",
+      "back": "die Burg"
+    },
+    {
+      "id": "s1-011",
+      "front": "la china",
+      "back": "die China"
+    },
+    {
+      "id": "s1-012",
+      "front": "los cree",
+      "back": "das Cree"
+    },
+    {
+      "id": "s1-013",
+      "front": "la entrada (para un evento)",
+      "back": "die Eintrittskarte"
+    },
+    {
+      "id": "s1-014",
+      "front": "la comida",
+      "back": "das Essen"
+    },
+    {
+      "id": "s1-015",
+      "front": "el estonio",
+      "back": "der Este"
+    },
+    {
+      "id": "s1-016",
+      "front": "el caso",
+      "back": "der Fall"
+    },
+    {
+      "id": "s1-017",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-018",
+      "front": "celebraciones (plural de Feier)",
+      "back": "die Feier"
+    },
+    {
+      "id": "s1-019",
+      "front": "el espectador de televisión",
+      "back": "der Fernsehzuschauer"
+    },
+    {
+      "id": "s1-020",
+      "front": "la empresa",
+      "back": "die Firma"
+    },
+    {
+      "id": "s1-021",
+      "front": "aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-022",
+      "front": "las preguntas",
+      "back": "die Frage"
+    },
+    {
+      "id": "s1-023",
+      "front": "francés (idioma)",
+      "back": "das Französisch"
+    },
+    {
+      "id": "s1-024",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-025",
+      "front": "el partido de futbol",
+      "back": "das Fußballspiel"
+    },
+    {
+      "id": "s1-026",
+      "front": "el jardín",
+      "back": "der Garten"
+    },
+    {
+      "id": "s1-027",
+      "front": "el invitado / el huésped",
+      "back": "der Gast"
+    },
+    {
+      "id": "s1-028",
+      "front": "fiestas de cumpleaños (plural de Geburtstagsfeier)",
+      "back": "die Geburtstagsfeier"
+    },
+    {
+      "id": "s1-029",
+      "front": "el pastel de cumpleaños",
+      "back": "der Geburtstagskuchen"
+    },
+    {
+      "id": "s1-030",
+      "front": "la conversación",
+      "back": "das Gespräch"
+    },
+    {
+      "id": "s1-031",
+      "front": "el apretón de manos",
+      "back": "der Handschlag"
+    },
+    {
+      "id": "s1-032",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-033",
+      "front": "el señor",
+      "back": "der Herr"
+    },
+    {
+      "id": "s1-034",
+      "front": "ayuda / auxilio",
+      "back": "die Hilfe"
+    },
+    {
+      "id": "s1-035",
+      "front": "la ayuda",
+      "back": "das Hilfsmittel"
+    },
+    {
+      "id": "s1-036",
+      "front": "la inundación",
+      "back": "das Hochwasser"
+    },
+    {
+      "id": "s1-037",
+      "front": "la esperanza",
+      "back": "die Hoffnung"
+    },
+    {
+      "id": "s1-038",
+      "front": "hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-039",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-040",
+      "front": "el capitulo",
+      "back": "das Kapitel"
+    },
+    {
+      "id": "s1-041",
+      "front": "queso",
+      "back": "der Käse"
+    },
+    {
+      "id": "s1-042",
+      "front": "la caja",
+      "back": "der Kasten"
+    },
+    {
+      "id": "s1-043",
+      "front": "las cajas",
+      "back": "die Kästen"
+    },
+    {
+      "id": "s1-044",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-045",
+      "front": "el compromiso",
+      "back": "der Kompromiss"
+    },
+    {
+      "id": "s1-046",
+      "front": "conciertos (plural de Konzert)",
+      "back": "das Konzert"
+    },
+    {
+      "id": "s1-047",
+      "front": "la ambulancia (Krankenwagen)",
+      "back": "der Krankenwagen"
+    },
+    {
+      "id": "s1-048",
+      "front": "la cruz",
+      "back": "das Kreuz"
+    },
+    {
+      "id": "s1-049",
+      "front": "el pastel",
+      "back": "der Kuchen"
+    },
+    {
+      "id": "s1-050",
+      "front": "el refrigerador",
+      "back": "der Kühlschrank"
+    },
+    {
+      "id": "s1-051",
+      "front": "el beso",
+      "back": "das Küssen"
+    },
+    {
+      "id": "s1-052",
+      "front": "el aterrizaje",
+      "back": "die Landung"
+    },
+    {
+      "id": "s1-053",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-054",
+      "front": "los pulmones",
+      "back": "die Lunge"
+    },
+    {
+      "id": "s1-055",
+      "front": "el equipo",
+      "back": "die Mannschaft"
+    },
+    {
+      "id": "s1-056",
+      "front": "el millón",
+      "back": "die Million"
+    },
+    {
+      "id": "s1-057",
+      "front": "el minuto",
+      "back": "die Minute"
+    },
+    {
+      "id": "s1-058",
+      "front": "el mir",
+      "back": "der Mir"
+    },
+    {
+      "id": "s1-059",
+      "front": "momentos (plural de Moment)",
+      "back": "der Moment"
+    },
+    {
+      "id": "s1-060",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-061",
+      "front": "el turno de noche",
+      "back": "die Nachtschicht"
+    },
+    {
+      "id": "s1-062",
+      "front": "el desastre natural",
+      "back": "die Naturkatastrophe"
+    },
+    {
+      "id": "s1-063",
+      "front": "el nuevo comienzo",
+      "back": "der Neuanfang"
+    },
+    {
+      "id": "s1-064",
+      "front": "la ensalada de pasta",
+      "back": "der Nudelsalat"
+    },
+    {
+      "id": "s1-065",
+      "front": "la abuela (coloquial)",
+      "back": "die Oma"
+    },
+    {
+      "id": "s1-066",
+      "front": "la víctima",
+      "back": "das Opfer"
+    },
+    {
+      "id": "s1-067",
+      "front": "el oso panda",
+      "back": "der Pandabär"
+    },
+    {
+      "id": "s1-068",
+      "front": "el pasaporte",
+      "back": "der Pass"
+    },
+    {
+      "id": "s1-069",
+      "front": "policía (institución)",
+      "back": "die Polizei"
+    },
+    {
+      "id": "s1-070",
+      "front": "el precio",
+      "back": "der Preis"
+    },
+    {
+      "id": "s1-071",
+      "front": "el gobierno",
+      "back": "die Regierung"
+    },
+    {
+      "id": "s1-072",
+      "front": "la región",
+      "back": "die Region"
+    },
+    {
+      "id": "s1-073",
+      "front": "el dueño del restaurante",
+      "back": "der Restaurantbesitzer"
+    },
+    {
+      "id": "s1-074",
+      "front": "la novela",
+      "back": "der Roman"
+    },
+    {
+      "id": "s1-075",
+      "front": "la tienda de discos",
+      "back": "der Schallplattenladen"
+    },
+    {
+      "id": "s1-076",
+      "front": "la apariencia",
+      "back": "der Schein"
+    },
+    {
+      "id": "s1-077",
+      "front": "el ver",
+      "back": "das Sehen"
+    },
+    {
+      "id": "s1-078",
+      "front": "la pagina",
+      "back": "die Seite"
+    },
+    {
+      "id": "s1-079",
+      "front": "el semestre",
+      "back": "das Semester"
+    },
+    {
+      "id": "s1-080",
+      "front": "el programa (de TV)",
+      "back": "die Sendung"
+    },
+    {
+      "id": "s1-081",
+      "front": "el solitario",
+      "back": "das Solo"
+    },
+    {
+      "id": "s1-082",
+      "front": "la preocupación",
+      "back": "die Sorge"
+    },
+    {
+      "id": "s1-083",
+      "front": "el jugador",
+      "back": "der Spieler"
+    },
+    {
+      "id": "s1-084",
+      "front": "la ciudad",
+      "back": "die Stadt"
+    },
+    {
+      "id": "s1-085",
+      "front": "la hora",
+      "back": "die Stunde"
+    },
+    {
+      "id": "s1-086",
+      "front": "la sopa",
+      "back": "die Suppe"
+    },
+    {
+      "id": "s1-087",
+      "front": "la parte",
+      "back": "das Teil"
+    },
+    {
+      "id": "s1-088",
+      "front": "el tema (Thema)",
+      "back": "das Thema"
+    },
+    {
+      "id": "s1-089",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-090",
+      "front": "el abrazo",
+      "back": "die Umarmung"
+    },
+    {
+      "id": "s1-091",
+      "front": "las circunstancias",
+      "back": "der Umstand"
+    },
+    {
+      "id": "s1-092",
+      "front": "el debajo",
+      "back": "der Unter"
+    },
+    {
+      "id": "s1-093",
+      "front": "eventos (plural de Veranstaltung)",
+      "back": "die Veranstaltung"
+    },
+    {
+      "id": "s1-094",
+      "front": "la responsabilidad",
+      "back": "die Verantwortung"
+    },
+    {
+      "id": "s1-095",
+      "front": "el club",
+      "back": "der Verein"
+    },
+    {
+      "id": "s1-096",
+      "front": "la orden",
+      "back": "die Verfügung"
+    },
+    {
+      "id": "s1-097",
+      "front": "el cuarto de hora",
+      "back": "die Viertelstunde"
+    },
+    {
+      "id": "s1-098",
+      "front": "el de",
+      "back": "der Von"
+    },
+    {
+      "id": "s1-099",
+      "front": "el rato",
+      "back": "die Weile"
+    },
+    {
+      "id": "s1-100",
+      "front": "la reunion",
+      "back": "das Wiedersehen"
+    },
+    {
+      "id": "s1-101",
+      "front": "la bienvenida",
+      "back": "das Willkommen"
+    },
+    {
+      "id": "s1-102",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-103",
+      "front": "piso / vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-104",
+      "front": "tiempo",
+      "back": "die Zeit"
+    },
+    {
+      "id": "s1-105",
+      "front": "la habitación",
+      "back": "das Zimmer"
+    },
+    {
+      "id": "s1-106",
+      "front": "el tren",
+      "back": "der Zug"
+    }
+  ]
+}
