@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-50",
+  "bookTitle": "Buch 50",
+  "sektionId": "sektion-2",
+  "sektionTitle": "Sektion 2: formas de expresar cuánto queda",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-t001",
+      "front": "No ha sobrado nada de la comida.",
+      "back": "Es ist nichts vom Essen übrig."
+    },
+    {
+      "id": "s2-t002",
+      "front": "¿Queda algo todavía?",
+      "back": "Ist noch etwas übrig?"
+    },
+    {
+      "id": "s2-t003",
+      "front": "Creo que todavía queda algo.",
+      "back": "Ich glaube, es ist noch etwas übrig."
+    },
+    {
+      "id": "s2-t004",
+      "front": "Después de la fiesta sobró una caja de cerveza.",
+      "back": "Nach der Feier war ein Kasten Bier übrig."
+    },
+    {
+      "id": "s2-t005",
+      "front": "Después de la fiesta de cumpleaños sobraron dos cajas de cerveza.",
+      "back": "Nach der Geburtstagsfeier waren zwei Kästen Bier übrig."
+    },
+    {
+      "id": "s2-t006",
+      "front": "Ya no quedaba nada cuando llegué a casa.",
+      "back": "Es war nichts mehr übrig, als ich nach Hause kam."
+    },
+    {
+      "id": "s2-t007",
+      "front": "Seguro que va a sobrar algo.",
+      "back": "Es bleibt sicher etwas übrig."
+    },
+    {
+      "id": "s2-t008",
+      "front": "Seguro que no va a sobrar nada de la comida.",
+      "back": "Es bleibt sicher nichts vom Essen übrig."
+    },
+    {
+      "id": "s2-t009",
+      "front": "Cuando sobra comida, se la dan al perro.",
+      "back": "Wenn Essen übrig bleibt, bekommt es der Hund."
+    },
+    {
+      "id": "s2-t010",
+      "front": "No ha sobrado nada de la ensalada de pasta.",
+      "back": "Es ist nichts von dem Nudelsalat übrig geblieben."
+    },
+    {
+      "id": "s2-t011",
+      "front": "No ha quedado nada del castillo.",
+      "back": "Von der Burg ist nichts übrig geblieben."
+    },
+    {
+      "id": "s2-t012",
+      "front": "Ha sobrado algo de la tarta de cumpleaños.",
+      "back": "Von dem Geburtstagskuchen ist etwas übrig geblieben."
+    },
+    {
+      "id": "s2-t013",
+      "front": "No me queda otra que ir a la policía.",
+      "back": "Mir bleibt nichts anderes übrig, als zur Polizei zu gehen."
+    },
+    {
+      "id": "s2-t014",
+      "front": "No nos quedó otra que llamar a un médico.",
+      "back": "Uns blieb nichts anderes übrig, als einen Arzt zu holen."
+    },
+    {
+      "id": "s2-t015",
+      "front": "A él no le quedaba otra que esperar.",
+      "back": "Ihm blieb nichts anderes übrig, als zu warten."
+    },
+    {
+      "id": "s2-t016",
+      "front": "Quedan diez entradas.",
+      "back": "Es gibt noch zehn Eintrittskarten."
+    },
+    {
+      "id": "s2-t017",
+      "front": "En la nevera queda algo de sopa.",
+      "back": "Es gibt noch etwas Suppe im Kühlschrank."
+    },
+    {
+      "id": "s2-t018",
+      "front": "Queda una tienda de discos en mi ciudad.",
+      "back": "Es gibt noch einen Schallplattenladen in meiner Stadt."
+    },
+    {
+      "id": "s2-t019",
+      "front": "Solo quedan unos pocos osos panda.",
+      "back": "Es gibt nur noch wenige Pandabären."
+    },
+    {
+      "id": "s2-t020",
+      "front": "Solo queda una tienda de música en mi ciudad.",
+      "back": "Es gibt nur noch einen Musikladen in meiner Stadt."
+    },
+    {
+      "id": "s2-t021",
+      "front": "Solo quedan unas pocas tiendas de discos.",
+      "back": "Es gibt nur noch wenige Schallplattenläden."
+    },
+    {
+      "id": "s2-t022",
+      "front": "Apenas quedan habitaciones libres.",
+      "back": "Es gibt kaum noch freie Zimmer."
+    },
+    {
+      "id": "s2-t023",
+      "front": "Apenas quedan buenos jugadores en el equipo.",
+      "back": "Es gibt kaum noch gute Spieler in der Mannschaft."
+    },
+    {
+      "id": "s2-t024",
+      "front": "Apenas queda esperanza.",
+      "back": "Es gibt kaum noch Hoffnung."
+    },
+    {
+      "id": "s2-t025",
+      "front": "Ya no queda queso.",
+      "back": "Es gibt keinen Käse mehr."
+    },
+    {
+      "id": "s2-t026",
+      "front": "En algunas regiones de China ya no quedan osos panda.",
+      "back": "In manchen Regionen Chinas gibt es keine Pandabären mehr."
+    },
+    {
+      "id": "s2-t027",
+      "front": "Este fin de semana ya no quedan habitaciones libres.",
+      "back": "Dieses Wochenende gibt es keine freien Zimmer mehr."
+    },
+    {
+      "id": "s2-t028",
+      "front": "¿Queda tarta?",
+      "back": "Gibt es noch Kuchen?"
+    },
+    {
+      "id": "s2-t029",
+      "front": "¿Quedan preguntas sobre este tema?",
+      "back": "Gibt es noch Fragen zu diesem Thema?"
+    },
+    {
+      "id": "s2-t030",
+      "front": "¿Dónde quedan tiendas de discos?",
+      "back": "Wo gibt es noch Schallplattenläden?"
+    },
+    {
+      "id": "s2-t031",
+      "front": "Me quedan diez páginas.",
+      "back": "Es fehlen mir zehn Seiten."
+    },
+    {
+      "id": "s2-t032",
+      "front": "Me quedan tres capítulos para terminar.",
+      "back": "Es fehlen mir drei Kapitel, bis ich fertig bin."
+    },
+    {
+      "id": "s2-t033",
+      "front": "Me queda un capítulo para terminar el libro.",
+      "back": "Mir fehlt ein Kapitel, bis ich mit dem Buch fertig bin."
+    },
+    {
+      "id": "s2-t034",
+      "front": "Todavía me quedan cinco páginas.",
+      "back": "Es fehlen mir noch fünf Seiten."
+    },
+    {
+      "id": "s2-t035",
+      "front": "Todavía me queda un capítulo para terminar la novela.",
+      "back": "Es fehlt mir noch ein Kapitel, bis ich mit dem Roman fertig bin."
+    },
+    {
+      "id": "s2-t036",
+      "front": "A él todavía le quedan dos asignaturas para terminar el semestre.",
+      "back": "Ihm fehlen noch zwei Scheine, bis er mit dem Semester fertig ist."
+    },
+    {
+      "id": "s2-t037",
+      "front": "¿Cuántas páginas te quedan?",
+      "back": "Wie viele Seiten fehlen dir noch?"
+    },
+    {
+      "id": "s2-t038",
+      "front": "Queda media hora para el aterrizaje.",
+      "back": "Es dauert noch eine halbe Stunde bis zur Landung."
+    },
+    {
+      "id": "s2-t039",
+      "front": "Queda un rato para el despegue.",
+      "back": "Es dauert noch ein bisschen bis zum Abflug."
+    },
+    {
+      "id": "s2-t040",
+      "front": "Quedan unos diez minutos para la salida.",
+      "back": "Es dauert noch etwa zehn Minuten bis zur Abfahrt."
+    },
+    {
+      "id": "s2-t041",
+      "front": "Quedan dos horas para llegar a casa.",
+      "back": "Es dauert noch zwei Stunden, bis wir zuhause sind."
+    },
+    {
+      "id": "s2-t042",
+      "front": "Queda un rato para que podamos embarcar.",
+      "back": "Es dauert noch eine Weile, bis wir einsteigen können."
+    },
+    {
+      "id": "s2-t043",
+      "front": "¿Cuánto queda?",
+      "back": "Wie lange dauert es noch?"
+    },
+    {
+      "id": "s2-t044",
+      "front": "Me quedan todavía diez minutos.",
+      "back": "Ich brauche noch zehn Minuten."
+    },
+    {
+      "id": "s2-t045",
+      "front": "Me queda aproximadamente un cuarto de hora.",
+      "back": "Ich brauche noch ungefähr eine Viertelstunde."
+    },
+    {
+      "id": "s2-t046",
+      "front": "Nos queda aproximadamente una hora para terminar.",
+      "back": "Wir brauchen noch ungefähr eine Stunde, bis wir fertig sind."
+    },
+    {
+      "id": "s2-t047",
+      "front": "Todavía me queda mucho para hablar bien francés.",
+      "back": "Ich brauche noch lange, bis ich gut Französisch sprechen kann."
+    },
+    {
+      "id": "s2-t048",
+      "front": "Nos queda media hora.",
+      "back": "Wir haben noch eine halbe Stunde."
+    },
+    {
+      "id": "s2-t049",
+      "front": "No te preocupes, nos queda tiempo.",
+      "back": "Keine Sorge, wir haben noch Zeit."
+    },
+    {
+      "id": "s2-t050",
+      "front": "¿Cuánto tiempo nos queda?",
+      "back": "Wie viel Zeit haben wir noch?"
+    },
+    {
+      "id": "s2-t051",
+      "front": "Es ist nichts vom Essen übrig.",
+      "back": "No ha sobrado nada de la comida."
+    },
+    {
+      "id": "s2-t052",
+      "front": "Ist noch etwas übrig?",
+      "back": "¿Queda algo todavía?"
+    },
+    {
+      "id": "s2-t053",
+      "front": "Ich glaube, es ist noch etwas übrig.",
+      "back": "Creo que todavía queda algo."
+    },
+    {
+      "id": "s2-t054",
+      "front": "Nach der Feier war ein Kasten Bier übrig.",
+      "back": "Después de la fiesta sobró una caja de cerveza."
+    },
+    {
+      "id": "s2-t055",
+      "front": "Nach der Geburtstagsfeier waren zwei Kästen Bier übrig.",
+      "back": "Después de la fiesta de cumpleaños sobraron dos cajas de cerveza."
+    },
+    {
+      "id": "s2-t056",
+      "front": "Es war nichts mehr übrig, als ich nach Hause kam.",
+      "back": "Ya no quedaba nada cuando llegué a casa."
+    },
+    {
+      "id": "s2-t057",
+      "front": "Es bleibt sicher etwas übrig.",
+      "back": "Seguro que va a sobrar algo."
+    },
+    {
+      "id": "s2-t058",
+      "front": "Es bleibt sicher nichts vom Essen übrig.",
+      "back": "Seguro que no va a sobrar nada de la comida."
+    },
+    {
+      "id": "s2-t059",
+      "front": "Wenn Essen übrig bleibt, bekommt es der Hund.",
+      "back": "Cuando sobra comida, se la dan al perro."
+    },
+    {
+      "id": "s2-t060",
+      "front": "Es ist nichts von dem Nudelsalat übrig geblieben.",
+      "back": "No ha sobrado nada de la ensalada de pasta."
+    },
+    {
+      "id": "s2-t061",
+      "front": "Von der Burg ist nichts übrig geblieben.",
+      "back": "No ha quedado nada del castillo."
+    },
+    {
+      "id": "s2-t062",
+      "front": "Von dem Geburtstagskuchen ist etwas übrig geblieben.",
+      "back": "Ha sobrado algo de la tarta de cumpleaños."
+    },
+    {
+      "id": "s2-t063",
+      "front": "Mir bleibt nichts anderes übrig, als zur Polizei zu gehen.",
+      "back": "No me queda otra que ir a la policía."
+    },
+    {
+      "id": "s2-t064",
+      "front": "Uns blieb nichts anderes übrig, als einen Arzt zu holen.",
+      "back": "No nos quedó otra que llamar a un médico."
+    },
+    {
+      "id": "s2-t065",
+      "front": "Ihm blieb nichts anderes übrig, als zu warten.",
+      "back": "A él no le quedaba otra que esperar."
+    },
+    {
+      "id": "s2-t066",
+      "front": "Es gibt noch zehn Eintrittskarten.",
+      "back": "Quedan diez entradas."
+    },
+    {
+      "id": "s2-t067",
+      "front": "Es gibt noch etwas Suppe im Kühlschrank.",
+      "back": "En la nevera queda algo de sopa."
+    },
+    {
+      "id": "s2-t068",
+      "front": "Es gibt noch einen Schallplattenladen in meiner Stadt.",
+      "back": "Queda una tienda de discos en mi ciudad."
+    },
+    {
+      "id": "s2-t069",
+      "front": "Es gibt nur noch wenige Pandabären.",
+      "back": "Solo quedan unos pocos osos panda."
+    },
+    {
+      "id": "s2-t070",
+      "front": "Es gibt nur noch einen Musikladen in meiner Stadt.",
+      "back": "Solo queda una tienda de música en mi ciudad."
+    },
+    {
+      "id": "s2-t071",
+      "front": "Es gibt nur noch wenige Schallplattenläden.",
+      "back": "Solo quedan unas pocas tiendas de discos."
+    },
+    {
+      "id": "s2-t072",
+      "front": "Es gibt kaum noch freie Zimmer.",
+      "back": "Apenas quedan habitaciones libres."
+    },
+    {
+      "id": "s2-t073",
+      "front": "Es gibt kaum noch gute Spieler in der Mannschaft.",
+      "back": "Apenas quedan buenos jugadores en el equipo."
+    },
+    {
+      "id": "s2-t074",
+      "front": "Es gibt kaum noch Hoffnung.",
+      "back": "Apenas queda esperanza."
+    },
+    {
+      "id": "s2-t075",
+      "front": "Es gibt keinen Käse mehr.",
+      "back": "Ya no queda queso."
+    },
+    {
+      "id": "s2-t076",
+      "front": "In manchen Regionen Chinas gibt es keine Pandabären mehr.",
+      "back": "En algunas regiones de China ya no quedan osos panda."
+    },
+    {
+      "id": "s2-t077",
+      "front": "Dieses Wochenende gibt es keine freien Zimmer mehr.",
+      "back": "Este fin de semana ya no quedan habitaciones libres."
+    },
+    {
+      "id": "s2-t078",
+      "front": "Gibt es noch Kuchen?",
+      "back": "¿Queda tarta?"
+    },
+    {
+      "id": "s2-t079",
+      "front": "Gibt es noch Fragen zu diesem Thema?",
+      "back": "¿Quedan preguntas sobre este tema?"
+    },
+    {
+      "id": "s2-t080",
+      "front": "Wo gibt es noch Schallplattenläden?",
+      "back": "¿Dónde quedan tiendas de discos?"
+    },
+    {
+      "id": "s2-t081",
+      "front": "Es fehlen mir zehn Seiten.",
+      "back": "Me quedan diez páginas."
+    },
+    {
+      "id": "s2-t082",
+      "front": "Es fehlen mir drei Kapitel, bis ich fertig bin.",
+      "back": "Me quedan tres capítulos para terminar."
+    },
+    {
+      "id": "s2-t083",
+      "front": "Mir fehlt ein Kapitel, bis ich mit dem Buch fertig bin.",
+      "back": "Me queda un capítulo para terminar el libro."
+    },
+    {
+      "id": "s2-t084",
+      "front": "Es fehlen mir noch fünf Seiten.",
+      "back": "Todavía me quedan cinco páginas."
+    },
+    {
+      "id": "s2-t085",
+      "front": "Es fehlt mir noch ein Kapitel, bis ich mit dem Roman fertig bin.",
+      "back": "Todavía me queda un capítulo para terminar la novela."
+    },
+    {
+      "id": "s2-t086",
+      "front": "Ihm fehlen noch zwei Scheine, bis er mit dem Semester fertig ist.",
+      "back": "A él todavía le quedan dos asignaturas para terminar el semestre."
+    },
+    {
+      "id": "s2-t087",
+      "front": "Wie viele Seiten fehlen dir noch?",
+      "back": "¿Cuántas páginas te quedan?"
+    },
+    {
+      "id": "s2-t088",
+      "front": "Es dauert noch eine halbe Stunde bis zur Landung.",
+      "back": "Queda media hora para el aterrizaje."
+    },
+    {
+      "id": "s2-t089",
+      "front": "Es dauert noch ein bisschen bis zum Abflug.",
+      "back": "Queda un rato para el despegue."
+    },
+    {
+      "id": "s2-t090",
+      "front": "Es dauert noch etwa zehn Minuten bis zur Abfahrt.",
+      "back": "Quedan unos diez minutos para la salida."
+    },
+    {
+      "id": "s2-t091",
+      "front": "Es dauert noch zwei Stunden, bis wir zuhause sind.",
+      "back": "Quedan dos horas para llegar a casa."
+    },
+    {
+      "id": "s2-t092",
+      "front": "Es dauert noch eine Weile, bis wir einsteigen können.",
+      "back": "Queda un rato para que podamos embarcar."
+    },
+    {
+      "id": "s2-t093",
+      "front": "Wie lange dauert es noch?",
+      "back": "¿Cuánto queda?"
+    },
+    {
+      "id": "s2-t094",
+      "front": "Ich brauche noch zehn Minuten.",
+      "back": "Me quedan todavía diez minutos."
+    },
+    {
+      "id": "s2-t095",
+      "front": "Ich brauche noch ungefähr eine Viertelstunde.",
+      "back": "Me queda aproximadamente un cuarto de hora."
+    },
+    {
+      "id": "s2-t096",
+      "front": "Wir brauchen noch ungefähr eine Stunde, bis wir fertig sind.",
+      "back": "Nos queda aproximadamente una hora para terminar."
+    },
+    {
+      "id": "s2-t097",
+      "front": "Ich brauche noch lange, bis ich gut Französisch sprechen kann.",
+      "back": "Todavía me queda mucho para hablar bien francés."
+    },
+    {
+      "id": "s2-t098",
+      "front": "Wir haben noch eine halbe Stunde.",
+      "back": "Nos queda media hora."
+    },
+    {
+      "id": "s2-t099",
+      "front": "Keine Sorge, wir haben noch Zeit.",
+      "back": "No te preocupes, nos queda tiempo."
+    },
+    {
+      "id": "s2-t100",
+      "front": "Wie viel Zeit haben wir noch?",
+      "back": "¿Cuánto tiempo nos queda?"
+    },
+    {
+      "id": "s2-g001",
+      "front": "¿Qué significa übrig sein?",
+      "back": "Quedar o sobrar algo."
+    },
+    {
+      "id": "s2-g002",
+      "front": "¿Qué matiz futuro tiene übrig bleiben en presente?",
+      "back": "Indica que algo va a sobrar o quedar."
+    },
+    {
+      "id": "s2-g003",
+      "front": "¿Cuál es el participio de übrig bleiben?",
+      "back": "Übrig geblieben."
+    },
+    {
+      "id": "s2-g004",
+      "front": "¿Qué significa jemandem nichts anderes übrig bleiben?",
+      "back": "No quedarle otra o no tener más remedio."
+    },
+    {
+      "id": "s2-g005",
+      "front": "¿Cómo se dice «todavía queda/hay»?",
+      "back": "Es gibt noch..."
+    },
+    {
+      "id": "s2-g006",
+      "front": "¿Cómo se dice «solo queda»?",
+      "back": "Es gibt nur noch..."
+    },
+    {
+      "id": "s2-g007",
+      "front": "¿Cómo se dice «apenas queda»?",
+      "back": "Es gibt kaum noch..."
+    },
+    {
+      "id": "s2-g008",
+      "front": "¿Cómo se dice «ya no queda»?",
+      "back": "Es gibt keinen/keine/kein ... mehr."
+    },
+    {
+      "id": "s2-g009",
+      "front": "¿En qué caso va la persona con fehlen?",
+      "back": "En dativo: Mir fehlen noch fünf Seiten."
+    },
+    {
+      "id": "s2-g010",
+      "front": "¿Cuándo se usa bis zu y cuándo bis?",
+      "back": "Bis zu + sustantivo; bis + oración subordinada."
+    },
+    {
+      "id": "s2-g011",
+      "front": "¿Qué diferencia hay entre Ich brauche noch eine Stunde e Ich habe noch eine Stunde?",
+      "back": "La primera indica el tiempo necesario para terminar; la segunda, el tiempo disponible."
+    },
+    {
+      "id": "s2-g012",
+      "front": "¿Cómo se pregunta «Cuánto tiempo nos queda?»?",
+      "back": "Wie viel Zeit haben wir noch?"
+    }
+  ]
+}

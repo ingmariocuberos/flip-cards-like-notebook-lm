@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-50",
+  "bookTitle": "Buch 50",
+  "sektionId": "sektion-3",
+  "sektionTitle": "Sektion 3: saludos, bienvenidas y despedidas",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-t001",
+      "front": "Les doy la bienvenida a nuestro programa.",
+      "back": "Ich begrüße Sie zu unserer Sendung."
+    },
+    {
+      "id": "s3-t002",
+      "front": "Doy la bienvenida a todos los telespectadores a nuestro programa de hoy.",
+      "back": "Ich begrüße alle Fernsehzuschauer zu unserer heutigen Sendung."
+    },
+    {
+      "id": "s3-t003",
+      "front": "Les damos la bienvenida a nuestro concierto de hoy.",
+      "back": "Wir begrüßen Sie zu unserem heutigen Konzert."
+    },
+    {
+      "id": "s3-t004",
+      "front": "Les doy una calurosa bienvenida.",
+      "back": "Ich begrüße Sie ganz herzlich."
+    },
+    {
+      "id": "s3-t005",
+      "front": "Les doy una calurosa bienvenida a nuestro programa de hoy.",
+      "back": "Ich begrüße Sie ganz herzlich zu unserer heutigen Sendung."
+    },
+    {
+      "id": "s3-t006",
+      "front": "Les damos una calurosa bienvenida a nuestro evento de hoy.",
+      "back": "Wir begrüßen Sie ganz herzlich zu unserer heutigen Veranstaltung."
+    },
+    {
+      "id": "s3-t007",
+      "front": "En Alemania se saluda con un apretón de manos.",
+      "back": "In Deutschland begrüßt man sich mit einem Handschlag."
+    },
+    {
+      "id": "s3-t008",
+      "front": "En Francia se saluda con dos besos.",
+      "back": "In Frankreich begrüßt man sich mit zwei Küssen."
+    },
+    {
+      "id": "s3-t009",
+      "front": "El propietario del restaurante no me recibió personalmente.",
+      "back": "Der Restaurantbesitzer hat mich nicht persönlich begrüßt."
+    },
+    {
+      "id": "s3-t010",
+      "front": "Mi madre me recibió con un fuerte abrazo.",
+      "back": "Meine Mutter hat mich mit einer langen Umarmung begrüßt."
+    },
+    {
+      "id": "s3-t011",
+      "front": "¡Bienvenido a Alemania!",
+      "back": "Willkommen in Deutschland!"
+    },
+    {
+      "id": "s3-t012",
+      "front": "¡Bienvenido a nuestro hotel!",
+      "back": "Herzlich willkommen in unserem Hotel!"
+    },
+    {
+      "id": "s3-t013",
+      "front": "¡Bienvenido a nuestra empresa!",
+      "back": "Herzlich willkommen in unserer Firma!"
+    },
+    {
+      "id": "s3-t014",
+      "front": "¡Bienvenido a Avant!",
+      "back": "Willkommen bei Avant!"
+    },
+    {
+      "id": "s3-t015",
+      "front": "¡Bienvenido a nuestra asociación!",
+      "back": "Herzlich willkommen bei unserem Verein!"
+    },
+    {
+      "id": "s3-t016",
+      "front": "¡Bienvenido a nuestra casa!",
+      "back": "Herzlich willkommen bei uns!"
+    },
+    {
+      "id": "s3-t017",
+      "front": "¡Bienvenido de vuelta!",
+      "back": "Willkommen zurück!"
+    },
+    {
+      "id": "s3-t018",
+      "front": "¡Bienvenido a casa!",
+      "back": "Herzlich willkommen zuhause!"
+    },
+    {
+      "id": "s3-t019",
+      "front": "Usted siempre es bienvenido aquí.",
+      "back": "Sie sind hier immer herzlich willkommen."
+    },
+    {
+      "id": "s3-t020",
+      "front": "Siempre eres bienvenido a nuestra casa.",
+      "back": "Du bist bei uns immer herzlich willkommen."
+    },
+    {
+      "id": "s3-t021",
+      "front": "Los perros aquí no son bien recibidos.",
+      "back": "Hunde sind hier nicht willkommen."
+    },
+    {
+      "id": "s3-t022",
+      "front": "Aquí siempre eres bienvenido.",
+      "back": "Du bist hier jederzeit willkommen."
+    },
+    {
+      "id": "s3-t023",
+      "front": "Las familias con niños siempre son bienvenidas aquí.",
+      "back": "Familien mit Kindern sind hier jederzeit willkommen."
+    },
+    {
+      "id": "s3-t024",
+      "front": "Le doy la bienvenida.",
+      "back": "Ich heiße Sie bei uns willkommen."
+    },
+    {
+      "id": "s3-t025",
+      "front": "Le damos una calurosa bienvenida.",
+      "back": "Wir heißen Sie herzlich bei uns willkommen."
+    },
+    {
+      "id": "s3-t026",
+      "front": "Damos la bienvenida a los invitados.",
+      "back": "Wir heißen unsere Gäste bei uns willkommen."
+    },
+    {
+      "id": "s3-t027",
+      "front": "En primer lugar, me gustaría dar una calurosa bienvenida a la señora Lungen.",
+      "back": "Ich möchte zunächst Frau Lungen herzlich willkommen heißen."
+    },
+    {
+      "id": "s3-t028",
+      "front": "En primer lugar, me gustaría dar una calurosa bienvenida al señor Martinez.",
+      "back": "Zunächst möchte ich Herrn Martinez herzlich bei uns willkommen heißen."
+    },
+    {
+      "id": "s3-t029",
+      "front": "Les doy mi más calurosa bienvenida.",
+      "back": "Ich heiße Sie ganz herzlich willkommen."
+    },
+    {
+      "id": "s3-t030",
+      "front": "Me gustaría darles nuestra más calurosa bienvenida a nuestro hotel.",
+      "back": "Ich möchte Sie ganz herzlich in unserem Hotel willkommen heißen."
+    },
+    {
+      "id": "s3-t031",
+      "front": "Un momento, que me voy a despedir.",
+      "back": "Einen Moment, ich verabschiede mich noch."
+    },
+    {
+      "id": "s3-t032",
+      "front": "Él viene ahora. Se va a despedir.",
+      "back": "Er kommt gleich. Er verabschiedet sich noch."
+    },
+    {
+      "id": "s3-t033",
+      "front": "Desgraciadamente, me tengo que despedir.",
+      "back": "Ich muss mich leider verabschieden."
+    },
+    {
+      "id": "s3-t034",
+      "front": "Desgraciadamente, nos tenemos que despedir.",
+      "back": "Wir müssen uns leider verabschieden."
+    },
+    {
+      "id": "s3-t035",
+      "front": "Mi tren sale dentro de poco, así que tengo que despedirme.",
+      "back": "Mein Zug fährt bald, also muss ich mich leider verabschieden."
+    },
+    {
+      "id": "s3-t036",
+      "front": "Siento tener que despedirme, pero tengo que irme.",
+      "back": "Ich verabschiede mich ungern, aber ich muss gehen."
+    },
+    {
+      "id": "s3-t037",
+      "front": "Ahora voy. Quería despedirme un momento.",
+      "back": "Ich gehe gleich. Ich wollte mich noch kurz verabschieden."
+    },
+    {
+      "id": "s3-t038",
+      "front": "Ya me he despedido.",
+      "back": "Ich habe mich schon verabschiedet."
+    },
+    {
+      "id": "s3-t039",
+      "front": "Un momento, todavía no me he despedido.",
+      "back": "Einen Moment, ich habe mich noch nicht verabschiedet."
+    },
+    {
+      "id": "s3-t040",
+      "front": "Mañana me despediré de todos.",
+      "back": "Ich werde mich morgen von allen verabschieden."
+    },
+    {
+      "id": "s3-t041",
+      "front": "Él se despedirá de ti mañana en el aeropuerto.",
+      "back": "Er wird sich morgen am Flughafen von dir verabschieden."
+    },
+    {
+      "id": "s3-t042",
+      "front": "Quería despedirme antes de él.",
+      "back": "Ich wollte mich noch von ihm verabschieden."
+    },
+    {
+      "id": "s3-t043",
+      "front": "Un momento, por favor, que quiero despedirme de tu madre.",
+      "back": "Einen Moment, bitte, ich wollte mich noch von deiner Mutter verabschieden."
+    },
+    {
+      "id": "s3-t044",
+      "front": "No pude despedirme de todos.",
+      "back": "Ich konnte mich nicht von allen verabschieden."
+    },
+    {
+      "id": "s3-t045",
+      "front": "¿Te has despedido ya de tu abuela?",
+      "back": "Hast du dich schon von deiner Oma verabschiedet?"
+    },
+    {
+      "id": "s3-t046",
+      "front": "Quiero decir adiós un momento.",
+      "back": "Ich möchte noch schnell Tschüss sagen."
+    },
+    {
+      "id": "s3-t047",
+      "front": "Me gustaría despedirme por si no nos vemos más.",
+      "back": "Ich möchte schon mal auf Wiedersehen sagen, falls wir uns nicht mehr sehen."
+    },
+    {
+      "id": "s3-t048",
+      "front": "¿Nos vemos mañana? Si no, ya te digo adiós ahora.",
+      "back": "Sehen wir uns morgen noch? Sonst sage ich jetzt schon Tschüss."
+    },
+    {
+      "id": "s3-t049",
+      "front": "Quería decirte adiós un momento antes de salir de viaje.",
+      "back": "Ich wollte dir nur kurz Tschüss sagen, bevor ich abreise."
+    },
+    {
+      "id": "s3-t050",
+      "front": "Queríamos despedirnos de todos antes de irnos.",
+      "back": "Wir wollten nur kurz allen auf Wiedersehen sagen, bevor wir gehen."
+    },
+    {
+      "id": "s3-t051",
+      "front": "Ich begrüße Sie zu unserer Sendung.",
+      "back": "Les doy la bienvenida a nuestro programa."
+    },
+    {
+      "id": "s3-t052",
+      "front": "Ich begrüße alle Fernsehzuschauer zu unserer heutigen Sendung.",
+      "back": "Doy la bienvenida a todos los telespectadores a nuestro programa de hoy."
+    },
+    {
+      "id": "s3-t053",
+      "front": "Wir begrüßen Sie zu unserem heutigen Konzert.",
+      "back": "Les damos la bienvenida a nuestro concierto de hoy."
+    },
+    {
+      "id": "s3-t054",
+      "front": "Ich begrüße Sie ganz herzlich.",
+      "back": "Les doy una calurosa bienvenida."
+    },
+    {
+      "id": "s3-t055",
+      "front": "Ich begrüße Sie ganz herzlich zu unserer heutigen Sendung.",
+      "back": "Les doy una calurosa bienvenida a nuestro programa de hoy."
+    },
+    {
+      "id": "s3-t056",
+      "front": "Wir begrüßen Sie ganz herzlich zu unserer heutigen Veranstaltung.",
+      "back": "Les damos una calurosa bienvenida a nuestro evento de hoy."
+    },
+    {
+      "id": "s3-t057",
+      "front": "In Deutschland begrüßt man sich mit einem Handschlag.",
+      "back": "En Alemania se saluda con un apretón de manos."
+    },
+    {
+      "id": "s3-t058",
+      "front": "In Frankreich begrüßt man sich mit zwei Küssen.",
+      "back": "En Francia se saluda con dos besos."
+    },
+    {
+      "id": "s3-t059",
+      "front": "Der Restaurantbesitzer hat mich nicht persönlich begrüßt.",
+      "back": "El propietario del restaurante no me recibió personalmente."
+    },
+    {
+      "id": "s3-t060",
+      "front": "Meine Mutter hat mich mit einer langen Umarmung begrüßt.",
+      "back": "Mi madre me recibió con un fuerte abrazo."
+    },
+    {
+      "id": "s3-t061",
+      "front": "Willkommen in Deutschland!",
+      "back": "¡Bienvenido a Alemania!"
+    },
+    {
+      "id": "s3-t062",
+      "front": "Herzlich willkommen in unserem Hotel!",
+      "back": "¡Bienvenido a nuestro hotel!"
+    },
+    {
+      "id": "s3-t063",
+      "front": "Herzlich willkommen in unserer Firma!",
+      "back": "¡Bienvenido a nuestra empresa!"
+    },
+    {
+      "id": "s3-t064",
+      "front": "Willkommen bei Avant!",
+      "back": "¡Bienvenido a Avant!"
+    },
+    {
+      "id": "s3-t065",
+      "front": "Herzlich willkommen bei unserem Verein!",
+      "back": "¡Bienvenido a nuestra asociación!"
+    },
+    {
+      "id": "s3-t066",
+      "front": "Herzlich willkommen bei uns!",
+      "back": "¡Bienvenido a nuestra casa!"
+    },
+    {
+      "id": "s3-t067",
+      "front": "Willkommen zurück!",
+      "back": "¡Bienvenido de vuelta!"
+    },
+    {
+      "id": "s3-t068",
+      "front": "Herzlich willkommen zuhause!",
+      "back": "¡Bienvenido a casa!"
+    },
+    {
+      "id": "s3-t069",
+      "front": "Sie sind hier immer herzlich willkommen.",
+      "back": "Usted siempre es bienvenido aquí."
+    },
+    {
+      "id": "s3-t070",
+      "front": "Du bist bei uns immer herzlich willkommen.",
+      "back": "Siempre eres bienvenido a nuestra casa."
+    },
+    {
+      "id": "s3-t071",
+      "front": "Hunde sind hier nicht willkommen.",
+      "back": "Los perros aquí no son bien recibidos."
+    },
+    {
+      "id": "s3-t072",
+      "front": "Du bist hier jederzeit willkommen.",
+      "back": "Aquí siempre eres bienvenido."
+    },
+    {
+      "id": "s3-t073",
+      "front": "Familien mit Kindern sind hier jederzeit willkommen.",
+      "back": "Las familias con niños siempre son bienvenidas aquí."
+    },
+    {
+      "id": "s3-t074",
+      "front": "Ich heiße Sie bei uns willkommen.",
+      "back": "Le doy la bienvenida."
+    },
+    {
+      "id": "s3-t075",
+      "front": "Wir heißen Sie herzlich bei uns willkommen.",
+      "back": "Le damos una calurosa bienvenida."
+    },
+    {
+      "id": "s3-t076",
+      "front": "Wir heißen unsere Gäste bei uns willkommen.",
+      "back": "Damos la bienvenida a los invitados."
+    },
+    {
+      "id": "s3-t077",
+      "front": "Ich möchte zunächst Frau Lungen herzlich willkommen heißen.",
+      "back": "En primer lugar, me gustaría dar una calurosa bienvenida a la señora Lungen."
+    },
+    {
+      "id": "s3-t078",
+      "front": "Zunächst möchte ich Herrn Martinez herzlich bei uns willkommen heißen.",
+      "back": "En primer lugar, me gustaría dar una calurosa bienvenida al señor Martinez."
+    },
+    {
+      "id": "s3-t079",
+      "front": "Ich heiße Sie ganz herzlich willkommen.",
+      "back": "Les doy mi más calurosa bienvenida."
+    },
+    {
+      "id": "s3-t080",
+      "front": "Ich möchte Sie ganz herzlich in unserem Hotel willkommen heißen.",
+      "back": "Me gustaría darles nuestra más calurosa bienvenida a nuestro hotel."
+    },
+    {
+      "id": "s3-t081",
+      "front": "Einen Moment, ich verabschiede mich noch.",
+      "back": "Un momento, que me voy a despedir."
+    },
+    {
+      "id": "s3-t082",
+      "front": "Er kommt gleich. Er verabschiedet sich noch.",
+      "back": "Él viene ahora. Se va a despedir."
+    },
+    {
+      "id": "s3-t083",
+      "front": "Ich muss mich leider verabschieden.",
+      "back": "Desgraciadamente, me tengo que despedir."
+    },
+    {
+      "id": "s3-t084",
+      "front": "Wir müssen uns leider verabschieden.",
+      "back": "Desgraciadamente, nos tenemos que despedir."
+    },
+    {
+      "id": "s3-t085",
+      "front": "Mein Zug fährt bald, also muss ich mich leider verabschieden.",
+      "back": "Mi tren sale dentro de poco, así que tengo que despedirme."
+    },
+    {
+      "id": "s3-t086",
+      "front": "Ich verabschiede mich ungern, aber ich muss gehen.",
+      "back": "Siento tener que despedirme, pero tengo que irme."
+    },
+    {
+      "id": "s3-t087",
+      "front": "Ich gehe gleich. Ich wollte mich noch kurz verabschieden.",
+      "back": "Ahora voy. Quería despedirme un momento."
+    },
+    {
+      "id": "s3-t088",
+      "front": "Ich habe mich schon verabschiedet.",
+      "back": "Ya me he despedido."
+    },
+    {
+      "id": "s3-t089",
+      "front": "Einen Moment, ich habe mich noch nicht verabschiedet.",
+      "back": "Un momento, todavía no me he despedido."
+    },
+    {
+      "id": "s3-t090",
+      "front": "Ich werde mich morgen von allen verabschieden.",
+      "back": "Mañana me despediré de todos."
+    },
+    {
+      "id": "s3-t091",
+      "front": "Er wird sich morgen am Flughafen von dir verabschieden.",
+      "back": "Él se despedirá de ti mañana en el aeropuerto."
+    },
+    {
+      "id": "s3-t092",
+      "front": "Ich wollte mich noch von ihm verabschieden.",
+      "back": "Quería despedirme antes de él."
+    },
+    {
+      "id": "s3-t093",
+      "front": "Einen Moment, bitte, ich wollte mich noch von deiner Mutter verabschieden.",
+      "back": "Un momento, por favor, que quiero despedirme de tu madre."
+    },
+    {
+      "id": "s3-t094",
+      "front": "Ich konnte mich nicht von allen verabschieden.",
+      "back": "No pude despedirme de todos."
+    },
+    {
+      "id": "s3-t095",
+      "front": "Hast du dich schon von deiner Oma verabschiedet?",
+      "back": "¿Te has despedido ya de tu abuela?"
+    },
+    {
+      "id": "s3-t096",
+      "front": "Ich möchte noch schnell Tschüss sagen.",
+      "back": "Quiero decir adiós un momento."
+    },
+    {
+      "id": "s3-t097",
+      "front": "Ich möchte schon mal auf Wiedersehen sagen, falls wir uns nicht mehr sehen.",
+      "back": "Me gustaría despedirme por si no nos vemos más."
+    },
+    {
+      "id": "s3-t098",
+      "front": "Sehen wir uns morgen noch? Sonst sage ich jetzt schon Tschüss.",
+      "back": "¿Nos vemos mañana? Si no, ya te digo adiós ahora."
+    },
+    {
+      "id": "s3-t099",
+      "front": "Ich wollte dir nur kurz Tschüss sagen, bevor ich abreise.",
+      "back": "Quería decirte adiós un momento antes de salir de viaje."
+    },
+    {
+      "id": "s3-t100",
+      "front": "Wir wollten nur kurz allen auf Wiedersehen sagen, bevor wir gehen.",
+      "back": "Queríamos despedirnos de todos antes de irnos."
+    },
+    {
+      "id": "s3-g001",
+      "front": "¿Qué caso rige begrüßen?",
+      "back": "Acusativo: Ich begrüße Sie."
+    },
+    {
+      "id": "s3-g002",
+      "front": "¿Qué preposición acompaña a begrüßen para indicar la ocasión?",
+      "back": "Zu + dativo: zu unserer Sendung."
+    },
+    {
+      "id": "s3-g003",
+      "front": "¿Qué significa ganz herzlich begrüßen?",
+      "back": "Dar una calurosa bienvenida."
+    },
+    {
+      "id": "s3-g004",
+      "front": "¿Cuándo se usa Willkommen in...?",
+      "back": "Con países, ciudades y lugares: Willkommen in Deutschland."
+    },
+    {
+      "id": "s3-g005",
+      "front": "¿Cuándo se usa Willkommen bei...?",
+      "back": "Con empresas, asociaciones o personas: Willkommen bei Avant / bei uns."
+    },
+    {
+      "id": "s3-g006",
+      "front": "¿Qué significa jederzeit willkommen sein?",
+      "back": "Ser bienvenido en cualquier momento o siempre."
+    },
+    {
+      "id": "s3-g007",
+      "front": "¿Qué caso lleva la persona con willkommen heißen?",
+      "back": "Acusativo: Wir heißen unsere Gäste willkommen."
+    },
+    {
+      "id": "s3-g008",
+      "front": "¿Dónde se coloca willkommen en una oración principal con heißen?",
+      "back": "Al final: Ich heiße Sie willkommen."
+    },
+    {
+      "id": "s3-g009",
+      "front": "¿Qué preposición indica de quién se despide alguien?",
+      "back": "Von + dativo: sich von allen verabschieden."
+    },
+    {
+      "id": "s3-g010",
+      "front": "¿Cuál es el participio de sich verabschieden?",
+      "back": "Verabschiedet, sin ge-: Ich habe mich verabschiedet."
+    },
+    {
+      "id": "s3-g011",
+      "front": "¿Qué diferencia de registro hay entre Tschüss y auf Wiedersehen?",
+      "back": "Tschüss es informal; auf Wiedersehen es más formal."
+    },
+    {
+      "id": "s3-g012",
+      "front": "¿Qué significa Lass es dir gut gehen!?",
+      "back": "¡Que te vaya bien!"
+    }
+  ]
+}

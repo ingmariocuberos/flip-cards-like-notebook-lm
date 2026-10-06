@@ -1,0 +1,569 @@
+{
+  "bookId": "willkommen-vaughan-50",
+  "bookTitle": "Buch 50",
+  "sektionId": "sektion-1",
+  "sektionTitle": "Sektion 1: bereit y sus verbos compuestos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-t001",
+      "front": "¿Estás listo?",
+      "back": "Bist du bereit?"
+    },
+    {
+      "id": "s1-t002",
+      "front": "Sí, estoy listo.",
+      "back": "Ja, ich bin bereit."
+    },
+    {
+      "id": "s1-t003",
+      "front": "¿Estáis listos?",
+      "back": "Seid ihr bereit?"
+    },
+    {
+      "id": "s1-t004",
+      "front": "Sí, estamos listos.",
+      "back": "Ja, wir sind bereit."
+    },
+    {
+      "id": "s1-t005",
+      "front": "¿Están todos listos? Empezamos ahora mismo.",
+      "back": "Sind alle bereit? Wir fangen gleich an."
+    },
+    {
+      "id": "s1-t006",
+      "front": "Estoy preparado para una nueva relación.",
+      "back": "Ich bin bereit für eine neue Beziehung."
+    },
+    {
+      "id": "s1-t007",
+      "front": "Ella no está preparada para una relación seria.",
+      "back": "Sie ist nicht bereit für eine feste Beziehung."
+    },
+    {
+      "id": "s1-t008",
+      "front": "Él está preparado para un nuevo comienzo.",
+      "back": "Er ist bereit für einen Neuanfang."
+    },
+    {
+      "id": "s1-t009",
+      "front": "Todavía no estamos preparados.",
+      "back": "Wir sind noch nicht bereit."
+    },
+    {
+      "id": "s1-t010",
+      "front": "Todavía no estoy preparado para un nuevo comienzo.",
+      "back": "Ich bin noch nicht bereit für einen Neuanfang."
+    },
+    {
+      "id": "s1-t011",
+      "front": "Aún no estaban preparados para una relación seria.",
+      "back": "Sie waren noch nicht bereit für eine feste Beziehung."
+    },
+    {
+      "id": "s1-t012",
+      "front": "Estoy preparado para casarme.",
+      "back": "Ich bin bereit, zu heiraten."
+    },
+    {
+      "id": "s1-t013",
+      "front": "Estamos preparados para irnos a vivir juntos.",
+      "back": "Wir sind bereit, zusammenzuziehen."
+    },
+    {
+      "id": "s1-t014",
+      "front": "Mi hija está preparada para independizarse.",
+      "back": "Meine Tochter ist bereit, auszuziehen."
+    },
+    {
+      "id": "s1-t015",
+      "front": "Estoy dispuesto a buscar un término medio.",
+      "back": "Ich bin zu einem Kompromiss bereit."
+    },
+    {
+      "id": "s1-t016",
+      "front": "Estamos dispuestos a tener una conversación.",
+      "back": "Wir sind zu einem Gespräch bereit."
+    },
+    {
+      "id": "s1-t017",
+      "front": "Él no está dispuesto a ello.",
+      "back": "Er ist nicht dazu bereit."
+    },
+    {
+      "id": "s1-t018",
+      "front": "Estoy dispuesto a encargarme del turno de noche.",
+      "back": "Ich bin dazu bereit, die Nachtschicht zu übernehmen."
+    },
+    {
+      "id": "s1-t019",
+      "front": "Estamos dispuestos a encargarnos del caso.",
+      "back": "Wir sind dazu bereit, den Fall zu übernehmen."
+    },
+    {
+      "id": "s1-t020",
+      "front": "Estoy dispuesto a encontrar un término medio.",
+      "back": "Ich bin dazu bereit, einen Kompromiss einzugehen."
+    },
+    {
+      "id": "s1-t021",
+      "front": "Estoy totalmente dispuesto a ayudar.",
+      "back": "Ich bin gerne dazu bereit, zu helfen."
+    },
+    {
+      "id": "s1-t022",
+      "front": "No hay nadie dispuesto a trabajar gratis.",
+      "back": "Es gibt niemanden, der dazu bereit ist, umsonst zu arbeiten."
+    },
+    {
+      "id": "s1-t023",
+      "front": "No había ningún abogado dispuesto a aceptar el caso.",
+      "back": "Es gab keinen Anwalt, der dazu bereit war, den Fall zu übernehmen."
+    },
+    {
+      "id": "s1-t024",
+      "front": "No entiendo cómo pudo estar dispuesto a aceptar esas condiciones.",
+      "back": "Ich verstehe nicht, wie er dazu bereit sein konnte, diese Bedingungen zu akzeptieren."
+    },
+    {
+      "id": "s1-t025",
+      "front": "Él no estaba dispuesto a buscar un término medio.",
+      "back": "Er war zu keinem Kompromiss bereit."
+    },
+    {
+      "id": "s1-t026",
+      "front": "Ella no está dispuesta a tener una charla amistosa.",
+      "back": "Sie ist zu keinem freundschaftlichen Gespräch bereit."
+    },
+    {
+      "id": "s1-t027",
+      "front": "No están dispuestos a ello.",
+      "back": "Sie sind nicht dazu bereit."
+    },
+    {
+      "id": "s1-t028",
+      "front": "No estoy dispuesto a esperar más tiempo.",
+      "back": "Ich bin nicht dazu bereit, noch länger zu warten."
+    },
+    {
+      "id": "s1-t029",
+      "front": "Él no está dispuesto a esperarla más tiempo.",
+      "back": "Er ist nicht dazu bereit, noch länger auf sie zu warten."
+    },
+    {
+      "id": "s1-t030",
+      "front": "No estamos dispuestos a buscar términos medios.",
+      "back": "Wir sind nicht dazu bereit, Kompromisse einzugehen."
+    },
+    {
+      "id": "s1-t031",
+      "front": "En estas circunstancias no estoy dispuesto a hablar.",
+      "back": "Unter diesen Umständen bin ich nicht zu einem Gespräch bereit."
+    },
+    {
+      "id": "s1-t032",
+      "front": "Ya no estoy dispuesto a buscar términos medios.",
+      "back": "Ich bin nicht mehr dazu bereit, Kompromisse einzugehen."
+    },
+    {
+      "id": "s1-t033",
+      "front": "Nadie está dispuesto a asumir la responsabilidad.",
+      "back": "Keiner ist dazu bereit, die Verantwortung zu übernehmen."
+    },
+    {
+      "id": "s1-t034",
+      "front": "¿Estás dispuesto a buscar un término medio?",
+      "back": "Bist du zu einem Kompromiss bereit?"
+    },
+    {
+      "id": "s1-t035",
+      "front": "¿Está él dispuesto a tener una charla amistosa?",
+      "back": "Ist er zu einem freundschaftlichen Gespräch bereit?"
+    },
+    {
+      "id": "s1-t036",
+      "front": "¿Crees que están dispuestos a ello?",
+      "back": "Glaubst du, sie sind dazu bereit?"
+    },
+    {
+      "id": "s1-t037",
+      "front": "¿Está usted dispuesto a negociar el precio?",
+      "back": "Sind Sie dazu bereit, den Preis zu verhandeln?"
+    },
+    {
+      "id": "s1-t038",
+      "front": "¿Está él dispuesto a asumir toda la responsabilidad?",
+      "back": "Ist er dazu bereit, die volle Verantwortung zu übernehmen?"
+    },
+    {
+      "id": "s1-t039",
+      "front": "¿Por qué ella no está dispuesta a disculparse?",
+      "back": "Warum ist sie nicht dazu bereit, sich zu entschuldigen?"
+    },
+    {
+      "id": "s1-t040",
+      "front": "¿Estarías dispuesto a buscar un término medio?",
+      "back": "Wärst du zu einem Kompromiss bereit?"
+    },
+    {
+      "id": "s1-t041",
+      "front": "Me ofrezco a asumir los costes.",
+      "back": "Ich erkläre mich dazu bereit, die Kosten zu übernehmen."
+    },
+    {
+      "id": "s1-t042",
+      "front": "Él se ofrece a poner su piso a disposición.",
+      "back": "Er erklärt sich dazu bereit, seine Wohnung zur Verfügung zu stellen."
+    },
+    {
+      "id": "s1-t043",
+      "front": "Nos ofrecemos a poner nuestro jardín a disposición.",
+      "back": "Wir erklären uns dazu bereit, unseren Garten zur Verfügung zu stellen."
+    },
+    {
+      "id": "s1-t044",
+      "front": "¿Quién se ofrece a ayudarnos?",
+      "back": "Wer erklärt sich dazu bereit, uns zu helfen?"
+    },
+    {
+      "id": "s1-t045",
+      "front": "¿Quién se ofrece a pagar una parte de los costes?",
+      "back": "Wer erklärt sich dazu bereit, einen Teil der Kosten zu übernehmen?"
+    },
+    {
+      "id": "s1-t046",
+      "front": "El Gobierno está facilitando millones para las víctimas de catástrofes naturales.",
+      "back": "Die Regierung stellt Millionen für die Opfer von Naturkatastrophen bereit."
+    },
+    {
+      "id": "s1-t047",
+      "front": "La Cruz Roja ha facilitado ayuda económica a las víctimas de la inundación.",
+      "back": "Das Rote Kreuz hat finanzielle Hilfe für die Opfer des Hochwassers bereitgestellt."
+    },
+    {
+      "id": "s1-t048",
+      "front": "Todos los recursos necesarios están preparados.",
+      "back": "Alle nötigen Hilfsmittel stehen bereit."
+    },
+    {
+      "id": "s1-t049",
+      "front": "Había ambulancias disponibles durante el partido de fútbol.",
+      "back": "Während des Fußballspiels standen Krankenwagen bereit."
+    },
+    {
+      "id": "s1-t050",
+      "front": "Tenga a mano su pasaporte.",
+      "back": "Halten Sie Ihren Pass bereit."
+    },
+    {
+      "id": "s1-t051",
+      "front": "Bist du bereit?",
+      "back": "¿Estás listo?"
+    },
+    {
+      "id": "s1-t052",
+      "front": "Ja, ich bin bereit.",
+      "back": "Sí, estoy listo."
+    },
+    {
+      "id": "s1-t053",
+      "front": "Seid ihr bereit?",
+      "back": "¿Estáis listos?"
+    },
+    {
+      "id": "s1-t054",
+      "front": "Ja, wir sind bereit.",
+      "back": "Sí, estamos listos."
+    },
+    {
+      "id": "s1-t055",
+      "front": "Sind alle bereit? Wir fangen gleich an.",
+      "back": "¿Están todos listos? Empezamos ahora mismo."
+    },
+    {
+      "id": "s1-t056",
+      "front": "Ich bin bereit für eine neue Beziehung.",
+      "back": "Estoy preparado para una nueva relación."
+    },
+    {
+      "id": "s1-t057",
+      "front": "Sie ist nicht bereit für eine feste Beziehung.",
+      "back": "Ella no está preparada para una relación seria."
+    },
+    {
+      "id": "s1-t058",
+      "front": "Er ist bereit für einen Neuanfang.",
+      "back": "Él está preparado para un nuevo comienzo."
+    },
+    {
+      "id": "s1-t059",
+      "front": "Wir sind noch nicht bereit.",
+      "back": "Todavía no estamos preparados."
+    },
+    {
+      "id": "s1-t060",
+      "front": "Ich bin noch nicht bereit für einen Neuanfang.",
+      "back": "Todavía no estoy preparado para un nuevo comienzo."
+    },
+    {
+      "id": "s1-t061",
+      "front": "Sie waren noch nicht bereit für eine feste Beziehung.",
+      "back": "Aún no estaban preparados para una relación seria."
+    },
+    {
+      "id": "s1-t062",
+      "front": "Ich bin bereit, zu heiraten.",
+      "back": "Estoy preparado para casarme."
+    },
+    {
+      "id": "s1-t063",
+      "front": "Wir sind bereit, zusammenzuziehen.",
+      "back": "Estamos preparados para irnos a vivir juntos."
+    },
+    {
+      "id": "s1-t064",
+      "front": "Meine Tochter ist bereit, auszuziehen.",
+      "back": "Mi hija está preparada para independizarse."
+    },
+    {
+      "id": "s1-t065",
+      "front": "Ich bin zu einem Kompromiss bereit.",
+      "back": "Estoy dispuesto a buscar un término medio."
+    },
+    {
+      "id": "s1-t066",
+      "front": "Wir sind zu einem Gespräch bereit.",
+      "back": "Estamos dispuestos a tener una conversación."
+    },
+    {
+      "id": "s1-t067",
+      "front": "Er ist nicht dazu bereit.",
+      "back": "Él no está dispuesto a ello."
+    },
+    {
+      "id": "s1-t068",
+      "front": "Ich bin dazu bereit, die Nachtschicht zu übernehmen.",
+      "back": "Estoy dispuesto a encargarme del turno de noche."
+    },
+    {
+      "id": "s1-t069",
+      "front": "Wir sind dazu bereit, den Fall zu übernehmen.",
+      "back": "Estamos dispuestos a encargarnos del caso."
+    },
+    {
+      "id": "s1-t070",
+      "front": "Ich bin dazu bereit, einen Kompromiss einzugehen.",
+      "back": "Estoy dispuesto a encontrar un término medio."
+    },
+    {
+      "id": "s1-t071",
+      "front": "Ich bin gerne dazu bereit, zu helfen.",
+      "back": "Estoy totalmente dispuesto a ayudar."
+    },
+    {
+      "id": "s1-t072",
+      "front": "Es gibt niemanden, der dazu bereit ist, umsonst zu arbeiten.",
+      "back": "No hay nadie dispuesto a trabajar gratis."
+    },
+    {
+      "id": "s1-t073",
+      "front": "Es gab keinen Anwalt, der dazu bereit war, den Fall zu übernehmen.",
+      "back": "No había ningún abogado dispuesto a aceptar el caso."
+    },
+    {
+      "id": "s1-t074",
+      "front": "Ich verstehe nicht, wie er dazu bereit sein konnte, diese Bedingungen zu akzeptieren.",
+      "back": "No entiendo cómo pudo estar dispuesto a aceptar esas condiciones."
+    },
+    {
+      "id": "s1-t075",
+      "front": "Er war zu keinem Kompromiss bereit.",
+      "back": "Él no estaba dispuesto a buscar un término medio."
+    },
+    {
+      "id": "s1-t076",
+      "front": "Sie ist zu keinem freundschaftlichen Gespräch bereit.",
+      "back": "Ella no está dispuesta a tener una charla amistosa."
+    },
+    {
+      "id": "s1-t077",
+      "front": "Sie sind nicht dazu bereit.",
+      "back": "No están dispuestos a ello."
+    },
+    {
+      "id": "s1-t078",
+      "front": "Ich bin nicht dazu bereit, noch länger zu warten.",
+      "back": "No estoy dispuesto a esperar más tiempo."
+    },
+    {
+      "id": "s1-t079",
+      "front": "Er ist nicht dazu bereit, noch länger auf sie zu warten.",
+      "back": "Él no está dispuesto a esperarla más tiempo."
+    },
+    {
+      "id": "s1-t080",
+      "front": "Wir sind nicht dazu bereit, Kompromisse einzugehen.",
+      "back": "No estamos dispuestos a buscar términos medios."
+    },
+    {
+      "id": "s1-t081",
+      "front": "Unter diesen Umständen bin ich nicht zu einem Gespräch bereit.",
+      "back": "En estas circunstancias no estoy dispuesto a hablar."
+    },
+    {
+      "id": "s1-t082",
+      "front": "Ich bin nicht mehr dazu bereit, Kompromisse einzugehen.",
+      "back": "Ya no estoy dispuesto a buscar términos medios."
+    },
+    {
+      "id": "s1-t083",
+      "front": "Keiner ist dazu bereit, die Verantwortung zu übernehmen.",
+      "back": "Nadie está dispuesto a asumir la responsabilidad."
+    },
+    {
+      "id": "s1-t084",
+      "front": "Bist du zu einem Kompromiss bereit?",
+      "back": "¿Estás dispuesto a buscar un término medio?"
+    },
+    {
+      "id": "s1-t085",
+      "front": "Ist er zu einem freundschaftlichen Gespräch bereit?",
+      "back": "¿Está él dispuesto a tener una charla amistosa?"
+    },
+    {
+      "id": "s1-t086",
+      "front": "Glaubst du, sie sind dazu bereit?",
+      "back": "¿Crees que están dispuestos a ello?"
+    },
+    {
+      "id": "s1-t087",
+      "front": "Sind Sie dazu bereit, den Preis zu verhandeln?",
+      "back": "¿Está usted dispuesto a negociar el precio?"
+    },
+    {
+      "id": "s1-t088",
+      "front": "Ist er dazu bereit, die volle Verantwortung zu übernehmen?",
+      "back": "¿Está él dispuesto a asumir toda la responsabilidad?"
+    },
+    {
+      "id": "s1-t089",
+      "front": "Warum ist sie nicht dazu bereit, sich zu entschuldigen?",
+      "back": "¿Por qué ella no está dispuesta a disculparse?"
+    },
+    {
+      "id": "s1-t090",
+      "front": "Wärst du zu einem Kompromiss bereit?",
+      "back": "¿Estarías dispuesto a buscar un término medio?"
+    },
+    {
+      "id": "s1-t091",
+      "front": "Ich erkläre mich dazu bereit, die Kosten zu übernehmen.",
+      "back": "Me ofrezco a asumir los costes."
+    },
+    {
+      "id": "s1-t092",
+      "front": "Er erklärt sich dazu bereit, seine Wohnung zur Verfügung zu stellen.",
+      "back": "Él se ofrece a poner su piso a disposición."
+    },
+    {
+      "id": "s1-t093",
+      "front": "Wir erklären uns dazu bereit, unseren Garten zur Verfügung zu stellen.",
+      "back": "Nos ofrecemos a poner nuestro jardín a disposición."
+    },
+    {
+      "id": "s1-t094",
+      "front": "Wer erklärt sich dazu bereit, uns zu helfen?",
+      "back": "¿Quién se ofrece a ayudarnos?"
+    },
+    {
+      "id": "s1-t095",
+      "front": "Wer erklärt sich dazu bereit, einen Teil der Kosten zu übernehmen?",
+      "back": "¿Quién se ofrece a pagar una parte de los costes?"
+    },
+    {
+      "id": "s1-t096",
+      "front": "Die Regierung stellt Millionen für die Opfer von Naturkatastrophen bereit.",
+      "back": "El Gobierno está facilitando millones para las víctimas de catástrofes naturales."
+    },
+    {
+      "id": "s1-t097",
+      "front": "Das Rote Kreuz hat finanzielle Hilfe für die Opfer des Hochwassers bereitgestellt.",
+      "back": "La Cruz Roja ha facilitado ayuda económica a las víctimas de la inundación."
+    },
+    {
+      "id": "s1-t098",
+      "front": "Alle nötigen Hilfsmittel stehen bereit.",
+      "back": "Todos los recursos necesarios están preparados."
+    },
+    {
+      "id": "s1-t099",
+      "front": "Während des Fußballspiels standen Krankenwagen bereit.",
+      "back": "Había ambulancias disponibles durante el partido de fútbol."
+    },
+    {
+      "id": "s1-t100",
+      "front": "Halten Sie Ihren Pass bereit.",
+      "back": "Tenga a mano su pasaporte."
+    },
+    {
+      "id": "s1-g001",
+      "front": "¿Qué significados puede tener bereit sein?",
+      "back": "Estar listo, preparado o dispuesto."
+    },
+    {
+      "id": "s1-g002",
+      "front": "¿Qué caso rige für en bereit für?",
+      "back": "Acusativo: bereit für einen Neuanfang."
+    },
+    {
+      "id": "s1-g003",
+      "front": "¿Qué caso rige zu en zu etwas bereit sein?",
+      "back": "Dativo: zu einem Gespräch bereit sein."
+    },
+    {
+      "id": "s1-g004",
+      "front": "¿Cuándo se usa dazu con bereit?",
+      "back": "Cuando anticipa aquello que se explica después con zu + infinitivo."
+    },
+    {
+      "id": "s1-g005",
+      "front": "¿Dónde se coloca zu en un infinitivo separable?",
+      "back": "Entre prefijo y raíz: einzugehen, zusammenzuziehen."
+    },
+    {
+      "id": "s1-g006",
+      "front": "¿Cómo se dice «todavía no estar preparado»?",
+      "back": "Noch nicht bereit sein."
+    },
+    {
+      "id": "s1-g007",
+      "front": "¿Cómo se dice «ya no estar dispuesto»?",
+      "back": "Nicht mehr dazu bereit sein."
+    },
+    {
+      "id": "s1-g008",
+      "front": "¿Qué significa sich zu etwas bereit erklären?",
+      "back": "Declararse dispuesto u ofrecerse a hacer algo."
+    },
+    {
+      "id": "s1-g009",
+      "front": "¿Cuál es el participio de sich bereit erklären?",
+      "back": "Sich bereit erklärt: Er hat sich dazu bereit erklärt."
+    },
+    {
+      "id": "s1-g010",
+      "front": "¿Qué significa bereitstellen?",
+      "back": "Facilitar, proporcionar o poner a disposición."
+    },
+    {
+      "id": "s1-g011",
+      "front": "¿Qué significa bereitstehen?",
+      "back": "Estar preparado o disponible."
+    },
+    {
+      "id": "s1-g012",
+      "front": "¿Qué significa bereithalten?",
+      "back": "Tener algo preparado o a mano."
+    }
+  ]
+}
