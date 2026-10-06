@@ -61,6 +61,11 @@
       "back": "die Birne"
     },
     {
+      "id": "s1-114",
+      "front": "el pretzel",
+      "back": "die Brezel"
+    },
+    {
       "id": "s1-012",
       "front": "el pan",
       "back": "das Brot"
@@ -231,14 +236,14 @@
       "back": "der Käse"
     },
     {
+      "id": "s1-115",
+      "front": "el chicle",
+      "back": "der Kaugummi"
+    },
+    {
       "id": "s1-046",
       "front": "la galleta",
       "back": "der Keks"
-    },
-    {
-      "id": "s1-047",
-      "front": "el kilo",
-      "back": "das Kilo"
     },
     {
       "id": "s1-048",
@@ -539,11 +544,6 @@
       "id": "s1-107",
       "front": "la reunion",
       "back": "das Wiedersehen"
-    },
-    {
-      "id": "s1-108",
-      "front": "el bienestar",
-      "back": "das Wohl"
     },
     {
       "id": "s1-109",
