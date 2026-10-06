@@ -1,0 +1,104 @@
+{
+  "bookId": "willkommen-vaughan-7-words",
+  "bookTitle": "Buch 7 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "despegar",
+      "back": "ausziehen"
+    },
+    {
+      "id": "s2-002",
+      "front": "pensar",
+      "back": "denken"
+    },
+    {
+      "id": "s2-003",
+      "front": "disculparse",
+      "back": "entschuldigen"
+    },
+    {
+      "id": "s2-004",
+      "front": "comer",
+      "back": "essen"
+    },
+    {
+      "id": "s2-005",
+      "front": "dar",
+      "back": "geben"
+    },
+    {
+      "id": "s2-006",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-007",
+      "front": "poner",
+      "back": "legen"
+    },
+    {
+      "id": "s2-008",
+      "front": "estar tumbado / encontrarse en posición horizontal",
+      "back": "liegen"
+    },
+    {
+      "id": "s2-009",
+      "front": "significar",
+      "back": "meinen"
+    },
+    {
+      "id": "s2-010",
+      "front": "gustar",
+      "back": "mögen"
+    },
+    {
+      "id": "s2-011",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-012",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-013",
+      "front": "jugar / tocar",
+      "back": "spielen"
+    },
+    {
+      "id": "s2-014",
+      "front": "estar de pie / encontrarse en posición vertical",
+      "back": "stehen"
+    },
+    {
+      "id": "s2-015",
+      "front": "poner (stellen)",
+      "back": "stellen"
+    },
+    {
+      "id": "s2-016",
+      "front": "soñar",
+      "back": "träumen"
+    },
+    {
+      "id": "s2-017",
+      "front": "beber",
+      "back": "trinken"
+    },
+    {
+      "id": "s2-018",
+      "front": "cambiar",
+      "back": "wechseln"
+    },
+    {
+      "id": "s2-019",
+      "front": "llegar a ser / convertirse",
+      "back": "werden"
+    }
+  ]
+}
