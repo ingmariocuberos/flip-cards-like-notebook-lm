@@ -1,0 +1,804 @@
+{
+  "bookId": "willkommen-vaughan-7-words",
+  "bookTitle": "Buch 7 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la manzana",
+      "back": "der Apfel"
+    },
+    {
+      "id": "s1-002",
+      "front": "el zumo de manzana",
+      "back": "der Apfelsaft"
+    },
+    {
+      "id": "s1-003",
+      "front": "la farmacia",
+      "back": "die Apotheke"
+    },
+    {
+      "id": "s1-004",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-005",
+      "front": "el médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-006",
+      "front": "agosto",
+      "back": "der August"
+    },
+    {
+      "id": "s1-007",
+      "front": "la panadería",
+      "back": "die Bäckerei"
+    },
+    {
+      "id": "s1-008",
+      "front": "la estación de tren",
+      "back": "der Bahnhof"
+    },
+    {
+      "id": "s1-009",
+      "front": "el plátano",
+      "back": "die Banane"
+    },
+    {
+      "id": "s1-010",
+      "front": "el banco",
+      "back": "die Bank"
+    },
+    {
+      "id": "s1-011",
+      "front": "el baloncesto",
+      "back": "der Basketball"
+    },
+    {
+      "id": "s1-012",
+      "front": "la taza",
+      "back": "der Becher"
+    },
+    {
+      "id": "s1-013",
+      "front": "los cubiertos",
+      "back": "das Besteck"
+    },
+    {
+      "id": "s1-014",
+      "front": "la cama",
+      "back": "das Bett"
+    },
+    {
+      "id": "s1-015",
+      "front": "la biblioteca",
+      "back": "die Bibliothek"
+    },
+    {
+      "id": "s1-016",
+      "front": "la cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-017",
+      "front": "el marco de fotos",
+      "back": "der Bilderrahmen"
+    },
+    {
+      "id": "s1-018",
+      "front": "la flor",
+      "back": "die Blume"
+    },
+    {
+      "id": "s1-019",
+      "front": "el ramo de flores",
+      "back": "der Blumenstrauß"
+    },
+    {
+      "id": "s1-020",
+      "front": "la patata asada",
+      "back": "die Bratkartoffel"
+    },
+    {
+      "id": "s1-021",
+      "front": "la carta",
+      "back": "der Brief"
+    },
+    {
+      "id": "s1-022",
+      "front": "el libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-023",
+      "front": "el estado federado",
+      "back": "das Bundesland"
+    },
+    {
+      "id": "s1-024",
+      "front": "el castillo fortificado",
+      "back": "die Burg"
+    },
+    {
+      "id": "s1-025",
+      "front": "la estación de autobuses",
+      "back": "der Busbahnhof"
+    },
+    {
+      "id": "s1-026",
+      "front": "el café",
+      "back": "das Café"
+    },
+    {
+      "id": "s1-027",
+      "front": "la cafetería",
+      "back": "die Cafeteria"
+    },
+    {
+      "id": "s1-028",
+      "front": "el chelo",
+      "back": "das Cello"
+    },
+    {
+      "id": "s1-029",
+      "front": "el agradecimiento",
+      "back": "der Dank"
+    },
+    {
+      "id": "s1-030",
+      "front": "la bolsa de la compra",
+      "back": "die Einkaufstasche"
+    },
+    {
+      "id": "s1-031",
+      "front": "el centro comercial",
+      "back": "das Einkaufszentrum"
+    },
+    {
+      "id": "s1-032",
+      "front": "el nieto",
+      "back": "der Enkel"
+    },
+    {
+      "id": "s1-033",
+      "front": "la nieta",
+      "back": "die Enkelin"
+    },
+    {
+      "id": "s1-034",
+      "front": "la mesa del comedor",
+      "back": "der Esstisch"
+    },
+    {
+      "id": "s1-035",
+      "front": "la bicicleta",
+      "back": "das Fahrrad"
+    },
+    {
+      "id": "s1-036",
+      "front": "febrero",
+      "back": "der Februar"
+    },
+    {
+      "id": "s1-037",
+      "front": "el televisor",
+      "back": "der Fernseher"
+    },
+    {
+      "id": "s1-038",
+      "front": "la carne",
+      "back": "das Fleisch"
+    },
+    {
+      "id": "s1-039",
+      "front": "el aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-040",
+      "front": "la foto",
+      "back": "das Foto"
+    },
+    {
+      "id": "s1-041",
+      "front": "la mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-042",
+      "front": "la Iglesia de Nuestra Señora",
+      "back": "die Frauenkirche"
+    },
+    {
+      "id": "s1-043",
+      "front": "el fútbol",
+      "back": "der Fußball"
+    },
+    {
+      "id": "s1-044",
+      "front": "el tenedor",
+      "back": "die Gabel"
+    },
+    {
+      "id": "s1-045",
+      "front": "el garaje",
+      "back": "die Garage"
+    },
+    {
+      "id": "s1-046",
+      "front": "el jardín",
+      "back": "der Garten"
+    },
+    {
+      "id": "s1-047",
+      "front": "el violín",
+      "back": "die Geige"
+    },
+    {
+      "id": "s1-048",
+      "front": "la verdura",
+      "back": "das Gemüse"
+    },
+    {
+      "id": "s1-049",
+      "front": "la guitarra",
+      "back": "die Gitarre"
+    },
+    {
+      "id": "s1-050",
+      "front": "el vaso",
+      "back": "das Glas"
+    },
+    {
+      "id": "s1-051",
+      "front": "el pollo",
+      "back": "das Hähnchen"
+    },
+    {
+      "id": "s1-052",
+      "front": "la parada",
+      "back": "die Haltestelle"
+    },
+    {
+      "id": "s1-053",
+      "front": "el móvil",
+      "back": "das Handy"
+    },
+    {
+      "id": "s1-054",
+      "front": "la estación central",
+      "back": "der Hauptbahnhof"
+    },
+    {
+      "id": "s1-055",
+      "front": "la capital",
+      "back": "die Hauptstadt"
+    },
+    {
+      "id": "s1-056",
+      "front": "la casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-057",
+      "front": "el cuaderno",
+      "back": "das Heft"
+    },
+    {
+      "id": "s1-058",
+      "front": "el pantalón",
+      "back": "die Hose"
+    },
+    {
+      "id": "s1-059",
+      "front": "el centro de la ciudad",
+      "back": "die Innenstadt"
+    },
+    {
+      "id": "s1-060",
+      "front": "la chaqueta",
+      "back": "die Jacke"
+    },
+    {
+      "id": "s1-061",
+      "front": "el chico",
+      "back": "der Junge"
+    },
+    {
+      "id": "s1-062",
+      "front": "el café (bebida)",
+      "back": "der Kaffee"
+    },
+    {
+      "id": "s1-063",
+      "front": "la carta de juego",
+      "back": "die Karte"
+    },
+    {
+      "id": "s1-064",
+      "front": "el queso",
+      "back": "der Käse"
+    },
+    {
+      "id": "s1-065",
+      "front": "la caja",
+      "back": "die Kasse"
+    },
+    {
+      "id": "s1-066",
+      "front": "los grandes almacenes",
+      "back": "das Kaufhaus"
+    },
+    {
+      "id": "s1-067",
+      "front": "el niño",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-068",
+      "front": "el cine",
+      "back": "das Kino"
+    },
+    {
+      "id": "s1-069",
+      "front": "la caja de objetos",
+      "back": "die Kiste"
+    },
+    {
+      "id": "s1-070",
+      "front": "el piano",
+      "back": "das Klavier"
+    },
+    {
+      "id": "s1-071",
+      "front": "el vestido",
+      "back": "das Kleid"
+    },
+    {
+      "id": "s1-072",
+      "front": "la maleta",
+      "back": "der Koffer"
+    },
+    {
+      "id": "s1-073",
+      "front": "la cómoda",
+      "back": "die Kommode"
+    },
+    {
+      "id": "s1-074",
+      "front": "la jarra",
+      "back": "der Krug"
+    },
+    {
+      "id": "s1-075",
+      "front": "el pastel",
+      "back": "der Kuchen"
+    },
+    {
+      "id": "s1-076",
+      "front": "la cocina",
+      "back": "die Küche"
+    },
+    {
+      "id": "s1-077",
+      "front": "el armario de cocina",
+      "back": "der Küchenschrank"
+    },
+    {
+      "id": "s1-078",
+      "front": "la mesa de cocina",
+      "back": "der Küchentisch"
+    },
+    {
+      "id": "s1-079",
+      "front": "el bolígrafo",
+      "back": "der Kuli"
+    },
+    {
+      "id": "s1-080",
+      "front": "la tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-081",
+      "front": "la limonada",
+      "back": "die Limonade"
+    },
+    {
+      "id": "s1-082",
+      "front": "la cuchara",
+      "back": "der Löffel"
+    },
+    {
+      "id": "s1-083",
+      "front": "la chica",
+      "back": "das Mädchen"
+    },
+    {
+      "id": "s1-084",
+      "front": "el comedor universitario",
+      "back": "die Mensa"
+    },
+    {
+      "id": "s1-085",
+      "front": "el cuchillo",
+      "back": "das Messer"
+    },
+    {
+      "id": "s1-086",
+      "front": "la carnicería",
+      "back": "die Metzgerei"
+    },
+    {
+      "id": "s1-087",
+      "front": "la leche",
+      "back": "die Milch"
+    },
+    {
+      "id": "s1-088",
+      "front": "el café con leche",
+      "back": "der Milchkaffee"
+    },
+    {
+      "id": "s1-089",
+      "front": "el arroz con leche",
+      "back": "der Milchreis"
+    },
+    {
+      "id": "s1-090",
+      "front": "el agua mineral",
+      "back": "das Mineralwasser"
+    },
+    {
+      "id": "s1-091",
+      "front": "el modelo",
+      "back": "das Model"
+    },
+    {
+      "id": "s1-092",
+      "front": "el sobrino",
+      "back": "der Neffe"
+    },
+    {
+      "id": "s1-093",
+      "front": "la sobrina",
+      "back": "die Nichte"
+    },
+    {
+      "id": "s1-094",
+      "front": "la fruta",
+      "back": "das Obst"
+    },
+    {
+      "id": "s1-095",
+      "front": "el pendiente",
+      "back": "der Ohrring"
+    },
+    {
+      "id": "s1-096",
+      "front": "el tío",
+      "back": "der Onkel"
+    },
+    {
+      "id": "s1-097",
+      "front": "la naranja",
+      "back": "die Orange"
+    },
+    {
+      "id": "s1-098",
+      "front": "el zumo de naranja",
+      "back": "der Orangensaft"
+    },
+    {
+      "id": "s1-099",
+      "front": "el parque",
+      "back": "der Park"
+    },
+    {
+      "id": "s1-100",
+      "front": "el pasaporte",
+      "back": "der Pass"
+    },
+    {
+      "id": "s1-101",
+      "front": "la plaza",
+      "back": "der Platz"
+    },
+    {
+      "id": "s1-102",
+      "front": "el problema",
+      "back": "das Problem"
+    },
+    {
+      "id": "s1-103",
+      "front": "el jersey",
+      "back": "der Pullover"
+    },
+    {
+      "id": "s1-104",
+      "front": "el ayuntamiento",
+      "back": "das Rathaus"
+    },
+    {
+      "id": "s1-105",
+      "front": "la plaza del ayuntamiento",
+      "back": "der Rathausplatz"
+    },
+    {
+      "id": "s1-106",
+      "front": "la estantería",
+      "back": "das Regal"
+    },
+    {
+      "id": "s1-107",
+      "front": "el arroz",
+      "back": "der Reis"
+    },
+    {
+      "id": "s1-108",
+      "front": "el restaurante",
+      "back": "das Restaurant"
+    },
+    {
+      "id": "s1-109",
+      "front": "la carne de vacuno",
+      "back": "das Rindfleisch"
+    },
+    {
+      "id": "s1-110",
+      "front": "la falda",
+      "back": "der Rock"
+    },
+    {
+      "id": "s1-111",
+      "front": "el vino tinto",
+      "back": "der Rotwein"
+    },
+    {
+      "id": "s1-112",
+      "front": "el zumo",
+      "back": "der Saft"
+    },
+    {
+      "id": "s1-113",
+      "front": "la ensalada",
+      "back": "der Salat"
+    },
+    {
+      "id": "s1-114",
+      "front": "el chucrut",
+      "back": "das Sauerkraut"
+    },
+    {
+      "id": "s1-115",
+      "front": "el ajedrez",
+      "back": "das Schach"
+    },
+    {
+      "id": "s1-116",
+      "front": "el jamón",
+      "back": "der Schinken"
+    },
+    {
+      "id": "s1-117",
+      "front": "el chocolate",
+      "back": "die Schokolade"
+    },
+    {
+      "id": "s1-118",
+      "front": "el armario",
+      "back": "der Schrank"
+    },
+    {
+      "id": "s1-119",
+      "front": "el zapato",
+      "back": "der Schuh"
+    },
+    {
+      "id": "s1-120",
+      "front": "la escuela",
+      "back": "die Schule"
+    },
+    {
+      "id": "s1-121",
+      "front": "el cuenco",
+      "back": "die Schüssel"
+    },
+    {
+      "id": "s1-122",
+      "front": "el cuñado",
+      "back": "der Schwager"
+    },
+    {
+      "id": "s1-123",
+      "front": "la cuñada",
+      "back": "die Schwägerin"
+    },
+    {
+      "id": "s1-124",
+      "front": "el pan negro",
+      "back": "das Schwarzbrot"
+    },
+    {
+      "id": "s1-125",
+      "front": "el té negro",
+      "back": "der Schwarztee"
+    },
+    {
+      "id": "s1-126",
+      "front": "la carne de cerdo",
+      "back": "das Schweinefleisch"
+    },
+    {
+      "id": "s1-127",
+      "front": "la piscina",
+      "back": "das Schwimmbad"
+    },
+    {
+      "id": "s1-128",
+      "front": "el lago",
+      "back": "der See"
+    },
+    {
+      "id": "s1-129",
+      "front": "la servilleta",
+      "back": "die Serviette"
+    },
+    {
+      "id": "s1-130",
+      "front": "el sillón",
+      "back": "der Sessel"
+    },
+    {
+      "id": "s1-131",
+      "front": "el sofá",
+      "back": "das Sofa"
+    },
+    {
+      "id": "s1-132",
+      "front": "el hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-133",
+      "front": "el centro urbano",
+      "back": "das Stadtzentrum"
+    },
+    {
+      "id": "s1-134",
+      "front": "la biblioteca abacial",
+      "back": "die Stiftsbibliothek"
+    },
+    {
+      "id": "s1-135",
+      "front": "la silla",
+      "back": "der Stuhl"
+    },
+    {
+      "id": "s1-136",
+      "front": "el supermercado",
+      "back": "der Supermarkt"
+    },
+    {
+      "id": "s1-137",
+      "front": "el bolso",
+      "back": "die Tasche"
+    },
+    {
+      "id": "s1-138",
+      "front": "el té",
+      "back": "der Tee"
+    },
+    {
+      "id": "s1-139",
+      "front": "el estanque",
+      "back": "der Teich"
+    },
+    {
+      "id": "s1-140",
+      "front": "el teléfono",
+      "back": "das Telefon"
+    },
+    {
+      "id": "s1-141",
+      "front": "el plato",
+      "back": "der Teller"
+    },
+    {
+      "id": "s1-142",
+      "front": "el tenis",
+      "back": "das Tennis"
+    },
+    {
+      "id": "s1-143",
+      "front": "la mesa",
+      "back": "der Tisch"
+    },
+    {
+      "id": "s1-144",
+      "front": "la hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-145",
+      "front": "la puerta",
+      "back": "die Tür"
+    },
+    {
+      "id": "s1-146",
+      "front": "la estación de metro",
+      "back": "die U-Bahn-Station"
+    },
+    {
+      "id": "s1-147",
+      "front": "el reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-148",
+      "front": "la universidad",
+      "back": "die Uni"
+    },
+    {
+      "id": "s1-149",
+      "front": "el florero",
+      "back": "die Vase"
+    },
+    {
+      "id": "s1-150",
+      "front": "la lavadora",
+      "back": "die Waschmaschine"
+    },
+    {
+      "id": "s1-151",
+      "front": "el agua",
+      "back": "das Wasser"
+    },
+    {
+      "id": "s1-152",
+      "front": "el vino",
+      "back": "der Wein"
+    },
+    {
+      "id": "s1-153",
+      "front": "la cerveza de trigo",
+      "back": "das Weißbier"
+    },
+    {
+      "id": "s1-154",
+      "front": "el pan blanco",
+      "back": "das Weißbrot"
+    },
+    {
+      "id": "s1-155",
+      "front": "el vino blanco",
+      "back": "der Weißwein"
+    },
+    {
+      "id": "s1-156",
+      "front": "el embutido",
+      "back": "die Wurst"
+    },
+    {
+      "id": "s1-157",
+      "front": "el dentista",
+      "back": "der Zahnarzt"
+    },
+    {
+      "id": "s1-158",
+      "front": "la revista",
+      "back": "die Zeitschrift"
+    },
+    {
+      "id": "s1-159",
+      "front": "el periódico",
+      "back": "die Zeitung"
+    }
+  ]
+}
