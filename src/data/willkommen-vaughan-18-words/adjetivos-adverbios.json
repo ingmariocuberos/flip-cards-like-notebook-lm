@@ -16,11 +16,6 @@
       "back": "achtundzwanzigste"
     },
     {
-      "id": "s3-003",
-      "front": "animales",
-      "back": "animal"
-    },
-    {
       "id": "s3-004",
       "front": "desempleado",
       "back": "arbeitslos"
@@ -136,11 +131,6 @@
       "back": "lange"
     },
     {
-      "id": "s3-027",
-      "front": "más",
-      "back": "mehr"
-    },
-    {
       "id": "s3-028",
       "front": "posible",
       "back": "möglich"
@@ -166,11 +156,6 @@
       "back": "paar"
     },
     {
-      "id": "s3-033",
-      "front": "fumar",
-      "back": "rauch"
-    },
-    {
       "id": "s3-034",
       "front": "rápidamente",
       "back": "schnell"
@@ -186,9 +171,9 @@
       "back": "siebzehnte"
     },
     {
-      "id": "s3-037",
-      "front": "más tarde / luego",
-      "back": "später"
+      "id": "s3-048",
+      "front": "tarde (spät)",
+      "back": "spät"
     },
     {
       "id": "s3-038",
@@ -199,6 +184,11 @@
       "id": "s3-039",
       "front": "casado",
       "back": "verheiratet"
+    },
+    {
+      "id": "s3-049",
+      "front": "mucho",
+      "back": "viel"
     },
     {
       "id": "s3-040",
@@ -224,11 +214,6 @@
       "id": "s3-044",
       "front": "¿cómo?",
       "back": "wie"
-    },
-    {
-      "id": "s3-045",
-      "front": "querer",
-      "back": "wollen"
     },
     {
       "id": "s3-046",
