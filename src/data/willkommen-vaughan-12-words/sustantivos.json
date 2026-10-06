@@ -101,7 +101,7 @@
       "back": "die Chemie"
     },
     {
-      "id": "s1-020",
+      "id": "s1-140",
       "front": "club",
       "back": "der Club"
     },
@@ -121,17 +121,7 @@
       "back": "der Deutschkurs"
     },
     {
-      "id": "s1-024",
-      "front": "la alemania",
-      "back": "das Deutschland"
-    },
-    {
-      "id": "s1-025",
-      "front": "el ebro",
-      "back": "der Ebro"
-    },
-    {
-      "id": "s1-026",
+      "id": "s1-141",
       "front": "progenitor (padre o madre)",
       "back": "der Elternteil"
     },
@@ -149,11 +139,6 @@
       "id": "s1-029",
       "front": "nieta",
       "back": "die Enkelin"
-    },
-    {
-      "id": "s1-030",
-      "front": "la europa",
-      "back": "die Europa"
     },
     {
       "id": "s1-031",
@@ -174,6 +159,11 @@
       "id": "s1-034",
       "front": "el color",
       "back": "die Farbe"
+    },
+    {
+      "id": "s1-137",
+      "front": "el pelaje",
+      "back": "das Fell"
     },
     {
       "id": "s1-035",
@@ -666,6 +656,11 @@
       "back": "das Warum"
     },
     {
+      "id": "s1-143",
+      "front": "la cascada",
+      "back": "der Wasserfall"
+    },
+    {
       "id": "s1-133",
       "front": "vino",
       "back": "der Wein"
@@ -686,14 +681,9 @@
       "back": "die Zeit"
     },
     {
-      "id": "s1-137",
+      "id": "s1-139",
       "front": "el tren",
       "back": "der Zug"
-    },
-    {
-      "id": "s1-138",
-      "front": "el Zugspitze",
-      "back": "die Zugspitze"
     }
   ]
 }
