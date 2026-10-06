@@ -1,0 +1,414 @@
+{
+  "bookId": "willkommen-vaughan-28-words",
+  "bookTitle": "Buch 28 - Words",
+  "sektionId": "adjetivos-adverbios",
+  "sektionTitle": "Adjetivos / Adverbios",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "solo",
+      "back": "allein"
+    },
+    {
+      "id": "s3-002",
+      "front": "pronto",
+      "back": "bald"
+    },
+    {
+      "id": "s3-003",
+      "front": "por favor",
+      "back": "bitte"
+    },
+    {
+      "id": "s3-004",
+      "front": "solo (bloß)",
+      "back": "bloß"
+    },
+    {
+      "id": "s3-005",
+      "front": "ahí / allí",
+      "back": "da"
+    },
+    {
+      "id": "s3-006",
+      "front": "con eso",
+      "back": "damit"
+    },
+    {
+      "id": "s3-007",
+      "front": "gracias",
+      "back": "danke"
+    },
+    {
+      "id": "s3-008",
+      "front": "entonces",
+      "back": "dann"
+    },
+    {
+      "id": "s3-009",
+      "front": "sobre eso",
+      "back": "darüber"
+    },
+    {
+      "id": "s3-010",
+      "front": "grueso",
+      "back": "dick"
+    },
+    {
+      "id": "s3-011",
+      "front": "si",
+      "back": "doch"
+    },
+    {
+      "id": "s3-012",
+      "front": "allí",
+      "back": "dort"
+    },
+    {
+      "id": "s3-013",
+      "front": "delgado",
+      "back": "dünn"
+    },
+    {
+      "id": "s3-014",
+      "front": "una vez",
+      "back": "einmal"
+    },
+    {
+      "id": "s3-015",
+      "front": "exitoso",
+      "back": "erfolgreich"
+    },
+    {
+      "id": "s3-016",
+      "front": "encajar",
+      "back": "fit"
+    },
+    {
+      "id": "s3-017",
+      "front": "temprano",
+      "back": "früh"
+    },
+    {
+      "id": "s3-018",
+      "front": "calma",
+      "back": "gelassen"
+    },
+    {
+      "id": "s3-019",
+      "front": "hecho",
+      "back": "gemacht"
+    },
+    {
+      "id": "s3-020",
+      "front": "mixto",
+      "back": "gemischt"
+    },
+    {
+      "id": "s3-021",
+      "front": "recto",
+      "back": "gerade"
+    },
+    {
+      "id": "s3-022",
+      "front": "con mucho gusto",
+      "back": "gerne"
+    },
+    {
+      "id": "s3-023",
+      "front": "ayer",
+      "back": "gestern"
+    },
+    {
+      "id": "s3-024",
+      "front": "saludable",
+      "back": "gesund"
+    },
+    {
+      "id": "s3-025",
+      "front": "grande / alto",
+      "back": "groß"
+    },
+    {
+      "id": "s3-026",
+      "front": "bueno / bien",
+      "back": "gut"
+    },
+    {
+      "id": "s3-027",
+      "front": "la mitad",
+      "back": "halb"
+    },
+    {
+      "id": "s3-028",
+      "front": "duro",
+      "back": "hart"
+    },
+    {
+      "id": "s3-029",
+      "front": "caliente",
+      "back": "heiß"
+    },
+    {
+      "id": "s3-030",
+      "front": "hoy",
+      "back": "heute"
+    },
+    {
+      "id": "s3-031",
+      "front": "aquí",
+      "back": "hier"
+    },
+    {
+      "id": "s3-032",
+      "front": "siempre",
+      "back": "immer"
+    },
+    {
+      "id": "s3-033",
+      "front": "en general",
+      "back": "insgesamt"
+    },
+    {
+      "id": "s3-034",
+      "front": "ahora",
+      "back": "jetzt"
+    },
+    {
+      "id": "s3-035",
+      "front": "pequeño / bajo",
+      "back": "klein"
+    },
+    {
+      "id": "s3-036",
+      "front": "enfermo",
+      "back": "krank"
+    },
+    {
+      "id": "s3-037",
+      "front": "corto",
+      "back": "kurz"
+    },
+    {
+      "id": "s3-038",
+      "front": "dejar",
+      "back": "lass"
+    },
+    {
+      "id": "s3-039",
+      "front": "tranquilo",
+      "back": "leis"
+    },
+    {
+      "id": "s3-040",
+      "front": "por último",
+      "back": "letztens"
+    },
+    {
+      "id": "s3-041",
+      "front": "veces",
+      "back": "mal"
+    },
+    {
+      "id": "s3-042",
+      "front": "mañana",
+      "back": "morgen"
+    },
+    {
+      "id": "s3-043",
+      "front": "por la noche",
+      "back": "nachts"
+    },
+    {
+      "id": "s3-044",
+      "front": "nuevo",
+      "back": "neu"
+    },
+    {
+      "id": "s3-045",
+      "front": "no",
+      "back": "nicht"
+    },
+    {
+      "id": "s3-046",
+      "front": "todavía",
+      "back": "noch"
+    },
+    {
+      "id": "s3-047",
+      "front": "abierto",
+      "back": "offen"
+    },
+    {
+      "id": "s3-048",
+      "front": "publico",
+      "back": "öffentlich"
+    },
+    {
+      "id": "s3-049",
+      "front": "a menudo",
+      "back": "oft"
+    },
+    {
+      "id": "s3-050",
+      "front": "fuera",
+      "back": "raus"
+    },
+    {
+      "id": "s3-051",
+      "front": "rico",
+      "back": "reich"
+    },
+    {
+      "id": "s3-052",
+      "front": "puro",
+      "back": "rein"
+    },
+    {
+      "id": "s3-053",
+      "front": "limpio",
+      "back": "sauber"
+    },
+    {
+      "id": "s3-054",
+      "front": "elegante",
+      "back": "schick"
+    },
+    {
+      "id": "s3-055",
+      "front": "delgado (schlank)",
+      "back": "schlank"
+    },
+    {
+      "id": "s3-056",
+      "front": "sucio",
+      "back": "schmutzig"
+    },
+    {
+      "id": "s3-057",
+      "front": "ya",
+      "back": "schon"
+    },
+    {
+      "id": "s3-058",
+      "front": "seguro",
+      "back": "sicher"
+    },
+    {
+      "id": "s3-059",
+      "front": "así",
+      "back": "so"
+    },
+    {
+      "id": "s3-060",
+      "front": "de lo contrario",
+      "back": "sonst"
+    },
+    {
+      "id": "s3-061",
+      "front": "tarde (spät)",
+      "back": "spät"
+    },
+    {
+      "id": "s3-062",
+      "front": "estresante",
+      "back": "stressig"
+    },
+    {
+      "id": "s3-063",
+      "front": "etiquetas",
+      "back": "tags"
+    },
+    {
+      "id": "s3-064",
+      "front": "durante el dia",
+      "back": "tagsüber"
+    },
+    {
+      "id": "s3-065",
+      "front": "totalmente",
+      "back": "total"
+    },
+    {
+      "id": "s3-066",
+      "front": "entrenado",
+      "back": "trainiert"
+    },
+    {
+      "id": "s3-067",
+      "front": "desagradable",
+      "back": "unangenehm"
+    },
+    {
+      "id": "s3-068",
+      "front": "de mala gana",
+      "back": "ungerne"
+    },
+    {
+      "id": "s3-069",
+      "front": "mucho",
+      "back": "viel"
+    },
+    {
+      "id": "s3-070",
+      "front": "lleno",
+      "back": "voll"
+    },
+    {
+      "id": "s3-071",
+      "front": "cierto",
+      "back": "wahr"
+    },
+    {
+      "id": "s3-072",
+      "front": "cálido",
+      "back": "warm"
+    },
+    {
+      "id": "s3-073",
+      "front": "¿por qué?",
+      "back": "warum"
+    },
+    {
+      "id": "s3-074",
+      "front": "lejos",
+      "back": "weit"
+    },
+    {
+      "id": "s3-075",
+      "front": "poco",
+      "back": "wenig"
+    },
+    {
+      "id": "s3-076",
+      "front": "¿cómo?",
+      "back": "wie"
+    },
+    {
+      "id": "s3-077",
+      "front": "otra vez",
+      "back": "wieder"
+    },
+    {
+      "id": "s3-078",
+      "front": "realmente",
+      "back": "wirklich"
+    },
+    {
+      "id": "s3-079",
+      "front": "sobre que",
+      "back": "worüber"
+    },
+    {
+      "id": "s3-080",
+      "front": "casa",
+      "back": "zuhause"
+    },
+    {
+      "id": "s3-081",
+      "front": "juntos",
+      "back": "zusammen"
+    }
+  ]
+}
