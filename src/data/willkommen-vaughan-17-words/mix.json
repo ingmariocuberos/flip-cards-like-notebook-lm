@@ -1,0 +1,974 @@
+{
+  "bookId": "willkommen-vaughan-17-words",
+  "bookTitle": "Buch 17 - Words",
+  "sektionId": "mix",
+  "sektionTitle": "Mix",
+  "order": 4,
+  "cards": [
+    {
+      "id": "s4-001",
+      "front": "ab",
+      "back": "apagado"
+    },
+    {
+      "id": "s4-002",
+      "front": "abbiegen",
+      "back": "girar"
+    },
+    {
+      "id": "s4-003",
+      "front": "der Abend",
+      "back": "la tarde"
+    },
+    {
+      "id": "s4-004",
+      "front": "das Abendessen",
+      "back": "la cena"
+    },
+    {
+      "id": "s4-005",
+      "front": "die Allee",
+      "back": "la avenida"
+    },
+    {
+      "id": "s4-006",
+      "front": "anrufen",
+      "back": "llamar"
+    },
+    {
+      "id": "s4-007",
+      "front": "der Anwalt",
+      "back": "abogado"
+    },
+    {
+      "id": "s4-008",
+      "front": "die Apotheke",
+      "back": "farmacia"
+    },
+    {
+      "id": "s4-009",
+      "front": "die Arbeit",
+      "back": "el trabajo"
+    },
+    {
+      "id": "s4-010",
+      "front": "arbeiten",
+      "back": "trabajar"
+    },
+    {
+      "id": "s4-011",
+      "front": "das At",
+      "back": "arroba (@)"
+    },
+    {
+      "id": "s4-012",
+      "front": "aufmachen",
+      "back": "abrir"
+    },
+    {
+      "id": "s4-013",
+      "front": "der Ausgang",
+      "back": "la salida"
+    },
+    {
+      "id": "s4-014",
+      "front": "das Auto",
+      "back": "coche"
+    },
+    {
+      "id": "s4-015",
+      "front": "die Autobahn",
+      "back": "la autovía / autopista"
+    },
+    {
+      "id": "s4-016",
+      "front": "der Autounfall",
+      "back": "el accidente de coche"
+    },
+    {
+      "id": "s4-017",
+      "front": "der Backslash",
+      "back": "barra invertida (\\)"
+    },
+    {
+      "id": "s4-018",
+      "front": "der Bahnhof",
+      "back": "la estación"
+    },
+    {
+      "id": "s4-019",
+      "front": "der Bahnübergang",
+      "back": "paso a nivel (cartel)"
+    },
+    {
+      "id": "s4-020",
+      "front": "biegen",
+      "back": "doblar"
+    },
+    {
+      "id": "s4-021",
+      "front": "das Bier",
+      "back": "la cerveza"
+    },
+    {
+      "id": "s4-022",
+      "front": "das Bierchen",
+      "back": "la cerveza (Bierchen)"
+    },
+    {
+      "id": "s4-023",
+      "front": "der Bindestrich",
+      "back": "guión"
+    },
+    {
+      "id": "s4-024",
+      "front": "der Bioladen",
+      "back": "la tienda organica"
+    },
+    {
+      "id": "s4-025",
+      "front": "die Brücke",
+      "back": "el puente"
+    },
+    {
+      "id": "s4-026",
+      "front": "das Buch",
+      "back": "libro"
+    },
+    {
+      "id": "s4-027",
+      "front": "die Buchhandlung",
+      "back": "la librería"
+    },
+    {
+      "id": "s4-028",
+      "front": "der Busbahnhof",
+      "back": "la estación de autobuses"
+    },
+    {
+      "id": "s4-029",
+      "front": "die Bushaltestelle",
+      "back": "la parada de autobús"
+    },
+    {
+      "id": "s4-030",
+      "front": "der Deutschlehrer",
+      "back": "el profesor de alemán"
+    },
+    {
+      "id": "s4-031",
+      "front": "der Doppelpunkt",
+      "back": "dos puntos"
+    },
+    {
+      "id": "s4-032",
+      "front": "dorthin",
+      "back": "allí"
+    },
+    {
+      "id": "s4-033",
+      "front": "dritte",
+      "back": "tercero"
+    },
+    {
+      "id": "s4-034",
+      "front": "der Eingang",
+      "back": "la entrada"
+    },
+    {
+      "id": "s4-035",
+      "front": "einmal",
+      "back": "una vez"
+    },
+    {
+      "id": "s4-036",
+      "front": "der Elternteil",
+      "back": "progenitor (padre o madre)"
+    },
+    {
+      "id": "s4-037",
+      "front": "englisch",
+      "back": "ingles"
+    },
+    {
+      "id": "s4-038",
+      "front": "erste",
+      "back": "primero"
+    },
+    {
+      "id": "s4-039",
+      "front": "essen",
+      "back": "comer"
+    },
+    {
+      "id": "s4-040",
+      "front": "fahren",
+      "back": "ir en vehículo / conducir"
+    },
+    {
+      "id": "s4-041",
+      "front": "die Familie",
+      "back": "la familia"
+    },
+    {
+      "id": "s4-042",
+      "front": "das Fitness-Studio",
+      "back": "el gimnasio"
+    },
+    {
+      "id": "s4-043",
+      "front": "der Flughafen",
+      "back": "el aeropuerto"
+    },
+    {
+      "id": "s4-044",
+      "front": "die Frau",
+      "back": "mujer"
+    },
+    {
+      "id": "s4-045",
+      "front": "der Freund",
+      "back": "amigo"
+    },
+    {
+      "id": "s4-046",
+      "front": "die Freundin",
+      "back": "la amiga"
+    },
+    {
+      "id": "s4-047",
+      "front": "das Frühstück",
+      "back": "el desayuno"
+    },
+    {
+      "id": "s4-048",
+      "front": "das Frühstücken",
+      "back": "el desayuno (Frühstücken)"
+    },
+    {
+      "id": "s4-049",
+      "front": "das Fußballspielen",
+      "back": "jugar al fútbol"
+    },
+    {
+      "id": "s4-050",
+      "front": "der Gärtner",
+      "back": "el jardinero"
+    },
+    {
+      "id": "s4-051",
+      "front": "geben",
+      "back": "dar"
+    },
+    {
+      "id": "s4-052",
+      "front": "das Gefängnis",
+      "back": "la prisión"
+    },
+    {
+      "id": "s4-053",
+      "front": "gegenüber",
+      "back": "opuesto"
+    },
+    {
+      "id": "s4-054",
+      "front": "gehen",
+      "back": "ir (a pie)"
+    },
+    {
+      "id": "s4-055",
+      "front": "der Geldautomat",
+      "back": "el cajero (automático)"
+    },
+    {
+      "id": "s4-056",
+      "front": "geradeaus",
+      "back": "recto"
+    },
+    {
+      "id": "s4-057",
+      "front": "gerne",
+      "back": "con mucho gusto"
+    },
+    {
+      "id": "s4-058",
+      "front": "das Geschäft",
+      "back": "el negocio"
+    },
+    {
+      "id": "s4-059",
+      "front": "geschlossen",
+      "back": "cerrado"
+    },
+    {
+      "id": "s4-060",
+      "front": "das Glück",
+      "back": "la felicidad"
+    },
+    {
+      "id": "s4-061",
+      "front": "der Gruß",
+      "back": "el saludo"
+    },
+    {
+      "id": "s4-062",
+      "front": "gut",
+      "back": "bueno / bien"
+    },
+    {
+      "id": "s4-063",
+      "front": "haben",
+      "back": "tener"
+    },
+    {
+      "id": "s4-064",
+      "front": "haften",
+      "back": "adherirse"
+    },
+    {
+      "id": "s4-065",
+      "front": "halb",
+      "back": "la mitad"
+    },
+    {
+      "id": "s4-066",
+      "front": "die Haltestelle",
+      "back": "la parada"
+    },
+    {
+      "id": "s4-067",
+      "front": "der Hamburger",
+      "back": "la hamburguesa"
+    },
+    {
+      "id": "s4-068",
+      "front": "das Haus",
+      "back": "casa"
+    },
+    {
+      "id": "s4-069",
+      "front": "helfen",
+      "back": "ayuda"
+    },
+    {
+      "id": "s4-070",
+      "front": "heute",
+      "back": "hoy"
+    },
+    {
+      "id": "s4-071",
+      "front": "die Hexe",
+      "back": "la bruja"
+    },
+    {
+      "id": "s4-072",
+      "front": "hier",
+      "back": "aquí"
+    },
+    {
+      "id": "s4-073",
+      "front": "immer",
+      "back": "siempre"
+    },
+    {
+      "id": "s4-074",
+      "front": "der Ingenieur",
+      "back": "ingeniero"
+    },
+    {
+      "id": "s4-075",
+      "front": "die Innenstadt",
+      "back": "el centro de la ciudad"
+    },
+    {
+      "id": "s4-076",
+      "front": "die Insel",
+      "back": "la isla"
+    },
+    {
+      "id": "s4-077",
+      "front": "jetzt",
+      "back": "ahora"
+    },
+    {
+      "id": "s4-078",
+      "front": "der Kaffee",
+      "back": "el café"
+    },
+    {
+      "id": "s4-079",
+      "front": "die Kaffeepause",
+      "back": "la pausa para el cafe"
+    },
+    {
+      "id": "s4-080",
+      "front": "das Kaffeetrinken",
+      "back": "tomando cafe"
+    },
+    {
+      "id": "s4-081",
+      "front": "das Kanarischen",
+      "back": "el canario"
+    },
+    {
+      "id": "s4-082",
+      "front": "das Kartenspielen",
+      "back": "jugando a las cartas"
+    },
+    {
+      "id": "s4-083",
+      "front": "das Kegeln",
+      "back": "los bolos"
+    },
+    {
+      "id": "s4-084",
+      "front": "kennen",
+      "back": "saber"
+    },
+    {
+      "id": "s4-085",
+      "front": "das Kind",
+      "back": "niño / niña"
+    },
+    {
+      "id": "s4-086",
+      "front": "das Kino",
+      "back": "el cine"
+    },
+    {
+      "id": "s4-087",
+      "front": "die Kirche",
+      "back": "la iglesia"
+    },
+    {
+      "id": "s4-088",
+      "front": "der Klempner",
+      "back": "el fontanero"
+    },
+    {
+      "id": "s4-089",
+      "front": "die Kneipe",
+      "back": "taberna"
+    },
+    {
+      "id": "s4-090",
+      "front": "kommen",
+      "back": "venir / pasarse"
+    },
+    {
+      "id": "s4-091",
+      "front": "die Konferenz",
+      "back": "la conferencia"
+    },
+    {
+      "id": "s4-092",
+      "front": "können",
+      "back": "poder / saber hacer algo"
+    },
+    {
+      "id": "s4-093",
+      "front": "das Konzert",
+      "back": "el concierto"
+    },
+    {
+      "id": "s4-094",
+      "front": "das Krankenhaus",
+      "back": "hospitales (plural)"
+    },
+    {
+      "id": "s4-095",
+      "front": "der Kreisverkehr",
+      "back": "la rotonda"
+    },
+    {
+      "id": "s4-096",
+      "front": "die Kreuzung",
+      "back": "la intersección"
+    },
+    {
+      "id": "s4-097",
+      "front": "der Laden",
+      "back": "tienda"
+    },
+    {
+      "id": "s4-098",
+      "front": "lange",
+      "back": "largo"
+    },
+    {
+      "id": "s4-099",
+      "front": "lassen",
+      "back": "dejar"
+    },
+    {
+      "id": "s4-100",
+      "front": "link",
+      "back": "enlace"
+    },
+    {
+      "id": "s4-101",
+      "front": "links",
+      "back": "izquierda"
+    },
+    {
+      "id": "s4-102",
+      "front": "das Los",
+      "back": "el lote"
+    },
+    {
+      "id": "s4-103",
+      "front": "machen",
+      "back": "hacer"
+    },
+    {
+      "id": "s4-104",
+      "front": "mal",
+      "back": "veces"
+    },
+    {
+      "id": "s4-105",
+      "front": "manchmal",
+      "back": "a veces"
+    },
+    {
+      "id": "s4-106",
+      "front": "der Mann",
+      "back": "hombre / marido"
+    },
+    {
+      "id": "s4-107",
+      "front": "der Markt",
+      "back": "el mercado"
+    },
+    {
+      "id": "s4-108",
+      "front": "das Meeting",
+      "back": "reuniones (plural de Meeting)"
+    },
+    {
+      "id": "s4-109",
+      "front": "meinen",
+      "back": "significar"
+    },
+    {
+      "id": "s4-110",
+      "front": "der Mensch",
+      "back": "el ser humano"
+    },
+    {
+      "id": "s4-111",
+      "front": "die Metro",
+      "back": "el metro"
+    },
+    {
+      "id": "s4-112",
+      "front": "die Million",
+      "back": "el millón"
+    },
+    {
+      "id": "s4-113",
+      "front": "das Mittagessen",
+      "back": "la comida (almuerzo)"
+    },
+    {
+      "id": "s4-114",
+      "front": "die Mittagspause",
+      "back": "la pausa del almuerzo"
+    },
+    {
+      "id": "s4-115",
+      "front": "die Moderne",
+      "back": "la modernidad"
+    },
+    {
+      "id": "s4-116",
+      "front": "der Monat",
+      "back": "mes"
+    },
+    {
+      "id": "s4-117",
+      "front": "morgen",
+      "back": "mañana"
+    },
+    {
+      "id": "s4-118",
+      "front": "das Museum",
+      "back": "museo"
+    },
+    {
+      "id": "s4-119",
+      "front": "müssen",
+      "back": "tener que / deber"
+    },
+    {
+      "id": "s4-120",
+      "front": "die Mutter",
+      "back": "madre"
+    },
+    {
+      "id": "s4-121",
+      "front": "der Nachbar",
+      "back": "vecino"
+    },
+    {
+      "id": "s4-122",
+      "front": "die Nachbarin",
+      "back": "vecina"
+    },
+    {
+      "id": "s4-123",
+      "front": "der Nachmittag",
+      "back": "la tarde (Nachmittag)"
+    },
+    {
+      "id": "s4-124",
+      "front": "nah",
+      "back": "cerrar"
+    },
+    {
+      "id": "s4-125",
+      "front": "die Nähe",
+      "back": "cercanía / proximidad"
+    },
+    {
+      "id": "s4-126",
+      "front": "nebenan",
+      "back": "al lado"
+    },
+    {
+      "id": "s4-127",
+      "front": "nehmen",
+      "back": "tomar"
+    },
+    {
+      "id": "s4-128",
+      "front": "nett",
+      "back": "simpático / agradable"
+    },
+    {
+      "id": "s4-129",
+      "front": "normalerweise",
+      "back": "normalmente"
+    },
+    {
+      "id": "s4-130",
+      "front": "offen",
+      "back": "abierto"
+    },
+    {
+      "id": "s4-131",
+      "front": "die Öffnungszeit",
+      "back": "horarios de apertura"
+    },
+    {
+      "id": "s4-132",
+      "front": "oft",
+      "back": "a menudo"
+    },
+    {
+      "id": "s4-133",
+      "front": "der Park",
+      "back": "parque"
+    },
+    {
+      "id": "s4-134",
+      "front": "die Pause",
+      "back": "la pausa"
+    },
+    {
+      "id": "s4-135",
+      "front": "der Platz",
+      "back": "la plaza"
+    },
+    {
+      "id": "s4-136",
+      "front": "die Post",
+      "back": "correos (cartel)"
+    },
+    {
+      "id": "s4-137",
+      "front": "der Punkt",
+      "back": "punto (signo de puntuación)"
+    },
+    {
+      "id": "s4-138",
+      "front": "recht",
+      "back": "correcto"
+    },
+    {
+      "id": "s4-139",
+      "front": "rechts",
+      "back": "correcto (rechts)"
+    },
+    {
+      "id": "s4-140",
+      "front": "das Restaurant",
+      "back": "restaurante"
+    },
+    {
+      "id": "s4-141",
+      "front": "die Richtung",
+      "back": "la dirección"
+    },
+    {
+      "id": "s4-142",
+      "front": "rund",
+      "back": "redondo"
+    },
+    {
+      "id": "s4-143",
+      "front": "sagen",
+      "back": "decir"
+    },
+    {
+      "id": "s4-144",
+      "front": "der Samstag",
+      "back": "el sabado"
+    },
+    {
+      "id": "s4-145",
+      "front": "samstagabends",
+      "back": "sábados por la noche"
+    },
+    {
+      "id": "s4-146",
+      "front": "samstags",
+      "back": "sabados"
+    },
+    {
+      "id": "s4-147",
+      "front": "das Sauerkraut",
+      "back": "chucrut"
+    },
+    {
+      "id": "s4-148",
+      "front": "schade",
+      "back": "muy mal"
+    },
+    {
+      "id": "s4-149",
+      "front": "schnell",
+      "back": "rápidamente"
+    },
+    {
+      "id": "s4-150",
+      "front": "die Schokolade",
+      "back": "chocolate"
+    },
+    {
+      "id": "s4-151",
+      "front": "der Schrägstrich",
+      "back": "barra (/)"
+    },
+    {
+      "id": "s4-152",
+      "front": "der Schriftsteller",
+      "back": "escritor"
+    },
+    {
+      "id": "s4-153",
+      "front": "der Schuh",
+      "back": "zapato"
+    },
+    {
+      "id": "s4-154",
+      "front": "die Schule",
+      "back": "colegio / escuela"
+    },
+    {
+      "id": "s4-155",
+      "front": "sehen",
+      "back": "ver"
+    },
+    {
+      "id": "s4-156",
+      "front": "sehr",
+      "back": "muy"
+    },
+    {
+      "id": "s4-157",
+      "front": "sein",
+      "back": "ser / estar"
+    },
+    {
+      "id": "s4-158",
+      "front": "die Seite",
+      "back": "la pagina"
+    },
+    {
+      "id": "s4-159",
+      "front": "die Sektion",
+      "back": "sección"
+    },
+    {
+      "id": "s4-160",
+      "front": "sonntags",
+      "back": "domingos"
+    },
+    {
+      "id": "s4-161",
+      "front": "spät",
+      "back": "tarde (spät)"
+    },
+    {
+      "id": "s4-162",
+      "front": "sprechen",
+      "back": "hablar"
+    },
+    {
+      "id": "s4-163",
+      "front": "die Stadt",
+      "back": "la ciudad"
+    },
+    {
+      "id": "s4-164",
+      "front": "der Stadtbahnhof",
+      "back": "la estación de tren de la ciudad"
+    },
+    {
+      "id": "s4-165",
+      "front": "der Stadtpark",
+      "back": "el parque de la ciudad"
+    },
+    {
+      "id": "s4-166",
+      "front": "das Stift",
+      "back": "la abadía"
+    },
+    {
+      "id": "s4-167",
+      "front": "der Strand",
+      "back": "playa"
+    },
+    {
+      "id": "s4-168",
+      "front": "die Straße",
+      "back": "calle"
+    },
+    {
+      "id": "s4-169",
+      "front": "suchen",
+      "back": "buscar"
+    },
+    {
+      "id": "s4-170",
+      "front": "der Supermarkt",
+      "back": "supermercado"
+    },
+    {
+      "id": "s4-171",
+      "front": "die Tante",
+      "back": "la tía"
+    },
+    {
+      "id": "s4-172",
+      "front": "das Tennisspielen",
+      "back": "jugando tenis"
+    },
+    {
+      "id": "s4-173",
+      "front": "das Theater",
+      "back": "teatro"
+    },
+    {
+      "id": "s4-174",
+      "front": "treffen",
+      "back": "reunirse"
+    },
+    {
+      "id": "s4-175",
+      "front": "trinken",
+      "back": "beber"
+    },
+    {
+      "id": "s4-176",
+      "front": "die Tür",
+      "back": "la puerta"
+    },
+    {
+      "id": "s4-177",
+      "front": "die Uhr",
+      "back": "reloj"
+    },
+    {
+      "id": "s4-178",
+      "front": "der Umlaut",
+      "back": "diéresis alemana"
+    },
+    {
+      "id": "s4-179",
+      "front": "vegetarisch",
+      "back": "vegetariano"
+    },
+    {
+      "id": "s4-180",
+      "front": "verkauft",
+      "back": "vendido"
+    },
+    {
+      "id": "s4-181",
+      "front": "das Viel",
+      "back": "el lote (Viel)"
+    },
+    {
+      "id": "s4-182",
+      "front": "viel",
+      "back": "mucho"
+    },
+    {
+      "id": "s4-183",
+      "front": "die Waffe",
+      "back": "armas (plural)"
+    },
+    {
+      "id": "s4-184",
+      "front": "wann",
+      "back": "¿cuándo?"
+    },
+    {
+      "id": "s4-185",
+      "front": "der Weg",
+      "back": "el camino"
+    },
+    {
+      "id": "s4-186",
+      "front": "weit",
+      "back": "lejos"
+    },
+    {
+      "id": "s4-187",
+      "front": "wie",
+      "back": "¿cómo?"
+    },
+    {
+      "id": "s4-188",
+      "front": "wissen",
+      "back": "saber (wissen)"
+    },
+    {
+      "id": "s4-189",
+      "front": "wo",
+      "back": "¿dónde?"
+    },
+    {
+      "id": "s4-190",
+      "front": "die Woche",
+      "back": "la semana"
+    },
+    {
+      "id": "s4-191",
+      "front": "das Wochenende",
+      "back": "el fin de semana"
+    },
+    {
+      "id": "s4-192",
+      "front": "wohnen",
+      "back": "vivir / residir"
+    },
+    {
+      "id": "s4-193",
+      "front": "zweite",
+      "back": "segundo"
+    }
+  ]
+}

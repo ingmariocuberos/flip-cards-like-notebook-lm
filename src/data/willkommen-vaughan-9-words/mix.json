@@ -1,0 +1,909 @@
+{
+  "bookId": "willkommen-vaughan-9-words",
+  "bookTitle": "Buch 9 - Words",
+  "sektionId": "mix",
+  "sektionTitle": "Mix",
+  "order": 4,
+  "cards": [
+    {
+      "id": "s4-001",
+      "front": "anmachen",
+      "back": "encender"
+    },
+    {
+      "id": "s4-002",
+      "front": "der Apfel",
+      "back": "la manzana"
+    },
+    {
+      "id": "s4-003",
+      "front": "der Apfelsaft",
+      "back": "el zumo de manzana"
+    },
+    {
+      "id": "s4-004",
+      "front": "der April",
+      "back": "abril"
+    },
+    {
+      "id": "s4-005",
+      "front": "arrogant",
+      "back": "arrogante"
+    },
+    {
+      "id": "s4-006",
+      "front": "auch",
+      "back": "también"
+    },
+    {
+      "id": "s4-007",
+      "front": "aufmachen",
+      "back": "abrir"
+    },
+    {
+      "id": "s4-008",
+      "front": "das Auge",
+      "back": "el ojo"
+    },
+    {
+      "id": "s4-009",
+      "front": "der August",
+      "back": "agosto"
+    },
+    {
+      "id": "s4-010",
+      "front": "ausmachen",
+      "back": "besarse"
+    },
+    {
+      "id": "s4-011",
+      "front": "das Auto",
+      "back": "coche"
+    },
+    {
+      "id": "s4-012",
+      "front": "der Balkon",
+      "back": "el balcon"
+    },
+    {
+      "id": "s4-013",
+      "front": "die Balkontür",
+      "back": "la puerta del balcon"
+    },
+    {
+      "id": "s4-014",
+      "front": "die Banane",
+      "back": "el plátano"
+    },
+    {
+      "id": "s4-015",
+      "front": "das Bier",
+      "back": "cerveza"
+    },
+    {
+      "id": "s4-016",
+      "front": "die Birne",
+      "back": "la pera"
+    },
+    {
+      "id": "s4-017",
+      "front": "blau",
+      "back": "azul"
+    },
+    {
+      "id": "s4-018",
+      "front": "blond",
+      "back": "rubia"
+    },
+    {
+      "id": "s4-019",
+      "front": "braun",
+      "back": "marrón"
+    },
+    {
+      "id": "s4-020",
+      "front": "die Brezel",
+      "back": "el pretzel"
+    },
+    {
+      "id": "s4-021",
+      "front": "das Brot",
+      "back": "el pan"
+    },
+    {
+      "id": "s4-022",
+      "front": "der Bruder",
+      "back": "hermano"
+    },
+    {
+      "id": "s4-023",
+      "front": "das Buch",
+      "back": "libro"
+    },
+    {
+      "id": "s4-024",
+      "front": "der Chef",
+      "back": "jefe"
+    },
+    {
+      "id": "s4-025",
+      "front": "die Chefin",
+      "back": "jefa"
+    },
+    {
+      "id": "s4-026",
+      "front": "der Computer",
+      "back": "ordenador"
+    },
+    {
+      "id": "s4-027",
+      "front": "das Croissant",
+      "back": "el croissant"
+    },
+    {
+      "id": "s4-028",
+      "front": "der Dezember",
+      "back": "diciembre"
+    },
+    {
+      "id": "s4-029",
+      "front": "dick",
+      "back": "grueso"
+    },
+    {
+      "id": "s4-030",
+      "front": "dreißigste",
+      "back": "trigésimo"
+    },
+    {
+      "id": "s4-031",
+      "front": "dreiundzwanzigste",
+      "back": "vigésimo tercero"
+    },
+    {
+      "id": "s4-032",
+      "front": "dreizehnte",
+      "back": "decimotercero"
+    },
+    {
+      "id": "s4-033",
+      "front": "elfte",
+      "back": "undécimo"
+    },
+    {
+      "id": "s4-034",
+      "front": "der Erfolg",
+      "back": "el éxito"
+    },
+    {
+      "id": "s4-035",
+      "front": "erste",
+      "back": "primero"
+    },
+    {
+      "id": "s4-036",
+      "front": "essen",
+      "back": "comer"
+    },
+    {
+      "id": "s4-037",
+      "front": "der Februar",
+      "back": "febrero"
+    },
+    {
+      "id": "s4-038",
+      "front": "das Fenster",
+      "back": "ventana"
+    },
+    {
+      "id": "s4-039",
+      "front": "der Fernseher",
+      "back": "televisor"
+    },
+    {
+      "id": "s4-040",
+      "front": "die Flasche",
+      "back": "la botella"
+    },
+    {
+      "id": "s4-041",
+      "front": "der Freund",
+      "back": "amigo"
+    },
+    {
+      "id": "s4-042",
+      "front": "die Freundin",
+      "back": "amiga / novia"
+    },
+    {
+      "id": "s4-043",
+      "front": "fünfzehnte",
+      "back": "decimoquinto"
+    },
+    {
+      "id": "s4-044",
+      "front": "das Gartentor",
+      "back": "la puerta del jardin"
+    },
+    {
+      "id": "s4-045",
+      "front": "der Geburtstag",
+      "back": "el cumpleaños"
+    },
+    {
+      "id": "s4-046",
+      "front": "das Geld",
+      "back": "dinero"
+    },
+    {
+      "id": "s4-047",
+      "front": "der Geschäftspartner",
+      "back": "el socio comercial"
+    },
+    {
+      "id": "s4-048",
+      "front": "das Glas",
+      "back": "vaso"
+    },
+    {
+      "id": "s4-049",
+      "front": "glücklich",
+      "back": "feliz"
+    },
+    {
+      "id": "s4-050",
+      "front": "das Gramm",
+      "back": "el gramo"
+    },
+    {
+      "id": "s4-051",
+      "front": "grau",
+      "back": "gris"
+    },
+    {
+      "id": "s4-052",
+      "front": "groß",
+      "back": "grande / alto"
+    },
+    {
+      "id": "s4-053",
+      "front": "grün",
+      "back": "verde"
+    },
+    {
+      "id": "s4-054",
+      "front": "die Gurke",
+      "back": "el pepino"
+    },
+    {
+      "id": "s4-055",
+      "front": "gut",
+      "back": "bueno / bien"
+    },
+    {
+      "id": "s4-056",
+      "front": "das Haar",
+      "back": "el pelo"
+    },
+    {
+      "id": "s4-057",
+      "front": "haben",
+      "back": "tener"
+    },
+    {
+      "id": "s4-058",
+      "front": "halb",
+      "back": "la mitad"
+    },
+    {
+      "id": "s4-059",
+      "front": "das Handy",
+      "back": "móvil"
+    },
+    {
+      "id": "s4-060",
+      "front": "die Haustür",
+      "back": "la puerta principal"
+    },
+    {
+      "id": "s4-061",
+      "front": "heiß",
+      "back": "caliente"
+    },
+    {
+      "id": "s4-062",
+      "front": "die Heizung",
+      "back": "la calefacción"
+    },
+    {
+      "id": "s4-063",
+      "front": "der Herd",
+      "back": "la estufa"
+    },
+    {
+      "id": "s4-064",
+      "front": "heute",
+      "back": "hoy"
+    },
+    {
+      "id": "s4-065",
+      "front": "höflich",
+      "back": "educado"
+    },
+    {
+      "id": "s4-066",
+      "front": "hübsch",
+      "back": "bonita"
+    },
+    {
+      "id": "s4-067",
+      "front": "der Januar",
+      "back": "enero"
+    },
+    {
+      "id": "s4-068",
+      "front": "der Juli",
+      "back": "julio"
+    },
+    {
+      "id": "s4-069",
+      "front": "der Juni",
+      "back": "junio"
+    },
+    {
+      "id": "s4-070",
+      "front": "der Kaffee",
+      "back": "café (bebida)"
+    },
+    {
+      "id": "s4-071",
+      "front": "die Karotte",
+      "back": "la zanahoria"
+    },
+    {
+      "id": "s4-072",
+      "front": "die Kartoffel",
+      "back": "patata"
+    },
+    {
+      "id": "s4-073",
+      "front": "der Käse",
+      "back": "queso"
+    },
+    {
+      "id": "s4-074",
+      "front": "der Kaugummi",
+      "back": "el chicle"
+    },
+    {
+      "id": "s4-075",
+      "front": "der Keks",
+      "back": "la galleta"
+    },
+    {
+      "id": "s4-076",
+      "front": "das Kind",
+      "back": "niño / niña"
+    },
+    {
+      "id": "s4-077",
+      "front": "die Kiste",
+      "back": "caja"
+    },
+    {
+      "id": "s4-078",
+      "front": "klein",
+      "back": "pequeño / bajo"
+    },
+    {
+      "id": "s4-079",
+      "front": "die Klimaanlage",
+      "back": "el aire acondicionado"
+    },
+    {
+      "id": "s4-080",
+      "front": "der Kollege",
+      "back": "compañero de trabajo"
+    },
+    {
+      "id": "s4-081",
+      "front": "die Kollegin",
+      "back": "compañera de trabajo"
+    },
+    {
+      "id": "s4-082",
+      "front": "können",
+      "back": "poder / saber hacer algo"
+    },
+    {
+      "id": "s4-083",
+      "front": "krank",
+      "back": "enfermo"
+    },
+    {
+      "id": "s4-084",
+      "front": "der Kuchen",
+      "back": "el pastel"
+    },
+    {
+      "id": "s4-085",
+      "front": "der Kühlschrank",
+      "back": "el refrigerador"
+    },
+    {
+      "id": "s4-086",
+      "front": "kurz",
+      "back": "corto"
+    },
+    {
+      "id": "s4-087",
+      "front": "lange",
+      "back": "largo"
+    },
+    {
+      "id": "s4-088",
+      "front": "das Leitungswasser",
+      "back": "el agua del grifo"
+    },
+    {
+      "id": "s4-089",
+      "front": "das Licht",
+      "back": "la luz"
+    },
+    {
+      "id": "s4-090",
+      "front": "die Limonade",
+      "back": "la limonada"
+    },
+    {
+      "id": "s4-091",
+      "front": "der Liter",
+      "back": "el litro"
+    },
+    {
+      "id": "s4-092",
+      "front": "lockig",
+      "back": "rizado"
+    },
+    {
+      "id": "s4-093",
+      "front": "der Mai",
+      "back": "mayo"
+    },
+    {
+      "id": "s4-094",
+      "front": "die Mandarine",
+      "back": "la mandarina"
+    },
+    {
+      "id": "s4-095",
+      "front": "der März",
+      "back": "marzo"
+    },
+    {
+      "id": "s4-096",
+      "front": "meinen",
+      "back": "significar"
+    },
+    {
+      "id": "s4-097",
+      "front": "messen",
+      "back": "medir"
+    },
+    {
+      "id": "s4-098",
+      "front": "die Milch",
+      "back": "leche"
+    },
+    {
+      "id": "s4-099",
+      "front": "das Mineralwasser",
+      "back": "el agua mineral"
+    },
+    {
+      "id": "s4-100",
+      "front": "der Mitbewohner",
+      "back": "el compañero de cuarto"
+    },
+    {
+      "id": "s4-101",
+      "front": "die Mitbewohnerin",
+      "back": "el compañero de cuarto (Mitbewohnerin)"
+    },
+    {
+      "id": "s4-102",
+      "front": "möchten",
+      "back": "querer / desear"
+    },
+    {
+      "id": "s4-103",
+      "front": "modal",
+      "back": "modal"
+    },
+    {
+      "id": "s4-104",
+      "front": "mögen",
+      "back": "gustar"
+    },
+    {
+      "id": "s4-105",
+      "front": "müde",
+      "back": "cansado"
+    },
+    {
+      "id": "s4-106",
+      "front": "die Musik",
+      "back": "la música"
+    },
+    {
+      "id": "s4-107",
+      "front": "die Mutter",
+      "back": "madre"
+    },
+    {
+      "id": "s4-108",
+      "front": "der Nachbar",
+      "back": "vecino"
+    },
+    {
+      "id": "s4-109",
+      "front": "die Nachbarin",
+      "back": "vecina"
+    },
+    {
+      "id": "s4-110",
+      "front": "nervös",
+      "back": "nervioso"
+    },
+    {
+      "id": "s4-111",
+      "front": "nett",
+      "back": "simpático / agradable"
+    },
+    {
+      "id": "s4-112",
+      "front": "neu",
+      "back": "nuevo"
+    },
+    {
+      "id": "s4-113",
+      "front": "nicht",
+      "back": "no"
+    },
+    {
+      "id": "s4-114",
+      "front": "nie",
+      "back": "nunca"
+    },
+    {
+      "id": "s4-115",
+      "front": "die Olive",
+      "back": "la aceituna"
+    },
+    {
+      "id": "s4-116",
+      "front": "das Olivenöl",
+      "back": "el aceite de oliva"
+    },
+    {
+      "id": "s4-117",
+      "front": "die Orange",
+      "back": "la naranja"
+    },
+    {
+      "id": "s4-118",
+      "front": "ordentlich",
+      "back": "limpio"
+    },
+    {
+      "id": "s4-119",
+      "front": "paar",
+      "back": "pareja"
+    },
+    {
+      "id": "s4-120",
+      "front": "der Parkplatz",
+      "back": "aparcamiento / sitio para aparcar (letrero)"
+    },
+    {
+      "id": "s4-121",
+      "front": "der Pfeffer",
+      "back": "la pimienta"
+    },
+    {
+      "id": "s4-122",
+      "front": "der Platz",
+      "back": "la plaza"
+    },
+    {
+      "id": "s4-123",
+      "front": "die Praline",
+      "back": "el praliné"
+    },
+    {
+      "id": "s4-124",
+      "front": "das Prosit",
+      "back": "el brindis"
+    },
+    {
+      "id": "s4-125",
+      "front": "das Prost",
+      "back": "el brindis (Prost)"
+    },
+    {
+      "id": "s4-126",
+      "front": "das Prösterchen",
+      "back": "el brindis (coloquial)"
+    },
+    {
+      "id": "s4-127",
+      "front": "das Radio",
+      "back": "la radio"
+    },
+    {
+      "id": "s4-128",
+      "front": "die Rechnung",
+      "back": "cuenta"
+    },
+    {
+      "id": "s4-129",
+      "front": "rothaarig",
+      "back": "pelirroja"
+    },
+    {
+      "id": "s4-130",
+      "front": "der Rotwein",
+      "back": "vino tinto"
+    },
+    {
+      "id": "s4-131",
+      "front": "der Saft",
+      "back": "el zumo"
+    },
+    {
+      "id": "s4-132",
+      "front": "das Salz",
+      "back": "la sal"
+    },
+    {
+      "id": "s4-133",
+      "front": "der Schinken",
+      "back": "jamón"
+    },
+    {
+      "id": "s4-134",
+      "front": "schlank",
+      "back": "delgado"
+    },
+    {
+      "id": "s4-135",
+      "front": "die Schokolade",
+      "back": "chocolate"
+    },
+    {
+      "id": "s4-136",
+      "front": "der Schrank",
+      "back": "armario"
+    },
+    {
+      "id": "s4-137",
+      "front": "die Schublade",
+      "back": "el cajón"
+    },
+    {
+      "id": "s4-138",
+      "front": "schüchtern",
+      "back": "tímido"
+    },
+    {
+      "id": "s4-139",
+      "front": "die Schwester",
+      "back": "hermana"
+    },
+    {
+      "id": "s4-140",
+      "front": "sechste",
+      "back": "sexto"
+    },
+    {
+      "id": "s4-141",
+      "front": "sechsundzwanzigste",
+      "back": "vigésimo sexto"
+    },
+    {
+      "id": "s4-142",
+      "front": "sehen",
+      "back": "ver"
+    },
+    {
+      "id": "s4-143",
+      "front": "sehr",
+      "back": "muy"
+    },
+    {
+      "id": "s4-144",
+      "front": "sein",
+      "back": "ser / estar"
+    },
+    {
+      "id": "s4-145",
+      "front": "siebenundzwanzigste",
+      "back": "vigésimo séptimo"
+    },
+    {
+      "id": "s4-146",
+      "front": "sollen",
+      "back": "deber / tener que"
+    },
+    {
+      "id": "s4-147",
+      "front": "still",
+      "back": "silencioso"
+    },
+    {
+      "id": "s4-148",
+      "front": "das Stück",
+      "back": "la pieza"
+    },
+    {
+      "id": "s4-149",
+      "front": "stur",
+      "back": "terco"
+    },
+    {
+      "id": "s4-150",
+      "front": "die Süßigkeit",
+      "back": "el dulce"
+    },
+    {
+      "id": "s4-151",
+      "front": "der Süßstoff",
+      "back": "el edulcorante"
+    },
+    {
+      "id": "s4-152",
+      "front": "sympathisch",
+      "back": "simpático"
+    },
+    {
+      "id": "s4-153",
+      "front": "der Tag",
+      "back": "el día"
+    },
+    {
+      "id": "s4-154",
+      "front": "die Tageszeitung",
+      "back": "periódico (diario)"
+    },
+    {
+      "id": "s4-155",
+      "front": "die Tasse",
+      "back": "la copa"
+    },
+    {
+      "id": "s4-156",
+      "front": "der Tee",
+      "back": "el té"
+    },
+    {
+      "id": "s4-157",
+      "front": "die Tennisspielerin",
+      "back": "el tenista"
+    },
+    {
+      "id": "s4-158",
+      "front": "die Tochter",
+      "back": "hija"
+    },
+    {
+      "id": "s4-159",
+      "front": "die Tomate",
+      "back": "tomate"
+    },
+    {
+      "id": "s4-160",
+      "front": "der Tomatensaft",
+      "back": "el jugo de tomate"
+    },
+    {
+      "id": "s4-161",
+      "front": "traurig",
+      "back": "triste"
+    },
+    {
+      "id": "s4-162",
+      "front": "trinken",
+      "back": "beber"
+    },
+    {
+      "id": "s4-163",
+      "front": "die Tür",
+      "back": "puerta"
+    },
+    {
+      "id": "s4-164",
+      "front": "die Uhr",
+      "back": "reloj"
+    },
+    {
+      "id": "s4-165",
+      "front": "unordentlich",
+      "back": "desordenado"
+    },
+    {
+      "id": "s4-166",
+      "front": "der Ventilator",
+      "back": "el ventilador"
+    },
+    {
+      "id": "s4-167",
+      "front": "verloren",
+      "back": "perdido"
+    },
+    {
+      "id": "s4-168",
+      "front": "vierzehnte",
+      "back": "decimocuarto"
+    },
+    {
+      "id": "s4-169",
+      "front": "das Wasser",
+      "back": "el agua"
+    },
+    {
+      "id": "s4-170",
+      "front": "der Wechsel",
+      "back": "el cambio"
+    },
+    {
+      "id": "s4-171",
+      "front": "das Wechselgeld",
+      "back": "el cambio (Wechselgeld)"
+    },
+    {
+      "id": "s4-172",
+      "front": "das Wiedersehen",
+      "back": "la reunion"
+    },
+    {
+      "id": "s4-173",
+      "front": "witzig",
+      "back": "divertido"
+    },
+    {
+      "id": "s4-174",
+      "front": "wollen",
+      "back": "querer"
+    },
+    {
+      "id": "s4-175",
+      "front": "die Zeitung",
+      "back": "periódico"
+    },
+    {
+      "id": "s4-176",
+      "front": "die Zigarette",
+      "back": "el cigarrillo"
+    },
+    {
+      "id": "s4-177",
+      "front": "der Zoll",
+      "back": "aduana (letrero)"
+    },
+    {
+      "id": "s4-178",
+      "front": "der Zucker",
+      "back": "el azúcar"
+    },
+    {
+      "id": "s4-179",
+      "front": "zumachen",
+      "back": "cerrar"
+    },
+    {
+      "id": "s4-180",
+      "front": "die Zwiebel",
+      "back": "la cebolla"
+    }
+  ]
+}

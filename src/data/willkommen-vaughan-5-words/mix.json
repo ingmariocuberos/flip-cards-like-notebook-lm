@@ -1,0 +1,919 @@
+{
+  "bookId": "willkommen-vaughan-5-words",
+  "bookTitle": "Buch 5 - Words",
+  "sektionId": "mix",
+  "sektionTitle": "Mix",
+  "order": 4,
+  "cards": [
+    {
+      "id": "s4-001",
+      "front": "die Achtung",
+      "back": "atención / precaución"
+    },
+    {
+      "id": "s4-002",
+      "front": "alt",
+      "back": "viejo / antiguo"
+    },
+    {
+      "id": "s4-003",
+      "front": "das Ampelmännchen",
+      "back": "hombrecillo del semáforo"
+    },
+    {
+      "id": "s4-004",
+      "front": "die Apotheke",
+      "back": "farmacia"
+    },
+    {
+      "id": "s4-005",
+      "front": "der April",
+      "back": "abril"
+    },
+    {
+      "id": "s4-006",
+      "front": "arbeiten",
+      "back": "trabajar"
+    },
+    {
+      "id": "s4-007",
+      "front": "auch",
+      "back": "también"
+    },
+    {
+      "id": "s4-008",
+      "front": "ausverkauft",
+      "back": "agotado"
+    },
+    {
+      "id": "s4-009",
+      "front": "das Auto",
+      "back": "coche"
+    },
+    {
+      "id": "s4-010",
+      "front": "das Baby",
+      "back": "bebé"
+    },
+    {
+      "id": "s4-011",
+      "front": "der Bahnhof",
+      "back": "estación de tren"
+    },
+    {
+      "id": "s4-012",
+      "front": "die Bar",
+      "back": "bar"
+    },
+    {
+      "id": "s4-013",
+      "front": "bekannt",
+      "back": "conocido"
+    },
+    {
+      "id": "s4-014",
+      "front": "der Bekannte",
+      "back": "conocido"
+    },
+    {
+      "id": "s4-015",
+      "front": "die Bekannte",
+      "back": "conocida"
+    },
+    {
+      "id": "s4-016",
+      "front": "bequem",
+      "back": "cómodo"
+    },
+    {
+      "id": "s4-017",
+      "front": "das Bett",
+      "back": "cama"
+    },
+    {
+      "id": "s4-018",
+      "front": "billig",
+      "back": "barato"
+    },
+    {
+      "id": "s4-019",
+      "front": "bitte",
+      "back": "por favor"
+    },
+    {
+      "id": "s4-020",
+      "front": "blau",
+      "back": "azul"
+    },
+    {
+      "id": "s4-021",
+      "front": "brandenburger",
+      "back": "brandeburgo"
+    },
+    {
+      "id": "s4-022",
+      "front": "das Buch",
+      "back": "libro"
+    },
+    {
+      "id": "s4-023",
+      "front": "das Bundesland",
+      "back": "estado federado"
+    },
+    {
+      "id": "s4-024",
+      "front": "die Burg",
+      "back": "castillo / fortaleza"
+    },
+    {
+      "id": "s4-025",
+      "front": "das Cello",
+      "back": "chelo"
+    },
+    {
+      "id": "s4-026",
+      "front": "der Computer",
+      "back": "ordenador"
+    },
+    {
+      "id": "s4-027",
+      "front": "da",
+      "back": "ahí / allí"
+    },
+    {
+      "id": "s4-028",
+      "front": "die Dame",
+      "back": "señora"
+    },
+    {
+      "id": "s4-029",
+      "front": "das Deutsch",
+      "back": "alemán (idioma)"
+    },
+    {
+      "id": "s4-030",
+      "front": "der Donnerstag",
+      "back": "jueves"
+    },
+    {
+      "id": "s4-031",
+      "front": "der Dramaturg",
+      "back": "dramaturgo"
+    },
+    {
+      "id": "s4-032",
+      "front": "dreimal",
+      "back": "tres veces"
+    },
+    {
+      "id": "s4-033",
+      "front": "dreizehnte",
+      "back": "decimotercero"
+    },
+    {
+      "id": "s4-034",
+      "front": "die Dusche",
+      "back": "ducha"
+    },
+    {
+      "id": "s4-035",
+      "front": "edel",
+      "back": "noble"
+    },
+    {
+      "id": "s4-036",
+      "front": "einmal",
+      "back": "una vez"
+    },
+    {
+      "id": "s4-037",
+      "front": "elfte",
+      "back": "undécimo"
+    },
+    {
+      "id": "s4-038",
+      "front": "eng",
+      "back": "apretado"
+    },
+    {
+      "id": "s4-039",
+      "front": "das Englisch",
+      "back": "inglés (idioma)"
+    },
+    {
+      "id": "s4-040",
+      "front": "fahren",
+      "back": "ir en vehículo / conducir"
+    },
+    {
+      "id": "s4-041",
+      "front": "fangen",
+      "back": "atrapar"
+    },
+    {
+      "id": "s4-042",
+      "front": "der Fasching",
+      "back": "carnaval (sur de Alemania y Austria)"
+    },
+    {
+      "id": "s4-043",
+      "front": "die Fastnacht",
+      "back": "carnaval (suroeste de Alemania)"
+    },
+    {
+      "id": "s4-044",
+      "front": "das Fenster",
+      "back": "ventana"
+    },
+    {
+      "id": "s4-045",
+      "front": "der Fernseher",
+      "back": "televisor"
+    },
+    {
+      "id": "s4-046",
+      "front": "das Festspielhaus",
+      "back": "casa de festivales / teatro de festivales"
+    },
+    {
+      "id": "s4-047",
+      "front": "fliegen",
+      "back": "volar / ir en avión"
+    },
+    {
+      "id": "s4-048",
+      "front": "fließend",
+      "back": "fluido"
+    },
+    {
+      "id": "s4-049",
+      "front": "der Flughafen",
+      "back": "aeropuerto"
+    },
+    {
+      "id": "s4-050",
+      "front": "das Foto",
+      "back": "foto"
+    },
+    {
+      "id": "s4-051",
+      "front": "das Französisch",
+      "back": "francés (idioma)"
+    },
+    {
+      "id": "s4-052",
+      "front": "die Frau",
+      "back": "mujer"
+    },
+    {
+      "id": "s4-053",
+      "front": "der Freund",
+      "back": "amigo"
+    },
+    {
+      "id": "s4-054",
+      "front": "die Freundin",
+      "back": "amiga / novia"
+    },
+    {
+      "id": "s4-055",
+      "front": "früh",
+      "back": "temprano"
+    },
+    {
+      "id": "s4-056",
+      "front": "fünfzehnte",
+      "back": "decimoquinto"
+    },
+    {
+      "id": "s4-057",
+      "front": "der Fußball",
+      "back": "fútbol"
+    },
+    {
+      "id": "s4-058",
+      "front": "geben",
+      "back": "dar"
+    },
+    {
+      "id": "s4-059",
+      "front": "gehen",
+      "back": "ir (a pie)"
+    },
+    {
+      "id": "s4-060",
+      "front": "die Geige",
+      "back": "violín"
+    },
+    {
+      "id": "s4-061",
+      "front": "das Geld",
+      "back": "dinero"
+    },
+    {
+      "id": "s4-062",
+      "front": "der Goldfisch",
+      "back": "pez dorado"
+    },
+    {
+      "id": "s4-063",
+      "front": "groß",
+      "back": "grande / alto"
+    },
+    {
+      "id": "s4-064",
+      "front": "grün",
+      "back": "verde"
+    },
+    {
+      "id": "s4-065",
+      "front": "gut",
+      "back": "bueno / bien"
+    },
+    {
+      "id": "s4-066",
+      "front": "haben",
+      "back": "tener"
+    },
+    {
+      "id": "s4-067",
+      "front": "der Handball",
+      "back": "balonmano"
+    },
+    {
+      "id": "s4-068",
+      "front": "das Handy",
+      "back": "móvil"
+    },
+    {
+      "id": "s4-069",
+      "front": "hässlich",
+      "back": "feo"
+    },
+    {
+      "id": "s4-070",
+      "front": "das Haus",
+      "back": "casa"
+    },
+    {
+      "id": "s4-071",
+      "front": "der Helfer",
+      "back": "ayudante"
+    },
+    {
+      "id": "s4-072",
+      "front": "hier",
+      "back": "aquí"
+    },
+    {
+      "id": "s4-073",
+      "front": "die Hilfe",
+      "back": "ayuda / auxilio"
+    },
+    {
+      "id": "s4-074",
+      "front": "das Hockey",
+      "back": "hockey"
+    },
+    {
+      "id": "s4-075",
+      "front": "die Hose",
+      "back": "pantalón"
+    },
+    {
+      "id": "s4-076",
+      "front": "das Hotel",
+      "back": "hotel"
+    },
+    {
+      "id": "s4-077",
+      "front": "der Hund",
+      "back": "perro"
+    },
+    {
+      "id": "s4-078",
+      "front": "der Hunger",
+      "back": "hambre"
+    },
+    {
+      "id": "s4-079",
+      "front": "das Italienisch",
+      "back": "italiano (idioma)"
+    },
+    {
+      "id": "s4-080",
+      "front": "die Jacke",
+      "back": "chaqueta"
+    },
+    {
+      "id": "s4-081",
+      "front": "das Jahr",
+      "back": "año"
+    },
+    {
+      "id": "s4-082",
+      "front": "die Jahreszeit",
+      "back": "estación del año"
+    },
+    {
+      "id": "s4-083",
+      "front": "jung",
+      "back": "joven"
+    },
+    {
+      "id": "s4-084",
+      "front": "der Junge",
+      "back": "chico"
+    },
+    {
+      "id": "s4-085",
+      "front": "der Karneval",
+      "back": "carnaval"
+    },
+    {
+      "id": "s4-086",
+      "front": "die Kathedrale",
+      "back": "catedral"
+    },
+    {
+      "id": "s4-087",
+      "front": "das Kätzchen",
+      "back": "gatito"
+    },
+    {
+      "id": "s4-088",
+      "front": "die Katze",
+      "back": "gato / gata"
+    },
+    {
+      "id": "s4-089",
+      "front": "das Kind",
+      "back": "niño / niña"
+    },
+    {
+      "id": "s4-090",
+      "front": "das Kino",
+      "back": "cine"
+    },
+    {
+      "id": "s4-091",
+      "front": "die Kiste",
+      "back": "caja"
+    },
+    {
+      "id": "s4-092",
+      "front": "die Klasse",
+      "back": "clase"
+    },
+    {
+      "id": "s4-093",
+      "front": "das Klavier",
+      "back": "piano"
+    },
+    {
+      "id": "s4-094",
+      "front": "klein",
+      "back": "pequeño / bajo"
+    },
+    {
+      "id": "s4-095",
+      "front": "der Koffer",
+      "back": "maleta"
+    },
+    {
+      "id": "s4-096",
+      "front": "der Kollege",
+      "back": "compañero de trabajo"
+    },
+    {
+      "id": "s4-097",
+      "front": "die Kollegin",
+      "back": "compañera de trabajo"
+    },
+    {
+      "id": "s4-098",
+      "front": "kommen",
+      "back": "venir / pasarse"
+    },
+    {
+      "id": "s4-099",
+      "front": "die Kommode",
+      "back": "cómoda"
+    },
+    {
+      "id": "s4-100",
+      "front": "können",
+      "back": "poder / saber hacer algo"
+    },
+    {
+      "id": "s4-101",
+      "front": "der Kontinent",
+      "back": "continente"
+    },
+    {
+      "id": "s4-102",
+      "front": "der Kuli",
+      "back": "bolígrafo"
+    },
+    {
+      "id": "s4-103",
+      "front": "das Kunsthaus",
+      "back": "museo de arte / galería de arte"
+    },
+    {
+      "id": "s4-104",
+      "front": "das Kunstmuseum",
+      "back": "museo de arte"
+    },
+    {
+      "id": "s4-105",
+      "front": "der Laden",
+      "back": "tienda"
+    },
+    {
+      "id": "s4-106",
+      "front": "die Lampe",
+      "back": "lámpara"
+    },
+    {
+      "id": "s4-107",
+      "front": "lang",
+      "back": "largo"
+    },
+    {
+      "id": "s4-108",
+      "front": "der Laptop",
+      "back": "ordenador portátil"
+    },
+    {
+      "id": "s4-109",
+      "front": "laut",
+      "back": "ruidoso"
+    },
+    {
+      "id": "s4-110",
+      "front": "die Lebensgefahr",
+      "back": "peligro de muerte"
+    },
+    {
+      "id": "s4-111",
+      "front": "leise",
+      "back": "tranquilamente"
+    },
+    {
+      "id": "s4-112",
+      "front": "liegen",
+      "back": "estar tumbado / encontrarse en posición horizontal"
+    },
+    {
+      "id": "s4-113",
+      "front": "die Lust",
+      "back": "ganas"
+    },
+    {
+      "id": "s4-114",
+      "front": "das Mädchen",
+      "back": "chica"
+    },
+    {
+      "id": "s4-115",
+      "front": "der Mai",
+      "back": "mayo"
+    },
+    {
+      "id": "s4-116",
+      "front": "manchmal",
+      "back": "a veces"
+    },
+    {
+      "id": "s4-117",
+      "front": "der Mann",
+      "back": "hombre"
+    },
+    {
+      "id": "s4-118",
+      "front": "der Monat",
+      "back": "mes"
+    },
+    {
+      "id": "s4-119",
+      "front": "das Museum",
+      "back": "museo"
+    },
+    {
+      "id": "s4-120",
+      "front": "die Nähe",
+      "back": "cercanía / proximidad"
+    },
+    {
+      "id": "s4-121",
+      "front": "nett",
+      "back": "simpático / agradable"
+    },
+    {
+      "id": "s4-122",
+      "front": "neu",
+      "back": "nuevo"
+    },
+    {
+      "id": "s4-123",
+      "front": "nicht",
+      "back": "no"
+    },
+    {
+      "id": "s4-124",
+      "front": "oft",
+      "back": "a menudo"
+    },
+    {
+      "id": "s4-125",
+      "front": "der Ohrring",
+      "back": "pendiente"
+    },
+    {
+      "id": "s4-126",
+      "front": "der Park",
+      "back": "parque"
+    },
+    {
+      "id": "s4-127",
+      "front": "das Pferd",
+      "back": "caballo"
+    },
+    {
+      "id": "s4-128",
+      "front": "der Poet",
+      "back": "poeta"
+    },
+    {
+      "id": "s4-129",
+      "front": "die Polizei",
+      "back": "policía (institución)"
+    },
+    {
+      "id": "s4-130",
+      "front": "das Polnisch",
+      "back": "polaco (idioma)"
+    },
+    {
+      "id": "s4-131",
+      "front": "der Porsche",
+      "back": "Porsche"
+    },
+    {
+      "id": "s4-132",
+      "front": "praktisch",
+      "back": "practico"
+    },
+    {
+      "id": "s4-133",
+      "front": "rot",
+      "back": "rojo"
+    },
+    {
+      "id": "s4-134",
+      "front": "das Russisch",
+      "back": "ruso (idioma)"
+    },
+    {
+      "id": "s4-135",
+      "front": "das Saxofon",
+      "back": "saxofón"
+    },
+    {
+      "id": "s4-136",
+      "front": "das Schach",
+      "back": "ajedrez"
+    },
+    {
+      "id": "s4-137",
+      "front": "schön",
+      "back": "bonito / hermoso"
+    },
+    {
+      "id": "s4-138",
+      "front": "der Schuh",
+      "back": "zapato"
+    },
+    {
+      "id": "s4-139",
+      "front": "die Schule",
+      "back": "colegio / escuela"
+    },
+    {
+      "id": "s4-140",
+      "front": "schwarz",
+      "back": "negro"
+    },
+    {
+      "id": "s4-141",
+      "front": "das Schwedisch",
+      "back": "sueco (idioma)"
+    },
+    {
+      "id": "s4-142",
+      "front": "die Schwester",
+      "back": "hermana"
+    },
+    {
+      "id": "s4-143",
+      "front": "das Schwimmbad",
+      "back": "piscina"
+    },
+    {
+      "id": "s4-144",
+      "front": "sehen",
+      "back": "ver"
+    },
+    {
+      "id": "s4-145",
+      "front": "sehr",
+      "back": "muy"
+    },
+    {
+      "id": "s4-146",
+      "front": "sein",
+      "back": "ser / estar"
+    },
+    {
+      "id": "s4-147",
+      "front": "die Sektion",
+      "back": "sección"
+    },
+    {
+      "id": "s4-148",
+      "front": "das Spanisch",
+      "back": "español / castellano (idioma)"
+    },
+    {
+      "id": "s4-149",
+      "front": "spielen",
+      "back": "jugar / tocar"
+    },
+    {
+      "id": "s4-150",
+      "front": "sprechen",
+      "back": "hablar"
+    },
+    {
+      "id": "s4-151",
+      "front": "stehen",
+      "back": "estar de pie / encontrarse en posición vertical"
+    },
+    {
+      "id": "s4-152",
+      "front": "der Strand",
+      "back": "playa"
+    },
+    {
+      "id": "s4-153",
+      "front": "die Straße",
+      "back": "calle"
+    },
+    {
+      "id": "s4-154",
+      "front": "der Stuhl",
+      "back": "silla"
+    },
+    {
+      "id": "s4-155",
+      "front": "der Supermarkt",
+      "back": "supermercado"
+    },
+    {
+      "id": "s4-156",
+      "front": "süß",
+      "back": "dulce"
+    },
+    {
+      "id": "s4-157",
+      "front": "die Tasche",
+      "back": "bolso"
+    },
+    {
+      "id": "s4-158",
+      "front": "das Tennis",
+      "back": "tenis"
+    },
+    {
+      "id": "s4-159",
+      "front": "teuer",
+      "back": "caro"
+    },
+    {
+      "id": "s4-160",
+      "front": "der Tisch",
+      "back": "mesa"
+    },
+    {
+      "id": "s4-161",
+      "front": "toll",
+      "back": "genial"
+    },
+    {
+      "id": "s4-162",
+      "front": "das Tor",
+      "back": "puerta monumental / portón"
+    },
+    {
+      "id": "s4-163",
+      "front": "die Trompete",
+      "back": "trompeta"
+    },
+    {
+      "id": "s4-164",
+      "front": "tun",
+      "back": "hacer"
+    },
+    {
+      "id": "s4-165",
+      "front": "die Tür",
+      "back": "puerta"
+    },
+    {
+      "id": "s4-166",
+      "front": "die Uhr",
+      "back": "reloj"
+    },
+    {
+      "id": "s4-167",
+      "front": "unbedeutend",
+      "back": "insignificante"
+    },
+    {
+      "id": "s4-168",
+      "front": "unbequem",
+      "back": "incómodo"
+    },
+    {
+      "id": "s4-169",
+      "front": "viel",
+      "back": "mucho"
+    },
+    {
+      "id": "s4-170",
+      "front": "vierzehnte",
+      "back": "decimocuarto"
+    },
+    {
+      "id": "s4-171",
+      "front": "der Vogel",
+      "back": "pájaro"
+    },
+    {
+      "id": "s4-172",
+      "front": "weiß",
+      "back": "blanco"
+    },
+    {
+      "id": "s4-173",
+      "front": "die Welt",
+      "back": "mundo"
+    },
+    {
+      "id": "s4-174",
+      "front": "wo",
+      "back": "¿dónde?"
+    },
+    {
+      "id": "s4-175",
+      "front": "wohnen",
+      "back": "vivir / residir"
+    },
+    {
+      "id": "s4-176",
+      "front": "die Wohnung",
+      "back": "piso / vivienda"
+    },
+    {
+      "id": "s4-177",
+      "front": "wunderschön",
+      "back": "hermosa"
+    },
+    {
+      "id": "s4-178",
+      "front": "der Wurm",
+      "back": "gusano"
+    },
+    {
+      "id": "s4-179",
+      "front": "die Zeitschrift",
+      "back": "revista"
+    },
+    {
+      "id": "s4-180",
+      "front": "die Zeitung",
+      "back": "periódico"
+    },
+    {
+      "id": "s4-181",
+      "front": "zweimal",
+      "back": "dos veces"
+    },
+    {
+      "id": "s4-182",
+      "front": "zwölfte",
+      "back": "duodécimo"
+    }
+  ]
+}

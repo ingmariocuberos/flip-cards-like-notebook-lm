@@ -1,0 +1,974 @@
+{
+  "bookId": "willkommen-vaughan-23-words",
+  "bookTitle": "Buch 23 - Words",
+  "sektionId": "mix",
+  "sektionTitle": "Mix",
+  "order": 4,
+  "cards": [
+    {
+      "id": "s4-001",
+      "front": "ab",
+      "back": "apagado"
+    },
+    {
+      "id": "s4-002",
+      "front": "der Abend",
+      "back": "la tarde"
+    },
+    {
+      "id": "s4-003",
+      "front": "abholen",
+      "back": "recoger"
+    },
+    {
+      "id": "s4-004",
+      "front": "der Akku",
+      "back": "la bateria"
+    },
+    {
+      "id": "s4-005",
+      "front": "alt",
+      "back": "viejo / antiguo"
+    },
+    {
+      "id": "s4-006",
+      "front": "der An",
+      "back": "el un"
+    },
+    {
+      "id": "s4-007",
+      "front": "anders",
+      "back": "diferente"
+    },
+    {
+      "id": "s4-008",
+      "front": "anmachen",
+      "back": "encender"
+    },
+    {
+      "id": "s4-009",
+      "front": "anrufen",
+      "back": "llamar"
+    },
+    {
+      "id": "s4-010",
+      "front": "die Apotheke",
+      "back": "farmacia"
+    },
+    {
+      "id": "s4-011",
+      "front": "die Arbeit",
+      "back": "trabajo"
+    },
+    {
+      "id": "s4-012",
+      "front": "die Arbeitsstelle",
+      "back": "el puesto de trabajo"
+    },
+    {
+      "id": "s4-013",
+      "front": "die Art",
+      "back": "el tipo"
+    },
+    {
+      "id": "s4-014",
+      "front": "der Artikel",
+      "back": "el artículo"
+    },
+    {
+      "id": "s4-015",
+      "front": "aufgeben",
+      "back": "rendirse"
+    },
+    {
+      "id": "s4-016",
+      "front": "aufmachen",
+      "back": "abrir"
+    },
+    {
+      "id": "s4-017",
+      "front": "aufpassen",
+      "back": "ten cuidado"
+    },
+    {
+      "id": "s4-018",
+      "front": "ausmachen",
+      "back": "besarse"
+    },
+    {
+      "id": "s4-019",
+      "front": "der Backofen",
+      "back": "el horno"
+    },
+    {
+      "id": "s4-020",
+      "front": "der Bahnhof",
+      "back": "estación de tren"
+    },
+    {
+      "id": "s4-021",
+      "front": "das Band",
+      "back": "el grupo musical"
+    },
+    {
+      "id": "s4-022",
+      "front": "die Bank",
+      "back": "el banco"
+    },
+    {
+      "id": "s4-023",
+      "front": "benutzen",
+      "back": "usar"
+    },
+    {
+      "id": "s4-024",
+      "front": "benutzt",
+      "back": "usado"
+    },
+    {
+      "id": "s4-025",
+      "front": "besorgen",
+      "back": "conseguir"
+    },
+    {
+      "id": "s4-026",
+      "front": "besorgt",
+      "back": "preocupado"
+    },
+    {
+      "id": "s4-027",
+      "front": "bewegen",
+      "back": "moverse"
+    },
+    {
+      "id": "s4-028",
+      "front": "bitte",
+      "back": "por favor"
+    },
+    {
+      "id": "s4-029",
+      "front": "bitten",
+      "back": "preguntar"
+    },
+    {
+      "id": "s4-030",
+      "front": "blauen",
+      "back": "azul"
+    },
+    {
+      "id": "s4-031",
+      "front": "der Boiler",
+      "back": "la caldera"
+    },
+    {
+      "id": "s4-032",
+      "front": "braun",
+      "back": "marrón"
+    },
+    {
+      "id": "s4-033",
+      "front": "der Bundesgerichtshof",
+      "back": "el tribunal federal de justicia"
+    },
+    {
+      "id": "s4-034",
+      "front": "der Computer",
+      "back": "ordenador"
+    },
+    {
+      "id": "s4-035",
+      "front": "da",
+      "back": "ahí / allí"
+    },
+    {
+      "id": "s4-036",
+      "front": "dahin",
+      "back": "allí (dahin)"
+    },
+    {
+      "id": "s4-037",
+      "front": "das Ding",
+      "back": "la cosa"
+    },
+    {
+      "id": "s4-038",
+      "front": "das Doppelzimmer",
+      "back": "la habitación doble"
+    },
+    {
+      "id": "s4-039",
+      "front": "die E-Mail",
+      "back": "el correo electrónico"
+    },
+    {
+      "id": "s4-040",
+      "front": "die Eintrittskarte",
+      "back": "la entrada (para un evento)"
+    },
+    {
+      "id": "s4-041",
+      "front": "elegant",
+      "back": "elegante"
+    },
+    {
+      "id": "s4-042",
+      "front": "entspannen",
+      "back": "relajarse"
+    },
+    {
+      "id": "s4-043",
+      "front": "der Erfolg",
+      "back": "el éxito"
+    },
+    {
+      "id": "s4-044",
+      "front": "erklären",
+      "back": "explicar"
+    },
+    {
+      "id": "s4-045",
+      "front": "die Eröffnungsfeier",
+      "back": "las ceremonias de inauguración"
+    },
+    {
+      "id": "s4-046",
+      "front": "essen",
+      "back": "comer"
+    },
+    {
+      "id": "s4-047",
+      "front": "fällen",
+      "back": "caer"
+    },
+    {
+      "id": "s4-048",
+      "front": "die Fernbedienung",
+      "back": "el control remoto"
+    },
+    {
+      "id": "s4-049",
+      "front": "fliegen",
+      "back": "volar / ir en avión"
+    },
+    {
+      "id": "s4-050",
+      "front": "der Flug",
+      "back": "el vuelo"
+    },
+    {
+      "id": "s4-051",
+      "front": "fragen",
+      "back": "preguntar (fragen)"
+    },
+    {
+      "id": "s4-052",
+      "front": "frei",
+      "back": "gratis"
+    },
+    {
+      "id": "s4-053",
+      "front": "das Frühstück",
+      "back": "el desayuno"
+    },
+    {
+      "id": "s4-054",
+      "front": "funktionieren",
+      "back": "trabajo"
+    },
+    {
+      "id": "s4-055",
+      "front": "das Garagentor",
+      "back": "la puerta del garaje"
+    },
+    {
+      "id": "s4-056",
+      "front": "das Gate",
+      "back": "la puerta"
+    },
+    {
+      "id": "s4-057",
+      "front": "geben",
+      "back": "dar"
+    },
+    {
+      "id": "s4-058",
+      "front": "der Gefallen",
+      "back": "el favor"
+    },
+    {
+      "id": "s4-059",
+      "front": "gefallen",
+      "back": "me gustó"
+    },
+    {
+      "id": "s4-060",
+      "front": "gefragt",
+      "back": "preguntó"
+    },
+    {
+      "id": "s4-061",
+      "front": "gehen",
+      "back": "ir (a pie)"
+    },
+    {
+      "id": "s4-062",
+      "front": "gelb",
+      "back": "amarillo"
+    },
+    {
+      "id": "s4-063",
+      "front": "der Geldautomat",
+      "back": "el cajero (automático)"
+    },
+    {
+      "id": "s4-064",
+      "front": "das Gerät",
+      "back": "el dispositivo"
+    },
+    {
+      "id": "s4-065",
+      "front": "gestern",
+      "back": "ayer"
+    },
+    {
+      "id": "s4-066",
+      "front": "gestreift",
+      "back": "rayado"
+    },
+    {
+      "id": "s4-067",
+      "front": "gleich",
+      "back": "lo mismo"
+    },
+    {
+      "id": "s4-068",
+      "front": "das Glück",
+      "back": "la felicidad"
+    },
+    {
+      "id": "s4-069",
+      "front": "die Glühbirne",
+      "back": "la bombilla"
+    },
+    {
+      "id": "s4-070",
+      "front": "groß",
+      "back": "grande / alto"
+    },
+    {
+      "id": "s4-071",
+      "front": "die Große",
+      "back": "el grande"
+    },
+    {
+      "id": "s4-072",
+      "front": "grünen",
+      "back": "verdes"
+    },
+    {
+      "id": "s4-073",
+      "front": "gut",
+      "back": "bueno / bien"
+    },
+    {
+      "id": "s4-074",
+      "front": "der Guter",
+      "back": "el bueno (Guter)"
+    },
+    {
+      "id": "s4-075",
+      "front": "haben",
+      "back": "tener"
+    },
+    {
+      "id": "s4-076",
+      "front": "die Haltestelle",
+      "back": "la parada"
+    },
+    {
+      "id": "s4-077",
+      "front": "das Handgepäck",
+      "back": "el equipaje de mano"
+    },
+    {
+      "id": "s4-078",
+      "front": "helfen",
+      "back": "ayuda"
+    },
+    {
+      "id": "s4-079",
+      "front": "das Hemd",
+      "back": "la camisa"
+    },
+    {
+      "id": "s4-080",
+      "front": "herkommen",
+      "back": "ven aqui"
+    },
+    {
+      "id": "s4-081",
+      "front": "das Hochzeitskleid",
+      "back": "el vestido de novia"
+    },
+    {
+      "id": "s4-082",
+      "front": "das Hotel",
+      "back": "hotel"
+    },
+    {
+      "id": "s4-083",
+      "front": "hübsch",
+      "back": "bonita"
+    },
+    {
+      "id": "s4-084",
+      "front": "der Hund",
+      "back": "perro"
+    },
+    {
+      "id": "s4-085",
+      "front": "die Hundert",
+      "back": "el cien"
+    },
+    {
+      "id": "s4-086",
+      "front": "die Idee",
+      "back": "la idea"
+    },
+    {
+      "id": "s4-087",
+      "front": "interessant",
+      "back": "interesante"
+    },
+    {
+      "id": "s4-088",
+      "front": "karieren",
+      "back": "inspector"
+    },
+    {
+      "id": "s4-089",
+      "front": "der Kartoffelsalat",
+      "back": "la ensalada de papa"
+    },
+    {
+      "id": "s4-090",
+      "front": "das Kind",
+      "back": "niño / niña"
+    },
+    {
+      "id": "s4-091",
+      "front": "das Kleid",
+      "back": "el vestido"
+    },
+    {
+      "id": "s4-092",
+      "front": "klein",
+      "back": "pequeño / bajo"
+    },
+    {
+      "id": "s4-093",
+      "front": "kleinern",
+      "back": "más pequeño"
+    },
+    {
+      "id": "s4-094",
+      "front": "der Knopf",
+      "back": "el botón"
+    },
+    {
+      "id": "s4-095",
+      "front": "der Koffer",
+      "back": "maleta"
+    },
+    {
+      "id": "s4-096",
+      "front": "der Kofferraum",
+      "back": "el baúl"
+    },
+    {
+      "id": "s4-097",
+      "front": "der Kollege",
+      "back": "compañero de trabajo"
+    },
+    {
+      "id": "s4-098",
+      "front": "kommen",
+      "back": "venir / pasarse"
+    },
+    {
+      "id": "s4-099",
+      "front": "können",
+      "back": "poder / saber hacer algo"
+    },
+    {
+      "id": "s4-100",
+      "front": "das Konzept",
+      "back": "el concepto"
+    },
+    {
+      "id": "s4-101",
+      "front": "die Krawatte",
+      "back": "la corbata"
+    },
+    {
+      "id": "s4-102",
+      "front": "kurz",
+      "back": "corto"
+    },
+    {
+      "id": "s4-103",
+      "front": "lang",
+      "back": "largo"
+    },
+    {
+      "id": "s4-104",
+      "front": "lange",
+      "back": "largo (lange)"
+    },
+    {
+      "id": "s4-105",
+      "front": "leid",
+      "back": "lo siento"
+    },
+    {
+      "id": "s4-106",
+      "front": "lernen",
+      "back": "aprender / estudiar"
+    },
+    {
+      "id": "s4-107",
+      "front": "machen",
+      "back": "hacer"
+    },
+    {
+      "id": "s4-108",
+      "front": "mal",
+      "back": "veces"
+    },
+    {
+      "id": "s4-109",
+      "front": "der Mann",
+      "back": "hombre / marido"
+    },
+    {
+      "id": "s4-110",
+      "front": "die Maschine",
+      "back": "la maquina"
+    },
+    {
+      "id": "s4-111",
+      "front": "meinen",
+      "back": "significar"
+    },
+    {
+      "id": "s4-112",
+      "front": "minus",
+      "back": "menos"
+    },
+    {
+      "id": "s4-113",
+      "front": "mitbringen",
+      "back": "trae contigo"
+    },
+    {
+      "id": "s4-114",
+      "front": "modern",
+      "back": "moderno"
+    },
+    {
+      "id": "s4-115",
+      "front": "mögen",
+      "back": "gustar"
+    },
+    {
+      "id": "s4-116",
+      "front": "der Morgen",
+      "back": "la mañana"
+    },
+    {
+      "id": "s4-117",
+      "front": "morgen",
+      "back": "mañana"
+    },
+    {
+      "id": "s4-118",
+      "front": "die Musik",
+      "back": "la música"
+    },
+    {
+      "id": "s4-119",
+      "front": "der Nachbar",
+      "back": "vecino"
+    },
+    {
+      "id": "s4-120",
+      "front": "die Nacht",
+      "back": "la noche"
+    },
+    {
+      "id": "s4-121",
+      "front": "nah",
+      "back": "cerrar"
+    },
+    {
+      "id": "s4-122",
+      "front": "neu",
+      "back": "nuevo"
+    },
+    {
+      "id": "s4-123",
+      "front": "nicht",
+      "back": "no"
+    },
+    {
+      "id": "s4-124",
+      "front": "der Ofen",
+      "back": "el horno (Ofen)"
+    },
+    {
+      "id": "s4-125",
+      "front": "der Ohrring",
+      "back": "pendiente"
+    },
+    {
+      "id": "s4-126",
+      "front": "original",
+      "back": "originales"
+    },
+    {
+      "id": "s4-127",
+      "front": "originell",
+      "back": "originales (originell)"
+    },
+    {
+      "id": "s4-128",
+      "front": "das Paket",
+      "back": "los paquetes"
+    },
+    {
+      "id": "s4-129",
+      "front": "das Parfüm",
+      "back": "el perfume"
+    },
+    {
+      "id": "s4-130",
+      "front": "das Programm",
+      "back": "el programa"
+    },
+    {
+      "id": "s4-131",
+      "front": "das Projekt",
+      "back": "el proyecto"
+    },
+    {
+      "id": "s4-132",
+      "front": "der Pulli",
+      "back": "jersey (forma abreviada)"
+    },
+    {
+      "id": "s4-133",
+      "front": "der Rabatt",
+      "back": "el descuento"
+    },
+    {
+      "id": "s4-134",
+      "front": "der Reifen",
+      "back": "el neumático"
+    },
+    {
+      "id": "s4-135",
+      "front": "reserviert",
+      "back": "reservado"
+    },
+    {
+      "id": "s4-136",
+      "front": "der Rock",
+      "back": "falda"
+    },
+    {
+      "id": "s4-137",
+      "front": "rot",
+      "back": "rojo"
+    },
+    {
+      "id": "s4-138",
+      "front": "sagen",
+      "back": "decir"
+    },
+    {
+      "id": "s4-139",
+      "front": "die Schau",
+      "back": "el espectáculo"
+    },
+    {
+      "id": "s4-140",
+      "front": "schau",
+      "back": "mira"
+    },
+    {
+      "id": "s4-141",
+      "front": "der Schauspieler",
+      "back": "el actor"
+    },
+    {
+      "id": "s4-142",
+      "front": "schick",
+      "back": "elegante (schick)"
+    },
+    {
+      "id": "s4-143",
+      "front": "schicken",
+      "back": "enviar"
+    },
+    {
+      "id": "s4-144",
+      "front": "schon",
+      "back": "ya"
+    },
+    {
+      "id": "s4-145",
+      "front": "schön",
+      "back": "bonito / hermoso"
+    },
+    {
+      "id": "s4-146",
+      "front": "der Schuh",
+      "back": "zapato"
+    },
+    {
+      "id": "s4-147",
+      "front": "schwarz",
+      "back": "negro"
+    },
+    {
+      "id": "s4-148",
+      "front": "sehen",
+      "back": "ver"
+    },
+    {
+      "id": "s4-149",
+      "front": "sehr",
+      "back": "muy"
+    },
+    {
+      "id": "s4-150",
+      "front": "sein",
+      "back": "ser / estar"
+    },
+    {
+      "id": "s4-151",
+      "front": "das Sofa",
+      "back": "sofá"
+    },
+    {
+      "id": "s4-152",
+      "front": "sofort",
+      "back": "inmediatamente"
+    },
+    {
+      "id": "s4-153",
+      "front": "sollen",
+      "back": "deber / tener que"
+    },
+    {
+      "id": "s4-154",
+      "front": "spät",
+      "back": "tarde (spät)"
+    },
+    {
+      "id": "s4-155",
+      "front": "die Spülmaschine",
+      "back": "lavavajillas (plural)"
+    },
+    {
+      "id": "s4-156",
+      "front": "die Stadt",
+      "back": "la ciudad"
+    },
+    {
+      "id": "s4-157",
+      "front": "das Stück",
+      "back": "las piezas / los trozos"
+    },
+    {
+      "id": "s4-158",
+      "front": "das Talent",
+      "back": "el talento"
+    },
+    {
+      "id": "s4-159",
+      "front": "die Tankstelle",
+      "back": "la gasolinera"
+    },
+    {
+      "id": "s4-160",
+      "front": "die Taste",
+      "back": "el botón (Taste)"
+    },
+    {
+      "id": "s4-161",
+      "front": "tausendmal",
+      "back": "mil veces"
+    },
+    {
+      "id": "s4-162",
+      "front": "telefonisch",
+      "back": "por telefono"
+    },
+    {
+      "id": "s4-163",
+      "front": "die Terrasse",
+      "back": "la terraza"
+    },
+    {
+      "id": "s4-164",
+      "front": "trinken",
+      "back": "beber"
+    },
+    {
+      "id": "s4-165",
+      "front": "tun",
+      "back": "hacer (tun)"
+    },
+    {
+      "id": "s4-166",
+      "front": "überzeugen",
+      "back": "convencer"
+    },
+    {
+      "id": "s4-167",
+      "front": "die Uhr",
+      "back": "reloj"
+    },
+    {
+      "id": "s4-168",
+      "front": "das Urlaubsfoto",
+      "back": "la foto de vacaciones"
+    },
+    {
+      "id": "s4-169",
+      "front": "der Vanillepudding",
+      "back": "el pudín de vainilla"
+    },
+    {
+      "id": "s4-170",
+      "front": "verdanken",
+      "back": "gracias"
+    },
+    {
+      "id": "s4-171",
+      "front": "die Verspätung",
+      "back": "el retraso"
+    },
+    {
+      "id": "s4-172",
+      "front": "videoüberwacht",
+      "back": "videovigilancia"
+    },
+    {
+      "id": "s4-173",
+      "front": "viel",
+      "back": "mucho"
+    },
+    {
+      "id": "s4-174",
+      "front": "der Von",
+      "back": "el de"
+    },
+    {
+      "id": "s4-175",
+      "front": "vorbeikommen",
+      "back": "ven aquí"
+    },
+    {
+      "id": "s4-176",
+      "front": "der Vorschlag",
+      "back": "la sugerencia"
+    },
+    {
+      "id": "s4-177",
+      "front": "wann",
+      "back": "¿cuándo?"
+    },
+    {
+      "id": "s4-178",
+      "front": "die Waschmaschine",
+      "back": "la lavadora"
+    },
+    {
+      "id": "s4-179",
+      "front": "wechseln",
+      "back": "cambiar"
+    },
+    {
+      "id": "s4-180",
+      "front": "der Wecker",
+      "back": "el despertador"
+    },
+    {
+      "id": "s4-181",
+      "front": "weilen",
+      "back": "quedarse"
+    },
+    {
+      "id": "s4-182",
+      "front": "weißen",
+      "back": "blanco"
+    },
+    {
+      "id": "s4-183",
+      "front": "werden",
+      "back": "llegar a ser / convertirse"
+    },
+    {
+      "id": "s4-184",
+      "front": "wie",
+      "back": "¿cómo?"
+    },
+    {
+      "id": "s4-185",
+      "front": "das Willkommen",
+      "back": "la bienvenida"
+    },
+    {
+      "id": "s4-186",
+      "front": "das WLAN",
+      "back": "el WiFi"
+    },
+    {
+      "id": "s4-187",
+      "front": "wo",
+      "back": "¿dónde?"
+    },
+    {
+      "id": "s4-188",
+      "front": "wofür",
+      "back": "para que"
+    },
+    {
+      "id": "s4-189",
+      "front": "wohin",
+      "back": "¿adónde?"
+    },
+    {
+      "id": "s4-190",
+      "front": "die Wohnung",
+      "back": "piso / vivienda"
+    },
+    {
+      "id": "s4-191",
+      "front": "die Zehn",
+      "back": "los diez"
+    },
+    {
+      "id": "s4-192",
+      "front": "zeigen",
+      "back": "mostrar"
+    },
+    {
+      "id": "s4-193",
+      "front": "das Zimmer",
+      "back": "la habitación"
+    }
+  ]
+}
