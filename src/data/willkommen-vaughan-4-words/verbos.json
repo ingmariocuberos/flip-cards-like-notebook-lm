@@ -1,0 +1,104 @@
+{
+  "bookId": "willkommen-vaughan-4-words",
+  "bookTitle": "Buch 4 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "trabajar",
+      "back": "arbeiten"
+    },
+    {
+      "id": "s2-002",
+      "front": "ir en vehículo / conducir",
+      "back": "fahren"
+    },
+    {
+      "id": "s2-003",
+      "front": "volar / ir en avión",
+      "back": "fliegen"
+    },
+    {
+      "id": "s2-004",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-005",
+      "front": "venir / pasarse",
+      "back": "kommen"
+    },
+    {
+      "id": "s2-006",
+      "front": "poder / saber hacer algo",
+      "back": "können"
+    },
+    {
+      "id": "s2-007",
+      "front": "aprender / estudiar",
+      "back": "lernen"
+    },
+    {
+      "id": "s2-008",
+      "front": "estar tumbado / encontrarse en posición horizontal",
+      "back": "liegen"
+    },
+    {
+      "id": "s2-009",
+      "front": "irse / ponerse en marcha",
+      "back": "losgehen"
+    },
+    {
+      "id": "s2-010",
+      "front": "hacer",
+      "back": "machen"
+    },
+    {
+      "id": "s2-011",
+      "front": "tener que / deber",
+      "back": "müssen"
+    },
+    {
+      "id": "s2-012",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-013",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-014",
+      "front": "jugar / tocar",
+      "back": "spielen"
+    },
+    {
+      "id": "s2-015",
+      "front": "hablar",
+      "back": "sprechen"
+    },
+    {
+      "id": "s2-016",
+      "front": "estar de pie / encontrarse en posición vertical",
+      "back": "stehen"
+    },
+    {
+      "id": "s2-017",
+      "front": "nadar",
+      "back": "schwimmen"
+    },
+    {
+      "id": "s2-018",
+      "front": "esperar",
+      "back": "warten"
+    },
+    {
+      "id": "s2-019",
+      "front": "vivir / residir",
+      "back": "wohnen"
+    }
+  ]
+}
