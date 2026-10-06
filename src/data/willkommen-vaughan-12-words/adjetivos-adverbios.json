@@ -6,11 +6,6 @@
   "order": 3,
   "cards": [
     {
-      "id": "s3-001",
-      "front": "como",
-      "back": "als"
-    },
-    {
       "id": "s3-002",
       "front": "viejo / antiguo",
       "back": "alt"
@@ -234,6 +229,11 @@
       "id": "s3-046",
       "front": "más",
       "back": "mehr"
+    },
+    {
+      "id": "s3-076",
+      "front": "moderno",
+      "back": "modern"
     },
     {
       "id": "s3-047",
