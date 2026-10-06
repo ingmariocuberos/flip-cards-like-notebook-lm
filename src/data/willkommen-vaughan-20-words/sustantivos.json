@@ -1,0 +1,579 @@
+{
+  "bookId": "willkommen-vaughan-20-words",
+  "bookTitle": "Buch 20 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-003",
+      "front": "el puesto de trabajo",
+      "back": "die Arbeitsstelle"
+    },
+    {
+      "id": "s1-004",
+      "front": "el médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-005",
+      "front": "ascensor (letrero)",
+      "back": "der Aufzug"
+    },
+    {
+      "id": "s1-006",
+      "front": "coche",
+      "back": "das Auto"
+    },
+    {
+      "id": "s1-007",
+      "front": "la autovía / autopista",
+      "back": "die Autobahn"
+    },
+    {
+      "id": "s1-008",
+      "front": "el baño",
+      "back": "das Bad"
+    },
+    {
+      "id": "s1-009",
+      "front": "el aviso",
+      "back": "der Bescheid"
+    },
+    {
+      "id": "s1-010",
+      "front": "la cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-011",
+      "front": "el evento de incendio",
+      "back": "der Brandfall"
+    },
+    {
+      "id": "s1-012",
+      "front": "las gafas",
+      "back": "die Brille"
+    },
+    {
+      "id": "s1-013",
+      "front": "el pan",
+      "back": "das Brot"
+    },
+    {
+      "id": "s1-014",
+      "front": "hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-015",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-016",
+      "front": "el ordenador",
+      "back": "der Computer"
+    },
+    {
+      "id": "s1-017",
+      "front": "alemán (idioma)",
+      "back": "das Deutsch"
+    },
+    {
+      "id": "s1-018",
+      "front": "alemana",
+      "back": "die Deutsche"
+    },
+    {
+      "id": "s1-019",
+      "front": "la excusa",
+      "back": "die Entschuldigung"
+    },
+    {
+      "id": "s1-020",
+      "front": "la fiebre",
+      "back": "das Fieber"
+    },
+    {
+      "id": "s1-021",
+      "front": "el gimnasio",
+      "back": "das Fitness-Studio"
+    },
+    {
+      "id": "s1-022",
+      "front": "francés (idioma)",
+      "back": "das Französisch"
+    },
+    {
+      "id": "s1-023",
+      "front": "amigo",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-024",
+      "front": "amiga / novia",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-025",
+      "front": "la peluquería",
+      "back": "der Frisör"
+    },
+    {
+      "id": "s1-026",
+      "front": "fútbol",
+      "back": "der Fußball"
+    },
+    {
+      "id": "s1-027",
+      "front": "el gas",
+      "back": "das Gas"
+    },
+    {
+      "id": "s1-028",
+      "front": "lo mismo",
+      "back": "das Gleiche"
+    },
+    {
+      "id": "s1-029",
+      "front": "la familia extendida",
+      "back": "die Großfamilie"
+    },
+    {
+      "id": "s1-030",
+      "front": "la abuela",
+      "back": "die Großmutter"
+    },
+    {
+      "id": "s1-031",
+      "front": "la toalla",
+      "back": "das Handtuch"
+    },
+    {
+      "id": "s1-032",
+      "front": "móvil",
+      "back": "das Handy"
+    },
+    {
+      "id": "s1-033",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-034",
+      "front": "el casco",
+      "back": "der Helm"
+    },
+    {
+      "id": "s1-035",
+      "front": "el rascacielos / el edificio alto",
+      "back": "das Hochhaus"
+    },
+    {
+      "id": "s1-036",
+      "front": "la boda",
+      "back": "die Hochzeit"
+    },
+    {
+      "id": "s1-037",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-038",
+      "front": "internet",
+      "back": "das Internet"
+    },
+    {
+      "id": "s1-039",
+      "front": "chaqueta",
+      "back": "die Jacke"
+    },
+    {
+      "id": "s1-040",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-041",
+      "front": "el trabajo (temporal)",
+      "back": "der Job"
+    },
+    {
+      "id": "s1-042",
+      "front": "el cine",
+      "back": "das Kino"
+    },
+    {
+      "id": "s1-043",
+      "front": "clase",
+      "back": "die Klasse"
+    },
+    {
+      "id": "s1-044",
+      "front": "el compañero de trabajo",
+      "back": "der Kollege"
+    },
+    {
+      "id": "s1-045",
+      "front": "dolor de cabeza",
+      "back": "der Kopfschmerz"
+    },
+    {
+      "id": "s1-046",
+      "front": "el hospital",
+      "back": "das Krankenhaus"
+    },
+    {
+      "id": "s1-047",
+      "front": "el paisaje cultural",
+      "back": "die Kulturlandschaft"
+    },
+    {
+      "id": "s1-048",
+      "front": "el cliente",
+      "back": "der Kunde"
+    },
+    {
+      "id": "s1-049",
+      "front": "el campo / el país",
+      "back": "das Land"
+    },
+    {
+      "id": "s1-050",
+      "front": "el amor",
+      "back": "die Liebe"
+    },
+    {
+      "id": "s1-051",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-052",
+      "front": "las ganas",
+      "back": "die Lust"
+    },
+    {
+      "id": "s1-053",
+      "front": "el dolor de estomago",
+      "back": "der Magenschmerz"
+    },
+    {
+      "id": "s1-054",
+      "front": "el tiempo",
+      "back": "das Mal"
+    },
+    {
+      "id": "s1-055",
+      "front": "el ganso de san martin",
+      "back": "die Martinsgans"
+    },
+    {
+      "id": "s1-056",
+      "front": "la reunión",
+      "back": "das Meeting"
+    },
+    {
+      "id": "s1-057",
+      "front": "la opinión",
+      "back": "die Meinung"
+    },
+    {
+      "id": "s1-058",
+      "front": "la migraña",
+      "back": "die Migräne"
+    },
+    {
+      "id": "s1-059",
+      "front": "el millón",
+      "back": "die Million"
+    },
+    {
+      "id": "s1-060",
+      "front": "el minuto",
+      "back": "die Minute"
+    },
+    {
+      "id": "s1-061",
+      "front": "el mir",
+      "back": "der Mir"
+    },
+    {
+      "id": "s1-062",
+      "front": "mes",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-063",
+      "front": "la moto",
+      "back": "das Motorrad"
+    },
+    {
+      "id": "s1-064",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-065",
+      "front": "la tarde (Nachmittag)",
+      "back": "der Nachmittag"
+    },
+    {
+      "id": "s1-066",
+      "front": "el plural",
+      "back": "der Plural"
+    },
+    {
+      "id": "s1-067",
+      "front": "portugués (idioma)",
+      "back": "das Portugiesisch"
+    },
+    {
+      "id": "s1-068",
+      "front": "el problema",
+      "back": "das Problem"
+    },
+    {
+      "id": "s1-069",
+      "front": "el producto",
+      "back": "das Produkt"
+    },
+    {
+      "id": "s1-070",
+      "front": "el proyecto",
+      "back": "das Projekt"
+    },
+    {
+      "id": "s1-071",
+      "front": "el fumador",
+      "back": "der Raucher"
+    },
+    {
+      "id": "s1-072",
+      "front": "el derecho / la razón",
+      "back": "das Recht"
+    },
+    {
+      "id": "s1-073",
+      "front": "los derechos",
+      "back": "die Rechte"
+    },
+    {
+      "id": "s1-074",
+      "front": "el viaje",
+      "back": "die Reise"
+    },
+    {
+      "id": "s1-075",
+      "front": "el viaje (Reisen)",
+      "back": "das Reisen"
+    },
+    {
+      "id": "s1-076",
+      "front": "el dolor de espalda",
+      "back": "der Rückenschmerz"
+    },
+    {
+      "id": "s1-077",
+      "front": "asuntos / cosas (plural de Sache)",
+      "back": "die Sache"
+    },
+    {
+      "id": "s1-078",
+      "front": "colegio / escuela",
+      "back": "die Schule"
+    },
+    {
+      "id": "s1-079",
+      "front": "el ferrocarril colgante",
+      "back": "die Schwebebahn"
+    },
+    {
+      "id": "s1-080",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-081",
+      "front": "la dificultad",
+      "back": "die Schwierigkeit"
+    },
+    {
+      "id": "s1-082",
+      "front": "la piscina",
+      "back": "das Schwimmbad"
+    },
+    {
+      "id": "s1-083",
+      "front": "la secundaria",
+      "back": "die Sekunda"
+    },
+    {
+      "id": "s1-084",
+      "front": "español",
+      "back": "der Spanier"
+    },
+    {
+      "id": "s1-085",
+      "front": "español / castellano (idioma)",
+      "back": "das Spanisch"
+    },
+    {
+      "id": "s1-086",
+      "front": "la parte superior",
+      "back": "die Spitze"
+    },
+    {
+      "id": "s1-087",
+      "front": "el deporte",
+      "back": "der Sport"
+    },
+    {
+      "id": "s1-088",
+      "front": "el idioma",
+      "back": "die Sprache"
+    },
+    {
+      "id": "s1-089",
+      "front": "la abadía",
+      "back": "das Stift"
+    },
+    {
+      "id": "s1-090",
+      "front": "la playa",
+      "back": "der Strand"
+    },
+    {
+      "id": "s1-091",
+      "front": "la hora",
+      "back": "die Stunde"
+    },
+    {
+      "id": "s1-092",
+      "front": "la pastilla",
+      "back": "die Tablette"
+    },
+    {
+      "id": "s1-093",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-094",
+      "front": "el bolso",
+      "back": "die Tasche"
+    },
+    {
+      "id": "s1-095",
+      "front": "el té",
+      "back": "der Tee"
+    },
+    {
+      "id": "s1-096",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-097",
+      "front": "diéresis alemana",
+      "back": "der Umlaut"
+    },
+    {
+      "id": "s1-098",
+      "front": "la contaminación (medioambiental)",
+      "back": "die Umweltverschmutzung"
+    },
+    {
+      "id": "s1-099",
+      "front": "el accidente",
+      "back": "der Unfall"
+    },
+    {
+      "id": "s1-100",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-101",
+      "front": "el contrato",
+      "back": "der Vertrag"
+    },
+    {
+      "id": "s1-102",
+      "front": "el tiempo (clima)",
+      "back": "das Wetter"
+    },
+    {
+      "id": "s1-103",
+      "front": "el apartamento compartido",
+      "back": "die WG"
+    },
+    {
+      "id": "s1-104",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-105",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-106",
+      "front": "el apartamento compartido (Wohngemeinschaft)",
+      "back": "die Wohngemeinschaft"
+    },
+    {
+      "id": "s1-107",
+      "front": "el piso / la vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-108",
+      "front": "la palabra",
+      "back": "das Wort"
+    },
+    {
+      "id": "s1-109",
+      "front": "el dentista",
+      "back": "der Zahnarzt"
+    },
+    {
+      "id": "s1-110",
+      "front": "el cepillo de dientes",
+      "back": "die Zahnbürste"
+    },
+    {
+      "id": "s1-111",
+      "front": "dolor de muelas",
+      "back": "der Zahnschmerz"
+    },
+    {
+      "id": "s1-112",
+      "front": "el tiempo (cronológico)",
+      "back": "die Zeit"
+    },
+    {
+      "id": "s1-113",
+      "front": "revista",
+      "back": "die Zeitschrift"
+    },
+    {
+      "id": "s1-114",
+      "front": "el periódico",
+      "back": "die Zeitung"
+    }
+  ]
+}
