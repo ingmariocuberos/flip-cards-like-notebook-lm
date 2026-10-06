@@ -53,7 +53,7 @@
     {
       "id": "s1-010",
       "front": "el mejor",
-      "back": "das Beste"
+      "back": "die Beste"
     },
     {
       "id": "s1-011",
@@ -269,6 +269,16 @@
       "id": "s1-055",
       "front": "el bueno",
       "back": "das Gut"
+    },
+    {
+      "id": "s1-144",
+      "front": "lo bueno",
+      "back": "das Gute"
+    },
+    {
+      "id": "s1-145",
+      "front": "el bueno (Guter)",
+      "back": "der Guter"
     },
     {
       "id": "s1-056",
@@ -528,7 +538,7 @@
     {
       "id": "s1-107",
       "front": "la mas bella",
-      "back": "das Schönste"
+      "back": "die Schönste"
     },
     {
       "id": "s1-108",
@@ -549,6 +559,11 @@
       "id": "s1-111",
       "front": "hermana",
       "back": "die Schwester"
+    },
+    {
+      "id": "s1-146",
+      "front": "el suegro o la suegra",
+      "back": "der Schwiegerelternteil"
     },
     {
       "id": "s1-112",
@@ -649,11 +664,6 @@
       "id": "s1-131",
       "front": "la pared",
       "back": "die Wand"
-    },
-    {
-      "id": "s1-132",
-      "front": "el por qué",
-      "back": "das Warum"
     },
     {
       "id": "s1-143",
