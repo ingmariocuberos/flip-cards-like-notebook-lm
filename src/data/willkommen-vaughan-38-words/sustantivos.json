@@ -1,0 +1,889 @@
+{
+  "bookId": "willkommen-vaughan-38-words",
+  "bookTitle": "Buch 38 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la hora de salida",
+      "back": "die Abfahrtszeit"
+    },
+    {
+      "id": "s1-002",
+      "front": "la hora de salida (Abflugzeit)",
+      "back": "die Abflugzeit"
+    },
+    {
+      "id": "s1-003",
+      "front": "la dirección (señas)",
+      "back": "die Adresse"
+    },
+    {
+      "id": "s1-004",
+      "front": "el semáforo",
+      "back": "die Ampel"
+    },
+    {
+      "id": "s1-005",
+      "front": "el un",
+      "back": "der An"
+    },
+    {
+      "id": "s1-006",
+      "front": "asuntos (plural de Angelegenheit)",
+      "back": "die Angelegenheit"
+    },
+    {
+      "id": "s1-007",
+      "front": "la hora de llegada",
+      "back": "die Ankunftszeit"
+    },
+    {
+      "id": "s1-008",
+      "front": "abogado",
+      "back": "der Anwalt"
+    },
+    {
+      "id": "s1-009",
+      "front": "abogada",
+      "back": "die Anwältin"
+    },
+    {
+      "id": "s1-010",
+      "front": "el traje",
+      "back": "der Anzug"
+    },
+    {
+      "id": "s1-011",
+      "front": "farmacia",
+      "back": "die Apotheke"
+    },
+    {
+      "id": "s1-012",
+      "front": "el colega de trabajo",
+      "back": "der Arbeitskollege"
+    },
+    {
+      "id": "s1-013",
+      "front": "energía nuclear",
+      "back": "die Atomkraft"
+    },
+    {
+      "id": "s1-014",
+      "front": "la salida",
+      "back": "die Ausfahrt"
+    },
+    {
+      "id": "s1-015",
+      "front": "salida",
+      "back": "der Ausgang"
+    },
+    {
+      "id": "s1-016",
+      "front": "el pais extranjero",
+      "back": "das Ausland"
+    },
+    {
+      "id": "s1-017",
+      "front": "la medida",
+      "back": "das Ausmaß"
+    },
+    {
+      "id": "s1-018",
+      "front": "conduciendo un coche",
+      "back": "das Autofahren"
+    },
+    {
+      "id": "s1-019",
+      "front": "el bei",
+      "back": "der Bei"
+    },
+    {
+      "id": "s1-020",
+      "front": "el comportamiento",
+      "back": "das Benehmen"
+    },
+    {
+      "id": "s1-021",
+      "front": "profesión",
+      "back": "der Beruf"
+    },
+    {
+      "id": "s1-022",
+      "front": "el funcionamiento",
+      "back": "der Betrieb"
+    },
+    {
+      "id": "s1-023",
+      "front": "la solicitud",
+      "back": "die Bitte"
+    },
+    {
+      "id": "s1-024",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-025",
+      "front": "la librería",
+      "back": "die Buchhandlung"
+    },
+    {
+      "id": "s1-026",
+      "front": "la oficina",
+      "back": "das Büro"
+    },
+    {
+      "id": "s1-027",
+      "front": "jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-028",
+      "front": "el profesor de quimica",
+      "back": "der Chemielehrer"
+    },
+    {
+      "id": "s1-029",
+      "front": "el juego de computadora",
+      "back": "das Computerspiel"
+    },
+    {
+      "id": "s1-030",
+      "front": "alemán (idioma)",
+      "back": "das Deutsch"
+    },
+    {
+      "id": "s1-031",
+      "front": "alemana",
+      "back": "die Deutsche"
+    },
+    {
+      "id": "s1-032",
+      "front": "el profesor de alemán",
+      "back": "der Deutschlehrer"
+    },
+    {
+      "id": "s1-033",
+      "front": "la esquina (Ecke)",
+      "back": "die Ecke"
+    },
+    {
+      "id": "s1-034",
+      "front": "entrada (de vehículos). (señal)",
+      "back": "die Einfahrt"
+    },
+    {
+      "id": "s1-035",
+      "front": "la entrada",
+      "back": "der Einlass"
+    },
+    {
+      "id": "s1-036",
+      "front": "la entrada (para un evento)",
+      "back": "die Eintrittskarte"
+    },
+    {
+      "id": "s1-037",
+      "front": "progenitor (padre o madre)",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-038",
+      "front": "la decisión",
+      "back": "die Entscheidung"
+    },
+    {
+      "id": "s1-039",
+      "front": "el legado",
+      "back": "das Erbe"
+    },
+    {
+      "id": "s1-040",
+      "front": "el billete (Fahrkarte)",
+      "back": "die Fahrkarte"
+    },
+    {
+      "id": "s1-041",
+      "front": "ciclismo",
+      "back": "das Fahrradfahren"
+    },
+    {
+      "id": "s1-042",
+      "front": "el caso",
+      "back": "der Fall"
+    },
+    {
+      "id": "s1-043",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-044",
+      "front": "el color",
+      "back": "die Farbe"
+    },
+    {
+      "id": "s1-045",
+      "front": "el error",
+      "back": "der Fehler"
+    },
+    {
+      "id": "s1-046",
+      "front": "asiento de ventanilla (señal)",
+      "back": "der Fensterplatz"
+    },
+    {
+      "id": "s1-047",
+      "front": "la casa de vacaciones",
+      "back": "das Ferienhaus"
+    },
+    {
+      "id": "s1-048",
+      "front": "el apartamento de vacaciones",
+      "back": "die Ferienwohnung"
+    },
+    {
+      "id": "s1-049",
+      "front": "la empresa",
+      "back": "die Firma"
+    },
+    {
+      "id": "s1-050",
+      "front": "el avión",
+      "back": "das Flugzeug"
+    },
+    {
+      "id": "s1-051",
+      "front": "la consecuencia",
+      "back": "die Folge"
+    },
+    {
+      "id": "s1-052",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-053",
+      "front": "el tiempo libre",
+      "back": "die Freizeit"
+    },
+    {
+      "id": "s1-054",
+      "front": "amigo",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-055",
+      "front": "el edificio",
+      "back": "das Gebäude"
+    },
+    {
+      "id": "s1-056",
+      "front": "el sentimiento",
+      "back": "das Gefühl"
+    },
+    {
+      "id": "s1-057",
+      "front": "el área",
+      "back": "die Gegend"
+    },
+    {
+      "id": "s1-058",
+      "front": "la comodidad",
+      "back": "die Gemütlichkeit"
+    },
+    {
+      "id": "s1-059",
+      "front": "el negocio",
+      "back": "das Geschäft"
+    },
+    {
+      "id": "s1-060",
+      "front": "la bebida",
+      "back": "das Getränk"
+    },
+    {
+      "id": "s1-061",
+      "front": "el tamaño",
+      "back": "die Größe"
+    },
+    {
+      "id": "s1-062",
+      "front": "el abuelo o la abuela",
+      "back": "der Großelternteil"
+    },
+    {
+      "id": "s1-063",
+      "front": "el abuelo",
+      "back": "der Großvater"
+    },
+    {
+      "id": "s1-064",
+      "front": "la propiedad",
+      "back": "das Grundstück"
+    },
+    {
+      "id": "s1-065",
+      "front": "el bueno",
+      "back": "das Gut"
+    },
+    {
+      "id": "s1-066",
+      "front": "el bueno (Guter)",
+      "back": "der Guter"
+    },
+    {
+      "id": "s1-067",
+      "front": "la parada",
+      "back": "der Halt"
+    },
+    {
+      "id": "s1-068",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-069",
+      "front": "la mascota",
+      "back": "das Haustier"
+    },
+    {
+      "id": "s1-070",
+      "front": "la camisa",
+      "back": "das Hemd"
+    },
+    {
+      "id": "s1-071",
+      "front": "el señor",
+      "back": "der Herr"
+    },
+    {
+      "id": "s1-072",
+      "front": "hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-073",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-074",
+      "front": "la información",
+      "back": "die Information"
+    },
+    {
+      "id": "s1-075",
+      "front": "el centro de la ciudad",
+      "back": "die Innenstadt"
+    },
+    {
+      "id": "s1-076",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-077",
+      "front": "el trabajo (temporal)",
+      "back": "der Job"
+    },
+    {
+      "id": "s1-078",
+      "front": "la juventud",
+      "back": "die Jugend"
+    },
+    {
+      "id": "s1-079",
+      "front": "el albergue juvenil",
+      "back": "die Jugendherberge"
+    },
+    {
+      "id": "s1-080",
+      "front": "carta / naipe",
+      "back": "die Karte"
+    },
+    {
+      "id": "s1-081",
+      "front": "la caja",
+      "back": "die Kasse"
+    },
+    {
+      "id": "s1-082",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-083",
+      "front": "el jardín de infantes",
+      "back": "der Kindergarten"
+    },
+    {
+      "id": "s1-084",
+      "front": "el aula",
+      "back": "das Klassenzimmer"
+    },
+    {
+      "id": "s1-085",
+      "front": "tocando el piano",
+      "back": "das Klavierspielen"
+    },
+    {
+      "id": "s1-086",
+      "front": "el perchero",
+      "back": "der Kleiderständer"
+    },
+    {
+      "id": "s1-087",
+      "front": "la cocina",
+      "back": "das Kochen"
+    },
+    {
+      "id": "s1-088",
+      "front": "compañero de trabajo",
+      "back": "der Kollege"
+    },
+    {
+      "id": "s1-089",
+      "front": "la consecuencia (Konsequenz)",
+      "back": "die Konsequenz"
+    },
+    {
+      "id": "s1-090",
+      "front": "hospitales (plural)",
+      "back": "das Krankenhaus"
+    },
+    {
+      "id": "s1-091",
+      "front": "la enfermedad",
+      "back": "die Krankheit"
+    },
+    {
+      "id": "s1-092",
+      "front": "el cliente",
+      "back": "der Kunde"
+    },
+    {
+      "id": "s1-093",
+      "front": "la risa",
+      "back": "das Lachen"
+    },
+    {
+      "id": "s1-094",
+      "front": "tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-095",
+      "front": "vida",
+      "back": "das Leben"
+    },
+    {
+      "id": "s1-096",
+      "front": "la lectura",
+      "back": "das Lesen"
+    },
+    {
+      "id": "s1-097",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-098",
+      "front": "ganas",
+      "back": "die Lust"
+    },
+    {
+      "id": "s1-099",
+      "front": "el hombre",
+      "back": "der Man"
+    },
+    {
+      "id": "s1-100",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-101",
+      "front": "el gemelo",
+      "back": "der Manschettenknopf"
+    },
+    {
+      "id": "s1-102",
+      "front": "el profesor de matematicas",
+      "back": "der Mathelehrer"
+    },
+    {
+      "id": "s1-103",
+      "front": "el ser humano",
+      "back": "der Mensch"
+    },
+    {
+      "id": "s1-104",
+      "front": "el metodo",
+      "back": "die Methode"
+    },
+    {
+      "id": "s1-105",
+      "front": "los alquileres",
+      "back": "die Miete"
+    },
+    {
+      "id": "s1-106",
+      "front": "el contrato de alquiler",
+      "back": "der Mietvertrag"
+    },
+    {
+      "id": "s1-107",
+      "front": "los muebles",
+      "back": "das Möbel"
+    },
+    {
+      "id": "s1-108",
+      "front": "la posibilidad",
+      "back": "die Möglichkeit"
+    },
+    {
+      "id": "s1-109",
+      "front": "la lengua nativa",
+      "back": "die Muttersprache"
+    },
+    {
+      "id": "s1-110",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-111",
+      "front": "vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-112",
+      "front": "la noticia",
+      "back": "die Nachricht"
+    },
+    {
+      "id": "s1-113",
+      "front": "el turno de noche",
+      "back": "die Nachtschicht"
+    },
+    {
+      "id": "s1-114",
+      "front": "cercanía / proximidad",
+      "back": "die Nähe"
+    },
+    {
+      "id": "s1-115",
+      "front": "el nombre",
+      "back": "der Namen"
+    },
+    {
+      "id": "s1-116",
+      "front": "el sistema de navegación",
+      "back": "das Navi"
+    },
+    {
+      "id": "s1-117",
+      "front": "el uso",
+      "back": "die Nutzung"
+    },
+    {
+      "id": "s1-118",
+      "front": "la camisa (Oberhemd)",
+      "back": "das Oberhemd"
+    },
+    {
+      "id": "s1-119",
+      "front": "la abuela (coloquial)",
+      "back": "die Oma"
+    },
+    {
+      "id": "s1-120",
+      "front": "la casa de huéspedes",
+      "back": "die Pension"
+    },
+    {
+      "id": "s1-121",
+      "front": "el concierto filarmónico",
+      "back": "das Philharmoniker-Konzert"
+    },
+    {
+      "id": "s1-122",
+      "front": "vida privada",
+      "back": "das Privatleben"
+    },
+    {
+      "id": "s1-123",
+      "front": "el problema",
+      "back": "das Problem"
+    },
+    {
+      "id": "s1-124",
+      "front": "el proyecto",
+      "back": "das Projekt"
+    },
+    {
+      "id": "s1-125",
+      "front": "los emplastos",
+      "back": "die Putze"
+    },
+    {
+      "id": "s1-126",
+      "front": "las tonterías",
+      "back": "der Quatsch"
+    },
+    {
+      "id": "s1-127",
+      "front": "la fila",
+      "back": "die Reihe"
+    },
+    {
+      "id": "s1-128",
+      "front": "restaurante",
+      "back": "das Restaurant"
+    },
+    {
+      "id": "s1-129",
+      "front": "la capa",
+      "back": "die Schicht"
+    },
+    {
+      "id": "s1-130",
+      "front": "tintorería rápida",
+      "back": "die Schnellreinigung"
+    },
+    {
+      "id": "s1-131",
+      "front": "las deudas",
+      "back": "die Schuld"
+    },
+    {
+      "id": "s1-132",
+      "front": "el niño de la escuela",
+      "back": "das Schulkind"
+    },
+    {
+      "id": "s1-133",
+      "front": "la natación",
+      "back": "das Schwimmen"
+    },
+    {
+      "id": "s1-134",
+      "front": "la pagina",
+      "back": "die Seite"
+    },
+    {
+      "id": "s1-135",
+      "front": "el pecado",
+      "back": "der Sin"
+    },
+    {
+      "id": "s1-136",
+      "front": "la situación",
+      "back": "die Situation"
+    },
+    {
+      "id": "s1-137",
+      "front": "el asiento",
+      "back": "der Sitz"
+    },
+    {
+      "id": "s1-138",
+      "front": "el asiento (Sitzplatz)",
+      "back": "der Sitzplatz"
+    },
+    {
+      "id": "s1-139",
+      "front": "el esqui",
+      "back": "das Skifahren"
+    },
+    {
+      "id": "s1-140",
+      "front": "hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-141",
+      "front": "el verano",
+      "back": "der Sommer"
+    },
+    {
+      "id": "s1-142",
+      "front": "domingo",
+      "back": "der Sonntag"
+    },
+    {
+      "id": "s1-143",
+      "front": "el profesor de español",
+      "back": "der Spanischlehrer"
+    },
+    {
+      "id": "s1-144",
+      "front": "el sendero",
+      "back": "die Spur"
+    },
+    {
+      "id": "s1-145",
+      "front": "la sala de estar de pie",
+      "back": "der Stehplatz"
+    },
+    {
+      "id": "s1-146",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-147",
+      "front": "tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-148",
+      "front": "el baile",
+      "back": "das Tanzen"
+    },
+    {
+      "id": "s1-149",
+      "front": "el juego de tenis",
+      "back": "das Tennisspiel"
+    },
+    {
+      "id": "s1-150",
+      "front": "la cita",
+      "back": "der Termin"
+    },
+    {
+      "id": "s1-151",
+      "front": "la teoria",
+      "back": "die Theorie"
+    },
+    {
+      "id": "s1-152",
+      "front": "la escalera",
+      "back": "das Treppenhaus"
+    },
+    {
+      "id": "s1-153",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-154",
+      "front": "la documentación / los documentos (pl.)",
+      "back": "die Unterlage"
+    },
+    {
+      "id": "s1-155",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-156",
+      "front": "la responsabilidad",
+      "back": "die Verantwortung"
+    },
+    {
+      "id": "s1-157",
+      "front": "la orden",
+      "back": "die Verfügung"
+    },
+    {
+      "id": "s1-158",
+      "front": "el abandono",
+      "back": "der Verlass"
+    },
+    {
+      "id": "s1-159",
+      "front": "contratos (plural de Vertrag)",
+      "back": "der Vertrag"
+    },
+    {
+      "id": "s1-160",
+      "front": "el bosque",
+      "back": "der Wald"
+    },
+    {
+      "id": "s1-161",
+      "front": "la fiesta de navidad",
+      "back": "die Weihnachtsfeier"
+    },
+    {
+      "id": "s1-162",
+      "front": "el invierno",
+      "back": "der Winter"
+    },
+    {
+      "id": "s1-163",
+      "front": "el conocimiento",
+      "back": "das Wissen"
+    },
+    {
+      "id": "s1-164",
+      "front": "el científico",
+      "back": "der Wissenschaftler"
+    },
+    {
+      "id": "s1-165",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-166",
+      "front": "piso / vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-167",
+      "front": "la visita de un piso",
+      "back": "die Wohnungsbesichtigung"
+    },
+    {
+      "id": "s1-168",
+      "front": "la dignidad",
+      "back": "die Würde"
+    },
+    {
+      "id": "s1-169",
+      "front": "tiempo",
+      "back": "die Zeit"
+    },
+    {
+      "id": "s1-170",
+      "front": "la tienda",
+      "back": "das Zelt"
+    },
+    {
+      "id": "s1-171",
+      "front": "la habitación",
+      "back": "das Zimmer"
+    },
+    {
+      "id": "s1-172",
+      "front": "el zoológico",
+      "back": "der Zoo"
+    },
+    {
+      "id": "s1-173",
+      "front": "la coincidencia",
+      "back": "der Zufall"
+    },
+    {
+      "id": "s1-174",
+      "front": "el hermano gemelo",
+      "back": "der Zwillingsbruder"
+    },
+    {
+      "id": "s1-175",
+      "front": "la hermana gemela",
+      "back": "die Zwillingsschwester"
+    },
+    {
+      "id": "s1-176",
+      "front": "el intermedio",
+      "back": "das Zwischen"
+    }
+  ]
+}
