@@ -1,0 +1,89 @@
+{
+  "bookId": "willkommen-vaughan-9-words",
+  "bookTitle": "Buch 9 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "encender",
+      "back": "anmachen"
+    },
+    {
+      "id": "s2-002",
+      "front": "abrir",
+      "back": "aufmachen"
+    },
+    {
+      "id": "s2-003",
+      "front": "besarse",
+      "back": "ausmachen"
+    },
+    {
+      "id": "s2-004",
+      "front": "comer",
+      "back": "essen"
+    },
+    {
+      "id": "s2-005",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-006",
+      "front": "poder / saber hacer algo",
+      "back": "können"
+    },
+    {
+      "id": "s2-007",
+      "front": "significar",
+      "back": "meinen"
+    },
+    {
+      "id": "s2-008",
+      "front": "medir",
+      "back": "messen"
+    },
+    {
+      "id": "s2-009",
+      "front": "querer / desear",
+      "back": "möchten"
+    },
+    {
+      "id": "s2-010",
+      "front": "gustar",
+      "back": "mögen"
+    },
+    {
+      "id": "s2-011",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-012",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-013",
+      "front": "deber / tener que",
+      "back": "sollen"
+    },
+    {
+      "id": "s2-014",
+      "front": "beber",
+      "back": "trinken"
+    },
+    {
+      "id": "s2-015",
+      "front": "querer",
+      "back": "wollen"
+    },
+    {
+      "id": "s2-016",
+      "front": "cerrar",
+      "back": "zumachen"
+    }
+  ]
+}
