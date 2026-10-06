@@ -156,6 +156,11 @@
       "back": "das Ding"
     },
     {
+      "id": "s1-199",
+      "front": "la catedral",
+      "back": "der Dom"
+    },
+    {
       "id": "s1-031",
       "front": "el tercero",
       "back": "das Drittel"
@@ -166,17 +171,12 @@
       "back": "die Dusche"
     },
     {
-      "id": "s1-033",
-      "front": "el ebro",
-      "back": "der Ebro"
-    },
-    {
       "id": "s1-034",
       "front": "el helado",
       "back": "das Eis"
     },
     {
-      "id": "s1-035",
+      "id": "s1-205",
       "front": "progenitor (padre o madre)",
       "back": "der Elternteil"
     },
@@ -266,6 +266,11 @@
       "back": "der Geburtstag"
     },
     {
+      "id": "s1-196",
+      "front": "la paciencia",
+      "back": "die Geduld"
+    },
+    {
       "id": "s1-053",
       "front": "dinero",
       "back": "das Geld"
@@ -281,14 +286,14 @@
       "back": "die Geschichte"
     },
     {
+      "id": "s1-197",
+      "front": "la felicidad",
+      "back": "das Glück"
+    },
+    {
       "id": "s1-056",
       "front": "el verde",
       "back": "das Grüne"
-    },
-    {
-      "id": "s1-057",
-      "front": "el Guadalquivir",
-      "back": "der Guadalquivir"
     },
     {
       "id": "s1-058",
@@ -301,11 +306,6 @@
       "back": "der Hamster"
     },
     {
-      "id": "s1-060",
-      "front": "la prisa",
-      "back": "die Hast"
-    },
-    {
       "id": "s1-061",
       "front": "el plato principal",
       "back": "das Hauptgericht"
@@ -316,7 +316,7 @@
       "back": "die Hauptstadt"
     },
     {
-      "id": "s1-063",
+      "id": "s1-201",
       "front": "camisas (plural)",
       "back": "das Hemd"
     },
@@ -521,11 +521,6 @@
       "back": "der Morgen"
     },
     {
-      "id": "s1-104",
-      "front": "el Mosela",
-      "back": "die Mosel"
-    },
-    {
       "id": "s1-105",
       "front": "madre",
       "back": "die Mutter"
@@ -541,7 +536,7 @@
       "back": "das Neuntel"
     },
     {
-      "id": "s1-108",
+      "id": "s1-202",
       "front": "el norte",
       "back": "der Norden"
     },
@@ -591,7 +586,7 @@
       "back": "die Physik"
     },
     {
-      "id": "s1-118",
+      "id": "s1-207",
       "front": "pizza",
       "back": "die Pizza"
     },
@@ -629,11 +624,6 @@
       "id": "s1-125",
       "front": "restaurante",
       "back": "das Restaurant"
-    },
-    {
-      "id": "s1-126",
-      "front": "el rin",
-      "back": "der Rhein"
     },
     {
       "id": "s1-127",
@@ -691,11 +681,6 @@
       "back": "die Schule"
     },
     {
-      "id": "s1-138",
-      "front": "suiza",
-      "back": "die Schweiz"
-    },
-    {
       "id": "s1-139",
       "front": "hermana",
       "back": "die Schwester"
@@ -726,7 +711,7 @@
       "back": "das Siebtel"
     },
     {
-      "id": "s1-145",
+      "id": "s1-203",
       "front": "el canto",
       "back": "das Singen"
     },
@@ -971,14 +956,9 @@
       "back": "der Zucker"
     },
     {
-      "id": "s1-194",
+      "id": "s1-204",
       "front": "el tren",
       "back": "der Zug"
-    },
-    {
-      "id": "s1-195",
-      "front": "el Zugspitze",
-      "back": "die Zugspitze"
     }
   ]
 }
