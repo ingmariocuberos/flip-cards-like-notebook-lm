@@ -1,0 +1,414 @@
+{
+  "bookId": "willkommen-vaughan-33-words",
+  "bookTitle": "Buch 33 - Words",
+  "sektionId": "adjetivos-adverbios",
+  "sektionTitle": "Adjetivos / Adverbios",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "apagado",
+      "back": "ab"
+    },
+    {
+      "id": "s3-002",
+      "front": "ido",
+      "back": "abgefahren"
+    },
+    {
+      "id": "s3-003",
+      "front": "diferente",
+      "back": "anders"
+    },
+    {
+      "id": "s3-004",
+      "front": "también",
+      "back": "auch"
+    },
+    {
+      "id": "s3-005",
+      "front": "pronto",
+      "back": "bald"
+    },
+    {
+      "id": "s3-006",
+      "front": "pronto (baldig)",
+      "back": "baldig"
+    },
+    {
+      "id": "s3-007",
+      "front": "útil",
+      "back": "behilflich"
+    },
+    {
+      "id": "s3-008",
+      "front": "conocido",
+      "back": "bekannt"
+    },
+    {
+      "id": "s3-009",
+      "front": "pasó",
+      "back": "bestanden"
+    },
+    {
+      "id": "s3-010",
+      "front": "por favor",
+      "back": "bitte"
+    },
+    {
+      "id": "s3-011",
+      "front": "ahí / allí",
+      "back": "da"
+    },
+    {
+      "id": "s3-012",
+      "front": "con eso",
+      "back": "damit"
+    },
+    {
+      "id": "s3-013",
+      "front": "entonces",
+      "back": "dann"
+    },
+    {
+      "id": "s3-014",
+      "front": "por eso",
+      "back": "darum"
+    },
+    {
+      "id": "s3-015",
+      "front": "de ello",
+      "back": "davon"
+    },
+    {
+      "id": "s3-016",
+      "front": "en el medio",
+      "back": "dazwischen"
+    },
+    {
+      "id": "s3-017",
+      "front": "en eso (drauf)",
+      "back": "drauf"
+    },
+    {
+      "id": "s3-018",
+      "front": "urgente",
+      "back": "dringend"
+    },
+    {
+      "id": "s3-019",
+      "front": "honestamente",
+      "back": "ehrlich"
+    },
+    {
+      "id": "s3-020",
+      "front": "finalmente",
+      "back": "endlich"
+    },
+    {
+      "id": "s3-021",
+      "front": "exitoso",
+      "back": "erfolgreich"
+    },
+    {
+      "id": "s3-022",
+      "front": "primero",
+      "back": "erst"
+    },
+    {
+      "id": "s3-023",
+      "front": "primero (erste)",
+      "back": "erste"
+    },
+    {
+      "id": "s3-024",
+      "front": "esperado",
+      "back": "erwartet"
+    },
+    {
+      "id": "s3-025",
+      "front": "temprano",
+      "back": "früh"
+    },
+    {
+      "id": "s3-026",
+      "front": "duchado",
+      "back": "geduscht"
+    },
+    {
+      "id": "s3-027",
+      "front": "preguntó",
+      "back": "gefragt"
+    },
+    {
+      "id": "s3-028",
+      "front": "aprendido",
+      "back": "gelernt"
+    },
+    {
+      "id": "s3-029",
+      "front": "hecho",
+      "back": "gemacht"
+    },
+    {
+      "id": "s3-030",
+      "front": "suficiente",
+      "back": "genug"
+    },
+    {
+      "id": "s3-031",
+      "front": "recto",
+      "back": "gerade"
+    },
+    {
+      "id": "s3-032",
+      "front": "con mucho gusto",
+      "back": "gerne"
+    },
+    {
+      "id": "s3-033",
+      "front": "saludable",
+      "back": "gesund"
+    },
+    {
+      "id": "s3-034",
+      "front": "sabia",
+      "back": "gewusst"
+    },
+    {
+      "id": "s3-035",
+      "front": "válido",
+      "back": "gültig"
+    },
+    {
+      "id": "s3-036",
+      "front": "bueno / bien",
+      "back": "gut"
+    },
+    {
+      "id": "s3-037",
+      "front": "hoy",
+      "back": "heute"
+    },
+    {
+      "id": "s3-038",
+      "front": "aquí",
+      "back": "hier"
+    },
+    {
+      "id": "s3-039",
+      "front": "alto",
+      "back": "hoch"
+    },
+    {
+      "id": "s3-040",
+      "front": "siempre",
+      "back": "immer"
+    },
+    {
+      "id": "s3-041",
+      "front": "en alguna parte",
+      "back": "irgendwo"
+    },
+    {
+      "id": "s3-042",
+      "front": "si",
+      "back": "ja"
+    },
+    {
+      "id": "s3-043",
+      "front": "durante años",
+      "back": "jahrelang"
+    },
+    {
+      "id": "s3-044",
+      "front": "ahora",
+      "back": "jetzt"
+    },
+    {
+      "id": "s3-045",
+      "front": "roto",
+      "back": "kaputt"
+    },
+    {
+      "id": "s3-046",
+      "front": "apenas",
+      "back": "kaum"
+    },
+    {
+      "id": "s3-047",
+      "front": "último",
+      "back": "letzte"
+    },
+    {
+      "id": "s3-048",
+      "front": "veces",
+      "back": "mal"
+    },
+    {
+      "id": "s3-049",
+      "front": "varias veces",
+      "back": "mehrmals"
+    },
+    {
+      "id": "s3-050",
+      "front": "mañana",
+      "back": "morgen"
+    },
+    {
+      "id": "s3-051",
+      "front": "después",
+      "back": "nachher"
+    },
+    {
+      "id": "s3-052",
+      "front": "cerrar",
+      "back": "nah"
+    },
+    {
+      "id": "s3-053",
+      "front": "nuevo",
+      "back": "neu"
+    },
+    {
+      "id": "s3-054",
+      "front": "no",
+      "back": "nicht"
+    },
+    {
+      "id": "s3-055",
+      "front": "todavía",
+      "back": "noch"
+    },
+    {
+      "id": "s3-056",
+      "front": "necesario (nötig)",
+      "back": "nötig"
+    },
+    {
+      "id": "s3-057",
+      "front": "a menudo",
+      "back": "oft"
+    },
+    {
+      "id": "s3-058",
+      "front": "sucedió",
+      "back": "passiert"
+    },
+    {
+      "id": "s3-059",
+      "front": "privado",
+      "back": "privat"
+    },
+    {
+      "id": "s3-060",
+      "front": "a tiempo",
+      "back": "pünktlich"
+    },
+    {
+      "id": "s3-061",
+      "front": "mira",
+      "back": "schau"
+    },
+    {
+      "id": "s3-062",
+      "front": "malo",
+      "back": "schlecht"
+    },
+    {
+      "id": "s3-063",
+      "front": "finalmente (schließlich)",
+      "back": "schließlich"
+    },
+    {
+      "id": "s3-064",
+      "front": "rápidamente",
+      "back": "schnell"
+    },
+    {
+      "id": "s3-065",
+      "front": "ya",
+      "back": "schon"
+    },
+    {
+      "id": "s3-066",
+      "front": "por supuesto",
+      "back": "selbstverständlich"
+    },
+    {
+      "id": "s3-067",
+      "front": "así",
+      "back": "so"
+    },
+    {
+      "id": "s3-068",
+      "front": "inmediatamente",
+      "back": "sofort"
+    },
+    {
+      "id": "s3-069",
+      "front": "tarde (spät)",
+      "back": "spät"
+    },
+    {
+      "id": "s3-070",
+      "front": "mil veces",
+      "back": "tausendmal"
+    },
+    {
+      "id": "s3-071",
+      "front": "inesperado",
+      "back": "unerwartet"
+    },
+    {
+      "id": "s3-072",
+      "front": "razonable",
+      "back": "vernünftig"
+    },
+    {
+      "id": "s3-073",
+      "front": "mucho",
+      "back": "viel"
+    },
+    {
+      "id": "s3-074",
+      "front": "encima",
+      "back": "vorbei"
+    },
+    {
+      "id": "s3-075",
+      "front": "cuidadosamente",
+      "back": "vorsichtig"
+    },
+    {
+      "id": "s3-076",
+      "front": "probablemente",
+      "back": "wahrscheinlich"
+    },
+    {
+      "id": "s3-077",
+      "front": "¿cómo?",
+      "back": "wie"
+    },
+    {
+      "id": "s3-078",
+      "front": "otra vez",
+      "back": "wieder"
+    },
+    {
+      "id": "s3-079",
+      "front": "realmente",
+      "back": "wirklich"
+    },
+    {
+      "id": "s3-080",
+      "front": "casa",
+      "back": "zuhause"
+    },
+    {
+      "id": "s3-081",
+      "front": "segundo",
+      "back": "zweite"
+    }
+  ]
+}
