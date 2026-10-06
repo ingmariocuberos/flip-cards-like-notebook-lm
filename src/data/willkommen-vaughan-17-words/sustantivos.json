@@ -1,0 +1,604 @@
+{
+  "bookId": "willkommen-vaughan-17-words",
+  "bookTitle": "Buch 17 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "la cena",
+      "back": "das Abendessen"
+    },
+    {
+      "id": "s1-003",
+      "front": "la avenida",
+      "back": "die Allee"
+    },
+    {
+      "id": "s1-004",
+      "front": "abogado",
+      "back": "der Anwalt"
+    },
+    {
+      "id": "s1-005",
+      "front": "farmacia",
+      "back": "die Apotheke"
+    },
+    {
+      "id": "s1-006",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-007",
+      "front": "arroba (@)",
+      "back": "das At"
+    },
+    {
+      "id": "s1-008",
+      "front": "la salida",
+      "back": "der Ausgang"
+    },
+    {
+      "id": "s1-009",
+      "front": "coche",
+      "back": "das Auto"
+    },
+    {
+      "id": "s1-010",
+      "front": "la autovía / autopista",
+      "back": "die Autobahn"
+    },
+    {
+      "id": "s1-011",
+      "front": "el accidente de coche",
+      "back": "der Autounfall"
+    },
+    {
+      "id": "s1-012",
+      "front": "barra invertida (\\)",
+      "back": "der Backslash"
+    },
+    {
+      "id": "s1-013",
+      "front": "la estación",
+      "back": "der Bahnhof"
+    },
+    {
+      "id": "s1-014",
+      "front": "paso a nivel (cartel)",
+      "back": "der Bahnübergang"
+    },
+    {
+      "id": "s1-015",
+      "front": "la cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-016",
+      "front": "la cerveza (Bierchen)",
+      "back": "das Bierchen"
+    },
+    {
+      "id": "s1-017",
+      "front": "guión",
+      "back": "der Bindestrich"
+    },
+    {
+      "id": "s1-018",
+      "front": "la tienda organica",
+      "back": "der Bioladen"
+    },
+    {
+      "id": "s1-019",
+      "front": "el puente",
+      "back": "die Brücke"
+    },
+    {
+      "id": "s1-020",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-021",
+      "front": "la librería",
+      "back": "die Buchhandlung"
+    },
+    {
+      "id": "s1-022",
+      "front": "la estación de autobuses",
+      "back": "der Busbahnhof"
+    },
+    {
+      "id": "s1-023",
+      "front": "la parada de autobús",
+      "back": "die Bushaltestelle"
+    },
+    {
+      "id": "s1-024",
+      "front": "el profesor de alemán",
+      "back": "der Deutschlehrer"
+    },
+    {
+      "id": "s1-025",
+      "front": "dos puntos",
+      "back": "der Doppelpunkt"
+    },
+    {
+      "id": "s1-026",
+      "front": "la entrada",
+      "back": "der Eingang"
+    },
+    {
+      "id": "s1-027",
+      "front": "progenitor (padre o madre)",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-028",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-029",
+      "front": "el gimnasio",
+      "back": "das Fitness-Studio"
+    },
+    {
+      "id": "s1-030",
+      "front": "el aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-031",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-032",
+      "front": "amigo",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-033",
+      "front": "la amiga",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-034",
+      "front": "el desayuno",
+      "back": "das Frühstück"
+    },
+    {
+      "id": "s1-035",
+      "front": "el desayuno (Frühstücken)",
+      "back": "das Frühstücken"
+    },
+    {
+      "id": "s1-036",
+      "front": "jugar al fútbol",
+      "back": "das Fußballspielen"
+    },
+    {
+      "id": "s1-037",
+      "front": "el jardinero",
+      "back": "der Gärtner"
+    },
+    {
+      "id": "s1-038",
+      "front": "la prisión",
+      "back": "das Gefängnis"
+    },
+    {
+      "id": "s1-039",
+      "front": "el cajero (automático)",
+      "back": "der Geldautomat"
+    },
+    {
+      "id": "s1-040",
+      "front": "el negocio",
+      "back": "das Geschäft"
+    },
+    {
+      "id": "s1-041",
+      "front": "la felicidad",
+      "back": "das Glück"
+    },
+    {
+      "id": "s1-042",
+      "front": "el saludo",
+      "back": "der Gruß"
+    },
+    {
+      "id": "s1-043",
+      "front": "la parada",
+      "back": "die Haltestelle"
+    },
+    {
+      "id": "s1-044",
+      "front": "la hamburguesa",
+      "back": "der Hamburger"
+    },
+    {
+      "id": "s1-045",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-046",
+      "front": "la bruja",
+      "back": "die Hexe"
+    },
+    {
+      "id": "s1-047",
+      "front": "ingeniero",
+      "back": "der Ingenieur"
+    },
+    {
+      "id": "s1-048",
+      "front": "el centro de la ciudad",
+      "back": "die Innenstadt"
+    },
+    {
+      "id": "s1-049",
+      "front": "la isla",
+      "back": "die Insel"
+    },
+    {
+      "id": "s1-050",
+      "front": "el café",
+      "back": "der Kaffee"
+    },
+    {
+      "id": "s1-051",
+      "front": "la pausa para el cafe",
+      "back": "die Kaffeepause"
+    },
+    {
+      "id": "s1-052",
+      "front": "tomando cafe",
+      "back": "das Kaffeetrinken"
+    },
+    {
+      "id": "s1-053",
+      "front": "kaiser-Joseph-Straße",
+      "back": "die Kaiser-Joseph-Straße"
+    },
+    {
+      "id": "s1-054",
+      "front": "el canario",
+      "back": "das Kanarischen"
+    },
+    {
+      "id": "s1-055",
+      "front": "jugando a las cartas",
+      "back": "das Kartenspielen"
+    },
+    {
+      "id": "s1-056",
+      "front": "los bolos",
+      "back": "das Kegeln"
+    },
+    {
+      "id": "s1-057",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-058",
+      "front": "el cine",
+      "back": "das Kino"
+    },
+    {
+      "id": "s1-059",
+      "front": "la iglesia",
+      "back": "die Kirche"
+    },
+    {
+      "id": "s1-060",
+      "front": "el fontanero",
+      "back": "der Klempner"
+    },
+    {
+      "id": "s1-061",
+      "front": "taberna",
+      "back": "die Kneipe"
+    },
+    {
+      "id": "s1-062",
+      "front": "la conferencia",
+      "back": "die Konferenz"
+    },
+    {
+      "id": "s1-063",
+      "front": "el concierto",
+      "back": "das Konzert"
+    },
+    {
+      "id": "s1-064",
+      "front": "hospitales (plural)",
+      "back": "das Krankenhaus"
+    },
+    {
+      "id": "s1-065",
+      "front": "la rotonda",
+      "back": "der Kreisverkehr"
+    },
+    {
+      "id": "s1-066",
+      "front": "la intersección",
+      "back": "die Kreuzung"
+    },
+    {
+      "id": "s1-067",
+      "front": "tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-068",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-069",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-070",
+      "front": "el mercado",
+      "back": "der Markt"
+    },
+    {
+      "id": "s1-071",
+      "front": "reuniones (plural de Meeting)",
+      "back": "das Meeting"
+    },
+    {
+      "id": "s1-072",
+      "front": "el ser humano",
+      "back": "der Mensch"
+    },
+    {
+      "id": "s1-073",
+      "front": "el metro",
+      "back": "die Metro"
+    },
+    {
+      "id": "s1-074",
+      "front": "el millón",
+      "back": "die Million"
+    },
+    {
+      "id": "s1-075",
+      "front": "la comida (almuerzo)",
+      "back": "das Mittagessen"
+    },
+    {
+      "id": "s1-076",
+      "front": "la pausa del almuerzo",
+      "back": "die Mittagspause"
+    },
+    {
+      "id": "s1-077",
+      "front": "la modernidad",
+      "back": "die Moderne"
+    },
+    {
+      "id": "s1-078",
+      "front": "mes",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-079",
+      "front": "museo",
+      "back": "das Museum"
+    },
+    {
+      "id": "s1-080",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-081",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-082",
+      "front": "vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-083",
+      "front": "la tarde (Nachmittag)",
+      "back": "der Nachmittag"
+    },
+    {
+      "id": "s1-084",
+      "front": "cercanía / proximidad",
+      "back": "die Nähe"
+    },
+    {
+      "id": "s1-085",
+      "front": "horarios de apertura",
+      "back": "die Öffnungszeit"
+    },
+    {
+      "id": "s1-086",
+      "front": "parque",
+      "back": "der Park"
+    },
+    {
+      "id": "s1-087",
+      "front": "la pausa",
+      "back": "die Pause"
+    },
+    {
+      "id": "s1-088",
+      "front": "la plaza",
+      "back": "der Platz"
+    },
+    {
+      "id": "s1-089",
+      "front": "correos (cartel)",
+      "back": "die Post"
+    },
+    {
+      "id": "s1-090",
+      "front": "punto (signo de puntuación)",
+      "back": "der Punkt"
+    },
+    {
+      "id": "s1-091",
+      "front": "restaurante",
+      "back": "das Restaurant"
+    },
+    {
+      "id": "s1-092",
+      "front": "la dirección",
+      "back": "die Richtung"
+    },
+    {
+      "id": "s1-093",
+      "front": "el sabado",
+      "back": "der Samstag"
+    },
+    {
+      "id": "s1-094",
+      "front": "chucrut",
+      "back": "das Sauerkraut"
+    },
+    {
+      "id": "s1-095",
+      "front": "chocolate",
+      "back": "die Schokolade"
+    },
+    {
+      "id": "s1-096",
+      "front": "barra (/)",
+      "back": "der Schrägstrich"
+    },
+    {
+      "id": "s1-097",
+      "front": "escritor",
+      "back": "der Schriftsteller"
+    },
+    {
+      "id": "s1-098",
+      "front": "zapato",
+      "back": "der Schuh"
+    },
+    {
+      "id": "s1-099",
+      "front": "colegio / escuela",
+      "back": "die Schule"
+    },
+    {
+      "id": "s1-100",
+      "front": "la pagina",
+      "back": "die Seite"
+    },
+    {
+      "id": "s1-101",
+      "front": "sección",
+      "back": "die Sektion"
+    },
+    {
+      "id": "s1-102",
+      "front": "la ciudad",
+      "back": "die Stadt"
+    },
+    {
+      "id": "s1-103",
+      "front": "la estación de tren de la ciudad",
+      "back": "der Stadtbahnhof"
+    },
+    {
+      "id": "s1-104",
+      "front": "el parque de la ciudad",
+      "back": "der Stadtpark"
+    },
+    {
+      "id": "s1-105",
+      "front": "la abadía",
+      "back": "das Stift"
+    },
+    {
+      "id": "s1-106",
+      "front": "playa",
+      "back": "der Strand"
+    },
+    {
+      "id": "s1-107",
+      "front": "calle",
+      "back": "die Straße"
+    },
+    {
+      "id": "s1-108",
+      "front": "supermercado",
+      "back": "der Supermarkt"
+    },
+    {
+      "id": "s1-109",
+      "front": "la tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-110",
+      "front": "jugando tenis",
+      "back": "das Tennisspielen"
+    },
+    {
+      "id": "s1-111",
+      "front": "teatro",
+      "back": "das Theater"
+    },
+    {
+      "id": "s1-112",
+      "front": "la puerta",
+      "back": "die Tür"
+    },
+    {
+      "id": "s1-113",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-114",
+      "front": "diéresis alemana",
+      "back": "der Umlaut"
+    },
+    {
+      "id": "s1-115",
+      "front": "el lote (Viel)",
+      "back": "das Viel"
+    },
+    {
+      "id": "s1-116",
+      "front": "armas (plural)",
+      "back": "die Waffe"
+    },
+    {
+      "id": "s1-117",
+      "front": "el camino",
+      "back": "der Weg"
+    },
+    {
+      "id": "s1-118",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-119",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    }
+  ]
+}
