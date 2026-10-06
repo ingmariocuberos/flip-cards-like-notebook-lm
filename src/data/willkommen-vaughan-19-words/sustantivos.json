@@ -1,0 +1,724 @@
+{
+  "bookId": "willkommen-vaughan-19-words",
+  "bookTitle": "Buch 19 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "el departamento",
+      "back": "die Abteilung"
+    },
+    {
+      "id": "s1-003",
+      "front": "el jefe de departamento",
+      "back": "der Abteilungsleiter"
+    },
+    {
+      "id": "s1-004",
+      "front": "el comienzo / el principio",
+      "back": "der Anfang"
+    },
+    {
+      "id": "s1-005",
+      "front": "el miedo",
+      "back": "die Angst"
+    },
+    {
+      "id": "s1-006",
+      "front": "las instrucciones",
+      "back": "die Anleitung"
+    },
+    {
+      "id": "s1-007",
+      "front": "la llamada (de teléfono)",
+      "back": "der Anruf"
+    },
+    {
+      "id": "s1-008",
+      "front": "la respuesta",
+      "back": "die Antwort"
+    },
+    {
+      "id": "s1-009",
+      "front": "el abogado",
+      "back": "der Anwalt"
+    },
+    {
+      "id": "s1-010",
+      "front": "abril",
+      "back": "der April"
+    },
+    {
+      "id": "s1-011",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-012",
+      "front": "ascensor (letrero)",
+      "back": "der Aufzug"
+    },
+    {
+      "id": "s1-013",
+      "front": "agosto",
+      "back": "der August"
+    },
+    {
+      "id": "s1-014",
+      "front": "el coche",
+      "back": "das Auto"
+    },
+    {
+      "id": "s1-015",
+      "front": "el bávaro",
+      "back": "der Bayer"
+    },
+    {
+      "id": "s1-016",
+      "front": "los informes (plural)",
+      "back": "der Bericht"
+    },
+    {
+      "id": "s1-017",
+      "front": "cama",
+      "back": "das Bett"
+    },
+    {
+      "id": "s1-018",
+      "front": "el obispo",
+      "back": "der Bischof"
+    },
+    {
+      "id": "s1-019",
+      "front": "las flores (plural)",
+      "back": "die Blume"
+    },
+    {
+      "id": "s1-020",
+      "front": "la bolsa de dinero",
+      "back": "der Bocksbeutel"
+    },
+    {
+      "id": "s1-021",
+      "front": "la carta",
+      "back": "der Brief"
+    },
+    {
+      "id": "s1-022",
+      "front": "hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-023",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-024",
+      "front": "la canciller (federal)",
+      "back": "die Bundeskanzlerin"
+    },
+    {
+      "id": "s1-025",
+      "front": "estado federado",
+      "back": "das Bundesland"
+    },
+    {
+      "id": "s1-026",
+      "front": "jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-027",
+      "front": "jefa",
+      "back": "die Chefin"
+    },
+    {
+      "id": "s1-028",
+      "front": "el mercado navideño",
+      "back": "der Christkindlesmarkt"
+    },
+    {
+      "id": "s1-029",
+      "front": "primo",
+      "back": "der Cousin"
+    },
+    {
+      "id": "s1-030",
+      "front": "la manta / el techo",
+      "back": "die Decke"
+    },
+    {
+      "id": "s1-031",
+      "front": "diciembre",
+      "back": "der Dezember"
+    },
+    {
+      "id": "s1-032",
+      "front": "los DVD (plural)",
+      "back": "die DVD"
+    },
+    {
+      "id": "s1-033",
+      "front": "el e-mail",
+      "back": "die E-Mail"
+    },
+    {
+      "id": "s1-034",
+      "front": "progenitor (padre o madre)",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-035",
+      "front": "el final",
+      "back": "das Ende"
+    },
+    {
+      "id": "s1-036",
+      "front": "inglés (idioma)",
+      "back": "das Englisch"
+    },
+    {
+      "id": "s1-037",
+      "front": "el europeo",
+      "back": "das Europäischen"
+    },
+    {
+      "id": "s1-038",
+      "front": "el billete",
+      "back": "die Fahrkarte"
+    },
+    {
+      "id": "s1-039",
+      "front": "la bicicleta",
+      "back": "das Fahrrad"
+    },
+    {
+      "id": "s1-040",
+      "front": "el billete (Fahrschein)",
+      "back": "der Fahrschein"
+    },
+    {
+      "id": "s1-041",
+      "front": "febrero",
+      "back": "der Februar"
+    },
+    {
+      "id": "s1-042",
+      "front": "la película",
+      "back": "der Film"
+    },
+    {
+      "id": "s1-043",
+      "front": "volando",
+      "back": "das Fliegen"
+    },
+    {
+      "id": "s1-044",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-045",
+      "front": "el tiempo libre",
+      "back": "die Freizeit"
+    },
+    {
+      "id": "s1-046",
+      "front": "amiga / novia",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-047",
+      "front": "el invitado / el huésped",
+      "back": "der Gast"
+    },
+    {
+      "id": "s1-048",
+      "front": "el socio",
+      "back": "der Geschäftspartner"
+    },
+    {
+      "id": "s1-049",
+      "front": "los regalos (plural)",
+      "back": "das Geschenk"
+    },
+    {
+      "id": "s1-050",
+      "front": "el vaso",
+      "back": "das Glas"
+    },
+    {
+      "id": "s1-051",
+      "front": "el dios",
+      "back": "der Gott"
+    },
+    {
+      "id": "s1-052",
+      "front": "el abuelo o la abuela",
+      "back": "der Großelternteil"
+    },
+    {
+      "id": "s1-053",
+      "front": "parada y estacionamiento prohibido (letrero)",
+      "back": "das Halteverbot"
+    },
+    {
+      "id": "s1-054",
+      "front": "la casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-055",
+      "front": "el señor (don)",
+      "back": "der Herr"
+    },
+    {
+      "id": "s1-056",
+      "front": "la idea",
+      "back": "die Idee"
+    },
+    {
+      "id": "s1-057",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-058",
+      "front": "enero",
+      "back": "der Januar"
+    },
+    {
+      "id": "s1-059",
+      "front": "julio",
+      "back": "der Juli"
+    },
+    {
+      "id": "s1-060",
+      "front": "junio",
+      "back": "der Juni"
+    },
+    {
+      "id": "s1-061",
+      "front": "el canciller",
+      "back": "die Kanzlerin"
+    },
+    {
+      "id": "s1-062",
+      "front": "la tarjeta",
+      "back": "die Karte"
+    },
+    {
+      "id": "s1-063",
+      "front": "el gato",
+      "back": "die Katze"
+    },
+    {
+      "id": "s1-064",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-065",
+      "front": "la niñez / la infancia",
+      "back": "die Kindheit"
+    },
+    {
+      "id": "s1-066",
+      "front": "las almohadas / los cojines (plural)",
+      "back": "das Kissen"
+    },
+    {
+      "id": "s1-067",
+      "front": "compañero de trabajo",
+      "back": "der Kollege"
+    },
+    {
+      "id": "s1-068",
+      "front": "compañera de trabajo",
+      "back": "die Kollegin"
+    },
+    {
+      "id": "s1-069",
+      "front": "la tarjeta de crédito",
+      "back": "die Kreditkarte"
+    },
+    {
+      "id": "s1-070",
+      "front": "bolígrafo",
+      "back": "der Kuli"
+    },
+    {
+      "id": "s1-071",
+      "front": "los clientes (plural)",
+      "back": "der Kunde"
+    },
+    {
+      "id": "s1-072",
+      "front": "la clienta",
+      "back": "die Kundin"
+    },
+    {
+      "id": "s1-073",
+      "front": "la tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-074",
+      "front": "el mapa",
+      "back": "die Landkarte"
+    },
+    {
+      "id": "s1-075",
+      "front": "el currículum",
+      "back": "der Lebenslauf"
+    },
+    {
+      "id": "s1-076",
+      "front": "el líder",
+      "back": "der Leiter"
+    },
+    {
+      "id": "s1-077",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-078",
+      "front": "mayo",
+      "back": "der Mai"
+    },
+    {
+      "id": "s1-079",
+      "front": "el mayo",
+      "back": "der Maibaum"
+    },
+    {
+      "id": "s1-080",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-081",
+      "front": "marzo",
+      "back": "der März"
+    },
+    {
+      "id": "s1-082",
+      "front": "el empleado",
+      "back": "der Mitarbeiter"
+    },
+    {
+      "id": "s1-083",
+      "front": "el miembro (de una organización)",
+      "back": "das Mitglied"
+    },
+    {
+      "id": "s1-084",
+      "front": "mediados de (mes/año)",
+      "back": "die Mitte"
+    },
+    {
+      "id": "s1-085",
+      "front": "el miercoles",
+      "back": "der Mittwoch"
+    },
+    {
+      "id": "s1-086",
+      "front": "mes",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-087",
+      "front": "el lunes",
+      "back": "der Montag"
+    },
+    {
+      "id": "s1-088",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-089",
+      "front": "la vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-090",
+      "front": "la nariz",
+      "back": "die Nase"
+    },
+    {
+      "id": "s1-091",
+      "front": "noviembre",
+      "back": "der November"
+    },
+    {
+      "id": "s1-092",
+      "front": "octubre",
+      "back": "der Oktober"
+    },
+    {
+      "id": "s1-093",
+      "front": "los archivadores (plural)",
+      "back": "der Ordner"
+    },
+    {
+      "id": "s1-094",
+      "front": "el paquete",
+      "back": "das Paket"
+    },
+    {
+      "id": "s1-095",
+      "front": "el papa",
+      "back": "der Papst"
+    },
+    {
+      "id": "s1-096",
+      "front": "la contraseña",
+      "back": "das Passwort"
+    },
+    {
+      "id": "s1-097",
+      "front": "el becario",
+      "back": "der Praktikant"
+    },
+    {
+      "id": "s1-098",
+      "front": "el presidente",
+      "back": "der Präsident"
+    },
+    {
+      "id": "s1-099",
+      "front": "la cartilla",
+      "back": "der Primer"
+    },
+    {
+      "id": "s1-100",
+      "front": "el problema",
+      "back": "das Problem"
+    },
+    {
+      "id": "s1-101",
+      "front": "el producto",
+      "back": "das Produkt"
+    },
+    {
+      "id": "s1-102",
+      "front": "el proyecto",
+      "back": "das Projekt"
+    },
+    {
+      "id": "s1-103",
+      "front": "jersey (forma abreviada)",
+      "back": "der Pulli"
+    },
+    {
+      "id": "s1-104",
+      "front": "el derecho / la razón",
+      "back": "das Recht"
+    },
+    {
+      "id": "s1-105",
+      "front": "el paraguas",
+      "back": "der Regenschirm"
+    },
+    {
+      "id": "s1-106",
+      "front": "el viaje",
+      "back": "die Reise"
+    },
+    {
+      "id": "s1-107",
+      "front": "el viaje (Reisen)",
+      "back": "das Reisen"
+    },
+    {
+      "id": "s1-108",
+      "front": "la jubilación",
+      "back": "die Rente"
+    },
+    {
+      "id": "s1-109",
+      "front": "la salchicha a la parrilla",
+      "back": "die Rostbratwurst"
+    },
+    {
+      "id": "s1-110",
+      "front": "la jubilación (Ruhestand)",
+      "back": "der Ruhestand"
+    },
+    {
+      "id": "s1-111",
+      "front": "la bufanda",
+      "back": "der Schal"
+    },
+    {
+      "id": "s1-112",
+      "front": "la apariencia",
+      "back": "der Schein"
+    },
+    {
+      "id": "s1-113",
+      "front": "la llave",
+      "back": "der Schlüssel"
+    },
+    {
+      "id": "s1-114",
+      "front": "zapato",
+      "back": "der Schuh"
+    },
+    {
+      "id": "s1-115",
+      "front": "los alumnos (plural)",
+      "back": "der Schüler"
+    },
+    {
+      "id": "s1-116",
+      "front": "la etapa del colegio",
+      "back": "die Schulzeit"
+    },
+    {
+      "id": "s1-117",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-118",
+      "front": "la suegra",
+      "back": "die Schwiegermutter"
+    },
+    {
+      "id": "s1-119",
+      "front": "septiembre",
+      "back": "der September"
+    },
+    {
+      "id": "s1-120",
+      "front": "los hijos (plural)",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-121",
+      "front": "domingo",
+      "back": "der Sonntag"
+    },
+    {
+      "id": "s1-122",
+      "front": "el hijastro",
+      "back": "der Stiefsohn"
+    },
+    {
+      "id": "s1-123",
+      "front": "la hijastra",
+      "back": "die Stieftochter"
+    },
+    {
+      "id": "s1-124",
+      "front": "bolso",
+      "back": "die Tasche"
+    },
+    {
+      "id": "s1-125",
+      "front": "la reunión de equipo",
+      "back": "die Teambesprechung"
+    },
+    {
+      "id": "s1-126",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-127",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-128",
+      "front": "el accidente",
+      "back": "der Unfall"
+    },
+    {
+      "id": "s1-129",
+      "front": "universidad (coloquial)",
+      "back": "die Uni"
+    },
+    {
+      "id": "s1-130",
+      "front": "la unión",
+      "back": "die Union"
+    },
+    {
+      "id": "s1-131",
+      "front": "la documentación / los documentos (pl.)",
+      "back": "die Unterlage"
+    },
+    {
+      "id": "s1-132",
+      "front": "las vacaciones",
+      "back": "der Urlaub"
+    },
+    {
+      "id": "s1-133",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-134",
+      "front": "la prohibición",
+      "back": "das Verbot"
+    },
+    {
+      "id": "s1-135",
+      "front": "los contratos (plural)",
+      "back": "der Vertrag"
+    },
+    {
+      "id": "s1-136",
+      "front": "el visado",
+      "back": "das Visum"
+    },
+    {
+      "id": "s1-137",
+      "front": "el agua",
+      "back": "das Wasser"
+    },
+    {
+      "id": "s1-138",
+      "front": "la voluntad",
+      "back": "der Wille"
+    },
+    {
+      "id": "s1-139",
+      "front": "la voluntad (Willen)",
+      "back": "der Willen"
+    },
+    {
+      "id": "s1-140",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-141",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-142",
+      "front": "piso / vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-143",
+      "front": "el diccionario",
+      "back": "das Wörterbuch"
+    }
+  ]
+}
