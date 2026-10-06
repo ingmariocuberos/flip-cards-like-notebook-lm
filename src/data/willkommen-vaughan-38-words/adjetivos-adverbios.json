@@ -1,0 +1,469 @@
+{
+  "bookId": "willkommen-vaughan-38-words",
+  "bookTitle": "Buch 38 - Words",
+  "sektionId": "adjetivos-adverbios",
+  "sektionTitle": "Adjetivos / Adverbios",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "apagado",
+      "back": "ab"
+    },
+    {
+      "id": "s3-002",
+      "front": "solo",
+      "back": "allein"
+    },
+    {
+      "id": "s3-003",
+      "front": "viejo / antiguo",
+      "back": "alt"
+    },
+    {
+      "id": "s3-004",
+      "front": "constantemente",
+      "back": "andauernd"
+    },
+    {
+      "id": "s3-005",
+      "front": "también",
+      "back": "auch"
+    },
+    {
+      "id": "s3-006",
+      "front": "por favor",
+      "back": "bitte"
+    },
+    {
+      "id": "s3-007",
+      "front": "solo (bloß)",
+      "back": "bloß"
+    },
+    {
+      "id": "s3-008",
+      "front": "ahí / allí",
+      "back": "da"
+    },
+    {
+      "id": "s3-009",
+      "front": "por eso",
+      "back": "dafür"
+    },
+    {
+      "id": "s3-010",
+      "front": "con eso",
+      "back": "damit"
+    },
+    {
+      "id": "s3-011",
+      "front": "entonces",
+      "back": "dann"
+    },
+    {
+      "id": "s3-012",
+      "front": "en eso",
+      "back": "darauf"
+    },
+    {
+      "id": "s3-013",
+      "front": "sobre eso",
+      "back": "darüber"
+    },
+    {
+      "id": "s3-014",
+      "front": "antes de eso",
+      "back": "davor"
+    },
+    {
+      "id": "s3-015",
+      "front": "si",
+      "back": "doch"
+    },
+    {
+      "id": "s3-016",
+      "front": "allí",
+      "back": "dort"
+    },
+    {
+      "id": "s3-017",
+      "front": "propio",
+      "back": "eigen"
+    },
+    {
+      "id": "s3-018",
+      "front": "en realidad",
+      "back": "eigentlich"
+    },
+    {
+      "id": "s3-019",
+      "front": "fácil",
+      "back": "einfach"
+    },
+    {
+      "id": "s3-020",
+      "front": "temprano",
+      "back": "früh"
+    },
+    {
+      "id": "s3-021",
+      "front": "completamente",
+      "back": "ganz"
+    },
+    {
+      "id": "s3-022",
+      "front": "acogedor",
+      "back": "gemütlich"
+    },
+    {
+      "id": "s3-023",
+      "front": "exactamente",
+      "back": "genau"
+    },
+    {
+      "id": "s3-024",
+      "front": "recto",
+      "back": "gerade"
+    },
+    {
+      "id": "s3-025",
+      "front": "con mucho gusto",
+      "back": "gerne"
+    },
+    {
+      "id": "s3-026",
+      "front": "cortar",
+      "back": "geschnitten"
+    },
+    {
+      "id": "s3-027",
+      "front": "ayer",
+      "back": "gestern"
+    },
+    {
+      "id": "s3-028",
+      "front": "lo mismo",
+      "back": "gleich"
+    },
+    {
+      "id": "s3-029",
+      "front": "grande / alto",
+      "back": "groß"
+    },
+    {
+      "id": "s3-030",
+      "front": "válido",
+      "back": "gültig"
+    },
+    {
+      "id": "s3-031",
+      "front": "bueno / bien",
+      "back": "gut"
+    },
+    {
+      "id": "s3-032",
+      "front": "hoy en día",
+      "back": "heutzutage"
+    },
+    {
+      "id": "s3-033",
+      "front": "aquí",
+      "back": "hier"
+    },
+    {
+      "id": "s3-034",
+      "front": "cien por ciento",
+      "back": "hundertprozentig"
+    },
+    {
+      "id": "s3-035",
+      "front": "siempre",
+      "back": "immer"
+    },
+    {
+      "id": "s3-036",
+      "front": "ahora",
+      "back": "jetzt"
+    },
+    {
+      "id": "s3-037",
+      "front": "apenas",
+      "back": "kaum"
+    },
+    {
+      "id": "s3-038",
+      "front": "crítico",
+      "back": "kritisch"
+    },
+    {
+      "id": "s3-039",
+      "front": "corto",
+      "back": "kurz"
+    },
+    {
+      "id": "s3-040",
+      "front": "largo",
+      "back": "lange"
+    },
+    {
+      "id": "s3-041",
+      "front": "lentamente",
+      "back": "langsam"
+    },
+    {
+      "id": "s3-042",
+      "front": "fácilmente",
+      "back": "leicht"
+    },
+    {
+      "id": "s3-043",
+      "front": "lo siento",
+      "back": "leid"
+    },
+    {
+      "id": "s3-044",
+      "front": "último",
+      "back": "letzte"
+    },
+    {
+      "id": "s3-045",
+      "front": "querido",
+      "back": "lieb"
+    },
+    {
+      "id": "s3-046",
+      "front": "veces",
+      "back": "mal"
+    },
+    {
+      "id": "s3-047",
+      "front": "a veces",
+      "back": "manchmal"
+    },
+    {
+      "id": "s3-048",
+      "front": "posible",
+      "back": "möglich"
+    },
+    {
+      "id": "s3-049",
+      "front": "simpático / agradable",
+      "back": "nett"
+    },
+    {
+      "id": "s3-050",
+      "front": "nuevo",
+      "back": "neu"
+    },
+    {
+      "id": "s3-051",
+      "front": "no",
+      "back": "nicht"
+    },
+    {
+      "id": "s3-052",
+      "front": "nunca",
+      "back": "nie"
+    },
+    {
+      "id": "s3-053",
+      "front": "nunca (niemals)",
+      "back": "niemals"
+    },
+    {
+      "id": "s3-054",
+      "front": "todavía",
+      "back": "noch"
+    },
+    {
+      "id": "s3-055",
+      "front": "normales",
+      "back": "normal"
+    },
+    {
+      "id": "s3-056",
+      "front": "normalmente",
+      "back": "normalerweise"
+    },
+    {
+      "id": "s3-057",
+      "front": "a menudo",
+      "back": "oft"
+    },
+    {
+      "id": "s3-058",
+      "front": "adecuado",
+      "back": "passend"
+    },
+    {
+      "id": "s3-059",
+      "front": "correcto",
+      "back": "recht"
+    },
+    {
+      "id": "s3-060",
+      "front": "correcto (rechts)",
+      "back": "rechts"
+    },
+    {
+      "id": "s3-061",
+      "front": "rojo",
+      "back": "rot"
+    },
+    {
+      "id": "s3-062",
+      "front": "limpio",
+      "back": "sauber"
+    },
+    {
+      "id": "s3-063",
+      "front": "muy mal",
+      "back": "schade"
+    },
+    {
+      "id": "s3-064",
+      "front": "estrecho",
+      "back": "schmal"
+    },
+    {
+      "id": "s3-065",
+      "front": "ya",
+      "back": "schon"
+    },
+    {
+      "id": "s3-066",
+      "front": "por escrito",
+      "back": "schriftlich"
+    },
+    {
+      "id": "s3-067",
+      "front": "negro",
+      "back": "schwarz"
+    },
+    {
+      "id": "s3-068",
+      "front": "difícil (schwierig)",
+      "back": "schwierig"
+    },
+    {
+      "id": "s3-069",
+      "front": "desde entonces",
+      "back": "seitdem"
+    },
+    {
+      "id": "s3-070",
+      "front": "raro",
+      "back": "selten"
+    },
+    {
+      "id": "s3-071",
+      "front": "así",
+      "back": "so"
+    },
+    {
+      "id": "s3-072",
+      "front": "inmediatamente",
+      "back": "sofort"
+    },
+    {
+      "id": "s3-073",
+      "front": "tarde (spät)",
+      "back": "spät"
+    },
+    {
+      "id": "s3-074",
+      "front": "constantemente (ständig)",
+      "back": "ständig"
+    },
+    {
+      "id": "s3-075",
+      "front": "en absoluto",
+      "back": "überhaupt"
+    },
+    {
+      "id": "s3-076",
+      "front": "imposible",
+      "back": "unmöglich"
+    },
+    {
+      "id": "s3-077",
+      "front": "abajo",
+      "back": "unten"
+    },
+    {
+      "id": "s3-078",
+      "front": "firmado",
+      "back": "unterschrieben"
+    },
+    {
+      "id": "s3-079",
+      "front": "mucho",
+      "back": "viel"
+    },
+    {
+      "id": "s3-080",
+      "front": "lleno",
+      "back": "voll"
+    },
+    {
+      "id": "s3-081",
+      "front": "probablemente",
+      "back": "wahrscheinlich"
+    },
+    {
+      "id": "s3-082",
+      "front": "¿por qué?",
+      "back": "warum"
+    },
+    {
+      "id": "s3-083",
+      "front": "blanco",
+      "back": "weiß"
+    },
+    {
+      "id": "s3-084",
+      "front": "¿cómo?",
+      "back": "wie"
+    },
+    {
+      "id": "s3-085",
+      "front": "otra vez",
+      "back": "wieder"
+    },
+    {
+      "id": "s3-086",
+      "front": "realmente",
+      "back": "wirklich"
+    },
+    {
+      "id": "s3-087",
+      "front": "¿dónde?",
+      "back": "wo"
+    },
+    {
+      "id": "s3-088",
+      "front": "en otro lugar",
+      "back": "woanders"
+    },
+    {
+      "id": "s3-089",
+      "front": "casa",
+      "back": "zuhause"
+    },
+    {
+      "id": "s3-090",
+      "front": "juntos",
+      "back": "zusammen"
+    },
+    {
+      "id": "s3-091",
+      "front": "responsable",
+      "back": "zuständig"
+    },
+    {
+      "id": "s3-092",
+      "front": "segundo",
+      "back": "zweite"
+    }
+  ]
+}
