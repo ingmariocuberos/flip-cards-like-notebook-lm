@@ -1,0 +1,504 @@
+{
+  "bookId": "willkommen-vaughan-8-words",
+  "bookTitle": "Buch 8 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "el departamento",
+      "back": "die Abteilung"
+    },
+    {
+      "id": "s1-002",
+      "front": "el trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-003",
+      "front": "el artículo",
+      "back": "der Artikel"
+    },
+    {
+      "id": "s1-004",
+      "front": "el médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-005",
+      "front": "el baño",
+      "back": "das Bad"
+    },
+    {
+      "id": "s1-006",
+      "front": "el cuarto de baño",
+      "back": "das Badezimmer"
+    },
+    {
+      "id": "s1-007",
+      "front": "el grupo musical",
+      "back": "die Band"
+    },
+    {
+      "id": "s1-008",
+      "front": "la taza",
+      "back": "der Becher"
+    },
+    {
+      "id": "s1-009",
+      "front": "el informe",
+      "back": "der Bericht"
+    },
+    {
+      "id": "s1-010",
+      "front": "el funcionamiento",
+      "back": "der Betrieb"
+    },
+    {
+      "id": "s1-011",
+      "front": "la carta",
+      "back": "der Brief"
+    },
+    {
+      "id": "s1-012",
+      "front": "el hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-013",
+      "front": "el libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-014",
+      "front": "el estado federado",
+      "back": "das Bundesland"
+    },
+    {
+      "id": "s1-015",
+      "front": "el jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-016",
+      "front": "la jefa",
+      "back": "die Chefin"
+    },
+    {
+      "id": "s1-017",
+      "front": "el primo",
+      "back": "der Cousin"
+    },
+    {
+      "id": "s1-018",
+      "front": "el agradecimiento",
+      "back": "der Dank"
+    },
+    {
+      "id": "s1-019",
+      "front": "el documental",
+      "back": "der Dokumentarfilm"
+    },
+    {
+      "id": "s1-020",
+      "front": "el correo electrónico",
+      "back": "die E-Mail"
+    },
+    {
+      "id": "s1-021",
+      "front": "el progenitor",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-022",
+      "front": "el inglés",
+      "back": "das Englisch"
+    },
+    {
+      "id": "s1-023",
+      "front": "el nieto",
+      "back": "der Enkel"
+    },
+    {
+      "id": "s1-024",
+      "front": "la nieta",
+      "back": "die Enkelin"
+    },
+    {
+      "id": "s1-025",
+      "front": "el comedor",
+      "back": "das Esszimmer"
+    },
+    {
+      "id": "s1-026",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-027",
+      "front": "el programa de televisión",
+      "back": "das Fernsehprogramm"
+    },
+    {
+      "id": "s1-028",
+      "front": "la película",
+      "back": "der Film"
+    },
+    {
+      "id": "s1-029",
+      "front": "la empresa",
+      "back": "die Firma"
+    },
+    {
+      "id": "s1-030",
+      "front": "el pescado",
+      "back": "der Fisch"
+    },
+    {
+      "id": "s1-031",
+      "front": "el viernes",
+      "back": "der Freitag"
+    },
+    {
+      "id": "s1-032",
+      "front": "la mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-033",
+      "front": "el amigo",
+      "back": "der Freund"
+    },
+    {
+      "id": "s1-034",
+      "front": "la amiga",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-035",
+      "front": "el tenedor",
+      "back": "die Gabel"
+    },
+    {
+      "id": "s1-036",
+      "front": "el guardarropa",
+      "back": "die Garderobe"
+    },
+    {
+      "id": "s1-037",
+      "front": "el hermano o la hermana",
+      "back": "das Geschwister"
+    },
+    {
+      "id": "s1-038",
+      "front": "la salud",
+      "back": "die Gesundheit"
+    },
+    {
+      "id": "s1-039",
+      "front": "el abuelo o la abuela",
+      "back": "der Großelternteil"
+    },
+    {
+      "id": "s1-040",
+      "front": "la abuela",
+      "back": "die Großmutter"
+    },
+    {
+      "id": "s1-041",
+      "front": "el abuelo",
+      "back": "der Großvater"
+    },
+    {
+      "id": "s1-042",
+      "front": "el pollo",
+      "back": "das Hähnchen"
+    },
+    {
+      "id": "s1-043",
+      "front": "la casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-044",
+      "front": "el perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-045",
+      "front": "el año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-046",
+      "front": "el niño",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-047",
+      "front": "el pediatra",
+      "back": "der Kinderarzt"
+    },
+    {
+      "id": "s1-048",
+      "front": "la película infantil",
+      "back": "der Kinderfilm"
+    },
+    {
+      "id": "s1-049",
+      "front": "el cuarto infantil",
+      "back": "das Kinderzimmer"
+    },
+    {
+      "id": "s1-050",
+      "front": "el piano",
+      "back": "das Klavier"
+    },
+    {
+      "id": "s1-051",
+      "front": "la compañera",
+      "back": "die Kollegin"
+    },
+    {
+      "id": "s1-052",
+      "front": "la película policíaca",
+      "back": "der Krimi"
+    },
+    {
+      "id": "s1-053",
+      "front": "la cocina",
+      "back": "die Küche"
+    },
+    {
+      "id": "s1-054",
+      "front": "el salmón",
+      "back": "der Lachs"
+    },
+    {
+      "id": "s1-055",
+      "front": "la canción",
+      "back": "das Lied"
+    },
+    {
+      "id": "s1-056",
+      "front": "la cuchara",
+      "back": "der Löffel"
+    },
+    {
+      "id": "s1-057",
+      "front": "el hombre",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-058",
+      "front": "el ser humano",
+      "back": "der Mensch"
+    },
+    {
+      "id": "s1-059",
+      "front": "el cuchillo",
+      "back": "das Messer"
+    },
+    {
+      "id": "s1-060",
+      "front": "el mes",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-061",
+      "front": "la música",
+      "back": "die Musik"
+    },
+    {
+      "id": "s1-062",
+      "front": "la madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-063",
+      "front": "el vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-064",
+      "front": "la vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-065",
+      "front": "la noticia",
+      "back": "die Nachricht"
+    },
+    {
+      "id": "s1-066",
+      "front": "la serenata nocturna",
+      "back": "die Nachtmusik"
+    },
+    {
+      "id": "s1-067",
+      "front": "el sobrino",
+      "back": "der Neffe"
+    },
+    {
+      "id": "s1-068",
+      "front": "la sobrina",
+      "back": "die Nichte"
+    },
+    {
+      "id": "s1-069",
+      "front": "la abuela (coloquial)",
+      "back": "die Oma"
+    },
+    {
+      "id": "s1-070",
+      "front": "el tío",
+      "back": "der Onkel"
+    },
+    {
+      "id": "s1-071",
+      "front": "el abuelo (coloquial)",
+      "back": "der Opa"
+    },
+    {
+      "id": "s1-072",
+      "front": "la novela",
+      "back": "der Roman"
+    },
+    {
+      "id": "s1-073",
+      "front": "el silencio",
+      "back": "die Ruhe"
+    },
+    {
+      "id": "s1-074",
+      "front": "el dormitorio",
+      "back": "das Schlafzimmer"
+    },
+    {
+      "id": "s1-075",
+      "front": "el cuenco",
+      "back": "die Schüssel"
+    },
+    {
+      "id": "s1-076",
+      "front": "el cuñado",
+      "back": "der Schwager"
+    },
+    {
+      "id": "s1-077",
+      "front": "la carne de cerdo",
+      "back": "das Schweinefleisch"
+    },
+    {
+      "id": "s1-078",
+      "front": "la hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-079",
+      "front": "la suegra",
+      "back": "die Schwiegermutter"
+    },
+    {
+      "id": "s1-080",
+      "front": "el mensaje SMS",
+      "back": "die SMS"
+    },
+    {
+      "id": "s1-081",
+      "front": "el hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-082",
+      "front": "el domingo",
+      "back": "der Sonntag"
+    },
+    {
+      "id": "s1-083",
+      "front": "el español",
+      "back": "das Spanisch"
+    },
+    {
+      "id": "s1-084",
+      "front": "la pieza",
+      "back": "das Stück"
+    },
+    {
+      "id": "s1-085",
+      "front": "el supermercado",
+      "back": "der Supermarkt"
+    },
+    {
+      "id": "s1-086",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-087",
+      "front": "la tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-088",
+      "front": "el plato",
+      "back": "der Teller"
+    },
+    {
+      "id": "s1-089",
+      "front": "la hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-090",
+      "front": "la tribuna",
+      "back": "die Tribüne"
+    },
+    {
+      "id": "s1-091",
+      "front": "la hora",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-092",
+      "front": "el padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-093",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-094",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-095",
+      "front": "la vivienda",
+      "back": "die Wohnung"
+    },
+    {
+      "id": "s1-096",
+      "front": "el salón",
+      "back": "das Wohnzimmer"
+    },
+    {
+      "id": "s1-097",
+      "front": "lo más importante",
+      "back": "das Wichtigste"
+    },
+    {
+      "id": "s1-098",
+      "front": "el dentista",
+      "back": "der Zahnarzt"
+    },
+    {
+      "id": "s1-099",
+      "front": "la habitación",
+      "back": "das Zimmer"
+    }
+  ]
+}
