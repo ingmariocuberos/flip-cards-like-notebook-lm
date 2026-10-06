@@ -1,0 +1,704 @@
+{
+  "bookId": "willkommen-vaughan-42-words",
+  "bookTitle": "Buch 42 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "el rechazo",
+      "back": "die Absage"
+    },
+    {
+      "id": "s1-003",
+      "front": "la aplicación",
+      "back": "der Antrag"
+    },
+    {
+      "id": "s1-004",
+      "front": "trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-005",
+      "front": "la desempleada",
+      "back": "die Arbeitslose"
+    },
+    {
+      "id": "s1-006",
+      "front": "médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-007",
+      "front": "la cita con el médico",
+      "back": "der Arzttermin"
+    },
+    {
+      "id": "s1-008",
+      "front": "la orden",
+      "back": "der Auftrag"
+    },
+    {
+      "id": "s1-009",
+      "front": "la salida",
+      "back": "die Ausgabe"
+    },
+    {
+      "id": "s1-010",
+      "front": "el pais extranjero",
+      "back": "das Ausland"
+    },
+    {
+      "id": "s1-011",
+      "front": "la exposición",
+      "back": "die Ausstellung"
+    },
+    {
+      "id": "s1-012",
+      "front": "coche",
+      "back": "das Auto"
+    },
+    {
+      "id": "s1-013",
+      "front": "la bateria (Batterie)",
+      "back": "die Batterie"
+    },
+    {
+      "id": "s1-014",
+      "front": "el dolor de estomago",
+      "back": "der Bauchschmerz"
+    },
+    {
+      "id": "s1-015",
+      "front": "la obra / la zona de construcción",
+      "back": "die Baustelle"
+    },
+    {
+      "id": "s1-016",
+      "front": "el informe",
+      "back": "der Bericht"
+    },
+    {
+      "id": "s1-017",
+      "front": "profesión",
+      "back": "der Beruf"
+    },
+    {
+      "id": "s1-018",
+      "front": "el aviso",
+      "back": "der Bescheid"
+    },
+    {
+      "id": "s1-019",
+      "front": "la denuncia",
+      "back": "die Beschwerde"
+    },
+    {
+      "id": "s1-020",
+      "front": "la reunión",
+      "back": "die Besprechung"
+    },
+    {
+      "id": "s1-021",
+      "front": "el mejor",
+      "back": "das Bestes"
+    },
+    {
+      "id": "s1-022",
+      "front": "cerveza",
+      "back": "das Bier"
+    },
+    {
+      "id": "s1-023",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-024",
+      "front": "alcaldesa",
+      "back": "die Bürgermeisterin"
+    },
+    {
+      "id": "s1-025",
+      "front": "jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-026",
+      "front": "club",
+      "back": "der Club"
+    },
+    {
+      "id": "s1-027",
+      "front": "los cree",
+      "back": "das Cree"
+    },
+    {
+      "id": "s1-028",
+      "front": "alemán (idioma)",
+      "back": "das Deutsch"
+    },
+    {
+      "id": "s1-029",
+      "front": "la dieta",
+      "back": "die Diät"
+    },
+    {
+      "id": "s1-030",
+      "front": "la entrada",
+      "back": "der Eintritt"
+    },
+    {
+      "id": "s1-031",
+      "front": "inglés (idioma)",
+      "back": "das Englisch"
+    },
+    {
+      "id": "s1-032",
+      "front": "el éxito",
+      "back": "der Erfolg"
+    },
+    {
+      "id": "s1-033",
+      "front": "la comida",
+      "back": "das Essen"
+    },
+    {
+      "id": "s1-034",
+      "front": "el estonio",
+      "back": "der Este"
+    },
+    {
+      "id": "s1-035",
+      "front": "bicicleta",
+      "back": "das Fahrrad"
+    },
+    {
+      "id": "s1-036",
+      "front": "el carril bici",
+      "back": "der Fahrradweg"
+    },
+    {
+      "id": "s1-037",
+      "front": "el caso",
+      "back": "der Fall"
+    },
+    {
+      "id": "s1-038",
+      "front": "la familia",
+      "back": "die Familie"
+    },
+    {
+      "id": "s1-039",
+      "front": "celebraciones (plural de Feier)",
+      "back": "die Feier"
+    },
+    {
+      "id": "s1-040",
+      "front": "la television",
+      "back": "das Fernsehen"
+    },
+    {
+      "id": "s1-041",
+      "front": "celebraciones / fiestas (plural de Fest)",
+      "back": "das Fest"
+    },
+    {
+      "id": "s1-042",
+      "front": "cuerpo de bomberos",
+      "back": "die Feuerwehr"
+    },
+    {
+      "id": "s1-043",
+      "front": "la película",
+      "back": "der Film"
+    },
+    {
+      "id": "s1-044",
+      "front": "la empresa",
+      "back": "die Firma"
+    },
+    {
+      "id": "s1-045",
+      "front": "el vuelo",
+      "back": "der Flug"
+    },
+    {
+      "id": "s1-046",
+      "front": "foto",
+      "back": "das Foto"
+    },
+    {
+      "id": "s1-047",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-048",
+      "front": "la piscina al aire libre",
+      "back": "das Freibad"
+    },
+    {
+      "id": "s1-049",
+      "front": "la fecha límite",
+      "back": "die Frist"
+    },
+    {
+      "id": "s1-050",
+      "front": "el servicio temprano",
+      "back": "der Frühdienst"
+    },
+    {
+      "id": "s1-051",
+      "front": "fútbol",
+      "back": "der Fußball"
+    },
+    {
+      "id": "s1-052",
+      "front": "el favor",
+      "back": "der Gefallen"
+    },
+    {
+      "id": "s1-053",
+      "front": "el área",
+      "back": "die Gegend"
+    },
+    {
+      "id": "s1-054",
+      "front": "dinero",
+      "back": "das Geld"
+    },
+    {
+      "id": "s1-055",
+      "front": "el regalo",
+      "back": "das Geschenk"
+    },
+    {
+      "id": "s1-056",
+      "front": "el motivo / la razón",
+      "back": "der Grund"
+    },
+    {
+      "id": "s1-057",
+      "front": "el bueno",
+      "back": "das Gutes"
+    },
+    {
+      "id": "s1-058",
+      "front": "el granizo",
+      "back": "der Hagel"
+    },
+    {
+      "id": "s1-059",
+      "front": "la mano",
+      "back": "die Hand"
+    },
+    {
+      "id": "s1-060",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-061",
+      "front": "las tareas del hogar",
+      "back": "die Hausarbeit"
+    },
+    {
+      "id": "s1-062",
+      "front": "la mascota",
+      "back": "das Haustier"
+    },
+    {
+      "id": "s1-063",
+      "front": "el señor",
+      "back": "der Herr"
+    },
+    {
+      "id": "s1-064",
+      "front": "la boda",
+      "back": "die Hochzeit"
+    },
+    {
+      "id": "s1-065",
+      "front": "hotel",
+      "back": "das Hotel"
+    },
+    {
+      "id": "s1-066",
+      "front": "la tos",
+      "back": "der Husten"
+    },
+    {
+      "id": "s1-067",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-068",
+      "front": "gato / gata",
+      "back": "die Katze"
+    },
+    {
+      "id": "s1-069",
+      "front": "el camarero",
+      "back": "der Kellner"
+    },
+    {
+      "id": "s1-070",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-071",
+      "front": "el jardín de infantes",
+      "back": "der Kindergarten"
+    },
+    {
+      "id": "s1-072",
+      "front": "el compañero de clase",
+      "back": "der Klassenkamerad"
+    },
+    {
+      "id": "s1-073",
+      "front": "conferencias (plural de Konferenz)",
+      "back": "die Konferenz"
+    },
+    {
+      "id": "s1-074",
+      "front": "el subjuntivo",
+      "back": "der Konjunktiv"
+    },
+    {
+      "id": "s1-075",
+      "front": "hospitales (plural)",
+      "back": "das Krankenhaus"
+    },
+    {
+      "id": "s1-076",
+      "front": "la enfermedad",
+      "back": "die Krankheit"
+    },
+    {
+      "id": "s1-077",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-078",
+      "front": "el tiempo",
+      "back": "das Mal"
+    },
+    {
+      "id": "s1-079",
+      "front": "reuniones (plural de Meeting)",
+      "back": "das Meeting"
+    },
+    {
+      "id": "s1-080",
+      "front": "el ser humano",
+      "back": "der Mensch"
+    },
+    {
+      "id": "s1-081",
+      "front": "los productos lácteos",
+      "back": "das Milchprodukt"
+    },
+    {
+      "id": "s1-082",
+      "front": "el esfuerzo",
+      "back": "die Mühe"
+    },
+    {
+      "id": "s1-083",
+      "front": "la música",
+      "back": "die Musik"
+    },
+    {
+      "id": "s1-084",
+      "front": "la clase de apoyo",
+      "back": "der Nachhilfeunterricht"
+    },
+    {
+      "id": "s1-085",
+      "front": "la noticia",
+      "back": "die Nachricht"
+    },
+    {
+      "id": "s1-086",
+      "front": "notas (plural)",
+      "back": "die Note"
+    },
+    {
+      "id": "s1-087",
+      "front": "la orden (Orden)",
+      "back": "der Orden"
+    },
+    {
+      "id": "s1-088",
+      "front": "la madrina",
+      "back": "die Patentante"
+    },
+    {
+      "id": "s1-089",
+      "front": "el paciente (Patientin)",
+      "back": "die Patientin"
+    },
+    {
+      "id": "s1-090",
+      "front": "el personal",
+      "back": "das Personal"
+    },
+    {
+      "id": "s1-091",
+      "front": "la plaza",
+      "back": "der Platz"
+    },
+    {
+      "id": "s1-092",
+      "front": "policía (institución)",
+      "back": "die Polizei"
+    },
+    {
+      "id": "s1-093",
+      "front": "la billetera (Portemonnaie)",
+      "back": "das Portemonnaie"
+    },
+    {
+      "id": "s1-094",
+      "front": "el problema",
+      "back": "das Problem"
+    },
+    {
+      "id": "s1-095",
+      "front": "el examen",
+      "back": "die Prüfung"
+    },
+    {
+      "id": "s1-096",
+      "front": "fumar",
+      "back": "das Rauchen"
+    },
+    {
+      "id": "s1-097",
+      "front": "cuenta",
+      "back": "die Rechnung"
+    },
+    {
+      "id": "s1-098",
+      "front": "la lluvia",
+      "back": "der Regen"
+    },
+    {
+      "id": "s1-099",
+      "front": "paraguas",
+      "back": "der Regenschirm"
+    },
+    {
+      "id": "s1-100",
+      "front": "restaurante",
+      "back": "das Restaurant"
+    },
+    {
+      "id": "s1-101",
+      "front": "ruso (idioma)",
+      "back": "das Russisch"
+    },
+    {
+      "id": "s1-102",
+      "front": "el daño",
+      "back": "der Schaden"
+    },
+    {
+      "id": "s1-103",
+      "front": "el año escolar",
+      "back": "das Schuljahr"
+    },
+    {
+      "id": "s1-104",
+      "front": "el solitario",
+      "back": "das Solo"
+    },
+    {
+      "id": "s1-105",
+      "front": "la preocupación",
+      "back": "die Sorge"
+    },
+    {
+      "id": "s1-106",
+      "front": "de todos modos",
+      "back": "der Sowieso"
+    },
+    {
+      "id": "s1-107",
+      "front": "el juego",
+      "back": "das Spiel"
+    },
+    {
+      "id": "s1-108",
+      "front": "el deporte",
+      "back": "der Sport"
+    },
+    {
+      "id": "s1-109",
+      "front": "la ciudad",
+      "back": "die Stadt"
+    },
+    {
+      "id": "s1-110",
+      "front": "el lugar",
+      "back": "die Stelle"
+    },
+    {
+      "id": "s1-111",
+      "front": "la hora",
+      "back": "die Stunde"
+    },
+    {
+      "id": "s1-112",
+      "front": "el taxi",
+      "back": "das Taxi"
+    },
+    {
+      "id": "s1-113",
+      "front": "la reunión de equipo",
+      "back": "die Teambesprechung"
+    },
+    {
+      "id": "s1-114",
+      "front": "la cita",
+      "back": "der Termin"
+    },
+    {
+      "id": "s1-115",
+      "front": "mesa",
+      "back": "der Tisch"
+    },
+    {
+      "id": "s1-116",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-117",
+      "front": "las horas extra",
+      "back": "die Überstunde"
+    },
+    {
+      "id": "s1-118",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-119",
+      "front": "las circunstancias",
+      "back": "der Umstand"
+    },
+    {
+      "id": "s1-120",
+      "front": "el medio ambiente",
+      "back": "die Umwelt"
+    },
+    {
+      "id": "s1-121",
+      "front": "el accidente",
+      "back": "der Unfall"
+    },
+    {
+      "id": "s1-122",
+      "front": "las vacaciones",
+      "back": "der Urlaub"
+    },
+    {
+      "id": "s1-123",
+      "front": "la responsabilidad",
+      "back": "die Verantwortung"
+    },
+    {
+      "id": "s1-124",
+      "front": "el editor",
+      "back": "der Verlag"
+    },
+    {
+      "id": "s1-125",
+      "front": "el retraso",
+      "back": "die Verspätung"
+    },
+    {
+      "id": "s1-126",
+      "front": "el cuarto",
+      "back": "das Viertel"
+    },
+    {
+      "id": "s1-127",
+      "front": "la jornada completa",
+      "back": "die Vollzeit"
+    },
+    {
+      "id": "s1-128",
+      "front": "la elección",
+      "back": "die Wahl"
+    },
+    {
+      "id": "s1-129",
+      "front": "la participación electoral",
+      "back": "die Wahlbeteiligung"
+    },
+    {
+      "id": "s1-130",
+      "front": "la verdad",
+      "back": "die Wahrheit"
+    },
+    {
+      "id": "s1-131",
+      "front": "la voluntad",
+      "back": "der Werd"
+    },
+    {
+      "id": "s1-132",
+      "front": "el tiempo (atmosférico)",
+      "back": "das Wetter"
+    },
+    {
+      "id": "s1-133",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-134",
+      "front": "tiempo",
+      "back": "die Zeit"
+    },
+    {
+      "id": "s1-135",
+      "front": "el tren",
+      "back": "der Zug"
+    },
+    {
+      "id": "s1-136",
+      "front": "futuro",
+      "back": "die Zukunft"
+    },
+    {
+      "id": "s1-137",
+      "front": "la promesa",
+      "back": "die Zusage"
+    },
+    {
+      "id": "s1-138",
+      "front": "la condición",
+      "back": "der Zustand"
+    },
+    {
+      "id": "s1-139",
+      "front": "el intermedio",
+      "back": "das Zwischen"
+    }
+  ]
+}
