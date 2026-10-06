@@ -16,11 +16,6 @@
       "back": "auch"
     },
     {
-      "id": "s3-003",
-      "front": "azul",
-      "back": "blau"
-    },
-    {
       "id": "s3-004",
       "front": "rubia",
       "back": "blond"
@@ -71,19 +66,9 @@
       "back": "glücklich"
     },
     {
-      "id": "s3-014",
-      "front": "gris",
-      "back": "grau"
-    },
-    {
       "id": "s3-015",
       "front": "grande / alto",
       "back": "groß"
-    },
-    {
-      "id": "s3-016",
-      "front": "verde",
-      "back": "grün"
     },
     {
       "id": "s3-017",
@@ -94,11 +79,6 @@
       "id": "s3-018",
       "front": "la mitad",
       "back": "halb"
-    },
-    {
-      "id": "s3-019",
-      "front": "caliente",
-      "back": "heiß"
     },
     {
       "id": "s3-020",
@@ -259,11 +239,6 @@
       "id": "s3-051",
       "front": "divertido",
       "back": "witzig"
-    },
-    {
-      "id": "s3-052",
-      "front": "querer",
-      "back": "wollen"
     }
   ]
 }
