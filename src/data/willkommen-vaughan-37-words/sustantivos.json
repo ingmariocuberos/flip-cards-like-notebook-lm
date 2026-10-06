@@ -1,0 +1,604 @@
+{
+  "bookId": "willkommen-vaughan-37-words",
+  "bookTitle": "Buch 37 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "el pero",
+      "back": "das Aber"
+    },
+    {
+      "id": "s1-002",
+      "front": "el casco antiguo",
+      "back": "die Altstadt"
+    },
+    {
+      "id": "s1-003",
+      "front": "el un",
+      "back": "der An"
+    },
+    {
+      "id": "s1-004",
+      "front": "la aplicación",
+      "back": "der Antrag"
+    },
+    {
+      "id": "s1-005",
+      "front": "el traje",
+      "back": "der Anzug"
+    },
+    {
+      "id": "s1-006",
+      "front": "el puesto de trabajo",
+      "back": "die Arbeitsstelle"
+    },
+    {
+      "id": "s1-007",
+      "front": "médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-008",
+      "front": "el baño",
+      "back": "das Bad"
+    },
+    {
+      "id": "s1-009",
+      "front": "estación de tren",
+      "back": "der Bahnhof"
+    },
+    {
+      "id": "s1-010",
+      "front": "el balcon",
+      "back": "der Balkon"
+    },
+    {
+      "id": "s1-011",
+      "front": "la pierna",
+      "back": "das Bein"
+    },
+    {
+      "id": "s1-012",
+      "front": "la foto",
+      "back": "das Bild"
+    },
+    {
+      "id": "s1-013",
+      "front": "la solicitud",
+      "back": "die Bitte"
+    },
+    {
+      "id": "s1-014",
+      "front": "sacando sangre",
+      "back": "das Blutabnehmen"
+    },
+    {
+      "id": "s1-015",
+      "front": "el novio",
+      "back": "der Bräutigam"
+    },
+    {
+      "id": "s1-016",
+      "front": "el autobús",
+      "back": "der Bus"
+    },
+    {
+      "id": "s1-017",
+      "front": "la estación de autobuses",
+      "back": "der Busbahnhof"
+    },
+    {
+      "id": "s1-018",
+      "front": "el conductor del autobús",
+      "back": "der Busfahrer"
+    },
+    {
+      "id": "s1-019",
+      "front": "la parada de autobús",
+      "back": "die Bushaltestelle"
+    },
+    {
+      "id": "s1-020",
+      "front": "el agradecimiento",
+      "back": "der Dank"
+    },
+    {
+      "id": "s1-021",
+      "front": "la demostracion",
+      "back": "die Demonstration"
+    },
+    {
+      "id": "s1-022",
+      "front": "el vuelo directo",
+      "back": "der Direktflug"
+    },
+    {
+      "id": "s1-023",
+      "front": "el tren directo",
+      "back": "der Direktzug"
+    },
+    {
+      "id": "s1-024",
+      "front": "el apartamento de tres habitaciones",
+      "back": "die Drei-Zimmer-Wohnung"
+    },
+    {
+      "id": "s1-025",
+      "front": "la ducha",
+      "back": "das Duschen"
+    },
+    {
+      "id": "s1-026",
+      "front": "la estación final",
+      "back": "die Endstation"
+    },
+    {
+      "id": "s1-027",
+      "front": "nieta",
+      "back": "die Enkelin"
+    },
+    {
+      "id": "s1-028",
+      "front": "el pato",
+      "back": "die Ente"
+    },
+    {
+      "id": "s1-029",
+      "front": "la eternidad",
+      "back": "die Ewigkeit"
+    },
+    {
+      "id": "s1-030",
+      "front": "el conductor",
+      "back": "der Fahrer"
+    },
+    {
+      "id": "s1-031",
+      "front": "ventana",
+      "back": "das Fenster"
+    },
+    {
+      "id": "s1-032",
+      "front": "el vuelo",
+      "back": "der Flug"
+    },
+    {
+      "id": "s1-033",
+      "front": "aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-034",
+      "front": "el avión",
+      "back": "das Flugzeug"
+    },
+    {
+      "id": "s1-035",
+      "front": "el ginecólogo",
+      "back": "der Frauenarzt"
+    },
+    {
+      "id": "s1-036",
+      "front": "el ginecólogo (Frauenärztin)",
+      "back": "die Frauenärztin"
+    },
+    {
+      "id": "s1-037",
+      "front": "la piscina al aire libre",
+      "back": "das Freibad"
+    },
+    {
+      "id": "s1-038",
+      "front": "amiga / novia",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-039",
+      "front": "el jardín",
+      "back": "der Garten"
+    },
+    {
+      "id": "s1-040",
+      "front": "el uso",
+      "back": "der Gebrauch"
+    },
+    {
+      "id": "s1-041",
+      "front": "el negocio",
+      "back": "das Geschäft"
+    },
+    {
+      "id": "s1-042",
+      "front": "botas de agua (plural)",
+      "back": "der Gummistiefel"
+    },
+    {
+      "id": "s1-043",
+      "front": "el cinturón",
+      "back": "der Gürtel"
+    },
+    {
+      "id": "s1-044",
+      "front": "el bueno (Guter)",
+      "back": "der Guter"
+    },
+    {
+      "id": "s1-045",
+      "front": "la parada",
+      "back": "die Haltestelle"
+    },
+    {
+      "id": "s1-046",
+      "front": "guantes (plural)",
+      "back": "der Handschuh"
+    },
+    {
+      "id": "s1-047",
+      "front": "la estación central",
+      "back": "der Hauptbahnhof"
+    },
+    {
+      "id": "s1-048",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-049",
+      "front": "la camisa",
+      "back": "das Hemd"
+    },
+    {
+      "id": "s1-050",
+      "front": "la boda",
+      "back": "die Hochzeit"
+    },
+    {
+      "id": "s1-051",
+      "front": "la página de inicio",
+      "back": "die Homepage"
+    },
+    {
+      "id": "s1-052",
+      "front": "pantalón",
+      "back": "die Hose"
+    },
+    {
+      "id": "s1-053",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-054",
+      "front": "chaqueta",
+      "back": "die Jacke"
+    },
+    {
+      "id": "s1-055",
+      "front": "carta / naipe",
+      "back": "die Karte"
+    },
+    {
+      "id": "s1-056",
+      "front": "niño / niña",
+      "back": "das Kind"
+    },
+    {
+      "id": "s1-057",
+      "front": "el vestido",
+      "back": "das Kleid"
+    },
+    {
+      "id": "s1-058",
+      "front": "el seguro de salud",
+      "back": "die Krankenversicherung"
+    },
+    {
+      "id": "s1-059",
+      "front": "el pastel",
+      "back": "der Kuchen"
+    },
+    {
+      "id": "s1-060",
+      "front": "museo de arte",
+      "back": "das Kunstmuseum"
+    },
+    {
+      "id": "s1-061",
+      "front": "tienda",
+      "back": "der Laden"
+    },
+    {
+      "id": "s1-062",
+      "front": "la linea",
+      "back": "die Linie"
+    },
+    {
+      "id": "s1-063",
+      "front": "el lote",
+      "back": "das Los"
+    },
+    {
+      "id": "s1-064",
+      "front": "el hombre",
+      "back": "der Man"
+    },
+    {
+      "id": "s1-065",
+      "front": "el mar",
+      "back": "das Meer"
+    },
+    {
+      "id": "s1-066",
+      "front": "el ser humano",
+      "back": "der Mensch"
+    },
+    {
+      "id": "s1-067",
+      "front": "la feria",
+      "back": "die Messe"
+    },
+    {
+      "id": "s1-068",
+      "front": "el minuto",
+      "back": "die Minute"
+    },
+    {
+      "id": "s1-069",
+      "front": "el miembro (de una organización)",
+      "back": "das Mitglied"
+    },
+    {
+      "id": "s1-070",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-071",
+      "front": "gorro",
+      "back": "die Mütze"
+    },
+    {
+      "id": "s1-072",
+      "front": "vecina",
+      "back": "die Nachbarin"
+    },
+    {
+      "id": "s1-073",
+      "front": "las chucherías",
+      "back": "der Nippes"
+    },
+    {
+      "id": "s1-074",
+      "front": "la abuela (coloquial)",
+      "back": "die Oma"
+    },
+    {
+      "id": "s1-075",
+      "front": "tío",
+      "back": "der Onkel"
+    },
+    {
+      "id": "s1-076",
+      "front": "aparcamiento / sitio para aparcar (letrero)",
+      "back": "der Parkplatz"
+    },
+    {
+      "id": "s1-077",
+      "front": "el guante de plastico",
+      "back": "der Plastikhandschuh"
+    },
+    {
+      "id": "s1-078",
+      "front": "el anillo",
+      "back": "der Ring"
+    },
+    {
+      "id": "s1-079",
+      "front": "la espalda",
+      "back": "der Rücken"
+    },
+    {
+      "id": "s1-080",
+      "front": "el silencio",
+      "back": "die Ruhe"
+    },
+    {
+      "id": "s1-081",
+      "front": "el S-Bahn",
+      "back": "die S-Bahn"
+    },
+    {
+      "id": "s1-082",
+      "front": "el conductor (Schaffner)",
+      "back": "der Schaffner"
+    },
+    {
+      "id": "s1-083",
+      "front": "bufanda",
+      "back": "der Schal"
+    },
+    {
+      "id": "s1-084",
+      "front": "el espectáculo",
+      "back": "die Schau"
+    },
+    {
+      "id": "s1-085",
+      "front": "el tren expreso",
+      "back": "der Schnellzug"
+    },
+    {
+      "id": "s1-086",
+      "front": "zapato",
+      "back": "der Schuh"
+    },
+    {
+      "id": "s1-087",
+      "front": "colegio / escuela",
+      "back": "die Schule"
+    },
+    {
+      "id": "s1-088",
+      "front": "el hombro",
+      "back": "die Schulter"
+    },
+    {
+      "id": "s1-089",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-090",
+      "front": "el control de seguridad",
+      "back": "die Sicherheitskontrolle"
+    },
+    {
+      "id": "s1-091",
+      "front": "el vestido de verano",
+      "back": "das Sommerkleid"
+    },
+    {
+      "id": "s1-092",
+      "front": "la jeringa",
+      "back": "die Spritze"
+    },
+    {
+      "id": "s1-093",
+      "front": "el estadio",
+      "back": "das Stadion"
+    },
+    {
+      "id": "s1-094",
+      "front": "la estacion",
+      "back": "die Station"
+    },
+    {
+      "id": "s1-095",
+      "front": "la subida",
+      "back": "der Steig"
+    },
+    {
+      "id": "s1-096",
+      "front": "la bota",
+      "back": "der Stiefel"
+    },
+    {
+      "id": "s1-097",
+      "front": "playa",
+      "back": "der Strand"
+    },
+    {
+      "id": "s1-098",
+      "front": "calle",
+      "back": "die Straße"
+    },
+    {
+      "id": "s1-099",
+      "front": "el tranvía",
+      "back": "die Straßenbahn"
+    },
+    {
+      "id": "s1-100",
+      "front": "la pelea",
+      "back": "der Streit"
+    },
+    {
+      "id": "s1-101",
+      "front": "la rebeca",
+      "back": "die Strickjacke"
+    },
+    {
+      "id": "s1-102",
+      "front": "el suéter de punto",
+      "back": "der Strickpulli"
+    },
+    {
+      "id": "s1-103",
+      "front": "la escena",
+      "back": "die Szene"
+    },
+    {
+      "id": "s1-104",
+      "front": "la camiseta",
+      "back": "das T-Shirt"
+    },
+    {
+      "id": "s1-105",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-106",
+      "front": "bolso",
+      "back": "die Tasche"
+    },
+    {
+      "id": "s1-107",
+      "front": "servicio / aseo",
+      "back": "die Toilette"
+    },
+    {
+      "id": "s1-108",
+      "front": "el chico",
+      "back": "der Typ"
+    },
+    {
+      "id": "s1-109",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-110",
+      "front": "el vestuario",
+      "back": "die Umkleide"
+    },
+    {
+      "id": "s1-111",
+      "front": "el vestuario (Umkleidekabine)",
+      "back": "die Umkleidekabine"
+    },
+    {
+      "id": "s1-112",
+      "front": "la investigacion",
+      "back": "die Untersuchung"
+    },
+    {
+      "id": "s1-113",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-114",
+      "front": "el de",
+      "back": "der Von"
+    },
+    {
+      "id": "s1-115",
+      "front": "la cortina",
+      "back": "der Vorhang"
+    },
+    {
+      "id": "s1-116",
+      "front": "el carro",
+      "back": "der Wagon"
+    },
+    {
+      "id": "s1-117",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-118",
+      "front": "el zoológico",
+      "back": "der Zoo"
+    },
+    {
+      "id": "s1-119",
+      "front": "el tren",
+      "back": "der Zug"
+    }
+  ]
+}
