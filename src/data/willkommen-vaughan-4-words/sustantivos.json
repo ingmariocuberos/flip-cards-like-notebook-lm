@@ -1,0 +1,554 @@
+{
+  "bookId": "willkommen-vaughan-4-words",
+  "bookTitle": "Buch 4 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "cena",
+      "back": "das Abendbrot"
+    },
+    {
+      "id": "s1-002",
+      "front": "farmacia",
+      "back": "die Apotheke"
+    },
+    {
+      "id": "s1-003",
+      "front": "abril",
+      "back": "der April"
+    },
+    {
+      "id": "s1-004",
+      "front": "trabajo",
+      "back": "die Arbeit"
+    },
+    {
+      "id": "s1-005",
+      "front": "médico",
+      "back": "der Arzt"
+    },
+    {
+      "id": "s1-006",
+      "front": "coche",
+      "back": "das Auto"
+    },
+    {
+      "id": "s1-007",
+      "front": "panadería",
+      "back": "die Bäckerei"
+    },
+    {
+      "id": "s1-008",
+      "front": "estación de tren",
+      "back": "der Bahnhof"
+    },
+    {
+      "id": "s1-009",
+      "front": "árbol",
+      "back": "der Baum"
+    },
+    {
+      "id": "s1-010",
+      "front": "cuerpo de bomberos profesionales",
+      "back": "die Berufsfeuerwehr"
+    },
+    {
+      "id": "s1-011",
+      "front": "cama",
+      "back": "das Bett"
+    },
+    {
+      "id": "s1-012",
+      "front": "lápiz",
+      "back": "der Bleistift"
+    },
+    {
+      "id": "s1-013",
+      "front": "suelo",
+      "back": "der Boden"
+    },
+    {
+      "id": "s1-014",
+      "front": "hermano",
+      "back": "der Bruder"
+    },
+    {
+      "id": "s1-015",
+      "front": "jefe",
+      "back": "der Chef"
+    },
+    {
+      "id": "s1-016",
+      "front": "química",
+      "back": "die Chemie"
+    },
+    {
+      "id": "s1-017",
+      "front": "ordenador",
+      "back": "der Computer"
+    },
+    {
+      "id": "s1-018",
+      "front": "primo",
+      "back": "der Cousin"
+    },
+    {
+      "id": "s1-019",
+      "front": "prima",
+      "back": "die Cousine"
+    },
+    {
+      "id": "s1-020",
+      "front": "tejadillo",
+      "back": "das Dachl"
+    },
+    {
+      "id": "s1-021",
+      "front": "diciembre",
+      "back": "der Dezember"
+    },
+    {
+      "id": "s1-022",
+      "front": "alemán (idioma)",
+      "back": "das Deutsch"
+    },
+    {
+      "id": "s1-023",
+      "front": "ducha",
+      "back": "die Dusche"
+    },
+    {
+      "id": "s1-024",
+      "front": "progenitor (padre o madre)",
+      "back": "der Elternteil"
+    },
+    {
+      "id": "s1-025",
+      "front": "inglés (idioma)",
+      "back": "das Englisch"
+    },
+    {
+      "id": "s1-026",
+      "front": "bicicleta",
+      "back": "das Fahrrad"
+    },
+    {
+      "id": "s1-027",
+      "front": "ventana",
+      "back": "das Fenster"
+    },
+    {
+      "id": "s1-028",
+      "front": "televisor",
+      "back": "der Fernseher"
+    },
+    {
+      "id": "s1-029",
+      "front": "cuerpo de bomberos",
+      "back": "die Feuerwehr"
+    },
+    {
+      "id": "s1-030",
+      "front": "aeropuerto",
+      "back": "der Flughafen"
+    },
+    {
+      "id": "s1-031",
+      "front": "piloto de Fórmula 1",
+      "back": "der Formel-1-Pilot"
+    },
+    {
+      "id": "s1-032",
+      "front": "mujer",
+      "back": "die Frau"
+    },
+    {
+      "id": "s1-033",
+      "front": "amiga / novia",
+      "back": "die Freundin"
+    },
+    {
+      "id": "s1-034",
+      "front": "francés (idioma)",
+      "back": "das Französisch"
+    },
+    {
+      "id": "s1-035",
+      "front": "jugar al fútbol",
+      "back": "das Fußballspielen"
+    },
+    {
+      "id": "s1-036",
+      "front": "viento föhn",
+      "back": "der Föhn"
+    },
+    {
+      "id": "s1-037",
+      "front": "hermano o hermana",
+      "back": "das Geschwister"
+    },
+    {
+      "id": "s1-038",
+      "front": "vaso",
+      "back": "das Glas"
+    },
+    {
+      "id": "s1-039",
+      "front": "móvil",
+      "back": "das Handy"
+    },
+    {
+      "id": "s1-040",
+      "front": "casa",
+      "back": "das Haus"
+    },
+    {
+      "id": "s1-041",
+      "front": "alemán estándar",
+      "back": "das Hochdeutsch"
+    },
+    {
+      "id": "s1-042",
+      "front": "cervecería de la corte",
+      "back": "das Hofbräuhaus"
+    },
+    {
+      "id": "s1-043",
+      "front": "palacio imperial (Hofburg)",
+      "back": "die Hofburg"
+    },
+    {
+      "id": "s1-044",
+      "front": "pantalón",
+      "back": "die Hose"
+    },
+    {
+      "id": "s1-045",
+      "front": "italiano (idioma)",
+      "back": "das Italienisch"
+    },
+    {
+      "id": "s1-046",
+      "front": "chaqueta",
+      "back": "die Jacke"
+    },
+    {
+      "id": "s1-047",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-048",
+      "front": "enero",
+      "back": "der Januar"
+    },
+    {
+      "id": "s1-049",
+      "front": "julio",
+      "back": "der Juli"
+    },
+    {
+      "id": "s1-050",
+      "front": "chico",
+      "back": "der Junge"
+    },
+    {
+      "id": "s1-051",
+      "front": "Puente de la Capilla",
+      "back": "die Kapellbrücke"
+    },
+    {
+      "id": "s1-052",
+      "front": "carta / naipe",
+      "back": "die Karte"
+    },
+    {
+      "id": "s1-053",
+      "front": "gato / gata",
+      "back": "die Katze"
+    },
+    {
+      "id": "s1-054",
+      "front": "caja",
+      "back": "die Kiste"
+    },
+    {
+      "id": "s1-055",
+      "front": "compañero de trabajo",
+      "back": "der Kollege"
+    },
+    {
+      "id": "s1-056",
+      "front": "compañera de trabajo",
+      "back": "die Kollegin"
+    },
+    {
+      "id": "s1-057",
+      "front": "cómoda",
+      "back": "die Kommode"
+    },
+    {
+      "id": "s1-058",
+      "front": "bolígrafo",
+      "back": "der Kuli"
+    },
+    {
+      "id": "s1-059",
+      "front": "pan de semillas de calabaza",
+      "back": "das Kürbiskernbrot"
+    },
+    {
+      "id": "s1-060",
+      "front": "lámpara",
+      "back": "die Lampe"
+    },
+    {
+      "id": "s1-061",
+      "front": "mayo",
+      "back": "der Mai"
+    },
+    {
+      "id": "s1-062",
+      "front": "hombre / marido",
+      "back": "der Mann"
+    },
+    {
+      "id": "s1-063",
+      "front": "mates",
+      "back": "die Mathe"
+    },
+    {
+      "id": "s1-064",
+      "front": "matemáticas",
+      "back": "die Mathematik"
+    },
+    {
+      "id": "s1-065",
+      "front": "chica",
+      "back": "das Mädchen"
+    },
+    {
+      "id": "s1-066",
+      "front": "Muralla de Musegg",
+      "back": "die Museggmauer"
+    },
+    {
+      "id": "s1-067",
+      "front": "madre",
+      "back": "die Mutter"
+    },
+    {
+      "id": "s1-068",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-069",
+      "front": "sobrino",
+      "back": "der Neffe"
+    },
+    {
+      "id": "s1-070",
+      "front": "sobrina",
+      "back": "die Nichte"
+    },
+    {
+      "id": "s1-071",
+      "front": "octubre",
+      "back": "der Oktober"
+    },
+    {
+      "id": "s1-072",
+      "front": "tío",
+      "back": "der Onkel"
+    },
+    {
+      "id": "s1-073",
+      "front": "física",
+      "back": "die Physik"
+    },
+    {
+      "id": "s1-074",
+      "front": "portugués (idioma)",
+      "back": "das Portugiesisch"
+    },
+    {
+      "id": "s1-075",
+      "front": "jersey (forma abreviada)",
+      "back": "der Pulli"
+    },
+    {
+      "id": "s1-076",
+      "front": "jersey",
+      "back": "der Pullover"
+    },
+    {
+      "id": "s1-077",
+      "front": "cuenta",
+      "back": "die Rechnung"
+    },
+    {
+      "id": "s1-078",
+      "front": "estantería",
+      "back": "das Regal"
+    },
+    {
+      "id": "s1-079",
+      "front": "pilotaje / carreras automovilísticas",
+      "back": "das Rennfahren"
+    },
+    {
+      "id": "s1-080",
+      "front": "falda",
+      "back": "der Rock"
+    },
+    {
+      "id": "s1-081",
+      "front": "pan de centeno",
+      "back": "das Roggenbrot"
+    },
+    {
+      "id": "s1-082",
+      "front": "ruso (idioma)",
+      "back": "das Russisch"
+    },
+    {
+      "id": "s1-083",
+      "front": "armario",
+      "back": "der Schrank"
+    },
+    {
+      "id": "s1-084",
+      "front": "escritorio",
+      "back": "der Schreibtisch"
+    },
+    {
+      "id": "s1-085",
+      "front": "colegio / escuela",
+      "back": "die Schule"
+    },
+    {
+      "id": "s1-086",
+      "front": "pan negro",
+      "back": "das Schwarzbrot"
+    },
+    {
+      "id": "s1-087",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-088",
+      "front": "sección",
+      "back": "die Sektion"
+    },
+    {
+      "id": "s1-089",
+      "front": "septiembre",
+      "back": "der September"
+    },
+    {
+      "id": "s1-090",
+      "front": "sillón",
+      "back": "der Sessel"
+    },
+    {
+      "id": "s1-091",
+      "front": "sofá",
+      "back": "das Sofa"
+    },
+    {
+      "id": "s1-092",
+      "front": "pan de semillas de girasol",
+      "back": "das Sonnenblumenkernbrot"
+    },
+    {
+      "id": "s1-093",
+      "front": "español / castellano (idioma)",
+      "back": "das Spanisch"
+    },
+    {
+      "id": "s1-094",
+      "front": "calle",
+      "back": "die Straße"
+    },
+    {
+      "id": "s1-095",
+      "front": "silla",
+      "back": "der Stuhl"
+    },
+    {
+      "id": "s1-096",
+      "front": "supermercado",
+      "back": "der Supermarkt"
+    },
+    {
+      "id": "s1-097",
+      "front": "tía",
+      "back": "die Tante"
+    },
+    {
+      "id": "s1-098",
+      "front": "bolso",
+      "back": "die Tasche"
+    },
+    {
+      "id": "s1-099",
+      "front": "teléfono",
+      "back": "das Telefon"
+    },
+    {
+      "id": "s1-100",
+      "front": "mesa",
+      "back": "der Tisch"
+    },
+    {
+      "id": "s1-101",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-102",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-103",
+      "front": "universidad (coloquial)",
+      "back": "die Uni"
+    },
+    {
+      "id": "s1-104",
+      "front": "diéresis alemana",
+      "back": "der Umlaut"
+    },
+    {
+      "id": "s1-105",
+      "front": "padre",
+      "back": "der Vater"
+    },
+    {
+      "id": "s1-106",
+      "front": "Museo Suizo del Transporte",
+      "back": "das Verkehrshaus"
+    },
+    {
+      "id": "s1-107",
+      "front": "revista",
+      "back": "die Zeitschrift"
+    },
+    {
+      "id": "s1-108",
+      "front": "periódico",
+      "back": "die Zeitung"
+    },
+    {
+      "id": "s1-109",
+      "front": "pan de cebolla",
+      "back": "das Zwiebelbrot"
+    }
+  ]
+}
