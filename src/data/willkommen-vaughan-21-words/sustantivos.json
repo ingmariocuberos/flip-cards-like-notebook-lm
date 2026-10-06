@@ -1,0 +1,464 @@
+{
+  "bookId": "willkommen-vaughan-21-words",
+  "bookTitle": "Buch 21 - Words",
+  "sektionId": "sustantivos",
+  "sektionTitle": "Sustantivos",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "la tarde",
+      "back": "der Abend"
+    },
+    {
+      "id": "s1-002",
+      "front": "el pero",
+      "back": "das Aber"
+    },
+    {
+      "id": "s1-003",
+      "front": "abril",
+      "back": "der April"
+    },
+    {
+      "id": "s1-004",
+      "front": "el artículo",
+      "back": "der Artikel"
+    },
+    {
+      "id": "s1-005",
+      "front": "el pais extranjero",
+      "back": "das Ausland"
+    },
+    {
+      "id": "s1-006",
+      "front": "el informe",
+      "back": "der Bericht"
+    },
+    {
+      "id": "s1-007",
+      "front": "entrando",
+      "back": "das Betreten"
+    },
+    {
+      "id": "s1-008",
+      "front": "la biología",
+      "back": "die Biologie"
+    },
+    {
+      "id": "s1-009",
+      "front": "la carta",
+      "back": "der Brief"
+    },
+    {
+      "id": "s1-010",
+      "front": "libro",
+      "back": "das Buch"
+    },
+    {
+      "id": "s1-011",
+      "front": "química",
+      "back": "die Chemie"
+    },
+    {
+      "id": "s1-012",
+      "front": "el delfín",
+      "back": "der Delfin"
+    },
+    {
+      "id": "s1-013",
+      "front": "el martes",
+      "back": "der Dienstag"
+    },
+    {
+      "id": "s1-014",
+      "front": "el documental",
+      "back": "der Dokumentarfilm"
+    },
+    {
+      "id": "s1-015",
+      "front": "jueves",
+      "back": "der Donnerstag"
+    },
+    {
+      "id": "s1-016",
+      "front": "el correo electrónico",
+      "back": "die E-Mail"
+    },
+    {
+      "id": "s1-017",
+      "front": "inglés (idioma)",
+      "back": "das Englisch"
+    },
+    {
+      "id": "s1-018",
+      "front": "el éxito",
+      "back": "der Erfolg"
+    },
+    {
+      "id": "s1-019",
+      "front": "el exnovio",
+      "back": "der Ex-Freund"
+    },
+    {
+      "id": "s1-020",
+      "front": "el tema",
+      "back": "das Fach"
+    },
+    {
+      "id": "s1-021",
+      "front": "el fax",
+      "back": "das Fax"
+    },
+    {
+      "id": "s1-022",
+      "front": "febrero",
+      "back": "der Februar"
+    },
+    {
+      "id": "s1-023",
+      "front": "la película",
+      "back": "der Film"
+    },
+    {
+      "id": "s1-024",
+      "front": "la consecuencia",
+      "back": "die Folge"
+    },
+    {
+      "id": "s1-025",
+      "front": "el viernes",
+      "back": "der Freitag"
+    },
+    {
+      "id": "s1-026",
+      "front": "el examen de licencia de conducir",
+      "back": "die Führerscheinprüfung"
+    },
+    {
+      "id": "s1-027",
+      "front": "el poema",
+      "back": "das Gedicht"
+    },
+    {
+      "id": "s1-028",
+      "front": "el secreto",
+      "back": "das Geheimnis"
+    },
+    {
+      "id": "s1-029",
+      "front": "la historia",
+      "back": "die Geschichte"
+    },
+    {
+      "id": "s1-030",
+      "front": "el jugador de balonmano",
+      "back": "der Handballspieler"
+    },
+    {
+      "id": "s1-031",
+      "front": "el rascacielos / el edificio alto",
+      "back": "das Hochhaus"
+    },
+    {
+      "id": "s1-032",
+      "front": "perro",
+      "back": "der Hund"
+    },
+    {
+      "id": "s1-033",
+      "front": "año",
+      "back": "das Jahr"
+    },
+    {
+      "id": "s1-034",
+      "front": "la película de james bond",
+      "back": "der James-Bond-Film"
+    },
+    {
+      "id": "s1-035",
+      "front": "enero",
+      "back": "der Januar"
+    },
+    {
+      "id": "s1-036",
+      "front": "el trabajo de clase",
+      "back": "die Klassenarbeit"
+    },
+    {
+      "id": "s1-037",
+      "front": "el escándalo de corrupción",
+      "back": "der Korruptionsskandal"
+    },
+    {
+      "id": "s1-038",
+      "front": "la jarra",
+      "back": "der Krug"
+    },
+    {
+      "id": "s1-039",
+      "front": "el pais",
+      "back": "das Land"
+    },
+    {
+      "id": "s1-040",
+      "front": "la carta de amor",
+      "back": "der Liebesbrief"
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Buen provecho",
+      "back": "die Mahlzeit"
+    },
+    {
+      "id": "s1-042",
+      "front": "mayo",
+      "back": "der Mai"
+    },
+    {
+      "id": "s1-043",
+      "front": "marzo",
+      "back": "der März"
+    },
+    {
+      "id": "s1-044",
+      "front": "mates",
+      "back": "die Mathe"
+    },
+    {
+      "id": "s1-045",
+      "front": "la opinión",
+      "back": "die Meinung"
+    },
+    {
+      "id": "s1-046",
+      "front": "los mil millones",
+      "back": "die Milliarde"
+    },
+    {
+      "id": "s1-047",
+      "front": "el millón",
+      "back": "die Million"
+    },
+    {
+      "id": "s1-048",
+      "front": "el miercoles",
+      "back": "der Mittwoch"
+    },
+    {
+      "id": "s1-049",
+      "front": "mes",
+      "back": "der Monat"
+    },
+    {
+      "id": "s1-050",
+      "front": "el lunes",
+      "back": "der Montag"
+    },
+    {
+      "id": "s1-051",
+      "front": "el musical",
+      "back": "das Musical"
+    },
+    {
+      "id": "s1-052",
+      "front": "vecino",
+      "back": "der Nachbar"
+    },
+    {
+      "id": "s1-053",
+      "front": "la tarde (franja del día)",
+      "back": "der Nachmittag"
+    },
+    {
+      "id": "s1-054",
+      "front": "la noticia",
+      "back": "die Nachricht"
+    },
+    {
+      "id": "s1-055",
+      "front": "la ópera",
+      "back": "die Oper"
+    },
+    {
+      "id": "s1-056",
+      "front": "el participio",
+      "back": "das Partizip"
+    },
+    {
+      "id": "s1-057",
+      "front": "física",
+      "back": "die Physik"
+    },
+    {
+      "id": "s1-058",
+      "front": "la propiedad privada",
+      "back": "das Privatgrundstück"
+    },
+    {
+      "id": "s1-059",
+      "front": "el examen",
+      "back": "die Prüfung"
+    },
+    {
+      "id": "s1-060",
+      "front": "la novela",
+      "back": "der Roman"
+    },
+    {
+      "id": "s1-061",
+      "front": "el correo circular",
+      "back": "die Rundmail"
+    },
+    {
+      "id": "s1-062",
+      "front": "asuntos / cosas (plural de Sache)",
+      "back": "die Sache"
+    },
+    {
+      "id": "s1-063",
+      "front": "el sabado",
+      "back": "der Samstag"
+    },
+    {
+      "id": "s1-064",
+      "front": "hermana",
+      "back": "die Schwester"
+    },
+    {
+      "id": "s1-065",
+      "front": "el programa (de TV)",
+      "back": "die Sendung"
+    },
+    {
+      "id": "s1-066",
+      "front": "el escándalo",
+      "back": "der Skandal"
+    },
+    {
+      "id": "s1-067",
+      "front": "el mensaje SMS",
+      "back": "die SMS"
+    },
+    {
+      "id": "s1-068",
+      "front": "hijo",
+      "back": "der Sohn"
+    },
+    {
+      "id": "s1-069",
+      "front": "domingo",
+      "back": "der Sonntag"
+    },
+    {
+      "id": "s1-070",
+      "front": "la parte superior",
+      "back": "die Spitze"
+    },
+    {
+      "id": "s1-071",
+      "front": "el idioma",
+      "back": "die Sprache"
+    },
+    {
+      "id": "s1-072",
+      "front": "horario de consulta (cartel)",
+      "back": "die Sprechstunde"
+    },
+    {
+      "id": "s1-073",
+      "front": "el piso compartido de estudiantes",
+      "back": "die Studenten-WG"
+    },
+    {
+      "id": "s1-074",
+      "front": "el dormitorio de estudiantes",
+      "back": "das Studentenwohnheim"
+    },
+    {
+      "id": "s1-075",
+      "front": "el día",
+      "back": "der Tag"
+    },
+    {
+      "id": "s1-076",
+      "front": "el tema (Thema)",
+      "back": "das Thema"
+    },
+    {
+      "id": "s1-077",
+      "front": "hija",
+      "back": "die Tochter"
+    },
+    {
+      "id": "s1-078",
+      "front": "la sorpresa",
+      "back": "die Überraschung"
+    },
+    {
+      "id": "s1-079",
+      "front": "reloj",
+      "back": "die Uhr"
+    },
+    {
+      "id": "s1-080",
+      "front": "universidad (coloquial)",
+      "back": "die Uni"
+    },
+    {
+      "id": "s1-081",
+      "front": "la lección",
+      "back": "der Unterricht"
+    },
+    {
+      "id": "s1-082",
+      "front": "la mañana (franja del día)",
+      "back": "der Vormittag"
+    },
+    {
+      "id": "s1-083",
+      "front": "la precaución",
+      "back": "die Vorsicht"
+    },
+    {
+      "id": "s1-084",
+      "front": "la ballena",
+      "back": "der Wal"
+    },
+    {
+      "id": "s1-085",
+      "front": "el apartamento compartido",
+      "back": "die WG"
+    },
+    {
+      "id": "s1-086",
+      "front": "la semana",
+      "back": "die Woche"
+    },
+    {
+      "id": "s1-087",
+      "front": "el fin de semana",
+      "back": "das Wochenende"
+    },
+    {
+      "id": "s1-088",
+      "front": "el cepillo de dientes",
+      "back": "die Zahnbürste"
+    },
+    {
+      "id": "s1-089",
+      "front": "revista",
+      "back": "die Zeitschrift"
+    },
+    {
+      "id": "s1-090",
+      "front": "periódico",
+      "back": "die Zeitung"
+    },
+    {
+      "id": "s1-091",
+      "front": "el artículo del periódico",
+      "back": "der Zeitungsartikel"
+    }
+  ]
+}
