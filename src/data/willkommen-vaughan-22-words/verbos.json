@@ -1,0 +1,104 @@
+{
+  "bookId": "willkommen-vaughan-22-words",
+  "bookTitle": "Buch 22 - Words",
+  "sektionId": "verbos",
+  "sektionTitle": "Verbos",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "probarte",
+      "back": "anprobieren"
+    },
+    {
+      "id": "s2-002",
+      "front": "bañarse",
+      "back": "baden"
+    },
+    {
+      "id": "s2-003",
+      "front": "quedarse",
+      "back": "bleiben"
+    },
+    {
+      "id": "s2-004",
+      "front": "compras",
+      "back": "einkaufen"
+    },
+    {
+      "id": "s2-005",
+      "front": "comer",
+      "back": "essen"
+    },
+    {
+      "id": "s2-006",
+      "front": "ir en vehículo / conducir",
+      "back": "fahren"
+    },
+    {
+      "id": "s2-007",
+      "front": "me gustó",
+      "back": "gefallen"
+    },
+    {
+      "id": "s2-008",
+      "front": "ir (a pie)",
+      "back": "gehen"
+    },
+    {
+      "id": "s2-009",
+      "front": "tener",
+      "back": "haben"
+    },
+    {
+      "id": "s2-010",
+      "front": "siéntate",
+      "back": "hinsetzen"
+    },
+    {
+      "id": "s2-011",
+      "front": "venir / pasarse",
+      "back": "kommen"
+    },
+    {
+      "id": "s2-012",
+      "front": "gustar",
+      "back": "mögen"
+    },
+    {
+      "id": "s2-013",
+      "front": "nadar",
+      "back": "schwimmen"
+    },
+    {
+      "id": "s2-014",
+      "front": "ver",
+      "back": "sehen"
+    },
+    {
+      "id": "s2-015",
+      "front": "ser / estar",
+      "back": "sein"
+    },
+    {
+      "id": "s2-016",
+      "front": "para un paseo",
+      "back": "spazieren"
+    },
+    {
+      "id": "s2-017",
+      "front": "poner (stellen)",
+      "back": "stellen"
+    },
+    {
+      "id": "s2-018",
+      "front": "buscar",
+      "back": "suchen"
+    },
+    {
+      "id": "s2-019",
+      "front": "quedarse (weilen)",
+      "back": "weilen"
+    }
+  ]
+}
