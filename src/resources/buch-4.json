@@ -1,0 +1,231 @@
+{
+  "bookId": "willkommen-vaughan-4",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Besuch bei Lena",
+      "subtitle": "Una visita, objetos, obligaciones, idiomas y viajes",
+      "description": "Lena y Martin conversan usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 4.",
+      "duration": "2:04",
+      "audioSrc": "/audio/buch-4-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Hallo, Martin! Kommst du heute zu mir?",
+          "es": "¡Hola, Martin! ¿Vienes hoy a mi casa?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, ich komme jetzt zu dir. Ich muss später zur Arbeit, aber jetzt muss ich nicht arbeiten.",
+          "es": "Sí, voy ahora a tu casa. Más tarde tengo que ir al trabajo, pero ahora no tengo que trabajar."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sehr gut! Es ist viertel nach neun. Meine Schwester kommt später auch zu mir.",
+          "es": "¡Muy bien! Son las nueve y cuarto. Mi hermana también viene más tarde a mi casa."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Dein Haus ist sehr schön. Der große Tisch ist schön, und der große Sessel ist sehr bequem.",
+          "es": "Tu casa es muy bonita. La mesa grande es bonita y el sillón grande es muy cómodo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Danke. Der große Tisch ist meiner. Der kleine Tisch ist nicht meiner, er ist der Tisch meiner Mutter.",
+          "es": "Gracias. La mesa grande es mía. La mesa pequeña no es mía, es la mesa de mi madre."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Und welcher Kuli ist deiner? Der blaue Kuli oder der rote Kuli?",
+          "es": "¿Y cuál boli es el tuyo? ¿El boli azul o el boli rojo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der blaue Kuli ist meiner. Der rote Kuli ist nicht meiner, der ist deiner!",
+          "es": "El boli azul es mío. El boli rojo no es mío, ¡ese es tuyo!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, der rote Kuli ist meiner. Welche Jacke ist deine?",
+          "es": "Sí, el boli rojo es mío. ¿Cuál chaqueta es la tuya?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die grüne Jacke ist meine. Die schwarze Jacke ist die Jacke meiner Schwester.",
+          "es": "La chaqueta verde es mía. La chaqueta negra es la chaqueta de mi hermana."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welches Fahrrad ist deins? Das blaue Fahrrad oder das schwarze Fahrrad?",
+          "es": "¿Cuál bicicleta es la tuya? ¿La bicicleta azul o la bicicleta negra?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Das blaue Fahrrad ist meins. Das schwarze Fahrrad ist auch nicht meins.",
+          "es": "La bicicleta azul es mía. La bicicleta negra tampoco es mía."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wo ist dein Telefon?",
+          "es": "¿Dónde está tu teléfono?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Das weiße Telefon steht auf dem Tisch. Die grüne Jacke liegt neben der Hose.",
+          "es": "El teléfono blanco está encima de la mesa. La chaqueta verde está al lado del pantalón."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Und die Katze?",
+          "es": "¿Y el gato?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Katze liegt unter dem Sofa. Die weiße Lampe steht neben dem Regal, und der Fernseher steht auf dem Schrank.",
+          "es": "El gato está debajo del sofá. La lámpara blanca está al lado de la estantería y la televisión está encima del armario."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der neue Fernseher ist groß. Ist er teuer?",
+          "es": "La televisión nueva es grande. ¿Es cara?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, der große Fernseher ist teuer. Aber das rote Sofa ist bequem und nicht teuer.",
+          "es": "Sí, la televisión grande es cara. Pero el sofá rojo es cómodo y no es caro."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Musst du heute Deutsch lernen?",
+          "es": "¿Tienes que estudiar alemán hoy?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, ich muss heute Deutsch lernen. Morgen muss ich Mathe und Physik lernen.",
+          "es": "Sí, hoy tengo que estudiar alemán. Mañana tengo que estudiar matemáticas y física."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Musst du morgen auch arbeiten?",
+          "es": "¿También tienes que trabajar mañana?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nein, morgen muss ich nicht arbeiten. Meine Kollegin muss auch nicht arbeiten.",
+          "es": "No, mañana no tengo que trabajar. Mi compañera tampoco tiene que trabajar."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wo arbeitest du? Arbeitest du in Frankfurt?",
+          "es": "¿Dónde trabajas? ¿Trabajas en Fráncfort?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nein, ich arbeite in Hamburg. Meine Schwester arbeitet in Düsseldorf. Und wo arbeitest du?",
+          "es": "No, trabajo en Hamburgo. Mi hermana trabaja en Düsseldorf. ¿Y dónde trabajas tú?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich arbeite in Madrid. Ich arbeite viel, und mein Chef arbeitet auch sehr viel.",
+          "es": "Trabajo en Madrid. Trabajo mucho y mi jefe también trabaja muchísimo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sprichst du Spanisch?",
+          "es": "¿Hablas español?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, ich spreche Spanisch und Englisch. Ich spreche auch ein bisschen Deutsch, aber ich spreche kein Französisch.",
+          "es": "Sí, hablo español e inglés. También hablo un poco de alemán, pero no hablo francés."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Meine Nichte spricht Spanisch. Mein Onkel spricht Portugiesisch, und mein Neffe spricht ein bisschen Russisch.",
+          "es": "Mi sobrina habla español. Mi tío habla portugués y mi sobrino habla un poco de ruso."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Fliegst du oft nach Spanien?",
+          "es": "¿Vas a menudo a España en avión?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich fliege einmal im Jahr nach Spanien. Manchmal fliege ich nach Rom, und meine Kollegin fliegt oft nach Frankfurt.",
+          "es": "Voy una vez al año a España. A veces voy a Roma y mi compañera va a menudo a Fráncfort."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein Neffe fliegt dreimal im Jahr nach Moskau. Meine Nichte fliegt zweimal im Jahr nach Teneriffa.",
+          "es": "Mi sobrino va tres veces al año a Moscú. Mi sobrina va dos veces al año a Tenerife."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie interessant! Fliegst du manchmal nach München?",
+          "es": "¡Qué interesante! ¿Vas a veces a Múnich en avión?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, manchmal fliege ich nach München. Mein Bruder arbeitet dort, und ich gehe dann zu ihm.",
+          "es": "Sí, a veces voy a Múnich. Mi hermano trabaja allí y entonces voy a su casa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wann gehst du wieder zu ihm?",
+          "es": "¿Cuándo vuelves a ir a su casa?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich gehe am achten April zu ihm. Wir sehen uns am achten April in München.",
+          "es": "Voy a su casa el ocho de abril. Nos vemos el ocho de abril en Múnich."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sehr gut. Meine Cousine fliegt am neunten April auch nach München.",
+          "es": "Muy bien. Mi prima también va a Múnich el nueve de abril."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kommst du am zehnten Mai wieder zu mir?",
+          "es": "¿Vuelves a venir a mi casa el diez de mayo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, wir sehen uns am zehnten Mai. Meine Schwester kommt dann auch zu dir.",
+          "es": "Sí, nos vemos el diez de mayo. Mi hermana también irá entonces a tu casa."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sehr gut! Aber jetzt muss ich los. Ich muss zum Bahnhof und später zur Arbeit.",
+          "es": "¡Muy bien! Pero ahora me tengo que ir. Tengo que ir a la estación y más tarde al trabajo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Bitte warten! Ist die schwarze Jacke deine?",
+          "es": "¡Espera, por favor! ¿La chaqueta negra es tuya?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Nein, die schwarze Jacke ist nicht meine. Die grüne Jacke ist meine.",
+          "es": "No, la chaqueta negra no es mía. La chaqueta verde es mía."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hier ist die grüne Jacke. Und hier ist dein roter Kuli.",
+          "es": "Aquí está la chaqueta verde. Y aquí está tu boli rojo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sehr gut. Wir sehen uns am zehnten Mai. Mach's gut!",
+          "es": "Muy bien. Nos vemos el diez de mayo. ¡Que te vaya bien!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Mach's gut, Martin!",
+          "es": "¡Que te vaya bien, Martin!"
+        }
+      ]
+    }
+  ]
+}

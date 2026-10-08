@@ -1,15 +1,17 @@
 import { Link } from 'react-router-dom';
 import { getBooks } from '../utils/loadCards.js';
 import { getBookStats } from '../utils/progress.js';
+import LibraryTabs from './LibraryTabs.jsx';
 
 export default function BookList() {
   const books = getBooks();
 
   return (
     <main className="screen">
-      <header className="screen-header">
+      <header className="screen-header library-header">
         <h1>Tarjetas didácticas</h1>
         <p className="muted">Deutsch · Bücher</p>
+        <LibraryTabs />
       </header>
 
       {books.length === 0 ? (
