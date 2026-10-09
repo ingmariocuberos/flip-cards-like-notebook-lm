@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-11",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Treffen vor der Reise",
+      "subtitle": "Hábitos, comparaciones, transporte y una comida",
+      "description": "Lena y Martin se encuentran antes de viajar y conversan usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 11.",
+      "duration": "3:03",
+      "audioSrc": "/audio/buch-11-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Es ist zehn vor neun. Eine Cola, bitte.",
+          "es": "Son las nueve menos diez. Una cola, por favor."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich trinke zu viel Kaffee. Mein Chef trinkt viel zu viel Bier.",
+          "es": "Bebo demasiado café. Mi jefe bebe muchísimo alcohol."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich arbeite auch zu viel. Ich habe nicht genug Zeit und ich mache nicht genug Sport.",
+          "es": "Yo también trabajo demasiado. No tengo suficiente tiempo y no hago suficiente deporte."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich esse nicht genug Obst. Mein Sohn isst nicht genug Gemüse.",
+          "es": "No como suficiente fruta. Mi hijo no come suficientes verduras."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es gibt zu viel Verkehr in der Innenstadt. Es gibt auch zu viele Autos in der Stadt.",
+          "es": "Hay demasiado tráfico en el centro. También hay demasiados coches en la ciudad."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es gibt zu viel Lärm in meiner Straße. Da sind zu viele Leute im Laden.",
+          "es": "Hay demasiado ruido en mi calle. Hay demasiada gente en la tienda."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hast du genug Geld? Hast du wirklich genug Schuhe?",
+          "es": "¿Tienes suficiente dinero? ¿De verdad tienes suficientes zapatos?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe genug Schuhe. Ich brauche nicht mehr. Ich habe nicht genug Hemden.",
+          "es": "Tengo suficientes zapatos. No necesito más. No tengo suficientes camisas."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin jünger als meine Schwester. Meine Schwester ist intelligenter als mein Bruder.",
+          "es": "Soy más joven que mi hermana. Mi hermana es más inteligente que mi hermano."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin größer als mein Bruder. Meine Mutter ist sympathischer als meine Tante.",
+          "es": "Soy más alto que mi hermano. Mi madre es más simpática que mi tía."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ist dein neues Auto schneller als dein altes?",
+          "es": "¿Tu coche nuevo es más rápido que el anterior?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein Auto ist nicht langsamer als deins. Dein Auto ist nicht besser als meines.",
+          "es": "Mi coche no es más lento que el tuyo. Tu coche no es mejor que el mío."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Im Winter ist es kälter als im Sommer. In Spanien ist es wärmer als in Deutschland.",
+          "es": "En invierno hace más frío que en verano. En España hace más calor que en Alemania."
+        },
+        {
+          "speaker": "Martin",
+          "de": "In Deutschland gibt es nicht so viele Strände wie in Spanien.",
+          "es": "En Alemania no hay tantas playas como en España."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin besser im Tennis als du. Ich bin viel schlechter in Mathe als du.",
+          "es": "Soy mejor que tú jugando al tenis. Soy mucho peor que tú en matemáticas."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin besser im Singen als du. Meine Schwester ist viel besser im Schwimmen als ich.",
+          "es": "Canto mejor que tú. Mi hermana nada mucho mejor que yo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nimmst du heute den Zug?",
+          "es": "¿Tomas hoy el tren?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich nehme heute den Zug. Ich nehme nie den Bus.",
+          "es": "Hoy tomo el tren. Nunca tomo el autobús."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich nehme die U-Bahn, um in die Innenstadt zu fahren.",
+          "es": "Tomo el metro para ir al centro."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich nehme normalerweise ein Taxi, um zum Hotel zu fahren.",
+          "es": "Normalmente tomo un taxi para ir al hotel."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wir fahren oft in den Schwarzwald. Meine Eltern fahren immer in die Schweiz.",
+          "es": "Viajamos a menudo a la Selva Negra. Mis padres siempre viajan a Suiza."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich fahre immer nach Spanien. Ich gehe einmal die Woche auf den Markt.",
+          "es": "Siempre viajo a España. Voy al mercado una vez por semana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Was nimmst du? Als Vorspeise nehme ich einen Salat.",
+          "es": "¿Qué vas a tomar? De primero tomaré una ensalada."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Als Hauptgericht nehme ich ein Filet mit Pommes. Ich nehme einen Rotwein.",
+          "es": "Como plato principal tomaré un filete con patatas fritas. Tomaré un vino tinto."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich nehme das Rinderfilet und ein Mineralwasser. Und als Nachtisch?",
+          "es": "Tomaré el solomillo de ternera y un agua mineral. ¿Y de postre?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir nehmen als Nachtisch Eis. Hast du genug Soße? Möchtest du mehr?",
+          "es": "Tomaremos helado de postre. ¿Tienes suficiente salsa? ¿Quieres más?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe genug Soße. Ich brauche nicht mehr. Wir nehmen jedes Jahr Urlaub.",
+          "es": "Tengo suficiente salsa. No necesito más. Nos tomamos vacaciones todos los años."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir fahren ins Grüne. Pass auf dich auf.",
+          "es": "Vamos al campo. Cuídate."
+        }
+      ]
+    }
+  ]
+}
