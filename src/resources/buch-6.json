@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-6",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Treffen im Café in Heidelberg",
+      "subtitle": "Edad, profesión, lugares conocidos y gustos personales",
+      "description": "Lena y Martin se conocen en un café de Heidelberg y conversan usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 6.",
+      "duration": "2:53",
+      "audioSrc": "/audio/buch-6-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wie geht es Ihnen?",
+          "es": "¿Cómo está usted?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin 32 Jahre alt. Ich bin Ingenieur. Was sind Sie von Beruf?",
+          "es": "Tengo 32 años y soy ingeniero. ¿A qué se dedica usted?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin 30 Jahre alt. Ich bin Ärztin.",
+          "es": "Tengo 30 años. Soy médica."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sind Sie Deutsche?",
+          "es": "¿Es usted alemana?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin Spanierin. Meine Mutter ist Deutsche. Sind Sie Italiener?",
+          "es": "Soy española. Mi madre es alemana. ¿Es usted italiano?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin Italiener. Mein Vater ist Deutscher.",
+          "es": "Soy italiano. Mi padre es alemán."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie alt ist Ihr Vater?",
+          "es": "¿Cuántos años tiene su padre?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein Vater ist vierundsiebzig Jahre alt. Meine Mutter ist fünfzig Jahre alt.",
+          "es": "Mi padre tiene 74 años. Mi madre tiene 50 años."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie alt sind Ihre Kinder? Was ist Ihre Tochter von Beruf?",
+          "es": "¿Cuántos años tienen sus hijos? ¿A qué se dedica su hija?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine Tochter ist zwanzig Jahre alt. Sie ist Studentin. Mein Sohn ist achtundzwanzig Jahre alt. Er ist Lehrer.",
+          "es": "Mi hija tiene 20 años y es estudiante. Mi hijo tiene 28 años y es profesor."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Meine Schwester ist Krankenschwester. Meine Schwägerin ist Anwältin.",
+          "es": "Mi hermana es enfermera. Mi cuñada es abogada."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kennen Sie Heidelberg?",
+          "es": "¿Conoce Heidelberg?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, ich kenne Heidelberg. Ich kenne das Heidelberger Schloß. Ich kenne den Biergarten.",
+          "es": "Sí, conozco Heidelberg. Conozco el castillo de Heidelberg y el jardín de la cerveza."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kennen Sie ein nettes Café in der Nähe?",
+          "es": "¿Conoce un café agradable cerca?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, ich kenne das Café. Ich kenne auch einen guten Italiener in der Nähe.",
+          "es": "Sí, conozco el café. También conozco un buen restaurante italiano cerca."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kennen Sie die neue Kneipe? Kennen Sie den neuen Club?",
+          "es": "¿Conoce el nuevo bar de barrio y la nueva discoteca?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nein, ich kenne sie nicht. Ich kenne keine Bar in der Nähe.",
+          "es": "No, no los conozco. No conozco ningún bar cerca."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne eine tolle Bar. Ich kenne ein gutes Restaurant. Ich kenne auch einen guten Zahnarzt.",
+          "es": "Conozco un bar estupendo y un buen restaurante. También conozco un buen dentista."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist halb zwölf. Einen Kaffee, bitte. Schwarzwälder Kirschtorte, bitte.",
+          "es": "Son las once y media. Un café y tarta de la Selva Negra, por favor."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mögen Sie Kaffee? Mögen Sie Schokolade?",
+          "es": "¿Le gustan el café y el chocolate?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, ich mag Kaffee. Ich mag Schokolade. Ich mag keine Milch. Mögen Sie Weißbier?",
+          "es": "Sí, me gustan el café y el chocolate. No me gusta la leche. ¿Le gusta la cerveza de trigo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich mag Bier. Ich mag Weißbier. Ich mag keinen Rotwein. Ich mag keine Leberwurst.",
+          "es": "Me gustan la cerveza y la cerveza de trigo. No me gustan el vino tinto ni el paté de hígado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich auch nicht. Mögen Sie Schnitzel? Mögen Sie Kartoffeln? Mögen Sie Sauerkraut?",
+          "es": "A mí tampoco. ¿Le gustan el escalope, las patatas y el chucrut?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, ich mag Schnitzel sehr. Ich mag Kartoffeln sehr. Ich mag auch Sauerkraut. Ich mag Schwarzbrot.",
+          "es": "Sí, me gustan mucho el escalope y las patatas. También me gustan el chucrut y el pan negro."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kennen Sie Thomas? Er mag Pizza. Er mag Nudeln. Er mag Tomaten.",
+          "es": "¿Conoce a Thomas? A él le gustan la pizza, la pasta y los tomates."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, ich kenne ihn. Ich mag ihn sehr. Kennt Thomas Isabel?",
+          "es": "Sí, lo conozco y me cae muy bien. ¿Thomas conoce a Isabel?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nein, er kennt sie nicht. Isabel mag kein Fleisch. Sie mag Obst. Sie mag Gemüse.",
+          "es": "No, él no la conoce. A Isabel no le gusta la carne. Le gustan la fruta y la verdura."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir sehen uns am achtzehnten August. Viel Spaß!",
+          "es": "Nos vemos el 18 de agosto. ¡Que lo pase bien!"
+        }
+      ]
+    }
+  ]
+}
