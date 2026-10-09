@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-12",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Treffen im Hotel",
+      "subtitle": "Salud, clima, comparaciones y una excursión",
+      "description": "Lena y Martin conversan en un hotel antes de viajar usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 12.",
+      "duration": "2:59",
+      "audioSrc": "/audio/buch-12-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wie geht's? Alles klar bei dir?",
+          "es": "¿Cómo estás? ¿Todo bien?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mir geht's nicht so gut. Ich bin etwas müde, aber sonst geht's mir gut.",
+          "es": "No estoy muy bien. Estoy algo cansado, pero por lo demás estoy bien."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ist dir kalt? Möchtest du meinen Mantel?",
+          "es": "¿Tienes frío? ¿Quieres mi abrigo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mir ist etwas kalt. Kann ich das Fenster zumachen? Soll ich die Heizung anmachen?",
+          "es": "Tengo un poco de frío. ¿Puedo cerrar la ventana? ¿Enciendo la calefacción?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist elf Grad draußen. Es ist ganz schön kalt. Sollen wir die Heizung anmachen?",
+          "es": "Fuera hay once grados. Hace bastante frío. ¿Encendemos la calefacción?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es ist fünf vor neun. Geht's deiner Schwester besser?",
+          "es": "Son las nueve menos cinco. ¿Está mejor tu hermana?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, es geht ihr schon viel besser. Sie reist mit unserem neueren Auto.",
+          "es": "Sí, ya está mucho mejor. Viaja en nuestro coche más nuevo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich fahre mit einem früheren Zug zur Arbeit. Wir fahren mit einem späteren Bus nach Hause als du.",
+          "es": "Yo voy al trabajo en un tren más temprano. Nosotros volvemos a casa en un autobús más tarde que tú."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich fahre immer mit meinem älteren Bruder in den Urlaub. Gute Reise!",
+          "es": "Siempre viajo de vacaciones con mi hermano mayor. ¡Buen viaje!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich brauche eine wärmere Jacke, weil die alte zu kalt ist.",
+          "es": "Necesito una chaqueta más abrigada porque la vieja es demasiado fría."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich brauche einen stärkeren Kaffee, weil dieser Kaffee zu schwach ist.",
+          "es": "Necesito un café más fuerte porque este café está demasiado flojo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich sitze auf einem bequemeren Stuhl als du. Möchtest du ein bequemeres Sofa?",
+          "es": "Estoy sentado en una silla más cómoda que tú. ¿Quieres un sofá más cómodo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich wohne in einem besseren Hotel als du. Das ist nicht das schlechteste Hotel der Welt.",
+          "es": "Me alojo en un hotel mejor que tú. Este no es el peor hotel del mundo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welche Straße ist die Schönste? Welches Viertel ist das Lauteste?",
+          "es": "¿Qué calle es la más bonita? ¿Qué barrio es el más ruidoso?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Freiburg ist die schönste Stadt Deutschlands. Meine Straße ist die Kürzeste in meinem Viertel.",
+          "es": "Friburgo es la ciudad más bonita de Alemania. Mi calle es la más corta de mi barrio."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welche Brücke ist die längste Brücke Europas? Welcher Berg ist der höchste Berg Deutschlands?",
+          "es": "¿Qué puente es el más largo de Europa? ¿Qué montaña es la más alta de Alemania?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Vasco da Gama Brücke ist die längste Brücke Europas. Die Zugspitze ist der höchste Berg Deutschlands.",
+          "es": "El puente Vasco da Gama es el puente más largo de Europa. El Zugspitze es la montaña más alta de Alemania."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welches Land ist das reichste Land Europas?",
+          "es": "¿Qué país es el más rico de Europa?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Norwegen ist das reichste Land Europas. Moldawien ist das ärmste Land Europas.",
+          "es": "Noruega es el país más rico de Europa. Moldavia es el país más pobre de Europa."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der Amazonas ist nicht nur der längste, sondern auch der breiteste Fluss der Welt.",
+          "es": "El Amazonas no solo es el río más largo, sino también el más ancho del mundo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wer ist der Beste in deinem Kurs? Wer ist der Schlechteste in Mathe?",
+          "es": "¿Quién es el mejor de tu curso? ¿Quién es el peor en matemáticas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin der Beste in meinem Kurs, aber der Schlechteste in Geschichte.",
+          "es": "Soy el mejor de mi curso, pero el peor en historia."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wer ist die Jüngste in deiner Familie? Wer ist der Reichste?",
+          "es": "¿Quién es la más joven de tu familia? ¿Quién es el más rico?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine Enkelin ist die Jüngste in meiner Familie. Mein Onkel ist der Reichste.",
+          "es": "Mi nieta es la más joven de mi familia. Mi tío es el más rico."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Geht's dir schon besser? Ist dir kalt?",
+          "es": "¿Ya te encuentras mejor? ¿Tienes frío?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es geht mir schon viel besser. Mir ist nicht mehr kalt.",
+          "es": "Ya estoy mucho mejor. Ya no tengo frío."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Guten Appetit! Bei uns ist alles klar.",
+          "es": "¡Buen provecho! Por nuestra parte, todo está bien."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Danke. Gute Reise und bis morgen!",
+          "es": "Gracias. ¡Buen viaje y hasta mañana!"
+        }
+      ]
+    }
+  ]
+}
