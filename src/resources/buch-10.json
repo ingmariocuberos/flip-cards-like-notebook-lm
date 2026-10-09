@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-10",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Besuch im November",
+      "subtitle": "Una llamada, regalos, comparaciones y planes de viaje",
+      "description": "Lena y Martin organizan una visita y comentan sus planes usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 10.",
+      "duration": "2:52",
+      "audioSrc": "/audio/buch-10-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mich hören? Hörst du mich gut?",
+          "es": "¿Puedes oírme? ¿Me oyes bien?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kann dich nicht gut hören. Mein Internet ist nicht schnell genug.",
+          "es": "No puedo oírte bien. Mi conexión a internet no es lo bastante rápida."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie bitte? Kannst du mich jetzt verstehen?",
+          "es": "¿Cómo? ¿Puedes entenderme ahora?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kann dich jetzt gut verstehen. Wann kommst du mich besuchen?",
+          "es": "Ahora puedo entenderte bien. ¿Cuándo vienes a visitarme?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gehe dich im November besuchen. Kann ich dich heute Abend anrufen?",
+          "es": "Voy a visitarte en noviembre. ¿Puedo llamarte esta noche?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es ist zu spät, um heute Abend anzurufen. Ich rufe dich morgen an.",
+          "es": "Es demasiado tarde para llamar esta noche. Te llamo mañana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Brief ist für mich? Ist das Geschenk auch für mich?",
+          "es": "¿La carta es para mí? ¿El regalo también es para mí?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, der Brief ist für dich. Das Geschenk ist auch für dich.",
+          "es": "Sí, la carta es para ti. El regalo también es para ti."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Echt? Sind die Blumen für mich?",
+          "es": "¿De verdad? ¿Las flores son para mí?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ja, sie sind für dich. Ich besuche dich bald.",
+          "es": "Sí, son para ti. Voy a visitarte pronto."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe mehr Zeit als du. Ich habe auch mehr Freizeit als meine Schwester.",
+          "es": "Tengo más tiempo que tú. También tengo más tiempo libre que mi hermana."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe weniger Freizeit als du. Mein Assistent hat weniger Zeit als deiner.",
+          "es": "Tengo menos tiempo libre que tú. Mi asistente tiene menos tiempo que el tuyo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Meine Freundin hat mehr Kleidung als deine. Sie hat auch mehr Schuhe als ihr Mann.",
+          "es": "Mi amiga tiene más ropa que la tuya. También tiene más zapatos que su marido."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hier gibt es mehr Restaurants als Bars. Es gibt mehr Cafés als Restaurants.",
+          "es": "Aquí hay más restaurantes que bares. Hay más cafés que restaurantes."
+        },
+        {
+          "speaker": "Lena",
+          "de": "In München gibt es mehr Restaurants als Cafés. In Bonn gibt es weniger Touristen als in Rom.",
+          "es": "En Múnich hay más restaurantes que cafés. En Bonn hay menos turistas que en Roma."
+        },
+        {
+          "speaker": "Martin",
+          "de": "In Deutschland gibt es mehr Wälder als Strände. In Spanien gibt es weniger Berge als Strände.",
+          "es": "En Alemania hay más bosques que playas. En España hay menos montañas que playas."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ärzte verdienen mehr als Krankenschwestern. Ein Anwalt verdient weniger als ein Ingenieur.",
+          "es": "Los médicos ganan más que las enfermeras. Un abogado gana menos que un ingeniero."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Echt? Lehrer verdienen mehr als Busfahrer.",
+          "es": "¿De verdad? Los profesores ganan más que los conductores de autobús."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Kaffee ist zu heiß zum Trinken. Die Kartoffeln sind auch zu salzig.",
+          "es": "El café está demasiado caliente para beberlo. Las patatas también están demasiado saladas."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein Kaffee ist nicht stark genug. Das Brot ist nicht weich genug zum Essen.",
+          "es": "Mi café no está lo bastante fuerte. El pan no está lo bastante blando para comerlo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Kuchen ist zu heiß, um ihn zu essen. Die Limonade ist zu kalt, um sie zu trinken.",
+          "es": "El pastel está demasiado caliente para comerlo. La limonada está demasiado fría para beberla."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Diese Aufgabe ist zu einfach. Diese Anleitung ist nicht einfach genug zum Verstehen.",
+          "es": "Esta tarea es demasiado fácil. Estas instrucciones no son lo bastante fáciles de entender."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Koffer ist zu schwer, um ihn zu tragen. Die Tasche ist auch zu schwer.",
+          "es": "La maleta pesa demasiado para llevarla. El bolso también pesa demasiado."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Diese Koffer sind nicht leicht genug. Diese Männer sind nicht stark genug.",
+          "es": "Estas maletas no son lo bastante ligeras. Estos hombres no son lo bastante fuertes."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Das ist mir zu schwierig. Kannst du mich morgen Abend anrufen?",
+          "es": "Eso es demasiado difícil para mí. ¿Puedes llamarme mañana por la noche?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich rufe dich morgen Abend an. Ich besuche dich im November.",
+          "es": "Te llamo mañana por la noche. Te visito en noviembre."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist viertel vor zehn. Du rufst mich selten an.",
+          "es": "Son las diez menos cuarto. Me llamas pocas veces."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich rufe dich gleich an. Ich hab dich lieb.",
+          "es": "Te llamo enseguida. Te quiero."
+        }
+      ]
+    }
+  ]
+}
