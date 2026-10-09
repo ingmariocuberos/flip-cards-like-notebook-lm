@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-8",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Telefongespräch am Wochenende",
+      "subtitle": "Actividades del momento, rutinas y relaciones familiares",
+      "description": "Lena y Martin hablan por teléfono sobre lo que hacen y sus costumbres usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 8.",
+      "duration": "2:46",
+      "audioSrc": "/audio/buch-8-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Was machst du gerade?",
+          "es": "¿Qué estás haciendo ahora mismo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich koche gerade. Ich mache gerade Lachs.",
+          "es": "Estoy cocinando. Estoy preparando salmón."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Was für einen Fisch machst du gerade?",
+          "es": "¿Qué tipo de pescado estás preparando?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich mache gerade Lachs. Ich höre auch gerade Musik. Und du?",
+          "es": "Estoy preparando salmón. También estoy escuchando música. ¿Y tú?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich putze gerade die Wohnung. Ich telefoniere gerade mit dir.",
+          "es": "Estoy limpiando el piso. Estoy hablando por teléfono contigo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welches Zimmer putzt du gerade?",
+          "es": "¿Qué habitación estás limpiando?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich putze gerade die Küche. Ich putze auch das Wohnzimmer.",
+          "es": "Estoy limpiando la cocina. También limpio el salón."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hörst du gerade klassische Musik? Welches Stück hörst du gerade?",
+          "es": "¿Estás escuchando música clásica? ¿Qué pieza estás escuchando?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich höre gerade Eine kleine Nachtmusik. Ich höre oft klassische Musik.",
+          "es": "Estoy escuchando Una pequeña serenata nocturna. Escucho música clásica a menudo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Lernst du oft am Wochenende?",
+          "es": "¿Estudias a menudo el fin de semana?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich lerne jeden Tag. Ich lerne meistens abends. Wie oft lernst du?",
+          "es": "Estudio todos los días. Normalmente estudio por la noche. ¿Con qué frecuencia estudias tú?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich lerne manchmal am Wochenende. Ich lerne nie donnerstags.",
+          "es": "A veces estudio el fin de semana. Nunca estudio los jueves."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie oft gehst du einkaufen?",
+          "es": "¿Con qué frecuencia vas de compras?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich gehe meistens mit meiner Freundin einkaufen. Wir gehen immer samstags einkaufen.",
+          "es": "Normalmente voy de compras con mi amiga. Siempre vamos de compras los sábados."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gehe oft mit meinem Freund einkaufen. Meine Schwester geht meistens mit ihren Freundinnen einkaufen.",
+          "es": "Voy de compras a menudo con mi amigo. Mi hermana suele ir de compras con sus amigas."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gehst du viel weg?",
+          "es": "¿Sales mucho?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gehe oft weg. Meine Freunde und ich gehen jedes Wochenende weg. Und du?",
+          "es": "Salgo a menudo. Mis amigos y yo salimos todos los fines de semana. ¿Y tú?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich gehe nicht oft weg. Ich stehe am Wochenende immer spät auf.",
+          "es": "No salgo a menudo. Los fines de semana siempre me levanto tarde."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie oft stehst du früh auf?",
+          "es": "¿Con qué frecuencia te levantas temprano?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich stehe meistens um 7 Uhr auf. Mein Vater steht immer um halb neun auf.",
+          "es": "Normalmente me levanto a las siete. Mi padre siempre se levanta a las ocho y media."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie oft rufst du deinen Vater an?",
+          "es": "¿Con qué frecuencia llamas a tu padre?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich rufe meinen Vater jeden Tag an. Ich spreche oft mit meiner Mutter.",
+          "es": "Llamo a mi padre todos los días. Hablo a menudo con mi madre."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich rufe meine Mutter einmal die Woche an. Ich telefoniere oft mit meinen Geschwistern.",
+          "es": "Llamo a mi madre una vez por semana. Hablo a menudo por teléfono con mis hermanos."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine Schwiegermutter telefoniert jeden Tag mit ihren Kindern.",
+          "es": "Mi suegra habla por teléfono todos los días con sus hijos."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie oft gehst du essen?",
+          "es": "¿Con qué frecuencia sales a comer?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir gehen dreimal im Monat essen. Ich gehe samstags mit meinem Freund essen.",
+          "es": "Salimos a comer tres veces al mes. Los sábados salgo a comer con mi amigo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wir sehen uns am achtundzwanzigsten. Es ist fünf nach halb sieben.",
+          "es": "Nos vemos el día 28. Son las seis y treinta y cinco."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Tausend Dank! Bis gleich!",
+          "es": "¡Mil gracias! ¡Hasta ahora!"
+        }
+      ]
+    }
+  ]
+}
