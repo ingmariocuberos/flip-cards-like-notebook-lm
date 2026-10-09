@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-9",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Vor der Geburtstagsfeier",
+      "subtitle": "Compras, invitados y preparativos en casa",
+      "description": "Lena y Martin preparan una celebración usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 9.",
+      "duration": "2:47",
+      "audioSrc": "/audio/buch-9-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wieviel Uhr ist es?",
+          "es": "¿Qué hora es?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es ist zwanzig vor sieben. Mein Geburtstag ist am sechsundzwanzigsten Juli.",
+          "es": "Son las siete menos veinte. Mi cumpleaños es el 26 de julio."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Möchtest du etwas zu essen? Möchtest du etwas zu trinken?",
+          "es": "¿Quieres algo de comer? ¿Quieres algo de beber?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich möchte einen Kaffee und ein Croissant. Ich möchte auch etwas Mineralwasser.",
+          "es": "Quiero un café y un cruasán. También quiero un poco de agua mineral."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Möchtest du etwas Milch? Möchtest du etwas Zucker?",
+          "es": "¿Quieres un poco de leche? ¿Quieres un poco de azúcar?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich möchte etwas Milch. Ich möchte etwas Süßstoff.",
+          "es": "Quiero un poco de leche. Quiero un poco de edulcorante."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Könnte ich ein Stück Kuchen haben?",
+          "es": "¿Podría tomar un trozo de pastel?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Möchtest du auch Kekse? Möchtest du Pralinen?",
+          "es": "¿Quieres también galletas? ¿Quieres bombones?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich möchte einhundert Gramm Pralinen. Kann ich ein paar Orangen haben?",
+          "es": "Quiero cien gramos de bombones. ¿Puedo tomar unas naranjas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir möchten auch ein Kilo Kartoffeln, zwei Kilo Zwiebeln und fünfhundert Gramm Käse.",
+          "es": "También queremos un kilo de patatas, dos kilos de cebollas y quinientos gramos de queso."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie ist deine neue Mitbewohnerin?",
+          "es": "¿Cómo es tu nueva compañera de piso?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine neue Mitbewohnerin ist sehr schüchtern und sehr ordentlich. Sie ist mir sympathisch.",
+          "es": "Mi nueva compañera de piso es muy tímida y muy ordenada. Me cae bien."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie sieht sie aus?",
+          "es": "¿Qué aspecto tiene?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sie ist schlank und rothaarig. Sie hat lange Haare und braune Augen.",
+          "es": "Es delgada y pelirroja. Tiene el pelo largo y los ojos marrones."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie sind deine neuen Nachbarn?",
+          "es": "¿Cómo son tus nuevos vecinos?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine neuen Nachbarn sind höflich und sehr nett. Mein neuer Nachbar ist sehr witzig.",
+          "es": "Mis nuevos vecinos son educados y muy simpáticos. Mi nuevo vecino es muy gracioso."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie sieht deine neue Kollegin aus?",
+          "es": "¿Qué aspecto tiene tu nueva compañera?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine Kollegin ist hübsch. Sie hat kurze Haare und grüne Augen.",
+          "es": "Mi compañera es guapa. Tiene el pelo corto y los ojos verdes."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Du siehst heute müde aus. Möchtest du eine heiße Schokolade?",
+          "es": "Hoy pareces cansado. ¿Quieres un chocolate caliente?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich möchte eine heiße Schokolade. Kannst du das Fenster aufmachen?",
+          "es": "Quiero un chocolate caliente. ¿Puedes abrir la ventana?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Soll ich auch die Balkontür aufmachen?",
+          "es": "¿Abro también la puerta del balcón?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mach die Balkontür auf. Mach auch das Licht an.",
+          "es": "Abre la puerta del balcón. Enciende también la luz."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sollen wir die Musik anmachen?",
+          "es": "¿Ponemos música?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mach die Musik an. Kannst du auch die Heizung ausmachen?",
+          "es": "Pon la música. ¿Puedes apagar también la calefacción?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Soll ich den Fernseher ausmachen? Soll ich das Radio ausmachen?",
+          "es": "¿Apago el televisor? ¿Apago la radio?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mach den Fernseher aus. Kannst du die Haustür aufmachen?",
+          "es": "Apaga el televisor. ¿Puedes abrir la puerta de entrada?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Meine neuen Nachbarn sind sehr nett. Soll ich die Tür aufmachen?",
+          "es": "Mis nuevos vecinos son muy simpáticos. ¿Abro la puerta?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mach die Tür auf. Prost! Auf Wiedersehen!",
+          "es": "Abre la puerta. ¡Salud! ¡Hasta luego!"
+        }
+      ]
+    }
+  ]
+}
