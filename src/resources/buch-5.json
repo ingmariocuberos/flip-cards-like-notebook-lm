@@ -1,0 +1,146 @@
+{
+  "bookId": "willkommen-vaughan-5",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Treffen am zwölften Mai",
+      "subtitle": "Maletas, lugares, amistades, idiomas y viajes",
+      "description": "Lena y Martin organizan un encuentro usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 5.",
+      "duration": "2:44",
+      "audioSrc": "/audio/buch-5-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wie geht's?",
+          "es": "¿Qué tal?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gut! Heute ist der zwölfte Mai, und es ist zwanzig nach zehn.",
+          "es": "¡Bien! Hoy es doce de mayo y son las diez y veinte."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sehr gut. Ein Freund von uns und eine Freundin von uns sind heute hier.",
+          "es": "Muy bien. Un amigo nuestro y una amiga nuestra están hoy aquí."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Bitteschön! Die kleinen Koffer stehen vor der Tür und die großen Koffer stehen vor dem Laden.",
+          "es": "¡Aquí tienes! Las maletas pequeñas están delante de la puerta y las grandes, delante de la tienda."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Zum Flughafen, bitte! Gibt es hier einen Flughafen in der Nähe?",
+          "es": "¡Al aeropuerto, por favor! ¿Hay aquí un aeropuerto cerca?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es gibt einen kleinen Flughafen in Basel. Es gibt auch einen Bahnhof in der Nähe.",
+          "es": "Hay un aeropuerto pequeño en Basilea. También hay una estación cerca."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Gibt es auch ein Museum?",
+          "es": "¿También hay un museo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es gibt ein Kunstmuseum. Es gibt auch das Festspielhaus und das Kunsthaus Bregenz.",
+          "es": "Hay un museo de arte. También están el Palacio de Festivales y el Kunsthaus Bregenz."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sehr schön. Eine Freundin von mir kommt aus Burgos und spricht fließend Französisch.",
+          "es": "Muy bien. Una amiga mía viene de Burgos y habla francés con fluidez."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ein Freund von mir kommt aus Italien. Er wohnt und arbeitet in Schweden.",
+          "es": "Un amigo mío viene de Italia. Vive y trabaja en Suecia."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ein Bekannter von mir wohnt in Dänemark. Er spielt sehr gut Saxofon.",
+          "es": "Un conocido mío vive en Dinamarca. Toca muy bien el saxofón."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Eine Freundin von uns spielt Cello, und ein Freund von uns spielt gut Klavier.",
+          "es": "Una amiga nuestra toca el chelo y un amigo nuestro toca bien el piano."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Eine Kollegin von uns spielt sehr gut Trompete.",
+          "es": "Una compañera nuestra toca muy bien la trompeta."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Und ein Kollege von ihr kann sehr gut Tennis spielen.",
+          "es": "Y un compañero suyo sabe jugar muy bien al tenis."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Eine Freundin von uns fliegt zweimal im Monat nach Neuseeland.",
+          "es": "Una amiga nuestra vuela dos veces al mes a Nueva Zelanda."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ein Freund von ihm fährt oft nach Stuttgart, oder?",
+          "es": "Un amigo suyo va a menudo a Stuttgart, ¿verdad?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ein Bekannter von ihm fliegt zweimal im Jahr nach Afrika.",
+          "es": "Un conocido suyo vuela dos veces al año a África."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ein Freund von uns hat einen Porsche, aber ein Kollege von uns hat einen Goldfisch.",
+          "es": "Un amigo nuestro tiene un Porsche, pero un compañero nuestro tiene un pez dorado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Eine Bekannte von uns hat ein Pferd. Eine Kollegin von ihr hat vier Kinder.",
+          "es": "Una conocida nuestra tiene un caballo. Una compañera suya tiene cuatro hijos."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ein Bekannter von ihm hat sechs Katzen. Kleine Katzen sind sehr süß.",
+          "es": "Un conocido suyo tiene seis gatos. Los gatos pequeños son muy monos."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Aber kleine Kinder sind süß und laut.",
+          "es": "Pero los niños pequeños son monos y ruidosos."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Diese Leute sind nett, aber auch laut.",
+          "es": "Esta gente es simpática, pero también ruidosa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist zwanzig nach elf. Wo gibt es hier ein Hotel?",
+          "es": "Son las once y veinte. ¿Dónde hay aquí un hotel?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das Hotel ist vor dem Park. Die schwarzen Autos stehen vor dem Hotel.",
+          "es": "El hotel está delante del parque. Los coches negros están delante del hotel."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sehr gut. Wir sehen uns am zwölften Mai.",
+          "es": "Muy bien. Nos vemos el doce de mayo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der frühe Vogel fängt den Wurm!",
+          "es": "¡A quien madruga, Dios le ayuda!"
+        }
+      ]
+    }
+  ]
+}
