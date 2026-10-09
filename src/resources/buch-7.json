@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-7",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Treffen im Café im Park",
+      "subtitle": "Lugares, actividades favoritas y preparación de una mesa",
+      "description": "Lena y Martin preparan un encuentro en un café usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 7.",
+      "duration": "2:50",
+      "audioSrc": "/audio/buch-7-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Entschuldigen Sie! Wo ist das Café?",
+          "es": "¡Disculpe! ¿Dónde está el café?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das Café ist im Park. Der Park ist hinter dem Hauptbahnhof.",
+          "es": "El café está en el parque. El parque está detrás de la estación central."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Vielen Dank! Ist die Bäckerei auch im Park?",
+          "es": "¡Muchas gracias! ¿La panadería también está en el parque?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Bäckerei ist im Bahnhof. Da ist auch eine Apotheke im Bahnhof.",
+          "es": "La panadería está en la estación. Allí también hay una farmacia."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Und das Einkaufszentrum? Ist es in der Innenstadt?",
+          "es": "¿Y el centro comercial? ¿Está en el centro?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das Einkaufszentrum ist in der Innenstadt. Der Supermarkt ist im Kaufhaus.",
+          "es": "El centro comercial está en el centro. El supermercado está en los grandes almacenes."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist fünf vor halb fünf. Heute ist der einundzwanzigste August.",
+          "es": "Son las cuatro y veinticinco. Hoy es 21 de agosto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Stellen Sie den Becher hier hin. Stellen Sie das Glas auf den Tisch.",
+          "es": "Ponga la taza aquí. Ponga el vaso sobre la mesa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kein Problem! Wo ist die Vase?",
+          "es": "¡No hay problema! ¿Dónde está el florero?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Vase steht auf dem Regal. Stellen Sie sie auf den Tisch.",
+          "es": "El florero está sobre la estantería. Póngalo sobre la mesa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Und der Blumenstrauß? Wo ist er?",
+          "es": "¿Y el ramo de flores? ¿Dónde está?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Er liegt auf dem Esstisch. Legen Sie ihn hier hin.",
+          "es": "Está sobre la mesa del comedor. Póngalo aquí."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wo ist das Besteck? Liegt es auf der Serviette?",
+          "es": "¿Dónde están los cubiertos? ¿Están sobre la servilleta?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es liegt auf der Serviette. Legen Sie das Besteck auf den Tisch.",
+          "es": "Está sobre la servilleta. Ponga los cubiertos sobre la mesa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Flaschen stehen auf dem Küchentisch. Stellen Sie sie hier hin?",
+          "es": "Las botellas están sobre la mesa de la cocina. ¿Las pongo aquí?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Stellen Sie sie hier hin. Legen Sie auch die Serviette auf den Tisch.",
+          "es": "Póngalas aquí. Ponga también la servilleta sobre la mesa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Essen Sie gerne Schinken und Käse?",
+          "es": "¿Le gusta comer jamón y queso?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich esse gerne Schinken. Ich esse auch gerne Käse und Schwarzbrot.",
+          "es": "Me gusta comer jamón. También me gusta comer queso y pan negro."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Essen Sie gerne Salat? Essen Sie gerne Bratkartoffeln?",
+          "es": "¿Le gusta comer ensalada? ¿Le gusta comer patatas asadas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich esse gerne Salat. Ich esse nicht sehr gerne Bratkartoffeln. Und Sie?",
+          "es": "Me gusta comer ensalada. No me gusta mucho comer patatas asadas. ¿Y a usted?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich esse sehr gerne Obst. Ich esse nicht gerne Sauerkraut.",
+          "es": "Me gusta mucho comer fruta. No me gusta comer chucrut."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Trinken Sie gerne Mineralwasser? Trinken Sie gerne Orangensaft?",
+          "es": "¿Le gusta beber agua mineral o zumo de naranja?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich trinke gerne Mineralwasser. Ich trinke auch gerne Tee. Trinken Sie gerne Kaffee?",
+          "es": "Me gusta beber agua mineral. También me gusta el té. ¿Le gusta beber café?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich trinke nicht gerne Kaffee. Ich trinke sehr gerne Weißbier.",
+          "es": "No me gusta beber café. Me gusta mucho beber cerveza de trigo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Spielen Sie gerne Schach? Spielen Sie gerne Karten?",
+          "es": "¿Le gusta jugar al ajedrez o a las cartas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich spiele sehr gerne Schach. Mein Sohn spielt gerne Klavier. Spielen Sie gerne Tennis?",
+          "es": "Me gusta mucho jugar al ajedrez. A mi hijo le gusta tocar el piano. ¿Le gusta jugar al tenis?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich spiele gerne Tennis. Meine Tochter spielt gerne Cello.",
+          "es": "Me gusta jugar al tenis. A mi hija le gusta tocar el chelo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Vielen Dank! Wir sehen uns am dreiundzwanzigsten Februar.",
+          "es": "¡Muchas gracias! Nos vemos el 23 de febrero."
+        }
+      ]
+    }
+  ]
+}
