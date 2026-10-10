@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-13",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Eine Party bei Sauwetter",
+      "subtitle": "Salud, intereses, planes y ropa para la lluvia",
+      "description": "Lena y Martin organizan una fiesta y una salida cultural usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 13.",
+      "duration": "2:49",
+      "audioSrc": "/audio/buch-13-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wie fühlst du dich? Fühlst du dich gut?",
+          "es": "¿Cómo te sientes? ¿Te sientes bien?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich fühle mich nicht gut. Im Winter erkälte ich mich andauernd.",
+          "es": "No me siento bien. En invierno me resfrío constantemente."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Erkältest du dich oft im Winter? Ich erkälte mich nicht sehr oft.",
+          "es": "¿Te resfrías a menudo en invierno? Yo no me resfrío muy a menudo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich dusche mich meistens morgens. Wie oft duschst du dich?",
+          "es": "Normalmente me ducho por la mañana. ¿Con qué frecuencia te duchas?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Im Sommer dusche ich mich zweimal am Tag. Im Winter dusche ich mich einmal am Tag.",
+          "es": "En verano me ducho dos veces al día. En invierno me ducho una vez al día."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Interessierst du dich für moderne Kunst?",
+          "es": "¿Te interesa el arte moderno?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich interessiere mich sehr für Kunst und Literatur. Interessierst du dich dafür?",
+          "es": "Me interesan mucho el arte y la literatura. ¿A ti te interesa eso?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich interessiere mich für Fußball. Ich weiß fast nichts über moderne Kunst.",
+          "es": "Me interesa el fútbol. No sé casi nada sobre arte moderno."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ach was! Ich weiß fast alles darüber. Erinnerst du dich an die Party?",
+          "es": "¡Qué va! Yo sé casi todo sobre eso. ¿Te acuerdas de la fiesta?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kann mich nicht erinnern. Weißt du, um wieviel Uhr die Party ist?",
+          "es": "No puedo acordarme. ¿Sabes a qué hora es la fiesta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich weiß, um wieviel Uhr die Party ist. Es ist neun Uhr.",
+          "es": "Sé a qué hora es la fiesta. Es a las nueve."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Weißt du, ob Lara zur Party kommt?",
+          "es": "¿Sabes si Lara viene a la fiesta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe keine Ahnung, ob sie heute später kommt.",
+          "es": "No tengo ni idea de si hoy llegará más tarde."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Weißt du, wo das nächste Kino ist?",
+          "es": "¿Sabes dónde está el cine más cercano?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich weiß, wo es ein günstiges Kino gibt. Ich weiß auch, wo der nächste Supermarkt ist.",
+          "es": "Sé dónde hay un cine barato. También sé dónde está el supermercado más cercano."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Weißt du, was es heute zu essen gibt? Weißt du, ob sie eine Fischallergie hat?",
+          "es": "¿Sabes qué hay hoy de comer? ¿Sabes si ella tiene alergia al pescado?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich weiß es nicht. Ich weiß nicht, was sie gerne isst.",
+          "es": "No lo sé. No sé qué le gusta comer."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wie ist gerade das Wetter bei euch?",
+          "es": "¿Qué tiempo hace ahora donde estáis?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Heute ist Sauwetter. Es regnet gerade und es ist sehr windig.",
+          "es": "Hoy hace un tiempo horrible. Está lloviendo y hace mucho viento."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Was für ein Hundewetter! Nimm den Regenschirm mit und zieh die Regenjacke an.",
+          "es": "¡Qué tiempo de perros! Lleva el paraguas y ponte el impermeable."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich nehme den Regenschirm mit. Ich ziehe die Gummistiefel an.",
+          "es": "Llevo el paraguas. Me pongo las botas de agua."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warum ziehst du die Gummistiefel an?",
+          "es": "¿Por qué te pones las botas de agua?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich ziehe die Gummistiefel an, weil es regnet. Ich nehme auch meinen Hut mit.",
+          "es": "Me pongo las botas de agua porque llueve. También llevo mi sombrero."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Zieh den Wintermantel an und nimm die Handschuhe mit!",
+          "es": "¡Ponte el abrigo de invierno y lleva los guantes!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Warum ziehst du die Jacke aus? Es ist kalt draußen.",
+          "es": "¿Por qué te quitas la chaqueta? Fuera hace frío."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich ziehe die Jacke aus, weil mir heiß ist. Freust du dich für mich?",
+          "es": "Me quito la chaqueta porque tengo calor. ¿Te alegras por mí?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich freue mich für dich. Wir freuen uns. Danke!",
+          "es": "Me alegro por ti. Estamos contentos. ¡Gracias!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es ist viertel nach sieben. Gern geschehen!",
+          "es": "Son las siete y cuarto. ¡De nada!"
+        }
+      ]
+    }
+  ]
+}
