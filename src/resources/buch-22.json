@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-22",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Nach dem Betriebsfest",
+      "subtitle": "Un retraso, varios viajes y una cena después del trabajo",
+      "description": "Lena y Martin terminan la jornada y conversan sobre una fiesta de empresa, sus desplazamientos y viajes antes de cenar usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 22.",
+      "duration": "2:43",
+      "audioSrc": "/audio/buch-22-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Schönen Feierabend! Wo bist du gewesen?",
+          "es": "¡Feliz fin de jornada! ¿Dónde has estado?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin bis acht im Büro geblieben. Ich bin lange da geblieben.",
+          "es": "Me quedé en la oficina hasta las ocho. Me quedé allí bastante tiempo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Warum bist du so lange geblieben?",
+          "es": "¿Por qué te quedaste tanto tiempo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin im Büro geblieben, weil ich krank war. Danach bin ich nach Hause gegangen.",
+          "es": "Me quedé en la oficina porque estaba enfermo. Después me fui a casa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Bist du nicht zum Betriebsfest gegangen?",
+          "es": "¿No fuiste a la fiesta de empresa?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin nicht zum Betriebsfest gegangen. Ich bin gestern nicht dabei gewesen.",
+          "es": "No fui a la fiesta de empresa. Ayer no estuve presente."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin gestern beim Betriebsfest gewesen. Wir sind bis zum Schluss geblieben.",
+          "es": "Ayer estuve en la fiesta de empresa. Nos quedamos hasta el final."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wann bist du nach Hause gekommen? Wohin bist du danach gefahren?",
+          "es": "¿Cuándo volviste a casa? ¿Adónde fuiste después?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin nach der Feier mit der Straßenbahn nach Hause gefahren. Ich bin zu spät gekommen.",
+          "es": "Después de la celebración volví a casa en tranvía. Llegué tarde."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warum bist du so spät gekommen?",
+          "es": "¿Por qué llegaste tan tarde?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Zug ist noch nicht gekommen. Ich bin nicht mit dem Bus gefahren.",
+          "es": "El tren todavía no había llegado. No fui en autobús."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Bist du schon mal mit einem ICE gefahren?",
+          "es": "¿Has viajado alguna vez en un ICE?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin mit dem ICE gefahren. Ich bin letzte Woche nach Berlin gefahren.",
+          "es": "He viajado en ICE. La semana pasada fui a Berlín."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wohin bist du in den Urlaub gefahren?",
+          "es": "¿Adónde fuiste de vacaciones?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin vor einem Monat in den Urlaub gefahren. Ich bin schon mal in der Schweiz gewesen.",
+          "es": "Me fui de vacaciones hace un mes. Ya he estado alguna vez en Suiza."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin noch nie ins Ausland gefahren. Ich bin noch nie in Italien gewesen.",
+          "es": "Nunca he viajado al extranjero. Nunca he estado en Italia."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Bist du schon mal in einem See baden gegangen?",
+          "es": "¿Has ido alguna vez a bañarte a un lago?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin noch nie in einen Vergnügungspark gegangen. Ich bin oft in den Zoo gegangen.",
+          "es": "Nunca he ido a un parque de atracciones. Iba a menudo al zoológico."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie lange bist du auf der Geburtstagsfeier geblieben?",
+          "es": "¿Cuánto tiempo te quedaste en la fiesta de cumpleaños?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin nicht lange auf der Feier geblieben. Ich bin nicht bis zum Schluss geblieben.",
+          "es": "No me quedé mucho tiempo en la fiesta. No me quedé hasta el final."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Guten Tag! Ein Tisch für zwei, bitte. Können wir uns draußen hinsetzen?",
+          "es": "¡Buenas tardes! Una mesa para dos, por favor. ¿Podemos sentarnos fuera?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Selbstverständlich! Können wir die Karte haben?",
+          "es": "¡Por supuesto! ¿Nos puede traer la carta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich möchte ein Bier. Für mich ein Glas Rotwein.",
+          "es": "Quiero una cerveza. Para mí, una copa de vino tinto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gerne, kommt sofort! Bist du schon mal hier gewesen?",
+          "es": "¡Claro, viene enseguida! ¿Ya habías estado aquí alguna vez?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin schon mal hier gewesen. Ich habe im Schaufenster Schuhe gesehen, die mir gefallen.",
+          "es": "Ya había estado aquí. Vi en el escaparate unos zapatos que me gustan."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich suche schwarze Schuhe. Es sind die da, die neben den roten.",
+          "es": "Busco zapatos negros. Son aquellos, los que están junto a los rojos."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kann ich sie anprobieren? Ich habe Schuhgröße 43.",
+          "es": "¿Puedo probármelos? Calzo un cuarenta y tres."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das ist Spitze! Hier ist meine Karte.",
+          "es": "¡Eso es genial! Aquí tiene mi tarjeta."
+        }
+      ]
+    }
+  ]
+}
