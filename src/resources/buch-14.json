@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-14",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Nach der Geburtstagsparty",
+      "subtitle": "Lo que ocurrió ayer, una lesión y planes futuros",
+      "description": "Lena y Martin hablan de una fiesta, una visita médica y sus próximos planes usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 14.",
+      "duration": "2:49",
+      "audioSrc": "/audio/buch-14-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wo warst du gestern? Warst du gestern Abend auf der Party?",
+          "es": "¿Dónde estuviste ayer? ¿Estuviste anoche en la fiesta?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich war gestern auf einem Fest. Die Party war super.",
+          "es": "Ayer estuve en una celebración. La fiesta estuvo genial."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich war gestern Abend auf einem Konzert. Das Konzert war nicht so toll.",
+          "es": "Anoche estuve en un concierto. El concierto no estuvo tan bien."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warst du gestern bei deinem Freund?",
+          "es": "¿Estuviste ayer en casa de tu amigo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich war gestern bei meiner Großmutter. Letzte Woche war ich bei meiner Tante.",
+          "es": "Ayer estuve en casa de mi abuela. La semana pasada estuve en casa de mi tía."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warst du letzte Woche im Urlaub?",
+          "es": "¿Estuviste de vacaciones la semana pasada?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich war letzte Woche nicht im Urlaub. Letztes Jahr war ich in Norwegen.",
+          "es": "La semana pasada no estuve de vacaciones. El año pasado estuve en Noruega."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich war letztes Jahr zweimal im Urlaub. Gestern war ich beim Arzt.",
+          "es": "El año pasado estuve de vacaciones dos veces. Ayer fui al médico."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Warst du krank? Tut dir etwas weh?",
+          "es": "¿Estabas enfermo? ¿Te duele algo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein Rücken tut mir weh. Ich habe Kopfschmerzen und Halsschmerzen.",
+          "es": "Me duele la espalda. Tengo dolor de cabeza y de garganta."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Was genau tut dir weh? Welches Bein tut dir weh?",
+          "es": "¿Qué te duele exactamente? ¿Qué pierna te duele?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mein linkes Bein tut mir sehr weh. Mein rechter Fuß ist auch verletzt.",
+          "es": "Me duele mucho la pierna izquierda. También tengo lesionado el pie derecho."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Tut dir die linke oder die rechte Schulter weh?",
+          "es": "¿Te duele el hombro izquierdo o el derecho?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine linke Schulter ist verletzt. Meine Augen tun mir auch weh.",
+          "es": "Tengo lesionado el hombro izquierdo. También me duelen los ojos."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde morgen zum Arzt gehen. Wirst du auch da sein?",
+          "es": "Mañana iré al médico. ¿Tú también estarás allí?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde morgen zuhause sein. Ich werde nächste Woche zum Arzt gehen.",
+          "es": "Mañana estaré en casa. La semana que viene iré al médico."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde ihn fragen, um wieviel Uhr der Termin ist.",
+          "es": "Le preguntaré a qué hora es la cita."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde es ihm sagen. Der Termin wird morgen früh sein.",
+          "es": "Se lo diré. La cita será mañana por la mañana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "In einer Woche werde ich in den Urlaub fahren. Ich werde nach England fahren.",
+          "es": "Dentro de una semana me iré de vacaciones. Viajaré a Inglaterra."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde nächsten Monat nach Deutschland fahren. In zwei Monaten werde ich nach Hause fahren.",
+          "es": "El próximo mes viajaré a Alemania. Dentro de dos meses volveré a casa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Konferenz wird dieses Jahr in Berlin sein. Wirst du da sein?",
+          "es": "La conferencia será este año en Berlín. ¿Estarás allí?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde da sein. Das Meeting wird dieses Wochenende sein.",
+          "es": "Estaré allí. La reunión será este fin de semana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde sie fragen, ob sie auf die Hochzeit geht.",
+          "es": "Le preguntaré si va a la boda."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde ihr sagen, dass ich dieses Wochenende keine Zeit habe.",
+          "es": "Le diré que este fin de semana no tengo tiempo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Mein Vater wird nächstes Jahr in Rente gehen. Ich werde bei meiner Familie sein.",
+          "es": "Mi padre se jubilará el año que viene. Estaré con mi familia."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Herzlichen Glückwunsch! Zum Geburtstag viel Glück!",
+          "es": "¡Enhorabuena! ¡Feliz cumpleaños!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist fünf nach fünf. Ich werde später ins Kino gehen.",
+          "es": "Son las cinco y cinco. Más tarde iré al cine."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Alles klar! Bis dann!",
+          "es": "¡Todo claro! ¡Hasta entonces!"
+        }
+      ]
+    }
+  ]
+}
