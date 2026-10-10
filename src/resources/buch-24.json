@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-24",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Vor der Vorstellung",
+      "subtitle": "Preparativos, vestuario y una representación esperada",
+      "description": "Lena y Martin preparan juntos una representación después del regreso de Lena, comparan el vestuario, comentan el comienzo y el final del evento y terminan la noche en casa usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 24.",
+      "duration": "3:04",
+      "audioSrc": "/audio/buch-24-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Ich bin gerade vom Flughafen gekommen. Ich vermisse dich!",
+          "es": "Acabo de llegar del aeropuerto. ¡Te echo de menos!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich vermisse dich auch! Deine Mutter hat gerade angerufen.",
+          "es": "¡Yo también te echo de menos! Tu madre acaba de llamar."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Mit wem hast du gerade gesprochen? Hat der Kunde gerade angerufen?",
+          "es": "¿Con quién acabas de hablar? ¿Acaba de llamar el cliente?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe gerade mit dem Vermieter über den Mietvertrag gesprochen. Herr Meier hat gerade angerufen.",
+          "es": "Acabo de hablar con el casero sobre el contrato de alquiler. El señor Meier acaba de llamar."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hast du mit den Vorbereitungen angefangen? Wann fängt die Vorstellung an?",
+          "es": "¿Has empezado con los preparativos? ¿Cuándo empieza la representación?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir haben gerade mit der Vorbereitung angefangen. Die Vorstellung fängt um acht an.",
+          "es": "Acabamos de empezar con la preparación. La representación empieza a las ocho."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist sieben Uhr vierzig. Die Vorstellung fängt sicher gleich an.",
+          "es": "Son las siete y cuarenta. Seguro que la representación empieza enseguida."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welches Kleid möchtest du, das hier oder das andere? Welches gefällt dir besser?",
+          "es": "¿Qué vestido quieres, este o el otro? ¿Cuál te gusta más?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Das andere Kleid gefällt mir besser. Ich möchte das andere.",
+          "es": "El otro vestido me gusta más. Quiero el otro."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welche Bluse möchtest du, die hier oder die andere? Warum gefällt dir die andere besser?",
+          "es": "¿Qué blusa quieres, esta o la otra? ¿Por qué te gusta más la otra?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Bluse ist modern, aber die andere gefällt mir besser. Ich finde die andere gut.",
+          "es": "La blusa es moderna, pero la otra me gusta más. La otra me parece bien."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welche gefallen dir besser, die hier oder die anderen? Gefallen dir die anderen nicht?",
+          "es": "¿Cuáles te gustan más, estos o los otros? ¿No te gustan los otros?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Diese Schuhe sind schick, aber die anderen gefallen mir besser. Ich finde die anderen gut.",
+          "es": "Estos zapatos son elegantes, pero los otros me gustan más. Los otros me parecen bien."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welchen möchtest du, den hier oder den anderen? Warum möchtest du den anderen?",
+          "es": "¿Cuál quieres, este o el otro? ¿Por qué quieres el otro?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Dieser Anzug ist schön, aber der andere gefällt mir besser. Ich möchte den anderen Anzug.",
+          "es": "Este traje es bonito, pero el otro me gusta más. Quiero el otro traje."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warum findest du den anderen besser? Der andere gefällt mir auch.",
+          "es": "¿Por qué te parece mejor el otro? El otro también me gusta."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich finde den anderen gut. Der andere Anzug gefällt mir besser.",
+          "es": "El otro me parece bien. El otro traje me gusta más."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das ist toll! Wir fangen jetzt an. Hals- und Beinbruch!",
+          "es": "¡Qué bien! Empezamos ahora. ¡Buena suerte!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die Vorstellung hat gerade angefangen. Das Spiel fängt in zwanzig Minuten an.",
+          "es": "La representación acaba de empezar. El partido empieza en veinte minutos."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Vorstellung ist zu Ende. Das ist Spitze! Der Film hat gerade angefangen.",
+          "es": "La representación ha terminado. ¡Es genial! La película acaba de empezar."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wann ist die Vorstellung zu Ende? Ist das Theaterstück schon vorbei?",
+          "es": "¿Cuándo termina la representación? ¿Ya ha terminado la obra de teatro?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das Theaterstück ist zu Ende. Das Wochenende ist leider schon vorbei.",
+          "es": "La obra de teatro ha terminado. Lamentablemente, el fin de semana ya ha acabado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin gerade nach Hause gekommen. Hast du schon etwas gegessen?",
+          "es": "Acabo de llegar a casa. ¿Ya has comido algo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe gerade zu Abend gegessen. Was hast du gerade gemacht?",
+          "es": "Acabo de cenar. ¿Qué acabas de hacer?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe gerade meine Hausaufgaben gemacht. Ich habe mit dem Projekt angefangen.",
+          "es": "Acabo de hacer mis deberes. He empezado con el proyecto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du deine Hausaufgaben fertig gemacht? Wann hast du damit angefangen?",
+          "es": "¿Has terminado tus deberes? ¿Cuándo empezaste con eso?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe sie gerade fertig gemacht. Der Regen hört hoffentlich bald auf.",
+          "es": "Acabo de terminarlos. Ojalá deje de llover pronto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der Regen hat plötzlich aufgehört. Das ist wahr! Das ist toll!",
+          "es": "La lluvia paró de repente. ¡Es verdad! ¡Qué bien!"
+        }
+      ]
+    }
+  ]
+}
