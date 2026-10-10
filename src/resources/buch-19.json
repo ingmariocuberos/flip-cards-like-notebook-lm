@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-19",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Der verschwundene Vertrag",
+      "subtitle": "Documentos y opiniones antes de una presentación",
+      "description": "Lena y Martin preparan una presentación, distribuyen documentación y buscan un contrato mientras valoran un proyecto usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 19.",
+      "duration": "2:45",
+      "audioSrc": "/audio/buch-19-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Ich bin seit sieben Uhr wach. Ich warte seit heute morgen auf die E-Mail.",
+          "es": "Llevo despierta desde las siete. Espero el correo desde esta mañana."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich warte seit vorgestern auf den Bericht. Ich habe die Nase voll!",
+          "es": "Espero el informe desde antes de ayer. ¡Estoy hasta las narices!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hier ist der Bericht. Kannst du ihn dem Abteilungsleiter geben?",
+          "es": "Aquí está el informe. ¿Puedes dárselo al jefe de departamento?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gib mir den Bericht, bitte. Kannst du den Kunden die Verträge geben?",
+          "es": "Dame el informe, por favor. ¿Puedes darles los contratos a los clientes?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hier sind die Unterlagen. Gib sie den Mitarbeitern.",
+          "es": "Aquí está la documentación. Dásela a los empleados."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kannst du dem Praktikanten diese Anleitung geben?",
+          "es": "¿Puedes darle estas instrucciones al becario?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du ihm das Wörterbuch geben? Gib ihm das Passwort.",
+          "es": "¿Puedes darle el diccionario? Dale la contraseña."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kannst du der Kundin diese Kreditkarte geben?",
+          "es": "¿Puedes darle esta tarjeta de crédito a la clienta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Gib ihr diese Karte. Gib dem Gast einen Schlüssel.",
+          "es": "Dale esta tarjeta. Dale una llave al invitado."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Es ist vier Uhr fünfzehn. Ich warte schon seit drei Uhr auf eine Antwort.",
+          "es": "Son las cuatro y cuarto. Espero una respuesta desde las tres."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wir kennen uns seit Anfang Februar. Er arbeitet seit Anfang Februar bei uns.",
+          "es": "Nos conocemos desde principios de febrero. Él trabaja con nosotros desde principios de febrero."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich arbeite seit dem dritten April hier. Ich stehe früh auf, seit ich arbeite.",
+          "es": "Trabajo aquí desde el tres de abril. Madrugo desde que trabajo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe keine Freizeit, seit ich arbeite. Ich gehe früh ins Bett.",
+          "es": "No tengo tiempo libre desde que trabajo. Me acuesto pronto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir kennen uns, seit wir zwanzig Jahre alt sind. Denkst du oft daran?",
+          "es": "Nos conocemos desde que teníamos veinte años. ¿Piensas a menudo en ello?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich denke oft an unsere Schulzeit. Ich denke viel an meine Kindheit.",
+          "es": "Pienso mucho en nuestra etapa escolar. Pienso mucho en mi infancia."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Woran denkst du gerade? Denkst du an das Projekt?",
+          "es": "¿En qué piensas ahora mismo? ¿Piensas en el proyecto?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich denke, dass das eine gute Idee ist. Was denkst du?",
+          "es": "Creo que es una buena idea. ¿Qué piensas tú?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich finde das Projekt gut, weil es originell ist.",
+          "es": "El proyecto me parece bueno porque es original."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich finde das Projekt super, obwohl es teuer ist.",
+          "es": "El proyecto me parece fantástico aunque sea caro."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Denkst du, dass das ein Problem ist?",
+          "es": "¿Crees que eso es un problema?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich denke nicht, dass das ein Problem ist. Ich denke, dass du Recht hast.",
+          "es": "No creo que sea un problema. Creo que tienes razón."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wo ist der Vertrag? Ich kann ihn nirgends finden.",
+          "es": "¿Dónde está el contrato? No lo encuentro por ninguna parte."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wo sind unsere Unterlagen? Ich kann sie einfach nicht finden!",
+          "es": "¿Dónde están nuestros documentos? ¡No consigo encontrarlos!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Findest du die Unterlagen? Der Ordner ist einfach zu finden.",
+          "es": "¿Encuentras la documentación? El archivador es fácil de encontrar."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hier ist der Ordner. Hier ist auch der Vertrag.",
+          "es": "Aquí está el archivador. Aquí está también el contrato."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Um Gottes Willen! Gib deiner Chefin diesen Vertrag.",
+          "es": "¡Por el amor de Dios! Dale este contrato a tu jefa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie findest du die Idee? Ist das richtig?",
+          "es": "¿Qué te parece la idea? ¿Es correcto?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das ist richtig. Ich finde die Idee toll.",
+          "es": "Eso es correcto. La idea me parece genial."
+        }
+      ]
+    }
+  ]
+}
