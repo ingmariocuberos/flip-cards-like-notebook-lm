@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-15",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Nach der Feier im Büro",
+      "subtitle": "Un malentendido, un contrato y varios mensajes",
+      "description": "Lena y Martin aclaran un problema y coordinan una conversación de trabajo usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 15.",
+      "duration": "2:49",
+      "audioSrc": "/audio/buch-15-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Ich weiß, wo du gestern warst. Weißt du, wo die Feier war?",
+          "es": "Sé dónde estuviste ayer. ¿Sabes dónde fue la celebración?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich weiß nicht mehr, wo die Feier war. Ich war gestern zuhause, weil ich müde war.",
+          "es": "Ya no recuerdo dónde fue la celebración. Ayer estuve en casa porque estaba cansado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich weiß, warum du sauer warst. Ich verstehe, warum du sauer auf ihn warst.",
+          "es": "Sé por qué estabas enfadado. Entiendo por qué estabas enfadado con él."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich verstehe nicht, warum er sauer auf mich war. Glaubst du, dass er ehrlich war?",
+          "es": "No entiendo por qué estaba enfadado conmigo. ¿Crees que fue sincero?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich glaube nicht, dass er ehrlich zu dir war. Ich bin mir sicher, dass es so war.",
+          "es": "No creo que fuera sincero contigo. Estoy segura de que fue así."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich war gestern nicht bei der Arbeit, weil ich beim Arzt war.",
+          "es": "Ayer no estuve en el trabajo porque fui al médico."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich verstehe, warum du nicht auf der Veranstaltung warst. Warst du verletzt?",
+          "es": "Entiendo por qué no estuviste en el evento. ¿Estabas lesionado?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich war letzten Monat nicht im Fitness-Studio, weil ich verletzt war.",
+          "es": "El mes pasado no estuve en el gimnasio porque estaba lesionado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Glaubst du, dass das Meeting eine gute Idee war?",
+          "es": "¿Crees que la reunión fue una buena idea?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich glaube nicht, dass es eine gute Idee war. Es war eine schlechte Idee.",
+          "es": "No creo que fuera una buena idea. Fue una mala idea."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich muss mit dir über etwas reden. Können wir später über die Angelegenheit reden?",
+          "es": "Tengo que hablar contigo sobre algo. ¿Podemos hablar más tarde sobre el asunto?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kann ich einen Moment mit dir reden?",
+          "es": "¿Puedo hablar contigo un momento?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Mit wem redest du gerade? Redest du oft mit deinem Stiefvater?",
+          "es": "¿Con quién estás hablando ahora? ¿Hablas a menudo con tu padrastro?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich rede gerade mit meiner Kollegin. Ich rede jeden Tag mit meinen Eltern.",
+          "es": "Ahora estoy hablando con mi compañera. Hablo todos los días con mis padres."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Du musst mit ihr über den Vertrag reden. Wirst du mit ihr darüber reden?",
+          "es": "Tienes que hablar con ella sobre el contrato. ¿Hablarás con ella sobre eso?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde mit ihr über den Vertrag reden. Wir werden später darüber reden.",
+          "es": "Hablaré con ella sobre el contrato. Hablaremos sobre eso más tarde."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sag ihr, dass das Meeting im Hotel ist. Sag ihr, dass wir ein Problem haben.",
+          "es": "Dile que la reunión es en el hotel. Dile que tenemos un problema."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Was soll ich ihr sagen? Soll ich ihr sagen, dass wir nicht einverstanden sind?",
+          "es": "¿Qué debo decirle? ¿Le digo que no estamos de acuerdo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sag ihr, dass wir um fünf da sind. Sag es Herrn Langen auf keinen Fall!",
+          "es": "Dile que estaremos allí a las cinco. ¡No se lo digas al señor Langen bajo ningún concepto!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warum kann ich es ihm nicht sagen?",
+          "es": "¿Por qué no puedo decírselo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sag ihm nicht, dass wir keinen Vertrag haben. Sag es ihm bloß nicht!",
+          "es": "No le digas que no tenemos contrato. ¡Ni se te ocurra decírselo!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kannst du mir sagen, um wieviel Uhr der Termin ist?",
+          "es": "¿Puedes decirme a qué hora es la cita?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Termin ist um sechs. Kannst du ihnen sagen, wo die Dokumente liegen?",
+          "es": "La cita es a las seis. ¿Puedes decirles dónde están los documentos?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde es ihnen sagen. Soll ich ihnen sagen, wo der Geldautomat ist?",
+          "es": "Se lo diré. ¿Les digo dónde está el cajero automático?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sag ihnen, dass der Geldautomat kaputt ist. Sag es ihnen sofort!",
+          "es": "Diles que el cajero está averiado. ¡Díselo inmediatamente!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde mit ihnen über die Angelegenheit reden. Danke für alles!",
+          "es": "Hablaré con ellos sobre el asunto. ¡Gracias por todo!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist kurz nach neun. Beeil dich!",
+          "es": "Son las nueve y pico. ¡Date prisa!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Alles Gute zum Geburtstag!",
+          "es": "¡Feliz cumpleaños!"
+        }
+      ]
+    }
+  ]
+}
