@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-18",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Warten auf den Chef",
+      "subtitle": "Contratos, devoluciones y llamadas en la oficina",
+      "description": "Lena y Martin preparan la oficina antes del regreso del jefe y coordinan documentos, objetos y llamadas usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 18.",
+      "duration": "2:43",
+      "audioSrc": "/audio/buch-18-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Ich warte seit einer halben Stunde auf dich. Mach schnell!",
+          "es": "Llevo media hora esperándote. ¡Date prisa!"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich arbeite erst seit kurzem hier. Ich kenne dich erst seit ein paar Wochen.",
+          "es": "Trabajo aquí desde hace poco. Solo te conozco desde hace unas semanas."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Seit wann wohnst du in Deutschland?",
+          "es": "¿Desde cuándo vives en Alemania?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich wohne seit einem Jahr in Deutschland. Ich bin seit einem Jahr hier.",
+          "es": "Vivo en Alemania desde hace un año. Llevo aquí un año."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie lange kennst du den Chef schon?",
+          "es": "¿Cuánto tiempo hace que conoces al jefe?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne ihn seit über zehn Jahren. Wir kennen uns schon seit langem.",
+          "es": "Lo conozco desde hace más de diez años. Nos conocemos desde hace mucho tiempo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Chef kommt morgen von der Geschäftsreise zurück.",
+          "es": "El jefe vuelve mañana del viaje de negocios."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wann kommt die Chefin von der Reise zurück?",
+          "es": "¿Cuándo vuelve la jefa del viaje?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sie kommt übermorgen zurück. Die Kollegen kommen nächste Woche zurück.",
+          "es": "Ella vuelve pasado mañana. Los compañeros vuelven la semana que viene."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Da ist der Vertrag. Kannst du ihn mir geben?",
+          "es": "Ahí está el contrato. ¿Puedes dármelo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde ihn dir später geben. Hier ist die Kopie. Gib sie ihm.",
+          "es": "Te lo daré más tarde. Aquí está la copia. Dásela a él."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hier sind die Schlüssel. Kannst du sie mir geben?",
+          "es": "Aquí están las llaves. ¿Puedes dármelas?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Gib sie mir, bitte. Ich werde sie ihnen übermorgen geben.",
+          "es": "Dámelas, por favor. Se las daré pasado mañana."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Da ist die Anleitung. Gib sie der Chefin.",
+          "es": "Ahí están las instrucciones. Dáselas a la jefa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich muss das Buch zurückgeben. Wann muss ich das Buch zurückgeben?",
+          "es": "Tengo que devolver el libro. ¿Cuándo tengo que devolverlo?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Du musst es sobald wie möglich zurückgeben.",
+          "es": "Tienes que devolverlo lo antes posible."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gebe es dir morgen zurück. Den Kuli gebe ich gleich zurück.",
+          "es": "Te lo devuelvo mañana. El bolígrafo lo devuelvo ahora mismo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Warum willst du die Jacke zurückgeben?",
+          "es": "¿Por qué quieres devolver la chaqueta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde die Jacke zurückgeben, weil sie zu klein ist.",
+          "es": "Voy a devolver la chaqueta porque es demasiado pequeña."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der Pulli ist zu groß. Ich werde ihn zurückgeben.",
+          "es": "El jersey es demasiado grande. Voy a devolverlo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich rufe den Chef nach der Besprechung zurück.",
+          "es": "Devolveré la llamada al jefe después de la reunión."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Kann ich dich nach dem Vorstellungsgespräch zurückrufen?",
+          "es": "¿Puedo devolverte la llamada después de la entrevista?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde dich gleich zurückrufen. Die Chefin wird Sie nach der Veranstaltung zurückrufen.",
+          "es": "Te devolveré la llamada enseguida. La jefa le devolverá la llamada después del evento."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Meine Eltern kommen nächste Woche aus dem Urlaub zurück.",
+          "es": "Mis padres vuelven la semana que viene de las vacaciones."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wann fährst du zurück nach Spanien?",
+          "es": "¿Cuándo vuelves a España?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich fahre dieses Wochenende zurück. Ich muss nach Spanien zurückfahren.",
+          "es": "Vuelvo este fin de semana. Tengo que regresar a España."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist fünf Uhr zehn. Wir sehen uns am Dienstag, den ersten.",
+          "es": "Son las cinco y diez. Nos vemos el martes día uno."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gut gemacht! Ich gebe dir den Vertrag morgen zurück.",
+          "es": "¡Bien hecho! Mañana te devuelvo el contrato."
+        }
+      ]
+    }
+  ]
+}
