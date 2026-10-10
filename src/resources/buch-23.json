@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-23",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Reisevorbereitungen in der neuen Wohnung",
+      "subtitle": "Ropa, encargos y aparatos antes de un viaje",
+      "description": "Lena y Martin preparan un viaje en una vivienda nueva: eligen ropa, coordinan varios encargos y repasan cómo funcionan algunos aparatos usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 23.",
+      "duration": "2:41",
+      "audioSrc": "/audio/buch-23-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Schau mal! Das neue Sofa gefällt mir.",
+          "es": "¡Mira! Me gusta el sofá nuevo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gefällt dir das? Dieses Sofa gefällt mir besser, weil es anders ist.",
+          "es": "¿Te gusta eso? Este sofá me gusta más porque es diferente."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Der Pulli ist schön. Er gefällt mir.",
+          "es": "El jersey es bonito. Me gusta."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Welche gefällt dir, die rote oder die braune?",
+          "es": "¿Cuál te gusta, la roja o la marrón?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die rote gefällt mir besser, obwohl die braune sehr elegant ist.",
+          "es": "La roja me gusta más, aunque la marrón es muy elegante."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Diese Schuhe gefallen mir nicht. Welche gefallen dir besser, die alten oder die neuen?",
+          "es": "Estos zapatos no me gustan. ¿Cuáles te gustan más, los viejos o los nuevos?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Die neuen gefallen mir besser. Die Schuhe sind schön.",
+          "es": "Los nuevos me gustan más. Los zapatos son bonitos."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das gefällt mir. Ich habe Handgepäck und möchte einen Koffer aufgeben.",
+          "es": "Eso me gusta. Llevo equipaje de mano y quiero facturar una maleta."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich fliege um neun Uhr fünfundzwanzig nach Madrid. An welchem Gate fliegt die Maschine ab?",
+          "es": "Vuelo a Madrid a las nueve y veinticinco. ¿Desde qué puerta de embarque sale el avión?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hat der Flug Verspätung? Es ist neun Uhr fünfunddreißig.",
+          "es": "¿Tiene retraso el vuelo? Son las nueve y treinta y cinco."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Das kann nicht sein! Tut mir leid. Ich habe ihn gefragt, ob er mich abholen kann.",
+          "es": "¡No puede ser! Lo siento. Le he preguntado si puede recogerme."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich werde ihn fragen, ob er morgen kommt.",
+          "es": "Le preguntaré si viene mañana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Sag ihm, dass er mich sofort anrufen soll. Sag ihm, dass er mich vom Bahnhof abholen soll.",
+          "es": "Dile que me llame inmediatamente. Dile que me recoja en la estación."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe ihn gefragt, ob er später vorbeikommen kann.",
+          "es": "Le he preguntado si puede pasarse más tarde."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde ihn bitten, dass er mir die Eintrittskarten besorgt. Das ist eine gute Idee.",
+          "es": "Le pediré que me consiga las entradas. Es una buena idea."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sag ihm, dass er das Paket schicken soll.",
+          "es": "Dile que envíe el paquete."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich werde sie fragen, ob sie auf die Kinder aufpassen kann.",
+          "es": "Le preguntaré si puede cuidar de los niños."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe sie gebeten, dass sie später herkommt.",
+          "es": "Le he pedido que venga más tarde."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mir erklären, wie man das benutzt? Erklär mir bitte, wofür dieses Gerät ist.",
+          "es": "¿Puedes explicarme cómo se usa esto? Explícame, por favor, para qué sirve este aparato."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe dir schon tausendmal erklärt, wie das funktioniert.",
+          "es": "Ya te he explicado mil veces cómo funciona."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mir zeigen, wie man das anmacht?",
+          "es": "¿Puedes enseñarme cómo se enciende?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe dir gezeigt, wie man das benutzt.",
+          "es": "Te he enseñado cómo se usa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mir zeigen, wie man den Computer anmacht? Zeig es mir bitte.",
+          "es": "¿Puedes enseñarme cómo se enciende el ordenador? Enséñamelo, por favor."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe es dir erklärt.",
+          "es": "Ya te lo he explicado."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mir erklären, wie der Backofen funktioniert?",
+          "es": "¿Puedes explicarme cómo funciona el horno de cocinar?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe dir gezeigt, wie der Backofen funktioniert.",
+          "es": "Te he enseñado cómo funciona el horno."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du mir zeigen, wie man das Garagentor aufmacht?",
+          "es": "¿Puedes enseñarme cómo se abre la puerta del garaje?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe es dir schon tausendmal gezeigt!",
+          "es": "¡Ya te lo he enseñado mil veces!"
+        }
+      ]
+    }
+  ]
+}
