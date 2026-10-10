@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-17",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Auf dem Weg zum Konzert",
+      "subtitle": "Un encuentro, varias indicaciones y un lugar abierto",
+      "description": "Lena pide ayuda para llegar a una cita antes de un concierto. Martin le explica el camino y recomienda personas y establecimientos usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 17.",
+      "duration": "2:48",
+      "audioSrc": "/audio/buch-17-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Entschuldigung, können Sie mir helfen? Ich suche den Weg zum Bahnhof.",
+          "es": "Disculpe, ¿puede ayudarme? Busco el camino a la estación."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gehen Sie geradeaus. Gehen Sie weiter, bis Sie eine Kirche sehen.",
+          "es": "Vaya recto. Continúe hasta que vea una iglesia."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie kommt man von hier zum Bahnhof?",
+          "es": "¿Cómo se va desde aquí a la estación?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Biegen Sie bei der Kirche rechts ab. Nehmen Sie die erste Straße links.",
+          "es": "Gire a la derecha en la iglesia. Tome la primera calle a la izquierda."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Komme ich am schnellsten zum Bahnhof?",
+          "es": "¿Llego a la estación por el camino más rápido?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gehen Sie weiter, bis Sie zum Platz kommen. Der Bahnhof ist auf der rechten Seite.",
+          "es": "Continúe hasta llegar a una plaza. La estación está en el lado derecho."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich treffe mich heute Abend mit einer Freundin. Wir treffen uns um halb sechs.",
+          "es": "He quedado esta noche con una amiga. Nos encontramos a las cinco y media."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Treffen Sie sich am Bahnhof? Treffen Sie sich an der Haltestelle?",
+          "es": "¿Han quedado en la estación? ¿Han quedado en la parada?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wir treffen uns am Bahnhof. Vor dem Konzert treffen wir uns auf einen Kaffee.",
+          "es": "Nos encontramos en la estación. Antes del concierto quedamos para tomar un café."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wann und wo treffen Sie sich nach dem Konzert?",
+          "es": "¿Cuándo y dónde quedan después del concierto?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Nach dem Konzert treffen wir uns an der Bar. Wir treffen uns zum Abendessen.",
+          "es": "Después del concierto nos encontramos en la barra. Quedamos para cenar."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne eine Kneipe, die lange offen hat. Sie ist hier in der Nähe.",
+          "es": "Conozco un bar que abre hasta tarde. Está aquí cerca."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kennen Sie ein vegetarisches Restaurant, das gut ist?",
+          "es": "¿Conoce un restaurante vegetariano que sea bueno?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne ein vegetarisches Restaurant, das sehr gut ist. Es ist gegenüber.",
+          "es": "Conozco un restaurante vegetariano que es muy bueno. Está enfrente."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kennen Sie einen Supermarkt, der rund um die Uhr offen hat?",
+          "es": "¿Conoce un supermercado que abra las veinticuatro horas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne keinen Supermarkt, der rund um die Uhr offen hat.",
+          "es": "No conozco ningún supermercado que abra las veinticuatro horas."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie schade! Kennen Sie eine Apotheke, die rund um die Uhr offen hat?",
+          "es": "¡Qué pena! ¿Conoce una farmacia que abra las veinticuatro horas?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne eine Apotheke, die sonntags lange offen hat.",
+          "es": "Conozco una farmacia que abre hasta tarde los domingos."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich kenne niemanden, der mir helfen könnte. Kennen Sie jemanden, der mir helfen könnte?",
+          "es": "No conozco a nadie que me pudiera ayudar. ¿Conoce a alguien que me podría ayudar?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich kenne eine Frau, die gegenüber wohnt. Sie ist sehr nett.",
+          "es": "Conozco a una mujer que vive enfrente. Es muy simpática."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kennt sie jemanden, der in der Apotheke arbeitet?",
+          "es": "¿Conoce ella a alguien que trabaje en la farmacia?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Sie kennt jemanden, der in der Apotheke arbeitet. Er kann Ihnen helfen.",
+          "es": "Ella conoce a alguien que trabaja en la farmacia. Él puede ayudarle."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Können Sie mir sagen, in welcher Richtung die Apotheke ist?",
+          "es": "¿Puede decirme en qué dirección está la farmacia?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gehen Sie nach links. Gehen Sie weiter, bis Sie einen Park sehen.",
+          "es": "Vaya a la izquierda. Continúe hasta que vea un parque."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich kenne den Park, der hier in der Nähe ist. Ist die Apotheke nebenan?",
+          "es": "Conozco el parque que está aquí cerca. ¿La farmacia está al lado?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Apotheke ist auf der linken Seite. Sie macht um sieben auf.",
+          "es": "La farmacia está en el lado izquierdo. Abre a las siete."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist vier Uhr fünf. Ich treffe mich später mit meiner Freundin.",
+          "es": "Son las cuatro y cinco. He quedado más tarde con mi amiga."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Viel Glück! Grüße an Ihre Freundin!",
+          "es": "¡Mucha suerte! ¡Saludos a su amiga!"
+        }
+      ]
+    }
+  ]
+}
