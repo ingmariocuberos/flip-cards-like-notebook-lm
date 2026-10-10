@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-21",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein unerwartetes Wiedersehen",
+      "subtitle": "Ciudades, estudios y recuerdos durante una comida",
+      "description": "Lena y Martin se reencuentran y conversan sobre los lugares donde han vivido, lo que han estudiado, leído, escrito y visto usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 21.",
+      "duration": "2:45",
+      "audioSrc": "/audio/buch-21-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Was für eine Überraschung! Wo hast du gewohnt?",
+          "es": "¡Qué sorpresa! ¿Dónde has vivido?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe früher in Berlin gewohnt. Wo hast du gewohnt?",
+          "es": "Antes vivía en Berlín. ¿Dónde has vivido tú?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe früher in Freiburg gewohnt. Ich habe drei Jahre in London gewohnt.",
+          "es": "Antes vivía en Friburgo. Viví tres años en Londres."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du schon mal im Ausland gewohnt? Wie lange hast du dort gewohnt?",
+          "es": "¿Has vivido alguna vez en el extranjero? ¿Cuánto tiempo viviste allí?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe vor fünf Jahren in Madrid gewohnt. Ich habe viel über das Land gelernt.",
+          "es": "Hace cinco años viví en Madrid. Aprendí mucho sobre el país."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe noch nie in Spanien gewohnt. Ich habe früher in Deutschland gewohnt.",
+          "es": "Nunca he vivido en España. Antes vivía en Alemania."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Hast du schon mal in einem Studentenwohnheim gewohnt?",
+          "es": "¿Has vivido alguna vez en una residencia de estudiantes?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe noch nie in einem Studentenwohnheim gewohnt. Ich habe auch noch nie allein gewohnt.",
+          "es": "Nunca he vivido en una residencia de estudiantes. Tampoco he vivido nunca solo."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Was hast du gelernt? Hast du viel für die Prüfung gelernt?",
+          "es": "¿Qué has estudiado? ¿Has estudiado mucho para el examen?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe gestern Abend Mathe gelernt. Ich habe nicht genug für die Prüfung gelernt.",
+          "es": "Ayer por la noche estudié Matemáticas. No estudié lo suficiente para el examen."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe vorgestern Geschichte gelernt. Ich habe den ganzen Tag gelernt.",
+          "es": "Anteayer estudié Historia. Estuve estudiando todo el día."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du den Artikel in der Zeitung gelesen?",
+          "es": "¿Has leído el artículo del periódico?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe den Artikel gelesen, aber ich habe ihn nicht verstanden.",
+          "es": "He leído el artículo, pero no lo he entendido."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Was hast du über das Thema gelesen? Hast du nichts darüber gelesen?",
+          "es": "¿Qué has leído sobre el tema? ¿No has leído nada al respecto?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe die E-Mail gelesen, aber ich habe sie nicht beantwortet.",
+          "es": "He leído el correo electrónico, pero no lo he contestado."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du ihm schon den Brief geschrieben? Was hast du geschrieben?",
+          "es": "¿Ya le has escrito la carta? ¿Qué has escrito?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe ihm einen langen Brief geschrieben. Ich habe ihr eine lange E-Mail geschrieben.",
+          "es": "Le he escrito una carta larga. A ella le he escrito un correo largo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du schon mal einen Liebesbrief geschrieben?",
+          "es": "¿Has escrito alguna vez una carta de amor?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe keinen Liebesbrief geschrieben. Ich habe einen Roman geschrieben.",
+          "es": "No he escrito ninguna carta de amor. He escrito una novela."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Das ist toll! Hast du schon mal ein Gedicht geschrieben?",
+          "es": "¡Eso es genial! ¿Has escrito alguna vez un poema?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe das letzte Gedicht geschrieben. Ich habe keinen Bericht geschrieben.",
+          "es": "Escribí el último poema. No he escrito ningún informe."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du den neuesten James-Bond-Film gesehen?",
+          "es": "¿Has visto la última película de James Bond?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe den Film gesehen, aber ich habe die Sendung nicht gesehen.",
+          "es": "He visto la película, pero no he visto el programa."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du schon mal Delfine gesehen? Hast du schon mal Wale gesehen?",
+          "es": "¿Has visto delfines alguna vez? ¿Has visto ballenas alguna vez?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe noch keine Oper gesehen. Ich habe ein Musical gesehen.",
+          "es": "Todavía no he visto ninguna ópera. He visto un musical."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du viel gelesen, als du klein warst?",
+          "es": "¿Leías mucho cuando eras pequeña?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe letzten Monat drei Bücher gelesen. Ich lese gerade einen Roman.",
+          "es": "El mes pasado leí tres libros. Ahora estoy leyendo una novela."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Mahlzeit! Schmeckt's? Das ist Spitze!",
+          "es": "¡Buen provecho! ¿Te gusta la comida? ¡Esto es estupendo!"
+        }
+      ]
+    }
+  ]
+}
