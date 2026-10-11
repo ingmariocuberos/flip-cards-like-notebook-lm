@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-27",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein regnerischer Tag im Geschäft",
+      "subtitle": "Un pedido, unos zapatos y planes imaginarios",
+      "description": "Lena visita a Martin en una tienda durante un día lluvioso, consulta un pedido y sus documentos, se prueba unos zapatos y conversa sobre situaciones hipotéticas usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 27.",
+      "duration": "3:07",
+      "audioSrc": "/audio/buch-27-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Ich bin wegen der Zeitverschiebung zu spät gekommen. Wegen dem schlechten Wetter bleiben wir heute zuhause.",
+          "es": "He llegado tarde por la diferencia horaria. Hoy nos quedamos en casa por el mal tiempo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Trotz des Regens bist du gekommen. Wegen mir musst du nicht länger bleiben.",
+          "es": "Has venido a pesar de la lluvia. No tienes que quedarte más tiempo por mí."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Obwohl es regnet, bin ich mitgegangen. Wann wird meine Bestellung bearbeitet?",
+          "es": "Aunque está lloviendo, he venido. ¿Cuándo se tramitará mi pedido?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Bestellung wird bearbeitet. Das Paket wird morgen geliefert.",
+          "es": "El pedido se está tramitando. El paquete se entregará mañana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wann genau wird das Paket geschickt? Ist die Zahlung bestätigt worden?",
+          "es": "¿Cuándo se enviará exactamente el paquete? ¿Se ha confirmado el pago?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Die Einzelheiten der Bestellung sind bestätigt worden.",
+          "es": "Los detalles del pedido han sido confirmados."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wird der neue Schrank dieses Wochenende geliefert? Wann wird mein Antrag bearbeitet?",
+          "es": "¿Se entregará el armario nuevo este fin de semana? ¿Cuándo se tramitará mi solicitud?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der neue Schrank wird dieses Wochenende geliefert.",
+          "es": "El armario nuevo se entregará este fin de semana."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wurde der Vertrag unterschrieben? Wurden alle Papiere vom Notar unterschrieben?",
+          "es": "¿Se firmó el contrato? ¿Firmó el notario todos los papeles?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der Vertrag wurde vom Notar unterschrieben. Die Papiere wurden von beiden Parteien unterschrieben.",
+          "es": "El contrato fue firmado por el notario. Los papeles fueron firmados por ambas partes."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Außer den Schuhen war alles sehr teuer. Trotz allem möchte ich es probieren.",
+          "es": "Aparte de los zapatos, todo era muy caro. A pesar de todo, quiero probarlo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hier haben Sie die Schuhe, die Sie anprobieren wollten. Hier haben Sie einen Strumpf.",
+          "es": "Aquí tiene los zapatos que quería probarse. Aquí tiene un calcetín."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich glaube, sie sind ein bisschen zu groß. Haben Sie die Schuhe auch eine Nummer kleiner?",
+          "es": "Creo que son un poco grandes. ¿Tiene los zapatos también en un número más pequeño?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich schau mal im Lager nach. Hier bitte, eine Nummer kleiner.",
+          "es": "Voy a mirar en el almacén. Aquí tiene, un número más pequeño."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, diese passen perfekt. Die nehme ich.",
+          "es": "Sí, estos me quedan perfectos. Me los llevo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Gerne. Begleiten Sie mich zur Kasse, bitte.",
+          "es": "Con gusto. Acompáñeme a la caja, por favor."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn es hier einen Supermarkt gäbe, könnte ich zu Fuß einkaufen.",
+          "es": "Si hubiera un supermercado aquí, podría ir andando a hacer la compra."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn es weniger Autos gäbe, wäre die Luft sauberer. Das wäre super.",
+          "es": "Si hubiera menos coches, el aire estaría más limpio. Sería genial."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn es weniger Kriminalität gäbe, wäre die Stadt sicherer.",
+          "es": "Si hubiera menos delincuencia, la ciudad sería más segura."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn es hier Internet gäbe, würde ich die Adresse nachschauen.",
+          "es": "Si hubiera Internet aquí, consultaría la dirección."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn ich mehr darüber wüsste, könnte ich dir vielleicht helfen. Außer dir kennt niemand mein Geheimnis.",
+          "es": "Si supiera más sobre ello, quizá podría ayudarte. Aparte de ti, nadie conoce mi secreto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn ich es wüsste, würde ich es dir sagen.",
+          "es": "Si lo supiera, te lo diría."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn ich eins aussuchen müsste, würde ich dieses hier nehmen.",
+          "es": "Si tuviera que elegir uno, tomaría este de aquí."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn ich Gitarre spielen könnte, wäre ich in einer Band. Trotzdem werde ich es versuchen.",
+          "es": "Si supiera tocar la guitarra, estaría en un grupo. Aun así, lo intentaré."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn ich singen könnte, würde ich Gesangsunterricht nehmen. Wenn du mir helfen könntest, wäre das super.",
+          "es": "Si supiera cantar, iría a clases de canto. Si pudieras ayudarme, sería genial."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn ich bei einer Bank arbeiten würde, müsste ich einen Anzug tragen.",
+          "es": "Si trabajara en un banco, tendría que llevar traje."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wenn ich für die Prüfung lernen müsste, würde ich zuhause bleiben. Trotzdem will ich dir eine Chance geben.",
+          "es": "Si tuviera que estudiar para el examen, me quedaría en casa. Aun así, quiero darte una oportunidad."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Trotz der Schwierigkeiten haben wir es fertig gemacht.",
+          "es": "A pesar de las dificultades, lo hemos terminado."
+        }
+      ]
+    }
+  ]
+}
