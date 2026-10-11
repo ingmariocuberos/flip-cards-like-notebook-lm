@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-31",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Irgendwie zum Flughafen",
+      "subtitle": "La salida del hotel, un bolso perdido y varias preferencias",
+      "description": "Lena y Martin hacen el registro de salida del hotel, intentan encontrar un bolso perdido y deciden cómo aprovechar la espera antes de ir al aeropuerto, integrando los indefinidos, las preferencias y los consejos de las tres secciones de Buch 31.",
+      "duration": "2:53",
+      "audioSrc": "/audio/buch-31-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Guten Morgen, ich reise heute ab und möchte nach dem Frühstück auschecken.", "es": "Buenos días, hoy me marcho y quisiera dejar la habitación después del desayuno." },
+        { "speaker": "Martin", "de": "Ich bereite sofort Ihre Rechnung vor. Hatten Sie irgendetwas aus der Minibar oder Zimmerservice?", "es": "Le preparo ahora mismo la factura. ¿Tomó algo del minibar o utilizó el servicio de habitaciones?" },
+        { "speaker": "Lena", "de": "Telefongespräche und Minibar nicht, aber Zimmerservice gestern Abend.", "es": "Llamadas telefónicas y minibar no, pero sí servicio de habitaciones anoche." },
+        { "speaker": "Martin", "de": "Stimmt, ist hier vermerkt. Zahlen Sie bar oder mit Kreditkarte?", "es": "Es verdad, está anotado aquí. ¿Paga en efectivo o con tarjeta?" },
+        { "speaker": "Lena", "de": "Ich würde lieber mit Karte zahlen. Könnten Sie mir bitte ein Taxi zum Flughafen rufen?", "es": "Preferiría pagar con tarjeta. ¿Podría llamarme un taxi al aeropuerto?" },
+        { "speaker": "Martin", "de": "Hier Ihre Rechnung. Wenn Sie hier bitte unterschreiben wollen.", "es": "Aquí tiene su factura. Si fuera tan amable de firmar aquí." },
+        { "speaker": "Lena", "de": "Vielen Dank. Ist irgendetwas nicht in Ordnung?", "es": "Muchas gracias. ¿Hay algo que no esté bien?" },
+        { "speaker": "Martin", "de": "Der Taxistand ist vor der Tür. Ich hoffe, Sie hatten einen angenehmen Aufenthalt.", "es": "La parada de taxis está delante de la puerta. Espero que haya disfrutado de su estancia." },
+        { "speaker": "Lena", "de": "Hast du meine Handtasche irgendwo gesehen? Ich habe sie irgendwo verloren.", "es": "¿Has visto mi bolso en alguna parte? Lo he perdido en algún sitio." },
+        { "speaker": "Martin", "de": "Ich weiß nicht wo, aber ich habe sie schon mal irgendwo gesehen.", "es": "No sé dónde, pero ya la he visto antes en algún sitio." },
+        { "speaker": "Lena", "de": "Ich habe meine Tasche irgendwo im Zug verloren. Irgendetwas stimmt hier nicht.", "es": "He perdido mi bolso en algún lugar del tren. Aquí hay algo que no cuadra." },
+        { "speaker": "Martin", "de": "Kann mir irgendjemand sagen, was hier los ist? Irgendjemand wird uns schon helfen.", "es": "¿Puede alguien decirme qué pasa aquí? Seguro que alguien nos ayudará." },
+        { "speaker": "Lena", "de": "Ich muss irgendwie zum Flughafen kommen. Wir müssen es irgendwie schaffen.", "es": "Tengo que llegar al aeropuerto de algún modo. Tenemos que conseguirlo como sea." },
+        { "speaker": "Martin", "de": "Keine Sorge, wir werden schon irgendeinen Ausweg finden. Irgendjemand wird mich schon mitnehmen.", "es": "No te preocupes, ya encontraremos alguna salida. Seguro que alguien me llevará." },
+        { "speaker": "Lena", "de": "Irgendwann muss man anfangen, eine Lösung zu suchen.", "es": "En algún momento hay que empezar a buscar una solución." },
+        { "speaker": "Martin", "de": "Ist irgendjemand dagegen? Ist irgendjemand nicht damit einverstanden?", "es": "¿Hay alguien en contra? ¿Alguien no está de acuerdo con ello?" },
+        { "speaker": "Lena", "de": "Möchtest du ein Bier? Oder willst du etwas zu essen?", "es": "¿Quieres una cerveza? ¿O quieres algo de comer?" },
+        { "speaker": "Martin", "de": "Nein, ich will lieber etwas zu trinken. Ich hätte lieber Pfefferminztee.", "es": "No, prefiero algo de beber. Preferiría un poleo-menta." },
+        { "speaker": "Lena", "de": "Magst du Pfefferminztee? Ich habe lieber Kamillentee.", "es": "¿Te gusta el poleo-menta? Yo prefiero la manzanilla." },
+        { "speaker": "Martin", "de": "Möchtest du hier bleiben? Ich möchte lieber gehen.", "es": "¿Quieres quedarte aquí? Yo prefiero marcharme." },
+        { "speaker": "Lena", "de": "Wollen wir eine Runde drehen? Lass uns lieber einen Film gucken.", "es": "¿Damos una vuelta? Mejor veamos una película." },
+        { "speaker": "Martin", "de": "Lass uns lieber gehen, bevor jemand uns sieht.", "es": "Mejor vámonos antes de que alguien nos vea." },
+        { "speaker": "Lena", "de": "Du solltest dich lieber beeilen. Sonst kommen wir noch zu spät.", "es": "Sería mejor que te dieras prisa. Si no, llegaremos tarde." },
+        { "speaker": "Martin", "de": "Lass uns lieber mit dem Auto fahren, sonst kommen wir zu spät.", "es": "Mejor vayamos en coche, o llegaremos tarde." },
+        { "speaker": "Lena", "de": "Ich hätte gerne ein Eis mit drei Kugeln zum Mitnehmen.", "es": "Quisiera un helado de tres bolas para llevar." },
+        { "speaker": "Martin", "de": "Welche Sorten hätten Sie gerne? Mit oder ohne Sahne?", "es": "¿Qué sabores desea? ¿Con o sin nata?" },
+        { "speaker": "Lena", "de": "Eine Kugel Erdbeer und zwei Kugeln Vanille. Lieber ohne Sahne.", "es": "Una bola de fresa y dos de vainilla. Mejor sin nata." },
+        { "speaker": "Martin", "de": "Ich wäre jetzt am liebsten ganz weit weg. Nichts zu danken!", "es": "Ahora mismo me encantaría estar muy lejos. ¡De nada!" }
+      ]
+    }
+  ]
+}
