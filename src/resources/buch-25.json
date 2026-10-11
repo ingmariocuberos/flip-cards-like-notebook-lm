@@ -1,0 +1,156 @@
+{
+  "bookId": "willkommen-vaughan-25",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Wiedersehen mit Hindernissen",
+      "subtitle": "Llamadas, una llave olvidada y un trayecto a toda prisa",
+      "description": "Lena y Martin organizan un reencuentro por teléfono, afrontan un olvido y hablan de sus recorridos a pie, corriendo y del tiempo que necesitan para llegar usando exclusivamente el contexto lingüístico trabajado en las tres secciones del Buch 25.",
+      "duration": "2:54",
+      "audioSrc": "/audio/buch-25-conversation.m4a",
+      "turns": [
+        {
+          "speaker": "Lena",
+          "de": "Wir müssen uns mal wieder treffen. Wann sehen wir uns wieder?",
+          "es": "Tenemos que volver a quedar algún día. ¿Cuándo nos volvemos a ver?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir sehen uns am Montag wieder. Wir müssen mal wieder ins Kino.",
+          "es": "Nos veremos de nuevo el lunes. Tenemos que volver a ir al cine."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich rufe später wieder an. Ich habe meinen Schlüssel wieder vergessen.",
+          "es": "Volveré a llamar más tarde. He vuelto a olvidarme la llave."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Hast du deinen Schlüssel schon wieder vergessen? Musst du noch mal ins Büro gehen?",
+          "es": "¿Te has vuelto a olvidar la llave otra vez? ¿Tienes que volver a la oficina?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich muss noch mal ins Büro gehen. Ich muss fast alles noch mal machen.",
+          "es": "Tengo que volver a la oficina. Tengo que volver a hacer casi todo."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Soll ich später wieder anrufen?",
+          "es": "¿Vuelvo a llamar más tarde?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Kannst du später wieder anrufen? Ich sehe dich bald wieder.",
+          "es": "¿Puedes volver a llamar más tarde? Volveré a verte pronto."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wie lange brauchst du, um dich fertig zu machen?",
+          "es": "¿Cuánto tardas en arreglarte?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich brauche zehn Minuten, um mich anzuziehen.",
+          "es": "Tardo diez minutos en vestirme."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wie lange brauchst du zur Arbeit?",
+          "es": "¿Cuánto tardas en llegar al trabajo?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich brauche normalerweise eine Viertelstunde zur Arbeit. Man braucht ungefähr zehn Minuten von hier zum Bahnhof.",
+          "es": "Normalmente tardo un cuarto de hora en llegar al trabajo. Desde aquí se tarda unos diez minutos hasta la estación."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Der Zug hat 20 Minuten Verspätung. Gehst du zu Fuß zum Bahnhof?",
+          "es": "El tren lleva veinte minutos de retraso. ¿Vas andando hasta la estación?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gehe zu Fuß in die Stadt. Ich laufe immer durch den Park, wenn ich in die Stadt gehe.",
+          "es": "Voy andando a la ciudad. Siempre atravieso el parque cuando voy a la ciudad."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wenn es regnet, laufe ich nicht zur Arbeit. Sollen wir eine Runde drehen?",
+          "es": "Cuando llueve no voy andando al trabajo. ¿Nos damos una vuelta?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Es ist so schönes Wetter! Wollen wir eine Runde durch den Park drehen?",
+          "es": "¡Hace un tiempo tan bueno! ¿Damos una vuelta por el parque?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich habe heute Morgen eine Runde durch den Wald gedreht.",
+          "es": "Esta mañana he dado una vuelta por el bosque."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich gehe immer morgens laufen. Heute gehe ich nicht laufen, weil ich müde bin.",
+          "es": "Siempre salgo a correr por las mañanas. Hoy no voy a correr porque estoy cansada."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin gestern Abend zu Fuß nach Hause gegangen.",
+          "es": "Ayer por la noche fui andando a casa."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich renne immer zum Bus, weil ich spät aufstehe.",
+          "es": "Siempre corro hacia el autobús porque me levanto tarde."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir sind zum Zug gerannt, weil es der letzte war. Wie aufregend!",
+          "es": "Corrimos hacia el tren porque era el último. ¡Qué emocionante!"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich bin gerannt, damit ich den Bus nicht verpasse.",
+          "es": "Corrí para no perder el autobús."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Ich bin gerannt, bis ich nicht mehr konnte. Mein Knie tut weh.",
+          "es": "Corrí hasta que no pude más. Me duele la rodilla."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie lange braucht man, um von hier zum Bahnhof zu kommen?",
+          "es": "¿Cuánto se tarda en llegar desde aquí hasta la estación?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Man braucht keine zehn Minuten von hier bis zum Bahnhof. Ich gehe zu Fuß.",
+          "es": "Desde aquí no se tarda ni diez minutos hasta la estación. Voy andando."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Wie lange hast du gebraucht, um Deutsch zu lernen?",
+          "es": "¿Cuánto tardaste en aprender alemán?"
+        },
+        {
+          "speaker": "Martin",
+          "de": "Man braucht lange, um eine Sprache zu lernen. Ich habe ein Jahr gebraucht, um mich daran zu gewöhnen.",
+          "es": "Se tarda bastante en aprender un idioma. Tardé un año en acostumbrarme a ello."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ich habe nicht lange gebraucht, um mich an die Leute zu gewöhnen.",
+          "es": "No tardé mucho en acostumbrarme a la gente."
+        },
+        {
+          "speaker": "Martin",
+          "de": "Wir sehen uns bald wieder. Viel Erfolg!",
+          "es": "Nos volveremos a ver pronto. ¡Mucho éxito!"
+        }
+      ]
+    }
+  ]
+}
