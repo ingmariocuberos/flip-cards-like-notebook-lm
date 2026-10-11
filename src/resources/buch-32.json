@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-32",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Die Gelegenheit, auf die wir gewartet haben",
+      "subtitle": "Una candidatura, una entrevista y los preparativos de una celebración",
+      "description": "Lena y Martin hablan de una oferta de trabajo, preparan una entrevista, esperan una respuesta y organizan una posible celebración usando exclusivamente las estructuras y el vocabulario de las tres secciones de Buch 32.",
+      "duration": "3:07",
+      "audioSrc": "/audio/buch-32-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Darf ich dich um einen Gefallen bitten? Ich muss jemanden um Rat bitten.", "es": "¿Puedo pedirte un favor? Tengo que pedirle consejo a alguien." },
+        { "speaker": "Martin", "de": "Worum hat er dich gebeten? Hat er dich wieder um Geld gebeten?", "es": "¿Qué te ha pedido? ¿Te ha vuelto a pedir dinero?" },
+        { "speaker": "Lena", "de": "Meine Kollegin hat mich um einen Gefallen gebeten.", "es": "Mi compañera me ha pedido un favor." },
+        { "speaker": "Martin", "de": "Warum bewirbst du dich nicht um die Position? Das ist eine neue Stelle.", "es": "¿Por qué no solicitas el puesto? Es un puesto nuevo." },
+        { "speaker": "Lena", "de": "Ich will mich um eine Stelle bewerben. Mein Kommilitone möchte sich auch darum bewerben.", "es": "Quiero solicitar un puesto. Mi compañero de universidad también quiere presentarse." },
+        { "speaker": "Martin", "de": "Es haben sich viele Leute um die Stelle beworben. Es haben sich insgesamt dreihundert Leute darum beworben.", "es": "Mucha gente ha solicitado el puesto. En total se han presentado trescientas personas." },
+        { "speaker": "Lena", "de": "Ich kenne jemanden, der sich darauf beworben hat.", "es": "Conozco a alguien que se ha presentado." },
+        { "speaker": "Martin", "de": "Hast du schon auf die Stellenanzeige geantwortet? Ich habe auf die Stellenanzeige geantwortet.", "es": "¿Ya has respondido a la oferta de trabajo? Yo ya he respondido." },
+        { "speaker": "Lena", "de": "Ich kann noch nicht darauf antworten. Ich brauche mehr Informationen und die Einzelheiten.", "es": "Todavía no puedo responder. Necesito más información y los detalles." },
+        { "speaker": "Martin", "de": "Ich kann dir erst darauf antworten, wenn ich mehr Informationen habe.", "es": "No podré responderte hasta que tenga más información." },
+        { "speaker": "Lena", "de": "Worauf kommt es dir an? Kommt es auf den Preis oder auf die Qualität an?", "es": "¿Qué es importante para ti? ¿Depende del precio o de la calidad?" },
+        { "speaker": "Martin", "de": "Es kommt mir nicht auf das Geld an. Es kommt mir auf deine Meinung an.", "es": "Lo que me importa no es el dinero. Me importa tu opinión." },
+        { "speaker": "Lena", "de": "Es kommt darauf an, dass wir keine Kunden verlieren und die Verkaufszahlen verbessern.", "es": "Lo importante es que no perdamos clientes y mejoremos las cifras de ventas." },
+        { "speaker": "Martin", "de": "Es kommt auf die Verkaufszahlen an, ob wir dieses Jahr eine Weihnachtsfeier machen.", "es": "Dependiendo de las cifras de ventas, haremos o no una fiesta de Navidad este año." },
+        { "speaker": "Lena", "de": "Möchtest du mitkommen? Es kommt darauf an, ob ich mir den Tag freinehmen kann.", "es": "¿Quieres venir? Depende de si puedo tomarme el día libre." },
+        { "speaker": "Martin", "de": "Ich warte auf den richtigen Moment. Das ist die Gelegenheit, auf die wir so lange gewartet haben.", "es": "Espero el momento adecuado. Esta es la oportunidad que hemos esperado durante tanto tiempo." },
+        { "speaker": "Lena", "de": "Na endlich! Darauf habe ich gewartet. Ich hätte Lust auf eine berufliche Veränderung.", "es": "¡Por fin! Esto es lo que esperaba. Me apetecería un cambio profesional." },
+        { "speaker": "Martin", "de": "Ich muss mich auf ein Vorstellungsgespräch vorbereiten. Wie bereitet man sich am besten darauf vor?", "es": "Tengo que prepararme para una entrevista. ¿Cuál es la mejor forma de prepararse?" },
+        { "speaker": "Lena", "de": "Bereite dich gut darauf vor. Bist du auf das Vorstellungsgespräch vorbereitet?", "es": "Prepárate bien. ¿Estás preparado para la entrevista?" },
+        { "speaker": "Martin", "de": "Ich habe mich gut darauf vorbereitet. Ich warte schon seit Ewigkeiten darauf.", "es": "Me he preparado bien. Llevo una eternidad esperándolo." },
+        { "speaker": "Lena", "de": "Wie lange hast du dich darauf vorbereitet?", "es": "¿Cuánto tiempo te has preparado para ello?" },
+        { "speaker": "Martin", "de": "Ich habe mich lange darauf vorbereitet. Ich freue mich auf Ihre Antwort.", "es": "Me he preparado durante mucho tiempo. Espero su respuesta." },
+        { "speaker": "Lena", "de": "Wer kümmert sich um die Vorbereitungen? Soll ich mich um die Einladungen kümmern?", "es": "¿Quién se encarga de los preparativos? ¿Me encargo de las invitaciones?" },
+        { "speaker": "Martin", "de": "Ich kümmere mich um die Einladungen. Wir müssen uns um die Getränke kümmern.", "es": "Yo me encargo de las invitaciones. Tenemos que ocuparnos de las bebidas." },
+        { "speaker": "Lena", "de": "Was ist mit den Blumen? Jemand muss sich dringend darum kümmern.", "es": "¿Qué pasa con las flores? Alguien debe encargarse urgentemente." },
+        { "speaker": "Martin", "de": "Keine Sorge, ich kümmere mich schon darum. Er kümmert sich um die Getränke.", "es": "No te preocupes, yo me encargo. Él se ocupa de las bebidas." },
+        { "speaker": "Lena", "de": "Ich freue mich auf unsere Zusammenarbeit. Ich freue mich schon riesig darauf.", "es": "Me alegra poder colaborar. Me hace muchísima ilusión." },
+        { "speaker": "Martin", "de": "Wir freuen uns auf die Zusammenarbeit mit Ihnen.", "es": "Nos alegra poder colaborar con usted." }
+      ]
+    }
+  ]
+}
