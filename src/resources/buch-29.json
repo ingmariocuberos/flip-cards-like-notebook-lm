@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-29",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Fest, an das wir uns erinnern werden",
+      "subtitle": "Una invitación, una dirección perdida y planes para el futuro",
+      "description": "Lena y Martin se preparan para una fiesta, buscan la dirección y los documentos necesarios, hablan de personas y lugares, y consideran qué harían si sus circunstancias fueran distintas usando exclusivamente el contexto lingüístico de las tres secciones de Buch 29.",
+      "duration": "2:34",
+      "audioSrc": "/audio/buch-29-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Wie heißt die Bar, in die ihr später geht?", "es": "¿Cómo se llama el bar al que vais más tarde?" },
+        { "speaker": "Martin", "de": "Die Bar, in die wir später gehen, heißt Feierling.", "es": "El bar al que iremos más tarde se llama Feierling." },
+        { "speaker": "Lena", "de": "Wo ist der Zettel, auf den du die Adresse geschrieben hast?", "es": "¿Dónde está la nota en la que escribiste la dirección?" },
+        { "speaker": "Martin", "de": "Der Zettel, auf den ich die Adresse geschrieben habe, ist verschwunden.", "es": "La nota en la que escribí la dirección ha desaparecido." },
+        { "speaker": "Lena", "de": "Das fängt ja gut an. Ich habe ein Paket an diese Adresse geschickt.", "es": "Esto empieza bien. He enviado un paquete a esa dirección." },
+        { "speaker": "Martin", "de": "Die Adresse, an die ich das Paket geschickt habe, existiert nicht.", "es": "La dirección a la que envié el paquete no existe." },
+        { "speaker": "Lena", "de": "Man kommt ohne den Ausweis nicht rein.", "es": "No se puede entrar sin el documento de identidad." },
+        { "speaker": "Martin", "de": "Ich habe das Passwort vergessen, ohne das man nicht reinkommt.", "es": "He olvidado la contraseña sin la cual no se puede entrar." },
+        { "speaker": "Lena", "de": "Kennst du jemanden, der mir helfen könnte?", "es": "¿Conoces a alguien que pudiera ayudarme?" },
+        { "speaker": "Martin", "de": "Ich kenne jemanden, der dir vielleicht helfen kann.", "es": "Conozco a alguien que quizá pueda ayudarte." },
+        { "speaker": "Lena", "de": "Wie heißt der Junge, der nebenan wohnt?", "es": "¿Cómo se llama el chico que vive al lado?" },
+        { "speaker": "Martin", "de": "Der Junge, der nebenan wohnt, heißt Jonas.", "es": "El chico que vive al lado se llama Jonas." },
+        { "speaker": "Lena", "de": "Die Tasche, die mir gehört, ist rot.", "es": "El bolso que me pertenece es rojo." },
+        { "speaker": "Martin", "de": "Ist das die Tasche, die dir gehört?", "es": "¿Es ese el bolso que te pertenece?" },
+        { "speaker": "Lena", "de": "Gib mir bitte die Akte, die zu diesem Fall gehört.", "es": "Dame por favor el expediente que pertenece a este caso." },
+        { "speaker": "Martin", "de": "Die Akten, die ich meine, gehören zu einem anderen Fall.", "es": "Los expedientes a los que me refiero pertenecen a otro caso." },
+        { "speaker": "Lena", "de": "Wo steht der Schrank, in den du die Kisten getan hast?", "es": "¿Dónde está el armario en el que pusiste las cajas?" },
+        { "speaker": "Martin", "de": "Die Schublade, in die ich die Papiere gelegt habe, geht nicht auf.", "es": "El cajón en el que puse los papeles no se abre." },
+        { "speaker": "Lena", "de": "Pass auf! Das Regal, auf das du die Vase gestellt hast, ist nicht stabil.", "es": "¡Ten cuidado! La estantería sobre la que pusiste el jarró no es estable." },
+        { "speaker": "Martin", "de": "Pech gehabt! Wenn hier nicht so viele Leute wären, gäbe es keine Schlange.", "es": "¡Mala suerte! Si no hubiera tanta gente aquí, no habría cola." },
+        { "speaker": "Lena", "de": "Es gäbe keine Schlange, wenn hier nicht so viele Leute wären.", "es": "No habría cola si no hubiera tanta gente aquí." },
+        { "speaker": "Martin", "de": "Wenn du keine Zeit verlieren würdest, könntest du früher nach Hause gehen.", "es": "Si no perdieras el tiempo, podrías irte antes a casa." },
+        { "speaker": "Lena", "de": "Ich würde keine Zeit verlieren, wenn ich du wäre.", "es": "No perdería el tiempo si fuera tú." },
+        { "speaker": "Martin", "de": "Wie heißt das Unternehmen, für das dein Sohn arbeitet?", "es": "¿Cómo se llama la empresa para la que trabaja tu hijo?" },
+        { "speaker": "Lena", "de": "Die Firma, für die ich arbeite, stellt Möbel her.", "es": "La empresa para la que trabajo fabrica muebles." },
+        { "speaker": "Martin", "de": "Wenn ich hier genug verdienen würde, hätte ich keine zwei Jobs.", "es": "Si ganara lo suficiente aquí, no tendría dos empleos." },
+        { "speaker": "Lena", "de": "Wenn ich genug Erspartes hätte, würde ich nicht bis fünfundsechzig arbeiten.", "es": "Si tuviera suficientes ahorros, no trabajaría hasta los sesenta y cinco." },
+        { "speaker": "Martin", "de": "Das war ein Fest, an das wir uns immer erinnern werden.", "es": "Fue una fiesta que siempre recordaremos." }
+      ]
+    }
+  ]
+}
