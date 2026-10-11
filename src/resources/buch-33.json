@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-33",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ich hoffe, der Zug hat keine Verspätung",
+      "subtitle": "Una cita en el cine, un tren retrasado y recuerdos de otra salida",
+      "description": "Lena y Martin quedan para ir al cine, afrontan un retraso ferroviario, comentan de qué trata la película y recuerdan lo ocurrido en una salida anterior mediante las expectativas, estructuras con gehen um y el pluscuamperfecto de Buch 33.",
+      "duration": "2:59",
+      "audioSrc": "/audio/buch-33-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Was möchtest du heute Abend machen? Ich habe Lust, ins Kino zu gehen.", "es": "¿Qué quieres hacer esta noche? Me apetece ir al cine." },
+        { "speaker": "Martin", "de": "Ich habe gehört, dass der neue James-Bond-Film läuft. Hast du da Lust drauf?", "es": "He oído que ponen la nueva película de James Bond. ¿Te apetece verla?" },
+        { "speaker": "Lena", "de": "Ja, den James Bond würde ich gerne sehen. Kommst du vorbei und holst mich ab?", "es": "Sí, me gustaría ver la de James Bond. ¿Pasas a recogerme?" },
+        { "speaker": "Martin", "de": "Ich glaube, wir sollten früh hingehen, damit wir Karten bekommen. So gegen sieben?", "es": "Creo que deberíamos ir temprano para conseguir entradas. ¿Sobre las siete?" },
+        { "speaker": "Lena", "de": "Haben wir dann noch Zeit, etwas zu essen, bevor der Film losgeht?", "es": "¿Nos queda tiempo para comer algo antes de que empiece la película?" },
+        { "speaker": "Martin", "de": "Wahrscheinlich nicht, aber wir können Popcorn kaufen und nach dem Film noch etwas essen gehen.", "es": "Probablemente no, pero podemos comprar palomitas y comer algo después de la película." },
+        { "speaker": "Lena", "de": "Ich hoffe, dass alles gut geht. Ich kann es kaum erwarten, dich zu sehen.", "es": "Espero que todo salga bien. Me muero de ganas de verte." },
+        { "speaker": "Martin", "de": "Ich hoffe, dass der Zug keine Verspätung hat. Der Zug ist unerwartet stehen geblieben.", "es": "Espero que el tren no lleve retraso. El tren se ha parado inesperadamente." },
+        { "speaker": "Lena", "de": "Eine Frage: Wie viel Verspätung haben wir? Ich hoffe, es ist nicht zu spät.", "es": "Una pregunta: ¿cuánto retraso llevamos? Espero que no sea demasiado tarde." },
+        { "speaker": "Martin", "de": "Zur Zeit 22 Minuten. Ich muss in Duisburg umsteigen und den Zug nach Hamburg bekommen.", "es": "Por ahora, veintidós minutos. Tengo que cambiar en Duisburgo y alcanzar el tren a Hamburgo." },
+        { "speaker": "Lena", "de": "Der Zug nach Hamburg fährt auf Gleis 14 ab. Und auf welchem Gleis kommen wir an?", "es": "El tren a Hamburgo sale del andén catorce. ¿Y a qué andén llegamos?" },
+        { "speaker": "Martin", "de": "Auf Gleis zwölf. Ich habe sechs Minuten Zeit.", "es": "Al andén doce. Tengo seis minutos." },
+        { "speaker": "Lena", "de": "Ich hoffe, du kommst pünktlich an. Du kannst nicht erwarten, dass alles immer nach Plan geht.", "es": "Espero que llegues puntual. No puedes esperar que todo salga siempre según lo planeado." },
+        { "speaker": "Martin", "de": "Das war zu erwarten. Es ist, wie erwartet, mal wieder etwas dazwischen gekommen.", "es": "Era de esperar. Como era previsible, ha vuelto a surgir algo." },
+        { "speaker": "Lena", "de": "Worum geht es in dem Film? Geht es um einen Politiker?", "es": "¿De qué trata la película? ¿Trata de un político?" },
+        { "speaker": "Martin", "de": "In dem Film geht es um einen Mann, der die Welt rettet.", "es": "La película trata de un hombre que salva el mundo." },
+        { "speaker": "Lena", "de": "Es geht um alles oder nichts.", "es": "Es todo o nada." },
+        { "speaker": "Martin", "de": "Es geht mir nicht um die Einzelheiten, sondern ums Prinzip.", "es": "No me importan los detalles, sino el principio." },
+        { "speaker": "Lena", "de": "Ich erwarte von dir, dass du pünktlich bist. Das kannst du nicht von mir erwarten.", "es": "Espero de ti que seas puntual. No puedes esperar eso de mí." },
+        { "speaker": "Martin", "de": "Ich hatte schon gegessen, als er nach Hause kam. Das letzte Mal war alles anders.", "es": "Yo ya había comido cuando él llegó a casa. La última vez todo fue distinto." },
+        { "speaker": "Lena", "de": "Bevor wir ins Kino gegangen sind, hatten wir eine Pizza gegessen.", "es": "Antes de ir al cine habíamos comido una pizza." },
+        { "speaker": "Martin", "de": "Wir hatten noch nichts gegessen, bevor wir ins Kino gegangen sind.", "es": "Todavía no habíamos comido nada antes de ir al cine." },
+        { "speaker": "Lena", "de": "Der Zug war schon abgefahren, als wir am Bahnhof ankamen.", "es": "El tren ya había salido cuando llegamos a la estación." },
+        { "speaker": "Martin", "de": "Als das Taxi endlich kam, waren wir schon losgefahren.", "es": "Cuando por fin llegó el taxi, nosotros ya nos habíamos ido." },
+        { "speaker": "Lena", "de": "Ich hatte schon mehrmals angerufen, als sie endlich ans Telefon ging.", "es": "Ya había llamado varias veces cuando ella por fin cogió el teléfono." },
+        { "speaker": "Martin", "de": "Ich hoffe, das passiert nicht noch mal. Wir können nur hoffen, dass alles gut geht.", "es": "Espero que eso no vuelva a pasar. Solo podemos esperar que todo salga bien." },
+        { "speaker": "Lena", "de": "Ich hoffe, dass es klappt. Nach dem Film gehen wir etwas essen.", "es": "Espero que salga bien. Después de la película iremos a comer algo." },
+        { "speaker": "Martin", "de": "Gut, dann bis nachher. Ich hoffe, dich bald wiederzusehen.", "es": "Bien, hasta luego. Espero volver a verte pronto." }
+      ]
+    }
+  ]
+}
