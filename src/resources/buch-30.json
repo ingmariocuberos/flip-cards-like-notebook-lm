@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-30",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Problem, bei dem ich Hilfe brauche",
+      "subtitle": "Una llamada al hotel, un objeto perdido y decisiones laborales",
+      "description": "Lena y Martin hablan con la recepción de un hotel, intentan resolver la desaparición de unas llaves y relacionan el incidente con sus compañeros, proyectos y decisiones laborales mediante las estructuras de las tres secciones de Buch 30.",
+      "duration": "2:50",
+      "audioSrc": "/audio/buch-30-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Rezeption Hotel Sacher, wie kann ich Ihnen helfen?", "es": "Recepción del Hotel Sacher, ¿en qué puedo ayudarle?" },
+        { "speaker": "Martin", "de": "Guten Abend, Zimmer 415 hier. Ich möchte gerne Essen aufs Zimmer bestellen.", "es": "Buenas noches, llamo de la habitación 415. Quisiera pedir comida a la habitación." },
+        { "speaker": "Lena", "de": "Um diese Zeit haben wir Salate, Hamburger und Sandwiches. Haben Sie die Karte auf dem Zimmer?", "es": "A estas horas tenemos ensaladas, hamburguesas y sándwiches. ¿Tiene la carta en la habitación?" },
+        { "speaker": "Martin", "de": "Ja, die habe ich gesehen. Ich hätte gerne das Club Sandwich und ein alkoholfreies Bier.", "es": "Sí, la he visto. Quisiera el sándwich club y una cerveza sin alcohol." },
+        { "speaker": "Lena", "de": "Das macht 15 Euro. Wollen Sie gleich zahlen oder soll ich es aufs Zimmer schreiben?", "es": "Son quince euros. ¿Quiere pagar ahora o lo cargo a la habitación?" },
+        { "speaker": "Martin", "de": "Bitte schreiben Sie es aufs Zimmer. Ich zahle dann beim Auschecken. Wie lange dauert es ungefähr?", "es": "Cárguelo a la habitación, por favor. Pagaré al salir. ¿Cuánto tardará aproximadamente?" },
+        { "speaker": "Lena", "de": "Es dauert ungefähr 15 Minuten.", "es": "Tardará aproximadamente quince minutos." },
+        { "speaker": "Martin", "de": "Keine Ursache! Ich habe ein Problem, bei dem ich Hilfe brauche.", "es": "¡No hay de qué! Tengo un problema con el que necesito ayuda." },
+        { "speaker": "Lena", "de": "Gibt es jemanden, dem so etwas schon mal passiert ist?", "es": "¿Hay alguien a quien ya le haya pasado algo así?" },
+        { "speaker": "Martin", "de": "Das ist der Gast, dem das passiert ist. Der Gast ist zur Polizei gegangen.", "es": "Este es el huésped al que le ocurrió. El huésped fue a la policía." },
+        { "speaker": "Lena", "de": "Wo ist der Gast, dem das passiert ist?", "es": "¿Dónde está el huésped al que le ocurrió eso?" },
+        { "speaker": "Martin", "de": "Das Mädchen, dem das passiert ist, hat die Polizei gerufen.", "es": "La chica a la que le ocurrió eso llamó a la policía." },
+        { "speaker": "Lena", "de": "Ich finde den Praktikanten, dem ich den Schlüssel gegeben habe, nicht.", "es": "No encuentro al becario al que le di la llave." },
+        { "speaker": "Martin", "de": "Wie heißt der Praktikant, dem Sie die Schlüssel gegeben haben?", "es": "¿Cómo se llama el becario al que le dio las llaves?" },
+        { "speaker": "Lena", "de": "Der Kollege, mit dem ich zusammen arbeite, kommt aus Ungarn.", "es": "El compañero con el que trabajo es de Hungría." },
+        { "speaker": "Martin", "de": "Die Firma, mit der wir zusammen arbeiten, stellt elektronische Geräte her.", "es": "La empresa con la que colaboramos fabrica aparatos electrónicos." },
+        { "speaker": "Lena", "de": "Das Unternehmen, bei dem ich gearbeitet habe, stellt jetzt elektronische Geräte her.", "es": "La empresa en la que trabajé ahora fabrica aparatos electrónicos." },
+        { "speaker": "Martin", "de": "Das Projekt, bei dem ich ihr geholfen habe, war ein großer Erfolg.", "es": "El proyecto en el que la ayudé fue un gran éxito." },
+        { "speaker": "Lena", "de": "Das ist das Projekt, von dem vielleicht mein Job abhängt.", "es": "Este es el proyecto del que quizá dependa mi trabajo." },
+        { "speaker": "Martin", "de": "Das ist eine Entscheidung, von der viel abhängt.", "es": "Esta es una decisión de la que depende mucho." },
+        { "speaker": "Lena", "de": "Das ist der Kurzfilm, an dem ich arbeite. Ich muss ihn nächste Woche abgeben.", "es": "Este es el cortometraje en el que trabajo. Tengo que entregarlo la semana que viene." },
+        { "speaker": "Martin", "de": "Der Wettbewerb, bei dem ich mitmachen will, findet nächste Woche statt.", "es": "El concurso en el que quiero participar se celebra la semana que viene." },
+        { "speaker": "Lena", "de": "Ist das der Film, von dem du mir erzählt hast?", "es": "¿Es esa la película de la que me hablaste?" },
+        { "speaker": "Martin", "de": "Das ist der Film, von dem ich dir erzählt habe. Der Film war ein großer Erfolg.", "es": "Esta es la película de la que te hablé. La película fue un gran éxito." },
+        { "speaker": "Lena", "de": "Was wäre, wenn wir keine Lösung finden würden?", "es": "¿Qué pasaría si no encontráramos ninguna solución?" },
+        { "speaker": "Martin", "de": "Könntest du ihn verstehen, wenn es einen guten Grund gäbe?", "es": "¿Podrías entenderlo si hubiera un buen motivo?" },
+        { "speaker": "Lena", "de": "Hättest du mehr Vertrauen zu ihm, wenn du ihn länger kennen würdest?", "es": "¿Tendrías más confianza en él si lo conocieras desde hace más tiempo?" },
+        { "speaker": "Martin", "de": "Was würdest du tun, wenn du deinen Job verlieren würdest?", "es": "¿Qué harías si perdieras tu trabajo?" }
+      ]
+    }
+  ]
+}
