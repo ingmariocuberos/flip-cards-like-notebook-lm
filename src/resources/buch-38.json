@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-38",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Der Vertrag und das Konzert",
+      "subtitle": "Una visita a un piso, un contrato dudoso y entradas para celebrar",
+      "description": "Lena y Martin se pierden camino a una visita inmobiliaria, revisan un contrato con cautela, reparten responsabilidades y planean un concierto usando exclusivamente el vocabulario y las estructuras de Buch 38.",
+      "duration": "3:21",
+      "audioSrc": "/audio/buch-38-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Wir haben uns verfahren, glaube ich. Können Sie uns helfen?", "es": "Creo que nos hemos perdido. ¿Puede ayudarnos?" },
+        { "speaker": "Martin", "de": "Ich verfahre mich nie, seitdem ich das Navi habe. Fahr langsamer, damit wir die Einfahrt nicht übersehen.", "es": "Nunca me pierdo desde que tengo GPS. Conduce más despacio para que no pasemos por alto la entrada." },
+        { "speaker": "Lena", "de": "Ich glaube, du hast die Ankunftszeit mit der Abflugzeit verwechselt.", "es": "Creo que confundiste la hora de llegada con la de salida del vuelo." },
+        { "speaker": "Martin", "de": "Das Krankenhaus auf der rechten Seite ist kaum zu übersehen.", "es": "El hospital de la derecha es casi imposible de pasar por alto." },
+        { "speaker": "Lena", "de": "Guten Tag. Ich hatte einen Termin zur Wohnungsbesichtigung. Welche Nebenkosten sind in der Miete enthalten?", "es": "Buenos días. Tenía cita para ver el piso. ¿Qué gastos adicionales están incluidos en el alquiler?" },
+        { "speaker": "Martin", "de": "Sind Haustiere erlaubt? Wissen Sie, ob es auch einen Kindergarten in der Nähe gibt?", "es": "¿Se permiten animales domésticos? ¿Sabe si hay una guardería cerca?" },
+        { "speaker": "Lena", "de": "Wer ist für das Putzen des Treppenhauses zuständig?", "es": "¿Quién se encarga de limpiar las escaleras?" },
+        { "speaker": "Martin", "de": "Glaubst du, dass du die Situation überschauen kannst? Es ist nicht einfach, die möglichen Konsequenzen zu überschauen.", "es": "¿Crees que puedes controlar la situación? No es fácil identificar las posibles consecuencias." },
+        { "speaker": "Lena", "de": "Ich muss mehr über das Projekt wissen, damit ich es überschauen kann.", "es": "Tengo que saber más sobre el proyecto para poder controlarlo." },
+        { "speaker": "Martin", "de": "Ich überlasse nichts dem Zufall. Die Entscheidung solltest du ihr überlassen.", "es": "No dejo nada al azar. Deberías dejar la decisión en sus manos." },
+        { "speaker": "Lena", "de": "Unterschreib den Vertrag bloß nicht! Du solltest nichts unterschreiben, ohne es mir davor zu zeigen.", "es": "¡No firmes el contrato! No deberías firmar nada sin enseñármelo antes." },
+        { "speaker": "Martin", "de": "Ich werde nichts unterschreiben, ohne davor mit meinem Anwalt zu sprechen. Wo muss ich unterschreiben?", "es": "No firmaré nada sin hablar antes con mi abogado. ¿Dónde tengo que firmar?" },
+        { "speaker": "Lena", "de": "Verlass dich auf mich.", "es": "Cuenta conmigo." },
+        { "speaker": "Martin", "de": "Du kannst dich darauf verlassen, dass alles nach Plan gehen wird. Wer übernimmt die Verantwortung?", "es": "Puedes contar con que todo saldrá según lo planeado. ¿Quién asume la responsabilidad?" },
+        { "speaker": "Lena", "de": "Kannst du den Fall übernehmen? Ich weiß nicht, ob der Anwalt den Fall übernimmt.", "es": "¿Puedes hacerte cargo del caso? No sé si el abogado lo hará." },
+        { "speaker": "Martin", "de": "Lass mich doch mal überlegen. Hast du schon mal überlegt, den Beruf zu wechseln?", "es": "Déjame pensar. ¿Has pensado alguna vez en cambiar de profesión?" },
+        { "speaker": "Lena", "de": "Ich überlege, ob ich Deutsch lernen soll. Ich würde gerne später mal den Betrieb meiner Eltern übernehmen.", "es": "Estoy pensando en aprender alemán. Me gustaría hacerme cargo algún día del negocio de mis padres." },
+        { "speaker": "Martin", "de": "Wir haben früher mehr Zeit zusammen verbracht.", "es": "Antes pasábamos más tiempo juntos." },
+        { "speaker": "Lena", "de": "Wollen wir dieses Wochenende etwas zusammen unternehmen? Wir haben schon lange nichts mehr unternommen.", "es": "¿Hacemos algo juntos este fin de semana? Hace mucho que no hacemos nada." },
+        { "speaker": "Martin", "de": "Ich würde gerne dieses Wochenende allein verbringen. Ich würde gerne mal in einem Fünf-Sterne-Hotel übernachten.", "es": "Me gustaría pasar este fin de semana solo. Me gustaría alojarme alguna vez en un hotel de cinco estrellas." },
+        { "speaker": "Lena", "de": "Worüber habt ihr euch unterhalten?", "es": "¿De qué hablasteis?" },
+        { "speaker": "Martin", "de": "Wir haben uns lange darüber unterhalten. Es ist gut, alles zu hinterfragen.", "es": "Hemos hablado mucho rato de ello. Es bueno cuestionarlo todo." },
+        { "speaker": "Lena", "de": "Wissenschaftler hinterfragen die neue Methode. Ich würde dich niemals hintergehen.", "es": "Los científicos cuestionan el nuevo método. Yo jamás te engañaría." },
+        { "speaker": "Martin", "de": "Du kannst dich hundertprozentig auf uns verlassen. Soll ich ihm eine Nachricht hinterlassen?", "es": "Puedes contar con nosotros al cien por cien. ¿Le dejo un mensaje?" },
+        { "speaker": "Lena", "de": "Ich möchte gerne drei Eintrittskarten für das Philharmoniker-Konzert kaufen. Welche Sitzplätze stehen noch zur Verfügung?", "es": "Quisiera comprar tres entradas para el concierto de la Filarmónica. ¿Qué asientos quedan disponibles?" },
+        { "speaker": "Martin", "de": "Wünschen Sie Sitz- oder Stehplätze? Gut, dann nehme ich die zweite Reihe.", "es": "¿Desea localidades de pie o sentado? Bien, entonces cojo la segunda fila." },
+        { "speaker": "Lena", "de": "Kann ich die Karten an der Kasse abholen? Ab wie viel Uhr ist der Einlass?", "es": "¿Puedo recoger las entradas en taquilla? ¿A partir de qué hora se puede entrar?" },
+        { "speaker": "Martin", "de": "Ab zwanzig Uhr. Ach, wir machen es uns ganz gemütlich.", "es": "A partir de las ocho. Venga, vamos a ponernos cómodos." }
+      ]
+    }
+  ]
+}
