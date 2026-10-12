@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-44",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Ausflug zum alten Schloss",
+      "subtitle": "Planificación, trayecto y reparaciones en un castillo histórico",
+      "description": "Lena y Martin preparan una excursión y colaboran en el mantenimiento de un castillo, respetando horarios, normas y medidas de seguridad con el vocabulario y las estructuras de Buch 44.",
+      "duration": "3:03",
+      "audioSrc": "/audio/buch-44-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Was hältst du davon, wenn wir nächstes Wochenende einen Ausflug machen?", "es": "¿Qué te parece si hacemos una excursión el próximo fin de semana?" },
+        { "speaker": "Martin", "de": "Wir werden versuchen, den Zeitplan einzuhalten.", "es": "Intentaremos cumplir el horario." },
+        { "speaker": "Lena", "de": "Ich werde mich an die Vereinbarung halten.", "es": "Respetaré el acuerdo." },
+        { "speaker": "Martin", "de": "Das schlechte Wetter hält uns nicht davon ab, einen Ausflug zu machen.", "es": "El mal tiempo no nos impide hacer una excursión." },
+        { "speaker": "Lena", "de": "Ich werde mein Bestes tun, um den Zeitplan einzuhalten.", "es": "Haré todo lo posible por cumplir el horario." },
+        { "speaker": "Martin", "de": "Ich musste weiterfahren, weil der Zug dort nicht gehalten hat.", "es": "Tuve que continuar porque el tren no paró allí." },
+        { "speaker": "Lena", "de": "Können wir kurz halten? Mir ist übel.", "es": "¿Podemos parar un momento? Estoy mareada." },
+        { "speaker": "Martin", "de": "Nach der Ortseinfahrt musst du dich immer links halten.", "es": "Tras la entrada del pueblo debes ir por la izquierda." },
+        { "speaker": "Lena", "de": "Ich habe mich nicht rechts gehalten. Deshalb habe ich die Ausfahrt verpasst.", "es": "No me mantuve a la derecha y me pasé la salida." },
+        { "speaker": "Martin", "de": "Mach schnell, ich kann das nicht mehr lange halten.", "es": "Date prisa, no puedo sostenerlo mucho más." },
+        { "speaker": "Lena", "de": "Ich habe die Leiter festgehalten, während er die Glühbirne gewechselt hat.", "es": "Sujeté la escalera mientras él cambiaba la bombilla." },
+        { "speaker": "Martin", "de": "Halt dich am Geländer fest. Keine Sorge, er hält dich gut fest.", "es": "Agárrate a la barandilla. No te preocupes, él te sujeta bien." },
+        { "speaker": "Lena", "de": "Der Lärm ist nicht auszuhalten. Ich sag's dir, ich halte den Lärm nicht länger aus.", "es": "El ruido es insoportable. Te lo digo: no aguanto más este ruido." },
+        { "speaker": "Martin", "de": "Halt dich von dem Hund fern. Man sollte sich von wilden Tieren fernhalten.", "es": "Mantente alejada del perro. Uno debería mantenerse alejado de los animales salvajes." },
+        { "speaker": "Lena", "de": "Ich halte mich lieber aus der Sache raus. Das geht dich nichts an.", "es": "Prefiero mantenerme al margen del asunto. Esto no te incumbe." },
+        { "speaker": "Martin", "de": "So ein Schloss ist nicht einfach instand zu halten. Es macht viel Arbeit, ein Schloss instand zu halten.", "es": "Un castillo así no es fácil de conservar. Mantenerlo da mucho trabajo." },
+        { "speaker": "Lena", "de": "Der Hausmeister hat das Gebäude zwanzig Jahre lang instand gehalten. Kannst du die Wohnung in Ordnung halten?", "es": "El portero mantuvo el edificio durante veinte años. ¿Puedes cuidar el piso?" },
+        { "speaker": "Martin", "de": "Wie kann man Lebensmittel am besten frisch halten? Diese Thermoskanne hält den Kaffee lange warm.", "es": "¿Cuál es la mejor manera de conservar los alimentos? Este termo mantiene el café caliente." },
+        { "speaker": "Lena", "de": "Der Kaffee wird mich wach halten. Ich kann mich nicht wach halten.", "es": "El café me mantendrá despierta. No puedo mantenerme despierta." },
+        { "speaker": "Martin", "de": "Fahrradfahren hält mich fit. Sport und gesunde Ernährung halten mich jung.", "es": "Montar en bicicleta me mantiene en forma. El deporte y una alimentación sana me mantienen joven." },
+        { "speaker": "Lena", "de": "Was halten Sie von dem Projekt? Wir halten es für wichtig, zufriedene Mitarbeiter zu haben.", "es": "¿Qué opina del proyecto? Consideramos importante tener trabajadores contentos." },
+        { "speaker": "Martin", "de": "Wir haben uns an die Vorschriften gehalten. Das Gesetz wurde streng eingehalten.", "es": "Nos hemos atenido a las normativas. La ley se respetó rigurosamente." },
+        { "speaker": "Lena", "de": "Wir werden die Sache geheim halten. Die Sache muss streng geheim gehalten werden.", "es": "Mantendremos el asunto en secreto. Debe mantenerse en estricto secreto." },
+        { "speaker": "Martin", "de": "Hoffentlich kann die Polizei die Demonstranten unter Kontrolle halten. Kann die Feuerwehr den Brand unter Kontrolle halten?", "es": "Esperemos que la policía controle a los manifestantes. ¿Pueden los bomberos controlar el incendio?" },
+        { "speaker": "Lena", "de": "Ich hoffe, dass der Schaden sich in Grenzen hält. Ich hoffe, dass die Kosten sich in Grenzen halten.", "es": "Espero que los daños y los costes sean limitados." },
+        { "speaker": "Martin", "de": "Ich werde dich auf dem Laufenden halten. Er hat uns über den Stand der Dinge auf dem Laufenden gehalten.", "es": "Te mantendré al corriente. Él nos mantuvo informados del estado de la situación." },
+        { "speaker": "Lena", "de": "Der Akku hat länger gehalten, als ich dachte. Milch hält sich ungefähr drei Tage.", "es": "La batería duró más de lo que pensaba. La leche se conserva unos tres días." },
+        { "speaker": "Martin", "de": "Das halte ich für selbstverständlich. Halt dich fest! Es geht los!", "es": "Lo doy por sentado. ¡Agárrate, que empezamos!" }
+      ]
+    }
+  ]
+}
