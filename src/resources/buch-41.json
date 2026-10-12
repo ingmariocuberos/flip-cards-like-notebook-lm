@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-41",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Der Kurs und der Museumsbesuch",
+      "subtitle": "Preparativos, participantes y lo mejor de una jornada cultural",
+      "description": "Lena y Martin organizan un curso con visita al museo, repasan la participación y comparan los resultados utilizando exclusivamente el vocabulario y las estructuras de Buch 41.",
+      "duration": "2:58",
+      "audioSrc": "/audio/buch-41-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Die meisten waren einverstanden, aber kaum jemand wollte unterschreiben.", "es": "La mayoría estaba de acuerdo, pero casi nadie quería firmar." },
+        { "speaker": "Martin", "de": "Die meisten von euch haben vielleicht schon von den Neuigkeiten gehört.", "es": "La mayoría quizá ya habéis oído las novedades." },
+        { "speaker": "Lena", "de": "Je mehr Leute mithelfen, desto besser. Je früher wir anfangen können, desto einfacher die Vorbereitung.", "es": "Cuanta más gente ayude, mejor. Cuanto antes podamos empezar, más fácil será la preparación." },
+        { "speaker": "Martin", "de": "Je später man anfängt, desto schlechter die Vorbereitung.", "es": "Cuanto más tarde se empiece, peor será la preparación." },
+        { "speaker": "Lena", "de": "Sag bitte Bescheid, wenn du mit dem Meisten fertig bist.", "es": "Avisa cuando hayas terminado con la mayor parte." },
+        { "speaker": "Martin", "de": "Einige von uns waren dabei und haben alles gesehen.", "es": "Algunos estuvimos allí y lo vimos todo." },
+        { "speaker": "Lena", "de": "Je länger ihr bleiben könnt, desto besser. Je weniger Leute mitmachen, desto schwieriger.", "es": "Cuanto más tiempo podáis quedaros, mejor. Cuanta menos gente participe, más difícil será." },
+        { "speaker": "Martin", "de": "Die meisten wollten mithelfen, aber kaum jemand hat Geld gegeben.", "es": "La mayoría quería ayudar, pero casi nadie dio dinero." },
+        { "speaker": "Lena", "de": "Es gibt manche Themen, über die ich vielleicht nicht sprechen sollte.", "es": "Hay temas sobre los que quizá no debería hablar." },
+        { "speaker": "Martin", "de": "Mit manchen Leuten ist es unmöglich, sich vernünftig zu unterhalten.", "es": "Con algunas personas es imposible conversar razonablemente." },
+        { "speaker": "Lena", "de": "Je mehr du übst, desto besser sprichst du.", "es": "Cuanto más practiques, mejor hablarás." },
+        { "speaker": "Martin", "de": "Man lernt am meisten, wenn man die Sachen selbst aufschreibt.", "es": "Se aprende más cuando uno mismo apunta las cosas." },
+        { "speaker": "Lena", "de": "Ich lerne am meisten, wenn ich die Sätze laut sage.", "es": "Aprendo más cuando digo las frases en alto." },
+        { "speaker": "Martin", "de": "Je mehr du lernst, desto bessere Noten bekommst du.", "es": "Cuanto más estudies, mejores notas sacarás." },
+        { "speaker": "Lena", "de": "Je besser deine Abschlussnote ist, desto höher ist die Wahrscheinlichkeit, dass du eine gute Stelle bekommst.", "es": "Cuanto mejor sea tu nota final, mayor será la probabilidad de conseguir un buen puesto." },
+        { "speaker": "Martin", "de": "Das sind die Kandidaten mit der meisten Erfahrung.", "es": "Estos son los candidatos con mayor experiencia." },
+        { "speaker": "Lena", "de": "Wie kommt man von hier am einfachsten zum Bahnhof? Dieser Weg ist am kürzesten.", "es": "¿Cuál es la forma más fácil de llegar a la estación? Este es el camino más corto." },
+        { "speaker": "Martin", "de": "Wie kommt man am schnellsten auf die Autobahn? Frag am besten noch mal nach.", "es": "¿Cuál es la forma más rápida de llegar a la autopista? Lo mejor es volver a preguntar." },
+        { "speaker": "Lena", "de": "Von dort aus kann man die Bühne am besten sehen. Von hier aus sieht man die Bühne am schlechtesten.", "es": "Desde allí se ve mejor el escenario. Desde aquí se ve peor." },
+        { "speaker": "Martin", "de": "Was hat dir am meisten gefallen? Mich interessiert am meisten moderne Kunst.", "es": "¿Qué es lo que más te ha gustado? Lo que más me interesa es el arte moderno." },
+        { "speaker": "Lena", "de": "Köln hat mir am meisten gefallen. Diese Ausstellung interessiert mich am wenigsten.", "es": "Colonia es lo que más me ha gustado. Esta exposición es lo que menos me interesa." },
+        { "speaker": "Martin", "de": "Am Anfang habe ich am meisten gelacht. Am Ende habe ich am meisten geweint.", "es": "Al principio fue cuando más me reí. Al final fue cuando más lloré." },
+        { "speaker": "Lena", "de": "Der Hauptdarsteller hat mir am besten gefallen. Die Hauptdarstellerin hat mir am wenigsten gefallen.", "es": "El protagonista fue quien más me gustó. La protagonista fue quien menos me gustó." },
+        { "speaker": "Martin", "de": "Was hat Ihnen am wenigsten gefallen? Die Filmmusik gefällt mir am wenigsten.", "es": "¿Qué es lo que menos le gustó? La banda sonora es lo que menos me gusta." },
+        { "speaker": "Lena", "de": "Guten Tag, ich habe eine Bluse mit einem Rotweinfleck. Kein Problem. Wir haben ein Spezialwaschmittel für solche Fälle.", "es": "Buenas tardes, tengo una blusa con una mancha de vino. No hay problema; tenemos un detergente especial." },
+        { "speaker": "Martin", "de": "Wann ist die Bluse fertig? Dann komme ich am Samstag wieder.", "es": "¿Cuándo estará lista la blusa? Entonces vuelvo el sábado." },
+        { "speaker": "Lena", "de": "Je öfter ich im Park spazieren gehe, desto besser fühle ich mich. Je früher du zum Arzt gehst, desto besser.", "es": "Cuanto más paseo por el parque, mejor me siento. Cuanto antes vayas al médico, mejor." },
+        { "speaker": "Martin", "de": "Je mehr Zeit man hat, desto mehr Gedanken macht man sich. Versteh mich nicht falsch.", "es": "Cuanto más tiempo se tiene, más vueltas se dan a las cosas. No me malinterpretes." }
+      ]
+    }
+  ]
+}
