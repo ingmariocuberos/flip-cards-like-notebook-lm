@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-35",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Vor der Hochzeitsreise",
+      "subtitle": "Un bolso robado, una luna de miel y los preparativos de la mudanza",
+      "description": "Lena y Martin reconstruyen el robo de un bolso durante una celebración, preparan su viaje de novios, comparan opciones de formación y hablan de su futura vivienda usando exclusivamente las preguntas y estructuras de las tres secciones de Buch 35.",
+      "duration": "3:36",
+      "audioSrc": "/audio/buch-35-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Guten Tag. Ich möchte eine Diebstahlsanzeige aufgeben. Meine Handtasche ist mir im Restaurant geklaut worden.", "es": "Buenos días. Quiero presentar una denuncia por robo. Me robaron el bolso en el restaurante." },
+        { "speaker": "Martin", "de": "Keiner hat etwas gesehen. Wen hast du im Restaurant getroffen?", "es": "Nadie vio nada. ¿A quién te encontraste en el restaurante?" },
+        { "speaker": "Lena", "de": "Marke Fossil, Farbe grün. In der Handtasche befanden sich mein Personalausweis und mein Geldbeutel.", "es": "Marca Fossil, color verde. En el bolso estaban mi documento de identidad y mi monedero." },
+        { "speaker": "Martin", "de": "Auch dein Führerschein, deine Bankkarten sowie Auto- und Hausschlüssel waren in der Handtasche drin?", "es": "¿También estaban dentro tu permiso de conducir, tus tarjetas y las llaves del coche y de casa?" },
+        { "speaker": "Lena", "de": "Wem hast du die Eintrittskarte gegeben? Mit wem bist du auf dem Polterabend gewesen?", "es": "¿A quién diste la entrada? ¿Con quién estuviste en la fiesta preboda?" },
+        { "speaker": "Martin", "de": "Von wem bist du auf den Polterabend eingeladen worden? Zu wem bist du nach Hause gegangen?", "es": "¿Quién te invitó a la fiesta preboda? ¿A casa de quién fuiste después?" },
+        { "speaker": "Lena", "de": "Ich weiß, wem ich die Einladung gegeben habe. Also gut, zur Hochzeitsreise.", "es": "Sé a quién di la invitación. Bien, hablemos del viaje de novios." },
+        { "speaker": "Martin", "de": "Was für einen Adapter brauchen wir für die Reise in die USA?", "es": "¿Qué tipo de adaptador necesitamos para el viaje a Estados Unidos?" },
+        { "speaker": "Lena", "de": "Was für ein Visum brauchen wir?", "es": "¿Qué tipo de visado necesitamos?" },
+        { "speaker": "Martin", "de": "Was für eine Fluggesellschaft können Sie uns empfehlen?", "es": "¿Qué aerolínea puede recomendarnos?" },
+        { "speaker": "Lena", "de": "Mit was für einem Reisebüro habt ihr eure Hochzeitsreise gebucht?", "es": "¿Con qué agencia de viajes reservasteis vuestra luna de miel?" },
+        { "speaker": "Martin", "de": "In was für einem Hotel habt ihr übernachtet? Nach was für einem Hotel sucht ihr?", "es": "¿En qué tipo de hotel os alojasteis? ¿Qué tipo de hotel buscáis?" },
+        { "speaker": "Lena", "de": "Wir suchen ein Hotel für die Flitterwochen. Wie weit ist es von hier bis zum nächsten Reisebüro?", "es": "Buscamos un hotel para la luna de miel. ¿Qué distancia hay hasta la agencia de viajes más cercana?" },
+        { "speaker": "Martin", "de": "Welcher Kurs wird diese Woche angeboten? In welcher Akademie werden Sprachkurse angeboten?", "es": "¿Qué curso ofrecen esta semana? ¿En qué academia ofrecen cursos de idiomas?" },
+        { "speaker": "Lena", "de": "An welchem Workshop soll ich teilnehmen? Welches Seminar ist am interessantesten?", "es": "¿En qué taller debería participar? ¿Qué seminario es el más interesante?" },
+        { "speaker": "Martin", "de": "Mit welchem Kurs habe ich bessere Berufschancen? Weißt du, in welchem Raum der Workshop stattfindet?", "es": "¿Con qué curso tengo mejores salidas laborales? ¿Sabes en qué aula se celebra el taller?" },
+        { "speaker": "Lena", "de": "Wie lange lernt man für die Abschlussprüfung?", "es": "¿Cuánto se estudia para el examen final?" },
+        { "speaker": "Martin", "de": "Wie lange dauert eine Überweisung ins Ausland? Wie lange hält der Akku eines Laptops?", "es": "¿Cuánto tarda una transferencia al extranjero? ¿Cuánto dura la batería de un portátil?" },
+        { "speaker": "Lena", "de": "Welche Unterlagen muss ich mit der Bewerbung zuschicken? Welche Fristen muss ich einhalten?", "es": "¿Qué documentación debo enviar con la solicitud? ¿Qué plazos debo cumplir?" },
+        { "speaker": "Martin", "de": "Gibt es auch Vorlesungen auf Spanisch? Mit welchem Studium hat man bessere Berufschancen?", "es": "¿Hay también clases en español? ¿Con qué carrera se tienen mejores salidas laborales?" },
+        { "speaker": "Lena", "de": "Worüber hat das Brautpaar sich in den Flitterwochen am meisten gefreut?", "es": "¿Qué fue lo que más ilusionó a los novios durante la luna de miel?" },
+        { "speaker": "Martin", "de": "Woran denkst du gerade? Woran erinnert dich der Geruch nach Zimt?", "es": "¿En qué piensas ahora? ¿A qué te recuerda el olor a canela?" },
+        { "speaker": "Lena", "de": "Worauf ist bei einer Wohnungsbesichtigung zu achten? Worauf ist bei einem Mietvertrag zu achten?", "es": "¿En qué hay que fijarse al visitar un piso? ¿Y en un contrato de alquiler?" },
+        { "speaker": "Martin", "de": "Womit kann ich euch beim Umzug helfen? Wofür braucht ihr den Schraubenzieher?", "es": "¿En qué puedo ayudaros con la mudanza? ¿Para qué necesitáis el destornillador?" },
+        { "speaker": "Lena", "de": "Wofür brauchen wir den Hammer und die Nägel? Wozu ist das Werkzeug gut?", "es": "¿Para qué necesitamos el martillo y los clavos? ¿Para qué sirve la herramienta?" },
+        { "speaker": "Martin", "de": "Womit kann man Flecken auf einem Teppich reinigen? Worüber hat der Nachbar sich beim Umzug aufgeregt?", "es": "¿Con qué se limpian las manchas de una alfombra? ¿Por qué se alteró el vecino durante la mudanza?" },
+        { "speaker": "Lena", "de": "Woran erkennt man einen wahren Freund? Woran erkennt man wahre Liebe?", "es": "¿Cómo se reconoce a un amigo verdadero? ¿Cómo se reconoce el amor verdadero?" },
+        { "speaker": "Martin", "de": "Meiner Meinung nach erkennt man wahre Liebe in den Flitterwochen. Das ist alles.", "es": "En mi opinión, el amor verdadero se reconoce durante la luna de miel. Eso es todo." }
+      ]
+    }
+  ]
+}
