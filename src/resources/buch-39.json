@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-39",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Wohnung, Reise und Übersetzung",
+      "subtitle": "Decisiones compartidas antes de una mudanza y un viaje",
+      "description": "Lena y Martin comparan pisos, preparan un viaje, buscan documentos y encargan una traducción utilizando exclusivamente el vocabulario y las estructuras de las tres secciones de Buch 39.",
+      "duration": "3:07",
+      "audioSrc": "/audio/buch-39-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Die Wohnung hat sowohl einen Balkon als auch eine Terrasse.", "es": "El piso tiene tanto balcón como terraza." },
+        { "speaker": "Martin", "de": "Wir möchten einen Mitbewohner, der sowohl sauber als auch ordentlich ist.", "es": "Queremos un compañero de piso limpio y ordenado." },
+        { "speaker": "Lena", "de": "Weder die Schule noch der Kindergarten sind in der Nähe.", "es": "Ni el colegio ni la escuela infantil están cerca." },
+        { "speaker": "Martin", "de": "Ich suche eine Wohnung, die weder zu nah noch zu weit von der Innenstadt entfernt ist.", "es": "Busco un piso que no esté ni demasiado cerca ni demasiado lejos del centro." },
+        { "speaker": "Lena", "de": "Wir fanden bisher jedes Haus entweder zu klein oder zu teuer.", "es": "Hasta ahora todas las casas nos parecieron demasiado pequeñas o caras." },
+        { "speaker": "Martin", "de": "Wir haben sowohl die Flüge als auch das Hotel gebucht.", "es": "Hemos reservado tanto los vuelos como el hotel." },
+        { "speaker": "Lena", "de": "Entweder ein teures Hotel oder Erste-Klasse-Tickets: Beides können wir uns nicht leisten.", "es": "O un hotel caro o billetes de primera clase: no podemos permitirnos ambas cosas." },
+        { "speaker": "Martin", "de": "Ich werde entweder den Zug oder das Flugzeug nehmen. Es kommt darauf an, welcher billiger ist.", "es": "Cogeré el tren o el avión. Depende de cuál sea más barato." },
+        { "speaker": "Lena", "de": "Die Karten gibt es sowohl im Vorverkauf als auch an der Abendkasse.", "es": "Las entradas están disponibles en venta anticipada y en taquilla." },
+        { "speaker": "Martin", "de": "Ich habe bisher weder den Hin- noch den Rückflug gebucht.", "es": "Hasta ahora no he reservado ni el vuelo de ida ni el de vuelta." },
+        { "speaker": "Lena", "de": "Entweder ich habe meinen Geldbeutel zuhause vergessen oder er wurde mir geklaut.", "es": "O me dejé el monedero en casa o me lo robaron." },
+        { "speaker": "Martin", "de": "Deine Schlüssel sind weder in der Tasche noch auf dem Esstisch.", "es": "Tus llaves no están ni en el bolso ni en la mesa." },
+        { "speaker": "Lena", "de": "Der alte Koffer ist entweder im Keller oder auf dem Dachboden.", "es": "La maleta vieja está en el sótano o en el desván." },
+        { "speaker": "Martin", "de": "Die Unterlagen liegen entweder in dieser Schublade oder in dieser da.", "es": "La documentación está en este cajón o en aquel." },
+        { "speaker": "Lena", "de": "Guten Morgen, ich muss meine Zeugnisse übersetzen lassen.", "es": "Buenos días, necesito traducir mis certificados." },
+        { "speaker": "Martin", "de": "Ja, ich benötige eine beglaubigte Übersetzung vom Spanischen ins Deutsche.", "es": "Sí, necesito una traducción jurada del castellano al alemán." },
+        { "speaker": "Lena", "de": "Das würde 40 Euro zuzüglich Mehrwertsteuer kosten. Sind die Versandkosten inbegriffen?", "es": "Costaría 40 euros más IVA. ¿Están incluidos los gastos de envío?" },
+        { "speaker": "Martin", "de": "Wie lange brauchen Sie dafür? Wir benötigen zwei Arbeitstage ab Auftragsbestätigung.", "es": "¿Cuánto tardarían? Necesitamos dos días laborables desde la confirmación." },
+        { "speaker": "Lena", "de": "Sie können das Paket sowohl heute als auch morgen abholen. Können Sie sich ausweisen?", "es": "Puede recoger el paquete tanto hoy como mañana. ¿Puede identificarse?" },
+        { "speaker": "Martin", "de": "Selbstverständlich, hier, mein Personalausweis.", "es": "Por supuesto, aquí tiene mi DNI." },
+        { "speaker": "Lena", "de": "Ich habe dich gefragt, ob du heute Abend kommst.", "es": "Te pregunté si vienes esta noche." },
+        { "speaker": "Martin", "de": "Tut mir leid, aber ich kann dich nicht hören. Ich rufe dich gleich noch mal an.", "es": "Lo siento, no te oigo. Ahora te vuelvo a llamar." },
+        { "speaker": "Lena", "de": "Wollen wir dieses Wochenende entweder schwimmen oder angeln gehen? Man darf hier weder zelten noch picknicken.", "es": "¿Este fin de semana vamos a nadar o pescar? Aquí no se puede ni acampar ni hacer pícnic." },
+        { "speaker": "Martin", "de": "Ich werde heute entweder schwimmen oder joggen gehen. Es ist weder drinnen noch draußen warm.", "es": "Hoy iré a nadar o a correr. No hace calor ni dentro ni fuera." },
+        { "speaker": "Lena", "de": "Weder die Schuhe noch der Gürtel passen zu der Hose. Sowohl meine Stiefel als auch meine Mütze sind wasserfest.", "es": "Ni los zapatos ni el cinturón combinan con el pantalón. Mis botas y mi gorro son impermeables." },
+        { "speaker": "Martin", "de": "Ich nehme entweder den roten oder den blauen Pullover. Es kommt darauf an, welcher besser zu meinen Schuhen passt.", "es": "Me llevaré el jersey rojo o el azul. Depende de cuál combine mejor con mis zapatos." },
+        { "speaker": "Lena", "de": "Die Vor-, Haupt- und Nachspeise sowie die Getränke sind im Preis inbegriffen. Ich esse weder Fisch noch Fleisch.", "es": "El entrante, plato principal, postre y bebidas están incluidos. No como ni pescado ni carne." },
+        { "speaker": "Martin", "de": "Der Wein ist genau richtig. Weder zu süß noch zu trocken. Ach so!", "es": "El vino está en su punto: ni demasiado dulce ni demasiado seco. ¡Ah, vale!" }
+      ]
+    }
+  ]
+}
