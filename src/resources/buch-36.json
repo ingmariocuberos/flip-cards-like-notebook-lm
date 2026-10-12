@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-36",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Vor der Weltreise",
+      "subtitle": "Una llamada matutina para preparar el viaje y encontrar los documentos",
+      "description": "Lena y Martin preparan una vuelta al mundo: se despiertan temprano, ordenan la vivienda, buscan documentos, consultan información y revisan sus planes usando exclusivamente el vocabulario y las estructuras de las tres secciones de Buch 36.",
+      "duration": "3:08",
+      "audioSrc": "/audio/buch-36-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Wach auf, das Frühstück ist fertig. Steh auf, sonst kommst du noch zu spät!", "es": "Despierta, el desayuno está listo. ¡Levántate o acabarás llegando tarde!" },
+        { "speaker": "Martin", "de": "Ich bin vom Lärm im Innenhof aufgewacht. Wann bist du aufgestanden?", "es": "Me despertó el ruido del patio. ¿Cuándo te levantaste?" },
+        { "speaker": "Lena", "de": "Wir müssen morgen um fünf aufstehen, weil wir in den Urlaub fahren.", "es": "Mañana debemos levantarnos a las cinco porque nos vamos de vacaciones." },
+        { "speaker": "Martin", "de": "Ich habe morgen schon etwas vor. Ich muss das Wohnzimmer aufräumen, bevor der Besuch kommt.", "es": "Mañana ya tengo planes. Tengo que ordenar el salón antes de que llegue la visita." },
+        { "speaker": "Lena", "de": "Kannst du bitte deinen Kram aufräumen? Ich habe deine Ohrringe beim Aufräumen gefunden.", "es": "¿Puedes ordenar tus trastos? Encontré tus pendientes mientras ordenaba." },
+        { "speaker": "Martin", "de": "Hast du überall nachgeschaut? Schau in der Schublade nach.", "es": "¿Has mirado en todas partes? Mira en el cajón." },
+        { "speaker": "Lena", "de": "Ich habe den Schrank aufgeräumt, damit ich mehr Platz habe.", "es": "He ordenado el armario para tener más espacio." },
+        { "speaker": "Martin", "de": "Hier haben Sie meinen Reisepass und den Mietvertrag.", "es": "Aquí tiene mi pasaporte y el contrato de alquiler." },
+        { "speaker": "Lena", "de": "Hast du mal im Reiseführer nachgeschlagen, welches Visum man für Russland braucht?", "es": "¿Consultaste en la guía qué visado se necesita para Rusia?" },
+        { "speaker": "Martin", "de": "Kannst du mal bitte im Reiseführer nachschlagen, welche Impfungen man in Afrika braucht?", "es": "¿Puedes consultar en la guía qué vacunas se necesitan en África?" },
+        { "speaker": "Lena", "de": "Schlag mal bitte im Reiseführer nach, welchen Adapter man in den USA braucht.", "es": "Consulta en la guía qué adaptador se necesita en Estados Unidos." },
+        { "speaker": "Martin", "de": "Ich würde ihm gerne eine Alternative vorschlagen.", "es": "Me gustaría proponerle una alternativa." },
+        { "speaker": "Lena", "de": "Soll ich dem Kunden direkt eine Lösung vorschlagen? Kommt dir dieses Angebot nicht unglaublich gut vor?", "es": "¿Le propongo directamente una solución al cliente? ¿No te parece increíblemente buena esta oferta?" },
+        { "speaker": "Martin", "de": "Hatten die Müllers nicht vor, demnächst in den Urlaub zu fahren?", "es": "¿Los Müller no pensaban irse pronto de vacaciones?" },
+        { "speaker": "Lena", "de": "Wir haben vor, bald zu heiraten.", "es": "Tenemos intención de casarnos pronto." },
+        { "speaker": "Martin", "de": "An ihrer Stelle würde ich schon mal die Gästeliste für die Hochzeit vorbereiten.", "es": "En su lugar prepararía ya la lista de invitados para la boda." },
+        { "speaker": "Lena", "de": "Ist der Saal für das Fest vorbereitet?", "es": "¿Está preparado el salón para la fiesta?" },
+        { "speaker": "Martin", "de": "Missverständnisse unter Freunden kommen immer wieder vor.", "es": "Los malentendidos entre amigos ocurren una y otra vez." },
+        { "speaker": "Lena", "de": "Du solltest über dein unmögliches Verhalten nachdenken. Denken Sie nicht so viel darüber nach.", "es": "Deberías reflexionar sobre tu comportamiento imposible. No piense tanto en ello." },
+        { "speaker": "Martin", "de": "Ich würde euch gerne eine andere Lösung vorschlagen. Könnt ihr später zum Kaffee und Kuchen nachkommen?", "es": "Me gustaría proponeros otra solución. ¿Podéis venir más tarde a tomar café y tarta?" },
+        { "speaker": "Lena", "de": "Ich werde euch mal seine E-Mail vorlesen. Bitte leg nicht auf.", "es": "Voy a leeros su correo electrónico. Por favor, no cuelgues." },
+        { "speaker": "Martin", "de": "Ich muss jetzt wirklich auflegen, sonst fährt das Taxi wieder weg. Das Taxi ist da.", "es": "De verdad tengo que colgar ya o el taxi se marchará. El taxi está aquí." },
+        { "speaker": "Lena", "de": "Schau mal bitte nach, ob jemand an der Tür steht. Ein Geräusch an der Tür hat mich geweckt.", "es": "Mira si hay alguien en la puerta. Un ruido en la puerta me despertó." },
+        { "speaker": "Martin", "de": "Ich musste schnell auflegen, weil jemand geklingelt hat. Hast du nachgesehen, ob was passiert ist?", "es": "Tuve que colgar rápidamente porque alguien llamó. ¿Has ido a ver si pasó algo?" },
+        { "speaker": "Lena", "de": "Keine Widerrede! Zähl bitte das Geld nach. Haben Sie das Wechselgeld sofort nachgezählt?", "es": "¡Sin rechistar! Vuelve a contar el dinero. ¿Contó enseguida el cambio?" },
+        { "speaker": "Martin", "de": "Zähl noch einmal zur Kontrolle alles nach. Hier bitte, meine Fahrkarte.", "es": "Vuelve a contarlo todo como control. Aquí tienes mi billete." },
+        { "speaker": "Lena", "de": "Wie viele Stationen sind es noch bis Frankfurt Hauptbahnhof? Ist das weit?", "es": "¿Cuántas paradas faltan para la estación central de Fráncfort? ¿Está lejos?" },
+        { "speaker": "Martin", "de": "Vielen Dank, dann schaffe ich es noch, etwas zu trinken, bevor ich in Frankfurt ankomme.", "es": "Muchas gracias; entonces aún me da tiempo a beber algo antes de llegar a Fráncfort." }
+      ]
+    }
+  ]
+}
