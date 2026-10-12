@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-42",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Die verschobene Konferenz",
+      "subtitle": "Mal tiempo, retrasos y mucho trabajo antes de una conferencia",
+      "description": "Lena y Martin reorganizan una conferencia afectada por el mal tiempo y los retrasos, explican las causas, anticipan obligaciones y revisan las quejas usando exclusivamente el vocabulario y las estructuras de Buch 42.",
+      "duration": "3:19",
+      "audioSrc": "/audio/buch-42-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Wir werden unser Bestes tun, damit die Konferenz ein Erfolg wird.", "es": "Haremos todo lo posible para que la conferencia sea un éxito." },
+        { "speaker": "Martin", "de": "Da unser Flug Verspätung hat, werden wir das Meeting verschieben.", "es": "Como nuestro vuelo tiene retraso, aplazaremos la reunión." },
+        { "speaker": "Lena", "de": "Da sich das Wetter verschlechtert hat, muss das Spiel verschoben werden.", "es": "Como el tiempo ha empeorado, el partido debe aplazarse." },
+        { "speaker": "Martin", "de": "Der Regen wurde immer stärker, sodass wir keine andere Wahl hatten, als das Fest abzusagen.", "es": "La lluvia arreció, así que no quedó otra opción que cancelar la fiesta." },
+        { "speaker": "Lena", "de": "Unser Flug hatte Verspätung, sodass wir keine andere Wahl hatten, als die Besprechung abzusagen.", "es": "El vuelo se retrasó, así que no tuvimos otra opción que cancelar la reunión." },
+        { "speaker": "Martin", "de": "Wir werden unter diesen Umständen die Frist nicht einhalten können.", "es": "En estas circunstancias no podremos cumplir el plazo." },
+        { "speaker": "Lena", "de": "Wenn du dich beeilst, wirst du den Bericht abgeben können.", "es": "Si te das prisa, podrás entregar el informe." },
+        { "speaker": "Martin", "de": "Wenn wir so weitermachen, werden wir die Frist nicht einhalten können.", "es": "Si seguimos así, no podremos cumplir el plazo." },
+        { "speaker": "Lena", "de": "Früher oder später wirst du es ihm sagen müssen.", "es": "Tarde o temprano tendrás que decírselo." },
+        { "speaker": "Martin", "de": "Da es Beschwerden gegeben hat, darf man keine Haustiere mehr mitbringen.", "es": "Como ha habido quejas, ya no se pueden traer mascotas." },
+        { "speaker": "Lena", "de": "Ab zehn Uhr müssen wir die Musik ausmachen, da es schon Beschwerden gegeben hat.", "es": "A partir de las diez debemos apagar la música porque ya hubo quejas." },
+        { "speaker": "Martin", "de": "Das Restaurant wird immer beliebter, weswegen man neuerdings reservieren muss.", "es": "El restaurante gana popularidad, por lo que ahora hay que reservar." },
+        { "speaker": "Lena", "de": "Wir sollten vor acht dort sein, denn später bekommen wir keinen Tisch mehr.", "es": "Deberíamos estar allí antes de las ocho porque después no habrá mesa." },
+        { "speaker": "Martin", "de": "Es gab keine Busse, sodass ich ein Taxi nehmen musste.", "es": "No había autobuses, así que tuve que coger un taxi." },
+        { "speaker": "Lena", "de": "Ich habe keine Nachricht bekommen, sodass ich nicht wusste, wo wir uns treffen.", "es": "No recibí ningún mensaje, así que no sabía dónde habíamos quedado." },
+        { "speaker": "Martin", "de": "Tu mir den Gefallen und ruf dort für mich an.", "es": "Hazme el favor y llama por mí." },
+        { "speaker": "Lena", "de": "Wenn sie sich nicht meldet, werden wir die Polizei rufen müssen.", "es": "Si ella no da señales, tendremos que llamar a la policía." },
+        { "speaker": "Martin", "de": "Er tut so, als ob er von nichts wüsste.", "es": "Hace como si no supiera nada." },
+        { "speaker": "Lena", "de": "Tust du nur so oder bist du wirklich sauer?", "es": "¿Solo estás fingiendo o estás enfadado de verdad?" },
+        { "speaker": "Martin", "de": "Wir haben uns beschwert, aber es tut sich nichts.", "es": "Nos hemos quejado, pero no pasa nada." },
+        { "speaker": "Lena", "de": "Wir tun unser Bestes, um Ihnen zu helfen.", "es": "Hacemos todo lo posible para ayudarle." },
+        { "speaker": "Martin", "de": "Ich werde bald wieder arbeiten können. In Zukunft werde ich keine Überstunden machen können.", "es": "Pronto podré volver a trabajar. A partir de ahora no podré hacer horas extra." },
+        { "speaker": "Lena", "de": "Da er einen Unfall hatte, wird er nicht mehr Fußball spielen können. Wird er jemals wieder laufen können?", "es": "Como tuvo un accidente, no podrá volver a jugar al fútbol. ¿Podrá volver a caminar alguna vez?" },
+        { "speaker": "Martin", "de": "Wenn es ihm besser geht, wird er wieder Sport machen können. Wird sie nach der OP im Krankenhaus bleiben müssen?", "es": "Si mejora, podrá volver a hacer deporte. ¿Tendrá que quedarse ella en el hospital tras la operación?" },
+        { "speaker": "Lena", "de": "Er ist oft erkältet. Das hat mit dem Rauchen zu tun. Früher oder später werden Sie mit dem Rauchen aufhören müssen.", "es": "Él está resfriado a menudo. Tiene que ver con fumar. Tarde o temprano tendrá que dejarlo." },
+        { "speaker": "Martin", "de": "Glaubst du, der Husten hat mit dem Rauchen zu tun? Der Husten wurde immer schlimmer, sodass ich schlussendlich zum Arzt gegangen bin.", "es": "¿Crees que la tos tiene que ver con fumar? La tos empeoraba, así que al final fui al médico." },
+        { "speaker": "Lena", "de": "Ich möchte Gutes tun. Ich habe ihm schon oft einen Gefallen getan.", "es": "Quiero hacer el bien. Ya le he hecho favores varias veces." },
+        { "speaker": "Martin", "de": "Wir werden unser Bestes tun, damit die Konferenz ein Erfolg wird. Na und? Weiter.", "es": "Haremos todo lo posible para que la conferencia sea un éxito. ¿Y qué? Continuemos." }
+      ]
+    }
+  ]
+}
