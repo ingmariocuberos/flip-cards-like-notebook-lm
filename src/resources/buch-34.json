@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-34",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Was ist mit dem Koffer passiert?",
+      "subtitle": "Una llegada, una maleta perdida y planes para empezar una nueva etapa",
+      "description": "Lena llega a la ciudad y cuenta a Martin cómo perdió su maleta; juntos buscan transporte, consultan un anuncio de vivienda y preparan una candidatura laboral utilizando las preguntas directas e indirectas de las tres secciones de Buch 34.",
+      "duration": "3:00",
+      "audioSrc": "/audio/buch-34-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Guten Tag. Mein Koffer war nicht auf dem Gepäckband. Ich weiß nicht, was passiert ist.", "es": "Buenos días. Mi maleta no estaba en la cinta de equipajes. No sé qué ha pasado." },
+        { "speaker": "Martin", "de": "Kannst du mir sagen, was passiert ist? Weißt du, warum das so ist?", "es": "¿Puedes decirme qué ha pasado? ¿Sabes por qué ha sido así?" },
+        { "speaker": "Lena", "de": "Ich weiß nicht, wie das passieren konnte. Hier ist mein Flugticket mit der Flugnummer und dem Gepäckaufkleber.", "es": "No sé cómo pudo pasar. Aquí está mi billete con el número de vuelo y la pegatina del equipaje." },
+        { "speaker": "Martin", "de": "Ist es ein Hartschalenkoffer mit Rollen?", "es": "¿Es una maleta rígida con ruedas?" },
+        { "speaker": "Lena", "de": "Es ist ein Hartschalenkoffer mit Rollen, silberfarben und mit ganz vielen Aufklebern.", "es": "Es una maleta rígida con ruedas, plateada y con muchas pegatinas." },
+        { "speaker": "Martin", "de": "Hast du Anspruch auf Erstattung, falls der Koffer verloren gegangen ist?", "es": "¿Tienes derecho a una compensación si se ha perdido la maleta?" },
+        { "speaker": "Lena", "de": "Ich weiß nicht, wer der Ansprechpartner ist. Kann jemand mir sagen, wer der Verantwortliche hier ist?", "es": "No sé quién es la persona de contacto. ¿Puede alguien decirme quién es el responsable aquí?" },
+        { "speaker": "Martin", "de": "Frag ihn, was das Problem ist. Frag ihn auch, wo das genau ist.", "es": "Pregúntale cuál es el problema. Pregúntale también dónde está exactamente." },
+        { "speaker": "Lena", "de": "Was machst du heute? Kannst du mir zeigen, wie man zum Bahnhof kommt?", "es": "¿Qué haces hoy? ¿Puedes enseñarme cómo llegar a la estación?" },
+        { "speaker": "Martin", "de": "Zeig mir bitte auf dem Stadtplan, wie man zum Bahnhof kommt. Wann kommt der Bus an?", "es": "Enséñame en el plano cómo llegar a la estación. ¿Cuándo llega el autobús?" },
+        { "speaker": "Lena", "de": "Kannst du mir sagen, wohin dieser Bus fährt? Ich weiß nicht, wo es zum Zentrum geht.", "es": "¿Puedes decirme adónde va este autobús? No sé por dónde se va al centro." },
+        { "speaker": "Martin", "de": "Dieser Bus fährt ins Zentrum. So kommt man am schnellsten in die Innenstadt.", "es": "Este autobús va al centro. Así se llega lo más rápido posible al centro." },
+        { "speaker": "Lena", "de": "Wie viel kostet das?", "es": "¿Cuánto cuesta?" },
+        { "speaker": "Martin", "de": "Ich frag mich, wie viel das kosten wird. Wann wird der Bus ungefähr ankommen?", "es": "Me pregunto cuánto costará. ¿Cuándo llegará aproximadamente el autobús?" },
+        { "speaker": "Lena", "de": "Ich rufe wegen der Wohnungsanzeige im Wochenspiegel an. Ist die Wohnung noch verfügbar?", "es": "Llamo por el anuncio de vivienda del Wochenspiegel. ¿Sigue disponible el piso?" },
+        { "speaker": "Martin", "de": "Handelt es sich bei dem Preis um Kaltmiete oder Warmmiete? Wie viel kostet die Wohnung?", "es": "¿El precio corresponde al alquiler sin gastos o con gastos? ¿Cuánto cuesta el piso?" },
+        { "speaker": "Lena", "de": "Kann ich die Wohnung nur möbliert mieten oder auch ohne Möbel?", "es": "¿Puedo alquilar el piso solamente amueblado o también sin muebles?" },
+        { "speaker": "Martin", "de": "Wie viele Monatsmieten Kaution verlangen Sie? Und wann kann ich mir die Wohnung anschauen?", "es": "¿Cuántos meses de fianza pide? ¿Y cuándo puedo ver el piso?" },
+        { "speaker": "Lena", "de": "Was hast du morgen vor? Weißt du schon, wo du in Deutschland wohnen wirst?", "es": "¿Qué planes tienes mañana? ¿Ya sabes dónde vivirás en Alemania?" },
+        { "speaker": "Martin", "de": "Ich weiß nicht, wo sie wohnen. Warum fragst du?", "es": "No sé dónde viven. ¿Por qué preguntas?" },
+        { "speaker": "Lena", "de": "Ich habe eine Stellenanzeige in der Zeitung gesehen und möchte mich als Spanischlehrerin bewerben.", "es": "He visto una oferta de empleo en el periódico y quisiera solicitar el puesto de profesora de español." },
+        { "speaker": "Martin", "de": "Ist die Stelle noch zu haben? Welche Unterlagen soll ich zuschicken?", "es": "¿Sigue vacante el puesto? ¿Qué documentación debo enviar?" },
+        { "speaker": "Lena", "de": "Wann kann ich zu einem Vorstellungsgespräch vorbeikommen? Ab wann kann ich mit dem Praktikum anfangen?", "es": "¿Cuándo puedo pasar para una entrevista? ¿A partir de cuándo puedo empezar las prácticas?" },
+        { "speaker": "Martin", "de": "Kannst du mir sagen, wie viele Personen an dem Vorstellungsgespräch teilnehmen werden?", "es": "¿Puedes decirme cuántas personas participarán en la entrevista?" },
+        { "speaker": "Lena", "de": "Du wirst nicht glauben, wie viele Bewerbungen wir bekommen haben.", "es": "No vas a creer cuántas solicitudes hemos recibido." },
+        { "speaker": "Martin", "de": "Ich möchte gerne wissen, ab wann ich eine Antwort erwarten kann.", "es": "Me gustaría saber a partir de cuándo puedo esperar una respuesta." },
+        { "speaker": "Lena", "de": "Sag mir, wann du nach Hause kommst. Bis wann kann ich dich anrufen?", "es": "Dime cuándo llegas a casa. ¿Hasta qué hora puedo llamarte?" },
+        { "speaker": "Martin", "de": "Ich weiß, was du morgen machst. Kommen Sie mit.", "es": "Sé qué harás mañana. Acompáñeme." }
+      ]
+    }
+  ]
+}
