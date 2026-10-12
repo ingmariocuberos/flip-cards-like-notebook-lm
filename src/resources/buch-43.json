@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-43",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein chaotischer Prüfungstag",
+      "subtitle": "Objetos que se caen, una llave perdida y el alivio tras el examen",
+      "description": "Lena y Martin viven una mañana caótica antes de un examen: buscan una llave, comentan dificultades y nervios y terminan aliviados, usando exclusivamente el vocabulario y las estructuras de Buch 43.",
+      "duration": "2:44",
+      "audioSrc": "/audio/buch-43-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Das Buch ist mir auf den Fuß gefallen.", "es": "El libro se me cayó en el pie." },
+        { "speaker": "Martin", "de": "Pass auf, fall nicht hin!", "es": "¡Cuidado, no te caigas!" },
+        { "speaker": "Lena", "de": "Der Knopf ist mir vom Hemd abgefallen.", "es": "Se me desprendió el botón de la camisa." },
+        { "speaker": "Martin", "de": "Dir ist etwas aus der Tasche gefallen. Die Münzen sind aus dem Portemonnaie gefallen.", "es": "Se te cayó algo del bolsillo. Las monedas se cayeron del monedero." },
+        { "speaker": "Lena", "de": "Mein Handy ist unter das Sofa gefallen. Der Schlüssel ist unter den Tisch gefallen.", "es": "Mi móvil cayó debajo del sofá. La llave cayó debajo de la mesa." },
+        { "speaker": "Martin", "de": "Mir fällt gerade keine Lösung ein.", "es": "Ahora mismo no se me ocurre ninguna solución." },
+        { "speaker": "Lena", "de": "Plötzlich ist mir eingefallen, wo der Schlüssel war.", "es": "De repente recordé dónde estaba la llave." },
+        { "speaker": "Martin", "de": "Der Schlüssel ist mir reingefallen. Was ist in die Kiste reingefallen?", "es": "Se me cayó la llave dentro. ¿Qué cayó dentro de la caja?" },
+        { "speaker": "Lena", "de": "Das Blatt ist aus der Mappe rausgefallen. Nicht, dass etwas rausfällt.", "es": "La hoja se salió de la carpeta. Que no se caiga nada fuera." },
+        { "speaker": "Martin", "de": "Uns fällt bestimmt etwas ein.", "es": "Seguro que se nos ocurre algo." },
+        { "speaker": "Lena", "de": "Es fällt mir schwer, früh aufzustehen. Fällt es dir schwer, Deutsch zu lernen?", "es": "Me cuesta levantarme temprano. ¿Te cuesta aprender alemán?" },
+        { "speaker": "Martin", "de": "Sprachen fallen mir leicht. Es fällt mir leicht, Vokabeln zu lernen.", "es": "Los idiomas se me dan bien. Me resulta fácil aprender vocabulario." },
+        { "speaker": "Lena", "de": "Am Anfang ist es mir sehr schwergefallen. Die Übung ist mir leichtgefallen.", "es": "Al principio me costaba mucho. El ejercicio me resultó fácil." },
+        { "speaker": "Martin", "de": "Ich hoffe, dass ich nicht durchfalle. Die Hälfte der Klasse ist durchgefallen.", "es": "Espero no suspender. La mitad de la clase suspendió." },
+        { "speaker": "Lena", "de": "Warum bist du durchgefallen? Sie ist wieder durch die Fahrprüfung gefallen.", "es": "¿Por qué suspendiste? Ella volvió a suspender el examen de conducir." },
+        { "speaker": "Martin", "de": "Mir ist aufgefallen, dass er nervös war. Seine Abwesenheit ist aufgefallen.", "es": "Me llamó la atención que estaba nervioso. Su ausencia llamó la atención." },
+        { "speaker": "Lena", "de": "Ich will nicht auffallen. Der Unterschied fällt kaum auf.", "es": "No quiero llamar la atención. La diferencia apenas se nota." },
+        { "speaker": "Martin", "de": "Lass mich ausreden und fall mir nicht ins Wort. Ich hasse es, wenn man mir ins Wort fällt.", "es": "Déjame terminar y no me interrumpas. Odio que me interrumpan." },
+        { "speaker": "Lena", "de": "Entschuldigen Sie, dass ich Ihnen ins Wort falle. Dieses Geräusch fällt mir auf die Nerven.", "es": "Perdone que le interrumpa. Este sonido me pone de los nervios." },
+        { "speaker": "Martin", "de": "Es fällt mir auf die Nerven, dass er zu spät kommt. Hör auf, mir ins Wort zu fallen.", "es": "Me pone de los nervios que llegue tarde. Deja de interrumpirme." },
+        { "speaker": "Lena", "de": "Du bist nicht auf den Mund gefallen, oder? Sie ist nicht auf den Kopf gefallen.", "es": "No tienes pelos en la lengua, ¿verdad? Ella no tiene un pelo de tonta." },
+        { "speaker": "Martin", "de": "Obwohl er jung ist, ist er nicht auf den Kopf gefallen. Er ist nicht auf den Mund gefallen.", "es": "Aunque es joven, no tiene un pelo de tonto. Tampoco le faltan palabras." },
+        { "speaker": "Lena", "de": "Ich hatte nicht erwartet, dass er mir in den Rücken fällt. Lass nicht zu, dass man dir in den Rücken fällt.", "es": "No esperaba que me traicionara. No permitas que te traicionen." },
+        { "speaker": "Martin", "de": "Die Nachricht war so schlimm, dass ich fast in Ohnmacht gefallen wäre. Fall bloß nicht in Ohnmacht.", "es": "La noticia fue tan mala que casi me desmayo. No te vayas a desmayar." },
+        { "speaker": "Lena", "de": "Bei dieser Hitze könnte ich in Ohnmacht fallen. Ich falle in Ohnmacht, wenn ich Blut sehe.", "es": "Con este calor podría desmayarme. Me desmayo cuando veo sangre." },
+        { "speaker": "Martin", "de": "Als mein Antrag genehmigt wurde, fiel mir ein Stein vom Herzen. Da fällt mir ein Stein vom Herzen!", "es": "Cuando aprobaron mi solicitud, se me quitó un peso de encima. ¡Qué alivio!" },
+        { "speaker": "Lena", "de": "Mir fiel ein Stein vom Herzen, als ich hörte, dass alles in Ordnung war.", "es": "Me alivió saber que todo estaba bien." },
+        { "speaker": "Martin", "de": "Das ist mir leichter gefallen als erwartet. Na endlich! Sehr erfreut!", "es": "Eso fue más fácil de lo esperado. ¡Por fin! ¡Encantado!" }
+      ]
+    }
+  ]
+}
