@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-37",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Unterwegs zur Hochzeit",
+      "subtitle": "Ropa, granizo y un transbordo inesperado antes de la boda",
+      "description": "Lena y Martin se preparan para una boda, eligen la ropa, atraviesan la ciudad en transporte público y llegan al museo antes de la celebración usando exclusivamente el vocabulario y las estructuras de Buch 37.",
+      "duration": "2:57",
+      "audioSrc": "/audio/buch-37-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Steh auf und zieh dich an, sonst kommen wir noch zu spät!", "es": "Levántate y vístete; si no, llegaremos tarde." },
+        { "speaker": "Martin", "de": "Wie lange brauchst du, um dich morgens anzuziehen?", "es": "¿Cuánto tardas en vestirte por la mañana?" },
+        { "speaker": "Lena", "de": "Ich brauche morgens fünf Minuten, um mich anzuziehen. Schau mal raus, es hagelt!", "es": "Por la mañana necesito cinco minutos para vestirme. ¡Mira afuera, está granizando!" },
+        { "speaker": "Martin", "de": "Zieh dich warm an, sonst erkältest du dich noch. Zieh dir lieber einen Schal an.", "es": "Abrígate o acabarás resfriándote. Mejor ponte una bufanda." },
+        { "speaker": "Lena", "de": "Ich werde mir einen Strickpulli anziehen, damit mir nicht kalt wird. Meinst du das ernst?", "es": "Me pondré un jersey de punto para no pasar frío. ¿Lo dices en serio?" },
+        { "speaker": "Martin", "de": "Ich will mir etwas Anderes anziehen. Was hattest du auf der Hochzeit an?", "es": "Quiero ponerme algo distinto. ¿Qué llevabas puesto en la boda?" },
+        { "speaker": "Lena", "de": "Mein Vater wird sich seinen neuen Anzug anziehen.", "es": "Mi padre se pondrá su traje nuevo." },
+        { "speaker": "Martin", "de": "Zieh dich schnell um, wir müssen los! Ich bin unterwegs.", "es": "¡Cámbiate rápido, tenemos que irnos! Estoy de camino." },
+        { "speaker": "Lena", "de": "Bist du schon unterwegs? Ich steige gleich in den Zug ein. Wo steige ich am besten ein?", "es": "¿Ya estás de camino? Ahora mismo subo al tren. ¿Dónde es mejor subir?" },
+        { "speaker": "Martin", "de": "Lass uns weiter hinten einsteigen. Bitte alle einsteigen, der Zug fährt in zwei Minuten los.", "es": "Subamos más atrás. Suban todos, el tren sale dentro de dos minutos." },
+        { "speaker": "Lena", "de": "Ich glaube, wir sind in die falsche Straßenbahn eingestiegen.", "es": "Creo que subimos al tranvía equivocado." },
+        { "speaker": "Martin", "de": "Hol dir einen Plan, um zu gucken, in welche Linie du umsteigen musst.", "es": "Coge un plano para mirar a qué línea tienes que cambiar." },
+        { "speaker": "Lena", "de": "Muss ich umsteigen oder gibt es einen direkten Zug? Frag mal, wo wir umsteigen müssen.", "es": "¿Tengo que hacer transbordo o hay un tren directo? Pregunta dónde debemos cambiar." },
+        { "speaker": "Martin", "de": "Steig am Hauptbahnhof in die S-Bahn nach Nippes um. Wir müssen hier aussteigen.", "es": "Haz transbordo en la estación central al cercanías hacia Nippes. Tenemos que bajar aquí." },
+        { "speaker": "Lena", "de": "Ich muss gleich aussteigen, das ist meine Haltestelle.", "es": "Tengo que bajar enseguida; esta es mi parada." },
+        { "speaker": "Martin", "de": "Am besten fragst du den Fahrer, wo ihr aussteigen müsst, um zum Kunstmuseum zu kommen.", "es": "Lo mejor es preguntar al conductor dónde debéis bajar para ir al museo de arte." },
+        { "speaker": "Lena", "de": "Schau dir mal dieses Bild an. Schauen Sie sich alles in Ruhe an.", "es": "Mira este cuadro. Mírelo todo con calma." },
+        { "speaker": "Martin", "de": "Von dem Balkon kann man aufs Meer rausschauen.", "es": "Desde el balcón se puede ver el mar." },
+        { "speaker": "Lena", "de": "Schau genau hin. Man kann da gut reinschauen, weil keine Vorhänge da sind.", "es": "Mira detenidamente. Se puede ver bien el interior porque no hay cortinas." },
+        { "speaker": "Martin", "de": "Ich kann da nicht hinschauen. Ich schaue bei gruseligen Szenen immer weg.", "es": "No puedo mirar ahí. Siempre aparto la vista en las escenas de miedo." },
+        { "speaker": "Lena", "de": "Schau nicht weg, sondern mach etwas. Es ist schön, ihnen zuzuschauen.", "es": "No apartes la vista; haz algo. Es bonito observarlos." },
+        { "speaker": "Martin", "de": "Ich schaue gerne den Kindern zu, wie sie spielen. Fotografieren verboten.", "es": "Me gusta mirar cómo juegan los niños. Prohibido hacer fotos." },
+        { "speaker": "Lena", "de": "Kann ich mich umschauen? Vielen Dank, aber ich möchte mich nur umschauen.", "es": "¿Puedo echar un vistazo? Muchas gracias, pero solo quiero mirar." },
+        { "speaker": "Martin", "de": "Sie können sich gerne umschauen. Ich habe mich in dem Laden umgeschaut.", "es": "Puede echar un vistazo. Yo miré por la tienda." },
+        { "speaker": "Lena", "de": "Ziehen Sie sich bitte in der Umkleidekabine um. Man muss sich die Jacke bei der Sicherheitskontrolle ausziehen.", "es": "Cámbiese en el probador. Hay que quitarse la chaqueta en el control de seguridad." },
+        { "speaker": "Martin", "de": "Ich habe mich in der Umkleidekabine umgezogen. Er hat einen Anzug an.", "es": "Me he cambiado en el probador. Él lleva puesto un traje." },
+        { "speaker": "Lena", "de": "Was für ein Kleid hattest du an? Ich weiß nicht mehr, was für einen Anzug der Bräutigam anhatte.", "es": "¿Qué tipo de vestido llevabas? Ya no recuerdo qué traje llevaba el novio." },
+        { "speaker": "Martin", "de": "Schau bald mal wieder vorbei. Ich werde nächste Woche vorbeischauen.", "es": "Vuelve a pasarte pronto. Me pasaré la semana que viene." }
+      ]
+    }
+  ]
+}
