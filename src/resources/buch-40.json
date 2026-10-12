@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-40",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Was wir anders gemacht hätten",
+      "subtitle": "Un viaje accidentado visto con la perspectiva del día siguiente",
+      "description": "Lena y Martin reconstruyen un viaje con salida tardía, ruta equivocada, lluvia y una fiesta, y comentan qué habrían hecho de otra manera usando exclusivamente las estructuras y el vocabulario de Buch 40.",
+      "duration": "3:03",
+      "audioSrc": "/audio/buch-40-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Was hättest du an meiner Stelle gemacht?", "es": "¿Qué habrías hecho en mi lugar?" },
+        { "speaker": "Martin", "de": "Ich hätte ein Taxi genommen, aber du wolltest laufen.", "es": "Habría cogido un taxi, pero tú querías andar." },
+        { "speaker": "Lena", "de": "Wir hätten früher losfahren müssen. Dann wären wir nicht zu spät gekommen.", "es": "Tendríamos que haber salido antes. Entonces no habríamos llegado tarde." },
+        { "speaker": "Martin", "de": "Wenn wir mit dem Zug gefahren wären, wären wir noch später angekommen.", "es": "Si hubiéramos ido en tren, habríamos llegado aún más tarde." },
+        { "speaker": "Lena", "de": "Wir wären nass geworden, wenn wir mit dem Fahrrad gefahren wären.", "es": "Nos habríamos mojado si hubiéramos ido en bicicleta." },
+        { "speaker": "Martin", "de": "Ich hätte mich sicher verlaufen. Gut, dass ich eine Karte dabei hatte.", "es": "Seguro que me habría perdido. Menos mal que llevaba un mapa." },
+        { "speaker": "Lena", "de": "Wenn du kein Navi dabei gehabt hättest, hätten wir ein Problem gehabt.", "es": "Si no hubieras llevado GPS, habríamos tenido un problema." },
+        { "speaker": "Martin", "de": "Wenn ich nicht aufgepasst hätte, hätten wir vielleicht einen Unfall gehabt.", "es": "Si no hubiera prestado atención, quizá habríamos tenido un accidente." },
+        { "speaker": "Lena", "de": "Wärst du in dem Fall zur Polizei gegangen?", "es": "¿En ese caso habrías ido a la policía?" },
+        { "speaker": "Martin", "de": "In so einer Situation hätte ich etwas gesagt.", "es": "En una situación así habría dicho algo." },
+        { "speaker": "Lena", "de": "Du hättest mich ruhig anrufen können.", "es": "Podrías haberme llamado tranquilamente." },
+        { "speaker": "Martin", "de": "Sie hätten uns früher Bescheid sagen müssen.", "es": "Tendrían que habernos avisado antes." },
+        { "speaker": "Lena", "de": "Du hättest besser aufpassen müssen. Wir hätten merken müssen, dass bei der Sache etwas nicht stimmt.", "es": "Tendrías que haber prestado más atención. Deberíamos habernos dado cuenta de que algo no iba bien." },
+        { "speaker": "Martin", "de": "Ich hätte besser aufpassen müssen. Dann hätte ich die Ausfahrt nicht verpasst.", "es": "Tendría que haber prestado más atención. Entonces no me habría pasado la salida." },
+        { "speaker": "Lena", "de": "Wenn ich besser aufgepasst hätte, hätte ich mich nicht verfahren.", "es": "Si hubiera prestado más atención, no me habría perdido conduciendo." },
+        { "speaker": "Martin", "de": "Ich hätte lieber nach dem Weg fragen sollen. Wir hätten die Besprechung auch verschieben können.", "es": "Mejor debería haber preguntado cómo llegar. También podríamos haber aplazado la reunión." },
+        { "speaker": "Lena", "de": "Wenn ich das gewusst hätte, wäre ich nicht mitgegangen. Ich wäre gerne noch ein wenig geblieben.", "es": "Si lo hubiera sabido, no habría ido. Me habría gustado quedarme un poco más." },
+        { "speaker": "Martin", "de": "Selbst wenn ich Angst gehabt hätte, hätte ich mitgemacht. Ich wäre wirklich gerne mitgekommen.", "es": "Aunque hubiera tenido miedo, habría participado. De verdad me habría gustado ir." },
+        { "speaker": "Lena", "de": "Ich wäre auf die Party gegangen, wenn ich eine Einladung gehabt hätte. Wer hätte das gedacht?", "es": "Habría ido a la fiesta si hubiera recibido una invitación. ¿Quién lo habría pensado?" },
+        { "speaker": "Martin", "de": "Selbst wenn wir keine Einladung gehabt hätten, wären wir trotzdem auf die Party gegangen.", "es": "Aunque no hubiéramos recibido invitación, habríamos ido igualmente a la fiesta." },
+        { "speaker": "Lena", "de": "Bei dem Wetter hätten wir die Fenster zumachen sollen. Bei der Hitze hätten wir Sonnencreme mitbringen sollen.", "es": "Con ese tiempo deberíamos haber cerrado las ventanas. Con el calor deberíamos haber llevado crema solar." },
+        { "speaker": "Martin", "de": "Hätte ich auch meinen Hund mitbringen dürfen? Sie hätten ohne Probleme Ihren Hund mitbringen können.", "es": "¿Podría haber traído también a mi perro? Podría haberlo traído sin problema." },
+        { "speaker": "Lena", "de": "In das andere Hotel hätten wir keine Haustiere mitbringen können. Gut, dass du ihn gefahren hast.", "es": "En el otro hotel no podríamos haber llevado mascotas. Menos mal que lo llevaste." },
+        { "speaker": "Martin", "de": "In dem anderen Restaurant hätten wir keinen Tisch reservieren können. Ich hätte keinen Tisch bekommen.", "es": "En el otro restaurante no habríamos podido reservar mesa. Yo no habría conseguido mesa." },
+        { "speaker": "Lena", "de": "Entschuldigung, kann ich bitte ein Kissen und Kopfhörer haben? Ein Mineralwasser mit Eis und Zitrone, bitte.", "es": "Disculpe, ¿puede darme una almohada y auriculares? Agua mineral con hielo y limón, por favor." },
+        { "speaker": "Martin", "de": "Vielleicht eine Suppe? Welches Sandwich empfehlen Sie mir? Das klingt gut.", "es": "¿Quizá una sopa? ¿Qué sándwich me recomienda? Suena bien." },
+        { "speaker": "Lena", "de": "Hätten wir auch länger bleiben dürfen? Ich wäre gerne noch ein wenig geblieben.", "es": "¿Podríamos habernos quedado más tiempo? Me habría gustado quedarme un poco más." },
+        { "speaker": "Martin", "de": "Wir hätten keine so große Sache aus dem Streit machen sollen. Das hätte ich nicht besser sagen können.", "es": "No deberíamos haber hecho un mundo de la discusión. Yo no podría haberlo dicho mejor." }
+      ]
+    }
+  ]
+}
