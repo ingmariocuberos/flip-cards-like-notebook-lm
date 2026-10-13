@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-45",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Ein Tag voller Pläne",
+      "subtitle": "Recados, familia y un merecido descanso",
+      "description": "Lena y Martin organizan una mañana llena de recados, se ocupan de los niños y la casa, afrontan un trayecto complicado y terminan hablando de las cosas que aman y detestan con el vocabulario y las estructuras de Buch 45.",
+      "duration": "3:12",
+      "audioSrc": "/audio/buch-45-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Kannst du morgen früh Brötchen holen? Ich liebe den Geruch nach frischen Brötchen.", "es": "¿Puedes ir a por panecillos mañana temprano? Me encanta el olor de los panecillos recién hechos." },
+        { "speaker": "Martin", "de": "Ich werde gleich Brötchen holen. Ich liebe es, wenn alles nach Plan geht.", "es": "Ahora mismo iré a por panecillos. Me encanta cuando todo sale según lo planeado." },
+        { "speaker": "Lena", "de": "Kannst du die Kinder auf dem Weg nach Hause abholen?", "es": "¿Puedes recoger a los niños de camino a casa?" },
+        { "speaker": "Martin", "de": "Ich gehe schon mal los, weil ich noch die Kinder abholen muss. Ich werde das Paket auf dem Weg zur Arbeit abholen.", "es": "Voy saliendo porque todavía tengo que recoger a los niños. Recogeré el paquete de camino al trabajo." },
+        { "speaker": "Lena", "de": "Es fängt sicher gleich an, zu regnen. Hol bitte die Wäsche rein.", "es": "Seguro que va a empezar a llover. Mete la colada dentro, por favor." },
+        { "speaker": "Martin", "de": "Hast du gestern Abend die Handtücher reingeholt?", "es": "¿Metiste dentro las toallas anoche?" },
+        { "speaker": "Lena", "de": "Hol auch die Stühle ins Haus.", "es": "Mete también las sillas en casa." },
+        { "speaker": "Martin", "de": "Gut. Wo ist mein Schlüssel? Ich kann meinen Schlüssel nicht finden.", "es": "Bien. ¿Dónde está mi llave? No encuentro mi llave." },
+        { "speaker": "Lena", "de": "Schau noch mal in deiner Jacke nach und hol alles raus.", "es": "Mira otra vez en tu chaqueta y sácalo todo." },
+        { "speaker": "Martin", "de": "Kannst du mir meine Jacke aus dem Rucksack holen?", "es": "¿Puedes sacarme la chaqueta de la mochila?" },
+        { "speaker": "Lena", "de": "Hier ist sie. Hol dir am besten einen Stadtplan.", "es": "Aquí está. Lo mejor es que cojas un plano de la ciudad." },
+        { "speaker": "Martin", "de": "Ich überhole nicht gerne auf der Landstraße. Man darf nicht überholen, ohne davor zu blinken.", "es": "No me gusta adelantar en carreteras nacionales. No se puede adelantar sin poner antes el intermitente." },
+        { "speaker": "Lena", "de": "Pass auf, dass du dir keine Erkältung holst. Deine Jacke ist noch nass.", "es": "Ten cuidado de no coger un resfriado. Tu chaqueta todavía está mojada." },
+        { "speaker": "Martin", "de": "Keine Sorgen. Ich werde mir eine Decke holen. Wärst du so lieb und holst mir eine Flasche Wasser?", "es": "No te preocupes. Voy a coger una manta. ¿Serías tan amable de traerme una botella de agua?" },
+        { "speaker": "Lena", "de": "Soll ich dir auch ein Bier aus dem Keller holen?", "es": "¿Te subo también una cerveza del sótano?" },
+        { "speaker": "Martin", "de": "Nein, das ist nicht nötig. Ich muss die Kinder mit dem Auto abholen.", "es": "No, no hace falta. Tengo que recoger a los niños en coche." },
+        { "speaker": "Lena", "de": "Gut. Ich werde die anderen zum Essen holen.", "es": "Bien. Voy a llamar a los demás para comer." },
+        { "speaker": "Martin", "de": "Ich liebe chinesisches Essen. Ich hasse Blumenkohl. Ich kann es nicht leiden, wenn Leute mit vollem Mund reden.", "es": "Me encanta la comida china. Odio la coliflor. No soporto que la gente hable con la boca llena." },
+        { "speaker": "Lena", "de": "Ich liebe mexikanisches Essen. Ich hasse es auch, wenn Leute schmatzen.", "es": "Me encanta la comida mexicana. También odio cuando la gente come haciendo ruido." },
+        { "speaker": "Martin", "de": "Nach dem Essen muss ich für die Prüfung lernen. Ich war am Prüfungstermin krank.", "es": "Después de comer tengo que estudiar para el examen. Estuve enfermo el día del examen." },
+        { "speaker": "Lena", "de": "Du kannst die Prüfung nachholen. Mach dir keine Sorgen, du kannst den Rückstand locker wieder aufholen.", "es": "Puedes hacer el examen más adelante. No te preocupes, puedes recuperar el retraso sin problema." },
+        { "speaker": "Martin", "de": "Ich habe die Nacht durchgemacht und muss jetzt Schlaf nachholen.", "es": "He pasado la noche en vela y ahora tengo que recuperar sueño." },
+        { "speaker": "Lena", "de": "Du kannst dich vollständig erholen. Ich hole die Kinder heute von der Schule ab.", "es": "Puedes recuperarte por completo. Hoy recogeré a los niños del colegio." },
+        { "speaker": "Martin", "de": "Ich muss mich erst mal von der langen Reise erholen.", "es": "Primero tengo que recuperarme del largo viaje." },
+        { "speaker": "Lena", "de": "Ich liebe es, bei Regen Musik zu hören und alte Familienfotos anzuschauen.", "es": "Me encanta escuchar música cuando llueve y mirar fotos familiares antiguas." },
+        { "speaker": "Martin", "de": "Ich liebe es, auf meinem Balkon zu sitzen. Heute kann ich es nicht leiden, mit offenem Fenster zu schlafen.", "es": "Me encanta sentarme en mi balcón. Hoy no soporto dormir con la ventana abierta." },
+        { "speaker": "Lena", "de": "Ich werde dir eine Decke holen.", "es": "Te traeré una manta." },
+        { "speaker": "Martin", "de": "Wenn ich mich vollständig erholt habe, hole ich morgen die Kinder ab.", "es": "Cuando me haya recuperado por completo, mañana recogeré a los niños." }
+      ]
+    }
+  ]
+}
