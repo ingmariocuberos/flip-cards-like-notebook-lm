@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-47",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Die Bewerbung und das Vorstellungsgespräch",
+      "subtitle": "Consejos, alternativas y suposiciones antes de una entrevista",
+      "description": "Lena espera noticias sobre una candidatura y prepara con Martin el contacto con la empresa y el viaje a la entrevista, valorando alternativas y condiciones laborales con el vocabulario y las estructuras de Buch 47.",
+      "duration": "3:01",
+      "audioSrc": "/audio/buch-47-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Bezüglich Ihrer Bewerbung können wir Ihnen noch nichts sagen.", "es": "Respecto a su candidatura todavía no podemos decirle nada." },
+        { "speaker": "Martin", "de": "Er wird viel Arbeit haben, sonst würde er zur Abschiedsfeier kommen.", "es": "Tendrá mucho trabajo; si no, vendría a la fiesta de despedida." },
+        { "speaker": "Lena", "de": "Ich schreibe Ihnen in Bezug auf unser Telefonat von heute Morgen.", "es": "Le escribo en relación con nuestra llamada de esta mañana." },
+        { "speaker": "Martin", "de": "Du wirst in Bezug auf deine Bewerbung mit dem Personalleiter sprechen müssen.", "es": "Tendrás que hablar con el jefe de personal sobre tu candidatura." },
+        { "speaker": "Lena", "de": "Wenn das so ist, werde ich sie wohl falsch verstanden haben.", "es": "Si es así, seguramente la habré entendido mal." },
+        { "speaker": "Martin", "de": "Du könntest auch etwas vorschlagen, statt dich nur zu beschweren.", "es": "También podrías proponer algo en vez de limitarte a quejarte." },
+        { "speaker": "Lena", "de": "Bezüglich des Gehaltes müssen wir noch verhandeln.", "es": "Todavía tenemos que negociar el salario." },
+        { "speaker": "Martin", "de": "Was unsere Bedingungen anbelangt, bin ich keineswegs einverstanden.", "es": "En cuanto a nuestras condiciones, no estoy en absoluto de acuerdo." },
+        { "speaker": "Lena", "de": "Im Hinblick auf seine Karriere sollte er sein Englisch verbessern.", "es": "Con vistas a su carrera, debería mejorar su inglés." },
+        { "speaker": "Martin", "de": "Im Hinblick auf die Zukunft ist eine gute Ausbildung unabdinglich.", "es": "De cara al futuro, una buena formación es indispensable." },
+        { "speaker": "Lena", "de": "Wir machen ein Telefoninterview anstelle von einem Vorstellungsgespräch.", "es": "Haremos una entrevista telefónica en lugar de una entrevista presencial." },
+        { "speaker": "Martin", "de": "An deiner Stelle würde ich statt mit der Personalabteilung mit deiner Chefin reden.", "es": "En tu lugar hablaría con tu jefa en vez de con recursos humanos." },
+        { "speaker": "Lena", "de": "Diesbezüglich werde ich mich bald mit Ihnen in Verbindung setzen.", "es": "A este respecto me pondré pronto en contacto con usted." },
+        { "speaker": "Martin", "de": "Was den Vertrag angeht, können wir demnächst einen Termin vereinbaren.", "es": "En cuanto al contrato, podemos concertar pronto una cita." },
+        { "speaker": "Lena", "de": "Samstag ist schlecht. Stattdessen würde ich Sonntag vorschlagen.", "es": "El sábado me viene mal. Propondría el domingo en su lugar." },
+        { "speaker": "Martin", "de": "Wir hätten auch fliegen können. Wir sind stattdessen mit dem Zug gefahren.", "es": "También podríamos haber volado. En su lugar fuimos en tren." },
+        { "speaker": "Lena", "de": "Ich bin aus Versehen statt in Linie 3 in Linie 4 umgestiegen.", "es": "Por error hice transbordo a la línea cuatro en vez de a la tres." },
+        { "speaker": "Martin", "de": "Wir hätten den Nachtbus nehmen können. Stattdessen sind wir mit dem Taxi gefahren.", "es": "Podríamos haber tomado el autobús nocturno. En su lugar fuimos en taxi." },
+        { "speaker": "Lena", "de": "Er wird verhindert sein, sonst würde er mitkommen.", "es": "Tendrá algún impedimento; si no, vendría." },
+        { "speaker": "Martin", "de": "Er muss viel Arbeit haben, sonst würde er zur Abschiedsfeier kommen.", "es": "Debe de tener mucho trabajo; si no, vendría a la fiesta de despedida." },
+        { "speaker": "Lena", "de": "Er wird schon losgefahren sein, sonst wäre das Auto vor der Tür.", "es": "Ya habrá salido; si no, el coche estaría frente a la puerta." },
+        { "speaker": "Martin", "de": "Dein Handy klingelt. Das muss das Taxi sein.", "es": "Tu móvil está sonando. Debe de ser el taxi." },
+        { "speaker": "Lena", "de": "Sie wird nichts von der Sache wissen, sonst hätte sie etwas erwähnt.", "es": "No sabrá nada del asunto; si no, habría mencionado algo." },
+        { "speaker": "Martin", "de": "Sie wird wohl ihre Gründe gehabt haben, sonst hätten sie das nicht gemacht.", "es": "Seguramente habrá tenido sus motivos; si no, no habrían hecho eso." },
+        { "speaker": "Lena", "de": "Was Ihre Bewerbung betrifft, kann ich Ihnen leider noch keine Auskunft geben.", "es": "En cuanto a su candidatura, lamentablemente aún no puedo darle información." },
+        { "speaker": "Martin", "de": "Was Ihre Überstunden betrifft, müssen Sie mit dem Personalleiter sprechen.", "es": "En cuanto a sus horas extra, debe hablar con el jefe de personal." },
+        { "speaker": "Lena", "de": "Was diese Angelegenheit angeht, bin ich einverstanden.", "es": "En lo que respecta a este asunto, estoy de acuerdo." },
+        { "speaker": "Martin", "de": "In dieser Hinsicht wurden große Fortschritte gemacht.", "es": "En este sentido se han logrado grandes avances." }
+      ]
+    }
+  ]
+}
