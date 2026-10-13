@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-46",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Vorbereitungen für die Feier",
+      "subtitle": "Una celebración, muchas decisiones y un imprevisto",
+      "description": "Lena y Martin preparan una celebración, deciden qué comprar y dónde reunirse, resuelven un problema con el coche y se apoyan mutuamente utilizando exclusivamente el vocabulario y las estructuras de Buch 46.",
+      "duration": "3:02",
+      "audioSrc": "/audio/buch-46-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Ich möchte noch einen Kaffee. Ich habe kaum geschlafen.", "es": "Quiero otro café. Apenas he dormido." },
+        { "speaker": "Martin", "de": "Soll ich dir noch einen Kaffee machen?", "es": "¿Te preparo otro café?" },
+        { "speaker": "Lena", "de": "Ja, bitte. Ich hätte gerne noch ein Stück Kuchen. Er ist sehr lecker.", "es": "Sí, por favor. Querría otro trozo de pastel. Está muy rico." },
+        { "speaker": "Martin", "de": "Willst du noch mehr Kuchen oder hast du genug?", "es": "¿Quieres más pastel o ya tienes bastante?" },
+        { "speaker": "Lena", "de": "Was fehlt noch auf dem Tisch?", "es": "¿Qué más falta en la mesa?" },
+        { "speaker": "Martin", "de": "Was soll ich noch vom Markt mitbringen? Brauchst du sonst noch etwas?", "es": "¿Qué más traigo del mercado? ¿Necesitas algo más?" },
+        { "speaker": "Lena", "de": "Glaubst du, dass noch jemand mithelfen könnte? Wir müssen noch eine Lösung finden.", "es": "¿Crees que alguien más podría ayudar? Todavía tenemos que encontrar una solución." },
+        { "speaker": "Martin", "de": "Irgendjemand muss uns helfen, egal wer. Wer auch immer anruft, sagen Sie, ich bin nicht da.", "es": "Alguien tiene que ayudarnos, da igual quién. Llame quien llame, diga que no estoy." },
+        { "speaker": "Lena", "de": "Egal, wann ich ihn anrufe, er nimmt nie ab. Warum auch immer, er wird seine Gründe haben.", "es": "No importa cuándo lo llame, nunca contesta. Sea por lo que sea, tendrá sus motivos." },
+        { "speaker": "Martin", "de": "Ruf mich an, egal wann. Egal, was du brauchst, du kannst dich auf mich verlassen.", "es": "Llámame a cualquier hora. Necesites lo que necesites, puedes confiar en mí." },
+        { "speaker": "Lena", "de": "Ich muss bald ein Hotel finden, egal wo.", "es": "Tengo que encontrar pronto un hotel, da igual dónde." },
+        { "speaker": "Martin", "de": "Lass uns irgendwo etwas essen gehen.", "es": "Vamos a comer algo en algún sitio." },
+        { "speaker": "Lena", "de": "Egal, wann man dort essen will, man bekommt nie sofort einen Tisch.", "es": "Da igual cuándo se quiera comer allí, nunca se consigue mesa enseguida." },
+        { "speaker": "Martin", "de": "Ich möchte ein Schnitzel haben, oder wie auch immer das heißt. Was möchtest du bestellen?", "es": "Quiero un escalope, o como se diga. ¿Qué quieres pedir tú?" },
+        { "speaker": "Lena", "de": "Ich will irgendwas essen, was auch immer. Wie auch immer du dich entscheidest, ich werde dich unterstützen.", "es": "Quiero comer cualquier cosa, lo que sea. Decidas lo que decidas, te apoyaré." },
+        { "speaker": "Martin", "de": "Ich muss bis zur Hochzeit abnehmen, egal wie. Egal was, Hauptsache, du isst jetzt was.", "es": "Tengo que adelgazar para la boda, da igual cómo. Da igual qué, lo principal es que comas algo ahora." },
+        { "speaker": "Lena", "de": "Dann fahren wir jetzt. Pass gut auf dich auf.", "es": "Entonces salimos ahora. Ten mucho cuidado." },
+        { "speaker": "Martin", "de": "Mein Rücklicht ist kaputt? Das wusste ich nicht. Ich kümmere mich sofort um das defekte Rücklicht.", "es": "¿Mi luz trasera está rota? No lo sabía. Me ocuparé de inmediato de la luz trasera defectuosa." },
+        { "speaker": "Lena", "de": "Wer auch immer das war, er muss für den Schaden aufkommen.", "es": "Quienquiera que haya sido tendrá que hacerse cargo del daño." },
+        { "speaker": "Martin", "de": "Egal, wer daran schuld ist, wir müssen eine Lösung finden. Was auch immer passiert, beweg dich nicht vom Fleck.", "es": "Da igual quién tenga la culpa, tenemos que encontrar una solución. Pase lo que pase, no te muevas del sitio." },
+        { "speaker": "Lena", "de": "Unabhängig davon, wer daran schuld ist, müssen wir eine Lösung finden.", "es": "Independientemente de quién tenga la culpa, tenemos que encontrar una solución." },
+        { "speaker": "Martin", "de": "Egal, wer Recht hat, du solltest dich entschuldigen. Hauptsache, wir sprechen uns.", "es": "Da igual quién tenga razón, deberías disculparte. Lo principal es que hablemos." },
+        { "speaker": "Lena", "de": "Du hast Recht. Egal, wie die Sache ausgeht, du kannst dich auf mich verlassen.", "es": "Tienes razón. Termine como termine el asunto, puedes confiar en mí." },
+        { "speaker": "Martin", "de": "Wie auch immer, wir sagen ihnen dann Bescheid. Komm vorbei, wann auch immer du Lust hast.", "es": "En cualquier caso, después les avisaremos. Pásate cuando te apetezca." },
+        { "speaker": "Lena", "de": "Wann auch immer ich Zeit habe, versuche ich, Deutsch zu lernen.", "es": "Siempre que tengo tiempo intento aprender alemán." },
+        { "speaker": "Martin", "de": "Dann hören wir deutsches Radio. Wann auch immer es möglich ist, versuche ich, deutsches Radio zu hören.", "es": "Entonces escucharemos la radio alemana. Siempre que puedo intento escucharla." },
+        { "speaker": "Lena", "de": "Gut. Ich brauche noch einen Kaffee. Einer reicht mir nicht.", "es": "Bien. Necesito otro café. Uno no me basta." },
+        { "speaker": "Martin", "de": "Nimm, so viel du willst. Ich habe noch mehr davon.", "es": "Toma cuanto quieras. Tengo más." }
+      ]
+    }
+  ]
+}
