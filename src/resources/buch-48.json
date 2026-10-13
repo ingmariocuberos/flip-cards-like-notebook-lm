@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-48",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Die Präsentation und die neue Route",
+      "subtitle": "Cambios, comparaciones y planes para un viaje de trabajo",
+      "description": "Lena y Martin preparan un viaje para presentar un proyecto, afrontan cambios en la ruta y el horario, comparan varias opciones y revisan el texto con el vocabulario y las estructuras de Buch 48.",
+      "duration": "3:06",
+      "audioSrc": "/audio/buch-48-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Hat sich die Abfahrtzeit geändert?", "es": "¿Ha cambiado la hora de salida?" },
+        { "speaker": "Martin", "de": "Die Route wurde geändert. Sobald ich etwas weiß, sage ich dir Bescheid.", "es": "La ruta ha cambiado. En cuanto sepa algo, te aviso." },
+        { "speaker": "Lena", "de": "Sag mir Bescheid, sobald du etwas weißt.", "es": "Avísame en cuanto sepas algo." },
+        { "speaker": "Martin", "de": "Wir können losfahren, sobald es aufhört zu hageln. Solange müssen wir keine Sorgen haben.", "es": "Podemos salir en cuanto deje de granizar. Mientras tanto no debemos preocuparnos." },
+        { "speaker": "Lena", "de": "Kannst du auf meinen Hund aufpassen, solange ich weg bin? Ich werde mich melden, sobald ich ankomme.", "es": "¿Puedes cuidar de mi perro mientras estoy fuera? Me pondré en contacto en cuanto llegue." },
+        { "speaker": "Martin", "de": "Du kannst bei mir bleiben, solange du willst. Ich werde dich unterstützen, solange ich kann.", "es": "Puedes quedarte conmigo todo el tiempo que quieras. Te apoyaré mientras pueda." },
+        { "speaker": "Lena", "de": "Vor der Reise solltest du schlafen, soviel du kannst. Soweit ich gehört habe, läuft das Geschäft gut.", "es": "Antes del viaje deberías dormir todo lo que puedas. Por lo que he oído, el negocio va bien." },
+        { "speaker": "Martin", "de": "Wir werden technische Änderungen vornehmen müssen.", "es": "Tendremos que realizar modificaciones técnicas." },
+        { "speaker": "Lena", "de": "Was ist der Unterschied zwischen den beiden Ausdrücken? Worin unterscheiden sich die beiden Kandidaten?", "es": "¿Cuál es la diferencia entre las dos expresiones? ¿En qué se diferencian los dos candidatos?" },
+        { "speaker": "Martin", "de": "Die beiden Pullover unterscheiden sich nur in der Farbe. Die beiden Autos unterscheiden sich kaum im Verbrauch.", "es": "Los dos jerséis solo se diferencian por el color. Los dos coches apenas se diferencian en el consumo." },
+        { "speaker": "Lena", "de": "Macht es einen Unterschied, ob ich die U-Bahn oder den Bus nehme?", "es": "¿Importa si tomo el metro o el autobús?" },
+        { "speaker": "Martin", "de": "Es macht keinen Unterschied, ob wir mit der U-Bahn oder mit dem Bus fahren.", "es": "No importa si vamos en metro o en autobús." },
+        { "speaker": "Lena", "de": "Ich würde nichts an der Präsentation ändern. Was ist deine Meinung?", "es": "Yo no cambiaría nada de la presentación. ¿Cuál es tu opinión?" },
+        { "speaker": "Martin", "de": "Wir haben nicht viel an dem Plan geändert. An dem Bericht wurde auch nichts geändert.", "es": "No hemos cambiado mucho el plan. Tampoco se cambió nada del informe." },
+        { "speaker": "Lena", "de": "Ich werde einige Details an dem Text verändern. Das lässt sich ändern.", "es": "Modificaré algunos detalles del texto. Eso se puede cambiar." },
+        { "speaker": "Martin", "de": "An dem Originaltext wurden einige Details verändert. Wir haben mehrere Änderungen vorgenommen.", "es": "En el texto original se modificaron algunos detalles. Hemos realizado varios cambios." },
+        { "speaker": "Lena", "de": "Die Kunden haben keine Veränderung an der Produktqualität festgestellt.", "es": "Los clientes no han notado cambios en la calidad del producto." },
+        { "speaker": "Martin", "de": "Das Internet hat die Welt grundlegend verändert. Sprachen verändern sich im Laufe der Zeit.", "es": "Internet ha cambiado el mundo de manera fundamental. Los idiomas cambian con el paso del tiempo." },
+        { "speaker": "Lena", "de": "Ich werde meine Meinung nicht ändern. Wir haben unterschiedliche Vorstellungen, was dieses Thema angeht.", "es": "No cambiaré de opinión. Tenemos ideas diferentes en lo que respecta a este tema." },
+        { "speaker": "Martin", "de": "Das macht keinen großen Unterschied. Verschiedene Ansichten zu dem Thema sind gut.", "es": "Eso no supone una gran diferencia. Es bueno tener distintos puntos de vista sobre el tema." },
+        { "speaker": "Lena", "de": "Es tut mir leid, aber ich kann auch nichts daran ändern. Meine Meinung hat sich nicht grundlegend geändert.", "es": "Lo siento, pero tampoco puedo cambiarlo. Mi opinión no ha cambiado de manera fundamental." },
+        { "speaker": "Martin", "de": "Ich verspreche dir, dass ich mich in dieser Hinsicht ändern werde. Menschen verändern sich.", "es": "Te prometo que cambiaré en ese sentido. Las personas cambian." },
+        { "speaker": "Lena", "de": "In dieser Hinsicht hat er sich wirklich geändert. Das macht einen großen Unterschied.", "es": "En ese sentido él ha cambiado de verdad. Eso supone una gran diferencia." },
+        { "speaker": "Martin", "de": "Ich bin froh, dass sie sich in dieser Hinsicht geändert hat.", "es": "Me alegra que ella haya cambiado en ese sentido." },
+        { "speaker": "Lena", "de": "Sobald ich fertig bin, werde ich mich mit dir in Verbindung setzen. Kannst du solange warten?", "es": "En cuanto termine, me pondré en contacto contigo. ¿Puedes esperar mientras tanto?" },
+        { "speaker": "Martin", "de": "Ich werde solange draußen warten. Nimm dir, soviel du willst.", "es": "Esperaré fuera mientras tanto. Tómate todo lo que quieras." },
+        { "speaker": "Lena", "de": "Sobald ich eine Entscheidung getroffen habe, werde ich mich melden.", "es": "En cuanto haya tomado una decisión, me pondré en contacto." },
+        { "speaker": "Martin", "de": "Sag mir Bescheid, sobald du zuhause bist.", "es": "Avísame en cuanto estés en casa." }
+      ]
+    }
+  ]
+}
