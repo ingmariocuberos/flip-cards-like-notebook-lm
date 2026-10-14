@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-49",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Das Treffen mit Freunden",
+      "subtitle": "Una reunión, varios invitados y muchos recados",
+      "description": "Lena y Martin organizan una reunión, acuerdan la hora y el punto de encuentro, coordinan a los invitados y transmiten mensajes y saludos utilizando el vocabulario y las estructuras de Buch 49.",
+      "duration": "3:00",
+      "audioSrc": "/audio/buch-49-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Wir werden einen Treffpunkt ausmachen. Hast du eine bestimmte Zeit ausgemacht?", "es": "Acordaremos un punto de encuentro. ¿Has fijado una hora concreta?" },
+        { "speaker": "Martin", "de": "Wir haben noch keine Uhrzeit ausgemacht. Sollen wir eine Zeit ausmachen?", "es": "Todavía no hemos fijado una hora. ¿Acordamos una?" },
+        { "speaker": "Lena", "de": "Ich kann morgen doch nicht. Wollen wir uns übermorgen treffen?", "es": "Finalmente mañana no puedo. ¿Nos vemos pasado mañana?" },
+        { "speaker": "Martin", "de": "Also gut, dann machen wir das so. Eigentlich habe ich morgen frei.", "es": "Bien, entonces lo hacemos así. En realidad mañana tengo libre." },
+        { "speaker": "Lena", "de": "Macht es dir etwas aus, wenn ich meinen Mann mitbringe?", "es": "¿Te importa si llevo a mi marido?" },
+        { "speaker": "Martin", "de": "Es wird ihr sicher nichts ausmachen, dass wir den Hund mitbringen.", "es": "Seguro que a ella no le molestará que llevemos al perro." },
+        { "speaker": "Lena", "de": "Macht es dir etwas aus, wenn ich auf dem Balkon rauche?", "es": "¿Te importa si fumo en el balcón?" },
+        { "speaker": "Martin", "de": "Es macht mir nichts aus, wenn du auf dem Balkon rauchst.", "es": "No me importa que fumes en el balcón." },
+        { "speaker": "Lena", "de": "Ich habe mit ihnen ausgemacht, dass sie Bescheid sagen, wenn sie fertig sind.", "es": "He acordado con ellos que avisen cuando terminen." },
+        { "speaker": "Martin", "de": "Was genau haben sie ausgemacht? Weißt du, ob sie schon etwas ausgemacht haben?", "es": "¿Qué acordaron exactamente? ¿Sabes si ya han acordado algo?" },
+        { "speaker": "Lena", "de": "Richte ihm aus, dass wir heute etwas später kommen. Richte ihm schöne Grüße aus.", "es": "Dile que hoy llegaremos un poco más tarde. Dale muchos recuerdos." },
+        { "speaker": "Martin", "de": "Ich soll dir von deiner Mutter sagen, dass ein Paket für dich angekommen ist.", "es": "Tu madre me pidió decirte que ha llegado un paquete para ti." },
+        { "speaker": "Lena", "de": "Kannst du ihr ausrichten, dass ich sie später zurückrufe?", "es": "¿Puedes decirle que la llamaré más tarde?" },
+        { "speaker": "Martin", "de": "Du solltest ihm doch von mir sagen, dass ich angerufen habe.", "es": "Deberías decirle de mi parte que he llamado." },
+        { "speaker": "Lena", "de": "Richte deiner Cousine Grüße von mir aus. Bestell deinen Eltern liebe Grüße von uns.", "es": "Dale recuerdos a tu prima de mi parte. Manda cariñosos saludos a tus padres de nuestra parte." },
+        { "speaker": "Martin", "de": "Soll ich den anderen etwas ausrichten? Kann ich ihnen etwas von dir ausrichten?", "es": "¿Debo transmitirles algo a los demás? ¿Puedo decirles algo de tu parte?" },
+        { "speaker": "Lena", "de": "Richte ihnen aus, dass sie Milch vom Supermarkt mitbringen sollen.", "es": "Diles que traigan leche del supermercado." },
+        { "speaker": "Martin", "de": "Ich werde nur einen Salat essen, ich habe nämlich keinen großen Hunger.", "es": "Solo comeré una ensalada, porque no tengo mucha hambre." },
+        { "speaker": "Lena", "de": "Das heißt also, du isst keinen Fisch. Eigentlich bin ich ganz zufrieden.", "es": "Eso significa que no comes pescado. En realidad estoy bastante satisfecha." },
+        { "speaker": "Martin", "de": "Das macht nicht viel aus, wenn man statt Sahne Joghurt nimmt.", "es": "No importa mucho usar yogur en vez de nata." },
+        { "speaker": "Lena", "de": "Ich esse kein Fleisch, und zwar aus Prinzip nicht. Das weißt du doch.", "es": "No como carne, y por principio. Eso ya lo sabes." },
+        { "speaker": "Martin", "de": "Es würde uns nichts ausmachen, heute etwas länger zu bleiben.", "es": "No nos importaría quedarnos un poco más hoy." },
+        { "speaker": "Lena", "de": "Das ist ein wichtiger Kunde, also lass ihn nicht warten.", "es": "Es un cliente importante, así que no lo hagas esperar." },
+        { "speaker": "Martin", "de": "Du musst Bescheid sagen, und zwar schnell. Wir müssen los, und zwar sofort.", "es": "Debes avisar, y rápido. Tenemos que irnos inmediatamente." },
+        { "speaker": "Lena", "de": "Ich habe mit ihr ausgemacht, dass sie mich anruft, sobald sie zuhause ist.", "es": "He acordado con ella que me llame en cuanto esté en casa." },
+        { "speaker": "Martin", "de": "Hast du meine Nachricht nicht bekommen? Ich habe dich angerufen, und zwar nicht nur einmal.", "es": "¿No recibiste mi mensaje? Te llamé, y no solo una vez." },
+        { "speaker": "Lena", "de": "Doch, aber ich hatte keine Zeit, dir zu antworten. Bleib doch noch ein bisschen.", "es": "Sí, pero no tuve tiempo de responderte. Quédate un poco más." },
+        { "speaker": "Martin", "de": "Also gut, dann machen wir das so. Vertrauen macht eine echte Freundschaft aus.", "es": "Bien, entonces lo hacemos así. La confianza caracteriza una amistad verdadera." }
+      ]
+    }
+  ]
+}
