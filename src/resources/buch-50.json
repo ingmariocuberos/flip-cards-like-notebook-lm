@@ -1,0 +1,44 @@
+{
+  "bookId": "willkommen-vaughan-50",
+  "sektionen": [
+    {
+      "sektionId": "conversation",
+      "sektionTitle": "Conversation",
+      "title": "Das Konzert für einen guten Zweck",
+      "subtitle": "Preparativos, bienvenida y despedida en un concierto benéfico",
+      "description": "Lena y Martin preparan un concierto benéfico, coordinan voluntarios y recursos, reciben al público y cierran la celebración con el vocabulario y las estructuras de Buch 50.",
+      "duration": "3:08",
+      "audioSrc": "/audio/buch-50-conversation.m4a",
+      "turns": [
+        { "speaker": "Lena", "de": "Sind alle bereit? Wir fangen gleich an.", "es": "¿Están todos listos? Empezamos enseguida." },
+        { "speaker": "Martin", "de": "Ja, ich bin bereit. Ich bin gerne dazu bereit, zu helfen.", "es": "Sí, estoy listo. Estoy encantado de ayudar." },
+        { "speaker": "Lena", "de": "Wer erklärt sich dazu bereit, einen Teil der Kosten zu übernehmen?", "es": "¿Quién se ofrece a asumir una parte de los costes?" },
+        { "speaker": "Martin", "de": "Ich erkläre mich dazu bereit, die Kosten zu übernehmen. Die Regierung stellt finanzielle Hilfe bereit.", "es": "Me declaro dispuesto a asumir los costes. El Gobierno proporciona ayuda económica." },
+        { "speaker": "Lena", "de": "Alle nötigen Hilfsmittel stehen bereit. Während des Fußballspiels standen Krankenwagen bereit.", "es": "Todos los medios necesarios están preparados. Durante el partido de fútbol hubo ambulancias disponibles." },
+        { "speaker": "Martin", "de": "Wie viel Zeit haben wir noch? Es dauert noch ungefähr eine Viertelstunde.", "es": "¿Cuánto tiempo nos queda? Faltan aproximadamente quince minutos." },
+        { "speaker": "Lena", "de": "Keine Sorge, wir haben noch Zeit.", "es": "No te preocupes, todavía tenemos tiempo." },
+        { "speaker": "Martin", "de": "Es gibt kaum noch freie Zimmer. Es fehlen mir noch fünf Seiten.", "es": "Apenas quedan habitaciones libres. Me faltan cinco páginas." },
+        { "speaker": "Lena", "de": "Ich brauche noch zehn Minuten.", "es": "Necesito diez minutos más." },
+        { "speaker": "Martin", "de": "Es bleibt sicher etwas vom Essen übrig. Wenn Essen übrig bleibt, bekommt es der Hund.", "es": "Seguro que sobrará algo de comida. Si sobra, se la damos al perro." },
+        { "speaker": "Lena", "de": "Nach der Feier war ein Kasten Bier übrig. Es gibt noch etwas Suppe im Kühlschrank.", "es": "Después de la celebración sobró una caja de cerveza. También queda algo de sopa en el frigorífico." },
+        { "speaker": "Martin", "de": "Gut. Jetzt müssen wir die Gäste begrüßen. Herzlich willkommen bei uns!", "es": "Bien. Ahora tenemos que recibir a los invitados. ¡Sean muy bienvenidos!" },
+        { "speaker": "Lena", "de": "Wir begrüßen Sie ganz herzlich zu unserem heutigen Konzert. Wir heißen unsere Gäste herzlich willkommen.", "es": "Les damos una cordial bienvenida a nuestro concierto de hoy. Recibimos calurosamente a nuestros invitados." },
+        { "speaker": "Martin", "de": "Familien mit Kindern sind hier jederzeit willkommen. Hunde sind hier aber nicht willkommen.", "es": "Las familias con niños son bienvenidas en cualquier momento. Pero los perros no están permitidos aquí." },
+        { "speaker": "Lena", "de": "In Deutschland begrüßt man sich mit einem Handschlag. In Frankreich begrüßt man sich mit zwei Küssen.", "es": "En Alemania se saluda con un apretón de manos. En Francia se saluda con dos besos." },
+        { "speaker": "Martin", "de": "Zunächst möchte ich alle Gäste herzlich bei uns willkommen heißen.", "es": "Primero quiero dar una cordial bienvenida a todos los invitados." },
+        { "speaker": "Lena", "de": "Wir sind bereit, einen Kompromiss einzugehen. Unter diesen Umständen sind alle zu einem Gespräch bereit.", "es": "Estamos dispuestos a llegar a un acuerdo. En estas circunstancias todos están dispuestos a conversar." },
+        { "speaker": "Martin", "de": "Keiner ist dazu bereit, umsonst zu arbeiten.", "es": "Nadie está dispuesto a trabajar gratis." },
+        { "speaker": "Lena", "de": "Das Konzert ist fertig. Ist noch etwas vom Essen übrig?", "es": "El concierto ha terminado. ¿Queda algo de comida?" },
+        { "speaker": "Martin", "de": "Von dem Kuchen ist etwas übrig geblieben. Es ist aber nichts von dem Nudelsalat übrig geblieben.", "es": "Ha sobrado algo de pastel. Pero no ha quedado nada de la ensalada de pasta." },
+        { "speaker": "Lena", "de": "Es gibt keinen Käse mehr. Uns bleibt nichts anderes übrig, als die Gäste zu verabschieden.", "es": "Ya no queda queso. No nos queda otra opción que despedir a los invitados." },
+        { "speaker": "Martin", "de": "Einen Moment, ich verabschiede mich noch. Ich konnte mich nicht von allen verabschieden.", "es": "Un momento, todavía me estoy despidiendo. No pude despedirme de todos." },
+        { "speaker": "Lena", "de": "Mein Zug fährt bald, also muss ich mich leider verabschieden. Ich möchte noch schnell Tschüss sagen.", "es": "Mi tren sale pronto, así que lamentablemente tengo que despedirme. Quiero decir adiós rápidamente." },
+        { "speaker": "Martin", "de": "Ich wollte dir nur kurz Tschüss sagen, bevor ich abreise. Sehen wir uns morgen noch?", "es": "Solo quería despedirme brevemente antes de marcharme. ¿Nos veremos mañana?" },
+        { "speaker": "Lena", "de": "Ja. Ich werde mich morgen von allen verabschieden. Du bist bei uns immer herzlich willkommen.", "es": "Sí. Mañana me despediré de todos. Siempre eres bienvenido entre nosotros." },
+        { "speaker": "Martin", "de": "Ich verabschiede mich ungern, aber ich muss gehen. Ich möchte schon mal auf Wiedersehen sagen.", "es": "No me gusta despedirme, pero tengo que irme. Quiero ir diciendo hasta luego." },
+        { "speaker": "Lena", "de": "Herzlich willkommen zuhause! Nach der Feier ist noch etwas Suppe übrig.", "es": "¡Bienvenido a casa! Después de la celebración todavía queda algo de sopa." },
+        { "speaker": "Martin", "de": "Wir sind bereit für einen Neuanfang. Auf Wiedersehen. Herzlich willkommen zurück!", "es": "Estamos listos para un nuevo comienzo. Hasta luego. ¡Bienvenido de nuevo!" }
+      ]
+    }
+  ]
+}
