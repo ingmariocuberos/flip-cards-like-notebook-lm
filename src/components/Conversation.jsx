@@ -26,6 +26,13 @@ export default function Conversation() {
         <p className="muted">{sektion.subtitle}</p>
       </header>
 
+      <Link
+        className="button-link conversation-practice-link"
+        to={`/resources/buch/${book.bookId}/${sektion.sektionId}/practice`}
+      >
+        Practicar esta conversación →
+      </Link>
+
       <section className="audio-panel" aria-labelledby="audio-title">
         <div>
           <span className="resource-kicker">Hörtraining</span>

@@ -24,7 +24,7 @@ export default function ResourceBookList() {
                   {book.sektionen.length === 1 ? 'Sektion' : 'Sektionen'}
                 </span>
                 <span>·</span>
-                <span>{book.sektionen.length ? 'Audio y transcripción' : 'Próximamente'}</span>
+                <span>{book.sektionen.length ? 'Audio, transcripción y práctica' : 'Próximamente'}</span>
               </div>
             </Link>
           </li>

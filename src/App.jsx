@@ -6,6 +6,7 @@ import ResourceBookList from './components/ResourceBookList.jsx';
 import ResourceSektionList from './components/ResourceSektionList.jsx';
 import Conversation from './components/Conversation.jsx';
 import ReviewDeck from './components/ReviewDeck.jsx';
+import PracticeConversation from './components/PracticeConversation.jsx';
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Route path="/review" element={<ReviewDeck />} />
         <Route path="/resources" element={<ResourceBookList />} />
         <Route path="/resources/buch/:bookId" element={<ResourceSektionList />} />
+        <Route path="/resources/buch/:bookId/:sektionId/practice" element={<PracticeConversation />} />
         <Route path="/resources/buch/:bookId/:sektionId" element={<Conversation />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
