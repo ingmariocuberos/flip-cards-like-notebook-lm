@@ -2,9 +2,13 @@ import { Link } from 'react-router-dom';
 import { getBooks } from '../utils/loadCards.js';
 import { getBookStats } from '../utils/progress.js';
 import LibraryTabs from './LibraryTabs.jsx';
+import { getUnderstoodCards, readReviewState, reconcileReviewState, REVIEW_SIZE } from '../utils/review.js';
 
 export default function BookList() {
   const books = getBooks();
+  const understoodCards = getUnderstoodCards();
+  const review = reconcileReviewState(readReviewState(), understoodCards);
+  const activeReview = review.session && review.session.index < review.session.ids.length;
 
   return (
     <main className="screen">
@@ -13,6 +17,22 @@ export default function BookList() {
         <p className="muted">Deutsch · Bücher</p>
         <LibraryTabs />
       </header>
+
+      <section className="review-entry" aria-labelledby="review-entry-title">
+        <div>
+          <h2 id="review-entry-title">Repaso rápido</h2>
+          <p>
+            {understoodCards.size === 0
+              ? 'Marca tarjetas como entendidas para activar este repaso.'
+              : `${Math.min(REVIEW_SIZE, understoodCards.size)} tarjetas al azar de ${understoodCards.size} entendidas.`}
+          </p>
+        </div>
+        {understoodCards.size > 0 && (
+          <Link className="button-link review-entry-action" to="/review">
+            {activeReview ? 'Continuar repaso' : 'Empezar repaso'}
+          </Link>
+        )}
+      </section>
 
       {books.length === 0 ? (
         <p className="empty">

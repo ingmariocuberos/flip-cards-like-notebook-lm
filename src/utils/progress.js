@@ -1,7 +1,8 @@
-function readStatus(bookId, sektionId) {
+export function readStatus(bookId, sektionId) {
   try {
     const raw = window.localStorage.getItem(`flashcards:${bookId}:${sektionId}:status`);
-    return raw ? JSON.parse(raw) : {};
+    const parsed = raw ? JSON.parse(raw) : {};
+    return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
   } catch {
     return {};
   }
