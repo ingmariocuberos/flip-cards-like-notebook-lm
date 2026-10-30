@@ -1,5 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import audioCues from '../audioCues.json';
 import { getResourceSektion } from '../utils/loadResources.js';
 import {
   getPracticeHint,
@@ -18,6 +19,9 @@ const RATINGS = [
 
 function PracticeSession({ book, sektion }) {
   const key = practiceStorageKey(book.bookId, sektion.sektionId);
+  const audioRef = useRef(null);
+  const [audioPlaying, setAudioPlaying] = useState(false);
+  const [audioError, setAudioError] = useState(false);
   const [practice, setPractice] = useState(() => {
     const saved = reconcilePracticeState(readPracticeState(key), sektion.turns);
     return saved.session && saved.session.position < saved.session.indices.length
@@ -38,6 +42,42 @@ function PracticeSession({ book, sektion }) {
   const turnIndex = completed ? null : session?.indices[session.position];
   const previous = sektion.turns[turnIndex - 1];
   const target = sektion.turns[turnIndex];
+  const cue = audioCues[book.bookId]?.[turnIndex - 1];
+
+  useEffect(() => {
+    audioRef.current?.pause();
+    setAudioPlaying(false);
+    setAudioError(false);
+  }, [turnIndex]);
+
+  function playSceneAudio() {
+    const audio = audioRef.current;
+    if (!audio || !cue) return;
+
+    try {
+      setAudioError(false);
+      audio.pause();
+      audio.currentTime = cue[0];
+      audio.play().catch(() => setAudioError(true));
+    } catch {
+      setAudioError(true);
+    }
+  }
+
+  function stopAtCueEnd() {
+    const audio = audioRef.current;
+    if (audio && cue && audio.currentTime >= cue[1]) audio.pause();
+  }
+
+  function toggleSceneText() {
+    setPractice((current) => ({
+      ...current,
+      session: {
+        ...current.session,
+        sceneRevealed: !current.session.sceneRevealed
+      }
+    }));
+  }
 
   function setPhase(phase) {
     setPractice((current) => ({
@@ -55,6 +95,7 @@ function PracticeSession({ book, sektion }) {
           ...current.session,
           position: position + 1,
           phase: 'prompt',
+          sceneRevealed: false,
           ratings: { ...ratings, [indices[position]]: rating }
         }
       };
@@ -110,8 +151,30 @@ function PracticeSession({ book, sektion }) {
           <section className="practice-scene" aria-labelledby="practice-scene-title">
             <span className="resource-kicker">La escena</span>
             <h2 id="practice-scene-title">{previous.speaker} dice:</h2>
-            <p lang="de">{previous.de}</p>
-            <p className="practice-translation" lang="es">{previous.es}</p>
+            <audio
+              ref={audioRef}
+              preload="metadata"
+              src={sektion.audioSrc}
+              onTimeUpdate={stopAtCueEnd}
+              onPlay={() => setAudioPlaying(true)}
+              onPause={() => setAudioPlaying(false)}
+              onError={() => setAudioError(true)}
+            />
+            <div className="practice-scene-actions">
+              <button className="practice-audio-button" onClick={playSceneAudio} disabled={!cue}>
+                {audioPlaying ? '↻ Repetir audio' : `▶ Escuchar a ${previous.speaker}`}
+              </button>
+              <button onClick={toggleSceneText} aria-expanded={session.sceneRevealed}>
+                {session.sceneRevealed ? 'Ocultar texto' : 'Revelar texto'}
+              </button>
+            </div>
+            {audioError && <p className="muted">No se pudo reproducir el audio. Puedes revelar el texto.</p>}
+            {session.sceneRevealed && (
+              <div className="practice-transcript">
+                <p lang="de">{previous.de}</p>
+                <p className="practice-translation" lang="es">{previous.es}</p>
+              </div>
+            )}
           </section>
 
           <section className="practice-prompt" aria-labelledby="practice-prompt-title">

@@ -289,7 +289,7 @@ code {
   margin: 0.7rem 0 0;
 }
 
-.practice-scene p[lang="de"],
+.practice-transcript p[lang="de"],
 .practice-prompt > p[lang="es"],
 .practice-answer > p[lang="de"] {
   font-size: 1.15rem;
@@ -299,6 +299,30 @@ code {
 .practice-translation {
   color: var(--muted);
   font-size: 0.9rem;
+}
+
+.practice-scene-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.practice-scene-actions button {
+  min-height: 44px;
+  padding: 0.65rem 0.9rem;
+}
+
+.practice-audio-button {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.practice-transcript {
+  margin-top: 1rem;
+  padding-top: 0.1rem;
+  border-top: 1px solid var(--border);
 }
 
 .practice-hint,
@@ -754,7 +778,8 @@ kbd {
 
 @media (max-width: 520px) {
   .practice-actions button,
-  .practice-ratings button {
+  .practice-ratings button,
+  .practice-scene-actions button {
     flex: 1 1 100%;
   }
   .review-entry {

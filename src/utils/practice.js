@@ -44,13 +44,14 @@ export function reconcilePracticeState(saved, turns) {
   const phase = ['prompt', 'hint', 'answer'].includes(savedSession.phase)
     ? savedSession.phase
     : 'prompt';
+  const sceneRevealed = savedSession.sceneRevealed === true;
   const ratings = {};
   for (const index of indices) {
     const rating = savedSession.ratings?.[index];
     if (['independent', 'hint', 'retry'].includes(rating)) ratings[index] = rating;
   }
 
-  return { seen, session: { indices, position, phase, ratings } };
+  return { seen, session: { indices, position, phase, sceneRevealed, ratings } };
 }
 
 export function startPractice(state, turns) {
@@ -66,13 +67,13 @@ export function startPractice(state, turns) {
     selected.push(...shuffle(available.filter((index) => !selectedSet.has(index))).slice(0, limit - selected.length));
     return {
       seen: selected,
-      session: { indices: selected.sort((a, b) => a - b), position: 0, phase: 'prompt', ratings: {} }
+      session: { indices: selected.sort((a, b) => a - b), position: 0, phase: 'prompt', sceneRevealed: false, ratings: {} }
     };
   }
 
   return {
     seen: [...seen, ...selected],
-    session: { indices: selected.sort((a, b) => a - b), position: 0, phase: 'prompt', ratings: {} }
+    session: { indices: selected.sort((a, b) => a - b), position: 0, phase: 'prompt', sceneRevealed: false, ratings: {} }
   };
 }
 
@@ -89,6 +90,6 @@ export function repeatDifficultTurns(state) {
 
   return {
     ...state,
-    session: { indices, position: 0, phase: 'prompt', ratings: {} }
+    session: { indices, position: 0, phase: 'prompt', sceneRevealed: false, ratings: {} }
   };
 }

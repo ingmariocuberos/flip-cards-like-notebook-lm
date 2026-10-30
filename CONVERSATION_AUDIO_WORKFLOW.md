@@ -268,6 +268,18 @@ Solo después de validar el M4A:
 Actualizar `duration` en `src/resources/buch-N.json` con la duración real
 redondeada al segundo y escrita como `M:SS`.
 
+### 6. Marcas de audio para «Tu turno»
+
+Después de instalar el M4A, regenerar `src/audioCues.json`. Este archivo guarda
+el inicio y el final de cada intervención para que el ejercicio reproduzca solo
+la frase de contexto. El script comprueba que haya una pausa por cada turno y
+se detiene si no puede alinear una conversación.
+
+```bash
+/Users/air1320158gb128gb/.venvs/xtts-v2/bin/python \
+  tools/generate-conversation-cues.py
+```
+
 ## Validaciones obligatorias por libro
 
 Ejecutar todas antes del commit:
@@ -280,6 +292,9 @@ node -e "JSON.parse(require('fs').readFileSync('src/resources/buch-N.json', 'utf
 
 afinfo public/audio/buch-N-conversation.m4a | \
   rg 'Data format|estimated duration|audio bytes|bit rate'
+
+/Users/air1320158gb128gb/.venvs/xtts-v2/bin/python \
+  tools/generate-conversation-cues.py
 
 npm run build
 
@@ -302,7 +317,8 @@ Añadir únicamente los archivos del Buch actual:
 ```bash
 git add -- \
   src/resources/buch-N.json \
-  public/audio/buch-N-conversation.m4a
+  public/audio/buch-N-conversation.m4a \
+  src/audioCues.json
 
 git commit -m "Add Buch N XTTS conversation resource"
 git push origin main
@@ -325,6 +341,7 @@ commit antes de iniciar Buch N+1.
 - [ ] Convertir a M4A AAC de 64 kb/s.
 - [ ] Validar e instalar el audio.
 - [ ] Actualizar la duración real.
+- [ ] Regenerar las marcas de audio de «Tu turno».
 - [ ] Ejecutar compilación y comprobaciones finales.
 - [ ] Hacer commit y push solo del Buch actual.
 - [ ] Confirmar el push antes de pasar al siguiente Buch.
