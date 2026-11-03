@@ -2,10 +2,11 @@
 
 Esta es la **bitácora de estado**, separada de la [guía de proceso](TUTOR_AUDIO_BUCH11_SEKTION3.md).
 Actualizarla al terminar cada tanda para no repetir transcripción, comparación
-ni cortes en otra sesión. Estado al 2026-11-03. La versión publicada en Netlify
-todavía es el piloto de 3 preguntas (`d751400` es el último commit remoto);
-**los 35 clips nuevos están solo en el árbol de trabajo** y aún no se han
-publicado.
+ni cortes en otra sesión. Estado al 2026-11-03. El lote de **35 preguntas ya
+está publicado** en Netlify mediante el commit `87f6507`. Se verificaron HTTP
+200 para la ruta directa y un clip contextual (`s3-t065`), y el HTML publicado
+carga el mismo asset JS generado en la compilación local (`index-giHkkFNp.js`).
+La revisión auditiva humana de los 35 cortes sigue pendiente.
 
 ## Ubicaciones que permiten retomar
 
@@ -81,25 +82,27 @@ IDs del mazo: se acordó usar solo intervenciones auténticas verificables.
    sábados). Están documentadas en la guía y se dejaron fuera del audio.
 8. Se añadió al reproductor un botón de «Repasar no entendidas» al acabar;
    todavía falta comprobarlo en navegador con los 35 clips.
+9. Se validaron los 35 `cardId`, la existencia de todos sus M4A y la ausencia
+   de clips nuevos huérfanos; `npm run build` y `git diff --check` pasaron.
+   El lote, los scripts, la guía, esta bitácora y los 13 borradores ASR se
+   subieron en `87f6507` sin incluir archivos ajenos del usuario.
 
 ## Próximo paso exacto
 
-1. Revisar que `src/tutorAudioPilot.json` sea JSON válido, que sus 35 `cardId`
-   existan en `src/data/willkommen-vaughan-11/sektion-3.json` y que haya un
-   M4A para cada `audioSrc`, sin M4A huérfanos nuevos.
-2. Hacer una pasada de escucha/auditoría de los 35 clips. La transcripción
+1. Hacer una pasada de escucha/auditoría de los 35 clips. La transcripción
    automática confirma muchos textos pero **no prueba identidad de voz**.
    Especial atención a `s3-t027`, `s3-t033`, `s3-t065`, `s3-t074` (uniones),
    `s3-t024` (corte basado en tiempo aproximado) y `s3-t108`.
-3. Ajustar el texto de UI para que diga «Práctica con la tutora» sin «Piloto» y
-   explique que puede incluir aclaraciones o bromas previas. Conservar la
-   URL existente para que los enlaces ya compartidos sigan funcionando.
-4. Probar `npm run build`, `git diff --check` y la ruta en navegador a ancho
-   móvil/escritorio, incluida recarga y «Repasar no entendidas».
-5. Actualizar esta bitácora con el número final, hacer commit/push **solo** de
-   archivos del ejercicio, documentación, transcripciones y clips nuevos;
-   no incluir los demás archivos sin seguimiento del usuario. Verificar HTTP
-   200 de la ruta y algunos clips en Netlify tras el despliegue.
+2. Probar el flujo completo en navegador a ancho móvil/escritorio, incluida
+   recarga a mitad de sesión y «Repasar no entendidas». El build y la
+   disponibilidad HTTP ya se verificaron; no repetirlos salvo cambio de código.
+3. Si se detecta una frase mal cortada, corregir solo su entrada en
+   `src/tutorAudioPilot.json`, regenerar con
+   `tools/build-tutor-audio-pilot.py CD_DIR`, volver a auditar ese M4A y
+   actualizar la fila correspondiente de esta bitácora antes de subirlo.
+4. Si se quiere ampliar aún más la cobertura, partir de los 35 IDs canónicos
+   y de los 13 borradores ASR guardados; **no** volver a transcribir el CD
+   entero. Los demás 100 IDs no están prometidos como audio auténtico.
 
 Nota: el ASR tiny comete errores graves en respuestas en alemán e incluso
 alucina durante silencios. La segunda transcripción es un filtro útil, no

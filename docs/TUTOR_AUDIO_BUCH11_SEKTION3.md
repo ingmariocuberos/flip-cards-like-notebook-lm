@@ -161,7 +161,8 @@ revisar la pista 12, donde sí parece preguntar «¿Cómo decimos cuídate?».
 - [x] Borradores de las pistas 02 y 05 en la carpeta temporal.
 - [x] Borradores locales de las 13 pistas; copia persistente en `sources/transcripts/cd43/`.
 - [x] Primer lote de 35 clips candidatos generado y auditado por segunda transcripción.
-- [ ] Escucha/revisión final de voz y límites, prueba de UI y publicación del lote.
+- [x] Lote de 35 clips publicado en `87f6507`; ruta y clip contextual comprobados en Netlify.
+- [ ] Revisión auditiva humana de voz/límites y prueba completa de sesión/repaso en navegador.
 - [ ] Revisar y registrar todas las coincidencias auténticas fiables.
 - [ ] Generar todos los clips y comprobar que no incluyen voz del alumno.
 - [ ] Actualizar la interfaz, validar móvil/escritorio y publicar.
