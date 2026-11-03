@@ -2,7 +2,7 @@
 """Extract the manually checked tutor prompts for the local Buch 11 pilot.
 
 Requires PyAV and numpy. The source CD and exported clips are not redistributed.
-Usage: python tools/build-tutor-audio-pilot.py '/path/to/01 Track01.mp3'
+Usage: python tools/build-tutor-audio-pilot.py '/path/to/cd 43 mp3'
 """
 
 import json
@@ -49,19 +49,34 @@ def export_clip(samples, target):
 def main():
     if len(sys.argv) != 2:
         raise SystemExit(__doc__)
-    source = Path(sys.argv[1])
-    if not source.is_file():
-        raise SystemExit(f'Missing source: {source}')
+    cd_dir = Path(sys.argv[1])
+    if not cd_dir.is_dir():
+        raise SystemExit(f'Missing CD directory: {cd_dir}')
     pilot = json.loads(PILOT.read_text(encoding='utf-8'))
-    audio = read_audio(source)
-    for item in pilot['items']:
-        start = round(item['start'] * SAMPLE_RATE)
-        end = round(item['end'] * SAMPLE_RATE)
-        if not 0 <= start < end <= len(audio):
-            raise ValueError(f'Invalid range for {item["cardId"]}')
-        target = ROOT / 'public' / item['audioSrc'].lstrip('/')
-        export_clip(audio[start:end], target)
-        print(f'{item["cardId"]}: {item["start"]:.2f}–{item["end"]:.2f}s → {target}')
+    tracks = sorted({item['track'] for item in pilot['items']})
+    if len({item['cardId'] for item in pilot['items']}) != len(pilot['items']):
+        raise ValueError('Duplicate cardId in pilot')
+    for track in tracks:
+        source = cd_dir / f'{track} Track{track}.mp3'
+        if not source.is_file():
+            raise FileNotFoundError(source)
+        audio = read_audio(source)
+        for item in (item for item in pilot['items'] if item['track'] == track):
+            ranges = item.get('segments') or [item]
+            slices = []
+            previous_end = -1
+            for part in ranges:
+                start = round(part['start'] * SAMPLE_RATE)
+                end = round(part['end'] * SAMPLE_RATE)
+                if not 0 <= start < end <= len(audio) or start < previous_end:
+                    raise ValueError(f'Invalid range for {item["cardId"]}')
+                if slices:
+                    slices.append(np.zeros(round(0.22 * SAMPLE_RATE), dtype=np.float32))
+                slices.append(audio[start:end])
+                previous_end = end
+            target = ROOT / 'public' / item['audioSrc'].lstrip('/')
+            export_clip(np.concatenate(slices), target)
+            print(f'{item["cardId"]}: {track} {len(ranges)} segment(s) → {target}')
 
 
 if __name__ == '__main__':

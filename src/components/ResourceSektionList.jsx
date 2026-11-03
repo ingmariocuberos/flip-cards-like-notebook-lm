@@ -69,8 +69,8 @@ export default function ResourceSektionList() {
           className="card-item resource-card practice-entry"
           to="/resources/buch/willkommen-vaughan-11/sektion-3/tutor-pilot"
         >
-          <div className="card-item-title">Practica con la tutora · Piloto</div>
-          <p className="resource-description">Sektion 3: escucha preguntas originales del CD 43 y responde con tarjetas.</p>
+          <div className="card-item-title">Practica con la tutora</div>
+          <p className="resource-description">Sektion 3: escucha preguntas y aclaraciones originales del CD 43 y responde con tarjetas.</p>
         </Link>
       )}
     </main>

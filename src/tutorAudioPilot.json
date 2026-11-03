@@ -1,25 +1,72 @@
 {
   "bookId": "willkommen-vaughan-11",
   "sektionId": "sektion-3",
-  "source": "CD 43, archivo 01 Track01.mp3, Lektion 1 (Buch 11, Sektion 3)",
+  "source": "CD 43, Buch 11, Sektion 3; cortes de preguntas auténticas verificadas",
   "items": [
     {
       "cardId": "s3-t001",
+      "track": "01",
       "start": 85.62,
       "end": 86.7,
       "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t001.m4a"
     },
     {
       "cardId": "s3-t002",
+      "track": "01",
       "start": 93.73,
       "end": 97.26,
       "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t002.m4a"
     },
     {
       "cardId": "s3-t004",
+      "track": "01",
       "start": 162.26,
       "end": 164.12,
       "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t004.m4a"
-    }
+    },
+    { "cardId": "s3-t010", "track": "01", "start": 336.5, "end": 339.75, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t010.m4a" },
+    { "cardId": "s3-t013", "track": "01", "start": 442.0, "end": 448.8, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t013.m4a" },
+    { "cardId": "s3-t016", "track": "03", "start": 93.15, "end": 95.05, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t016.m4a" },
+    { "cardId": "s3-t017", "track": "03", "start": 79.6, "end": 83.2, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t017.m4a" },
+    { "cardId": "s3-t021", "track": "03", "start": 124.9, "end": 127.75, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t021.m4a" },
+    { "cardId": "s3-t023", "track": "03", "start": 168.5, "end": 173.9, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t023.m4a" },
+    { "cardId": "s3-t024", "track": "03", "start": 207.0, "end": 209.0, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t024.m4a" },
+    {
+      "cardId": "s3-t027", "track": "03",
+      "segments": [{ "start": 231.8, "end": 237.4 }, { "start": 238.4, "end": 244.8 }],
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t027.m4a"
+    },
+    { "cardId": "s3-t032", "track": "03", "start": 255.8, "end": 258.8, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t032.m4a" },
+    {
+      "cardId": "s3-t033", "track": "03",
+      "segments": [{ "start": 255.8, "end": 258.8 }, { "start": 262.8, "end": 266.8 }],
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t033.m4a"
+    },
+    { "cardId": "s3-t039", "track": "04", "start": 35.0, "end": 37.0, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t039.m4a" },
+    { "cardId": "s3-t040", "track": "04", "start": 43.3, "end": 47.8, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t040.m4a" },
+    { "cardId": "s3-t042", "track": "04", "start": 95.2, "end": 97.95, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t042.m4a" },
+    { "cardId": "s3-t043", "track": "04", "start": 114.7, "end": 117.6, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t043.m4a" },
+    { "cardId": "s3-t046", "track": "04", "start": 183.0, "end": 187.4, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t046.m4a" },
+    { "cardId": "s3-t047", "track": "04", "start": 219.6, "end": 222.7, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t047.m4a" },
+    { "cardId": "s3-t055", "track": "07", "start": 74.9, "end": 77.7, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t055.m4a" },
+    { "cardId": "s3-t057", "track": "07", "start": 140.25, "end": 142.6, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t057.m4a" },
+    { "cardId": "s3-t060", "track": "07", "start": 203.2, "end": 206.3, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t060.m4a" },
+    { "cardId": "s3-t061", "track": "07", "start": 239.85, "end": 241.75, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t061.m4a" },
+    { "cardId": "s3-t063", "track": "07", "start": 283.1, "end": 286.0, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t063.m4a" },
+    {
+      "cardId": "s3-t065", "track": "07",
+      "segments": [{ "start": 416.7, "end": 420.3 }, { "start": 428.72, "end": 430.55 }],
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t065.m4a"
+    },
+    { "cardId": "s3-t066", "track": "07", "start": 470.5, "end": 474.1, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t066.m4a" },
+    { "cardId": "s3-t069", "track": "08", "start": 37.5, "end": 39.75, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t069.m4a" },
+    { "cardId": "s3-t074", "track": "08", "segments": [{ "start": 197.5, "end": 200.7 }, { "start": 202.0, "end": 204.9 }], "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t074.m4a" },
+    { "cardId": "s3-t077", "track": "08", "start": 241.1, "end": 249.9, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t077.m4a" },
+    { "cardId": "s3-t078", "track": "08", "start": 269.98, "end": 274.75, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t078.m4a" },
+    { "cardId": "s3-t080", "track": "08", "start": 342.28, "end": 345.1, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t080.m4a" },
+    { "cardId": "s3-t083", "track": "09", "start": 63.6, "end": 66.3, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t083.m4a" },
+    { "cardId": "s3-t098", "track": "09", "start": 584.1, "end": 589.2, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t098.m4a" },
+    { "cardId": "s3-t099", "track": "09", "start": 612.8, "end": 619.3, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t099.m4a" },
+    { "cardId": "s3-t108", "track": "12", "start": 344.3, "end": 346.4, "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t108.m4a" }
   ]
 }
