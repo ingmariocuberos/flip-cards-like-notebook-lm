@@ -8,6 +8,7 @@ import Conversation from './components/Conversation.jsx';
 import ReviewDeck from './components/ReviewDeck.jsx';
 import PracticeConversation from './components/PracticeConversation.jsx';
 import TutorAudioPilot from './components/TutorAudioPilot.jsx';
+import ProgressTransfer from './components/ProgressTransfer.jsx';
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Route path="/buch/:bookId" element={<SektionList />} />
         <Route path="/buch/:bookId/sektion/:sektionId" element={<CardDeck />} />
         <Route path="/review" element={<ReviewDeck />} />
+        <Route path="/progreso" element={<ProgressTransfer />} />
         <Route path="/resources" element={<ResourceBookList />} />
         <Route path="/resources/buch/:bookId" element={<ResourceSektionList />} />
         <Route path="/resources/buch/:bookId/:sektionId/practice" element={<PracticeConversation />} />
