@@ -64,6 +64,15 @@ export default function ResourceSektionList() {
           })}
         </ul>
       )}
+      {book.bookId === 'willkommen-vaughan-11' && (
+        <Link
+          className="card-item resource-card practice-entry"
+          to="/resources/buch/willkommen-vaughan-11/sektion-3/tutor-pilot"
+        >
+          <div className="card-item-title">Practica con la tutora · Piloto</div>
+          <p className="resource-description">Sektion 3: escucha preguntas originales del CD 43 y responde con tarjetas.</p>
+        </Link>
+      )}
     </main>
   );
 }

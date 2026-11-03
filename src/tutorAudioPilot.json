@@ -1,0 +1,25 @@
+{
+  "bookId": "willkommen-vaughan-11",
+  "sektionId": "sektion-3",
+  "source": "CD 43, archivo 01 Track01.mp3, Lektion 1 (Buch 11, Sektion 3)",
+  "items": [
+    {
+      "cardId": "s3-t001",
+      "start": 85.62,
+      "end": 86.7,
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t001.m4a"
+    },
+    {
+      "cardId": "s3-t002",
+      "start": 93.73,
+      "end": 97.26,
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t002.m4a"
+    },
+    {
+      "cardId": "s3-t004",
+      "start": 162.26,
+      "end": 164.12,
+      "audioSrc": "/audio/tutor-pilot-buch-11-sektion-3-s3-t004.m4a"
+    }
+  ]
+}
