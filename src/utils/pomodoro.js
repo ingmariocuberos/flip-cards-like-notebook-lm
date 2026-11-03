@@ -1,12 +1,17 @@
 export const FLOWS = {
-  classic: { label: '25 / 5', focus: 25, rest: 5 },
-  deep: { label: '50 / 10', focus: 50, rest: 10 },
+  classic: { label: '25 / 5', steps: [25, 5, 25, 5, 25, 5, 25, 15] },
+  deep: { label: '50 / 10', steps: [50, 10, 50, 10] },
 };
 
 export const POMODORO_KEY = 'flashcards:pomodoro:v1';
 
 export function initialTimer(flow = 'classic') {
-  return { flow, phase: 'focus', block: 1, remainingMs: FLOWS[flow].focus * 60000, deadline: null };
+  return { flow, phase: 'focus', step: 0, remainingMs: FLOWS[flow].steps[0] * 60000, deadline: null };
+}
+
+export function currentStep(timer) {
+  if (typeof timer.step === 'number') return timer.step;
+  return Math.min((timer.block - 1) * 2 + (timer.phase === 'break' ? 1 : 0), FLOWS[timer.flow].steps.length - 1);
 }
 
 export function remainingTime(timer, now) {
@@ -18,12 +23,12 @@ export function advanceTimer(timer, now) {
   let next = timer;
   while (next.deadline !== null && now >= next.deadline) {
     const boundary = next.deadline;
-    if (next.phase === 'focus') {
-      next = { ...next, phase: 'break', remainingMs: FLOWS[next.flow].rest * 60000, deadline: boundary + FLOWS[next.flow].rest * 60000 };
-    } else if (next.block < 4) {
-      next = { ...next, phase: 'focus', block: next.block + 1, remainingMs: FLOWS[next.flow].focus * 60000, deadline: boundary + FLOWS[next.flow].focus * 60000 };
-    } else {
+    const step = currentStep(next) + 1;
+    if (step >= FLOWS[next.flow].steps.length) {
       next = { ...next, phase: 'done', remainingMs: 0, deadline: null };
+    } else {
+      const remainingMs = FLOWS[next.flow].steps[step] * 60000;
+      next = { ...next, step, phase: step % 2 === 0 ? 'focus' : 'break', remainingMs, deadline: boundary + remainingMs };
     }
   }
   return next;

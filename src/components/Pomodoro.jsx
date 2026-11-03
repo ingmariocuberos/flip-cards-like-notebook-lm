@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { getBooks } from '../utils/loadCards.js';
 import { readStatus } from '../utils/progress.js';
 import { useLocalStorage } from '../hooks/useLocalStorage.js';
-import { advanceTimer, FLOWS, formatTime, initialTimer, POMODORO_KEY, remainingTime } from '../utils/pomodoro.js';
+import { advanceTimer, currentStep, FLOWS, formatTime, initialTimer, POMODORO_KEY, remainingTime } from '../utils/pomodoro.js';
 import Card from './Card.jsx';
 import LibraryTabs from './LibraryTabs.jsx';
 
@@ -40,7 +40,7 @@ export default function Pomodoro() {
   const [statusVersion, setStatusVersion] = useState(0);
   const audioRef = useRef(null);
   const practiceRef = useRef(null);
-  const lastPhaseRef = useRef(`${session.timer.phase}:${session.timer.block}`);
+  const lastPhaseRef = useRef(`${session.timer.phase}:${currentStep(session.timer)}`);
 
   const { timer, selection } = session;
   const book = books.find((item) => item.bookId === selection.bookId) ?? books[0];
@@ -65,7 +65,7 @@ export default function Pomodoro() {
   }, [setSession]);
 
   useEffect(() => {
-    const phaseKey = `${timer.phase}:${timer.block}`;
+    const phaseKey = `${timer.phase}:${currentStep(timer)}`;
     if (phaseKey !== lastPhaseRef.current) {
       lastPhaseRef.current = phaseKey;
       if (soundEnabled) playChime(audioRef.current, timer.phase);
@@ -76,7 +76,7 @@ export default function Pomodoro() {
       if (timer.phase === 'focus') setShowCards(false);
       document.title = timer.phase === 'break' ? 'Descanso · Tarjetas' : timer.phase === 'done' ? 'Pomodoro terminado' : 'Focus · Tarjetas';
     }
-  }, [timer.phase, timer.block, soundEnabled]);
+  }, [timer.phase, timer.step, timer.block, soundEnabled]);
 
   useEffect(() => () => {
     audioRef.current?.close();
@@ -153,7 +153,7 @@ export default function Pomodoro() {
         <section className="pomodoro-timer" aria-label="Temporizador Pomodoro">
           <div className="pomodoro-phase">{timer.phase === 'focus' ? 'FOCUS' : timer.phase === 'break' ? 'BREAK' : 'COMPLETADO'}</div>
           <div className="pomodoro-clock" role="timer">{formatTime(remainingTime(timer, now))}</div>
-          <p className="muted">{FLOWS[timer.flow].label} · bloque {timer.block} de 4</p>
+          <p className="muted">{FLOWS[timer.flow].label} · bloque {Math.min(currentStep(timer) + 1, FLOWS[timer.flow].steps.length)} de {FLOWS[timer.flow].steps.length}</p>
           <div className="pomodoro-controls">
             <button type="button" onClick={() => setSession((previous) => ({ ...previous, timer: initialTimer(previous.timer.flow) }))}>Reset</button>
             <button type="button" onClick={skip} disabled={timer.phase === 'done'}>Saltar</button>
@@ -176,7 +176,13 @@ export default function Pomodoro() {
           <div className="pomodoro-flows">
             {Object.entries(FLOWS).map(([id, flow]) => <button key={id} type="button" className={timer.flow === id ? 'active' : ''} onClick={() => setFlow(id)} disabled={isRunning}>{flow.label}</button>)}
           </div>
-          <p className="muted">Cuatro ciclos de trabajo y descanso.</p>
+          <div className="pomodoro-steps" aria-label="Bloques del flow">
+            {FLOWS[timer.flow].steps.map((minutes, index) => (
+              <div key={index} className={`pomodoro-step ${index % 2 === 0 ? 'focus' : 'rest'} ${index === currentStep(timer) && timer.phase !== 'done' ? 'current' : ''}`}>
+                <span>{minutes} min</span><span aria-hidden="true">{index < currentStep(timer) || timer.phase === 'done' ? '✓' : '○'}</span>
+              </div>
+            ))}
+          </div>
         </aside>
       </div>
 

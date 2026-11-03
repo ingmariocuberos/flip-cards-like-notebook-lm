@@ -225,6 +225,37 @@ body {
   flex: 1;
 }
 
+.pomodoro-steps {
+  display: grid;
+  gap: 0.3rem;
+  margin-top: 0.8rem;
+}
+
+.pomodoro-step {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.pomodoro-step.focus {
+  background: #668473;
+  color: white;
+}
+
+.pomodoro-step.rest {
+  background: #eee7d9;
+  color: #4b463b;
+}
+
+.pomodoro-step.current {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
 .pomodoro-selection,
 .pomodoro-practice {
   padding: 1.25rem;
