@@ -17,6 +17,12 @@ export default function LibraryTabs() {
         >
           Audio/Visual Resources
         </NavLink>
+        <NavLink
+          to="/pomodoro"
+          className={({ isActive }) => `library-tab${isActive ? ' active' : ''}`}
+        >
+          Pomodoro
+        </NavLink>
       </nav>
       <Link className="progress-transfer-link" to="/progreso">Guardar o recuperar progreso →</Link>
     </>

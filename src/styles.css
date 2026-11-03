@@ -72,7 +72,7 @@ body {
 
 .library-tabs {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.35rem;
   margin-top: 1.35rem;
   padding: 0.3rem;
@@ -153,6 +153,170 @@ body {
 
 .transfer-message.error {
   color: var(--warn);
+}
+
+.pomodoro-screen {
+  max-width: 900px;
+}
+
+.pomodoro-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 190px;
+  gap: 2rem;
+  align-items: start;
+  margin: 2rem 0;
+}
+
+.pomodoro-timer {
+  text-align: center;
+}
+
+.pomodoro-phase {
+  color: var(--muted);
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.pomodoro-clock {
+  font-size: clamp(4.5rem, 13vw, 8rem);
+  font-weight: 300;
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+}
+
+.pomodoro-controls,
+.pomodoro-flows,
+.pomodoro-select-actions,
+.pomodoro-card-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pomodoro-controls {
+  justify-content: center;
+  margin: 1.25rem 0;
+}
+
+.pomodoro-controls button {
+  min-width: 90px;
+}
+
+.pomodoro-primary,
+.pomodoro-flows button.active {
+  background: #41534b;
+  border-color: #41534b;
+  color: #fff;
+}
+
+.pomodoro-sound {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.pomodoro-settings h2,
+.pomodoro-selection h2,
+.pomodoro-practice h2 {
+  margin: 0 0 0.7rem;
+  font-size: 1.1rem;
+}
+
+.pomodoro-flows button {
+  flex: 1;
+}
+
+.pomodoro-selection,
+.pomodoro-practice {
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.pomodoro-selects {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.pomodoro-selects label {
+  display: grid;
+  gap: 0.25rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.pomodoro-selects select {
+  min-width: 0;
+  padding: 0.55rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font: inherit;
+}
+
+.pomodoro-card-picker {
+  margin-top: 0.9rem;
+}
+
+.pomodoro-card-picker summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-size: 0.9rem;
+}
+
+.pomodoro-card-options {
+  max-height: 280px;
+  overflow: auto;
+  display: grid;
+  gap: 0.45rem;
+  margin-top: 0.75rem;
+}
+
+.pomodoro-card-options label {
+  display: flex;
+  gap: 0.55rem;
+  align-items: start;
+  font-size: 0.85rem;
+}
+
+.pomodoro-practice-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 1rem;
+}
+
+.pomodoro-practice-heading p {
+  margin: 0 0 1rem;
+}
+
+.pomodoro-card-controls {
+  justify-content: center;
+}
+
+@media (max-width: 650px) {
+  .pomodoro-layout,
+  .pomodoro-selects {
+    grid-template-columns: 1fr;
+  }
+
+  .pomodoro-layout {
+    gap: 0.75rem;
+  }
+
+  .pomodoro-clock {
+    font-size: clamp(4.5rem, 19vw, 7rem);
+  }
+
+  .pomodoro-practice-heading {
+    flex-direction: column;
+    align-items: stretch;
+  }
 }
 
 .review-entry {
