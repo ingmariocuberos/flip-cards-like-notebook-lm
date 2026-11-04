@@ -8,24 +8,23 @@ import LibraryTabs from './LibraryTabs.jsx';
 
 const books = getBooks();
 
-function playChime(context, phase) {
-  if (!context) return;
-  context.resume().then(() => {
-    const start = context.currentTime;
-    const notes = phase === 'break' ? [660, 880, 990] : [880, 660];
-    notes.forEach((frequency, index) => {
-      const oscillator = context.createOscillator();
-      const gain = context.createGain();
-      oscillator.type = 'sine';
-      oscillator.frequency.value = frequency;
-      gain.gain.setValueAtTime(0.0001, start + index * 0.2);
-      gain.gain.exponentialRampToValueAtTime(0.15, start + index * 0.2 + 0.02);
-      gain.gain.exponentialRampToValueAtTime(0.0001, start + index * 0.2 + 0.18);
-      oscillator.connect(gain).connect(context.destination);
-      oscillator.start(start + index * 0.2);
-      oscillator.stop(start + index * 0.2 + 0.2);
-    });
-  }).catch(() => {});
+function playAlert(clips, phase) {
+  const clip = phase === 'break' ? clips?.focus : clips?.break;
+  if (!clip) return;
+  clip.pause();
+  clip.currentTime = 0;
+  clip.play().catch(() => {});
+}
+
+function unlockAlerts(clips) {
+  Object.values(clips ?? {}).forEach((clip) => {
+    clip.volume = 0;
+    clip.play().then(() => {
+      clip.pause();
+      clip.currentTime = 0;
+      clip.volume = 1;
+    }).catch(() => { clip.volume = 1; });
+  });
 }
 
 export default function Pomodoro() {
@@ -38,7 +37,7 @@ export default function Pomodoro() {
   const [flipped, setFlipped] = useState(false);
   const [soundEnabled, setSoundEnabled] = useState(true);
   const [statusVersion, setStatusVersion] = useState(0);
-  const audioRef = useRef(null);
+  const clipsRef = useRef(null);
   const practiceRef = useRef(null);
   const lastPhaseRef = useRef(`${session.timer.phase}:${currentStep(session.timer)}`);
 
@@ -68,7 +67,7 @@ export default function Pomodoro() {
     const phaseKey = `${timer.phase}:${currentStep(timer)}`;
     if (phaseKey !== lastPhaseRef.current) {
       lastPhaseRef.current = phaseKey;
-      if (soundEnabled) playChime(audioRef.current, timer.phase);
+      if (soundEnabled) playAlert(clipsRef.current, timer.phase);
       if (timer.phase === 'break') {
         setShowCards(true);
         window.requestAnimationFrame(() => practiceRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }));
@@ -78,9 +77,16 @@ export default function Pomodoro() {
     }
   }, [timer.phase, timer.step, timer.block, soundEnabled]);
 
-  useEffect(() => () => {
-    audioRef.current?.close();
-    document.title = 'Tarjetas didácticas';
+  useEffect(() => {
+    clipsRef.current = {
+      focus: new Audio('/audio/pomodoro/mario-moneda.mp3'),
+      break: new Audio('/audio/pomodoro/mario-bros-vida.mp3'),
+    };
+    Object.values(clipsRef.current).forEach((clip) => { clip.preload = 'auto'; });
+    return () => {
+      Object.values(clipsRef.current ?? {}).forEach((clip) => clip.pause());
+      document.title = 'Tarjetas didácticas';
+    };
   }, []);
 
   useEffect(() => { setFlipped(false); }, [card?.id]);
@@ -114,11 +120,7 @@ export default function Pomodoro() {
   }
 
   function startOrPause() {
-    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-    if (soundEnabled && AudioContextClass) {
-      if (!audioRef.current) audioRef.current = new AudioContextClass();
-      audioRef.current.resume().catch(() => {});
-    }
+    if (soundEnabled && !isRunning) unlockAlerts(clipsRef.current);
     setSession((previous) => ({ ...previous, timer: previous.timer.deadline === null
       ? { ...previous.timer, deadline: Date.now() + previous.timer.remainingMs }
       : { ...previous.timer, remainingMs: remainingTime(previous.timer, Date.now()), deadline: null } }));
@@ -161,13 +163,7 @@ export default function Pomodoro() {
           </div>
           <label className="pomodoro-sound"><input type="checkbox" checked={soundEnabled} onChange={(event) => {
             setSoundEnabled(event.target.checked);
-            if (event.target.checked) {
-              const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-              if (AudioContextClass) {
-                audioRef.current = new AudioContextClass();
-                audioRef.current.resume().catch(() => {});
-              }
-            }
+            if (event.target.checked) unlockAlerts(clipsRef.current);
           }} /> Sonido al cambiar de etapa</label>
         </section>
 
