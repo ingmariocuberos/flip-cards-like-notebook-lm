@@ -58,7 +58,7 @@ def main():
         slug, title = LEVELS[level]
         data = {
             'bookId': book_id,
-            'bookTitle': f'Vaughan Intensive English — Libro {number}',
+            'bookTitle': f'Libro {number}',
             'language': 'en',
             'sektionId': f'nivel-{slug}',
             'sektionTitle': title,
