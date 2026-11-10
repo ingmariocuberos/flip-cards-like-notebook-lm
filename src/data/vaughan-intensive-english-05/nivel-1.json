@@ -1,0 +1,580 @@
+{
+  "bookId": "vaughan-intensive-english-05",
+  "bookTitle": "Vaughan Intensive English — Libro 5",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Hacen detergente en esta fábrica.",
+      "back": "They make detergent at this factory.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Hacen coches en esa fábrica.",
+      "back": "They make cars at that factory.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Hacen mermelada en esa fábrica.",
+      "back": "They make jam at that factory.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Mi madre hace vestidos.",
+      "back": "My mother makes dresses.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Estás haciendo un vestido?",
+      "back": "Are you making a dress?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Qué estás haciendo (confeccionando)?",
+      "back": "What are you making?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Estoy preparando la comida.",
+      "back": "I'm making lunch.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Siempre haces una ensalada para la cena?",
+      "back": "Do you always make a salad for dinner?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "No estamos haciendo un bizcocho, estamos haciendo galletas.",
+      "back": "We're not making a cake, we're making cookies.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Él está haciendo un castillo.",
+      "back": "He's making a castle.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Él no está haciendo un castillo, lo está desordenando todo.",
+      "back": "He's not making a castle, he's making a mess.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Ella hace su cama todos los días.",
+      "back": "She makes her bed every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Suelo hacer mi cama por la mañana.",
+      "back": "I usually make my bed in the morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Estoy haciendo mi cama ahora mismo!",
+      "back": "I'm making my bed right now!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Hago galletas todas las semanas. Hago algunas los lunes y hago algunas los miércoles.",
+      "back": "I make biscuits every week. I make some on Mondays and I make some on Wednesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Mi madre hace bizcochos todas las semanas. Hace algunos los martes y hace algunos los jueves.",
+      "back": "My mother makes cakes every week. She makes some on Tuesdays and she makes some on Thursdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Hacemos pan todas las semanas. Hacemos los lunes y hacemos los martes.",
+      "back": "We make bread every week. We make some on Mondays and we make some on Tuesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Harry hace bizcochos dos veces a la semana. Hace unos cuantos los martes y unos cuantos los jueves.",
+      "back": "Harry makes cakes twice a week. He makes some on Tuesdays and some on Thursdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Hago galletas dos veces a la semana. Hago algunas los lunes y algunas los miércoles.",
+      "back": "I make biscuits twice a week. I make some on Mondays and some on Wednesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Ella hace pan dos veces a la semana. Hace los miércoles y hace los jueves.",
+      "back": "She makes bread twice a week. She makes some on Wednesdays and some on Thursdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Ian hace galletas dos veces a la semana. Hace unas cuantas los jueves y unas cuantas los viernes.",
+      "back": "Ian makes biscuits twice a week. He makes some on Thursdays and some on Fridays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Mary hace galletas dos veces a la semana también. Hace unas cuantas los lunes y unas cuantas los viernes.",
+      "back": "Mary makes biscuits twice a week too. She makes some on Mondays and some on Fridays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Natasha hace galletas dos veces a la semana también. Hace algunas los miércoles y algunas los viernes.",
+      "back": "Natasha makes biscuits twice a week too! She makes some on Wednesdays and some on Fridays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Hago galletas los viernes. Suelo hacerlas por la mañana.",
+      "back": "I make cookies on Fridays. I usually make them in the morning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Gary hace galletas los jueves. Suele hacerlas por la tarde.",
+      "back": "Gary makes cookies on Thursdays. He usually makes them in the afternoon.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Lucy hace galletas los miércoles. Suele hacerlas por la tarde también.",
+      "back": "Lucy makes cookies on Wednesdays. She usually makes them in the afternoon too.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Haz tu cama! ¡Hazla ahora!",
+      "back": "Make your bed! Make it now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Haz unas galletas! ¡Hazlas ahora!",
+      "back": "Make some cookies! Make them now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Haz unos bizcochos! ¡Hazlos ahora mismo!",
+      "back": "Make some cakes! Make them right now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Él no suele hacer su cama.",
+      "back": "He doesn't usually make his bed.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "Richard no suele preparar la cena los viernes.",
+      "back": "Richard doesn't usually make dinner on Fridays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "No suele preparar la comida los viernes tampoco.",
+      "back": "He doesn't usually make lunch on Fridays either.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Tracy no suele hacer muchas galletas.",
+      "back": "Tracy doesn't usually make a lot of cookies.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Kathy no suele hacer muchos bizcochos.",
+      "back": "Kathy doesn't usually make a lot of cakes.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Tampoco suele hacer muchas galletas.",
+      "back": "She doesn't usually make a lot of biscuits either.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Patrick comete algunos errores pero no comete muchos errores.",
+      "back": "Patrick makes some mistakes but he doesn't make a lot of mistakes.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "Úrsula comete algunos errores pero no comete muchos errores.",
+      "back": "Ursula makes some mistakes but she doesn't make a lot of mistakes.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Ellos cometen algunos errores pero no cometen muchos errores.",
+      "back": "They make some mistakes but they don't make a lot of mistakes.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Frank hace galletas dos veces a la semana, pero no hace ninguna los viernes.",
+      "back": "Frank makes cookies twice a week, but he doesn't make any on Fridays.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Jess comete algunos errores, pero Susan no comete ninguno.",
+      "back": "Jess makes some mistakes, but Susan doesn't make any.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Esta fábrica fabrica algunos coches grandes, pero esa fábrica no fabrica ninguno.",
+      "back": "This factory makes some big cars, but that factory doesn't make any.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Cómo se hacen unos espaguetis a la boloñesa?",
+      "back": "How do you make spaghetti bolognaise?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Cómo se hace una tortilla española?",
+      "back": "How do you make Spanish omelette?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Cómo se hace un gazpacho?",
+      "back": "How do you make gazpacho?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "La una y cinco (forma digital).",
+      "back": "One o' five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-046",
+      "front": "La una y quince (forma digital).",
+      "back": "One fifteen.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "La una y veinticinco (forma digital).",
+      "back": "One twenty-five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "La una y treinta y cinco (forma digital).",
+      "back": "One thirty-five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "La una y cuarenta y cinco (forma digital).",
+      "back": "One forty-five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "La una y cincuenta y cinco (forma digital).",
+      "back": "One fifty-five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Te estoy haciendo pasta.",
+      "back": "I'm making some pasta for you.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Él está haciendo una tarjeta de cumpleaños para ti.",
+      "back": "He's making a birthday card for you.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-053",
+      "front": "Te estamos preparando una tarta de cumpleaños.",
+      "back": "We're making a birthday cake for you.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-054",
+      "front": "Estoy preparando algo para ti.",
+      "back": "I'm making something for you.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-055",
+      "front": "Él está preparando algo para ti también.",
+      "back": "He's making something for you too.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-056",
+      "front": "Ellas también están preparando algo para ti.",
+      "back": "They're making something for you as well.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-057",
+      "front": "Estoy preparando esto para ti.",
+      "back": "I'm making this for you.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Estoy preparando esto para ella.",
+      "back": "I'm making this for her.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Estoy preparando esto para él.",
+      "back": "I'm making this for him.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Estoy haciendo esto para la fiesta de esta noche.",
+      "back": "I'm making this for the party tonight.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Estamos haciendo algo para la fiesta de esta noche.",
+      "back": "We're making something for the party tonight.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-062",
+      "front": "Ella está haciendo un bizcocho para la fiesta de esta noche.",
+      "back": "She's making a cake for the party tonight.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-063",
+      "front": "Estoy haciendo la comida para ellos.",
+      "back": "I'm making lunch for them.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-064",
+      "front": "Estamos haciendo el desayuno para ellos.",
+      "back": "We're making breakfast for them.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-065",
+      "front": "Ella está haciendo la cena para ellos.",
+      "back": "She's making dinner for them.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-066",
+      "front": "No los están haciendo para nosotros.",
+      "back": "They're not making them for us.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Él no está preparando nada para nosotros.",
+      "back": "He's not making anything for us.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-068",
+      "front": "Está haciendo unos bizcochos para Giselle, pero no está haciendo ninguno para nosotros.",
+      "back": "He's making some cakes for Giselle, but he's not making any for us.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-069",
+      "front": "No estoy preparando un café ahora mismo; estoy preparando un té.",
+      "back": "I'm not making any coffee right now; I'm making some tea.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-070",
+      "front": "Él no está preparando un té, pero sí que está preparando un café.",
+      "back": "He's not making any tea, but he is making some coffee.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-071",
+      "front": "No están preparando un café, pero sí que están preparando un té.",
+      "back": "They're not making any coffee, but they are making some tea.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-072",
+      "front": "Él no está haciendo un esfuerzo con su inglés.",
+      "back": "He's not making an effort with his English.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Ella no está haciendo un esfuerzo con su inglés tampoco.",
+      "back": "She's not making an effort with her English either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Tú no estás haciendo un esfuerzo con tu inglés tampoco.",
+      "back": "You're not making an effort with your English either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Él no está haciendo un esfuerzo con su inglés, así que no está avanzando nada.",
+      "back": "He's not making an effort with his English, so he isn't making any progress.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Ella no está haciendo un esfuerzo con su inglés, así que no está avanzando nada.",
+      "back": "She's not making an effort with her English, so she isn't making any progress.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-077",
+      "front": "No estás haciendo un esfuerzo con tu inglés, así que no estás avanzando nada.",
+      "back": "You're not making an effort with your English, so you're not making any progress.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-078",
+      "front": "No voy a hacer la cama otra vez.",
+      "back": "I'm not making the bed again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-079",
+      "front": "No estoy avanzando otra vez.",
+      "back": "I'm not making any progress again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-080",
+      "front": "Una vez más, no estás haciendo un esfuerzo.",
+      "back": "You're not making an effort again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Vas a hacer un bizcocho para la fiesta de Susan?",
+      "back": "Are you making a cake for Susan's party?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Qué vas a preparar para la fiesta de Susan?",
+      "back": "What are you making for Susan's party?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Vas a hacer unas galletas para la fiesta de Susan?",
+      "back": "Are you making some cookies for Susan's party?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Qué vas a preparar para la fiesta de cumpleaños de tu hermana?",
+      "back": "What are you making for your sister's birthday party?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Estás haciendo café para el novio de tu hermana también?",
+      "back": "Are you making coffee for your sister's boyfriend as well?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Estás haciendo té para la amiga de tu hermana también?",
+      "back": "Are you making tea for your sister's friend as well?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Estás haciendo café para la madre de tu vecina?",
+      "back": "Are you making coffee for your neighbour's mother?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Está el hijo de tu vecino haciendo un esfuerzo con su inglés?",
+      "back": "Is your neighbour's son making an effort with his English?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Está el hijo de tu vecino avanzando con su inglés?",
+      "back": "Is your neighbour's son making any progress with his English?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿A qué hora vas a hacer la cena?",
+      "back": "What time are you making dinner?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-091",
+      "front": "¿A qué hora vas a hacer la comida?",
+      "back": "What time are you making lunch?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-092",
+      "front": "¿A qué hora vas a hacer el desayuno?",
+      "back": "What time are you making breakfast?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-093",
+      "front": "¿Por qué estás preparando el desayuno a las once?",
+      "back": "Why are you making breakfast at eleven o'clock?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-094",
+      "front": "¿Por qué él está haciendo su cama a las tres de la madrugada?",
+      "back": "Why is he making his bed at three o'clock in the morning?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-095",
+      "front": "¿Por qué están preparando café a las dos y media de la madrugada?",
+      "back": "Why are they making coffee at half past two in the morning?",
+      "sourcePage": 19
+    }
+  ]
+}

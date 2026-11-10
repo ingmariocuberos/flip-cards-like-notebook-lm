@@ -1,0 +1,610 @@
+{
+  "bookId": "vaughan-intensive-english-05",
+  "bookTitle": "Vaughan Intensive English — Libro 5",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Qué hora tienes?",
+      "back": "What time do you make it?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Según mi reloj son las cinco.",
+      "back": "I make it five o'clock.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Pues según el mío son las cinco y cinco.",
+      "back": "Well, I make it five past.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "No puedo asistir el lunes, pero sí puedo el martes.",
+      "back": "I can't make it on Monday, but I can make it on Tuesday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "¿A qué hora puedes?",
+      "back": "What time can you make it?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "¿Puedes venir el miércoles ya que el jefe no puede el martes?",
+      "back": "Can you make it on Wednesday because the boss can't make it on Tuesday?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "¡Has venido!",
+      "back": "You made it!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Al final llegué, pero llegué con dos horas de retraso.",
+      "back": "In the end I made it, but I was two hours late.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Sólo uno de los barcos de Cristóbal Colón logró volver a España.",
+      "back": "Only one of Christopher Columbus's ships made it back to Spain.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Sólo uno de los cachorros sobrevivió hasta la madurez.",
+      "back": "Only one of the puppies made it to adulthood.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Si pasa la noche, sobrevivirá.",
+      "back": "If he makes it through the night, he'll be ok.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Sólo tres montañeros lograron llegar con vida al campamento base.",
+      "back": "Only three mountaineers made it back to the base camp.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "¿De verdad crees que él llegará a tener éxito en la industria de la música pop?",
+      "back": "Do you really think he'll make it in the pop industry?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Él triunfó en el mundo editorial a una edad temprana.",
+      "back": "He made it in the publishing industry at an early age.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Si quieres tener éxito, tendrás que trabajar duro.",
+      "back": "If you want to make it, you'll have to work hard.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "David ganó mucho dinero en la Bolsa.",
+      "back": "David made a lot of money on the stock market.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Esa empresa genera mucho dinero.",
+      "back": "That company makes a lot of money.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Cuánto dinero ganaste cuando vendiste tus acciones?",
+      "back": "How much money did you make when you sold your shares?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Él ganó una auténtica fortuna con esa operación.",
+      "back": "He made an absolute fortune on that deal.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Kath se va a forrar cuando venda su empresa.",
+      "back": "Kath's going to make a killing when she sells her company.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Se forraron y bien durante el boom de la construcción.",
+      "back": "They made an absolute mint during the construction boom.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Ian gana mucho más dinero que Jack.",
+      "back": "Ian earns a lot more money than Jack.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Pero Jack gana mucho más dinero que Lee.",
+      "back": "But Jack earns a lot more money than Lee.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Patricia gana más de 50.000 libras esterlinas al año.",
+      "back": "Patricia earns over 50,000 pounds a year.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Mis vecinos ganaron medio millón en la lotería.",
+      "back": "My neighbours won half a million on the lottery.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Gillian, la amiga de Jack, ganó unos cuantos miles de dólares en un concurso de televisión.",
+      "back": "Jack's friend Gillian won a couple of grand on a game show.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Gary ganó 10 euros con una tarjeta de rasca y gana.",
+      "back": "Gary won 10 euros on a scratch card.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Me resulta difícil llegar a fin de mes.",
+      "back": "I find making ends meet difficult.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Les resultó difícil llegar a fin de mes.",
+      "back": "They found making ends meet hard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "No nos resulta difícil llegar a fin de mes.",
+      "back": "We don't find making ends meet very hard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¡Decídete!",
+      "back": "Make up your mind!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Es que él no puede decidirse.",
+      "back": "He just can't make up his mind.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Ya se han decidido?",
+      "back": "Have they made their minds up yet?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "He tomado una decisión. Voy a jubilarme el año que viene.",
+      "back": "I've made a decision. I'm going to retire next year.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Tenemos que tomar una decisión y tenemos que tomarla rápido.",
+      "back": "We need to make a decision and we need to make one fast.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Crees que hemos tomado la decisión acertada?",
+      "back": "Do you think we made the right decision?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Yo sería un pésimo camarero. ¡Soy tan torpe!",
+      "back": "I'd make a terrible waiter. I'm so clumsy!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Serías un pésimo contable.",
+      "back": "You'd make a terrible accountant.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Todo el mundo dice que él sería un pésimo presidente.",
+      "back": "Everyone says he'd make a terrible president.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Aprovecha tu tiempo aquí.",
+      "back": "Make the most of your time here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Espero que estés aprovechando este curso de inglés al máximo.",
+      "back": "I hope you're making the most of this English course.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Aprovecharon al máximo la oportunidad.",
+      "back": "They made the most of the opportunity.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Para mí no tiene sentido. ¿Tiene sentido para ti?",
+      "back": "It doesn't make sense to me. Does it make sense to you?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Para mí nada tiene sentido.",
+      "back": "Nothing makes sense to me.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Ah sí, ¡eso tiene sentido!",
+      "back": "Yeah, that makes sense!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Flojo.",
+      "back": "Loose.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Apretado.",
+      "back": "Tight.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Corto.",
+      "back": "Short.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Suave.",
+      "back": "Soft.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Ligero.",
+      "back": "Light.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Amplio.",
+      "back": "Wide.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Largo.",
+      "back": "Long.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-053",
+      "front": "Gordo.",
+      "back": "Fat.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-054",
+      "front": "Fuerte.",
+      "back": "Strong.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Están todas las mesas de madera hechas de madera?",
+      "back": "Are all wooden tables made of wood?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-056",
+      "front": "Si es una mesa de madera, entonces está hecha de madera.",
+      "back": "If it's a wooden table, then it's made of wood.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-057",
+      "front": "En general, no me gustan los muebles de madera, pero me gustan algunas mecedoras que están hechas de madera.",
+      "back": "In general, I don't like wooden furniture, but I like some rocking chairs that are made of wood.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "Mi hijo tiene muchos cochecitos de metal.",
+      "back": "My son has many metal toy cars.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "Sin embargo, no todos sus cochecitos están hechos de metal.",
+      "back": "However, not all of his cars are made of metal.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Estás seguro de que este candelabro de plata está hecho de plata?",
+      "back": "Are you sure that this silver candlestick is made of silver?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "No estoy seguro de que tu anillo de oro esté hecho de oro de verdad.",
+      "back": "I'm not sure your gold ring is really made of gold.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Están todos los patos de goma hechos de goma?",
+      "back": "Are all rubber ducks made of rubber?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Están todos los neumáticos de goma hechos de goma?",
+      "back": "Are all rubber tyres made of rubber?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Son ésos guantes de goma? Creo que están hechos de goma.",
+      "back": "Are those rubber gloves? I think they're made of rubber.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "Estos vasitos están hechos de plástico. Y los cubiertos son de plástico también.",
+      "back": "These cups are made of plastic. And the knives and forks are plastic too.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "Éste está hecho de plástico, pero ése no es de plástico.",
+      "back": "This one is made of plastic, but that one isn't plastic.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "En realidad este reloj no está hecho de plástico, aunque lo parezca un poco.",
+      "back": "This watch isn't really made of plastic, but it looks a bit plasticky!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Está esta caja de cartón hecha de cartón de verdad?",
+      "back": "Is this cardboard box really made of cardboard?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Él vive en una casa de cartón. ¡Hasta su garaje está hecho de cartón!",
+      "back": "He lives in a cardboard house. Even his garage is made of cardboard!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "Mi hijo está haciendo un castillo de cartón para su dragón de cartón.",
+      "back": "My son is making a castle out of cardboard for his cardboard dragon.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "Te lo estás inventando.",
+      "back": "You're making it up.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-072",
+      "front": "No me lo estoy inventando. ¡Es verdad!",
+      "back": "I'm not making it up! It's true!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-073",
+      "front": "Él se inventó una historia sobre alguien que nunca ha conocido.",
+      "back": "He made up a story about someone he's never met!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Cómo te puedo compensar por lo que hice?",
+      "back": "How can I make up for what I did?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "Estoy intentando compensarte por lo que dije.",
+      "back": "I'm trying to make up for what I said.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "Él le compró flores para compensarla por lo que le hizo.",
+      "back": "He bought her some flowers to make up for what he did.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "Hice las paces con mi novia cuando me invitó a comer.",
+      "back": "I made up with my girlfriend when she bought me lunch.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-078",
+      "front": "Nunca haré las paces con él.",
+      "back": "I'll never make up with him.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Podemos intentar hacer las paces?",
+      "back": "Can we try and make up?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-080",
+      "front": "Un equipo de fútbol se compone de once jugadores más los sustitutos.",
+      "back": "A football team is made up of eleven players plus substitutes.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "El gobierno está compuesto de más ministros que de ministras.",
+      "back": "The government is made up of more male ministers than female ones.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "¿De cuántos miembros está compuesto tu departamento?",
+      "back": "How many members is your department made up of?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Pondré la diferencia en efectivo.",
+      "back": "I'll make up the difference in cash.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "Te completaré la diferencia cuando te vea la semana que viene.",
+      "back": "I'll make up the rest when I see you next week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Completaré el total cuando me paguen.",
+      "back": "I'll make up the full amount when I get paid.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Ollie hace bizcochos. Hizo algunos esta mañana, pero no hizo ninguno ayer.",
+      "back": "Ollie makes cakes. He made some this morning, but he didn't make any yesterday.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-087",
+      "front": "Tim confecciona vestidos. Confeccionó uno ayer, pero no confeccionó ninguno antes de ayer.",
+      "back": "Tim makes dresses. He made one yesterday, but he didn't make any the day before yesterday.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-088",
+      "front": "Giuseppe hace marionetas de madera. Hizo una antes de ayer, pero no hizo ninguna el día anterior.",
+      "back": "Giuseppe makes wooden puppets. He made one the day before yesterday, but he didn't make any the day before that.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-089",
+      "front": "Esta semana no he hecho un bizcocho, pero hice uno la semana pasada.",
+      "back": "I haven't made a cake this week but I made one last week.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "Ella se hizo un café ayer, pero hoy no se ha hecho ninguno.",
+      "back": "She made a cup of coffee yesterday, but she hasn't made one today.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-091",
+      "front": "Hoy no he hecho un té, pero hice uno ayer.",
+      "back": "I haven't made a cup of tea today, but I made one yesterday.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-092",
+      "front": "He hecho la cama hoy, pero no la hice ayer.",
+      "back": "I've made the bed today, but I didn't make the bed yesterday.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-093",
+      "front": "Él ha preparado algo hoy, pero ayer no preparó nada.",
+      "back": "He's made something today, but he didn't make anything yesterday.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-094",
+      "front": "He hecho tres ensaladas muy buenas esta semana, pero la semana pasada no hice ninguna.",
+      "back": "I've made three really nice salads this week, but last week I didn't make any.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-095",
+      "front": "¿Has hecho un esfuerzo hoy? ¿E hiciste un esfuerzo ayer?",
+      "back": "Have you made an effort today? And did you make an effort yesterday?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-096",
+      "front": "¿Te ha preparado ella un café hoy? ¿Y te preparó uno ayer?",
+      "back": "Has she made you a cup of coffee today? And did she make you one yesterday?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-097",
+      "front": "¿Ya se han decidido? ¿Cuándo se decidieron?",
+      "back": "Have they made up their minds yet? When did they make them up?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-098",
+      "front": "Él suele hacer tortillas españolas, pero ahora mismo está haciendo una tortilla francesa.",
+      "back": "He usually makes Spanish omelettes, but right now he's making a French omelette.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-099",
+      "front": "Ella suele hacer bizcochos de chocolate, pero ahora mismo está haciendo un bizcocho de limón.",
+      "back": "She usually makes chocolate cakes, but right now she's making a lemon cake.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-100",
+      "front": "Jill suele hacer cajas de madera, pero hoy está haciendo una de metal.",
+      "back": "Jill usually makes wooden boxes, but today she's making a metal one.",
+      "sourcePage": 47
+    }
+  ]
+}

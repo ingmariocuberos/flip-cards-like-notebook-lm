@@ -1,0 +1,610 @@
+{
+  "bookId": "vaughan-intensive-english-05",
+  "bookTitle": "Vaughan Intensive English — Libro 5",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "A él le irrita sobremanera la gente irrespetuosa.",
+      "back": "Disrespectful people make him particularly angry.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "A ella le irrita sobremanera tener que esperar el autobús durante más de media hora.",
+      "back": "Having to wait for the bus for more than half an hour makes her particularly angry.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Me irrita sobremanera la gente que es cruel con los animales.",
+      "back": "People who are cruel to animals make me particularly angry.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Me pone enferma que él se queje continuamente.",
+      "back": "His constant complaining about everything makes me sick.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Me pone enferma que ella se queje continuamente.",
+      "back": "Her constant whining about everything makes me sick.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Me pone enferma que se quejen constantemente.",
+      "back": "Their constant moaning about everything makes me sick.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Las redes sociales facilitan que la gente esté en contacto.",
+      "back": "Social networks make it easier for people to stay in touch.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "El nuevo sistema ayudará a pronosticar el riesgo de inundaciones.",
+      "back": "The new system will make it easier to predict the risk of flooding.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Crees que la nueva carretera facilitará el desplazamiento de la gente que viene a la ciudad a trabajar?",
+      "back": "Do you think the new road will make it easier for people who commute?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "La falta de recursos complica la evaluación del rendimiento de los profesores.",
+      "back": "The lack of resources makes it difficult to assess the teachers' performance.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "El mal tiempo está dificultando el rescate de los pescadores náufragos.",
+      "back": "The bad weather is making it difficult to rescue the shipwrecked fishermen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "El ruido incesante de los cláxones de los coches dificulta que podamos dormir por la noche.",
+      "back": "The constant sound of car horns makes it difficult for us to sleep at night.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Un buen profesor hace que aprender sea divertido para sus alumnos.",
+      "back": "A good teacher makes learning fun for his/her students.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Conozco algunos buenos profesores que hacen del aprendizaje algo muy divertido.",
+      "back": "I know some good teachers that make learning a lot of fun.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Sin embargo, hay otros profesores que necesitan hacerlo mucho más divertido.",
+      "back": "However, there are other teachers that need to make it a lot more fun.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "No verles juntos me hizo plantearme si habían roto o no.",
+      "back": "Not seeing them together made me wonder whether they had split up or not.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Sus constantes altibajos le hicieron plantearse si había tomado la decisión correcta o no.",
+      "back": "Her constant ups and downs made her wonder whether she had made the right decision or not.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Este tipo de cosas le hacen plantearse si merece la pena o no tener una relación.",
+      "back": "Things like these make him wonder whether it is worth being in a relationship or not.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Su hermano solía hacerle llorar un día sí y otro no.",
+      "back": "Her brother used to make her cry every other day.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Las películas tristes solían hacerle llorar cuando era niño.",
+      "back": "Sad movies used to make him cry when he was a child.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Las historias tristes solían hacerle llorar antes de que empezara a ir al psicólogo.",
+      "back": "Sad stories used to make her cry before she started going to the psychologist.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Me resulta difícil hacer reír a la gente.",
+      "back": "I find it difficult to make people laugh.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "A ella le resulta imposible hacer reír a su marido.",
+      "back": "She finds it impossible to make her husband laugh.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "A los payasos les resulta fácil hacer reír a los niños.",
+      "back": "Clowns find it easy to make children laugh.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Le hizo ver que lo que estaba haciendo estaba mal.",
+      "back": "He made her see that what she was doing was wrong.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Cómo puedo hacerle entender que es su culpa?",
+      "back": "How can I make her see it's her fault?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Traté de hacerle ver mi punto de vista, pero se negó a escuchar.",
+      "back": "I tried to make her see my point, but she refused to listen.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "No verla en la fiesta le hizo darse cuenta de que ella no estaba interesada en él.",
+      "back": "Not seeing her at the party made him realize she wasn't interested in him.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Su reacción le hizo darse cuenta de lo mucho que significaba para ella su propuesta.",
+      "back": "Her reaction made him realize how interested she was in his business proposal.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "No recibir un correo electrónico me hizo darme cuenta de que no estaban interesados en mí.",
+      "back": "Not receiving an email made me realize they were not interested in me.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Su jefe le hizo recoger la oficina de Peter a primera hora de la mañana.",
+      "back": "Her boss made her tidy up Peter's office first thing in the morning.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "El jefe de Samantha siempre le hace ordenar el archivador de Steven a primera hora de la mañana.",
+      "back": "Samantha's boss always makes her tidy up Steven's filing cabinet first thing in the morning.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "El jefe de Martin le hará recoger el comedor de los empleados a primera hora de la mañana.",
+      "back": "Martin's boss will make him tidy up the staff canteen first thing in the morning.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Él está de morros porque su jefe le ha hecho organizar las finanzas de la empresa.",
+      "back": "He's huffing and puffing because his boss made him sort out the company's finances.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Ella siempre se enfurruña cuando su jefe le hace organizar sus gastos.",
+      "back": "She always huffs and puffs when her boss makes her sort out his expenses.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Se enfadó cuando su jefe le hizo organizar las facturas de la empresa.",
+      "back": "He huffed and puffed when his boss made him sort out the company's invoices.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "De vez en cuando el jefe de Melissa le hace guardar en su sitio su perforadora y sus grapas.",
+      "back": "Every now and again, Melissa's boss makes her put his hole punch and staples away.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "De vez en cuando Steven le hace a Lisa guardar el proyector de la oficina en su sitio.",
+      "back": "Every now and again, Steven makes Lisa put away the company's overhead projector.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "De vez en cuando ella le hace guardar su quita-grapas y sus clips en su sitio.",
+      "back": "Every now and again, she makes him put away her staple remover and paper clips.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Sam no se podía creer que el jefe de Pam le hiciera recoger sus pantalones de la tintorería.",
+      "back": "Sam couldn't believe Pam's boss made her pick up his trousers from the dry cleaner's.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "A él le parecía imposible creer que el jefe de Lisa pudiera hacerle recoger sus zapatos de la zapatería y su coche del taller.",
+      "back": "He found it hard to believe Lisa's boss could make her pick up his shoes from the cobbler's and his car from the garage.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¡No puedo creer que tu jefe te haga recoger sus hijos del colegio!",
+      "back": "I can't believe your boss makes you pick his children up from school!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Es la segunda vez que su jefe le hace vaciar y limpiar sus cajones a fondo esta semana.",
+      "back": "It's the second time his boss has made him clean out his drawers this week.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Es la segunda vez que su jefe le hace vaciar y limpiar a fondo su coche esta semana.",
+      "back": "It's the second time her boss has made her clean out his car this week.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Es la segunda vez que su jefe le hace vaciar las papeleras de la oficina esta semana.",
+      "back": "It's the second time her boss has made her clean out the bins in the office this week.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Robot de cocina.",
+      "back": "Food processor.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "Máquina de coser.",
+      "back": "Sewing machine.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "Ventilador de techo.",
+      "back": "Ceiling fan.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "Licuadora.",
+      "back": "Blender.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "Olla a presión.",
+      "back": "Pressure cooker.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "Molinillo de café.",
+      "back": "Coffee grinder.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "Caldera.",
+      "back": "Boiler.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-053",
+      "front": "Secadora.",
+      "back": "Tumble drier.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-054",
+      "front": "Jarra para calentar el agua.",
+      "back": "Kettle.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-055",
+      "front": "Cocina / hornillo.",
+      "back": "Stove.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-056",
+      "front": "Nos dirigimos a la balsa salvavidas tan rápido como pudimos.",
+      "back": "We made for the life raft as quickly as we could.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Se dirigieron a la puerta sin despedirse de nadie.",
+      "back": "They made for the door without saying goodbye to anyone.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Por qué él siempre se dirige al baño en cuanto le toca pagar la ronda?",
+      "back": "Why does he always make for the bathroom when it's his turn to buy a round?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Se llevaron todos los fondos de pensiones antes de que la empresa quebrase.",
+      "back": "They made off with all the pension funds before the company went bust.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Él se largó con mi bolso antes de que tuviera tiempo para reaccionar.",
+      "back": "He made off with my handbag before I had time to react.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Cuánto se llevaron?",
+      "back": "How much did they make off with?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Puedes distinguir lo que pone en la señal?",
+      "back": "Can you make out what that sign says?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-063",
+      "front": "Nunca puedo descifrar la letra del jefe.",
+      "back": "I can never make out the boss's writing.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-064",
+      "front": "No logro descifrar la dirección.",
+      "back": "I can't make out the address.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "Tienes que hablar más alto; no entiendo lo que estás diciendo.",
+      "back": "You'll have to speak up; I can't make out what you're saying.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "¿Entiendes lo que dice este mensaje de voz?",
+      "back": "Can you make out this message on my voicemail?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Debía de estar borracho, porque no entendí ni la mitad de lo que me decía.",
+      "back": "He must have been drunk because I couldn't make out half of what he was saying.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "La gente siempre dice que es un auténtico ogro; a mí me resulta agradable.",
+      "back": "People always make him out to be a real monster; I find him quite agreeable.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "No es tan rico como pretende.",
+      "back": "He's not as rich as he makes himself out to be.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Por qué los periódicos quieren hacer creer que es un héroe?",
+      "back": "Why are the newspapers making him out to be a hero?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Si juegas, podrás influir mucho en el juego del equipo.",
+      "back": "If you play, it will make a big difference to how the team plays.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-072",
+      "front": "Su donación podría cambiar mucho la vida de estas víctimas.",
+      "back": "Your donation could make a difference to the lives of these victims.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-073",
+      "front": "¿Por qué cambia eso la situación?",
+      "back": "Why does that make a difference?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "Tienes que causar buena impresión cuando conozcas a mis padres.",
+      "back": "You need to make a good impression when you meet my parents.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "Él es muy directo, así que a veces no causa muy buena impresión a la gente.",
+      "back": "He's a very direct person, so sometimes he doesn't make a very good impression on people.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "¿Causó ella buena impresión a los nuevos jefes?",
+      "back": "Did she make a good impression on the new bosses?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "Tendremos que conformarnos con lo que hay.",
+      "back": "We'll just have to make do with what we've got.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-078",
+      "front": "Vamos a tener que conformarnos con menos dinero a partir de ahora.",
+      "back": "We're going to have to make do with less money from now on.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-079",
+      "front": "Me temo que no hay leche. ¿Te conformas con un café solo?",
+      "back": "I'm afraid there's no milk. Will you make do with black coffee?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "¿Hice el ridículo anoche en la fiesta?",
+      "back": "Did I make a fool of myself last night at the party?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "¿Por qué siempre tienes que hacer el ridículo en estos eventos?",
+      "back": "Why do you always have to make such a fool of yourself at these events?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "¡Algunas veces es divertido hacer el ridículo!",
+      "back": "Sometimes it's fun to make a fool of yourself!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "Él hizo un ademán de pegarme.",
+      "back": "He made as if to hit me.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "Ella hizo como si fuera a levantarse y dar por terminada la reunión.",
+      "back": "She made as if to stand up and finish the meeting.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "Hice como si fuera a llorar para que ella me dejara de gritar.",
+      "back": "I made as if to cry so that she would stop shouting at me.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Quién te hizo sentirte tan triste en la fiesta anoche?",
+      "back": "Who made you so sad at the party last night?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Quién te hace enfadarte cuando les ves en la tele?",
+      "back": "Who makes you angry when you see them on TV?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-088",
+      "front": "¿Quién nos suele hacer sentir tan disgustados siempre que hablamos con él?",
+      "back": "Who usually makes us upset whenever we talk to him?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "¿Quién se ha largado con todo nuestro dinero?",
+      "back": "Who has made off with all our money?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "¿Quién descifró lo que ponía en sus apuntes?",
+      "back": "Who made out what his notes said?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-091",
+      "front": "¿Quién se fue a la salida de escape cuando llegó la policía?",
+      "back": "Who made for the escape exit when the police arrived?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-092",
+      "front": "¿Quién hizo el ridículo otra vez anoche entonces?",
+      "back": "Who made a fool of themselves again last night then, eh?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-093",
+      "front": "¿Quién podría marcar la diferencia en la final de esta semana?",
+      "back": "Who can make a real difference in this week's final?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-094",
+      "front": "¿Quién causó buena impresión en las entrevistas iniciales?",
+      "back": "Who made a good impression in the initial interviews?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-095",
+      "front": "¿Qué hizo que el examen fuera tan difícil?",
+      "back": "What made the exam so difficult?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-096",
+      "front": "¿Qué te hace enfadar de verdad?",
+      "back": "What makes you really angry?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-097",
+      "front": "¿Qué haría que fuera más divertido para ti?",
+      "back": "What would make it more fun for you?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-098",
+      "front": "¿Qué demonios os hizo reaccionar así?",
+      "back": "What on earth made you react like that?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-099",
+      "front": "¿Qué te haría cambiar de opinión?",
+      "back": "What would make you change your mind?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-100",
+      "front": "¿Qué te hizo llorar tanto durante la película?",
+      "back": "What made you cry so much during that film?",
+      "sourcePage": 75
+    }
+  ]
+}
