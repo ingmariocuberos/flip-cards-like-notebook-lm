@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-09",
+  "bookTitle": "Libro 9",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Póngame con el Sr. García; necesito hablar con él urgentemente.",
+      "back": "Get me Mr Garcia; I need to talk to him urgently.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "¿Cuál es la manera más fácil de contactar contigo?",
+      "back": "What's the easiest way to get you?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "He estado intentando hablar contigo desde hace siglos.",
+      "back": "I've been trying to get you for ages.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Creo que me la voy a cargar.",
+      "back": "I think they're out to get me.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Siente que todo el mundo va contra él.",
+      "back": "He feels that everyone is out to get him.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "¡Esto nos lo vas a pagar!",
+      "back": "We'll get you for that!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Quieres que le pida que te ayude?",
+      "back": "Do you want me to get him to help you?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "¡Dile que vuelva en seguida!",
+      "back": "Get him to come straight back!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Nunca la vas a convencer de que se ponga ese vestido.",
+      "back": "You'll never get her to wear that dress.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Leer ese artículo me hizo pensar en ti.",
+      "back": "When I read that article it got me thinking about you.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Qué le hizo saltar?",
+      "back": "What got him going?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Esta canción siempre hace bailar a todo el mundo.",
+      "back": "This song always gets everybody dancing.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Puedes hacer funcionar este ordenador para mí?",
+      "back": "Can you get this computer working for me?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Este tío ha hecho que el equipo funcione de verdad.",
+      "back": "This guy has really got the team playing well.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "¡Vamos a hacer que esta fiesta se anime!",
+      "back": "Let's get this party going!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Cómo te llevas con tus suegros?",
+      "back": "How do you get on with your parents-in-law?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "No me llevo muy bien con mi novio últimamente.",
+      "back": "I haven't been getting along very well with my boyfriend lately.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "¡Nos llevamos de maravilla!",
+      "back": "We get on like a house on fire!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "¡Esto no va a quedar así!",
+      "back": "You won't get away with this!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "¿Cómo es posible que permitan que los banqueros se lleven tanto dinero?",
+      "back": "How can bankers get away with earning all that money?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "No podemos dejar que salgan impunes.",
+      "back": "We can't let them get away with it.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "¿Sabes suficiente inglés para salir del paso durante tus vacaciones?",
+      "back": "Do you know enough English to get by on your holidays?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "¡No soy ningún Ferran Adrià, pero me defiendo en la cocina!",
+      "back": "I'm no Ferran Adria, but I can get by in the kitchen!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "No sé cómo se las arreglan; ninguno de los dos tiene trabajo.",
+      "back": "I don't know how they get by; neither of them has a job.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Le está costando mucho superar que su mujer le haya dejado.",
+      "back": "He's finding it difficult to get over his wife leaving him.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Ha vencido su timidez de una vez por todas, ¿a que sí?",
+      "back": "She's really got over her shyness, hasn't she?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Todavía no te has repuesto de la gripe?",
+      "back": "Haven't you got over your flu yet?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¿Está él intentando librarse de esta clase de formación también?",
+      "back": "Is he trying to get out of this training session as well?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¡Esta vez no te vas a librar de limpiar la casa!",
+      "back": "You're not going to get out of cleaning the house this time!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Cómo vas a salir de ésta, listillo?",
+      "back": "How are you going to get out of this one, smarty pants?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "¡Deshazte de ese chicle antes de que entre el jefe!",
+      "back": "Get rid of that chewing gum before the boss comes in!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Pensaba que se había quitado de encima hace siglos a ese novio tan tonto.",
+      "back": "I thought she'd got rid of that stupid boyfriend of hers ages ago.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Me pregunto cómo podremos eliminar este olor del cuarto de baño.",
+      "back": "I wonder how we can get rid of this smell from the bathroom.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Sabes dónde puedo conseguir hierbaluisa?",
+      "back": "Do you know where I could get hold of some lemongrass?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Nunca logro pillarle; su secretaria siempre dice que está reunido.",
+      "back": "I can never get hold of him; his secretary always says he's in a meeting.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Dónde puedo conseguir ese disco?",
+      "back": "Where can I get hold of that record?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "No queremos dejar que la competencia se entere de esta idea.",
+      "back": "We don't want to let the competition get wind of this idea.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Te has enterado de la decisión de la dirección?",
+      "back": "Have you got wind of the management's decision?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Si tu mujer se entera, ¡te matará!",
+      "back": "If your wife gets wind of this, she'll kill you!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "No me puedo creer que todavía no hayas cogido el truco a este mando.",
+      "back": "I can't believe you still haven't got the hang of this remote control.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Vaya que si le has cogido el truco a este juego, ¿verdad?",
+      "back": "You've really got the hang of this game, haven't you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Nunca le cogí el truco al tango, por eso dejé de asistir a las clases.",
+      "back": "I never could get the hang of the tango, that's why I stopped going to the classes.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Captaste lo esencial de lo que te dijo ella?",
+      "back": "Did you get the gist of what she said?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Él habla tan rápido que ni siquiera puedo entender el sentido de lo que dice.",
+      "back": "He speaks so fast that I can't even get the gist of what he says.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "No tienes que entender cada palabra; sólo tienes que comprender lo esencial.",
+      "back": "You don't have to understand every word; you just need to get the gist.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Ella es muy tímida; es difícil tirarle de la lengua.",
+      "back": "She's really shy; it's difficult to get a word out of her.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "No le vas a sacar ni una palabra.",
+      "back": "You won't get a word out of him.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "No me salían las palabras.",
+      "back": "I couldn't get the words out.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Es una jefa genial; siempre logra sacar lo mejor de sus empleados.",
+      "back": "She's a great boss; she always manages to get the best out of her employees.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Como persona es horrible, pero como entrenador es fantástico porque siempre saca lo mejor de sus jugadores.",
+      "back": "As a person he's horrible, but as a coach he's fantastic because he always gets the best out of his players.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Yo era un estudiante difícil, pero mi profesor de Física, el Sr. Gibson, sabía cómo sacar lo mejor de mí.",
+      "back": "I was a difficult student, but my physics teacher, Mr Gibson, knew how to get the best out of me.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "La expresión de su cara es lo que no consigo quitarme de la cabeza.",
+      "back": "It's the expression he had on his face that I can't get out of my mind.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Tienes que sacártela de la cabeza; de lo contrario te va a resultar imposible salir con otra persona.",
+      "back": "You have to get her out of your mind; otherwise it's going to be impossible for you to go out with somebody else.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "¿No fue Kylie Minogue quien cantó lo de «I just can't get you out of my head»?",
+      "back": "Wasn't it Kylie Minogue who sang \"I just can't get you out of my head\"?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "La fiesta se descontroló anoche.",
+      "back": "Things got out of hand last night at the party.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "No dejes que las cosas se te vayan de las manos otra vez.",
+      "back": "Don't let things get out of hand again.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Sólo fue una mentira piadosa: no me podía imaginar que las cosas se fuesen a descontrolar tanto.",
+      "back": "It was only a white lie; I couldn't have imagined that things would get so out of hand.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Ojalá él quitara la cabeza de en medio; no veo la pantalla.",
+      "back": "I wish he'd get his big head out of the way; I can't see the screen.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Quítense de en medio, por favor. El coche de la reina está a punto de pasar.",
+      "back": "Can you get out of the way, please? The queen's car is about to pass by.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "¡Quítate de en medio, tonto!",
+      "back": "Get out of the way, you fool!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Cuándo tendremos la oportunidad de probar el nuevo sistema?",
+      "back": "When do we get to try the new system?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Tendréis oportunidad de escuchar mi nuevo disco pronto.",
+      "back": "You'll get to listen to my new record soon.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Por qué nunca tenemos la oportunidad de conocer a tu novia?",
+      "back": "Why don't we ever get to meet your girlfriend?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Llegamos a conocernos bien cuando trabajamos juntos el verano pasado.",
+      "back": "We really got to know each other when we worked together last summer.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Lo más frustrante es que nunca llegaremos a saber por qué lo hicieron.",
+      "back": "The most frustrating thing is that we'll never get to know why they did it.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Por mucho tiempo que pase con él nunca tengo la sensación de conocerle.",
+      "back": "No matter how much time I spend with him, I never get the feeling that I'm getting to know him.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Lograsteis ir al backstage después para conocer al grupo?",
+      "back": "Did you get to go backstage afterwards and meet the band?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Logramos hablar con el Primer Ministro después de su discurso.",
+      "back": "We got to speak to the Prime Minister at the end of his speech.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "¿Alguna vez lograste convencerle de que estaba equivocado?",
+      "back": "Did you ever get to convince him that he was wrong?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Has hecho progresos con tus investigaciones en el caso Barnum?",
+      "back": "Have you got anywhere with your research into the Barnum case?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No entiendo a dónde quieres llegar con todo esto.",
+      "back": "I don't understand where you're trying to get with all of this.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Dejémoslo para mañana porque ahora no estamos llegando a ninguna parte.",
+      "back": "Let's leave it until tomorrow because we're not getting anywhere at the moment.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Dejad de hablar y seguid trabajando.",
+      "back": "Stop talking and get on with it!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Olvidémonos de todo eso y pongámonos con ello.",
+      "back": "Let's forget about all that stuff and just get on with it.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Venga! ¡Ponte con ello!",
+      "back": "Come on! Get on with it!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Vale, tranquilo, no es algo por lo que haya que alterarse demasiado.",
+      "back": "Alright, calm down, it's not something to get worked up about.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Por qué te estás poniendo tan nerviosa?",
+      "back": "What are you getting so worked up about?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "No se lo cuentes, sólo le vas a alterar.",
+      "back": "Don't tell him, he'll just get worked up.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Me entusiasmé demasiado cantando anoche en el karaoke.",
+      "back": "I got a bit carried away last night when I was singing at the karaoke.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "No se lo menciones a él; sabes cómo se deja llevar por sus locos planes de inversión.",
+      "back": "Don't mention it to him; you know how he gets carried away with his crazy investment plans.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "¿Vas a pedirle que se case contigo? ¿No crees que te estás dejando llevar un poco?",
+      "back": "You're going to ask her to marry you?! Aren't you getting a bit carried away?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Creo que me estás confundiendo con otra persona.",
+      "back": "I think you're getting me muddled up with somebody else.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Me puse tan nervioso que no hacía más que confundirme al hablar.",
+      "back": "I got so nervous that I kept getting my words muddled up.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "No mezcles esos papeles con los documentos originales.",
+      "back": "Don't get those papers muddled up with the original documents.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Perdona que llegue tarde; cogí un atasco.",
+      "back": "Sorry I'm late; I got stuck in traffic.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "No crees que el ascensor se ha quedado atascado, ¿no?",
+      "back": "You don't think this lift has got stuck, do you?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Tuve que aguantar a Norman durante toda la cena de anoche.",
+      "back": "I got stuck with Norman at the dinner all evening.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "¡Me las pagarás por eso!",
+      "back": "I'll get even with you for that!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Él siempre se vengaba de quien hiciera daño a su familia.",
+      "back": "He always got even with anybody who hurt his family.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Ella prometió que se vengaría de él y eso es justo lo que hizo.",
+      "back": "She promised she would get even with him and that's exactly what she did.",
+      "sourcePage": 75
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "bookId": "vaughan-intensive-english-09",
+  "bookTitle": "Libro 9",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Suelo llegar a la oficina a las 8.30.",
+      "back": "I usually get to the office at half past eight.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Suelo llegar a la estación de trenes a las 7.30.",
+      "back": "I usually get to the train station at half past seven.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Suelo llegar al banco a las 6.30.",
+      "back": "I usually get to the bank at half past six.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Llego al trabajo a las 8.45 mientras que Kathy llega al trabajo a las 9.45.",
+      "back": "I get to work at quarter to nine whereas Kathy gets to work at quarter to ten.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Ellas llegan al trabajo a las 8.15 mientras que nosotros llegamos al trabajo a las 6.45.",
+      "back": "They get to work at quarter past eight whereas we get to work at quarter to seven.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "La secretaria de mi jefa llega al trabajo a las 7.15 mientras que mi jefa llega al trabajo a las 6.45.",
+      "back": "My boss's secretary gets to work at quarter past seven whereas my boss gets to work at quarter to seven.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Jack suele llegar al trabajo pronto. Suele llegar allí a las 8.15.",
+      "back": "Jack usually gets to work early. He usually gets there at quarter past eight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Sandra suele llegar a la oficina tarde. Suele llegar allí a las 10.15.",
+      "back": "Sandra usually gets to the office late. She usually gets there at quarter past ten.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Suelo llegar a la parada de autobús pronto. Suelo llegar allí a las 6.15.",
+      "back": "I usually get to the bus stop early. I usually get there at quarter past six.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Mis padres suelen llegar a casa a las 6, pero mi madre no suele llegar a casa a las 6 los viernes.",
+      "back": "My parents usually get home at six o'clock, but my mother doesn't usually get home at six o'clock on Fridays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Los padres de Steve suelen llegar a casa a las 7, pero su padre no suele llegar a casa a las 7 los lunes.",
+      "back": "Steve's parents usually get home at seven o'clock, but his father doesn't usually get home at seven o'clock on Mondays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Los padres de Tina suelen llegar a casa temprano los martes, pero no suelen llegar a casa temprano los miércoles.",
+      "back": "Tina's parents usually get home early on Tuesdays, but they don't usually get home early on Wednesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "David llega a la oficina a las 8.20 y está de vuelta a casa a las 6.20.",
+      "back": "David gets to the office at twenty past eight and he gets back home at twenty past six.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Olive llega al trabajo a las 9.20 y está de vuelta a casa a las 5.20.",
+      "back": "Olive gets to work at twenty past nine and she gets back home at twenty past five.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Ruth llega al trabajo temprano todos los días, pero vuelve a casa tarde.",
+      "back": "Ruth gets to work early every day, but she gets back home late.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Me levanto en cuanto me despierto.",
+      "back": "I get up when I wake up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Nicole se levanta temprano los días entre semana, pero se levanta tarde los fines de semana.",
+      "back": "Nicole gets up early on weekdays, but she gets up late on the weekend.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¡Levántate!",
+      "back": "Get up!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Me monto en el autobús con mi amigo todas las mañanas.",
+      "back": "I get on the bus with my friend every morning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¡Me estoy montando en el autobús ahora mismo!",
+      "back": "I'm getting on the bus right now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¡No te subas a ese tren! ¡Súbete a éste!",
+      "back": "Don't get on that train! Get on this one!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Dónde te vas a bajar del autobús?",
+      "back": "Where are you getting off the bus?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "Me voy a bajar del autobús en el centro de la ciudad.",
+      "back": "I'm getting off the bus in the centre of town.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "Me suelo bajar del autobús en el centro de la ciudad.",
+      "back": "I usually get off the bus in the centre of town.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Súbete al coche!",
+      "back": "Get in the car!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "¡Móntate en el coche azul; no te montes en el coche rojo!",
+      "back": "Get in the blue car; don't get in the red car!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Estoy montándome en el coche azul!",
+      "back": "I am getting in the blue car!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Bájate del coche!",
+      "back": "Get out of the car!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Bájate!",
+      "back": "Get out!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Me estoy bajando del coche!",
+      "back": "I'm getting out of the car!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "Compro el pan en la tienda de Sanjay.",
+      "back": "I get my bread from Sanjay's shop.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "Sanjay es de Paquistán.",
+      "back": "Sanjay is from Pakistan.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "Sanjay compra las verduras en la tienda de Hélène. Hélène es de Francia.",
+      "back": "Sanjay gets his vegetables from Hélène's shop. Hélène is from France.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "Hélène compra los huevos en mi tienda. Yo soy de Estados Unidos.",
+      "back": "Hélène gets her eggs from my shop. I'm from the United States.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Dónde compras el pan? Perdón, ¿de dónde es Sanjay?",
+      "back": "Where do you get your bread from? Sorry, where's Sanjay from?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Dónde compra Sanjay las verduras? Perdón, ¿de dónde es Hélène?",
+      "back": "Where does Sanjay get his vegetables from? Sorry, where's Hélène from?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Dónde compra Hélène los huevos? Perdón, ¿de dónde eres?",
+      "back": "Where does Hélène get her eggs from? Sorry, where are you from?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Compro el periódico en el quiosco de Jack durante la semana, pero lo compro en el quiosco de Gloria los domingos.",
+      "back": "I get the newspaper from Jack's newsstand during the week, but I get it from Gloria's newsstand on Sundays.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-039",
+      "front": "Ella compra leche en el supermercado los domingos.",
+      "back": "She gets milk from the supermarket on Sundays.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Dónde compra leche uno los domingos?",
+      "back": "Where do you get milk from on Sundays?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-041",
+      "front": "Los zapatos se compran en zapaterías.",
+      "back": "You get shoes from a shoe shop.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-042",
+      "front": "La leche se compra en supermercados.",
+      "back": "You get milk from a supermarket.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-043",
+      "front": "Los periódicos se compran en quioscos.",
+      "back": "You get newspapers from a newsagent's.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Dónde se compra ropa barata?",
+      "back": "Where do you get cheap clothes from?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-045",
+      "front": "Se compra ropa barata en una tienda de fábrica.",
+      "back": "You get cheap clothes from a factory outlet.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Siempre se compra ropa barata en aquella tienda?",
+      "back": "Do you always get cheap clothes from that store?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Recibo muchos regalos, pero John no recibe muchos regalos.",
+      "back": "I get a lot of presents, but John doesn't get a lot of presents.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-048",
+      "front": "Recibimos muchos regalos, pero ellos no reciben muchos regalos.",
+      "back": "We get a lot of presents, but they don't get a lot of presents.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-049",
+      "front": "Ellas reciben muchos regalos, pero yo no recibo muchos regalos.",
+      "back": "They get a lot of presents, but I don't get a lot of presents.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-050",
+      "front": "Yo nunca recibo regalos y ellas nunca reciben regalos tampoco.",
+      "back": "I never get any presents and they never get any presents either.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-051",
+      "front": "Vosotros nunca recibís regalos y ellos nunca reciben regalos tampoco.",
+      "back": "You never get any presents and they never get any presents either.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-052",
+      "front": "Tú nunca recibes regalos y yo nunca recibo regalos tampoco.",
+      "back": "You never get any presents and I never get any presents either.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿De quién sueles recibir regalos?",
+      "back": "Who do you usually get presents from?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Sueles recibir regalos de tu jefe?",
+      "back": "Do you usually get presents from your boss?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-055",
+      "front": "Mi hijo suele recibir muchos regalos de mis padres.",
+      "back": "My son usually gets a lot of presents from my parents.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-056",
+      "front": "Mi hija recibe muchos regalos en Navidad.",
+      "back": "My daughter gets a lot of presents at Christmas.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-057",
+      "front": "Mi hija suele recibir muchos regalos de sus abuelos.",
+      "back": "My daughter usually gets a lot of presents from her grandparents.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-058",
+      "front": "¿De quién suele recibir tu hija regalos?",
+      "back": "Who does your daughter usually get presents from?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-059",
+      "front": "Nunca recibo correos electrónicos de mi banco.",
+      "back": "I never get any e-mails from my bank.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Sueles recibir muchos correos electrónicos?",
+      "back": "Do you usually get a lot of e-mails?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Tu hija suele recibir muchos correos electrónicos de su banco?",
+      "back": "Does your daughter usually get a lot of e-mails from her bank?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Se está haciendo tarde y me estoy cansando.",
+      "back": "It's getting late and I'm getting tired.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-063",
+      "front": "Siempre me canso cuando se hace tarde.",
+      "back": "I always get tired when it gets late.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-064",
+      "front": "Cuando no duermo me canso.",
+      "back": "When I don't sleep, I get tired.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-065",
+      "front": "Me estoy aburriendo. Esta película es muy aburrida.",
+      "back": "I'm getting bored. This film is really boring.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-066",
+      "front": "Él está aburrido y yo me estoy aburriendo también.",
+      "back": "He's bored and I'm getting bored too.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-067",
+      "front": "Estoy aburrido y ella se está aburriendo también.",
+      "back": "I'm bored and she's getting bored too.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Mi mujer está harta y yo me estoy empezando a hartar también.",
+      "back": "My wife's fed up and I'm getting fed up too.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-069",
+      "front": "Ella está harta con el ruido y su marido se está empezando a hartar del ruido también.",
+      "back": "She's fed up with the noise and her husband's getting fed up with the noise too.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-070",
+      "front": "El marido de Sally y la mujer de Ollie se están empezando a hartar de sus vecinos.",
+      "back": "Sally's husband and Ollie's wife are getting fed up with their neighbours.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-071",
+      "front": "Me estoy enfadando mucho.",
+      "back": "I'm getting really angry.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Por qué te estás enfadando?",
+      "back": "Why are you getting angry?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Siempre te enfadas cuando eso ocurre?",
+      "back": "Do you always get angry when that happens?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-074",
+      "front": "Mi café se está enfriando.",
+      "back": "My coffee's getting cold.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-075",
+      "front": "Está empezando a hacer frío aquí dentro.",
+      "back": "It's getting cold in here.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-076",
+      "front": "Estoy cogiendo frío. ¿Estás cogiendo frío también?",
+      "back": "I'm getting cold. Are you getting cold too?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "El bebé de Paul y Jackie se va a bautizar la semana que viene.",
+      "back": "Paul and Jackie's baby is getting christened next week.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-078",
+      "front": "No todo el mundo se bautiza en una iglesia.",
+      "back": "Not everybody gets christened in a church.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-079",
+      "front": "El bebé de Linda se bautiza la semana que viene y va toda mi familia.",
+      "back": "Linda's baby is getting christened next week and everybody from my family is going.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-080",
+      "front": "No todo el mundo se promete.",
+      "back": "Not everybody gets engaged.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-081",
+      "front": "Mi hija se va a prometer.",
+      "back": "My daughter is getting engaged.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Cuándo os vais a prometer?",
+      "back": "When are you getting engaged?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Cuándo se van a casar?",
+      "back": "When are they getting married?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-084",
+      "front": "Se casan el mes que viene.",
+      "back": "They're getting married next month.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-085",
+      "front": "No todo el mundo que se promete se casa.",
+      "back": "Not everybody who gets engaged gets married.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-086",
+      "front": "Están en proceso de divorciarse.",
+      "back": "They're getting divorced.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-087",
+      "front": "¿En España se divorcia mucha gente?",
+      "back": "Do many people get divorced in Spain?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-088",
+      "front": "No todo el mundo que se casa se divorcia.",
+      "back": "Not everybody who gets married gets divorced.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Que no te echen!",
+      "back": "Don't get fired!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Cuándo la van a echar (a ella)?",
+      "back": "When's she getting fired?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-091",
+      "front": "Mucha gente es despedida cada semana.",
+      "back": "Many people get fired every week.",
+      "sourcePage": 20
+    }
+  ]
+}
