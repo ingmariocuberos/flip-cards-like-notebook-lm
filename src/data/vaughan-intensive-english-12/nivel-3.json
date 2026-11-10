@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-12",
+  "bookTitle": "Libro 12",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me habría gustado haber estado allí.",
+      "back": "I would have liked to have been there.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Me habría gustado haberlo sabido.",
+      "back": "I would have liked to have known.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Me habría gustado haber sido informado.",
+      "back": "I would have liked to have been told.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Me habría gustado haber participado.",
+      "back": "I would have liked to have taken part.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Me habría gustado haberlo visto con mis propios ojos.",
+      "back": "I would have liked to have seen it with my own eyes.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Me habría gustado haberle dicho a ella lo que pensaba.",
+      "back": "I would have liked to have told her what I thought.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "No me habría gustado haber estado en su pellejo (de ella).",
+      "back": "I wouldn't have liked to have been in her shoes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "No me habría gustado haber estado en su pellejo (de ellos).",
+      "back": "I wouldn't have liked to have been in their shoes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "No me habría gustado haber estado en tu pellejo.",
+      "back": "I wouldn't have liked to have been in your shoes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Me habría encantado haber visto su cara (de ella).",
+      "back": "I'd have loved to have seen the look on her face.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Me habría encantado haberte visto la cara.",
+      "back": "I'd have loved to have seen the look on your face.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "A mí me habría encantado haber hecho algo así de joven.",
+      "back": "I'd have loved to have done something like that when I was young.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Habría dado mi brazo derecho por haberle visto la cara a él.",
+      "back": "I would have given my right arm to have seen the look on his face.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Habría dado mi brazo derecho por haber estado en su pellejo (de él).",
+      "back": "I would have given my right arm to have been in his shoes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Habría dado mi brazo derecho por haber tenido esa información hace dos semanas.",
+      "back": "I would have given my right arm to have had that information two weeks ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Preferiría tomar café antes que un postre.",
+      "back": "I'd rather have a coffee than a dessert.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Preferiría ir al cine antes que ir al teatro.",
+      "back": "I'd rather go to the cinema than go to the theatre.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Preferiría cortarme un brazo a escuchar un minuto más de su discurso.",
+      "back": "I'd rather cut my own arm off than listen to another minute of his speech.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Yo habría preferido haber hecho el curso avanzado en vez del intermedio.",
+      "back": "I'd rather have done the advanced course than the intermediate one.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Habrían preferido haber ido a ver el musical en vez de a la ópera.",
+      "back": "They'd rather have gone to see a musical than gone to the opera.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Habríamos preferido habernos casado en Las Vegas en vez de en Salt Lake City.",
+      "back": "We'd rather have gotten married in Las Vegas than in Salt Lake City.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Preferiría no pasar las vacaciones buscando antigüedades.",
+      "back": "I'd rather not spend my vacations looking for antiques.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Ella preferiría no tener que gritar cada vez que quiere decir algo.",
+      "back": "She'd rather not have to shout every time she wants to say something.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Él preferiría no ir de pesca este fin de semana.",
+      "back": "He'd rather not go fishing this weekend.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Habría preferido no haber tenido que decir la verdad a todos sobre lo que pasó.",
+      "back": "I'd rather not have had to tell everyone the truth about what happened.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Habríamos preferido no haberlo descubierto por casualidad.",
+      "back": "We'd rather not have found out by accident.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Habrían preferido no haber visitado el museo.",
+      "back": "They'd rather not have visited the museum.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Preferiría que tú fueras a la reunión en vez de mí.",
+      "back": "I'd rather you went to the meeting instead of me.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Preferiría que ella escribiera el artículo en vez de él.",
+      "back": "I'd rather she wrote the article instead of him.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Preferiría que terminaras tus deberes antes de irte a la fiesta.",
+      "back": "I'd rather you finished your homework before going to the party.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Quieres un polo o prefieres un helado?",
+      "back": "Do you want an ice lolly or would you rather have an ice cream?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Quieres jugar al fútbol o prefieres jugar al baloncesto?",
+      "back": "Do you want to play football or would you rather play basketball?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Quieres un filete para la cena o prefieres pescado?",
+      "back": "Do you want steak for dinner or would you rather have fish?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Quisiste ir a Francia o habrías preferido haber ido a Italia?",
+      "back": "Did you want to go to France or would you rather have gone to Italy?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Quisiste estudiar geografía o habrías preferido haber estudiado geología?",
+      "back": "Did you want to study geography or would you rather have studied geology?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Quisiste visitar el Louvre o habrías preferido haber visitado la Torre Eiffel?",
+      "back": "Did you want to visit the Louvre or would you rather have visited the Eiffel Tower?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Prefieres no arriesgarlo?",
+      "back": "Would you rather not risk it?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Prefieres no hacer el examen todavía?",
+      "back": "Would you rather not take the exam yet?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Prefieres no decírselo a nadie?",
+      "back": "Would you rather not tell anyone about it?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Habrías preferido no haberle hablado?",
+      "back": "Would you rather not have spoken to him?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Habrías preferido no haber ido a la reunión?",
+      "back": "Would you rather not have gone to the meeting?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Habrías preferido no haber tenido que perder el tiempo buscando una plaza de aparcamiento?",
+      "back": "Would you rather not have had to waste time looking for a parking space?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Quieres hacerlo tú o prefieres que él lo haga por ti?",
+      "back": "Do you want to do it or would you rather he did it for you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Quieres comprar una copia o prefieres que yo me adelante y te compre una?",
+      "back": "Do you want to buy a copy or would you rather I went ahead and bought you one?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Te importa llevarles o prefieres que ellos lleven su propio coche?",
+      "back": "Do you mind giving them a lift or would you rather they took their own car?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Probablemente lloverá, sobre todo si no traemos paraguas.",
+      "back": "It's likely to rain, especially if we don't bring umbrellas.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Tienes más probabilidad de morir por el golpe de un coco que cae de un árbol que por el ataque de un tiburón.",
+      "back": "You're more likely to be killed by a falling coconut than by a shark attack.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Por lo visto, él ha caído enfermo por una intoxicación. ¡Todo un clásico!",
+      "back": "Apparently, he's come down with food poisoning. A likely story!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Es más que probable que ella esté de vacaciones en un centro turístico de lujo en algún lugar paradisíaco.",
+      "back": "She's more than likely to be on vacation in a luxury resort somewhere heavenly.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Es más que probable que sea un desastre si involucramos a todo el mundo.",
+      "back": "It's more than likely to be a disaster if we get everybody involved.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Es más que probable que anuncien la noticia el viernes por la tarde.",
+      "back": "They'll more than likely announce the news on Friday afternoon.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Es improbable que ganemos, teniendo en cuenta nuestro lamentable estado de forma actual.",
+      "back": "We're unlikely to win given our pitiful form at the moment.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "En el caso improbable de tener que aterrizar en el agua, los chalecos salvavidas están debajo de sus asientos.",
+      "back": "In the unlikely event of having to land on water, lifejackets are stowed under your seats.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Puede que nieve mañana, pero es improbable que cuaje.",
+      "back": "It might snow tomorrow, but it's unlikely to settle.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Es muy poco probable que el volcán entre en erupción mientras estamos allí; la última erupción fue hace más de 300 años.",
+      "back": "It's highly unlikely that the volcano will erupt while we're there; the last eruption was over 300 years ago.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Como es muy poco probable que alguna vez ganes la lotería, más vale que empieces a pensar en otras formas de ahorrar.",
+      "back": "As it's highly unlikely that you'll ever win the lottery, you'd better start to think of ways to economize.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Supongo que él habría podido hacerlo todo solo, pero suena muy poco probable.",
+      "back": "I suppose that he could have done it all by himself, but it sounds highly unlikely.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Es probable que el precio baje en un futuro próximo?",
+      "back": "Is the price likely to go down in the near future?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "¿Es probable que estén por aquí este fin de semana?",
+      "back": "Are they likely to be around this weekend?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "¿Es probable que baje de cero esta noche?",
+      "back": "Is it likely to go below freezing tonight?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Qué posibilidades hay de que se tome una decisión rápida?",
+      "back": "What's the likelihood of a quick decision?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Qué posibilidades hay de encontrar trabajo antes de Navidad?",
+      "back": "What's the likelihood of finding a job before Christmas?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Qué posibilidades hay de que encontremos trabajo antes de Navidad?",
+      "back": "What's the likelihood of us finding a job before Christmas?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "La probabilidad de que eso suceda es cero.",
+      "back": "The likelihood of that happening is zero.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "La probabilidad de que él tenga éxito es mayor si empieza a preparar la campaña ahora.",
+      "back": "The likelihood of him being successful is greater if he starts preparing the campaign now.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Si sigue bebiendo y fumando así, aumentará las probabilidades de que se ponga enfermo.",
+      "back": "If he keeps drinking and smoking like that, it will increase the likelihood of him getting ill.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Es muy poco probable que suceda eso.",
+      "back": "There isn't much likelihood of that happening.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "No hay mucha probabilidad de que él cambie de opinión.",
+      "back": "There isn't much likelihood of him changing his mind.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Es muy poco probable que vengan a la rueda de prensa.",
+      "back": "There isn't much likelihood of them coming to the press conference.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Lo más probable es que la fiesta se acabe antes de medianoche.",
+      "back": "In all likelihood the party will be finished by midnight.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Lo más probable es que no lleguemos antes de la hora de comer.",
+      "back": "In all likelihood we won't get there before lunchtime.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Lo más probable es que ya se hayan marchado.",
+      "back": "In all likelihood they've already left.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "¡No van a ganar ni en sus sueños!",
+      "back": "Fat chance they've got of winning!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "¡Ni en sueños nos va a dar el jefe un aumento de sueldo!",
+      "back": "There's fat chance of the boss giving us a raise!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Las probabilidades de que él pierda peso con este régimen son cero.",
+      "back": "There's fat chance of him losing weight on this new diet!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Les gustó mucho tu idea.",
+      "back": "They were very keen on your idea.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "No le apetecía mucho ir a él.",
+      "back": "He wasn't keen on going.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "No me gusta mucho su nueva novia.",
+      "back": "I'm not too keen on his new girlfriend.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Me está gustando mucho cocinar últimamente.",
+      "back": "I've been really into cooking lately.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "¿No vas a pedirle a ella que salga contigo? Pensaba que te gustaba mucho.",
+      "back": "Aren't you going to ask her to go out with you? I thought you were really into her.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "No creo que vaya con vosotros a ver esa peli; no me gustan mucho las películas de ciencia ficción.",
+      "back": "I don't think I'll go and see that film with you; I'm not into science fiction films.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Sabes que tengo cierta debilidad por un buen desayuno inglés.",
+      "back": "You know I'm very partial to a good English breakfast.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "No le ofrezcas vino a ella; no le gusta mucho el alcohol.",
+      "back": "Don't offer her any wine; she's not partial to alcohol.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Toda la comida aquí es genial, pero siento especial debilidad por las ostras.",
+      "back": "All the food is great here, but I'm particularly partial to the oysters.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Sabes que siempre he tenido un cariño especial por ti.",
+      "back": "You know I've always had a soft spot for you.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Por qué no se lo pides tú? Ella tiene debilidad por ti.",
+      "back": "Why don't you ask her? She's got a soft spot for you.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Creo que definitivamente ella tiene debilidad por los hombres con uniforme.",
+      "back": "I think she has a definite soft spot for men in uniform!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "A mí no me gusta mucho la ópera, la verdad.",
+      "back": "Opera isn't really my cup of tea.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "¡El fútbol no es del gusto de todos!, ¿sabes?",
+      "back": "Football isn't everybody's cup of tea, you know!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Bueno, quizá te sorprenda saber que la física cuántica no me va mucho.",
+      "back": "Well, you might be surprised to hear that quantum physics isn't my cup of tea.",
+      "sourcePage": 75
+    }
+  ]
+}

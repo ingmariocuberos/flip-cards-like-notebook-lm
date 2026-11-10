@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-12",
+  "bookTitle": "Libro 12",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "De todas las asignaturas, las matemáticas son las que más me gustaban.",
+      "back": "Out of all the subjects I liked mathematics the best.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "De todas las verduras, las espinacas son las que más le gustaban a ella.",
+      "back": "Out of all the vegetables she liked spinach the best.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "De todos los animales del zoo, los pavos reales son los que más le gustaron a él.",
+      "back": "Out of all the animals in the zoo, he liked the peacocks the best.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "De pequeño, me gustaban todos los tipos de frutas.",
+      "back": "As a child, I liked all kinds of fruit.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "De niño me gustaban todos los tipos de deportes.",
+      "back": "As a boy, I liked all kinds of sports.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "De niña me gustaban todas las clases de muñecas.",
+      "back": "As a girl, I liked all kinds of dolls.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "A mí antes me gustaba hacer la colada, pero ya no.",
+      "back": "I used to like doing the laundry, but not any more.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "A él antes le gustaba lavar los platos, pero ya no.",
+      "back": "He used to like doing the dishes, but not any more.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Antes nos gustaba planchar, pero ya no.",
+      "back": "We used to like doing the ironing, but not any more.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Cuando tenían siete años no les gustaban las películas de miedo.",
+      "back": "At the age of seven they didn't like horror films.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Cuando tenía diez años no le gustaba estar solo.",
+      "back": "At the age of ten he didn't like to be alone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Cuando tenía veinte años no le gustaba pasar tiempo con sus sobrinos.",
+      "back": "At the age of twenty she didn't like spending time with her nephews.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "A ellos no les gustaban las películas de miedo, pero ahora que tienen veinticinco años, sí.",
+      "back": "They didn't use to like horror films, but now they're twenty-five, they do.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "A él no le gustaba estar solo, pero ahora que tiene veinte años, sí.",
+      "back": "He didn't use to like being alone, but now he's twenty, he does.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "A ella no le gustaba pasar tiempo con sus sobrinos, pero ahora que tiene treinta años, sí.",
+      "back": "She didn't use to like spending time with her nephews, but now she's thirty, she does.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Te gustó?",
+      "back": "Did you like it?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Y a tu madre, ¿qué? ¿Le gustó?",
+      "back": "What about your mother, did she like it?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Y a tus amigos, ¿qué? ¿Les gustó?",
+      "back": "What about your friends, did they like it?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "De pequeño, ¿te gustaba hacer los deberes tanto como jugar con tus amigos?",
+      "back": "As a child, did you like doing homework as much as playing with your friends?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "De niño, ¿te gustaba comer brécol tanto como comer espaguetis?",
+      "back": "As a boy, did you like eating broccoli as much as eating spaghetti?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "De niña, ¿te gustaba ordenar tu habitación tanto como jugar con tus muñecas?",
+      "back": "As a girl, did you like tidying your bedroom as much as playing with your dolls?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Disfrutaste en el parque de atracciones?",
+      "back": "Did you enjoy the amusement park?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Disfrutaste tú y tus hijos en el parque acuático?",
+      "back": "Did you and your children enjoy the water park?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Disfrutaste en las cataratas del Niágara?",
+      "back": "Did you enjoy Niagara Falls?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Disfrutasteis montando en las atracciones?",
+      "back": "Did you enjoy going on the rides?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Disfrutó él montando en la montaña rusa?",
+      "back": "Did he enjoy going on the roller coaster?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Disfrutaron montando en el tobogán de agua?",
+      "back": "Did they enjoy going on the water chute?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Qué es lo que te gustó de trabajar en el turno de noche?",
+      "back": "What did you like about working the late shift?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Qué es lo que le gustaba a ella de trabajar con un horario flexible?",
+      "back": "What did she like about working flexi-time?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Qué es lo que le gustaba a él de trabajar con un horario fijo?",
+      "back": "What did he like about working fixed hours?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Me gusta el modo en que ella explica la gramática y los verbos compuestos.",
+      "back": "I like the way she explains the grammar and phrasal verbs.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "A Lisa le gusta el modo en que su marido trata a sus amigos (de ella).",
+      "back": "Lisa likes the way her husband treats her friends.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "A Annie y a Anna les gusta el modo en que ZAC maqueta sus cursos.",
+      "back": "Annie and Anna like the way ZAC is doing the layout of their courses.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Te guste o no, serás el encargado de llamar a los morosos.",
+      "back": "Whether you like it or not you'll be in charge of calling the debtors.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Le guste o no, ella será la responsable de tratar las quejas de los clientes.",
+      "back": "Whether she likes it or not, she'll be in charge of handling customer complaints.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Le guste o no, él será el responsable de emitir las facturas.",
+      "back": "Whether he likes it or not, he'll be in charge of issuing the invoices.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Nos guste o no, todos somos responsables del cambio climático.",
+      "back": "Like it or not, all of us are responsible for climate change.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Nos guste o no, todos somos responsables de la crisis económica.",
+      "back": "Like it or not, all of us are responsible for the financial crisis.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Nos guste o no, todos somos responsables de acabar con la industria discográfica.",
+      "back": "Like it or not, all of us are responsible for 'killing' the music industry.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Te guste o no, el tuyo no es tan interesante como el suyo (de ella).",
+      "back": "Like it or lump it, yours isn't as interesting as hers.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Te guste o no, la tuya no es tan entretenida como la de él.",
+      "back": "Like it or lump it, yours isn't as entertaining as his.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Te guste o no, las tuyas no están tan bien escritas como las de ellos.",
+      "back": "Like it or lump it, yours aren't as well written as theirs.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Lo bueno es que podemos hacer lo que queramos.",
+      "back": "The good thing is that we can do whatever we like.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Recuerda que siempre puedes hacer lo que quieras.",
+      "back": "Remember that you can always do whatever you like.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Hacen siempre lo que quieren.",
+      "back": "They always do whatever they like.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Me gusta cuando Clarice entrevista al asesino en serie.",
+      "back": "I like it when Clarice interviews the serial killer.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Me gusta cuando al asesino en serie le ponen en una jaula grande.",
+      "back": "I like it when the serial killer is put in a big cage.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Me gusta cuando al final de la película dice que se va a cenar con un viejo amigo.",
+      "back": "I like it when at the end of the movie he says he's having an old friend for dinner.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Te gustó cuando el actor secundario le pide al guardaespaldas que guarde el collar de la chica en el bolsillo del personaje principal?",
+      "back": "Did you like it when the supporting actor asks his bodyguard to slip the girl's necklace into the main character's coat pocket?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "¿Te gustó cuando la actriz secundaria le prohíbe a su hija que vea a Jack?",
+      "back": "Did you like it when the supporting actress forbids her daughter to see Jack?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "¿Te gustó cuando la actriz principal queda con el actor principal en la proa del barco?",
+      "back": "Did you like it when the main actress meets the main actor at the bow of the ship?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Te gustó la parte en la que «la cosa» ataca la nave espacial?",
+      "back": "Did you like the bit where \"the thing\" attacks the spaceship?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Te gustó la parte en la que «la cosa» atraviesa la piel del personaje principal?",
+      "back": "Did you like the bit where \"the thing\" bursts through the main character's skin?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Te gustó la parte en la que los dos personajes se encuentran con la Reina «cosa»?",
+      "back": "Did you like the bit where the two characters encounter \"the thing\" queen?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Te gustó cómo terminó «Una mente maravillosa»?",
+      "back": "Did you like how 'A Beautiful Mind' finished?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Te gustó el hecho de que Bruce Willis resultara estar muerto en «El sexto sentido»?",
+      "back": "Did you like how Bruce Willis turned out to be dead in the film 'The Sixth Sense'?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Te gustó cómo se grabó «El señor de los anillos»?",
+      "back": "Did you like how 'The Lord of the Rings' was filmed?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "No me gusta nada que Billie deje inconsciente a Maggie con un golpe a traición por la espalda.",
+      "back": "I hate it when Billie knocks Maggie out with a sucker punch from behind.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "No me gusta nada que la familia de Maggie se presente en el hospital con el abogado.",
+      "back": "I hate it when Maggie's family turns up at the hospital with the attorney.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "No me gusta nada que la madre de Maggie menosprecie su éxito en el cuadrilátero.",
+      "back": "I hate it when Maggie's mother belittles her success in the boxing ring.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Es probable que a él no le guste el nuevo horario.",
+      "back": "He's probably not going to like the new timetable.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Es probable que a ellos no les guste la nueva distribución de los puestos de trabajo.",
+      "back": "They're probably not going to like the new seating plan.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Es probable que a ella no le guste la ubicación de la nueva oficina.",
+      "back": "She's probably not going to like the new office location.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Sin duda, a él no le va a gustar tener que coger un tren para ir de Delhi a Bombay.",
+      "back": "He's definitely not going to like having to take a train to go from Delhi to Mumbai.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Sin duda, a ella no le va a gustar tener que comer cucarachas y saltamontes en Tailandia.",
+      "back": "She's definitely not going to like having to eat cockroaches and grasshoppers in Thailand.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Sin duda, no les va a gustar tener que asistir a una conferencia de siete horas sobre el parásito echinococcus granulosus.",
+      "back": "They're definitely not going to like having to attend a seven-hour lecture on the parasite echinococcus granulosus.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "De ninguna manera le va a gustar a él limpiar esta pocilga.",
+      "back": "There's no way he's going to like cleaning this pigsty.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "De ninguna manera le va a gustar a ella un batido de apio de desayuno.",
+      "back": "There's no way she's going to like a celery shake for breakfast.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "De ningún modo les va a gustar levantarse a las tres de la mañana para conducir diez horas.",
+      "back": "There's no way they're going to like getting up at 3 am to drive for 10 hours.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Ni en broma le va a gustar a ella ir de compras con la ex mujer de su marido.",
+      "back": "There's no way in the world she's going to like going shopping with her husband's ex-wife.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Ni en broma le va a gustar a él pasar tres días con gente que sólo habla alemán.",
+      "back": "There's no way in the world he's going to like spending three days with people who can only speak German.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Ni lo pienses que les va a gustar gastarse 1000 euros en tres sillas.",
+      "back": "There's no way in the world they're going to like spending 1000 euros on three chairs.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Es probable que a él no le guste su nuevo corte de pelo (de ella).",
+      "back": "He's probably not going to like her new haircut.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Sin duda, a ella no le va a gustar su traje nuevo rosa (de él).",
+      "back": "She's definitely not going to like his new pink suit.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "De ninguna manera van a querer tener que pagar un 50% más por el mismo servicio.",
+      "back": "There's no way they're going to like having to pay 50% more for the same service.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Podemos quedar a tomar un brunch donde tú quieras.",
+      "back": "We can meet for brunch wherever you like.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Podemos quedar a tomar unas copas donde tú quieras.",
+      "back": "We can meet for a few drinks wherever you like.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Podemos quedar a charlar donde tú quieras.",
+      "back": "We can meet for a chat wherever you like.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Te puedes pasar por casa cuando tú quieras.",
+      "back": "You can come round whenever you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-080",
+      "front": "Puedes pasar por casa cuando quieras.",
+      "back": "You can pop by whenever you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-081",
+      "front": "Puedes venir a casa cuando te apetezca.",
+      "back": "You can stop by whenever you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-082",
+      "front": "Podemos ir a esa exposición a la hora que tú quieras.",
+      "back": "We can go to that exhibition whatever time you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Podemos ir a esa obra a la hora que vosotros queráis.",
+      "back": "We can go to that play whatever time you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Podemos ir al parque de atracciones a la hora que ella quiera.",
+      "back": "We can go to the amusement park whatever time she likes.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Puedes traer a quien quieras a la exposición de esta noche.",
+      "back": "You can bring whoever you like to tonight's exhibition.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Alberto y Richard pueden venir con quien quieran al espectáculo de mañana.",
+      "back": "Alberto and Richard can come with whoever they like to tomorrow's show.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Alison puede pedirle a quien quiera que venga al congreso de la semana que viene.",
+      "back": "Alison can ask whoever she likes to come to next week's conference.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Les puedes preguntar lo que tú quieras.",
+      "back": "You can ask them whatever you like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Pueden hablar con ella sobre lo que quieran.",
+      "back": "They can talk to her about whatever they like.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Él nos puede decir lo que quiera.",
+      "back": "He can tell us whatever he likes.",
+      "sourcePage": 47
+    }
+  ]
+}

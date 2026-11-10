@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-12",
+  "bookTitle": "Libro 12",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Me caes bien.",
+      "back": "I like you.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Te caigo bien.",
+      "back": "You like me.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Me caen bien.",
+      "back": "I like them.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella le cae bien a él.",
+      "back": "He likes her.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Él le cae bien a ella.",
+      "back": "She likes him.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Tú le caes bien a él.",
+      "back": "He likes you.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "A mi hija le gusta el helado.",
+      "back": "My daughter likes ice cream.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Me gusta el café. ¡Me gusta mucho!",
+      "back": "I like coffee. I like it very much!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "A mis hijos les gusta el zumo de naranja.",
+      "back": "My children like orange juice.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Me gusta el tenis y a mi hermano le gusta el tenis también.",
+      "back": "I like tennis and my brother likes tennis too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "A mi hermana le gusta la música pop y también le gusta la música clásica.",
+      "back": "My sister likes pop music and she also likes classical music.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "A todo el mundo en mi familia le gusta el fútbol.",
+      "back": "Everybody in my family likes football.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Me gustan los gatos y a mi madre también le gustan los gatos.",
+      "back": "I like cats and my mother likes cats too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "A mi abuelo le gustan los coches y a mi padre también le gustan los coches.",
+      "back": "My grandfather likes cars and my father likes cars too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Me gustan los elefantes y a mis padres les gustan los elefantes también.",
+      "back": "I like elephants and my parents like elephants too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No me gusta el té.",
+      "back": "I don't like tea.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No les caigo bien.",
+      "back": "They don't like me.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No nos gusta ese autor.",
+      "back": "We don't like that author.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "A él no le gustan los perros y no le gustan los gatos tampoco.",
+      "back": "He doesn't like dogs and he doesn't like cats either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Él no le cae muy bien a ella.",
+      "back": "She doesn't like him very much.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "A mi perro no le gusta mucho el pescado.",
+      "back": "My dog doesn't like fish very much.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "A él no le gustan los míos y a mí no me gustan los suyos tampoco.",
+      "back": "He doesn't like mine and I don't like his either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "No me gusta su actitud (de ella) y tampoco me gusta la suya (de él).",
+      "back": "I don't like her attitude and I don't like his either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "A él no le gusta nuestro coche y a nosotros no nos gusta el suyo.",
+      "back": "He doesn't like our car and we don't like his.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No me gustan los suyos (de él) y tampoco me gustan los suyos (de ella).",
+      "back": "I don't like his and I don't like hers either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "A él no le gusta mi dibujo y tampoco le gusta el suyo (de ella).",
+      "back": "He doesn't like my drawing and he doesn't like hers either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "No me gusta la tuya y tampoco me gusta la suya (de ella).",
+      "back": "I don't like yours and I don't like hers either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No me gusta mucho la suya (de ellos).",
+      "back": "I don't like theirs very much.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "El suyo (de él) no les gusta a ellos y el suyo (de ellos) no le gusta a él.",
+      "back": "They don't like his and he doesn't like theirs.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Los suyos (de ellos) no nos gustan mucho.",
+      "back": "We don't like theirs very much.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Te caen bien ellas?",
+      "back": "Do you like them?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Te gusta eso?",
+      "back": "Do you like it?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Te gusta tu trabajo?",
+      "back": "Do you like your job?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Te cae bien ella?",
+      "back": "Do you like her?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Te cae bien tu jefe?",
+      "back": "Do you like your boss?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Te cae bien la jefa de tu jefe?",
+      "back": "Do you like your boss's boss?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿A él le gusta su trabajo?",
+      "back": "Does he like his job?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿A ella le gusta su trabajo?",
+      "back": "Does she like her job?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿A Matt le gusta su trabajo y a su hermana le gusta el suyo?",
+      "back": "Does Matt like his job and does his sister like hers?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Te gusta la playa o prefieres la sierra?",
+      "back": "Do you like the beach or do you prefer the mountains?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Te gustan las ciudades grandes o prefieres los pueblecitos pequeños?",
+      "back": "Do you like big cities or do you prefer small villages?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Te gustan los lunes o prefieres los viernes?",
+      "back": "Do you like Mondays or do you prefer Fridays?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿De verdad te gusta?",
+      "back": "Do you really like it?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿De verdad le gusta a él su trabajo?",
+      "back": "Does he really like his job?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿De verdad les gustan los caracoles?",
+      "back": "Do they really like snails?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Me gusta salir a comer.",
+      "back": "I like going out for lunch.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "No me gusta salir a cenar.",
+      "back": "I don't like going out for dinner.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Te gusta salir a comer?",
+      "back": "Do you like going out for lunch?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "A Pedro le gusta irse de vacaciones en agosto.",
+      "back": "Pedro likes going on holiday in August.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "A Celia no le gusta irse de vacaciones en agosto.",
+      "back": "Celia doesn't like going on holiday in August.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Te gusta irte de vacaciones en agosto?",
+      "back": "Do you like going on holiday in August?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "La verdad es que no me gusta ir a la ópera.",
+      "back": "I don't really like going to the opera.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "La verdad es que no me gusta trabajar con Roger.",
+      "back": "I don't really like working with Roger.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "La verdad es que a él no le gusta venir a España en agosto.",
+      "back": "He doesn't really like coming to Spain in August.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Les gusta estar con su familia?",
+      "back": "Do they like to be with their family?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Me gusta salir al teatro.",
+      "back": "I like to go out to the theatre.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "La verdad es que a ella no le gusta hablar inglés en público.",
+      "back": "She doesn't really like to speak English in public.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Odio levantarme los lunes por la mañana.",
+      "back": "I hate getting up on Monday mornings.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Él odia irse de vacaciones en agosto.",
+      "back": "He hates going on holiday in August.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "La verdad es que él no odia irse de vacaciones en agosto.",
+      "back": "He doesn't really hate going on holiday in August.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Te gusta trabajar con David? Sí, me gusta.",
+      "back": "Do you like working with David? Yes, I do!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Te gusta vivir en España? Sí, me gusta.",
+      "back": "Do you like living in Spain? Yes, I do!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿A ellos les gusta vivir juntos? Sí, les gusta.",
+      "back": "Do they like living together? Yes, they do!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Te gusta levantarte los lunes por la mañana? No, no me gusta.",
+      "back": "Do you like getting up on Monday mornings? No, I don't!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿De verdad te gusta ir al supermercado los sábados por la mañana? No, no me gusta.",
+      "back": "Do you really like going to the supermarket on Saturday mornings? No, I don't!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "¿De verdad a ellos les gusta vivir en el centro? No, no les gusta.",
+      "back": "Do they really like living in the centre of town? No, they don't!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿A ella le gusta el helado de chocolate? Sí, le gusta.",
+      "back": "Does she like chocolate ice cream? Yes, she does!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿A ella le gusta hacer galletas? Sí, le gusta.",
+      "back": "Does she like making biscuits? Yes, she does!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿A él le gusta trabajar en Berlín? Sí, le gusta.",
+      "back": "Does he like working in Berlin? Yes, he does!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¿A tu hermano le gustan las zanahorias? No, no le gustan.",
+      "back": "Does your brother like carrots? No, he doesn't!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¿A tu hermana le gusta ir al teatro? No, no le gusta.",
+      "back": "Does your sister like going to the theatre? No, she doesn't!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿A tu primo Mark le gusta vivir en un pueblecito? No, no le gusta.",
+      "back": "Does your cousin Mark like living in a small village? No, he doesn't!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿A tus padres les gusta jugar al tenis? Sí, les gusta.",
+      "back": "Do your parents like playing tennis? Yes, they do!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿A ellos les gusta jugar al tenis bajo la lluvia? No, no les gusta.",
+      "back": "Do they like playing tennis in the rain? No, they don't!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Os gusta el queso? Sí, nos gusta.",
+      "back": "Do you like cheese? Yes, we do!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Quieres un trozo de bizcocho?",
+      "back": "Would you like a piece of cake?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Quieres una tostada?",
+      "back": "Would you like some toast?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Quieres un té?",
+      "back": "Would you like a cup of tea?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Quieres otra tostada?",
+      "back": "Would you like some more toast?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Quieres más sopa?",
+      "back": "Would you like some more soup?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Quieres más?",
+      "back": "Would you like some more?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Quieres venir a nuestra fiesta?",
+      "back": "Would you like to come to our party?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Quieres tomar el desayuno?",
+      "back": "Would you like to have breakfast?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Quieres salir a cenar?",
+      "back": "Would you like to go out for dinner?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Quieres ir a París conmigo? Sí, quiero.",
+      "back": "Would you like to go to Paris with me? Yes, I would!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Quieres hacerlo ahora? Sí, quiero.",
+      "back": "Would you like to do it now? Yes, I would!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Quieres una tostada? Sí, quiero.",
+      "back": "Would you like some toast? Yes, I would!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Qué quieres para cenar?",
+      "back": "What would you like for dinner?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Qué quieres hacer?",
+      "back": "What would you like to do?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Qué te apetece?",
+      "back": "What would you like?",
+      "sourcePage": 19
+    }
+  ]
+}
