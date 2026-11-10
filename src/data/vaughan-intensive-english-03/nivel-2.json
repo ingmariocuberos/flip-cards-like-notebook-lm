@@ -1,0 +1,670 @@
+{
+  "bookId": "vaughan-intensive-english-03",
+  "bookTitle": "Vaughan Intensive English — Libro 3",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Tengo algo interesante que decirte.",
+      "back": "I've got something interesting to tell you.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Tengo muchos problemas.",
+      "back": "I've got lots of problems.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Tengo muchas cosas que hacer hoy.",
+      "back": "I've got lots of things to do today.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Tienes algo en la cara.",
+      "back": "You've got something on your face.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Tienes algo en la barbilla.",
+      "back": "You've got something on your chin.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Tienes algo en la mejilla.",
+      "back": "You've got something on your cheek.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Ella tiene los ojos bonitos.",
+      "back": "She's got nice eyes.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Tiene el pelo largo y precioso.",
+      "back": "She's got beautiful long hair.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Tiene una bonita sonrisa.",
+      "back": "She's got a lovely smile.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Ellos tienen un montón de dinero.",
+      "back": "They've got loads of money.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Tienen un montón de modelos distintos.",
+      "back": "They've got loads of different models.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Tienen un montón de cosas que hacer.",
+      "back": "They've got loads of things to do.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Tenemos tiempo de sobra para llegar al aeropuerto.",
+      "back": "We've got plenty of time to get to the airport.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Tenemos comida de sobra para la fiesta.",
+      "back": "We've got plenty of food for the party.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Tenemos gasolina de sobra para llegar a casa.",
+      "back": "We've got plenty of petrol to get home.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "No tengo nada en la agenda para hoy.",
+      "back": "I haven't got anything on today.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "No tengo nada en la agenda para esta tarde.",
+      "back": "I haven't got anything on this afternoon.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "No tengo nada en la agenda hasta las seis de la tarde.",
+      "back": "I haven't got anything on until six o'clock.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Él tiene algo en la agenda para las cinco de la tarde, pero no tiene nada antes de eso.",
+      "back": "He's got something on at five o'clock this afternoon, but he hasn't got anything on before that.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Él no tiene las manos peludas.",
+      "back": "He hasn't got hairy hands.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "No tiene nada interesante que decir.",
+      "back": "He hasn't got anything interesting to say.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "No tengo tiempo suficiente para verte ahora.",
+      "back": "I haven't got enough time to see you now.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "No tengo tiempo suficiente para terminar esto ahora.",
+      "back": "I haven't got enough time to finish this now.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "No tengo tiempo suficiente para hablar con ella ahora.",
+      "back": "I haven't got enough time to speak to her now.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Esto no tiene nada que ver con eso.",
+      "back": "This hasn't got anything to do with that.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Eso no tiene nada que ver con esto.",
+      "back": "That hasn't got anything to do with this.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Esto no tiene nada que ver con mi trabajo.",
+      "back": "This hasn't got anything to do with my job.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "No llevo nada de dinero encima.",
+      "back": "I haven't got any money on me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Él tampoco lleva dinero encima.",
+      "back": "He hasn't got any money on him either.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Y ellos tampoco llevan dinero encima.",
+      "back": "And they haven't got any money on them either.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Tienes un par de minutos?",
+      "back": "Have you got a couple of minutes to spare?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Tienes cinco minutos para mí?",
+      "back": "Have you got five minutes to spare?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Tienes diez minutos para mí?",
+      "back": "Have you got ten minutes to spare?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Llevan dinero encima?",
+      "back": "Have they got any money on them?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Tienen algún tiempo libre?",
+      "back": "Have they got any time to spare?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Tienen algo en la agenda para esta tarde?",
+      "back": "Have they got anything on this afternoon?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Tiene él un piso bonito?",
+      "back": "Has he got a nice flat?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Tiene novia?",
+      "back": "Has he got a girlfriend?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Tiene la nariz grande?",
+      "back": "Has he got a big nose?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Tienes un billete de cinco?",
+      "back": "Have you got a fiver on you?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Tienes un billete de diez?",
+      "back": "Have you got a tenner on you?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Tienes un billete de diez o uno de cinco?",
+      "back": "Have you got a tenner or a fiver on you?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Tienes tiempo para un café?",
+      "back": "Have you got time for a coffee?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Tienes tiempo para una copa?",
+      "back": "Have you got time for a drink?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Tienes tiempo para charlar un poco?",
+      "back": "Have you got time for a chat?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Pecas.",
+      "back": "Freckles.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Arrugas.",
+      "back": "Wrinkles.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Lunar.",
+      "back": "Mole.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Caspa.",
+      "back": "Dandruff.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Perilla.",
+      "back": "Goatee.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Verruga.",
+      "back": "Wart.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Papada.",
+      "back": "Double chin.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-053",
+      "front": "Hoyuelo.",
+      "back": "Dimple.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-054",
+      "front": "Patillas.",
+      "back": "Sideburns.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-055",
+      "front": "Flequillo.",
+      "back": "Fringe.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-056",
+      "front": "Tengo que terminarlo para el viernes a las seis como muy tarde.",
+      "back": "I have to finish it by six o'clock on Friday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-057",
+      "front": "Tengo que estar allí a las diez como muy tarde.",
+      "back": "I have to be there by ten o'clock.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "Tengo que avisarles a las ocho como muy tarde.",
+      "back": "I have to let them know by eight o'clock.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "Ella tiene que ir a casa de su hermana para Navidad.",
+      "back": "She has to go to her sister's for Christmas.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "Tiene que ir a trabajar todos los días.",
+      "back": "She has to go to work every day.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "Tiene que comprar suficiente comida para diez personas.",
+      "back": "She has to buy enough food for ten people.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Tuve que ir al dentista antes de ayer.",
+      "back": "I had to go to the dentist the day before yesterday.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-063",
+      "front": "Y tuve que ir al médico el día anterior.",
+      "back": "And I had to go to the doctor's the day before that.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "Al final tuvimos que salir a cenar.",
+      "back": "We had to go out for dinner in the end.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "¡Me tengo que ir! ¡Tengo un compromiso a las seis!",
+      "back": "I've got to go! I've got something on at six!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "Tengo que cenar esta noche a las siete como muy tarde.",
+      "back": "I've got to have dinner by seven o'clock tonight.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "Él tiene que ir al médico la semana que viene.",
+      "back": "He's got to go to the doctor's next week.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "Ellos tuvieron que volver pronto a casa.",
+      "back": "They had to go home early last night.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Tuvimos que comprar unos sellos en la oficina de correos.",
+      "back": "We had to buy some stamps at the post office.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "Tuve que ir allí tres veces la semana pasada.",
+      "back": "I had to go there three times last week.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "No tengo que ir al trabajo los sábados.",
+      "back": "I don't have to go to work on Saturdays.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-072",
+      "front": "No tengo que llevar corbata en verano.",
+      "back": "I don't have to wear a tie in the summer.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-073",
+      "front": "No tengo que levantarme temprano los fines de semana.",
+      "back": "I don't have to get up early at the weekend.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-074",
+      "front": "Ella no tiene que llamar a su madre.",
+      "back": "She doesn't have to call her mother.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "Hoy no tiene que llamar a nadie.",
+      "back": "She doesn't have to call anyone today.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "Hoy no tiene que llamar a su jefa.",
+      "back": "She doesn't have to call her boss today.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "No teníamos que terminar todos los informes.",
+      "back": "We didn't have to finish all the reports.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-078",
+      "front": "No tenían que leer todos los informes para ayer.",
+      "back": "They didn't have to read all the reports by yesterday.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "No tenías que mandar todos los informes para la hora de comer.",
+      "back": "You didn't have to send all the reports by lunchtime.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-080",
+      "front": "Ya no tengo que escribir informes.",
+      "back": "I don't have to write reports any more.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "Ya no tengo que ir a casa de mi hermano.",
+      "back": "I don't have to go to my brother's any more.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "Él ya no tiene que llamar a su jefe todos los días.",
+      "back": "He doesn't have to call his boss every day any more.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "No tengo que ir hasta la semana que viene.",
+      "back": "I don't have to go until next week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "Él no tiene que terminar el informe hasta la semana que viene.",
+      "back": "He doesn't have to finish the report until next week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "No tienen que llamarme hasta la semana que viene.",
+      "back": "They don't have to call me until next week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Te tienes que levantar temprano mañana?",
+      "back": "Do you have to get up early tomorrow?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Tienes que ir mañana a trabajar?",
+      "back": "Do you have to go to work tomorrow?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Es necesario que te comportes así?",
+      "back": "Do you have to behave like that?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Tiene ella que ir a una reunión pasado mañana?",
+      "back": "Does she have to go to a meeting the day after tomorrow?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Tiene él que terminar su informe pasado mañana como muy tarde?",
+      "back": "Does he have to finish his report by the day after tomorrow?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-091",
+      "front": "¿Tiene ella que estar en Belfast pasado mañana como muy tarde?",
+      "back": "Does she have to be in Belfast by the day after tomorrow?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Qué hay que hacer para llegar a ser astronauta?",
+      "back": "What do you have to do to become an astronaut?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-093",
+      "front": "¿Qué hay que estudiar para ser contable?",
+      "back": "What do you have to study to become an accountant?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-094",
+      "front": "¿Qué hay que hacer para llegar a ser buzo?",
+      "back": "What do you have to do to become a deep-sea diver?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-095",
+      "front": "¿Qué tuviste que hacer?",
+      "back": "What did you have to do?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-096",
+      "front": "¿Dónde lo tuviste que hacer?",
+      "back": "Where did you have to do it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-097",
+      "front": "¿Con quién lo tuviste que hacer?",
+      "back": "Who did you have to do it with?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-098",
+      "front": "¿Para cuándo tienes que estar allí?",
+      "back": "When do you have to be there by?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-099",
+      "front": "¿Para cuándo tienes que terminar tu informe?",
+      "back": "When do you have to finish your report by?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-100",
+      "front": "¿Para cuándo tuviste que irte allí?",
+      "back": "When did you have to go there by?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-101",
+      "front": "¿Llevas dinero encima? ¡Estoy sin blanca!",
+      "back": "Have you got any money on you? I'm broke!",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-102",
+      "front": "Llevo veinte euros encima, eso es todo.",
+      "back": "I've got 20€ on me, that's all.",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-103",
+      "front": "Tengo que comprar algo de comer; me muero de hambre.",
+      "back": "I have to buy something to eat; I'm starving.",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-104",
+      "front": "Tengo un montón de comida en casa.",
+      "back": "I've got lots of food at home.",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-105",
+      "front": "¿Te gustaría venir a comer conmigo?",
+      "back": "Would you like to come and have lunch with me?",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-106",
+      "front": "¿Qué tienes para comer?",
+      "back": "What have you got to eat?",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-107",
+      "front": "Tengo unas deliciosas albóndigas caseras.",
+      "back": "I've also got some home-made meatballs.",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-108",
+      "front": "¿Tienes queso?",
+      "back": "Have you got any cheese?",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-109",
+      "front": "Sí, tengo un queso de cabra estupendo.",
+      "back": "Yes, I've got some lovely goat's cheese.",
+      "sourcePage": 50
+    },
+    {
+      "id": "s2-110",
+      "front": "Menos mal que me lo has dicho.",
+      "back": "It's a good thing you told me!",
+      "sourcePage": 50
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "bookId": "vaughan-intensive-english-03",
+  "bookTitle": "Vaughan Intensive English — Libro 3",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Tengo un hijo.",
+      "back": "I have a son.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Tengo una hija.",
+      "back": "I have a daughter.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Tengo un gato.",
+      "back": "I have a cat.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Él tiene dos hijos.",
+      "back": "He has two sons.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Él tiene tres hijas.",
+      "back": "He has three daughters.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Él tiene cuatro gatos.",
+      "back": "He has four cats.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Tengo trabajo y ella tiene trabajo también.",
+      "back": "I have a job and she has a job too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Tengo piso y ella tiene piso también.",
+      "back": "I have a flat and she has a flat too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Tengo coche y ella tiene coche también.",
+      "back": "I have a car and she has a car too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Él tiene piso y ella tiene piso también.",
+      "back": "He has a flat and she has a flat too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella está resfriada y yo estoy resfriado también.",
+      "back": "She has a cold and I have a cold too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Yo estoy resfriado y ella está resfriada también.",
+      "back": "I have a cold and she has a cold too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Él está resfriado y yo estoy resfriado también.",
+      "back": "He has a cold and I have a cold too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Tengo dolor de cabeza y ella tiene dolor de cabeza también.",
+      "back": "I have a headache and she has a headache too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Ella tiene dolor de cabeza y él tiene dolor de cabeza también.",
+      "back": "She has a headache and he has a headache too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Él tiene dolor de cabeza y yo tengo dolor de cabeza también.",
+      "back": "He has a headache and I have a headache too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-017",
+      "front": "No tenemos trabajo.",
+      "back": "We don't have a job.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No tenemos coche.",
+      "back": "We don't have a car.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No tenemos garaje.",
+      "back": "We don't have a garage.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Ella no tiene perro.",
+      "back": "She doesn't have a dog.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Ella no tiene gato.",
+      "back": "She doesn't have a cat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Ella no tiene conejo.",
+      "back": "She doesn't have a rabbit.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "No tengo gato y ella no tiene gato tampoco.",
+      "back": "I don't have a cat and she doesn't have a cat either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No tenemos trabajo y él no tiene trabajo tampoco.",
+      "back": "We don't have a job and he doesn't have a job either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No tenéis jardín y ellos tampoco tienen jardín.",
+      "back": "You don't have a garden and they don't have a garden either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "No tienes mucho tiempo y yo no tengo mucho tiempo tampoco.",
+      "back": "You don't have much time and I don't have much time either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "No tengo mucho dinero y ella no tiene mucho dinero tampoco.",
+      "back": "I don't have much money and she doesn't have much money either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No tenemos mucho aceite de oliva y él no tiene mucho aceite de oliva tampoco.",
+      "back": "We don't have much olive oil and he doesn't have much olive oil either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No tengo muchas camisas y él no tiene muchas camisas tampoco.",
+      "back": "I don't have many shirts and he doesn't have many shirts either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella no tiene muchas faldas y ellas no tienen muchas faldas tampoco.",
+      "back": "She doesn't have many skirts and they don't have many skirts either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "No tenemos muchos libros y vosotros no tenéis muchos libros tampoco.",
+      "back": "We don't have many books and you don't have many books either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Tienes corbata?",
+      "back": "Do you have a tie?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Tienes una bici?",
+      "back": "Do you have a bike?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Tienes jardín?",
+      "back": "Do you have a garden?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Tiene cocina?",
+      "back": "Does it have a kitchen?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Tiene dos dormitorios?",
+      "back": "Does it have two bedrooms?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Tiene ducha?",
+      "back": "Does it have a shower?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Cuántos dormitorios tiene?",
+      "back": "How many bedrooms does it have?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Cuántos cuartos de baño tiene?",
+      "back": "How many bathrooms does it have?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Cuántas duchas tiene?",
+      "back": "How many showers does it have?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Tomas café todos los días?",
+      "back": "Do you have a coffee every day?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Toma él café todos los días también?",
+      "back": "Does he have a coffee every day too?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Toma ella cerveza todos los días?",
+      "back": "Does she have a beer every day?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Cuántos cafés tomas al día?",
+      "back": "How many coffees do you have a day?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Cuántos zumos de naranja tomas al día?",
+      "back": "How many orange juices do you have a day?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Cuántas cervezas tomas al día?",
+      "back": "How many beers do you have a day?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-047",
+      "front": "Uno.",
+      "back": "One.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "Dos.",
+      "back": "Two.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Tres.",
+      "back": "Three.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Cuatro.",
+      "back": "Four.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Cinco.",
+      "back": "Five.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Seis.",
+      "back": "Six.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-053",
+      "front": "Siete.",
+      "back": "Seven.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-054",
+      "front": "Ocho.",
+      "back": "Eight.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-055",
+      "front": "Nueve.",
+      "back": "Nine.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-056",
+      "front": "Diez.",
+      "back": "Ten.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-057",
+      "front": "John tiene las piernas largas.",
+      "back": "John has long legs.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-058",
+      "front": "Ian no tiene las piernas largas.",
+      "back": "Ian doesn't have long legs.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Tiene Mark las piernas largas?",
+      "back": "Does Mark have long legs?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-060",
+      "front": "Fred tiene las piernas largas, pero Oliver tiene las piernas cortas.",
+      "back": "Fred has long legs, but Oliver has short legs.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-061",
+      "front": "Tengo las piernas largas, pero tú tienes las piernas cortas.",
+      "back": "I have long legs, but you have short legs.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "Ellos tienen las piernas largas, pero nosotros tenemos las piernas cortas.",
+      "back": "They have long legs, but we have short legs.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Tienes una casa grande?",
+      "back": "Do you have a big house?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Tiene Jenny un piso grande?",
+      "back": "Does Jenny have a big flat?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Tienen un coche grande?",
+      "back": "Do they have a big car?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Tenéis una cocina pequeña?",
+      "back": "Do you have a small kitchen?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-067",
+      "front": "Él no tiene un cuarto de baño pequeño.",
+      "back": "He doesn't have a small bathroom.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "Ellas tienen un piso pequeño.",
+      "back": "They have a small flat.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "Mark tiene un piso bonito, pero no tiene un jardín bonito.",
+      "back": "Mark has a nice flat, but he doesn't have a nice garden.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "Inés tiene una hermana simpática, pero no tiene un hermano simpático.",
+      "back": "Inés has a nice sister, but she doesn't have a nice brother.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "Gina tiene un buen trabajo, pero no tiene una buena jefa.",
+      "back": "Gina has a nice job, but she doesn't have a nice boss.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "Él no tiene los ojos azules, tiene los ojos marrones.",
+      "back": "He doesn't have blue eyes, he has brown eyes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-073",
+      "front": "Ella no tiene los ojos marrones, tiene los ojos verdes.",
+      "back": "She doesn't have brown eyes, she has green eyes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-074",
+      "front": "No tienen los ojos verdes, tienen los ojos azules.",
+      "back": "They don't have green eyes, they have blue eyes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-075",
+      "front": "No tengo el pelo rubio, tengo el pelo moreno.",
+      "back": "I don't have blonde hair, I have brown hair.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-076",
+      "front": "No tienes el pelo moreno, tienes el pelo canoso.",
+      "back": "You don't have brown hair, you have grey hair.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "No tenemos el pelo canoso, tenemos el pelo rubio.",
+      "back": "We don't have grey hair, we have blonde hair.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "Tengo un coche rojo y tengo un coche amarillo también.",
+      "back": "I have a red car and I have a yellow car too.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-079",
+      "front": "No tengo un coche rosa y no tengo un coche naranja tampoco.",
+      "back": "I don't have a pink car and I don't have an orange car either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-080",
+      "front": "Helen tiene un coche negro y tiene un coche naranja también.",
+      "back": "Helen has a black car and she has an orange car too.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-081",
+      "front": "Tengo una camisa roja y azul, y mi hermano tiene una camisa blanca y negra.",
+      "back": "I have a red and blue shirt, and my brother has a black and white shirt.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-082",
+      "front": "Kevin tiene una camisa naranja y amarilla, y Steve tiene una camisa rosa y verde.",
+      "back": "Kevin has an orange and yellow shirt, and Steve has a pink and green shirt.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "Greg tiene una camisa marrón y gris, y Dag tiene una camisa amarilla y blanca.",
+      "back": "Greg has a brown and grey shirt, and Dag has a yellow and white shirt.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "No tengo una camiseta gris y tampoco tengo una camiseta azul.",
+      "back": "I don't have a grey t-shirt and I don't have a blue t-shirt either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "Ella no tiene una camiseta roja y tampoco tiene una camiseta negra.",
+      "back": "She doesn't have a red t-shirt and she doesn't have a black t-shirt either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "Él no tiene una camiseta naranja y tampoco tiene una camiseta verde.",
+      "back": "He doesn't have an orange t-shirt and he doesn't have a green t-shirt either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "Estoy desayunando con mi hermana.",
+      "back": "I'm having breakfast with my sister.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Estás desayunando con tu hermano?",
+      "back": "Are you having breakfast with your brother?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-089",
+      "front": "Sí, estoy desayunando con mi hermano.",
+      "back": "Yes, I'm having breakfast with my brother.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-090",
+      "front": "Como con mi jefe la semana que viene.",
+      "back": "I'm having lunch with my boss next week.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-091",
+      "front": "Él come con mi hermana el lunes de la semana que viene.",
+      "back": "He's having lunch with my sister next Monday.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-092",
+      "front": "Ella come con mi hermano el martes de la semana que viene.",
+      "back": "She's having lunch with my brother next Tuesday.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-093",
+      "front": "Ceno con mi amiga mañana.",
+      "back": "I'm having dinner with my friend tomorrow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-094",
+      "front": "¿Cenas con tu amigo la semana que viene?",
+      "back": "Are you having dinner with your friend next week?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-095",
+      "front": "No ceno con mi amigo la semana que viene.",
+      "back": "I'm not having dinner with my friend next week.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-096",
+      "front": "¿Él cena con su madre la semana que viene?",
+      "back": "Is he having dinner with his mother next week?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-097",
+      "front": "Él come con su madre mañana.",
+      "back": "He's having lunch with his mother tomorrow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-098",
+      "front": "Patrick come con su madre el lunes de la semana que viene.",
+      "back": "Patrick's having lunch with his mother next Monday.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-099",
+      "front": "Él come con su madre el miércoles.",
+      "back": "He's having lunch with his mother on Wednesday.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-100",
+      "front": "¿Come con su madre el miércoles?",
+      "back": "Is he having lunch with his mother on Wednesday?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-101",
+      "front": "Mi madre come con su madre (de él) el miércoles.",
+      "back": "My mother's having lunch with his mother on Wednesday.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-102",
+      "front": "Tengo dolor de cabeza.",
+      "back": "I have a headache.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-103",
+      "front": "Yo también tengo dolor de cabeza.",
+      "back": "I have a headache too!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-104",
+      "front": "¿Tienes aspirina?",
+      "back": "Do you have any aspirin?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-105",
+      "front": "No, no tengo aspirina.",
+      "back": "No, I don't have any aspirin.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-106",
+      "front": "¿Tu hermana tiene aspirina?",
+      "back": "Does your sister have any aspirin?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-107",
+      "front": "No, ella tampoco tiene aspirina.",
+      "back": "No, she doesn't have any aspirin either.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-108",
+      "front": "Hay una farmacia en la ciudad. ¿Tienes coche?",
+      "back": "There's a chemist's in town. Do you have a car?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-109",
+      "front": "Sí, tengo coche, pero no tiene gasolina.",
+      "back": "Yes, I have a car, but it doesn't have any petrol in it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-110",
+      "front": "Sí, tengo bici, pero tiene una rueda pinchada.",
+      "back": "Yes, I have a bike, but it has a flat tire.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-111",
+      "front": "Hoy no estamos teniendo mucha suerte.",
+      "back": "We're not having much luck today!",
+      "sourcePage": 22
+    }
+  ]
+}

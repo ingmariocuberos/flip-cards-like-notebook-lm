@@ -1,0 +1,604 @@
+{
+  "bookId": "vaughan-intensive-english-03",
+  "bookTitle": "Vaughan Intensive English — Libro 3",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Creo que deberías cortarte el pelo.",
+      "back": "I think you should have your hair cut.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "¿Cuándo vas a encontrar tiempo para cortarte el pelo?",
+      "back": "When are you going to get around to having your hair cut?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Se dio ella cuenta de que te habías cortado el pelo?",
+      "back": "Did she notice that you'd had your hair cut?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Hace sólo una semana me repararon el coche.",
+      "back": "I only had the car repaired last week.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "No tenemos suficiente dinero para que nos arreglen el coche este mes.",
+      "back": "We haven't got enough money to have the car repaired this month.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Nos lo pueden arreglar cuando volvamos de las vacaciones.",
+      "back": "We can have it repaired when we get back from our holidays.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Es hora de que nos pinten la casa de nuevo.",
+      "back": "It's time we had our house redecorated.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Nos van a tener que pintar esta habitación; no aguanto el malva.",
+      "back": "We're going to have to have this room redecorated; I can't stand mauve.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "A Rachel le pintaron la casa el mes pasado; ha quedado genial.",
+      "back": "Rachel had her house redecorated last month; it looks great.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Me acaban de enlosar el suelo del cuarto de baño.",
+      "back": "I've just had my bathroom floor tiled.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "No podemos permitirnos alicatar la cocina.",
+      "back": "We can't afford to have the kitchen tiled.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Por qué no te alicataron el cuarto de baño a la vez?",
+      "back": "Why didn't you have your bathroom tiled at the same time?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "No puedo permitirme arreglar el ordenador de nuevo.",
+      "back": "I can't afford to have my computer fixed again.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Conoces un sitio barato donde pueda reparar mi ordenador?",
+      "back": "Do you know a cheap place where I can have my computer fixed?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Cuándo fue la última vez que tuviste que reparar tu ordenador?",
+      "back": "When did you last have to have your computer mended?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Me cuesta seguir lo que él está diciendo.",
+      "back": "I'm having difficulty following what he's saying.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "No tuvimos ningún problema a la hora de entender a los empleados del hotel.",
+      "back": "We had no difficulty understanding the hotel staff.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "¿Te costó entender lo que todos los demás decían?",
+      "back": "Did you have difficulty understanding what everyone else was saying?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Puede que tengas problemas para encontrar el sitio sin un mapa.",
+      "back": "You might have trouble finding the place without a map.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "June tiene problemas para hablar sin sus dientes postizos.",
+      "back": "June has trouble talking without her false teeth.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "¿Tiene alguno de los estudiantes problemas para seguir el ritmo?",
+      "back": "Are any of the students having trouble keeping up?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "¿Todavía tienes problemas con los perros de tu vecino?",
+      "back": "Are you still having problems with your neighbour's dogs?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Siempre tengo problemas para leer tu letra.",
+      "back": "I always have problems reading your handwriting.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "A veces ellos tienen problemas para comunicar sus ideas.",
+      "back": "They sometimes have problems getting their ideas across.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Lo pasamos muy mal intentando cambiar el neumático bajo la lluvia torrencial.",
+      "back": "We had an awful time trying to change the tyre in the pouring rain.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Lo estoy pasando muy mal con los mosquitos; me están comiendo literalmente vivo.",
+      "back": "I'm having an awful time with the mosquitos; they're literally eating me alive.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Creo que lo pasaron muy mal en el aeropuerto; su avión se retrasó cinco horas y no había ningún sitio para dormir.",
+      "back": "I think they had an awful time at the airport; their plane was delayed five hours and there was nowhere to sleep.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Jane está teniendo muchísimos problemas con los albañiles que contrató.",
+      "back": "Jane is having a nightmare with the builders she contracted.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Tuve muchísimos problemas para encontrar a alguien que hablase inglés.",
+      "back": "I had a nightmare trying to find someone who spoke English.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Estamos teniendo muchísimos problemas para encontrar un comprador para nuestro piso.",
+      "back": "We're having a nightmare finding a buyer for our flat.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Haz que me llame enseguida.",
+      "back": "Have him call me right away.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Haz que me llame a la oficina.",
+      "back": "Have him call me at the office.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Haz que me llame antes de que él tome una decisión final.",
+      "back": "Have him call me before he makes a final decision.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Haz que lo envíen urgente.",
+      "back": "Have it sent first class.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Haz que lo envíen a nuestra oficina de Nueva York.",
+      "back": "Have it sent to our New York office.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Haz que lo envíen de inmediato a todos nuestros clientes.",
+      "back": "Have it sent to all our clients immediately.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Le hice llamarme a mi número privado.",
+      "back": "I had him call me on my private number.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Le hice (a ella) llamarme en cuanto lo averiguó.",
+      "back": "I had her call me as soon as she found out.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Les hice llamarme cuando se publicaron los resultados.",
+      "back": "I had them call me when the results were published.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Hice que se enviara a tu domicilio particular.",
+      "back": "I had it sent to your home address.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Hice que se enviara por mensajero.",
+      "back": "I had it sent by courier.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Hice que se enviara antes de ayer.",
+      "back": "I had it sent the day before yesterday.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Por qué no haces que te lo envíen directamente a ti?",
+      "back": "Why don't you have it sent directly to you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Por qué no haces que te lo envíen certificado?",
+      "back": "Why don't you have it sent by recorded delivery?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Por qué no haces que te llame?",
+      "back": "Why don't you have him call you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Una astilla en el dedo.",
+      "back": "A splinter in my finger.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "Una ampolla.",
+      "back": "A blister.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "Un esguince de tobillo.",
+      "back": "A sprained ankle.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "Espalda dolorida.",
+      "back": "A bad back.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "Dolor de garganta.",
+      "back": "A sore throat.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "Una pierna rota.",
+      "back": "A broken leg.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "Fiebre.",
+      "back": "A fever / a temperature.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-053",
+      "front": "Un sarpullido.",
+      "back": "A rash.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-054",
+      "front": "Un cardenal.",
+      "back": "A bruise.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-055",
+      "front": "Un ojo morado.",
+      "back": "A black eye.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Por qué no intentas hacerlo?",
+      "back": "Why don't you have a go at doing it?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Intentamos armar la tienda, pero al final tuvimos que dejárselo a los expertos.",
+      "back": "We had a go at putting up the tent, but in the end we had to leave it to the experts.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "Me encantaría probar el parapente.",
+      "back": "I would love to have a go at paragliding!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Conversamos sobre los viejos tiempos.",
+      "back": "We had a nice chat about the good old days.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Perkins, tenemos que hablar.",
+      "back": "Perkins, we need to have a chat.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Por qué no hablamos? Te sentirás mucho mejor después.",
+      "back": "Why don't we have a chat? You'll feel much better about it after that.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Puedo hablar contigo? Es bastante urgente.",
+      "back": "Can I have a word with you? It's rather urgent.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-063",
+      "front": "Hablé con él sobre su desagradable olor corporal.",
+      "back": "I had a word with him about his body odour.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-064",
+      "front": "Pero Recursos Humanos le iba a hablar sobre su desagradable olor corporal.",
+      "back": "But HR was going to have a word with him about his BO.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "Tuve unas palabras con él acerca de su comportamiento en la fiesta de lanzamiento.",
+      "back": "I had words with him about his behaviour at the launch party.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "Tuve unas palabras con ella acerca de su comportamiento en la fiesta.",
+      "back": "I had words with her about her behaviour at the party.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Voy a tener que tener unas palabras con ellas.",
+      "back": "I'm going to have to have words with them.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "Ella se metió conmigo por llegar tarde.",
+      "back": "She had a go at me for being late.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "Me metí con ella por no decirme la hora correcta.",
+      "back": "I had a go at her for not telling me the right time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "Mi jefa se metió con ellos por perder el tiempo.",
+      "back": "My boss had a go at them for wasting time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "¿Qué llevas puesto?",
+      "back": "What have you got on?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-072",
+      "front": "Llevas el jersey puesto a revés.",
+      "back": "You've got your jumper on back to front / backwards.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-073",
+      "front": "El hombre llevaba puesta una camisa azul y una corbata roja.",
+      "back": "The man had a blue shirt and a red tie on.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "¡Él te está tomando el pelo!",
+      "back": "He's having you on!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Me estás tomando el pelo!",
+      "back": "You're having me on!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Ella siempre le está tomando el pelo a la gente!",
+      "back": "She's always having people on!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Por qué no invitamos a Jane a comer el sábado?",
+      "back": "Why don't we have Jane over for lunch on Saturday?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-078",
+      "front": "Vinieron Mark y Andrea a cenar el domingo.",
+      "back": "We had Mark and Andrea over for dinner on Sunday.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Tuvisteis visita el fin de semana?",
+      "back": "Did you have anyone round at the weekend?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "Él la tiene tomada contigo.",
+      "back": "He's really got it in for you.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "Él la tiene tomada conmigo desde hace mucho tiempo.",
+      "back": "He's had it in for me for ages.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "No sé por qué él la tiene tomada contigo.",
+      "back": "I don't know why he's got it in for you.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "¿Me devuelves mi bolígrafo, por favor?",
+      "back": "Can I have my pen back, please?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Me devuelves aquel CD que te presté, por favor?",
+      "back": "Can I have that CD I lent you back, please?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "¿Me devuelves las llaves de mi coche, por favor?",
+      "back": "Can I have my car keys back, please?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "Se rumorea que el primer ministro va a dimitir.",
+      "back": "Rumour has it that the prime minister is going to resign.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-087",
+      "front": "Corre el rumor de que los jefes van a comprar la empresa.",
+      "back": "Rumour has it that there's going to be a buy-out.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-088",
+      "front": "Se rumorea que va a haber una escasez de gasolina, así que comprad provisiones mientras podáis.",
+      "back": "Rumour has it that there's going to be a petrol shortage, so buy in supplies while you can.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "Este televisor no da para más. Lo voy a tirar.",
+      "back": "This TV's had it. I'm going to chuck it out.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "Si vuelves a hacer eso, estás arreglado.",
+      "back": "If you do that again, you've had it.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-091",
+      "front": "Si te pilla el jefe, ¡estás arreglada!",
+      "back": "If the boss catches you, you've had it!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-092",
+      "front": "Estoy hasta las narices de ella. No para de hablar.",
+      "back": "I've had it up to here with her. She goes on and on and on and on.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-093",
+      "front": "Estoy hasta las narices de mi banco. Me cobran constantemente por cosas que no he pedido.",
+      "back": "I've had it up to here with my bank. They're constantly charging me for things I didn't ask for.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-094",
+      "front": "No van a estropear mi cumpleaños. ¡No lo pienso tolerar!",
+      "back": "They're not going to ruin my birthday. I won't have it!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-095",
+      "front": "No pienso tolerar que ella me diga lo que tengo que hacer.",
+      "back": "I won't have her telling me what to do!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-096",
+      "front": "No pienso consentir que ellos estropeen las cosas.",
+      "back": "I won't have them spoiling things!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-097",
+      "front": "Os quedan cinco minutos.",
+      "back": "You have five minutes left.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-098",
+      "front": "Sólo me queda un cartón de leche. Tendré que ir a comprar más.",
+      "back": "I only have one carton of milk left. I'll have to go and get some more.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-099",
+      "front": "No nos queda mucha agua mineral. ¿Puedes ir a comprar más?",
+      "back": "We don't have much mineral water left. Can you go and get some more?",
+      "sourcePage": 75
+    }
+  ]
+}
