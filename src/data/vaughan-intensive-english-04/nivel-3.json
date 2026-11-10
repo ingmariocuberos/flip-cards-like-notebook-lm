@@ -1,0 +1,622 @@
+{
+  "bookId": "vaughan-intensive-english-04",
+  "bookTitle": "Vaughan Intensive English — Libro 4",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Hice el examen sin darme cuenta de cuánto tiempo había tardado.",
+      "back": "I did the exam without realising how long I had taken.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Él me hizo mucho daño sin que me diera cuenta.",
+      "back": "He did a lot of damage to me without me realising it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Cómo han podido hacer eso sin que os dieseis cuenta?",
+      "back": "How could they have done that without you realising it?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Lo ha vuelto a hacer? Él siempre ofende a la gente sin querer.",
+      "back": "Has he done it again? He always offends people without meaning to.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Lo siento mucho, lo hice sin querer.",
+      "back": "I'm really sorry, I did it without meaning to.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Siempre que él hace algo mal, dice que lo ha hecho sin querer.",
+      "back": "Whenever he does something bad he always says that he has done it without meaning to.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Por qué lo hiciste sin prestar atención al árbitro?",
+      "back": "Why did you do it without paying attention to the referee?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Ella siempre friega los platos sin prestar ninguna atención a las manchas en los platos.",
+      "back": "She always does the dishes without paying any attention to the actual stains on the plates.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Él hace lo que quiere sin prestar atención alguna a los demás.",
+      "back": "He does whatever he wants without paying any attention to the others.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Para ser sincero, lo hice sin tener presente los efectos secundarios.",
+      "back": "To be honest, I did it without taking into account the side effects.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Por qué siempre haces lo que te da la gana sin tener en cuenta los sentimientos de los demás?",
+      "back": "Why do you always do whatever you want without taking into account the feelings of others?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Él planchó sin tener en cuenta que los materiales de su ropa eran diferentes.",
+      "back": "He did the ironing without taking into account the different materials of his clothes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¡A estas alturas, deberías ser capaz de hacerlo sin pensar!",
+      "back": "You should be able to do it without thinking by now.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Por qué siempre hacéis estas cosas sin pensar en quién puede sufrir las consecuencias?",
+      "back": "Why do you always do these things without thinking about who might suffer the consequences?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Organizamos la fiesta sin pensar en quién iba a cocinar.",
+      "back": "We arranged the party without thinking about who was going to do the cooking.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Recuerda enviarme la información por correo electrónico.",
+      "back": "Do remember to send me the information via email.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Recuerda saludarles de mi parte.",
+      "back": "Do remember to say hello to them for me.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Recuerda apagar el gas y todas las luces antes de que os vayáis.",
+      "back": "Do remember to turn off the gas and all the lights before you leave.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Intenta escribirnos de vez en cuando.",
+      "back": "Do try and write to us every once in a while.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Si nadie contesta, intenta volver a llamarnos más tarde.",
+      "back": "If no one answers, do try and call us back again later.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Intenta animarte, ¡no es para tanto!",
+      "back": "Do try and cheer up; it's not that bad!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Asegúrate de cerrar todas las puertas con llave.",
+      "back": "Do make sure you lock all the doors.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Asegúrense de tener un seguro de viaje antes de que se vayan de vacaciones.",
+      "back": "Do make sure you have travel insurance before you go on holiday.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Asegúrate de tomar las precauciones adecuadas.",
+      "back": "Do make sure you take the necessary precautions.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "¡Entre!",
+      "back": "Do come in!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¡Tome asiento!",
+      "back": "Do have a seat!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Sírvase más comida.",
+      "back": "Do help yourself to more food.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Silencio, por favor!",
+      "back": "Do be quiet, please!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Cállese de una vez, ¿quieres?",
+      "back": "Do shut up for once, will you?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Iros y dejadnos en paz.",
+      "back": "Do go away and leave us alone.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Me quedo en casa esta noche para arreglarme el pelo.",
+      "back": "I'm staying in tonight to do my hair.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Sabes dónde se corta el pelo ella?",
+      "back": "Do you know where she gets her hair done?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Me puedes arreglar el pelo?",
+      "back": "Could you do my hair for me?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "No me da la gana lavarme los dientes; me voy directo a la cama.",
+      "back": "I can't be bothered to do my teeth; I'm going straight to bed.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Se ha arreglado él los dientes?",
+      "back": "Has he had his teeth done?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Debería haberme arreglado los dientes cuando era niño.",
+      "back": "I should have had my teeth done when I was a child.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Quién te va a arreglar las uñas el día de tu boda?",
+      "back": "Who is going to do your nails on your wedding day?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Me vendría bien que alguien me arreglara las uñas.",
+      "back": "I could do with someone doing my nails.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Te arreglas tus propias uñas?",
+      "back": "Do you do your own nails?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "No entres, estoy depilándome las piernas.",
+      "back": "Don't come in! I'm doing my legs.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Con qué frecuencia tienes que depilarte las piernas?",
+      "back": "How often do you have to do your legs?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Cómo te haces la depilación: con cera o con una cuchilla?",
+      "back": "How do you usually do your legs: waxing or shaving?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Crees que estas actrices se maquillan ellas mismas?",
+      "back": "Do you think these actresses do their own make-up?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¡Venga, date prisa! Todavía tienes que maquillarte.",
+      "back": "Come on, hurry up! You still have to do your make-up.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Me puedes maquillar? Lo haces mucho mejor que yo.",
+      "back": "Can you do my make-up? You do it much better than I do.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Tapones de los oídos.",
+      "back": "Earplugs.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "Gafas para nadar.",
+      "back": "Goggles.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "Palo de golf.",
+      "back": "Golf club.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "Espinilleras.",
+      "back": "Shin pads.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "Casco.",
+      "back": "Helmet.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "Silla de montar.",
+      "back": "Saddle.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "Traje de neopreno.",
+      "back": "Wetsuit.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-053",
+      "front": "Pesas.",
+      "back": "Dumbbells.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-054",
+      "front": "Cronómetro.",
+      "back": "Stopwatch.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-055",
+      "front": "Disco para el hockey.",
+      "back": "Puck.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-056",
+      "front": "Es esencial que estudies todos los días.",
+      "back": "It's essential that you study every day.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-057",
+      "front": "Es esencial que ella estudie todos los días.",
+      "back": "It's essential that she study every day.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-058",
+      "front": "Ya es hora de que hagas tus deberes de inglés.",
+      "back": "It's time you did your English homework.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Ya es hora de que hagas algo con tu vida.",
+      "back": "It's time you did something with your life.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Ya es hora de que hagas algo de trabajo.",
+      "back": "It's time you did some work.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "Ya es hora de que hagas algo acerca de ese olor.",
+      "back": "It's about time you did something about that smell.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "Ya es hora de que hagas algo acerca de esa gotera.",
+      "back": "It's about time you did something about that leak.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-063",
+      "front": "Ya es hora de que hagas algo acerca de ese desorden.",
+      "back": "It's about time you did something about that mess.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-064",
+      "front": "¡Ya es hora de que te arregles las uñas!",
+      "back": "It's high time you did your nails!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "¡Ya es hora de que te arregles el pelo!",
+      "back": "It's high time you did your hair!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "¡Ya es hora de que te depiles las piernas!",
+      "back": "It's high time you did your legs!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Hice todo lo que me pediste en muy poco tiempo.",
+      "back": "I did everything you asked me to do in no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "Hice mis deberes de inglés en muy poco tiempo.",
+      "back": "I did my English homework in no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "Él me arregló el pelo en muy poco tiempo.",
+      "back": "He did my hair in no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "Hice lo que me encargaste en un santiamén.",
+      "back": "I did what you told me to do in next to no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Fregamos todos los platos en un santiamén.",
+      "back": "We did all the dishes in next to no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-072",
+      "front": "Hemos hecho esta página en un santiamén.",
+      "back": "We've done this page in next to no time.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-073",
+      "front": "La oposición dice que suprimirá todos los impuestos impopulares.",
+      "back": "The opposition says that it'll do away with all unpopular taxes.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "Si pudiéramos acabar con parte de este papeleo, seríamos mucho más productivos.",
+      "back": "If we could do away with some of this paperwork, we'd be much more productive.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "El hecho de que sea impopular no nos da el derecho de abolirlo.",
+      "back": "Just because it's not popular, it doesn't mean that we can do away with it.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "Nuestro próximo proyecto es arreglar el salón de estar.",
+      "back": "Our next project is to do up the living room.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "Conozco a alguien que se gana la vida reformando casas.",
+      "back": "I know someone who does up houses for a living.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-078",
+      "front": "¿Cuánto tiempo tardaría en reformar el piso entero?",
+      "back": "How long would it take to do up the entire flat?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Os vendría bien un par de manos extra por aquí?",
+      "back": "Could you do with an extra pair of hands around here?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "Me vendría muy bien una bebida grande y fría después de esto.",
+      "back": "I could really do with a nice long cold drink after this.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "A estas paredes no les vendría mal una mano de pintura.",
+      "back": "These walls could do with a lick of paint.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "No necesito tus comentarios negativos.",
+      "back": "I could do without your negative comments.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "Nos podríamos haber ahorrado el retraso de cinco horas en Heathrow.",
+      "back": "We could have done without the five-hour delay at Heathrow.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "Realmente lo que me sobra es todo este ruido justo cuando estoy intentando dormir.",
+      "back": "I really could do without all this noise just when I'm trying to get to sleep.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "Flexiona las rodillas al levantarlo, si no te harás daño en la espalda.",
+      "back": "Bend your knees when you lift it, otherwise you'll do your back in.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Cómo te hiciste daño en la espalda?",
+      "back": "How did you do your back in?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-087",
+      "front": "Me hice daño en la espalda trabajando en el jardín el fin de semana pasado.",
+      "back": "I did my back in doing the gardening last weekend.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-088",
+      "front": "Este tipo de música no me dice nada.",
+      "back": "This type of music doesn't do anything for me.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "¿A ti te dice algo?",
+      "back": "Does it do anything for you?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "A mí no me dice nada en absoluto tampoco.",
+      "back": "It does absolutely nothing for me either!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-091",
+      "front": "Por lo visto, el otro coche iba a más de 100 mph cuando ocurrió el accidente.",
+      "back": "Apparently, the other car was doing over 100mph when the accident occurred.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-092",
+      "front": "Sólo iba a 40 mph cuando me pararon.",
+      "back": "I was only doing 40mph when they stopped me.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-093",
+      "front": "El modelo nuevo puede ir a más de 200 mph.",
+      "back": "The new model can do over 200mph.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-094",
+      "front": "¡Esto es la gota que colma el vaso! ¡Me voy!",
+      "back": "That does it! I'm leaving!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-095",
+      "front": "¡Basta ya! ¡Voy a decirles que bajen el volumen de la música!",
+      "back": "That does it! I'm going to tell them to turn the music down!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-096",
+      "front": "¡Esto es la gota que colma el vaso! ¡Estoy hasta las narices de tu actitud!",
+      "back": "That does it! I've had it up to here with your attitude.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-097",
+      "front": "Creo que dos botellas de aceite de oliva serán suficientes.",
+      "back": "I think that two bottles of olive oil will do.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-098",
+      "front": "¿Servirán estos guantes?",
+      "back": "Will these gloves do?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-099",
+      "front": "Me dijeron que cinco cajas de cerillas serían suficientes.",
+      "back": "They told me that five boxes of matches will do.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-100",
+      "front": "¡Cómprale flores! Eso funcionaría.",
+      "back": "Buy her some flowers; that should do it!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-101",
+      "front": "Si no funciona el de media talla, el de talla grande funcionará.",
+      "back": "If the half-size one doesn't work, the full-size one should do it.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-102",
+      "front": "Creo que 100 euros bastarán.",
+      "back": "I think 100€ should do it.",
+      "sourcePage": 75
+    }
+  ]
+}

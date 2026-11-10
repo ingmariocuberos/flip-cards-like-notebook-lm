@@ -7,7 +7,7 @@ Fuente local: `sources/english/Libro NN.pdf`. Los 20 PDF se descomprimieron del 
 | 01 | 88 | Publicado | 113 / 119 / 121 | `b5008e3` |
 | 02 | 87 | Publicado | 124 / 104 / 113 | `Add Vaughan English book 2 flashcards by level` |
 | 03 | 86 | Publicado | 111 / 110 / 99 | `Add Vaughan English book 3 flashcards by level` |
-| 04 | 86 | Pendiente | — | — |
+| 04 | 86 | Publicado | 98 / 101 / 102 | `Add Vaughan English book 4 flashcards by level` |
 | 05 | 86 | Pendiente | — | — |
 | 06 | 91 | Pendiente | — | — |
 | 07 | 84 | Pendiente | — | — |

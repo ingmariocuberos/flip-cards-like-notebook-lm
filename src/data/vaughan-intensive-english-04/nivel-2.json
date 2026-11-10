@@ -1,0 +1,616 @@
+{
+  "bookId": "vaughan-intensive-english-04",
+  "bookTitle": "Vaughan Intensive English — Libro 4",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Él hizo las tareas domésticas la semana pasada.",
+      "back": "He did the housework last week.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Hice las tareas domésticas en Navidad.",
+      "back": "I did the housework at Christmas.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Hice algunas de las tareas domésticas antes de ayer.",
+      "back": "I did some housework the day before yesterday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Él hizo sus deberes en cuanto llegó a casa.",
+      "back": "He did his homework as soon as he got home.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Hice mis deberes en cuanto llegué a casa.",
+      "back": "I did my homework as soon as I got home.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Hicieron sus deberes en cuanto llegaron a casa.",
+      "back": "They did their homework as soon as they got home.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Intenté hacer algo de deporte todos los días de la semana pasada.",
+      "back": "I tried to do some exercise every day last week.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "No hice nada de deporte ayer.",
+      "back": "I didn't do any exercise at all yesterday.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Por qué no hiciste nada de deporte ayer?",
+      "back": "Why didn't you do any exercise yesterday?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Tuve que fregar anoche.",
+      "back": "I had to do the dishes last night.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Por qué fregaste?",
+      "back": "Why did you do the dishes?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Nosotros no fregamos.",
+      "back": "We didn't do the dishes.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Jack suele hacer la compra los jueves, pero la semana pasada hizo la compra el viernes.",
+      "back": "Jack normally does the shopping every Thursday, but last week he did the shopping on Friday.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Fui a hacer la compra en cuanto terminé el trabajo.",
+      "back": "I went and did the shopping as soon as I finished work.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Cuándo hicisteis la compra?",
+      "back": "When did you do the shopping?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Tenemos que hacer algo al respecto.",
+      "back": "We need to do something about it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Hagamos algo al respecto.",
+      "back": "Let's do something about it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Hicieron algo al respecto antes de ayer.",
+      "back": "They did something about it the day before yesterday.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Él no hizo nada al respecto.",
+      "back": "He did nothing about it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Ellos no harán nada al respecto.",
+      "back": "They will do nothing about it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Estoy seguro de que ella no hará nada al respecto.",
+      "back": "I'm sure she'll do nothing about it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "No sé por qué no hicieron nada al respecto.",
+      "back": "I don't know why they didn't do anything about it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella veía que él se estaba ahogando, pero no hizo nada al respecto.",
+      "back": "She saw that he was drowning, but she didn't do anything about it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Él sabía que ella tenía muchísimos problemas económicos, pero no hizo nada al respecto.",
+      "back": "He knew she had loads of financial worries, but he didn't do anything about it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Hiciste algo con respecto a la gotera?",
+      "back": "Did you do anything about the leak?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Hiciste algo con respecto a la humedad?",
+      "back": "Did you do anything about the damp?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Hiciste algo con respecto a la corriente de aire?",
+      "back": "Did you do anything about the draught?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Por qué no hiciste nada con respecto a la gotera?",
+      "back": "Why didn't you do anything about the leak?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Por qué no hiciste nada con respecto a la humedad?",
+      "back": "Why didn't you do anything about the damp?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Por qué no hiciste nada con respecto a la corriente de aire?",
+      "back": "Why didn't you do anything about the draught?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Para qué hiciste eso?",
+      "back": "What did you do that for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Para qué fregaron?",
+      "back": "What did they do the dishes for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Para qué planchaste?",
+      "back": "What did you do the ironing for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Para quién hicieron eso?",
+      "back": "Who did they do that for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Para quién hiciste eso?",
+      "back": "Who did you do that for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Para quién hizo él aquello?",
+      "back": "Who did he do that for?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Con quién fregaste?",
+      "back": "Who did you do the dishes with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Con quién hizo ella las tareas domésticas?",
+      "back": "Who did she do the housework with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Con quién hicieron aquello?",
+      "back": "Who did they do that with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Sobre qué hizo él su artículo?",
+      "back": "What did he do his article on?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Sobre qué hizo ella su discurso?",
+      "back": "What did she do her speech on?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Sobre qué hicieron su presentación?",
+      "back": "What did they do their presentation on?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Con qué quitaste el polvo?",
+      "back": "What did you do the dusting with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Con qué lo hizo el hombre?",
+      "back": "What did the man do it with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Con qué lo hiciste?",
+      "back": "What did you do it with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Azafato.",
+      "back": "Air host.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Azafata.",
+      "back": "Air hostess.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Fontanero.",
+      "back": "Plumber.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Carnicero.",
+      "back": "Butcher.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Sastre.",
+      "back": "Tailor.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Cirujano.",
+      "back": "Surgeon.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Zapatero.",
+      "back": "Cobbler.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-053",
+      "front": "Empleado de banco.",
+      "back": "Bank clerk.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-054",
+      "front": "Panadero.",
+      "back": "Baker.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-055",
+      "front": "Farmacéutico.",
+      "back": "Chemist.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-056",
+      "front": "Cocinero.",
+      "back": "Cook.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-057",
+      "front": "Hago ejercicios todos los días desde marzo.",
+      "back": "I've done exercise every day since March.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "He hecho muchas cosas interesantes desde marzo.",
+      "back": "I've done many interesting things since March.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "He fregado todos los días desde marzo.",
+      "back": "I've done the dishes every day since March.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "He hecho muchísimas cosas desde el lunes.",
+      "back": "I've done loads of things since Monday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "Él ha hecho varias cosas interesantes desde el lunes.",
+      "back": "He's done several interesting things since Monday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Han hecho mucho en el jardín desde el lunes.",
+      "back": "They've done a lot in the garden since Monday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "Él ha hecho varias cosas interesantes desde que llegó a España.",
+      "back": "He's done several interesting things since he came to Spain.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "He hecho varias presentaciones desde que vine a trabajar en esta oficina.",
+      "back": "I've done several presentations since I came to work at this office.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "Lo has hecho varias veces desde que llegaste aquí.",
+      "back": "You've done it several times since you got here.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "No has hecho nada desde que llegaste.",
+      "back": "You've done nothing since you got here.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "Él no ha hecho nada desde ayer.",
+      "back": "He's done nothing since yesterday.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "No han hecho nada desde que llegaron.",
+      "back": "They've done nothing since they got here.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "No he hecho nada que merezca la pena desde que llegué.",
+      "back": "I've done nothing worthwhile since I got here.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "Él no ha hecho nada que merezca la pena desde junio.",
+      "back": "He's done nothing worthwhile since June.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "No han hecho nada que merezca la pena desde que llegaron.",
+      "back": "They've done nothing worthwhile since they got here.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "No he hecho nada desde el martes.",
+      "back": "I haven't done anything since Tuesday.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-073",
+      "front": "Él no ha hecho nada desde que llegó.",
+      "back": "He hasn't done anything since he got here.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-074",
+      "front": "Ella no ha hecho nada en toda la semana.",
+      "back": "She hasn't done anything all week.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "No he hecho nada que merezca la pena en toda la semana.",
+      "back": "I haven't done anything worthwhile all week.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "No han hecho nada que merezca la pena en todo el mes.",
+      "back": "They haven't done anything worthwhile all month.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "No hemos hecho nada que merezca la pena en todo el año.",
+      "back": "We haven't done anything worthwhile all year.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "No he hecho nada interesante desde 1999.",
+      "back": "I haven't done anything interesting since 1999.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "Él no ha hecho nada que merezca la pena desde 1997.",
+      "back": "He hasn't done anything worthwhile since 1997.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-080",
+      "front": "No le hemos hecho mucho a la casa desde 1993.",
+      "back": "We haven't done much to the house since 1993.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "No voy a Francia desde el año 2000.",
+      "back": "I haven't been to France since the year 2000.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "Él no toma café desde el año 2000.",
+      "back": "He hasn't had any coffee since the year 2000.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Ella no compra nada de joyería desde el año 2000.",
+      "back": "She hasn't bought any jewelry since the year 2000.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "No he tenido que ir allí desde el 2009.",
+      "back": "I haven't had to go there since 2009.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "No hacemos deporte desde el 2010.",
+      "back": "We haven't done any exercise since 2010.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Ella no ha hecho nada interesante desde el 2006.",
+      "back": "She hasn't done anything interesting since 2006.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Has hecho tus deberes?",
+      "back": "Have you done your homework?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Has fregado?",
+      "back": "Have you done the dishes?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Has hecho las tareas domésticas?",
+      "back": "Have you done the housework?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Ya lo has hecho?",
+      "back": "Have you done it yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-091",
+      "front": "¿Ya lo ha hecho él?",
+      "back": "Has he done it yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Ya lo han hecho?",
+      "back": "Have they done it yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-093",
+      "front": "¿Por qué no lo has hecho?",
+      "back": "Why haven't you done it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-094",
+      "front": "¿Por qué no lo has hecho todavía?",
+      "back": "Why haven't you done it yet?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-095",
+      "front": "¿Por qué no has fregado todavía?",
+      "back": "Why haven't you done the dishes yet?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-096",
+      "front": "¿Por qué no ha hecho ella sus deberes aún?",
+      "back": "Why hasn't she done her homework yet?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-097",
+      "front": "¿Por qué no lo ha hecho aún?",
+      "back": "Why hasn't she done it yet?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-098",
+      "front": "¿Por qué no ha hecho nada al respecto?",
+      "back": "Why hasn't she done anything about it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-099",
+      "front": "¿Por qué no ha hecho él nada al respecto?",
+      "back": "Why hasn't he done anything about it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-100",
+      "front": "¿Por qué no ha hecho nada desde el lunes?",
+      "back": "Why hasn't he done anything since Monday?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-101",
+      "front": "¿Por qué no ha hecho la compra todavía?",
+      "back": "Why hasn't he done the shopping yet?",
+      "sourcePage": 47
+    }
+  ]
+}

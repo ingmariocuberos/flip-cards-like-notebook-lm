@@ -1,0 +1,598 @@
+{
+  "bookId": "vaughan-intensive-english-04",
+  "bookTitle": "Vaughan Intensive English — Libro 4",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Lo hago todos los días.",
+      "back": "I do it every day.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Yo lo hago a veces.",
+      "back": "I sometimes do it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Siempre lo hago.",
+      "back": "I always do it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Lo hago una vez a la semana.",
+      "back": "I do it once a week.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Ellas lo hacen una vez a la semana.",
+      "back": "They do it once a week.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Nosotros lo hacemos una vez a la semana.",
+      "back": "We do it once a week.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Lo suelo hacer los martes.",
+      "back": "I usually do it on Tuesdays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Lo suelen hacer los miércoles.",
+      "back": "They usually do it on Wednesdays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Lo solemos hacer por la mañana.",
+      "back": "We usually do it in the morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Él suele hacerlo una vez a la semana.",
+      "back": "He usually does it once a week.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella suele hacerlo los lunes.",
+      "back": "She usually does it on Mondays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Linda lo suele hacer los fines de semana.",
+      "back": "Linda usually does it at the weekend.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Hazlo ahora!",
+      "back": "Do it now!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Hágalo ahora mismo!",
+      "back": "Do it right now!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No hago mucho los martes.",
+      "back": "I don't do very much on Tuesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "No hago mucho los miércoles tampoco.",
+      "back": "I don't do very much on Wednesdays either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No hago mucho el fin de semana.",
+      "back": "I don't do very much at the weekend.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No suelo hacer mucho los lunes.",
+      "back": "I don't usually do very much on Mondays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No suelo fregar.",
+      "back": "I don't usually do the dishes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No suelo hacer las tareas domésticas.",
+      "back": "I don't usually do the housework.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Ella no friega los jueves.",
+      "back": "She doesn't do the dishes on Thursdays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Él no hace mucho los jueves.",
+      "back": "He doesn't do very much on Thursdays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella no lo hace los jueves.",
+      "back": "She doesn't do it on Thursdays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Él no suele hacer mucho por la tarde y ella tampoco hace mucho por la tarde.",
+      "back": "He doesn't usually do very much in the afternoon and she doesn't do very much in the afternoon either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No suelo hacerlo por la tarde y ella tampoco suele hacerlo por la tarde.",
+      "back": "I don't do it in the afternoon and she doesn't do it in the afternoon either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "No hacen mucho por la tarde.",
+      "back": "They don't do very much in the afternoon.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡No lo hagas!",
+      "back": "Don't do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡No lo hagáis ahora!",
+      "back": "Don't do it now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡No lo hagas ahora mismo!",
+      "back": "Don't do it right now!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Friegas todos los días?",
+      "back": "Do you do the dishes every day?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Haces las tareas domésticas el fin de semana?",
+      "back": "Do you do the housework at the weekend?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Lo haces por la mañana?",
+      "back": "Do you do it in the morning?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Haces las tareas domésticas el jueves por la tarde?",
+      "back": "Do you do the housework on Thursday afternoon?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Siempre lo haces los jueves por la mañana?",
+      "back": "Do you always do it on Thursday morning?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Suele ella fregar el jueves por la tarde?",
+      "back": "Does she usually do the dishes on Thursday afternoon?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Cuándo haces la compra?",
+      "back": "When do you do the shopping?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Cuándo suele hacer él la compra?",
+      "back": "When does he usually do the shopping?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Cuándo suelen hacer la compra?",
+      "back": "When do they usually do the shopping?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Qué haces los miércoles por la mañana?",
+      "back": "What do you do on Wednesday mornings?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Qué sueles hacer los fines de semana?",
+      "back": "What do you usually do at the weekend?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿A qué te dedicas?",
+      "back": "What do you do?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Qué hace ella por la mañana?",
+      "back": "What does she do in the morning?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Qué hace ella por la tarde?",
+      "back": "What does she do in the afternoon?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Qué hace ella los lunes por la mañana?",
+      "back": "What does she do on Monday mornings?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "La una en punto.",
+      "back": "One o'clock.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-046",
+      "front": "La una y cuarto.",
+      "back": "A quarter past one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "La una y media.",
+      "back": "Half past one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "La una menos cuarto.",
+      "back": "A quarter to one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "La una y cinco.",
+      "back": "Five past one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "La una y diez.",
+      "back": "Ten past one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "La una y veinte.",
+      "back": "Twenty past one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "La una menos veinte.",
+      "back": "Twenty to one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-053",
+      "front": "La una menos diez.",
+      "back": "Ten to one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-054",
+      "front": "La una menos cinco.",
+      "back": "Five to one.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-055",
+      "front": "Lo estoy haciendo para mi jefe.",
+      "back": "I'm doing it for my boss.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-056",
+      "front": "Estoy fregando para mi madre.",
+      "back": "I'm doing the dishes for my mother.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-057",
+      "front": "Estoy haciendo la compra para mi hermana.",
+      "back": "I'm doing the shopping for my sister.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-058",
+      "front": "Lo estoy haciendo para él.",
+      "back": "I'm doing it for him.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-059",
+      "front": "Se lo hago la semana que viene.",
+      "back": "I'm doing it for him next week.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-060",
+      "front": "Se lo hago el lunes.",
+      "back": "I'm doing it for him on Monday.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-061",
+      "front": "Él lo está haciendo para ella.",
+      "back": "He's doing it for her.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-062",
+      "front": "Ellos le están haciendo las tareas domésticas a ella.",
+      "back": "They're doing the housework for her.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-063",
+      "front": "Se lo vamos a hacer la semana que viene.",
+      "back": "We're doing it for her next week.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-064",
+      "front": "Él lo está haciendo para su jefe.",
+      "back": "He's doing it for his boss.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-065",
+      "front": "Mi jefe lo está haciendo para su jefe.",
+      "back": "My boss is doing it for his boss.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-066",
+      "front": "Él lo va a hacer para su madre la semana que viene.",
+      "back": "He's doing it for his mother next week.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-067",
+      "front": "Ella me lo está haciendo.",
+      "back": "She's doing it for me.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "Ellos me lo van a hacer la semana que viene.",
+      "back": "They're doing it for me next week.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "Mi madre me lo va a hacer el jueves.",
+      "back": "My mother's doing it for me on Thursday.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "No lo estoy haciendo para él.",
+      "back": "I'm not doing it for him.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-071",
+      "front": "No lo estoy haciendo para ella.",
+      "back": "I'm not doing it for her.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-072",
+      "front": "No lo voy a hacer hoy.",
+      "back": "I'm not doing it today.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-073",
+      "front": "Ella no lo está haciendo para su madre.",
+      "back": "She's not doing it for her mother.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-074",
+      "front": "Su madre (de ella) no lo está haciendo para mí.",
+      "back": "Her mother's not doing it for me.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-075",
+      "front": "Mi madre no lo está haciendo para su madre (de ella).",
+      "back": "My mother's not doing it for her mother.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-076",
+      "front": "Él no está haciendo sus deberes ahora mismo.",
+      "back": "He isn't doing his homework right now.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-077",
+      "front": "Ella no está haciendo sus deberes ahora mismo.",
+      "back": "She isn't doing her homework right now.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-078",
+      "front": "Su madre (de ella) no está fregando ahora mismo.",
+      "back": "Her mother isn't doing the dishes right now.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-079",
+      "front": "No estoy haciendo nada ahora mismo.",
+      "back": "I'm not doing anything right now.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-080",
+      "front": "No vamos a hacer nada el fin de semana.",
+      "back": "We're not doing anything at the weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-081",
+      "front": "No van a hacer nada el fin de semana.",
+      "back": "They're not doing anything on the weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-082",
+      "front": "No voy a hacer nada este fin de semana.",
+      "back": "I'm not doing anything this weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "Su madre (de él) no va a hacer nada este fin de semana.",
+      "back": "His mother isn't doing anything this weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "Su madre (de ella) no va a hacer nada este fin de semana.",
+      "back": "Her mother isn't doing anything this weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Qué haces?",
+      "back": "What are you doing?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Qué hace él?",
+      "back": "What's he doing?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Qué estás haciendo?",
+      "back": "What are you doing?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Qué estamos haciendo?",
+      "back": "What are we doing?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Qué están haciendo?",
+      "back": "What are they doing?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Qué haces en este momento?",
+      "back": "What are you doing at the moment?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-091",
+      "front": "¿Qué está haciendo él en este momento?",
+      "back": "What's he doing at the moment?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-092",
+      "front": "¿Qué hacen ellos en este momento?",
+      "back": "What are they doing at the moment?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-093",
+      "front": "¿Vas a hacer algo el fin de semana?",
+      "back": "Are you doing anything at the weekend?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-094",
+      "front": "¿Estás haciendo algo ahora mismo?",
+      "back": "Are you doing anything right now?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-095",
+      "front": "¿Vas a hacer algo el jueves?",
+      "back": "Are you doing anything on Thursday?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-096",
+      "front": "¿Qué haces este jueves?",
+      "back": "What are you doing this Thursday?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-097",
+      "front": "¿Haces algo este jueves?",
+      "back": "Are you doing anything this Thursday?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-098",
+      "front": "¿Ella va a hacer algo este jueves?",
+      "back": "Is she doing anything this Thursday?",
+      "sourcePage": 19
+    }
+  ]
+}
