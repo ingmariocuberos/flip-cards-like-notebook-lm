@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-06",
+  "bookTitle": "Vaughan Intensive English — Libro 6",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Ella habla con su madre todos los días.",
+      "back": "She talks to her mother every day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-002",
+      "front": "Suelo hablar con él en el trabajo.",
+      "back": "I usually talk to him at work.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Háblame!",
+      "back": "Talk to me!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella me habla cada mañana.",
+      "back": "She talks to me every morning.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-005",
+      "front": "Hablo con ella cada mañana en el autobús.",
+      "back": "I talk to her every morning on the bus.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-006",
+      "front": "Ella habla con él cada mañana en el tren.",
+      "back": "She talks to him every morning on the train.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-007",
+      "front": "Siempre hablamos del trabajo en el autobús.",
+      "back": "We always talk about work on the bus.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-008",
+      "front": "Siempre hablamos de fútbol en la oficina.",
+      "back": "We always talk about football at the office.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-009",
+      "front": "Él habla de ella todas las mañanas.",
+      "back": "He talks about her every morning.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-010",
+      "front": "Hablo con mi jefa cada mañana.",
+      "back": "I speak to my boss every morning.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-011",
+      "front": "Mi jefa habla con su jefe cada mañana también.",
+      "back": "My boss speaks to her boss every morning too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-012",
+      "front": "Su jefe (de ella) suele hablar con su jefe (de él) cada mañana también.",
+      "back": "Her boss usually speaks to his boss every morning too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-013",
+      "front": "Suelo hablar en inglés con mi madre, pero suelo hablar en francés con mi padre.",
+      "back": "I usually speak English with my mother, but I usually speak French with my father.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-014",
+      "front": "Jack suele hablar en inglés con su padre, pero suele hablar en castellano con su madre.",
+      "back": "Jack usually speaks English with his father, but he usually speaks Spanish with his mother.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-015",
+      "front": "Anna suele hablar en inglés con su padre, pero suele hablar en portugués con su madre.",
+      "back": "Anna usually speaks English with her father, but she usually speaks Portuguese with her mother.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-016",
+      "front": "Ella no habla bien inglés.",
+      "back": "She doesn't speak English very well.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-017",
+      "front": "Ellas no hablan bien inglés tampoco.",
+      "back": "They don't speak English very well either.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-018",
+      "front": "No hablo bien francés.",
+      "back": "I don't speak French very well.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-019",
+      "front": "Él no habla bien inglés.",
+      "back": "He doesn't speak good English.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-020",
+      "front": "No hablamos bien alemán.",
+      "back": "We don't speak good German.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-021",
+      "front": "Ellos tampoco hablan bien alemán.",
+      "back": "They don't speak good German either.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-022",
+      "front": "Su hijo (de ellos) no habla bien el francés.",
+      "back": "Their son doesn't speak French very well.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-023",
+      "front": "Su hijo (de ellos) tampoco habla bien el inglés.",
+      "back": "Their son doesn't speak English very well either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-024",
+      "front": "Y su hijo (de ellos) tampoco habla bien el italiano.",
+      "back": "And their son doesn't speak good Italian either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-025",
+      "front": "La madre de Ann no habla muy rápido.",
+      "back": "Ann's mother doesn't talk very fast.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-026",
+      "front": "La amiga de su madre (de ella) tampoco habla muy rápido.",
+      "back": "Her mother's friend doesn't talk very fast either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-027",
+      "front": "El hermano de su madre (de ella) tampoco habla muy rápido.",
+      "back": "Her mother's brother doesn't talk very fast either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-028",
+      "front": "Su hijo (de ellos) no habla mucho.",
+      "back": "Their son doesn't talk very much.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-029",
+      "front": "El amigo de su hijo (de ellos) tampoco habla mucho.",
+      "back": "Their son's friend doesn't talk very much either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-030",
+      "front": "El profesor de su hijo (de ellos) tampoco habla mucho.",
+      "back": "Their son's teacher doesn't talk very much either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Hablas inglés?",
+      "back": "Do you speak English?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Hablan ellas francés?",
+      "back": "Do they speak French?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Habla él italiano?",
+      "back": "Does he speak Italian?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Cuántos idiomas hablas?",
+      "back": "How many languages do you speak?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Cuántos idiomas habla ella?",
+      "back": "How many languages does she speak?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Cuántos idiomas habla el hijo de tu vecina?",
+      "back": "How many languages does your neighbour's son speak?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Hablan sobre ello todas las tardes?",
+      "back": "Do they talk about it every evening?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Habla ella con él cada tarde?",
+      "back": "Does she talk to him every evening?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-039",
+      "front": "¿El hijo de tu vecino habla con el novio de tu hermana cada tarde?",
+      "back": "Does your neighbour's son talk to your sister's boyfriend every evening?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Con quién hablas en el trabajo?",
+      "back": "Who do you talk to at work?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Con quién hablas en el autobús?",
+      "back": "Who do you talk to on the bus?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Con quién hablas en el tren?",
+      "back": "Who do you talk to on the train?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Habla mucho ella?",
+      "back": "Does she talk a lot?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-044",
+      "front": "¿La amiga de tu madre habla mucho?",
+      "back": "Does your mother's friend talk a lot?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Hablan mucho ellos?",
+      "back": "Do they talk a lot?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-046",
+      "front": "Él está hablando por teléfono.",
+      "back": "He's speaking on the phone.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-047",
+      "front": "Ella está hablando con su madre por teléfono.",
+      "back": "She's speaking to her mother on the phone.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-048",
+      "front": "Drew está hablando por teléfono con el amigo de su padre.",
+      "back": "Drew is speaking to his father's friend on the phone.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-049",
+      "front": "Están hablando a la vez.",
+      "back": "They're talking at the same time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-050",
+      "front": "Mark y Sally están hablando a la vez.",
+      "back": "Mark and Sally are talking at the same time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-051",
+      "front": "Estáis hablando a la vez.",
+      "back": "You're talking at the same time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-052",
+      "front": "Él está hablando con alguien acerca del amigo de su padre.",
+      "back": "He's talking to someone about his father's friend.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-053",
+      "front": "Alguien está hablando con ella.",
+      "back": "Someone's talking to her.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-054",
+      "front": "Ella está hablando con alguien por teléfono.",
+      "back": "She's talking to someone on the phone.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-055",
+      "front": "George está hablando con su madre en francés.",
+      "back": "George is speaking to his mother in French.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-056",
+      "front": "Tina está hablando con alguien por teléfono en alemán.",
+      "back": "Tina's speaking to someone on the phone in German.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-057",
+      "front": "Él está hablando con alguien en castellano.",
+      "back": "He's speaking to someone in Spanish.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-058",
+      "front": "Ella está hablando con él en inglés y está hablando con ellos en inglés también.",
+      "back": "She's speaking to him in English and she's speaking to them in English too.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-059",
+      "front": "Alguien está hablando conmigo y alguien está hablando con ellas también.",
+      "back": "Someone's talking to me and someone's talking to them too.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-060",
+      "front": "Estoy hablando con ellos y él está hablando con ellos también.",
+      "back": "I'm talking to them and he's talking to them too.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-061",
+      "front": "No estoy hablando por teléfono y ella tampoco está hablando por teléfono.",
+      "back": "I'm not talking on the phone and she isn't talking on the phone either.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-062",
+      "front": "No estoy hablando con ella en italiano y él tampoco está hablando con ella en italiano.",
+      "back": "I'm not speaking to her in Italian and he's not speaking to her in Italian either.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-063",
+      "front": "No estamos hablando del trabajo y ellos tampoco están hablando del trabajo.",
+      "back": "We're not talking about work and they're not talking about work either.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-064",
+      "front": "No voy a hablar con ellas nunca más.",
+      "back": "I'm not talking to them ever again.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-065",
+      "front": "No voy a hablar con ella nunca más.",
+      "back": "I'm not talking to her ever again.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-066",
+      "front": "No voy a hablar con él nunca más.",
+      "back": "I'm not talking to him ever again.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-067",
+      "front": "No voy a hablar con ella hasta el viernes.",
+      "back": "I'm not talking to her until Friday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-068",
+      "front": "No voy a hablar con ellos hasta el miércoles.",
+      "back": "I'm not talking to them until Wednesday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-069",
+      "front": "No voy a hablar con ellas hasta el martes.",
+      "back": "I'm not talking to them until Tuesday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-070",
+      "front": "No vamos a hablar con ellas hasta el sábado.",
+      "back": "We're not talking to them until Saturday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-071",
+      "front": "No vamos a hablar con ella hasta el sábado.",
+      "back": "We're not talking to her until Saturday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-072",
+      "front": "No vamos a hablar con él hasta el sábado y tampoco vamos a hablar con su hermano hasta el sábado.",
+      "back": "We're not talking to him until Saturday and we're not talking to his brother until Saturday either.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-073",
+      "front": "No estás hablando con la persona adecuada.",
+      "back": "You're not talking to the right person.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-074",
+      "front": "Él no está hablando con la persona adecuada.",
+      "back": "He's not talking to the right person.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-075",
+      "front": "No estamos hablando con la persona adecuada.",
+      "back": "We're not talking to the right person.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Estás hablando conmigo?",
+      "back": "Are you talking to me?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Está él hablando con ella?",
+      "back": "Is he talking to her?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Están hablando con nosotros?",
+      "back": "Are they talking to us?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Con quién estás hablando?",
+      "back": "Who are you talking to?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Con quién está hablando él?",
+      "back": "Who's he talking to?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Con quién está hablando ella?",
+      "back": "Who's she talking to?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s1-082",
+      "front": "¿De qué estás hablando?",
+      "back": "What are you talking about?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-083",
+      "front": "¿De qué está hablando Amy?",
+      "back": "What's Amy talking about?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-084",
+      "front": "¿De qué está hablando Jim?",
+      "back": "What's Jim talking about?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Qué idioma están hablando ellos?",
+      "back": "What language are they speaking?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Qué idioma está hablando él?",
+      "back": "What language is he speaking?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Qué idioma estáis hablando?",
+      "back": "What language are you speaking?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Por qué estás hablando tan bajito?",
+      "back": "Why are you talking so quietly?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Por qué él está hablando tan bajito?",
+      "back": "Why's he talking so quietly?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Por qué están hablando tan bajito?",
+      "back": "Why are they talking so quietly?",
+      "sourcePage": 24
+    }
+  ]
+}
