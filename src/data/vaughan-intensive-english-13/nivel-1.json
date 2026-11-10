@@ -1,0 +1,556 @@
+{
+  "bookId": "vaughan-intensive-english-13",
+  "bookTitle": "Libro 13",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Se tarda media hora en llegar a la playa desde aquí.",
+      "back": "It takes half an hour to get to the beach from here.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Se tarda media hora en llegar a la estación desde aquí.",
+      "back": "It takes half an hour to get to the station from here.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Se tarda media hora en llegar a la sierra desde aquí.",
+      "back": "It takes half an hour to get to the mountains from here.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Se tarda mucho tiempo en aprender un idioma.",
+      "back": "It takes a long time to learn a language.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Se tarda mucho tiempo en aprender a conducir.",
+      "back": "It takes a long time to learn how to drive.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Se tarda mucho tiempo en aprender a tocar el piano.",
+      "back": "It takes a long time to learn how to play the piano.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Tardo cinco minutos en llegar al trabajo.",
+      "back": "It takes me five minutes to get to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Tardas mucho tiempo en levantarte por las mañanas.",
+      "back": "It takes you a long time to get up in the morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Él tarda media hora en llegar a casa desde su trabajo.",
+      "back": "It takes him half an hour to get home from work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Mark sólo tarda diez minutos en llegar al trabajo.",
+      "back": "It only takes Mark ten minutes to get to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Sólo se tarda un año en aprender a hablar inglés bien.",
+      "back": "It only takes one year to learn how to speak English well.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Sólo tardan media hora en llegar a la playa desde su casa.",
+      "back": "It only takes them half an hour to get to the beach from their house.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Ella tarda cinco minutos en ducharse.",
+      "back": "It takes her five minutes to have a shower.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Sólo tardo dos minutos en ducharme.",
+      "back": "It only takes me two minutes to have a shower.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Él tarda media hora en ducharse.",
+      "back": "It takes him half an hour to have a shower.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No se tarda diez minutos en llegar allí; se tarda media hora.",
+      "back": "It doesn't take ten minutes to get there; it takes half an hour.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No se tarda una hora en hacerlo; sólo se tarda media hora.",
+      "back": "It doesn't take an hour to do that; it only takes half an hour.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No se tarda media hora en llegar a Cáceres desde aquí. Se tarda una hora.",
+      "back": "It doesn't take half an hour to get to Cáceres from here. It takes an hour.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Él no tarda media hora en llegar al trabajo, tarda una hora y media.",
+      "back": "It doesn't take him half an hour to get to work, it takes him an hour and a half.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Mi hija no tarda una hora en levantarse por la mañana, ¡tarda una hora y media!",
+      "back": "It doesn't take my daughter an hour to get up in the morning, it takes her an hour and a half!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No se tarda una hora y media en llegar a la playa desde aquí.",
+      "back": "It doesn't take an hour and a half to get to the beach from here.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No se suele tardar mucho tiempo en preparar pasta.",
+      "back": "It doesn't usually take very long to make pasta.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "No tardo mucho tiempo en hacer la compra cada semana.",
+      "back": "It doesn't take me long to do the shopping every week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Suelen tardar mucho tiempo en ducharse, pero yo no tardo mucho tiempo en ducharme.",
+      "back": "It usually takes them a long time to have a shower, but it doesn't take me long to have a shower.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡No se tarda tanto tiempo en aprender a hablar bien inglés!",
+      "back": "It doesn't take that long to learn how to speak English well!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¡No tardo tanto tiempo en hacer las tareas domésticas!",
+      "back": "It doesn't take me that long to do the housework!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡No tardamos tanto tiempo en llegar a casa desde el trabajo!",
+      "back": "It doesn't take us that long to get home from work!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Se suele tardar media hora en lavarse los dientes.",
+      "back": "It usually takes half an hour to brush your teeth.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡No se tarda tanto en lavarse los dientes!",
+      "back": "It doesn't take that long!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No tardo mucho en cepillarme los dientes.",
+      "back": "It doesn't take me very long to brush my teeth.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Él tampoco tarda mucho tiempo en lavarse los dientes.",
+      "back": "It doesn't take him long to brush his teeth either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Se tarda mucho tiempo en llegar a la sierra desde aquí?",
+      "back": "Does it take long to get to the mountains from here?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Se tarda mucho en aprender a tocar el clarinete?",
+      "back": "Does it take long to learn how to play the clarinet?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Se tarda mucho tiempo en hacer una tortilla española?",
+      "back": "Does it take long to make a Spanish omelette?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Ella tarda mucho tiempo en lavarse los dientes?",
+      "back": "Does it take her long to brush her teeth?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Tardas mucho tiempo en ducharte?",
+      "back": "Does it take you long to have a shower?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Tardan mucho tiempo en llegar al trabajo por la mañana?",
+      "back": "Does it take them long to get to work in the morning?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Cuánto se tarda en llegar a Salamanca desde Oviedo?",
+      "back": "How long does it take to get to Salamanca from Oviedo?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Cuánto tiempo se tarda en llegar a Cartagena desde Murcia?",
+      "back": "How long does it take to get to Cartagena from Murcia?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Cuánto se tarda en llegar a Toledo desde Aranjuez?",
+      "back": "How long does it take to get to Toledo from Aranjuez?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Cuánto tardas en estar listo para empezar a trabajar por la mañana?",
+      "back": "How long does it take you to get ready for work in the morning?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Cuánto tarda él en vestirse?",
+      "back": "How long does it take him to get dressed?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Cuánto tarda ella en prepararse para meterse en la cama por la noche?",
+      "back": "How long does it take her to get ready for bed at night?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Por qué se tarda tanto tiempo en aprender un idioma?",
+      "back": "Why does it take such a long time to learn a language?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Por qué se tarda tanto en aprender palabras nuevas?",
+      "back": "Why does it take such a long time to learn new words?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Por qué se tarda tanto tiempo en aprender a utilizar un móvil nuevo?",
+      "back": "Why does it take such a long time to learn how to use a new mobile phone?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Puedes llevar este informe a recepción, por favor?",
+      "back": "Can you take this report to reception, please?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Le llevas esto a Martin, por favor?",
+      "back": "Can you take this to Martin, please?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Puedes llevar tus cosas a tu habitación, por favor?",
+      "back": "Can you take your things to your room, please?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "¡No olvides llevar contigo las llaves de tu coche!",
+      "back": "Don't forget to take your car keys with you!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¡No olvides llevar contigo el libro 13 de Vaughan Intensive English!",
+      "back": "Don't forget to take book 13 of Vaughan Intensive English with you!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¡No olvides llevar tu pasaporte!",
+      "back": "Don't forget to take your passport with you!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-053",
+      "front": "Los viernes llevo a mi madre a la estación de trenes.",
+      "back": "On Fridays, I take my mother to the train station.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Llevas a tus hijos al parque los domingos?",
+      "back": "Do you take your children to the park on Sundays?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "No llevo a mis padres a la biblioteca los jueves.",
+      "back": "I don't take my parents to the library on Thursdays.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "A veces llevo a mi vecino al trabajo.",
+      "back": "I sometimes take my neighbour to work.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "A veces llevo a mi hijo al colegio.",
+      "back": "I sometimes take my son to school.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "A veces mi amigo Paul también lleva a sus hijos al cole.",
+      "back": "My friend Paul sometimes takes his children to school too.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Llevas algo de dinero encima?",
+      "back": "Do you have any money on you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "No llevo ningún dinero encima.",
+      "back": "I don't have any money on me.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Sólo llevo tres dólares encima.",
+      "back": "I only have three bucks on me.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-062",
+      "front": "Voy a tomar jarabe para la tos.",
+      "back": "I'm going to take some cough medicine for my cough.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Voy a tomar una aspirina para el dolor de cabeza.",
+      "back": "I'm going to take an aspirin for my headache.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "¡Ten! Tómate uno de estos analgésicos para la espalda.",
+      "back": "Here you go! Take one of these painkillers for your back.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Te vas a tomar un descanso?",
+      "back": "Are you going to take a break?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "No me voy a tomar un descanso hasta las cinco.",
+      "back": "I'm not going to take a break until five o'clock.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Él se va a tomar un descanso antes de las cinco.",
+      "back": "He's going to take a break before five o'clock.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-068",
+      "front": "John se va a coger unos días a principios de agosto.",
+      "back": "John's going to take a few days off at the beginning of August.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Vas a coger unos días a finales de julio?",
+      "back": "Are you going to take a few days off at the end of July?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Voy a coger unos días a principios de febrero y también un día a finales de marzo.",
+      "back": "I'm going to take a few days off at the beginning of February and I'm also going to take a day off at the end of March.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Tómate una aspirina, toma un descanso y ¡tómate las cosas con calma!",
+      "back": "Take an aspirin, take a break and take it easy!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Relájate! ¡No tiene tanta importancia!",
+      "back": "Take it easy! It's not that important!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Tómate las cosas con calma! ¡Cógete unos cuantos días libres!",
+      "back": "Take it easy! Take a few days off!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Estás tomándote este curso en serio?",
+      "back": "Are you taking this course seriously?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Tómate el inglés en serio. ¡Es importante!",
+      "back": "Take your English seriously. It's important!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Voy a tomarme en serio el inglés este año!",
+      "back": "I'm going to take my English seriously this year!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-077",
+      "front": "Un partido de fútbol dura una hora y media.",
+      "back": "A football match lasts an hour and a half.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Nuestra reunión semanal dura media hora.",
+      "back": "Our weekly meeting lasts half an hour.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Su reunión semanal de ellos dura una hora y media.",
+      "back": "Their weekly meeting lasts an hour and a half.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Mi conversación telefónica semanal con mi jefe europeo no dura mucho tiempo.",
+      "back": "My weekly phone conversation with my European boss doesn't last very long.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Esa película no dura mucho tiempo.",
+      "back": "That film doesn't last very long.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Estas pilas no duran mucho tiempo.",
+      "back": "These batteries don't last very long.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Cuánto suelen durar vuestras reuniones semanales?",
+      "back": "How long do your weekly meetings usually last?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Cuánto dura la nueva película de Almodóvar?",
+      "back": "How long does the new Almodóvar film last?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Cuánto dura un partido de fútbol americano?",
+      "back": "How long does an American football game last?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Nuestras reuniones semanales suelen durar más de tres horas.",
+      "back": "Our weekly meetings usually last over three hours.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Estas pilas duran un pelín más de ocho horas.",
+      "back": "These batteries last just over eight hours.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Las misas suelen durar un pelín más de media hora.",
+      "back": "Mass usually lasts just over half an hour.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Ese programa suele durar un pelín menos de una hora y media.",
+      "back": "That programme usually lasts just under an hour and a half.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "El telediario suele durar un pelín menos de una hora.",
+      "back": "The news usually lasts just under an hour.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-091",
+      "front": "En Francia el telediario dura un pelín menos de media hora.",
+      "back": "In France the news lasts just under half an hour.",
+      "sourcePage": 19
+    }
+  ]
+}

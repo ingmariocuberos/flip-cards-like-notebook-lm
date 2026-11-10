@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-13",
+  "bookTitle": "Libro 13",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Si tardan más de una hora, me llamarán.",
+      "back": "If it takes them more than an hour, they'll call me.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Si él tarda más de una semana en terminar el trabajo, le mataré.",
+      "back": "If it takes him longer than a week to finish the job, I'll kill him.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Si tardo más de lo que espero, te avisaré.",
+      "back": "If it takes me longer than I expect, I'll let you know.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Ella pospondrá el evento si realmente se tarda tanto en construir la tienda.",
+      "back": "She'll postpone the event if it really takes that long to set up the shop.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Tardará más que eso si realmente quieres que parezca profesional.",
+      "back": "It'll take longer than that if you really want it to look professional.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Probablemente tardará el doble si llueve.",
+      "back": "It'll probably take twice as long if it rains.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "No tardará mucho si involucras a todo el equipo.",
+      "back": "It won't take long if you get the whole team involved.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "No tardará mucho en llegar si el tráfico no está complicado.",
+      "back": "It won't take long to get there if the traffic isn't bad.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Si no actualizas el sistema, tardará una eternidad en ordenar todos los datos.",
+      "back": "If you don't update the system, it'll take forever to sort out all the data.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Tardaremos más en llegar si evitamos la M25?",
+      "back": "Will it take us longer to get there if we avoid the M25?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Si la mercancía tarda un mes en llegar aquí, ¿qué diremos a los clientes?",
+      "back": "If it takes the merchandise a month to get here, what will we tell the customers?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Tardará menos tiempo si utilizamos la otra fotocopiadora?",
+      "back": "Will it take less time if we use the other photocopier?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Cuánto tiempo tardará en llegar si lo mandamos por mensajero?",
+      "back": "How long will it take to get there if we send it by courier?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Cuánto tiempo tardará él en terminar el capítulo si nadie le molesta?",
+      "back": "How long will it take him to finish the chapter if nobody disturbs him?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Cuánto tiempo se tarda si no hay viento?",
+      "back": "How long will it take if there's no wind?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Si sólo se tardara una hora en llegar, yo les visitaría más a menudo.",
+      "back": "If it only took an hour to get there, I'd visit them more often.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Si yo fuera más joven, tardaría menos tiempo.",
+      "back": "If I were younger, it would take me less time.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Si viviéramos en el campo, tardaríamos más en llegar al trabajo cada día.",
+      "back": "If we lived in the country, it would take us longer to get to work every day.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Se tardaría la mitad si planificáramos las cosas mejor.",
+      "back": "It would take half the time if we planned things better.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Se tardaría menos tiempo en prepararlo si tuviéramos una olla a presión.",
+      "back": "It would take less time to prepare if we had a pressure cooker.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Tardaríamos días en llegar allí si hubiera un problema con el helicóptero.",
+      "back": "It would take us days to get there if there were a problem with the helicopter.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "No tardaría tanto tiempo si tuviéramos un ordenador mejor.",
+      "back": "It wouldn't take so long if we had a better computer.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Ella no tardaría mucho tiempo en encontrar una pareja si tuviera más confianza en sí misma.",
+      "back": "It wouldn't take her long to find a partner if she were more self-confident.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Si yo hablara cinco idiomas, no tardaría mucho en encontrar un trabajo.",
+      "back": "If I spoke five languages, it wouldn't take me long to find a job.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "¿Tardaría menos tiempo si vivieras en un país angloparlante?",
+      "back": "Would it take less time if you lived in an English-speaking country?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Si se tardara sólo un mes en aprender un idioma extranjero, ¿cuántos idiomas hablarías ahora?",
+      "back": "If it only took a month to learn a foreign language, how many languages would you speak now?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Irías a Australia por una semana si se tardara menos tiempo en llegar allí?",
+      "back": "Would you go to Australia for a week if it took less time to get there?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¿Cuánto tiempo tardarías en aprender inglés si no tuvieras nada más que hacer?",
+      "back": "How long would it take you to learn English if you had nothing else to do?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¿Cuánto tiempo tardaría en ir desde la Península hasta las islas Canarias si no hubiera aviones?",
+      "back": "How long would it take to get from mainland Spain to the Canary Islands if there were no planes?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Cuánto tiempo más tardarías en hacer tu trabajo si no tuvieras un ordenador?",
+      "back": "How much longer would it take you to do your job if you didn't have a computer?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Si hubiera llevado menos tiempo en llegar a un acuerdo, habríamos podido salir a tomar una copa después.",
+      "back": "If it had taken less time to come to an agreement, we would've been able to go out for a drink afterwards.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Si yo hubiera tardado menos tiempo en encontrar un hotel, habría salido a cenar contigo.",
+      "back": "If it had taken me less time to find a hotel, I would've gone out for dinner with you.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Si se hubiera dejado todo como estaba, se habría tardado mucho menos tiempo en terminarlo.",
+      "back": "If everything had been left as it was, it would've taken much less time to finish it.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Habríamos tardado cinco minutos si todo el mundo hubiera aparecido.",
+      "back": "It would've taken us five minutes if everyone had turned up.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Habría tardado mucho más si hubiera sido un viernes por la tarde.",
+      "back": "It would've taken a lot longer if it had been a Friday afternoon.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Los huéspedes se habrían quejado si hubieran tardado tanto tiempo en registrarse.",
+      "back": "The guests would've complained if it had taken them that long to check in.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Si no hubiéramos tardado tanto tiempo, no habríamos recibido tantas quejas.",
+      "back": "If it hadn't taken us so long, we wouldn't have received so many complaints.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Los clientes no se habrían ido sin pagar si los camareros no hubieran tardado tanto en servirles.",
+      "back": "The customers wouldn't have left without paying if it hadn't taken the waiters so long to serve them.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Si los jugadores no hubieran tardado tanto en calentarse, no habríamos tenido que irnos antes del final del partido.",
+      "back": "If it hadn't taken the players so long to warm up, we wouldn't have had to leave before the end of the match.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Habrían tardado menos tiempo si los trabajadores no hubieran estado en huelga?",
+      "back": "Would it have taken them less time if the workers hadn't been on strike?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Habrías tardado el tiempo que tardaste si hubieras tenido todas las herramientas correctas?",
+      "back": "Would it have taken you the time it took you if you'd had all the right tools?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Si hubieras tardado dos días en vez de seis meses en organizar la boda, ¿habrías estado menos estresada en el gran día?",
+      "back": "If it had taken you two days instead of six months to organize the wedding, would you have been less stressed on the big day?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Cuánto tiempo habría tardado si no hubiera habido tanto viento?",
+      "back": "How long would it have taken if it hadn't been so windy?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Cuánto tiempo habría tardado Julian si Sandy no hubiera estado allí para echarle una mano?",
+      "back": "How long would it have taken Julian if Sandy hadn't been there to lend a hand?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Cuánto tiempo más habrías tardado si hubieras tenido aún tu coche antiguo?",
+      "back": "How much longer would it have taken you if you'd still had your old car?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Jane siempre malinterpreta las cosas.",
+      "back": "Jane always takes things the wrong way.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "No me malinterpretes, pero...",
+      "back": "Don't take this the wrong way, but...",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Creo que él se lo tomó a mal.",
+      "back": "I think he took it the wrong way.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Siempre te tomas las cosas a lo personal.",
+      "back": "You always take things personally.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Por qué siempre tienes que tomarte las cosas de forma personal?",
+      "back": "Why do you always have to take things personally?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "No me lo tomes de forma personal, pero...",
+      "back": "Don't take this personally, but...",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Él me cayó mal desde el principio.",
+      "back": "I took an instant dislike to him.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "No sé por qué, pero parecía que ella me cogió manía desde el principio.",
+      "back": "I don't know why, but she seemed to take an instant dislike to me.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Nada más abrir la boca él ya le cogí manía.",
+      "back": "No sooner did he open his mouth than I took an instant dislike to him.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "¡Mark se va a tirar a la piscina! ¡Por fin se casa!",
+      "back": "Mark's going to take the plunge — he's getting hitched at last!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Cuándo te vas a tirar a la piscina?",
+      "back": "When are you going to take the plunge?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Ya es hora de que te tiraras a la piscina; ¡tienes más de cuarenta tacos!",
+      "back": "It's time you took the plunge; you're over forty!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "¡Esto es el colmo!",
+      "back": "This really takes the biscuit!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Yo pensaba que era malo, ¡pero tú te llevas la palma!",
+      "back": "I thought I was bad, but you take the biscuit!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Fue el colmo cuando dijo que no había sido él.",
+      "back": "He really took the biscuit when he said it wasn't him.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Él ha empezado a practicar el boxeo.",
+      "back": "He's taken up boxing.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Por qué decidiste tocar la batería?",
+      "back": "Why did you decide to take up the drums?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Ella tiene una forma física mucho mejor desde que empezó a hacer yoga.",
+      "back": "She's in much better shape since she took up yoga.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "No intentes asumir demasiado.",
+      "back": "Don't try to take on too much.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Parece mucho más estresada desde que asumió ese nuevo trabajo.",
+      "back": "She seems a lot more stressed since she took that new job on.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Vamos a tener que aceptar más trabajo si queremos llegar a fin de mes.",
+      "back": "We're going to have to take on more work if we want to make ends meet.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Asumirá el cargo de entrenador hasta final de temporada.",
+      "back": "He will take over as manager until the end of the season.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "¿Sus hijos van a tomar las riendas de la empresa familiar?",
+      "back": "Are their children going to take over the family business?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "No diría que los ordenadores han llegado a dominarlo todo.",
+      "back": "I wouldn't say that computers have completely taken over.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "No lo desmontes a no ser que estés seguro de cómo se vuelve a montar.",
+      "back": "Don't take it apart unless you're sure how to put it back together.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No fue muy sensato por tu parte desmontar tu portátil, ¿verdad?",
+      "back": "It wasn't very sensible to take your laptop apart, was it?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Están pensando en desmontar todo el departamento.",
+      "back": "They're thinking about taking the whole department apart.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "El jefe lo llevó a un lado para hablar con él en privado.",
+      "back": "The manager took him aside to have a quiet word with him.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "No tengo la más mínima idea de por qué los aduaneros la han llevado a un lado.",
+      "back": "I don't have any idea why the customs officials have taken her aside.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "¿Qué te dijo su mujer en la fiesta cuando te llevó a un lado?",
+      "back": "What did his wife say to you at the party when she took you aside?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "No voy a elegir una carta; sabes que no me interesan tus trucos de magia.",
+      "back": "I'm not going to pick a card; you know I'm not interested in your magic tricks.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Cogí estas flores especialmente para ti.",
+      "back": "I picked these flowers especially for you.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Deja de meterte el dedo en la nariz!",
+      "back": "Stop picking your nose!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Los rebeldes han tomado el control de la capital.",
+      "back": "Rebel forces have seized control of the capital.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Los aduaneros han incautado 500 kilos de cocaína en la última semana.",
+      "back": "Customs officials have seized 500 kilos of cocaine in the past week.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "¡Carpe diem!",
+      "back": "Seize the day!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Ella me agarró por el brazo y me advirtió de que no entrase en el bar.",
+      "back": "She grabbed my arm and warned me not to go into the bar.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Primero voy a comer algo de pizza rápidamente y luego te llamo.",
+      "back": "I'm going to grab a piece of pizza first and then I'll call you.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Ve y coge esa silla antes de que la coja otro.",
+      "back": "Go and grab that chair before anyone else does.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Ella me arrancó el billete de la mano.",
+      "back": "She snatched the note from my hand.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "El bebé fue secuestrado en un parque hace dos días.",
+      "back": "The baby was snatched from a park two days ago.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Quién me acaba de arrebatar la comida de mi plato?",
+      "back": "Who just snatched some food from my plate?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Él agarró la botella como si su vida dependiera de ello.",
+      "back": "He grasped the bottle as if his life depended on it.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Él me agarró del brazo tan fuertemente que me dejó un moratón.",
+      "back": "He grasped my arm so tightly that it left me with a bruise.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "No alcanzamos a comprender lo que había pasado hasta mucho después.",
+      "back": "We didn't fully grasp what had happened until much later on.",
+      "sourcePage": 75
+    }
+  ]
+}
