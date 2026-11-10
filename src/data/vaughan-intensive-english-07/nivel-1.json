@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-07",
+  "bookTitle": "Libro 7",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Tengo hambre y él también tiene hambre.",
+      "back": "I'm hungry and he's hungry too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "No tenemos hambre y ellos tampoco tienen hambre.",
+      "back": "We're not hungry and they're not hungry either.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Tienes hambre?",
+      "back": "Are you hungry?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella tiene sed y él tiene sed también.",
+      "back": "She's thirsty and he's thirsty too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "No tengo sed y ella no tiene sed tampoco.",
+      "back": "I'm not thirsty and she isn't thirsty either.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Tienes sed?",
+      "back": "Are you thirsty?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Tengo calor, pero él no tiene calor.",
+      "back": "I'm hot, but he's not hot.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Tenemos calor, pero ella no tiene calor.",
+      "back": "We're hot, but she isn't hot.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Tu bebé tiene calor?",
+      "back": "Is your baby hot?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Tengo frío. ¿Tienes frío?",
+      "back": "I'm cold. Are you cold?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Ellas no tienen frío y nosotros tampoco tenemos frío.",
+      "back": "They're not cold and we're not cold either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Tu madre tiene frío?",
+      "back": "Is your mother cold?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Mi hijo tiene mucho sueño y yo también tengo mucho sueño.",
+      "back": "My son's very sleepy and I'm very sleepy too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No tengo sueño y mi hijo tampoco tiene sueño.",
+      "back": "I'm not sleepy and my son isn't sleepy either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Tenéis sueño?",
+      "back": "Are you sleepy?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Tengo 37 años.",
+      "back": "I'm thirty-seven years old.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Mi hijo tiene seis años.",
+      "back": "My son's six years old.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Mi hija no tiene siete años, tiene ocho.",
+      "back": "My daughter isn't seven years old, she's eight years old.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Mis hijos tienen 16 y 10 años.",
+      "back": "My children are sixteen and ten.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tengo 27 años.",
+      "back": "I'm twenty-seven.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No tengo 50 años y ella tampoco tiene 50 años.",
+      "back": "I'm not fifty and she's not fifty either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Cuántos años tiene tu padre?",
+      "back": "How old is your father?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Cuántos años tienes?",
+      "back": "How old are you?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Cuántos años tiene aquella estatua?",
+      "back": "How old is that statue?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "Tengo razón. Siempre tengo razón.",
+      "back": "I'm right. I'm always right.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Tiene él razón?",
+      "back": "Is he right?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Ella tiene razón otra vez!",
+      "back": "She's right again!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "Él no tiene razón, está equivocado.",
+      "back": "He's not right, he's wrong.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Ella tiene razón o está equivocada?",
+      "back": "Is she right or wrong?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "Están equivocados otra vez. ¡Siempre están equivocados!",
+      "back": "They're wrong again. They're always wrong!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "Londres no es la capital de Francia; es la capital de Inglaterra.",
+      "back": "London isn't the capital of France; it's the capital of England.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "Atenas no es la capital de Turquía; es la capital de Grecia.",
+      "back": "Athens isn't the capital of Turkey; it's the capital of Greece.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Es Bucarest la capital de Rumanía o es la capital de Hungría?",
+      "back": "Is Bucharest the capital of Romania or is it the capital of Hungary?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "Bilbao no está en el norte de Francia; está en el norte de España.",
+      "back": "Bilbao isn't in the north of France; it's in the north of Spain.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "Rouen no está en el norte de Inglaterra; está en el norte de Francia.",
+      "back": "Rouen isn't in the north of England; it's in the north of France.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Está Newcastle en el norte de Inglaterra o está en el norte de Alemania?",
+      "back": "Is Newcastle in the north of England or is it in the north of Germany?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "España no está en el norte de Europa; está en el sur de Europa.",
+      "back": "Spain isn't in the north of Europe; it's in the south of Europe.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-038",
+      "front": "Italia no está en el norte de Europa; está en el sur de Europa.",
+      "back": "Italy isn't in the north of Europe; it's in the south of Europe.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-039",
+      "front": "Grecia no está en el norte de Europa; está en el sur de Europa.",
+      "back": "Greece isn't in the north of Europe; it's in the south of Europe.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-040",
+      "front": "Rumanía está en el este de Europa, pero está al norte de Bulgaria.",
+      "back": "Romania is in the east of Europe, but it's to the north of Bulgaria.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-041",
+      "front": "Alicante está en el este de España, pero está al sur de Valencia.",
+      "back": "Alicante is in the east of Spain, but it's to the south of Valencia.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-042",
+      "front": "Alcalá de Henares está en el este de la Comunidad de Madrid, pero está al sur de Guadalajara.",
+      "back": "Alcalá de Henares is in the east of the province of Madrid, but it's to the south of Guadalajara.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Está Portugal en el oeste de España o al oeste de España?",
+      "back": "Is Portugal in the west of Spain or to the west of Spain?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Está Sofía en el oeste de Bulgaria o al oeste de Bulgaria?",
+      "back": "Is Sofia in the west of Bulgaria or to the west of Bulgaria?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-045",
+      "front": "Perú está en el oeste de Sudamérica y está al oeste de Brasil.",
+      "back": "Peru is in the west of South America and it's to the west of Brazil.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-046",
+      "front": "Esto no es un bolígrafo rojo, es un bolígrafo verde.",
+      "back": "This isn't a red pen, it's a green pen.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-047",
+      "front": "Este bolígrafo no es rojo, es verde.",
+      "back": "This pen isn't red; it's green.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Qué es esto? Es un bolígrafo verde.",
+      "back": "What's this? It's a green pen.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-049",
+      "front": "Eso no es una mesa grande, es una mesa pequeña.",
+      "back": "That isn't a big table, it's a small table.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-050",
+      "front": "Aquella mesa no es grande, es pequeña.",
+      "back": "That table isn't big; it's small.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Qué es eso? Es una mesa pequeña.",
+      "back": "What's that? It's a small table.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-052",
+      "front": "Éstos no son tus sobres, son mis sobres.",
+      "back": "These aren't your envelopes; they're my envelopes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-053",
+      "front": "Estos sobres son amarillos.",
+      "back": "These envelopes are yellow.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Son éstos mis sobres? Sí, lo son.",
+      "back": "Are these my envelopes? Yes, they are.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-055",
+      "front": "Ésos no son tus zapatos, son tus calcetines.",
+      "back": "Those aren't your shoes; they're your socks.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-056",
+      "front": "Aquellos calcetines son azules.",
+      "back": "Those socks are blue.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Son aquéllos tus calcetines? Sí, lo son.",
+      "back": "Are those your socks? Yes, they are.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-058",
+      "front": "Esa no es mi cometa; la mía está aquí.",
+      "back": "That isn't my kite; mine's here.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-059",
+      "front": "Éstos no son mis libros; los míos están allí.",
+      "back": "These aren't my books; mine are over there.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Es ésta su bici (de ella)? No, es la mía.",
+      "back": "Is this her bike? No, it's mine.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Está el mío con el tuyo?",
+      "back": "Is mine with yours?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Están los tuyos con los míos?",
+      "back": "Are yours with mine?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Dónde está la tuya?",
+      "back": "Where's yours?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Qué libro es tuyo, el azul o el verde?",
+      "back": "Which book is yours, the blue one or the green one?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-065",
+      "front": "El azul es mío y el verde es tuyo.",
+      "back": "The blue one is mine and the green one is yours.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-066",
+      "front": "El lápiz rojo es tuyo y el azul es mío.",
+      "back": "The red pencil is yours and the blue one is mine.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Qué abrigo está al lado del tuyo, el marrón o el negro?",
+      "back": "Which coat is next to yours, the brown one or the black one?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-068",
+      "front": "El negro está al lado del mío.",
+      "back": "The black one is next to mine.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-069",
+      "front": "El marrón está al lado del tuyo.",
+      "back": "The brown one is next to yours.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Qué cuaderno está debajo del periódico, el grande o el pequeño?",
+      "back": "Which notebook is under the paper, the big one or the small one?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-071",
+      "front": "El grande está debajo del periódico.",
+      "back": "The big one is under the paper.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Cuál está debajo de la revista?",
+      "back": "Which one is under the magazine?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Qué paraguas está encima del libro, el blanco o el morado?",
+      "back": "Which umbrella is on top of the book, the white one or the purple one?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-074",
+      "front": "El blanco está encima del libro y el morado está encima de la revista.",
+      "back": "The white one is on top of the book and the purple one is on top of the magazine.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-075",
+      "front": "El tuyo está encima del mío.",
+      "back": "Yours is on top of mine.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-076",
+      "front": "Mi primo tiene hambre y su mujer también tiene hambre.",
+      "back": "My cousin is hungry and his wife is hungry too.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-077",
+      "front": "Mi prima no tiene sed y su marido tampoco tiene sed.",
+      "back": "My cousin isn't thirsty and her husband isn't thirsty either.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Tiene mi primo frío o calor?",
+      "back": "Is my cousin cold or hot?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-079",
+      "front": "Uno de mis primos tiene 22 años y es abogado.",
+      "back": "One of my cousins is twenty-two and is a lawyer.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Es uno de mis primos médico o músico?",
+      "back": "Is one of my cousins a doctor or a musician?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-081",
+      "front": "Una de mis primas es profesora y está siempre ocupada.",
+      "back": "One of my cousins is a teacher and is always busy.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-082",
+      "front": "Uno de mis primos siempre tiene razón, pero el otro siempre está equivocado.",
+      "back": "One of my cousins is always right, but the other one is always wrong.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-083",
+      "front": "Una de mis primas está siempre ocupada, pero la otra nunca lo está.",
+      "back": "One of my cousins is always busy, but the other one never is.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-084",
+      "front": "Uno de mis primos está casado, pero el otro está soltero.",
+      "back": "One of my cousins is married, but the other one is single.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-085",
+      "front": "Estoy cansada de las continuas quejas de uno de mis primos.",
+      "back": "I'm tired of one of my cousins' constant complaints.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-086",
+      "front": "Estoy cansada de las continuas críticas de una de mis primas.",
+      "back": "I'm tired of one of my cousins' constant criticism.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-087",
+      "front": "Estoy cansada de hablar con uno de mis primos.",
+      "back": "I'm tired of talking to one of my cousins.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-088",
+      "front": "Uno de mis primos tiene miedo a volar.",
+      "back": "One of my cousins is afraid of flying.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-089",
+      "front": "El otro tiene miedo a nadar en el mar.",
+      "back": "The other one is afraid of swimming in the sea.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Por qué tienen miedo a volar y miedo a nadar en el mar?",
+      "back": "Why are they afraid of flying and afraid of swimming in the sea?",
+      "sourcePage": 20
+    }
+  ]
+}

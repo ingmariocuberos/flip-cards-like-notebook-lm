@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-07",
+  "bookTitle": "Libro 7",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Parece haber unos problemas en su matrimonio (de ellos).",
+      "back": "There seem to be some problems in their marriage.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-002",
+      "front": "No parece ocurrir nada malo con tu lavadora.",
+      "back": "There doesn't seem to be anything wrong with your washing machine.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Parece haber un aumento en el número de desastres naturales en los últimos años?",
+      "back": "Does there seem to be an increase in the number of natural disasters in recent years?",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-004",
+      "front": "Tiende a registrarse una caída en la tasa de desempleo en los meses de verano.",
+      "back": "There tends to be a drop in the unemployment rate in the summer months.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-005",
+      "front": "No se suele tener mucha compasión con los fumadores que tienen problemas de salud.",
+      "back": "There doesn't tend to be much sympathy for smokers who have health problems.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-006",
+      "front": "¿Suele haber más mujeres que estudian publicidad y periodismo?",
+      "back": "Do there tend to be more women studying advertising and journalism?",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-007",
+      "front": "Es probable que haya fuertes protestas cuando anunciemos esta decisión.",
+      "back": "There's likely to be an outcry when we announce this decision.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-008",
+      "front": "Es probable que no haya mucha gente en el concierto.",
+      "back": "There aren't likely to be many people at the concert.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Es probable que haya otros despidos el próximo viernes?",
+      "back": "Are there likely to be other layoffs next Friday?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-010",
+      "front": "Es seguro que habrá problemas cuando reciban la factura.",
+      "back": "There is sure to be trouble when they receive the bill.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-011",
+      "front": "No estoy de acuerdo; no es seguro que vaya a haber una subida en la tasa de inflación.",
+      "back": "I don't agree; there isn't certain to be a rise in the inflation rate.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Es seguro que habrá barra libre en su boda (de ellos)?",
+      "back": "Is there sure to be a free bar at their wedding?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-013",
+      "front": "Seguro que habrá alguien allí cuando lleguemos.",
+      "back": "There's bound to be someone there when we arrive.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-014",
+      "front": "No es verdad, no es seguro que vaya a haber despidos en un futuro próximo.",
+      "back": "That's not true, there aren't bound to be layoffs in the near future.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-015",
+      "front": "Eso es un poco pesimista. ¿Por qué crees que es seguro que habrá una tercera guerra mundial?",
+      "back": "That's a bit pessimistic. Why do you think there's bound to be a third world war?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-016",
+      "front": "Me puse contentísimo cuando mi mujer me dijo que estaba embarazada.",
+      "back": "I was thrilled to bits when my wife told me she was pregnant.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Te pusiste muy contento cuando por fin la conociste?",
+      "back": "Were you thrilled to bits when you finally met her?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-018",
+      "front": "Me haría mucha ilusión si pudieras venir a mi fiesta.",
+      "back": "I'd be thrilled to bits if you could come to my party.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-019",
+      "front": "Estaba la mar de contento cuando me contaron la noticia.",
+      "back": "I was really chuffed when they told me the news.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-020",
+      "front": "No diría que se puso loca de contenta al vernos.",
+      "back": "She wasn't exactly chuffed to see us.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-021",
+      "front": "No encuentro palabras para expresarte lo contento que me puse cuando me dieron el premio.",
+      "back": "I can't tell you how chuffed I was when they awarded me the prize.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-022",
+      "front": "¿No ves que está en las nubes cuando hablas con él?",
+      "back": "Can't you see he's on cloud nine whenever you speak to him?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-023",
+      "front": "Estaba en el séptimo cielo la primera vez que ella me besó.",
+      "back": "I was in seventh heaven the first time she kissed me.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-024",
+      "front": "Estaremos todos en las nubes si ganamos este contrato.",
+      "back": "We'll all be on cloud nine if we win this contract.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-025",
+      "front": "Toda España estaba loca de contenta cuando ganó el Mundial.",
+      "back": "The whole of Spain was over the moon when they won the World Cup.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-026",
+      "front": "Se puso loco de contento cuando ella le dijo que se casaría con él.",
+      "back": "He was over the moon when she said she would marry him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-027",
+      "front": "¡Pareces loca de contenta!",
+      "back": "You look like you're over the moon!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-028",
+      "front": "Estaba encantado de ver a mis padres en el concierto.",
+      "back": "I was tickled pink to see my parents at the concert.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-029",
+      "front": "Tenías que haberle visto la cara; ¡estaba la mar de contento!",
+      "back": "You should have seen his face; he was tickled pink!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-030",
+      "front": "No puedo creer que haya aprobado todos mis exámenes; ¡estoy contentísimo!",
+      "back": "I can't believe I've passed all my exams; I'm tickled pink!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-031",
+      "front": "Podrías pedirles un préstamo; están forrados.",
+      "back": "You could ask them for a loan; they're loaded.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-032",
+      "front": "Ojalá estuviera tan forrada como ella.",
+      "back": "I wish I were as loaded as she is.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-033",
+      "front": "No me mires a mí para el dinero; ¡no estoy forrado, sabes!",
+      "back": "Don't look at me for the money; I'm not loaded, you know!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-034",
+      "front": "No me preocuparía por lo que vayas a pedir para cenar; pagan ellos y están forrados.",
+      "back": "I wouldn't worry about what you order for dinner; they're paying and they're rolling in it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-035",
+      "front": "No puedo creer que invirtieran en esa empresa; deben de estar forrados.",
+      "back": "I can't believe they invested in that company; they must be rolling in it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Qué crees, que estoy forrado?",
+      "back": "What do you think, that I'm rolling in it?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-037",
+      "front": "No puedo salir este fin de semana; estoy pelado.",
+      "back": "I can't go out this weekend; I'm broke.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-038",
+      "front": "Le gusta vestirse bien, pero en realidad está sin un duro.",
+      "back": "He likes to dress very well, but he's actually completely broke.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Qué quieres decir con «estamos pelados»? ¿No nos quedan ahorros?",
+      "back": "What do you mean by \"we're broke\"? Don't we have any savings left?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-040",
+      "front": "Yo esperaría antes de comprar una casa; los precios siguen por las nubes.",
+      "back": "I'd wait before buying a house, prices are still sky high.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-041",
+      "front": "El precio que pagué por el tratamiento médico en los Estados Unidos estaba por las nubes.",
+      "back": "I had to pay a sky high bill for the medical treatment I received in the US.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-042",
+      "front": "Sus primas de seguro están por las nubes.",
+      "back": "Their insurance premiums are sky high.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-043",
+      "front": "Yo que tú compraría; esas acciones están baratísimas.",
+      "back": "I'd buy if I were you; those shares are dirt cheap.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-044",
+      "front": "No digas que está baratísimo, ¡di que tiene buena relación calidad-precio!",
+      "back": "Don't call it dirt cheap; call it value-for-money!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-045",
+      "front": "Encontré este reloj en eBay; ¡estaba regalado!",
+      "back": "I found this watch on eBay; it was dirt cheap!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-046",
+      "front": "No me acosté en toda la noche porque estaba trabajando.",
+      "back": "I was up all night working.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-047",
+      "front": "¿Se ha levantado ya (él)?",
+      "back": "Is he up yet?",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-048",
+      "front": "Ya que estás de pie, ¿me puedes traer el mando?",
+      "back": "While you're up, can you get me the remote control?",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Te apetece echar un partido de tenis?",
+      "back": "Are you up for a game of tennis?",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-050",
+      "front": "No creo que él tenga ganas de salir otra vez.",
+      "back": "I don't think he's up for going out again.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-051",
+      "front": "Ella se apunta a un bombardeo.",
+      "back": "She's always up for anything.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-052",
+      "front": "Él no está a la altura de este trabajo; me temo que tendremos que despedirle.",
+      "back": "He's not up to this job; I'm afraid we're going to have to let him go.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-053",
+      "front": "No está a su nivel (de él) de siempre.",
+      "back": "It isn't up to his usual standard.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-054",
+      "front": "Ella no estaba en condiciones de ir al trabajo hoy.",
+      "back": "She wasn't up to going into work today.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Qué están tramando esos niños?",
+      "back": "What are those kids up to?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-056",
+      "front": "Creo que él está tramando algo.",
+      "back": "I think he's up to something.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Ellos no andan metidos en nada bueno, como siempre.",
+      "back": "They're up to no good, as usual.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "Si de mí dependiera, yo no lo haría.",
+      "back": "If it were up to me, I wouldn't do it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Te toca decidir a ti.",
+      "back": "It's up to you to decide.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Creo que les corresponde a ellos decírmelo.",
+      "back": "I think it is up to them to tell me.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "Me alegro que los dos estéis juntos ahora, ¡llevabas siglos detrás de ella!",
+      "back": "I'm glad you two are together now, you'd been after her for ages!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Sigue el Chelsea detrás de ese jugador?",
+      "back": "Is Chelsea still after that player?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-063",
+      "front": "¡Conozco a alguien que anda detrás de ti!",
+      "back": "I know somebody who is after you!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-064",
+      "front": "Debería de estar aquí en un minuto.",
+      "back": "He should be along in a minute.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "No te preocupes, otro autobús llegará dentro de nada.",
+      "back": "Don't worry, there'll be another bus along shortly.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "Lo siento, tu comida saldrá en cinco minutos.",
+      "back": "I'm sorry, your food will be along in five minutes.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Vamos a tener que ir de compras porque se nos ha acabado toda la comida.",
+      "back": "We're going to have to go shopping as we're completely out of food.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-068",
+      "front": "¡Ay, no! ¡No me digas que nos hemos quedado sin gasolina!",
+      "back": "Oh, no! Don't tell me that we're out of petrol!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-069",
+      "front": "Me temo que no habéis tenido suerte; no quedan entradas.",
+      "back": "You're out of luck, I'm afraid; there are no tickets left.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-070",
+      "front": "Ella está intentando que le despidan porque le odia.",
+      "back": "She is out to get him sacked because she hates him.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-071",
+      "front": "Él siente que todo el mundo está en su contra.",
+      "back": "He feels like everyone is out to get him.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-072",
+      "front": "Quieren acabar con todo el sistema financiero.",
+      "back": "They're out to destroy the whole financial system.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-073",
+      "front": "Dilo de nuevo, creo que has dado con algo importante.",
+      "back": "Say that again, I think you're onto something.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "Saben que han encontrado algo que vale la pena.",
+      "back": "They know they're onto a good thing.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "La policía le caló en seguida.",
+      "back": "The police were onto him at once.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "El Primer Ministro va a visitar España en noviembre.",
+      "back": "The Prime Minister is to visit Spain in November.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-077",
+      "front": "Los niños comerán a la una en la sala principal.",
+      "back": "The children are to have lunch at one o'clock in the main hall.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-078",
+      "front": "Todos los empleados recibirán un aumento del tres por ciento en sus sueldos.",
+      "back": "All employees are to receive a three percent rise in their salaries.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Tienes que volver antes de la medianoche!",
+      "back": "You're to be back no later than midnight!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "¡No volverás a ver a esos chicos jamás!",
+      "back": "You are not to see those boys ever again!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "Debéis terminar los deberes antes de que empecéis a jugar con los videojuegos.",
+      "back": "You are to do your homework before you think about playing video games.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "No sabían que volverían a encontrarse en circunstancias extrañas.",
+      "back": "They didn't know that they were to meet again in very strange circumstances.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-083",
+      "front": "Sus acciones iban a tener serias repercusiones.",
+      "back": "Their actions were to have serious repercussions.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-084",
+      "front": "No quiso el destino que así fuera.",
+      "back": "It was not to be.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-085",
+      "front": "Los niños siempre tienen que ir acompañados de un adulto.",
+      "back": "Children are to be accompanied by an adult at all times.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-086",
+      "front": "No se pueden abrir las ventanas bajo ningún concepto.",
+      "back": "These windows are not to be opened under any circumstances.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-087",
+      "front": "Estas pastillas tienen que tomarse una por la mañana y una por la noche.",
+      "back": "These pills are to be taken one in the morning and one at night.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-088",
+      "front": "Para tomar tres veces al día antes de las comidas.",
+      "back": "To be taken three times a day before meals.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "No se puede abrir hasta el día de Navidad.",
+      "back": "Not to be opened until Christmas day.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "Sólo oficiales del gobierno tienen permiso para verlo.",
+      "back": "To be seen only by government officials.",
+      "sourcePage": 74
+    }
+  ]
+}

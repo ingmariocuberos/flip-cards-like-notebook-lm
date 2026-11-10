@@ -1,0 +1,424 @@
+{
+  "bookId": "vaughan-intensive-english-07",
+  "bookTitle": "Libro 7",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Como el discurso era tan aburrido, yo estaba muerto de aburrimiento.",
+      "back": "As the speech was so boring, I was bored to death.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Como la fiesta de lanzamiento era tan aburrida, ella estaba muerta de aburrimiento.",
+      "back": "As the launch party was so boring, she was bored to death.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Como la fiesta de compromiso era tan aburrida, él estaba muerto de aburrimiento.",
+      "back": "As the engagement party was so boring, he was bored to death.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "La situación era muy embarazosa, así que estabas muy avergonzado.",
+      "back": "The situation was very embarrassing, so you were acutely embarrassed.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "El incidente fue muy embarazoso, así que estábamos muy avergonzados.",
+      "back": "The incident was very embarrassing, so we were acutely embarrassed.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "El momento fue muy embarazoso, así que estaban muy avergonzados.",
+      "back": "The moment was very embarrassing, so they were acutely embarrassed.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Yo estaba muy confundido porque sus comentarios (de él) eran demasiado confusos.",
+      "back": "I was highly confused because his remarks were too confusing.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Él estaba muy confundido porque sus explicaciones (de ella) eran demasiado confusas.",
+      "back": "He was highly confused because her explanations were too confusing.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Ella estaba muy confusa porque los ejercicios eran demasiado confusos.",
+      "back": "She was highly confused because the exercises were too confusing.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "La conferencia era interesante, así que ella estaba interesada.",
+      "back": "The conference was interesting, so she was interested.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "La clase era interesante, así que estaban interesados.",
+      "back": "The lecture was interesting, so they were interested.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "El taller era interesante, así que yo estaba interesado.",
+      "back": "The workshop was interesting, so I was interested.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Las noticias eran tan preocupantes que estábamos preocupados.",
+      "back": "The news was so worrying that we were worried.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Las noticias eran tan preocupantes que ella estaba preocupada.",
+      "back": "The news was so worrying that she was worried.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Estaba preocupado porque las noticias eran muy preocupantes.",
+      "back": "I was worried because the news was very worrying.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Enseguida vuelvo. Voy al despacho de Lisa.",
+      "back": "I'll be right back. I'm going to Lisa's office.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-017",
+      "front": "Enseguida vuelvo. Voy al despacho de Luis.",
+      "back": "I'll be right back. I'm going to Luis's office.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-018",
+      "front": "Enseguida vuelvo. Voy al despacho de Anna.",
+      "back": "I'll be right back. I'm going to Anna's office.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-019",
+      "front": "No nací en 1970, nací en 1972.",
+      "back": "I wasn't born in 1970, I was born in 1972.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-020",
+      "front": "Ella no nació en septiembre, nació en marzo.",
+      "back": "She wasn't born in September, she was born in March.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-021",
+      "front": "Ellos no nacieron el lunes, nacieron el viernes.",
+      "back": "They weren't born on Monday, they were born on Friday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-022",
+      "front": "Sally nació el mismo día que Luke.",
+      "back": "Sally was born on the same day as Luke.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-023",
+      "front": "Mis hermanos gemelos nacieron el mismo mes que Sam.",
+      "back": "My twin brothers were born in the same month as Sam.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-024",
+      "front": "Nací el mismo año que mi amiga Tatiana.",
+      "back": "I was born in the same year as my friend Tatiana.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-025",
+      "front": "Él tenía 20 años cuando nació su primer hijo.",
+      "back": "He was 20 when his first-born was born.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-026",
+      "front": "Ella tenía 25 años cuando nacieron sus gemelas.",
+      "back": "She was 25 years old when her twins were born.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-027",
+      "front": "Ellos tenían 32 años cuando nació su hija.",
+      "back": "They were 32 when their daughter was born.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Dónde naciste?",
+      "back": "Where were you born?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Cuándo nacieron?",
+      "back": "When were they born?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Dónde nació ella?",
+      "back": "Where was she born?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-031",
+      "front": "Naciste en 1970, ¿no?",
+      "back": "You were born in 1970, weren't you?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-032",
+      "front": "Él nació en julio, ¿no?",
+      "back": "He was born in July, wasn't he?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-033",
+      "front": "Ellos nacieron el 2 de agosto, ¿no?",
+      "back": "They were born on the 2nd of August, weren't they?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-034",
+      "front": "En estos momentos se están haciendo miles de llamadas.",
+      "back": "Right now, thousands of phone calls are being made.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-035",
+      "front": "En estos momentos se están comprando miles de teléfonos móviles.",
+      "back": "Right now, thousands of mobile phones are being bought.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-036",
+      "front": "En estos momentos se están hablando miles de idiomas.",
+      "back": "Right now, thousands of languages are being spoken.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-037",
+      "front": "Phillip se crió con sus abuelos.",
+      "back": "Phillip was raised by his grandparents.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-038",
+      "front": "Monica se crió con su tía y su tío.",
+      "back": "Monica was raised by her aunt and uncle.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-039",
+      "front": "Peter y Duncan se criaron con su abuela.",
+      "back": "Peter and Duncan were raised by their grandmother.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-040",
+      "front": "El nuevo teatro se construirá dentro de dos años.",
+      "back": "The new theatre will be built in two years' time.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-041",
+      "front": "La nueva ópera se construirá dentro de tres años.",
+      "back": "The new opera house will be built in three years' time.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-042",
+      "front": "El nuevo estadio se construirá dentro de cinco años.",
+      "back": "The new stadium will be built in five years' time.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-043",
+      "front": "De momento se han cancelado 40 vuelos debido al mal tiempo.",
+      "back": "So far 40 flights have been cancelled because of bad weather.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-044",
+      "front": "De momento se han cancelado 13 partidos de fútbol por causa de la lluvia.",
+      "back": "So far 13 football matches have been cancelled because of the rain.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-045",
+      "front": "De momento se han cancelado cuatro conciertos por la nieve.",
+      "back": "So far four concerts have been cancelled because of the snow.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Te gusta el fútbol o no te interesa lo más mínimo?",
+      "back": "Are you into football or doesn't it interest you in the slightest?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Les gusta el ping-pong o no les interesa lo más mínimo?",
+      "back": "Are they into table-tennis or doesn't it interest them in the slightest?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-048",
+      "front": "¿A ella le gusta la esgrima o no le interesa lo más mínimo?",
+      "back": "Is she into fencing or doesn't it interest her in the slightest?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-049",
+      "front": "A ella se le da muy bien bailar, pero se le da muy mal cantar.",
+      "back": "She's very good at dancing, but very bad at singing.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-050",
+      "front": "A él se le da muy bien pintar, pero se le da muy mal dibujar.",
+      "back": "He's very good at painting, but very bad at drawing.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-051",
+      "front": "Se me da muy bien cocinar, pero se me da muy mal la repostería.",
+      "back": "I'm very good at cooking, but very bad at baking.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-052",
+      "front": "Mi vecino inglés está muy acostumbrado a conducir en el lado derecho de la carretera.",
+      "back": "My English neighbour is quite used to driving on the right hand of the road.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-053",
+      "front": "Mi hermana está muy acostumbrada a trabajar en el turno de noche.",
+      "back": "My sister is quite used to working the late shift.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-054",
+      "front": "Su cuñado (de ella) está muy acostumbrado a dar discursos delante de la gente.",
+      "back": "Her brother-in-law is quite used to giving speeches in front of people.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-055",
+      "front": "Merece mucho la pena visitar Estambul.",
+      "back": "It is well worth visiting Istanbul.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-056",
+      "front": "Merece mucho la pena aprender un segundo idioma.",
+      "back": "It is well worth learning a second language.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-057",
+      "front": "Merece mucho la pena viajar a Sudamérica.",
+      "back": "It is well worth travelling to South America.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-058",
+      "front": "Yo en tu lugar volvería al mismo sitio que el año pasado.",
+      "back": "If I were you, I'd go back to the same place as last year.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-059",
+      "front": "Yo en tu lugar hablaría con la misma persona que Luis.",
+      "back": "If I were you, I'd speak to the same person as Luis.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-060",
+      "front": "Yo que tú, pediría una cita con el mismo médico de la última vez.",
+      "back": "If I were you, I'd make an appointment with the same doctor as last time.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-061",
+      "front": "Estoy casado con una chica polaca y él también.",
+      "back": "I'm married to a Polish girl and so is he.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-062",
+      "front": "Estoy prometido con una chica francesa y él también.",
+      "back": "I'm engaged to a French girl and so is he.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-063",
+      "front": "Estoy soltera y él también.",
+      "back": "I'm single and so is he.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-064",
+      "front": "Nos vamos de vacaciones a Costa de Marfil y ellos también.",
+      "back": "We're going on holiday to the Ivory Coast and so are they.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-065",
+      "front": "Nos vamos de vacaciones al sur de Portugal y ellos también.",
+      "back": "We're going on holiday to the south of Portugal and so are they.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-066",
+      "front": "Nos vamos de vacaciones al noroeste de Alemania y ellos también.",
+      "back": "We're going on holiday to the north-west of Germany and so are they.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-067",
+      "front": "Él no está interesado en la política. Ella tampoco.",
+      "back": "He's not interested in politics. Neither is she.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-068",
+      "front": "No estoy preocupado por las noticias. Ella tampoco.",
+      "back": "I'm not worried about the news. Neither is she.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-069",
+      "front": "No están avergonzados por el incidente. Ella tampoco.",
+      "back": "They're not embarrassed about the incident. Neither is she.",
+      "sourcePage": 47
+    }
+  ]
+}
