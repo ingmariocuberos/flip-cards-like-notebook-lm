@@ -1,0 +1,754 @@
+{
+  "bookId": "vaughan-intensive-english-02",
+  "bookTitle": "Vaughan Intensive English — Libro 2",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Voy al supermercado el fin de semana.",
+      "back": "I go to the supermarket at the weekend.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Él va al banco todos los días.",
+      "back": "He goes to the bank every day.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Los lunes voy a la carnicería.",
+      "back": "On Mondays, I go to the butcher's.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Voy al supermercado todos los días.",
+      "back": "I go to the supermarket every day.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Siempre vamos al parque el fin de semana.",
+      "back": "We always go to the park at the weekend.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Ella va al parque todos los días.",
+      "back": "She goes to the park every day.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella va al supermercado cada semana.",
+      "back": "She goes to the supermarket every week.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella va a la carnicería a comprar carne.",
+      "back": "She goes to the butcher's to buy meat.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-009",
+      "front": "A veces él va a la librería para comprar libros.",
+      "back": "He sometimes goes to the bookshop to buy books.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Voy al banco a veces.",
+      "back": "I sometimes go to the bank.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "A veces vamos al parque.",
+      "back": "We sometimes go to the park.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "A veces tu hermano va al parque.",
+      "back": "Your brother sometimes goes to the park.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Tu hermano va a la librería todos los días.",
+      "back": "Your brother goes to the bookshop every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Cada lunes tu hermano va a la carnicería para comprar carne.",
+      "back": "Your brother goes to the butcher's to buy meat every Monday.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Los martes voy a la carnicería para comprar carne.",
+      "back": "On Tuesdays, I go to the butcher's to buy some meat.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Los martes tu hermano va al supermercado para comprar pescado.",
+      "back": "On Tuesdays, your brother goes to the supermarket to buy some fish.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-017",
+      "front": "Los martes mi hermano va al supermercado para comprar fruta.",
+      "back": "On Tuesdays, my brother goes to the supermarket to buy some fruit.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-018",
+      "front": "No vamos al parque todos los días.",
+      "back": "We don't go to the park every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No voy a la oficina los martes.",
+      "back": "I don't go to the office on Tuesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No van a la librería todos los días.",
+      "back": "They don't go to the bookshop every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No voy allí todos los días.",
+      "back": "I don't go there every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No vamos allí los lunes.",
+      "back": "We don't go there on Mondays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "No voy allí los martes.",
+      "back": "I don't go there on Tuesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Él no va allí los lunes.",
+      "back": "He doesn't go there on Mondays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Él no va al banco todas las semanas.",
+      "back": "He doesn't go to the bank every week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Él no va a la librería todos los días.",
+      "back": "He doesn't go to the bookshop every day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella no va al supermercado en autobús.",
+      "back": "She doesn't go to the supermarket by bus.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Ella no va al parque en autobús.",
+      "back": "She doesn't go to the park by bus.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Mi hermano no va a la oficina en autobús.",
+      "back": "My brother doesn't go to the office by bus.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No voy al supermercado muy a menudo.",
+      "back": "I don't go to the supermarket very often.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Mi hermana no va allí muy a menudo.",
+      "back": "My sister doesn't go there very often.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "No vamos a la librería muy a menudo.",
+      "back": "We don't go to the bookshop very often.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Vas a la oficina todos los días?",
+      "back": "Do you go to the office every day?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Vas al banco muy a menudo?",
+      "back": "Do you go to the bank very often?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Vas allí en autobús?",
+      "back": "Do you go there by bus?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Van a la oficina en autobús todos los días?",
+      "back": "Do they go to the office by bus every day?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Van allí muy a menudo?",
+      "back": "Do they go there very often?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Van allí los martes?",
+      "back": "Do they go there on Tuesdays?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Va ella allí todas las semanas?",
+      "back": "Does she go there every week?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Va ella allí en autobús?",
+      "back": "Does she go there by bus?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Va ella a la carnicería muy a menudo?",
+      "back": "Does she go to the butcher's very often?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Va él a la oficina en tren?",
+      "back": "Does he go to the office by train?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Van allí en tren?",
+      "back": "Do they go there by train?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Va tu hermano allí en tren?",
+      "back": "Does your brother go there by train?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Va tu hermano a la oficina los fines de semana?",
+      "back": "Does your brother go to the office on the weekend?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Va allí tu hermano los fines de semana?",
+      "back": "Does your brother go there on the weekend?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Van al parque los fines de semana?",
+      "back": "Do they go to the park on the weekend?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-048",
+      "front": "Un banco.",
+      "back": "A bank.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Un aeropuerto.",
+      "back": "An airport.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Una estación de autobuses.",
+      "back": "A bus station.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Un cine.",
+      "back": "A cinema.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Una biblioteca.",
+      "back": "A library.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-053",
+      "front": "Un museo.",
+      "back": "A museum.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-054",
+      "front": "Un supermercado.",
+      "back": "A supermarket.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-055",
+      "front": "Una oficina de correos.",
+      "back": "A post office.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-056",
+      "front": "Un gimnasio.",
+      "back": "A gym.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-057",
+      "front": "Un teatro.",
+      "back": "A theatre.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-058",
+      "front": "El lunes voy al banco, luego al aeropuerto y después a la estación de autobuses.",
+      "back": "On Monday I go to the bank, then I go to the airport, then I go to the bus station.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-059",
+      "front": "Hoy voy al parque.",
+      "back": "I'm going to the park today.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-060",
+      "front": "Hoy voy a la oficina.",
+      "back": "I'm going to the office today.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-061",
+      "front": "Mañana voy allí.",
+      "back": "I'm going there tomorrow.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "Mañana voy a casa.",
+      "back": "I'm going home tomorrow.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "Él va a casa hoy.",
+      "back": "He's going home today.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-064",
+      "front": "Ella va a casa mañana.",
+      "back": "She's going home tomorrow.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-065",
+      "front": "Él va al trabajo mañana.",
+      "back": "He's going to work tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-066",
+      "front": "Voy al trabajo hoy.",
+      "back": "I'm going to work today.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-067",
+      "front": "Ella va al trabajo mañana.",
+      "back": "She's going to work tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "Vamos al parque mañana.",
+      "back": "We're going to the park tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "Vamos a casa mañana.",
+      "back": "We're going home tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "Vamos allí hoy.",
+      "back": "We're going there today.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "Van al trabajo mañana.",
+      "back": "They're going to work tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "Mañana van al supermercado a comprar pescado.",
+      "back": "Tomorrow, they're going to the supermarket to buy some fish.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-073",
+      "front": "Hoy van a casa.",
+      "back": "They're going home today.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-074",
+      "front": "Mañana no voy al trabajo.",
+      "back": "I'm not going to work tomorrow.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-075",
+      "front": "Mañana no voy al supermercado.",
+      "back": "I'm not going to the supermarket tomorrow.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-076",
+      "front": "Mañana no voy a Cáceres.",
+      "back": "I'm not going to Cáceres tomorrow.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "No voy al partido la semana que viene.",
+      "back": "I'm not going to the match next week.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "No vamos al cine la semana que viene.",
+      "back": "We're not going to the cinema next week.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-079",
+      "front": "No van a Londres la semana que viene.",
+      "back": "They're not going to London next week.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-080",
+      "front": "Ella no va al partido la semana que viene.",
+      "back": "She isn't going to the match next week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-081",
+      "front": "Él no va allí la semana que viene.",
+      "back": "He isn't going there next week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-082",
+      "front": "Ella no va al trabajo la semana que viene.",
+      "back": "She isn't going to work next week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "Él no va a la librería hoy.",
+      "back": "He's not going to the bookshop today.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "Él no va a casa la semana que viene.",
+      "back": "He's not going home next week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "Mañana él no va al trabajo.",
+      "back": "He's not going to work tomorrow.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "Ella no va a Madrid mañana.",
+      "back": "She's not going to Madrid tomorrow.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "Ella no va a la oficina la semana que viene.",
+      "back": "She's not going to the office next week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-088",
+      "front": "Ella no va a la librería hoy.",
+      "back": "She's not going to the bookshop today.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Vas al cine esta noche?",
+      "back": "Are you going to the cinema tonight?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Vais a la fiesta esta noche?",
+      "back": "Are you going to the party tonight?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-091",
+      "front": "¿Vas a un restaurante esta noche?",
+      "back": "Are you going to a restaurant tonight?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-092",
+      "front": "¿Va él al partido esta noche?",
+      "back": "Is he going to the match tonight?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-093",
+      "front": "¿Va él a la reunión la semana que viene?",
+      "back": "Is he going to the meeting next week?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-094",
+      "front": "¿Va él allí mañana?",
+      "back": "Is he going there tomorrow?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-095",
+      "front": "¿Adónde va Robert?",
+      "back": "Where's Robert going?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-096",
+      "front": "¿Adónde va él?",
+      "back": "Where's he going?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-097",
+      "front": "¿Adónde va ella?",
+      "back": "Where's she going?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-098",
+      "front": "¿Adónde vas?",
+      "back": "Where are you going?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-099",
+      "front": "¿Vas con tu hermana?",
+      "back": "Are you going with your sister?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-100",
+      "front": "¿Adónde vas con mi hermana?",
+      "back": "Where are you going with my sister?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-101",
+      "front": "¿Vas con mi hermano?",
+      "back": "Are you going with my brother?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-102",
+      "front": "¿Vas al gimnasio?",
+      "back": "Are you going to the gym?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-103",
+      "front": "¿Vas tú también?",
+      "back": "Are you going too?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-104",
+      "front": "No voy hoy.",
+      "back": "I'm not going today.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-105",
+      "front": "¿Vas al gimnasio todos los días?",
+      "back": "Do you go to the gym every day?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-106",
+      "front": "No voy todos los días.",
+      "back": "I don't go every day.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-107",
+      "front": "No voy los fines de semana.",
+      "back": "I don't go on the weekends.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-108",
+      "front": "¿Y tú?",
+      "back": "How about you?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-109",
+      "front": "Yo tampoco voy al gimnasio todos los días.",
+      "back": "I don't go to the gym every day either.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-110",
+      "front": "De hecho, no voy muy a menudo.",
+      "back": "In fact, I don't go very often.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-111",
+      "front": "A veces voy los lunes y a veces los martes.",
+      "back": "I sometimes go on Mondays and sometimes on Tuesdays.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-112",
+      "front": "¿Tu hermano va al gimnasio todos los días?",
+      "back": "Does your brother go to the gym every day?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-113",
+      "front": "Sí, va todos los días.",
+      "back": "Yes, he goes every day.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-114",
+      "front": "¿A veces vas con tu hermano?",
+      "back": "Do you sometimes go with your brother?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-115",
+      "front": "Nunca voy al gimnasio con mi hermano.",
+      "back": "I never go to the gym with my brother.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-116",
+      "front": "A veces voy con mi hermana, sin embargo.",
+      "back": "I sometimes go with my sister, though.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-117",
+      "front": "¿Vas a la fiesta la semana que viene?",
+      "back": "Are you going to the party next week?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-118",
+      "front": "¿Tu hermana va a la fiesta también?",
+      "back": "Is your sister going to the party too?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-119",
+      "front": "Sí, ella va a la fiesta.",
+      "back": "Yes, she's going to the party.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-120",
+      "front": "Voy con Jane.",
+      "back": "I'm going with Jane.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-121",
+      "front": "¿Tu hermano va a la fiesta también?",
+      "back": "Is your brother going to the party too?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-122",
+      "front": "Sí, él va a la fiesta también.",
+      "back": "Yes, he's going to the party too.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-123",
+      "front": "¿Vas a casa ahora?",
+      "back": "Are you going home now?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s1-124",
+      "front": "Sí, voy a casa ahora.",
+      "back": "Yes, I'm going home now!",
+      "sourcePage": 22
+    }
+  ]
+}

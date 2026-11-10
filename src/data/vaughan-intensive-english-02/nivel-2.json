@@ -1,0 +1,634 @@
+{
+  "bookId": "vaughan-intensive-english-02",
+  "bookTitle": "Vaughan Intensive English — Libro 2",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Hace una semana fui a Portugal.",
+      "back": "A week ago, I went to Portugal.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Hace una semana fui a Roma.",
+      "back": "A week ago, I went to Rome.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Hace una semana fui a la India.",
+      "back": "A week ago, I went to India.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Hace un mes ella fue a la zapatería.",
+      "back": "A month ago, she went to the shoe shop.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Hace un mes ella fue a la carnicería.",
+      "back": "A month ago, she went to the butcher's.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Hace un mes ella fue a la farmacia.",
+      "back": "A month ago, she went to the chemist's.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Hace dos días George se fue a casa.",
+      "back": "Two days ago, George went home.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Fuimos allí hace dos días.",
+      "back": "We went there two days ago.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Paula fue a casa hace dos días.",
+      "back": "Paula went home two days ago.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Antes de ayer él fue a Bath.",
+      "back": "The day before yesterday, he went to Bath.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Antes de ayer él fue a la biblioteca.",
+      "back": "The day before yesterday, he went to the library.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Antes de ayer él fue a Nepal.",
+      "back": "The day before yesterday, he went to Nepal.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Antes de ayer fui a París y el día anterior fui a Bruselas.",
+      "back": "The day before yesterday, I went to Paris, and the day before that, I went to Brussels.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Antes de ayer Scott fue a la carnicería y el día anterior fue a la farmacia.",
+      "back": "The day before yesterday, Scott went to the butcher's, and the day before that, he went to the chemist's.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Antes de ayer fueron allí juntos, pero el día anterior ella fue allí sola.",
+      "back": "The day before yesterday, they went there together, but the day before that, she went there alone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "No fui a casa anoche.",
+      "back": "I didn't go home last night.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Ellas tampoco fueron a casa anoche.",
+      "back": "They didn't go home last night either.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "No fueron al cine anoche.",
+      "back": "They didn't go to the cinema last night.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Anoche no fui a casa de mi hermana.",
+      "back": "I didn't go to my sister's last night.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Tampoco fui a casa de mi hermana antes de ayer.",
+      "back": "I didn't go to my sister's the day before yesterday either.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Y tampoco fui a casa de mi hermana el día anterior.",
+      "back": "And I didn't go to my sister's the day before that either.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "No fui a casa de mi hermana en Navidad.",
+      "back": "I didn't go to my sister's for Xmas.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Mi amigo Rob tampoco fue a casa de su hermana en Navidad.",
+      "back": "My friend Rob didn't go to his sister's for Xmas either.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Mi amiga Claire tampoco fue a casa de su hermana en Navidad.",
+      "back": "My friend Claire didn't go to her sister's for Xmas either.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "No fueron a ningún lado en Navidad.",
+      "back": "They didn't go anywhere for Xmas.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "No fui a ningún sitio anoche.",
+      "back": "I didn't go anywhere last night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Ellos tampoco fueron a ningún sitio anoche.",
+      "back": "They didn't go anywhere last night either.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "No fueron a ningún sitio interesante en Navidad.",
+      "back": "They didn't go anywhere interesting for Xmas.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "No fueron a ningún sitio interesante anoche.",
+      "back": "They didn't go anywhere interesting last night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "No fueron a ningún sitio interesante en Semana Santa.",
+      "back": "They didn't go anywhere interesting for Easter.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Fuiste a algún sitio anoche?",
+      "back": "Did you go anywhere last night?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Os fuisteis a algún sitio en las vacaciones de verano del año pasado?",
+      "back": "Did you go anywhere for your summer holidays last year?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Fuiste a algún sitio en Navidad?",
+      "back": "Did you go anywhere for Christmas?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Fueron a algún sitio interesante en su luna de miel?",
+      "back": "Did they go anywhere interesting on their honeymoon?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Fuiste a algún sitio bonito con tu suegra?",
+      "back": "Did you go anywhere nice with your mother-in-law?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Os fuisteis a algún sitio especial?",
+      "back": "Did you go anywhere special?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Fue él a casa de su hermana al final?",
+      "back": "Did he go to his sister's in the end?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Al final fueron a algún sitio?",
+      "back": "Did they go anywhere in the end?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Al final fueron a algún sitio bonito?",
+      "back": "Did they go anywhere nice in the end?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Saliste anoche?",
+      "back": "Did you go out last night?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Con quién saliste?",
+      "back": "Who did you go out with?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Con quién salió ella cuando estaba en los Estados Unidos?",
+      "back": "Who did she go out with when she was in the States?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Volviste al mismo lugar?",
+      "back": "Did you go back to the same place?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Volvió ella a su antiguo colegio?",
+      "back": "Did she go back to her old school?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Volviste a Francia?",
+      "back": "Did you go back to France?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Ir a esquiar",
+      "back": "to go skiing",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Ir a correr",
+      "back": "to go running",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Ir de acampada",
+      "back": "to go camping",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Ir de compras",
+      "back": "to go shopping",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Ir a nadar",
+      "back": "to go swimming",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Ir de pesca",
+      "back": "to go fishing",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Ir a patinar",
+      "back": "to go skating",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-053",
+      "front": "Ir a bucear",
+      "back": "to go diving",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-054",
+      "front": "Ir a hacer footing",
+      "back": "to go jogging",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-055",
+      "front": "Jugar a los bolos",
+      "back": "to go bowling",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-056",
+      "front": "Voy a esquiar una vez a la semana.",
+      "back": "I go skiing once a week.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-057",
+      "front": "Voy a correr una vez a la semana.",
+      "back": "I go running once a week.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-058",
+      "front": "He ido a Londres cinco veces.",
+      "back": "I've been to London five times.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "Él ha ido a Alemania dos o tres veces este año.",
+      "back": "He's been to Germany two or three times this year.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "He ido a ver a la selección española de fútbol jugar dos veces este año.",
+      "back": "I've been to see the Spanish football team play twice this year.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "He ido a Holanda una vez.",
+      "back": "I've been to Holland once.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Hemos ido a Bélgica un par de veces.",
+      "back": "We've been to Belgium a couple of times.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "Ellos han ido a Dinamarca un par de veces.",
+      "back": "They've been to Denmark a couple of times.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-064",
+      "front": "En lo que va de mes he ido a la central cinco veces.",
+      "back": "So far this month, I've been to Head Office five times.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "En lo que va de mes he ido al cine dos veces.",
+      "back": "So far this month, I've been to the cinema twice.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "En lo que va de mes he ido al parque dos veces.",
+      "back": "So far this month, I've been to the park twice.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "Se ha ido a comprar (y aún no ha vuelto).",
+      "back": "He's gone to the shops.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "Se han ido. Se fueron hace cinco minutos.",
+      "back": "They've gone. They went five minutes ago.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Él se ha ido a trabajar.",
+      "back": "He's gone to work.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "Han ido a vivir a Suecia.",
+      "back": "They've gone to live in Sweden.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "Ella ha salido. Estará de vuelta más tarde.",
+      "back": "She's gone out. She'll be back later.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "Él ha vuelto a su país.",
+      "back": "He's gone back to his homeland.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-073",
+      "front": "Han ido a pescar todo el día.",
+      "back": "They've gone fishing for the day.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-074",
+      "front": "No he ido a Rumanía.",
+      "back": "I haven't been to Romania.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "Él tampoco ha ido a Rumanía.",
+      "back": "He hasn't been to Romania either.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "Y ella tampoco ha ido a Rumanía.",
+      "back": "And she hasn't been to Romania either.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "No voy allí en años.",
+      "back": "I haven't been there for years.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "Ella no va allí desde hace mucho tiempo.",
+      "back": "She hasn't been there for a long time.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-079",
+      "front": "No vamos allí desde hace muchísimo tiempo.",
+      "back": "We haven't been there for ages.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-080",
+      "front": "Este año no he ido a ningún sitio.",
+      "back": "I haven't been anywhere this year.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "Él tampoco ha ido a ningún sitio este año.",
+      "back": "He hasn't been anywhere this year either.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "No hemos ido a ningún sitio interesante este año.",
+      "back": "We haven't been anywhere interesting this year.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Nunca he ido a los Pirineos.",
+      "back": "I've never been to the Pyrenees.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "John nunca ha ido a los Alpes.",
+      "back": "John's never been to the Alps.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Martin nunca ha ido a los Andes.",
+      "back": "Martin's never been to the Andes.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Nunca he ido al Lago Michigan.",
+      "back": "I've never been to Lake Michigan.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "Jill nunca ha ido al Lago Lemán.",
+      "back": "Jill's never been to Lake Geneva.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-088",
+      "front": "Sally nunca ha ido al Lago Ness.",
+      "back": "Sally's never been to Loch Ness.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Has ido al nuevo mercado en el centro de la ciudad?",
+      "back": "Have you been to the new market in the centre of town?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Has ido a algún concierto este año?",
+      "back": "Have you been to any concerts this year?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-091",
+      "front": "¿Tu hermana ya ha ido a ver al médico?",
+      "back": "Has your sister been to see the doctor yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Has ido alguna vez a Gales?",
+      "back": "Have you ever been to Wales?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-093",
+      "front": "¿Has estado alguna vez en Sussex?",
+      "back": "Have you ever been to Sussex?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-094",
+      "front": "¿Ha estado él alguna vez en Cornualles?",
+      "back": "Has he ever been to Cornwall?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-095",
+      "front": "¿Han estado ellas alguna vez en Essex?",
+      "back": "Have they ever been to Essex?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-096",
+      "front": "¿Has ido a ver a tu madre últimamente?",
+      "back": "Have you been to see your mother lately?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-097",
+      "front": "¿Han ido a algún sitio interesante últimamente?",
+      "back": "Have they been anywhere interesting lately?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-098",
+      "front": "¿Ha ido él al médico últimamente?",
+      "back": "Has he been to see the doctor lately?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-099",
+      "front": "¿Has ido a Hacienda recientemente?",
+      "back": "Have you been to the tax office recently?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-100",
+      "front": "¿Has ido a la peluquería recientemente?",
+      "back": "Have you been to the hairdresser's recently?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-101",
+      "front": "¿Has ido al dentista recientemente?",
+      "back": "Have you been to the dentist's recently?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-102",
+      "front": "¿Adónde han ido?",
+      "back": "Where have they gone?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-103",
+      "front": "¿Han ido lejos?",
+      "back": "Have they gone far?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-104",
+      "front": "¿Han ido por mucho tiempo?",
+      "back": "Have they gone for a long time?",
+      "sourcePage": 47
+    }
+  ]
+}

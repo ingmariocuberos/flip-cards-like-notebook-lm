@@ -1,5 +1,7 @@
 # Tarjetas de inglés: procedimiento y avance
 
+El estado libro por libro está en [ENGLISH_BOOKS_PROGRESS.md](ENGLISH_BOOKS_PROGRESS.md).
+
 ## Fuente y estructura
 
 - Archivo recibido: `drive-download-20261110T145320Z-1-001.zip` (20 PDF, `Libro 01.pdf` a `Libro 20.pdf`).
@@ -23,12 +25,13 @@ Las tarjetas reúnen frases de los ejercicios, vocabulario y diálogos. La cara 
 1. Extraer el PDF correspondiente en `sources/english/`.
 2. Verificar si tiene texto con `fitz.open(...)[0].get_text()`. Estos PDF son escaneos sin capa de texto.
 3. Renderizar: `python3 tools/render-scanned-pdf.py 'sources/english/Libro 02.pdf'`. Requiere PyMuPDF (`fitz`). Los PNG en `__pngs` se ignoran en Git.
-4. Ejecutar OCR con Apple Vision: `swift tools/ocr-scanned-pages.swift 'sources/english/Libro 02__pngs' > 'sources/english/Libro 02.ocr.txt'`. Requiere macOS con Swift y Vision. La salida OCR se ignora en Git. También se puede compilar una vez con `swiftc` para procesar varios lotes.
+4. Ejecutar OCR con Apple Vision: `python3 tools/ocr-scanned-pdf.py 'sources/english/Libro 02__pngs'`. El wrapper compila `tools/ocr-scanned-pages.swift` y reparte las páginas entre cuatro procesos. Requiere macOS con Swift y Vision. La salida OCR se ignora en Git.
 5. Inspeccionar visualmente el PDF. El OCR intercala columnas y confunde `I` con `1`, contracciones, nombres y signos; no copiar frases sin verificar. Registrar la página PDF exacta de cada ejemplo.
 6. Crear un `bookId` nuevo para el siguiente libro y tres archivos por nivel con los campos `bookId`, `bookTitle`, `language: "en"`, `sektionId`, `sektionTitle`, `order`, `cards`. Cada tarjeta lleva `id`, `front`, `back` y `sourcePage`.
 7. Revisar que no haya pares repetidos, que los ID sean estables, que el español sea inequívoco y que el inglés coincida con el ejemplo o la construcción explicada por el libro. Ejecutar `npm run build` y probar selección de idioma, nivel, giro de tarjeta y marcación de progreso.
 
 El libro 1 tiene un generador reproducible en `tools/build-english-book-01.py`; ese archivo conserva el texto revisado, la página y el orden de cada tarjeta. Al modificarlo, volver a ejecutar el script y revisar el JSON generado. Para libros posteriores se puede reutilizar el mismo formato de pares con página.
+Desde el libro 2 se utiliza `tools/build-english-cards.py` con un TSV versionado en `tools/english-cards/book-NN.tsv`. Cada fila contiene nivel (`1`, `2` o `3`), página PDF, pregunta en español y respuesta en inglés, separados por tabulaciones. Se ejecuta `python3 tools/build-english-cards.py tools/english-cards/book-NN.tsv`.
 Tras publicar un nivel, añadir nuevas tarjetas al final de su lista: el generador asigna ID según el orden y mover filas cambiaría las claves de progreso existentes.
 
 ## Integración en la aplicación

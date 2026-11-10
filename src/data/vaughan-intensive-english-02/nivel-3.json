@@ -1,0 +1,688 @@
+{
+  "bookId": "vaughan-intensive-english-02",
+  "bookTitle": "Vaughan Intensive English — Libro 2",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Por muy bien que creas que va.",
+      "back": "No matter how well you think it's going.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Siempre hay espacio para mejorar.",
+      "back": "There's always room for improvement.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "No dejes que vaya a menos.",
+      "back": "Don't let it go to seed!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Por lo que respecta al inglés.",
+      "back": "As far as English goes.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Sin más preámbulos.",
+      "back": "Without further ado.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "La última vez que fui a tu zona fue aproximadamente hace cinco años.",
+      "back": "The last time I went to your neck of the woods was about five years ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-007",
+      "front": "La última vez que fui a su zona (de ellos) fue hace más de diez años.",
+      "back": "The last time I went to their neck of the woods was over ten years ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "La última vez que fui a su zona (de él) fue hace más de veinte años.",
+      "back": "The last time I went to his neck of the woods was over twenty years ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "La última vez que fui a Hamburgo fue hace dos años.",
+      "back": "I last went to Hamburg two years ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "La última vez que me hice una revisión médica fue hace seis meses.",
+      "back": "I last went for a check-up six months ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "La última vez que fui a un indio a comer fue hace dos meses.",
+      "back": "I last went for an Indian two months ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Cuándo fue la última vez que fuiste al extranjero?",
+      "back": "When was the last time you went abroad?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Cuándo fue la última vez que tu sobrino fue al extranjero?",
+      "back": "When was the last time your nephew went abroad?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Cuándo fue la última vez que tu sobrina fue al extranjero?",
+      "back": "When was the last time your niece went abroad?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Cuándo fue la última vez que te hiciste una revisión médica?",
+      "back": "When did you last go for a check-up?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Cuándo fue la última vez que ella fue a tu zona?",
+      "back": "When did she last go to your neck of the woods?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Cuándo fue la última vez que tu sobrino fue al extranjero? (forma breve)",
+      "back": "When did your nephew last go abroad?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "La primera vez que fui a las Montañas Rocosas tenía dos años.",
+      "back": "I first went to the Rockies at the age of two.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "La primera vez que fui a las cataratas del Niágara tenía siete años.",
+      "back": "I first went to the Niagara Falls at the age of seven.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "La primera vez que fui a Yosemite tenía nueve años.",
+      "back": "I first went to Yosemite at the age of nine.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Mi vecino siempre va al trabajo en coche.",
+      "back": "My neighbour always drives to work.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-022",
+      "front": "¿Vas al trabajo en coche también?",
+      "back": "Do you drive to work too?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "La semana pasada me fui a Sevilla en coche.",
+      "back": "I drove to Seville last week.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Se puede ir allí andando desde aquí.",
+      "back": "You can walk there from here.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Me fui andando a casa anoche.",
+      "back": "I walked home last night.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Como los conductores de autobús estaban de huelga ayer, tuve que ir a la oficina a pie.",
+      "back": "As the bus drivers were on strike yesterday, I had to walk to the office.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Diste un paseo al final?",
+      "back": "Did you go for a walk in the end?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-028",
+      "front": "Vamos a dar un paseo, si quieres acompañarnos.",
+      "back": "We're going for a walk, if you want to come along.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-029",
+      "front": "Ayer él se fue a dar un paseo a las ocho de la tarde y desde entonces nadie lo ha visto.",
+      "back": "He went for a walk at eight o'clock last night and he hasn't been seen since.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Por qué no nos damos una vuelta en coche?",
+      "back": "Why don't we go for a drive?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Damos una vuelta en coche?",
+      "back": "Shall we go for a drive?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Vayamos a dar una vuelta en coche.",
+      "back": "Let's go for a drive!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Por qué no vamos a tomar una copa después del curro?",
+      "back": "Why don't we go for a drink after work?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Nos fuimos a tomar una copita rápida en el descanso.",
+      "back": "We went for a quick drink at half time.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Con quién te tomaste una copa?",
+      "back": "Who did you go for a drink with?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¡Ve a ordenar tu cuarto!",
+      "back": "Go and tidy your bedroom!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-037",
+      "front": "¡Ve a barrer los escalones de la puerta principal!",
+      "back": "Go and sweep the front steps!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "¡Ve a lavar tus manos sucias!",
+      "back": "Go and wash your filthy hands!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Voy a ir a decírselo.",
+      "back": "I'm going to go and tell her.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Voy a ir a fregar.",
+      "back": "I'm going to go and do the washing-up.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Voy a ir a buscar mi declaración de la renta.",
+      "back": "I'm going to go and look for my tax return.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Voy a ir a hacer mi declaración de la renta.",
+      "back": "I'm going to go and do my tax return.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-043",
+      "front": "Voy a ir a barrer la entrada de mi chalet.",
+      "back": "I'm going to go and sweep the drive.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-044",
+      "front": "Voy a ir a quitarme las lentillas.",
+      "back": "I'm going to go and take out my contacts.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-045",
+      "front": "Fui a decírselo a ellos.",
+      "back": "I went and told them.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-046",
+      "front": "Fui a entregar mi dimisión.",
+      "back": "I went and handed in my resignation.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-047",
+      "front": "Fui a comprar otro móvil.",
+      "back": "I went and bought another mobile.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-048",
+      "front": "¿Lograste recuperar tus CDs?",
+      "back": "Did you go and get your CDs back?",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Lograste hablar con tu jefe?",
+      "back": "Did you go and speak to your boss?",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Lograste hacer tu declaración de la renta?",
+      "back": "Did you go and do your tax return?",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-051",
+      "front": "Se ha cortado / puesto agrio.",
+      "back": "It's gone sour.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-052",
+      "front": "Se ha puesto duro / rancio.",
+      "back": "It's gone stale.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-053",
+      "front": "Se ha quedado sin gas.",
+      "back": "It's gone flat.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-054",
+      "front": "Se ha puesto mohoso.",
+      "back": "It's gone moldy.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-055",
+      "front": "Se ha oxidado.",
+      "back": "It's gone rusty.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-056",
+      "front": "Se ha vuelto loco.",
+      "back": "He's gone crazy.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-057",
+      "front": "Se ha quedado ciego.",
+      "back": "He's gone blind.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-058",
+      "front": "Se ha quedado sordo.",
+      "back": "He's gone deaf.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-059",
+      "front": "Se ha quedado calvo.",
+      "back": "He's gone bald.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-060",
+      "front": "Se le ha puesto el pelo gris.",
+      "back": "He's gone grey.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-061",
+      "front": "La leche se ha cortado.",
+      "back": "The milk has gone sour.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Qué otra cosa se ha cortado?",
+      "back": "What else has gone sour?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-063",
+      "front": "Ninguna otra cosa se ha cortado.",
+      "back": "Nothing else has gone sour.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-064",
+      "front": "El pan se ha puesto duro.",
+      "back": "The bread has gone stale.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Qué otra cosa se ha puesto dura?",
+      "back": "What else has gone stale?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-066",
+      "front": "Annie se ha vuelto loca.",
+      "back": "Annie has gone crazy.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Quién más se ha vuelto loco?",
+      "back": "Who else has gone crazy?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-068",
+      "front": "Nadie más se ha vuelto loco.",
+      "back": "Nobody else has gone crazy.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-069",
+      "front": "Se fueron mucho más temprano de lo que yo esperaba.",
+      "back": "They left much earlier than I expected them to.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "¿A qué hora os vais mañana?",
+      "back": "What time are you leaving tomorrow?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Salieron de su casa de madrugada.",
+      "back": "They left their house at the crack of dawn.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-072",
+      "front": "¿A qué hora pensáis iros mañana?",
+      "back": "What time do you plan to set off tomorrow morning?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-073",
+      "front": "Se fueron de madrugada para evitar el tráfico.",
+      "back": "They set off at the crack of dawn to avoid the traffic.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-074",
+      "front": "¿A qué hora nos tenemos que ir si tenemos que estar en el aeropuerto a las 9:30 como muy tarde?",
+      "back": "What time do we need to set off if we have to be at the airport by half past nine?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-075",
+      "front": "¿Puedes ir un momentito a la tienda a comprarme aceite de oliva?",
+      "back": "Can you pop to the shops and get me some olive oil?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "Me fui a la tienda rapidito a comprar mantequilla.",
+      "back": "I popped to the shops to get some butter.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "Me fui al banco un momento para sacar dinero.",
+      "back": "I popped in to the bank to get some money out.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Me voy!",
+      "back": "I'm off!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-079",
+      "front": "Me voy al concierto.",
+      "back": "I'm off to the concert.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-080",
+      "front": "Me voy al supermercado.",
+      "back": "I'm off to the supermarket.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-081",
+      "front": "Nos fuimos corriendo a la farmacia para comprar un espray antihistamínico.",
+      "back": "We dashed to the chemist's to get some antihistamine spray.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-082",
+      "front": "Voy corriendo a la tienda a comprar leche.",
+      "back": "I'm just going to dash to the shops to get some milk.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-083",
+      "front": "Mark salió disparado de la habitación.",
+      "back": "Mark dashed out of the room.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-084",
+      "front": "Él se puso pesado hablando de su colección de sellos.",
+      "back": "He went on and on about his stamp collection.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "Ella siguió dale que te pego hablando del novio de su vecina.",
+      "back": "She went on and on and on about her neighbour's boyfriend.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "Si me pongo pesado, avísame.",
+      "back": "If I go on a bit, just let me know.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-087",
+      "front": "No sé cuál es la mejor forma de decírselo a ella.",
+      "back": "I don't know what the best way to go about telling her is.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-088",
+      "front": "No lo emprendí de la mejor manera.",
+      "back": "I didn't go about it in the best possible way.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-089",
+      "front": "¿Cómo puedo hacer para encontrar veinte mil dólares en dos semanas?",
+      "back": "How can I go about finding twenty thousand dollars in two weeks?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-090",
+      "front": "Ella quiere meterse en política cuando deje la universidad.",
+      "back": "She wants to go into politics when she leaves university.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-091",
+      "front": "No quiero entrar en detalles en este momento.",
+      "back": "I don't want to go into detail at this stage.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-092",
+      "front": "Él entró en tantos detalles que fue asombroso.",
+      "back": "He went into so much detail it was unbelievable.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-093",
+      "front": "Te acompañaré de tiendas si quieres.",
+      "back": "I'll go along with you to the shops if you like.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-094",
+      "front": "Estoy de acuerdo con eso.",
+      "back": "I'd go along with that.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-095",
+      "front": "No estoy de acuerdo con lo que acaba de decir Roger.",
+      "back": "I don't go along with what Roger just said.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-096",
+      "front": "Este yogur se ha pasado. Lo voy a tener que tirar.",
+      "back": "This yoghurt's gone off. I'll have to throw it away.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-097",
+      "front": "Ya no me gusta correr desde que me hice daño en la rodilla.",
+      "back": "I've gone off running ever since I did my knee in.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-098",
+      "front": "Mark ya no me cae bien desde que hizo aquel comentario sobre el amigo de Gary.",
+      "back": "I've gone off Mark ever since he made that comment about Gary's friend.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-099",
+      "front": "¡Suelta mi brazo! ¡Me estás haciendo daño!",
+      "back": "Let go of my arm! You're hurting me!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-100",
+      "front": "Solté el volante cuando chocamos con el coche de delante.",
+      "back": "I let go of the steering wheel when we hit the car in front.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-101",
+      "front": "Es difícil abandonar ciertas costumbres.",
+      "back": "It's difficult to let go of certain habits.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-102",
+      "front": "Él no puede pasar más de cinco minutos sin fumar un cigarro.",
+      "back": "He can't go for more than five minutes without smoking a cigarette.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-103",
+      "front": "Pasé tres años sin hablarle a ella.",
+      "back": "I went without speaking to her for three years.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-104",
+      "front": "¿Cuánto puede pasar un camello sin beber agua?",
+      "back": "How long can a camel go without drinking water?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-105",
+      "front": "Mi impresión fue que la reunión salió muy bien.",
+      "back": "I felt the meeting went really well.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-106",
+      "front": "¿Te salió bien el discurso?",
+      "back": "Did your speech go well?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-107",
+      "front": "Me salió fatal la cena.",
+      "back": "My dinner party went really badly.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-108",
+      "front": "¿Puedo intentarlo yo?",
+      "back": "Can I have a go?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-109",
+      "front": "Intenté hacer la danza del vientre, pero no era lo mío.",
+      "back": "I had a go at belly dancing but it wasn't really for me.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-110",
+      "front": "¿Quién quiere intentarlo?",
+      "back": "Who wants to have a go?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-111",
+      "front": "¿Me toca a mí?",
+      "back": "Is it my go?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-112",
+      "front": "¿A quién le toca?",
+      "back": "Whose go is it?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-113",
+      "front": "Me toca a mí, luego te toca a ti, luego le toca a Peter.",
+      "back": "It's my go, then it's your go, then it's Peter's go.",
+      "sourcePage": 76
+    }
+  ]
+}
