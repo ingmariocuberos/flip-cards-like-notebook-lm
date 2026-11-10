@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-11",
+  "bookTitle": "Libro 11",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No puedo evitar darle vueltas a qué hacer después.",
+      "back": "I can't help wondering what to do next.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-002",
+      "front": "Ella no puede evitar comprar sandalias cuando pasa por delante de esta tienda.",
+      "back": "She can't help buying sandals when she walks past this shoe shop.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-003",
+      "front": "Él no puede evitar decir palabrotas cuando ve un partido de fútbol.",
+      "back": "He can't help swearing when he watches a football game.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-004",
+      "front": "Estoy impaciente por quedar con Kylie y Jamie.",
+      "back": "I can't wait to meet up with Kylie and Jamie.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-005",
+      "front": "Estoy deseando quedar contigo otra vez.",
+      "back": "I can't wait to meet you again.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-006",
+      "front": "No veo la hora de pasar un buen rato con él.",
+      "back": "I can't wait to spend some quality time with him.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-007",
+      "front": "Él no soporta que le interrumpan cuando está hablando.",
+      "back": "He can't stand being interrupted when he's speaking.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-008",
+      "front": "No soporto la gente que habla por el móvil en el autobús.",
+      "back": "I can't stand people talking on their phones on the bus.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-009",
+      "front": "No soporto cuando la gente dice una cosa y hace lo contrario.",
+      "back": "I can't stand it when people say one thing and do the opposite.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-010",
+      "front": "Ella no soporta que su madre le critique.",
+      "back": "She can't bear being criticized by her mother.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-011",
+      "front": "Él no soporta algunos programas de la tele.",
+      "back": "He can't bear some TV programmes.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-012",
+      "front": "No aguantan a sus vecinos.",
+      "back": "They can't bear their neighbours.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-013",
+      "front": "Ella no soporta a alguien que esté todo el día metiéndose el dedo en la nariz.",
+      "back": "She can't put up with someone picking their nose all day.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-014",
+      "front": "Él no soporta a una chica que esté todo el día diciendo palabrotas.",
+      "back": "He can't put up with a girl swearing all day.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Puedes aguantar a alguien que te esté diciendo el día entero lo que tienes que hacer?",
+      "back": "Can you put up with someone telling you what to do all day?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Sabrías decir cuántos años tiene?",
+      "back": "Can you tell how old he is?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-017",
+      "front": "¿No sabrías decir cuánto pesa?",
+      "back": "Can't you tell how much it weighs?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-018",
+      "front": "No sabría decir qué altura tiene esta habitación.",
+      "back": "I can't tell the height of this room.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Distingues una picadura de mosquito de una de pulga?",
+      "back": "Can you tell the difference between a mosquito bite and a flea bite?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-020",
+      "front": "Ella no distingue una sonrisa falsa de una real.",
+      "back": "She can't tell the difference between a fake smile and a real one.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-021",
+      "front": "Él no distingue las extensiones del pelo auténtico.",
+      "back": "He can't tell the difference between hair extensions and real hair.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-022",
+      "front": "No distingo a un gemelo del otro.",
+      "back": "I can't tell the two identical twins apart.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella distingue entre un músico y el otro, pero yo no.",
+      "back": "She can tell the two musicians apart, but I can't.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Distingues uno del otro?",
+      "back": "Can you tell them apart?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Distingues cuando alguien te está mintiendo?",
+      "back": "Can you tell when someone is lying to you?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Distingues cuando alguien se está empezando a enfadar?",
+      "back": "Can you tell when someone's starting to get angry?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Distingues cuando alguien a quien estás hablando se aburre?",
+      "back": "Can you tell when someone you're talking to is bored?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-028",
+      "front": "Sé por la letra que mi padre escribió esta nota.",
+      "back": "I can tell by the handwriting that my father wrote this note.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-029",
+      "front": "Sé por su acento que son extranjeros.",
+      "back": "I can tell by their accent that they are foreigners.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-030",
+      "front": "Está claro por las arrugas de la cara que ella ha abusado del sol.",
+      "back": "You can tell by her wrinkled face she's sunbathed too much.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-031",
+      "front": "Por favor, ¿me podría decir dónde está la papelería más cercana?",
+      "back": "Could you please tell me where the nearest stationer's is?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-032",
+      "front": "Por favor, ¿podría mandar este documento por fax a la oficina central?",
+      "back": "Could you please fax this document to Head Office?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-033",
+      "front": "Por favor, ¿podría decirle al señor Pilgrim que estoy aquí?",
+      "back": "Could you please let Mr Pilgrim know I'm here?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-034",
+      "front": "Richard sabía hablar italiano cuando tenía 5 años.",
+      "back": "Richard could speak Italian when he was five.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-035",
+      "front": "Richard y Alberto sabían hacer malabares cuando eran adolescentes.",
+      "back": "Richard and Alberto could juggle when they were teenagers.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-036",
+      "front": "Alison no podía hacer el pino cuando tenía 8 años.",
+      "back": "Alison couldn't do a headstand when she was eight.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-037",
+      "front": "Después de un día ajetreado, pude llegar puntual a la fiesta.",
+      "back": "After a hectic day, I was able to arrive at the party on time.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-038",
+      "front": "Tim pudo terminar de escribir el informe a tiempo para la reunión.",
+      "back": "Tim was able to finish writing the report in time for the meeting.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-039",
+      "front": "Pudieron presentar la solicitud dentro del plazo.",
+      "back": "They were able to submit their application on time.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-040",
+      "front": "Él no pudo cruzar la meta.",
+      "back": "He couldn't cross the finish line.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella no supo plantear ninguna idea buena en la sesión de brainstorming.",
+      "back": "She couldn't come up with any good ideas for the brainstorming session.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-042",
+      "front": "La policía no pudo coger al ladrón que robó en casa de mi vecino.",
+      "back": "The police couldn't catch the burglar who broke into my neighbour's house.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-043",
+      "front": "Tuve un poco de tiempo libre la semana pasada y pude ir al cine con ella.",
+      "back": "I had some free time last week and was able to go to the cinema with her.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-044",
+      "front": "Él no tuvo nada de tiempo libre esta mañana y no pudo ayudar a Luis.",
+      "back": "He didn't have any free time this morning and wasn't able to help Luis.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-045",
+      "front": "Tuvieron un poco de tiempo libre la semana pasada y pudieron pintar su casa.",
+      "back": "They had some free time last week and were able to paint their house.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-046",
+      "front": "Ella podrá conseguir entradas si llega pronto a la taquilla.",
+      "back": "She will be able to get tickets if she gets to the box office early.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-047",
+      "front": "Podré ir a casa de Susan si la reunión termina pronto.",
+      "back": "I'll be able to go to Susan's if the meeting finishes early.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-048",
+      "front": "Tom podrá pasarse por casa si se va de la oficina pronto.",
+      "back": "Tom will be able to come over if he leaves the office early.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-049",
+      "front": "Podremos jugar al tenis el sábado a no ser que esté granizando.",
+      "back": "We'll be able to play tennis on Saturday unless it's hailing.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-050",
+      "front": "Podrán ir de acampada la semana que viene a no ser que esté diluviando.",
+      "back": "They'll be able to go camping next week unless it's raining cats and dogs.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-051",
+      "front": "Él podrá conducir su coche a no ser que haya niebla.",
+      "back": "He'll be able to drive his car unless it's foggy.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-052",
+      "front": "Podrás cambiar una rueda pinchada siempre y cuando tengas un gato.",
+      "back": "You'll be able to change a flat tire as long as you have a jack.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-053",
+      "front": "Podrás preparar una barra de pan siempre y cuando tengas huevos, harina, leche y levadura.",
+      "back": "You'll be able to bake a loaf of bread as long as you have eggs, flour, milk and yeast.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-054",
+      "front": "Podrás limpiar el suelo siempre y cuando tengas lejía y una fregona.",
+      "back": "You'll be able to clean the floor as long as you have bleach and a mop.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-055",
+      "front": "Podrás venir siempre y cuando lleves puesto un disfraz.",
+      "back": "You'll be able to come provided you wear a fancy dress costume.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-056",
+      "front": "Él podrá entrar siempre y cuando tenga más de 18 años.",
+      "back": "He'll be able to get in provided he's over 18.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-057",
+      "front": "Ella podrá aparcar su coche en el parking siempre y cuando nos lo haga saber antes.",
+      "back": "She'll be able to park her car in the car park provided she lets us know in advance.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "Podré estar ahí antes de las tres siempre y cuando el avión salga puntual.",
+      "back": "I'll be able to get there before three providing the plane leaves on time.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "Podremos llegar puntuales a la boda siempre y cuando salgamos de casa antes de las diez.",
+      "back": "We'll be able to get to the wedding on time providing we leave home before ten.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "Podrán llegar a casa a las cinco siempre y cuando el partido termine a su hora.",
+      "back": "They'll be able to get home at five providing the game finishes on time.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "Nunca me haré rico si continúo trabajando para otra persona.",
+      "back": "I won't be able to make a killing if I continue working for somebody else.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-062",
+      "front": "Él no podrá llegar a fin de mes si continúa apostando en las carreras de caballos.",
+      "back": "He won't be able to make ends meet if he keeps betting on horses.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-063",
+      "front": "Ella no podrá venir a la fiesta de despedida de Tim si no hace las paces con Susan.",
+      "back": "She won't be able to come to Tim's leaving party if she doesn't make up with Susan.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "No podré inflar todos los globos ni aunque me pase el día entero haciéndolo.",
+      "back": "I won't be able to blow up all the balloons even if I spend the whole day doing it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "No podemos aprobar el examen aunque estudiemos toda la noche.",
+      "back": "We won't be able to pass the exam even if we study all night long.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "No podrán terminarlo a tiempo ni contratando a un par de personas más para hacerlo.",
+      "back": "They won't be able to finish it in time even if they take on a couple of people to do it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "No podré hacer ejercicio a no ser que Peter me devuelva mi bici.",
+      "back": "I won't be able to do any exercise unless Peter gives me my bike back.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-068",
+      "front": "No podremos hacer nada al respecto a no ser que sea de vital importancia.",
+      "back": "We won't be able to do anything about it unless it's of vital importance.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-069",
+      "front": "El fontanero no podrá hacer nada acerca de la gotera a no ser que la compañía de seguros se lo diga.",
+      "back": "The plumber won't be able to do anything about the leak unless the insurance company tells him to.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-070",
+      "front": "No podrán hacer nada porque no han llegado a un acuerdo.",
+      "back": "They won't be able to do anything because they haven't come to an agreement.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-071",
+      "front": "No podré usar la lavadora porque vino sin instrucciones.",
+      "back": "I won't be able to use the washing machine because it didn't come with instructions.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-072",
+      "front": "Ella no podrá volver a ponérselo porque la mancha no ha salido.",
+      "back": "She won't be able to wear it again because the stain hasn't come out.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-073",
+      "front": "Como me olvidé la gaita en casa, no podré tocarla.",
+      "back": "As I left the bagpipes at home, I won't be able to play them.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-074",
+      "front": "Como ella se olvidó el disfraz en casa, no podrá ponérselo.",
+      "back": "As she left her fancy dress costume at home, she won't be able to wear it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "Como él se olvidó la declaración de la renta en la oficina, no podrá hablar de ello con su abogado.",
+      "back": "As he left his tax-return in the office, he won't be able to talk to his lawyer about it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Podrás entender esto si no estudias?",
+      "back": "Will you be able to understand this if you don't study?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Podrá él ganarle a ella si no juega bien?",
+      "back": "Will he be able to beat her if he doesn't play well?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Podrá ella completar toda su carga de trabajo si no trabaja duro?",
+      "back": "Will she be able to complete her workload if she doesn't work hard?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "Si nadie te ayuda a recoger todo este lío, ¿podrás recogerlo tú solo?",
+      "back": "If nobody helps you to tidy this mess, will you be able to tidy it by yourself?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-080",
+      "front": "Si nadie le ayuda a empezar con su negocio, ¿podrá empezarlo él solo?",
+      "back": "If nobody helps him to start his business, will he be able to start it by himself?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "Si nadie le ayuda a dejar de fumar, ¿podrá hacerlo ella sola?",
+      "back": "If nobody helps her to quit smoking, will she be able to do it by herself?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Podrá la gente teletransportarse en algún momento del futuro?",
+      "back": "Will people be able to teleport themselves sometime in the future?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Podrá la gente volverse invisible en algún momento del futuro?",
+      "back": "Will people be able to turn invisible sometime in the future?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Podrá la gente caminar sobre el agua en algún momento del futuro?",
+      "back": "Will people be able to walk on water sometime in the future?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Crees que podrás asistir a la reunión de mañana?",
+      "back": "Do you think you'll be able to make it to tomorrow's meeting?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Crees que podrán asistir a la fiesta de inauguración de casa de Linda?",
+      "back": "Do you think they'll be able to make it to Linda's housewarming party?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Crees que Javier podrá asistir a la fiesta de presentación del libro de Bill?",
+      "back": "Do you think Javier will be able to make it to Bill's book launch party?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Crees que podrás aprobar el examen de conducir?",
+      "back": "Do you reckon you'll be able to pass your driving test?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Crees que él podrá ganar el premio?",
+      "back": "Do you reckon he'll be able to win the award?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Crees que podrán montar la sala a tiempo para la conferencia?",
+      "back": "Do you reckon they'll be able to set up the room in time for the conference?",
+      "sourcePage": 46
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-11",
+  "bookTitle": "Libro 11",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Yo puedo hablar francés y mi hermana puede hablar francés también.",
+      "back": "I can speak French and my sister can speak French too.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Puedo ir el jueves.",
+      "back": "I can go on Thursday.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Sé jugar al tenis y sé jugar al fútbol.",
+      "back": "I can play tennis and I can play football.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Sé jugar al rugby.",
+      "back": "I can play rugby.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Sé hablar tres idiomas.",
+      "back": "I can speak three languages.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Te puedo comprar harina en el supermercado.",
+      "back": "I can get some flour for you at the supermarket.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Puedo comprarte leche en el supermercado si quieres.",
+      "back": "I can get you some milk at the supermarket if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Puedes venir conmigo si quieres.",
+      "back": "You can come with me if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Puedes echar un vistazo a mi periódico si quieres.",
+      "back": "You can look at my paper if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Puedo ir a veros en julio si queréis.",
+      "back": "I can come and see you in July if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Podemos ir a Roma en julio si quieres.",
+      "back": "We can go to Rome in July if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Podemos organizar la fiesta en julio si quieres.",
+      "back": "We can have the party in July if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Lo pueden hacer a finales de julio.",
+      "back": "They can do it at the end of July.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Podemos hablar de ello al final de mes.",
+      "back": "We can talk about it at the end of the month.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Ella puede ir allí a finales de julio si queréis.",
+      "back": "She can go there at the end of July if you like.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No puedo ir en junio, pero puedo ir en julio.",
+      "back": "I can't go in June, but I can go in July.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No lo puedo comprar este mes, pero lo puedo comprar el mes que viene.",
+      "back": "I can't buy it this month, but I can buy it next month.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No puedo hablar alemán, pero puedo hablar inglés.",
+      "back": "I can't speak German, but I can speak English.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No puedo ir el lunes.",
+      "back": "I can't go on Monday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No sé hablar chino y no sé hablar japonés tampoco.",
+      "back": "I can't speak Chinese and I can't speak Japanese either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No puedo ir a veros hasta finales de mes.",
+      "back": "I can't come and see you until the end of the month.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No me acuerdo de su nombre (de ella).",
+      "back": "I can't remember her name.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Él no se acuerda de su número de teléfono (de ella).",
+      "back": "He can't remember her phone number.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No me acuerdo del nombre de la tienda.",
+      "back": "I can't remember the name of the shop.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No encuentro las llaves del coche y tampoco encuentro el móvil.",
+      "back": "I can't find my car keys and I can't find my mobile phone either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Ella no encuentra sus guantes.",
+      "back": "She can't find her gloves.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Mark, no encontramos tu casa!",
+      "back": "Mark, we can't find your house!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No veo nada y mi mujer tampoco ve nada.",
+      "back": "I can't see anything and my wife can't see anything either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No veo nada con esta niebla.",
+      "back": "I can't see anything in this fog.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No os preocupéis, no nos ven.",
+      "back": "Don't worry, they can't see us.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Puedes mirar mis deberes?",
+      "back": "Can you look at my homework?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Me puedes ayudar con la compra?",
+      "back": "Can you help me with the shopping?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Puedes venir a la reunión mañana?",
+      "back": "Can you come to the meeting tomorrow?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Te puedo ayudar?",
+      "back": "Can I help you?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Te puedo echar una mano?",
+      "back": "Can I give you a hand?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Te puedo echar una mano con la compra?",
+      "back": "Can I give you a hand with the shopping?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Puedes el viernes de la semana que viene?",
+      "back": "Can you make it next Friday?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Puedes el martes?",
+      "back": "Can you make it on Tuesday?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Tu jefe puede a finales de la semana?",
+      "back": "Can your boss make it at the end of the week?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Puedes a principios de la semana?",
+      "back": "Can you make it at the beginning of the week?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Podemos hacerlo a principios del mes que viene?",
+      "back": "Can we do it at the beginning of next month?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Me puedes echar una mano a principios de julio?",
+      "back": "Can you give me a hand at the beginning of July?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Lo puedo hacer pasado mañana?",
+      "back": "Can I do it the day after tomorrow?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Ella puede venir pasado mañana?",
+      "back": "Can she come the day after tomorrow?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Me puedes echar una mano pasado mañana?",
+      "back": "Can you give me a hand the day after tomorrow?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿No puedes pasado mañana?",
+      "back": "Can't you make it the day after tomorrow?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¿No puedes ir a principios de la semana que viene?",
+      "back": "Can't you go at the beginning of next week?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿No puedes hacerlo a finales de la semana?",
+      "back": "Can't you do it at the end of the week?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Por qué él no puede venir a nuestra fiesta?",
+      "back": "Why can't he come to our party?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Por qué no lo puedes hacer mañana?",
+      "back": "Why can't you do it tomorrow?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Por qué no pueden ir la semana después de la semana que viene?",
+      "back": "Why can't they make it the week after next?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿No puede él traer el suyo?",
+      "back": "Can't he bring his?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Yo puedo encontrar los míos. ¿Él no puede encontrar los suyos?",
+      "back": "I can find mine. Can't he find his?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Por qué no encuentra los suyos?",
+      "back": "Why can't he find his?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Ella no puede traer las suyas?",
+      "back": "Can't she bring hers?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Por qué no puede traer las suyas?",
+      "back": "Why can't she bring hers?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Por qué está mirando tu periódico? ¿No puede mirar el suyo?",
+      "back": "Why is she looking at your newspaper? Can't she look at hers?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Por qué ella no puede venir hasta la semana después de la semana que viene?",
+      "back": "Why can't she come until the week after next?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Por qué no lo puedo hacer hasta principios de la semana que viene?",
+      "back": "Why can't I do it until the beginning of next week?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Por qué ella no puede traer la suya hasta la semana que viene?",
+      "back": "Why can't she bring hers until next week?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "No huelo nada.",
+      "back": "I can't smell anything.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Mi madre está resfriada, así que no huele muy bien.",
+      "back": "My mother has a cold, so she can't smell very well.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿No hueles eso?",
+      "back": "Can't you smell that?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Me escucháis?",
+      "back": "Can you hear me?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No oigo nada.",
+      "back": "I can't hear anything.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "No te preocupes; te oigo perfectamente bien.",
+      "back": "Don't worry; I can hear you perfectly well.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "No me imagino la vida sin ti.",
+      "back": "I can't imagine life without you.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Te imaginas la vida sin tu jefa?",
+      "back": "Can you imagine life without your boss?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Él no se imagina la vida sin sus hijos y ella no se imagina la vida sin los suyos tampoco.",
+      "back": "He can't imagine life without his children and she can't imagine life without hers either.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "No oigo lo que estás diciendo.",
+      "back": "I can't hear what you're saying.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No veo lo que están haciendo.",
+      "back": "I can't see what they're doing.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "No me puedo imaginar lo que están haciendo.",
+      "back": "I can't imagine what they're doing.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¡No me lo puedo creer! ¡Mis padres van a venir la semana que viene!",
+      "back": "I can't believe it! My parents are going to come next week!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¡No me lo puedo creer! ¡John y Sandra se van a casar!",
+      "back": "I can't believe it! John and Sandra are going to get married!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¡No me lo puedo creer! ¡Va a llover otra vez!",
+      "back": "I can't believe it! It's going to rain again!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Puedes venir a la fiesta mañana? Sí, puedo.",
+      "back": "Can you come to the party tomorrow? Yes, I can.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Tu hermana habla español? Sí, habla.",
+      "back": "Can your sister speak Spanish? Yes, she can.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Tu madre sabe hacer tortilla española? Sí, sabe.",
+      "back": "Can your mother make Spanish omelette? Yes, she can.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Me oyes? No, no te oigo.",
+      "back": "Can you hear me? No, I can't.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Te pueden ver? No, no pueden.",
+      "back": "Can they see you? No, they can't.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Él recuerda su nombre (de ella)? No, no lo recuerda.",
+      "back": "Can he remember her name? No, he can't.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "No puedo ir el viernes. ¿Y tú?",
+      "back": "I can't make it on Friday. Can you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "No puedo ir a la reunión a principios de la semana que viene. ¿Y tú?",
+      "back": "I can't go to the meeting at the beginning of next week. Can you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "No sé hablar alemán. ¿Y tú?",
+      "back": "I can't speak German. Can you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Él no puede hablar chino, ¿verdad?",
+      "back": "He can't speak Chinese, can he?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "No pueden hacer eso, ¿verdad?",
+      "back": "They can't do that, can they?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Ella no puede comprar ese coche tan caro, ¿verdad?",
+      "back": "She can't buy that expensive car, can she?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Puedes venir, ¿no?",
+      "back": "You can come, can't you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Lo pueden hacer, ¿no?",
+      "back": "They can do it, can't they?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Me puedes echar una mano, ¿no?",
+      "back": "You can give me a hand, can't you?",
+      "sourcePage": 19
+    }
+  ]
+}

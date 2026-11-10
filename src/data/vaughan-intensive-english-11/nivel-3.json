@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-11",
+  "bookTitle": "Libro 11",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "La música podría haber estado un poco más alta.",
+      "back": "The music could have been a bit louder.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-002",
+      "front": "Podríamos haberlo hecho un poco más obvio.",
+      "back": "We could have made it a bit more obvious.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-003",
+      "front": "Podría haber sido un desastre.",
+      "back": "It could have been a disaster.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-004",
+      "front": "¡Habérmelo dicho antes!",
+      "back": "You could have told me before!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-005",
+      "front": "¡Haberme dicho que pensabas irte!",
+      "back": "You could have told me you were thinking of leaving!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-006",
+      "front": "¡Habernos dicho que habían cancelado el pedido!",
+      "back": "You could have told us they'd cancelled the order!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-007",
+      "front": "Hubiera jurado que te vi en la conferencia la semana pasada.",
+      "back": "I could have sworn I saw you at the conference last week.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-008",
+      "front": "Hubiese jurado que ella me dijo que hablaba alemán.",
+      "back": "I could have sworn she told me she spoke German.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-009",
+      "front": "Hubiera jurado que dijiste que naciste en Puerto Rico.",
+      "back": "I could have sworn you said you were born in Puerto Rico.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-010",
+      "front": "Por lo visto, se dejó el informe sin querer en el autobús. ¡Le hubiera matado!",
+      "back": "Apparently, he accidentally left the report on the bus. I could have killed him!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-011",
+      "front": "Afortunadamente, Tim había hecho una copia de seguridad. ¡Le hubiera besado!",
+      "back": "Luckily, Tim had made a back-up copy. I could have kissed him!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-012",
+      "front": "Todo el mundo quería que me levantara y cantara una canción. ¡Me hubiera muerto!",
+      "back": "Everybody wanted me to get up and sing a song. I could have died!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-013",
+      "front": "Me hubiera venido bien tu ayuda anoche.",
+      "back": "I could have done with your help last night.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-014",
+      "front": "Nos hubiera venido bien uno de esos cuando nos quedamos atrapados en el barro.",
+      "back": "We could have done with one of those when we got stuck in the mud.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-015",
+      "front": "Me hubiera venido bien una buena cerveza fría después de llevar todas esas cajas pesadas.",
+      "back": "I could have done with a nice cold beer after carrying all those heavy boxes.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-016",
+      "front": "No habrías podido hacerlo.",
+      "back": "You couldn't have done it.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-017",
+      "front": "Harry no habría podido volar en su estado de salud.",
+      "back": "Harry couldn't have flown in his state of health.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-018",
+      "front": "No habríamos podido correr con ese tiempo.",
+      "back": "We couldn't have gone running in that weather.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-019",
+      "front": "No lo habría podido hacer sin la ayuda de mi profesor.",
+      "back": "I couldn't have done it without my teacher's help.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-020",
+      "front": "No habría podido correr la maratón sin haber entrenado duro antes.",
+      "back": "I couldn't have run the marathon without having trained hard beforehand.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-021",
+      "front": "No habría podido escribir la novela sin tu apoyo.",
+      "back": "I couldn't have written the novel without your support.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-022",
+      "front": "No habría podido hacer todo el trabajo solo.",
+      "back": "I couldn't have done all the work by myself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-023",
+      "front": "No habrían podido terminarlo solos.",
+      "back": "They couldn't have finished it by themselves.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-024",
+      "front": "No habrías podido escribir un libro sola en una semana.",
+      "back": "You couldn't have written a book in one week by yourself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-025",
+      "front": "No habría podido limpiar la casa solo.",
+      "back": "I couldn't have cleaned the house on my own.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-026",
+      "front": "Él no habría podido escaparse solo.",
+      "back": "He couldn't have escaped on his own.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-027",
+      "front": "Ella no habría podido hacerlo sola.",
+      "back": "She couldn't have done it on her own.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-028",
+      "front": "Ella no habría podido mover sola un mueble tan pesado.",
+      "back": "She couldn't have moved such a heavy piece of furniture by herself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-029",
+      "front": "No habrían podido construir un edificio tan enorme en sólo un mes.",
+      "back": "They couldn't have built such a huge building in only a month.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-030",
+      "front": "No habría podido comer un plato tan grande de marisco yo solo.",
+      "back": "I couldn't have eaten such a big plate of seafood on my own.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-031",
+      "front": "Puedo doblar la lengua desde que era niño.",
+      "back": "I've been able to roll my tongue ever since I was a child.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-032",
+      "front": "Mi hermana nunca ha podido doblar la lengua.",
+      "back": "My sister's never been able to roll her tongue.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Poder doblar la lengua va a llevarte lejos en la vida?",
+      "back": "Is being able to roll your tongue going to get you far in life?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-034",
+      "front": "No todo el mundo puede mover las orejas sin tocarlas.",
+      "back": "Not everyone can wiggle their ears without touching them.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-035",
+      "front": "Alguna gente puede mover las orejas sin tocarlas.",
+      "back": "Some people can wiggle their ears without touching them.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-036",
+      "front": "¿La gente que puede mover las orejas sin tocarlas puede hacer reír a los niños?",
+      "back": "Can people who can wiggle their ears without touching them make children laugh?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-037",
+      "front": "Si puedes levantar una ceja, ¿en qué situaciones lo haces y qué sentido tiene?",
+      "back": "If you can raise one eyebrow, when do you do it and what does it denote?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Mucha gente que conoces puede levantar una ceja?",
+      "back": "Can many people you know raise one eyebrow?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Qué tenista famoso puede levantar una ceja y a menudo lo hace durante las ruedas de prensa?",
+      "back": "Which famous tennis player can raise one eyebrow, and often does when giving press conferences?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Conoces a alguien que puede tocarse la nariz con la punta de la lengua?",
+      "back": "Do you know anyone who can touch their nose with the tip of their tongue?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-041",
+      "front": "Casi nadie puede tocarse la nariz con la punta de la lengua.",
+      "back": "Hardly anyone can touch the end of their nose with the tip of their tongue.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-042",
+      "front": "Serás popular en las fiestas si puedes tocarte la nariz con la punta de la lengua.",
+      "back": "You will be popular at parties if you can touch your nose with the tip of your tongue.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Sabías que es posible chuparte tu propio codo?",
+      "back": "Did you know that it's possible to be able to lick your elbow?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-044",
+      "front": "Hace falta una lengua larga y un brazo corto para poder chuparte tu propio codo.",
+      "back": "You need a long tongue and a short upper arm to be able to lick your elbow.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-045",
+      "front": "La mayoría de la gente nunca podrá chuparse su propio codo.",
+      "back": "Most people will never be able to lick their own elbow.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-046",
+      "front": "Puede que llegue tarde.",
+      "back": "I might be late.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-047",
+      "front": "Puede que caiga granizo mañana.",
+      "back": "It might hail tomorrow.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-048",
+      "front": "Puede que te resulte difícil.",
+      "back": "You might find it difficult.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Crees que el Barcelona ganará la liga? A lo mejor.",
+      "back": "Do you think Barcelona are going to win the league? They might.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Tu primo también va a venir? A lo mejor.",
+      "back": "Is your cousin going to come as well? He might.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-051",
+      "front": "¿Vas a apuntarte a ese curso? A lo mejor.",
+      "back": "Are you going to sign up for that course? I might.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-052",
+      "front": "Puede que haya un problema con el sistema.",
+      "back": "There might be a problem with the system.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-053",
+      "front": "Puede que haya más gente en el evento de lo que nos esperábamos.",
+      "back": "There might be more people at the event than we were expecting.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-054",
+      "front": "Puede que haya tormentas en la zona de Sevilla.",
+      "back": "There might be storms in the Seville area.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-055",
+      "front": "Es posible que sea demasiado tarde.",
+      "back": "It might be too late.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-056",
+      "front": "Es posible que haya atascos.",
+      "back": "There might be traffic jams.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Es posible que vuelva a ocurrir lo mismo.",
+      "back": "The same thing might happen again.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "Igual al final no nos ofrecen el contrato.",
+      "back": "We might not win the contract after all.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Igual al final no lo hago.",
+      "back": "I might not do it after all.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Igual al final no se casan.",
+      "back": "They might not get married after all.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "¿De verdad crees que se puede hacer?",
+      "back": "Do you really think it's doable?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-062",
+      "front": "Puede que sea factible, pero no estoy seguro.",
+      "back": "It might be doable, but I'm not sure.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-063",
+      "front": "Nada es imposible. Todo se puede hacer.",
+      "back": "Nothing's impossible. Everything is doable.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-064",
+      "front": "Sus motivos para querer dejar la empresa son comprensibles.",
+      "back": "His reasons for wanting to leave the company are understandable.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Pensaste que su excusa era muy creíble?",
+      "back": "Did you think his excuse was very believable?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "Dije que era concebible que pudiesen ganar la liga, no dije que fuese probable.",
+      "back": "I said it was conceivable for them to win the league, I didn't say it was likely.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Si tienes el dinero, ahora podría ser un buen momento para comprar una casa, ya que los precios son más accesibles.",
+      "back": "If you have the money, now could be a good time to buy a house as the prices are more affordable.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-068",
+      "front": "Éstos son servicios que se suelen cobrar.",
+      "back": "These are typical chargeable services.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-069",
+      "front": "El alquiler se abona en la primera semana de cada mes.",
+      "back": "The rent is payable in the first week of every month.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Cómo podrías tener problemas con Jenny? Es imposible conocer a alguien más agradable que ella.",
+      "back": "How could you have problems with Jenny? You couldn't meet anybody more likeable than her.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-071",
+      "front": "¡Tus niños son tan adorables!",
+      "back": "Your children are so lovable!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-072",
+      "front": "¡Tienes los labios más apetecibles que he visto nunca!",
+      "back": "You have the most kissable lips I've ever seen!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-073",
+      "front": "¿Cómo puedes trabajar con este calor? Es insoportable.",
+      "back": "How can you work in this heat? It's unbearable.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "La velocidad a la que estamos utilizando los recursos naturales del mundo es insostenible.",
+      "back": "The speed at which we are using the world's natural resources is unsustainable.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Ya, claro! También dijeron que el Titanic era insumergible.",
+      "back": "Yeah, right! And they said the Titanic was unsinkable!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "Los árboles no te dejan ver el bosque.",
+      "back": "You can't see the forest for the trees.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-077",
+      "front": "No ves más allá de tus narices.",
+      "back": "You can't see beyond the end of your nose.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-078",
+      "front": "No le encuentro ni pies ni cabeza a tus argumentos.",
+      "back": "I can't make head or tail of your arguments.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-079",
+      "front": "Loro viejo no aprende a hablar.",
+      "back": "You can't teach an old dog new tricks.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "Aunque la mona se vista de seda, mona se queda.",
+      "back": "A leopard can't change his spots.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "Puedes darle un consejo a alguien, pero no puedes obligarlo a que lo siga.",
+      "back": "You can lead a horse to water, but you can't make it drink.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "Sal de la cocina si no aguantas el calor.",
+      "back": "If you can't take the heat, get out of the kitchen.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-083",
+      "front": "Me temo que no dieron la talla.",
+      "back": "I'm afraid they just couldn't cut the mustard.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-084",
+      "front": "Como cantante él no daba la talla.",
+      "back": "He couldn't cut it as a singer.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-085",
+      "front": "No se hace una tortilla sin romper los huevos.",
+      "back": "You can't make an omelet without breaking the eggs.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-086",
+      "front": "No puedes tenerlo todo.",
+      "back": "You can't have your cake and eat it too.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-087",
+      "front": "No puedes tener ambas cosas a la vez.",
+      "back": "You can't have it both ways.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-088",
+      "front": "Las apariencias engañan.",
+      "back": "You can't judge a book by its cover.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "No le llega a Elvis ni a la suela de sus zapatos.",
+      "back": "He can't hold a candle to Elvis.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "Él tiene algo, no sabría decir concretamente qué es.",
+      "back": "There's something about him, I can't quite put my finger on it.",
+      "sourcePage": 74
+    }
+  ]
+}
