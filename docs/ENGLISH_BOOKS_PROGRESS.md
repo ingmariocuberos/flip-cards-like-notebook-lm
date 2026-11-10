@@ -11,7 +11,7 @@ Fuente local: `sources/english/Libro NN.pdf`. Los 20 PDF se descomprimieron del 
 | 05 | 86 | Publicado | 95 / 100 / 100 | `Add Vaughan English book 5 flashcards by level` |
 | 06 | 91 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 6 flashcards by level` |
 | 07 | 84 | Publicado | 90 / 69 / 90 | `Add Vaughan English book 7 flashcards by level` |
-| 08 | 85 | Pendiente | — | — |
+| 08 | 85 | Publicado | 90 / 93 / 90 | `Add Vaughan English book 8 flashcards by level` |
 | 09 | 86 | Pendiente | — | — |
 | 10 | 84 | Pendiente | — | — |
 | 11 | 83 | Pendiente | — | — |

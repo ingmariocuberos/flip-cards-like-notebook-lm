@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-08",
+  "bookTitle": "Libro 8",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "¡Échale un vistazo a esto!",
+      "back": "Take a look at this!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "¿Has echado ya un vistazo a ese e-mail que te envié?",
+      "back": "Have you had a look at that email I sent you yet?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Estás loco? ¡No voy a decir a mi médico que eche un vistazo a esto!",
+      "back": "Are you crazy? I'm not going to tell my doctor to take a look at this!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Mira detenidamente esta foto; ¿reconoces a alguien en ella?",
+      "back": "Have a good look at this photo; do you recognize anyone in it?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "¿Puedes echar una ojeada a este discurso que he escrito?",
+      "back": "Can you have a quick look at this speech I've written?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Mirad bien estos billetes; ¿creéis que son falsos?",
+      "back": "Take a closer look at these notes; do you think they're fakes?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Examínate a ti mismo detenidamente y reflexiona sobre lo que has hecho.",
+      "back": "Take a long hard look at yourself and think about what you've done.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Tenemos que examinar detenidamente las leyes respecto a la regulación de los bancos.",
+      "back": "We need to take a long hard look at the laws concerning bank regulation.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Debemos examinar detenidamente de qué manera tratamos el tema del absentismo en esta empresa.",
+      "back": "We should take a long hard look at the way we deal with absenteeism in this company.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Ella me lanzó una mirada inexpresiva cuando se lo pregunté.",
+      "back": "She gave me a blank look when I asked her about it.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Tenías que haber visto la mirada asesina que me echó.",
+      "back": "You should have seen the dirty look he gave me!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Estás enfadada conmigo o te pasa algo? No dejas de mirarme de forma extraña.",
+      "back": "Are you angry with me or something? You keep giving me these strange looks.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¡Déjame verlo!",
+      "back": "Let's have a butcher's!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Le has echado un vistazo a esto?",
+      "back": "Have you had a butcher's at this?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "No, no te voy a dejar echar un vistazo.",
+      "back": "No, I'm not going to let you have a butcher's.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "No tienes ninguna posibilidad; ella sólo sale con los hombres guapos.",
+      "back": "You've got no chance; she only goes out with good-looking men.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Son una pareja mona, ¿verdad?",
+      "back": "They make a good-looking couple, don't they?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "El director de casting le dijo que no era lo suficientemente guapo para el papel.",
+      "back": "The casting director told him that he wasn't good-looking enough for the part.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Hay un insecto raro en tu espalda.",
+      "back": "There's a strange-looking insect on your back.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "El presidente resultó ser un hombre de aspecto raro con un traje naranja.",
+      "back": "The president turned out to be a strange-looking man in an orange suit.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Nos dieron un plato con sesos de cabra que tenía una pinta rara.",
+      "back": "They gave us a strange-looking dish made from goat's brains.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Puedes encontrar mucha gente con pintas raras en ese vecindario.",
+      "back": "You can find lots of funny-looking people in that neighborhood.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "¡Qué sombrero más raro llevas!",
+      "back": "What a funny-looking hat you've got on!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Los anfitriones dieron a todo el mundo unas gafas muy raras para que se las pusieran.",
+      "back": "The hosts gave everybody funny-looking glasses to wear.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Recuerdo haber visto un tipo sospechoso leyendo el periódico en el rincón.",
+      "back": "I remember seeing a suspicious-looking character reading a paper in the corner.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Hay un hombre sospechoso delante del banco.",
+      "back": "There's a suspicious-looking man standing outside the bank.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Hay algún sospechoso donde estás ahora?",
+      "back": "Are there any suspicious-looking people where you are now?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "La novia llevaba un vestido impresionante.",
+      "back": "The bride was wearing an amazing-looking dress.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Vimos algunos yates impresionantes en el puerto.",
+      "back": "We saw some amazing-looking yachts in the harbour.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Dónde compró ella esos pendientes tan impresionantes?",
+      "back": "Where did she buy those amazing-looking earrings?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Sé que eres más alta que yo; pero eso no es motivo para que me mires por encima del hombro.",
+      "back": "I know you're taller than me; but that's no reason to act like you're looking down your nose at me.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "¿No te da la sensación de que él desprecia a todo el mundo?",
+      "back": "Doesn't he give you the feeling that he looks down on everyone?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Él es un tonto sexista; siempre ha menospreciado a las mujeres.",
+      "back": "He's a sexist fool; he's always looked down on women.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Qué artistas admirabas cuando eras pequeño?",
+      "back": "What artists did you look up to as a kid?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Tienes que dar un buen ejemplo; ellos te admiran de verdad.",
+      "back": "You have to set a good example; they really look up to you.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¿A quién admiras?",
+      "back": "Who do you look up to?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "De nada vale llorar sobre la leche derramada; tienes que mirar hacia adelante.",
+      "back": "You can't cry over spilt milk; you need to look ahead.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Deja de buscar los CDs; tienes que mirar hacia delante cuando conduces.",
+      "back": "Stop looking for CDs; you need to look ahead when you're driving.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Ya estamos haciendo los proyectos para el último trimestre.",
+      "back": "We're looking ahead now to the final quarter.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Desde entonces él no ha vuelto a mirar hacia atrás.",
+      "back": "Ever since then, he has never looked back.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Mirando atrás, qué tiempos fantásticos fueron aquellos.",
+      "back": "Looking back, those were fantastic times.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "No mires atrás con ira, te oí decir.",
+      "back": "Don't look back in anger, I heard you say.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Ten cuidado con los carteristas cuando viajas en Metro aquí.",
+      "back": "Look out for pickpockets when you travel on the underground here.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Esté atento al cameo de Hitchcock en esta película.",
+      "back": "Look out for Hitchcock's cameo in this film.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Cuidaos el uno al otro mientras estáis viajando.",
+      "back": "Look out for each other while you're travelling.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Ella le miró fijamente con incredulidad cuando él le contó la noticia.",
+      "back": "She gazed at him in disbelief when he told her the news.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "¿Estás mirando algo de verdad o estás mirando al vacío?",
+      "back": "Are you actually looking at something or are you just gazing into space?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Están tan enamorados que pasan todo el tiempo mirándose fijamente a los ojos.",
+      "back": "They're so in love that they just gaze into each other's eyes all the time.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Por qué te has quedado boquiabierto?",
+      "back": "What are you gaping at?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Cierra la boca y deja de mirar así; ¿no sabes que es de mala educación mirar con la boca abierta?",
+      "back": "Close your mouth and stop looking like that; don't you know it's rude to gawk?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "No, él no es tonto; sólo es que suele quedarse boquiabierto cuando mira a la gente.",
+      "back": "No, he's not backward; he just tends to gawp when he looks at people.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Ella no me contestó; se limitó a lanzarme una mirada feroz y silenciosa.",
+      "back": "She didn't answer; she just glared silently at me.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Si alguna vez él te lanza una de sus feroces miradas, sabrás que estás metido en un buen lío.",
+      "back": "If he ever glares at you, you'll know you're in big trouble.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "No te estaba lanzando una mirada de odio; en realidad estaba mirando distraídamente al vacío.",
+      "back": "I wasn't glaring at you; I was actually gazing into space.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Logré echar un vistazo a mi reloj sin que ella se diera cuenta.",
+      "back": "I managed to glance at my watch without her realizing.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "¡Sin mirar a hurtadillas!",
+      "back": "No peeking!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Estabas echando una miradita al diario de Jenny?",
+      "back": "Were you peeping at Jenny's diary?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "¡Deja de comerte con los ojos a todas las mujeres que entran en este bar!",
+      "back": "Can you stop ogling all the women who come into this bar?!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Parece que él nunca me mira; siempre me da la impresión de que me está comiendo con los ojos.",
+      "back": "He never seems to look at me; I always feel like he's ogling me.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Temo que me pillase (él) comiéndole con los ojos.",
+      "back": "I'm afraid he caught me ogling him.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Me enamoré de ella la primera vez que le miré a los ojos.",
+      "back": "I fell in love with her the first time I looked into her eyes.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Me miró a los ojos como si estuviera intentando descubrir mi alma.",
+      "back": "She looked into my eyes as if she was trying to find my soul.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Le miré a los ojos y tuve la sensación de que ahí había un amigo en el que podía confiar.",
+      "back": "I looked into his eyes and had the feeling that here was a friend I could trust.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Le miré directamente a los ojos y le conté exactamente lo que pensaba de él.",
+      "back": "I looked him straight in the eye and told him exactly what I thought of him.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Mírame directamente a los ojos y dime que no estás mintiendo.",
+      "back": "Look me straight in the eye and tell me you're not lying.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Ella le miró directamente a los ojos y le dijo que estaba teniendo una aventura.",
+      "back": "She looked him straight in the eye and told him that she was having an affair.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Intenté empezar una conversación con ella, pero hizo como si no me viera.",
+      "back": "I tried to start a conversation with her, but she just looked straight through me.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "¿No te da la sensación de que cuando hablas con él es como si no estuvieras allí?",
+      "back": "Don't you get the feeling that when you talk to him, he looks straight through you?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Le saludamos (a ella), pero hizo como si no nos hubiera visto.",
+      "back": "We said hello to her, but she looked right through us.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Yo nunca podría volver a mirarle (a ella) a la cara.",
+      "back": "I would never be able to look her in the face again.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No sé cómo tienes la poca vergüenza de mirarle (a él) a la cara después de lo que le hiciste.",
+      "back": "I don't know how you can look him in the face after what you did to him.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "No sé qué le pasa (a ella), pero parece que se avergüenza cuando me ve últimamente.",
+      "back": "I don't know what's up with her, but lately she doesn't seem to be able to look me in the face.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Cuando entré en su oficina (él) me miró de arriba abajo.",
+      "back": "When I entered his office he looked me up and down.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Por qué tienes que mirar a la gente de arriba abajo cuando les conoces?",
+      "back": "Why do you have to look people up and down when you meet them?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Sí, creo que se puede llamar acoso sexual la manera que tiene de mirar a las mujeres de arriba abajo en el trabajo.",
+      "back": "Yes, I do think you could call it sexual harassment the way he looks women up and down in the workplace.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Tengo muchas ganas de conocer al jefe nuevo.",
+      "back": "I'm really looking forward to meeting the new boss.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "A la espera de tener noticias suyas.",
+      "back": "I look forward to hearing from you.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "¿Estáis esperando el examen final con ilusión?",
+      "back": "Are you looking forward to the final exam?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "¡No hagas la vista gorda! ¡Haz algo!",
+      "back": "Don't look the other way! Do something!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Él preferiría hacer la vista gorda antes que arriesgarse a tomar una decisión impopular.",
+      "back": "He'd rather look the other way than risk making an unpopular decision.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Me sorprendió la cantidad de gente que hizo la vista gorda.",
+      "back": "I was surprised how many people looked the other way.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Él empieza a aparentar la edad que tiene.",
+      "back": "He's beginning to look his age.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "¿Has visto a Ron últimamente? Aparenta la edad que tiene, ¿verdad?",
+      "back": "Have you seen Ron recently? He's looking his age, isn't he?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Tienes 80 años? No aparentas la edad que tienes.",
+      "back": "You're eighty!? You don't look your age.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Ahora que eres director, tienes que tener un aspecto serio.",
+      "back": "Now that you're a manager, you've got to look the part.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Él aún no tiene un aspecto digno de su posición.",
+      "back": "He doesn't quite look the part yet.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Si quieres el empleo, tienes que tener un aspecto digno del puesto.",
+      "back": "If you want the job, you have to look the part.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Mira el lado bueno de las cosas; no cometerás el mismo error nunca más.",
+      "back": "Look on the bright side; you won't make the same mistake ever again.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Mira el lado bueno; tuviste la oportunidad de practicar tu inglés.",
+      "back": "Look on the bright side; you got to practice your English.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Mira el lado bueno; todo el mundo sabe quién eres ahora.",
+      "back": "Look on the bright side; everybody knows who you are now.",
+      "sourcePage": 75
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "bookId": "vaughan-intensive-english-08",
+  "bookTitle": "Libro 8",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Vivo en Madrid y él también.",
+      "back": "I live in Madrid and so does he.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Vivo en Madrid y ella también.",
+      "back": "I live in Madrid and so does she.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Parezco cansada y ella también.",
+      "back": "I look tired and so does she.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Él parece cansado y John también.",
+      "back": "He looks tired and so does John.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Parece cansada y él también.",
+      "back": "She looks tired and so does he.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Vivo en Madrid y tu amigo también.",
+      "back": "I live in Madrid and so does your friend.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Pareces preocupada y tu marido también.",
+      "back": "You look worried and so does your husband.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-008",
+      "front": "Parece preocupada y su hermana también.",
+      "back": "She looks worried and so does her sister.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-009",
+      "front": "Parecen preocupados y su jefe también.",
+      "back": "They look worried and so does their boss.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-010",
+      "front": "Le sienta muy bien ese vestido.",
+      "back": "That dress looks really good on her.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Esa idea sólo queda bien sobre el papel.",
+      "back": "That idea only looks good on paper.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Tener un MBA queda muy bien en el currículo.",
+      "back": "Having an MBA looks very good on your resume.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "El inglés parece difícil, pero no lo es.",
+      "back": "English looks difficult, but it isn't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "El inglés parece un idioma difícil, pero no lo es.",
+      "back": "English looks like a difficult language, but it isn't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "La física parece una asignatura difícil, pero no lo es.",
+      "back": "Physics looks like a difficult subject, but it isn't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "La comida de mi madre parece sabrosa, mientras que la mía no.",
+      "back": "My mum's cooking looks tasty whereas mine doesn't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-017",
+      "front": "Esta tarta de chocolate parece sabrosa, mientras que aquella no.",
+      "back": "This chocolate cake looks tasty whereas that one doesn't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-018",
+      "front": "Estas magdalenas parecen sabrosas, mientras que aquellas no.",
+      "back": "These cupcakes look tasty whereas those don't.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Cómo es tu mejor amiga físicamente?",
+      "back": "What does your best friend look like?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Qué aspecto tiene por las mañanas?",
+      "back": "What does she look like in the mornings?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Cómo es su casa?",
+      "back": "What does her house look like?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Ella se parece físicamente a su madre, pero en la forma de ser es como su padre.",
+      "back": "She looks like her mother, but she's like her father.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-023",
+      "front": "Mi sobrina se parece físicamente a mi hermana y mi sobrino se parece a mi cuñado.",
+      "back": "My niece looks like my sister and my nephew looks like my brother-in-law.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-024",
+      "front": "Después de celebrar una fiesta, su casa (de ellos) siempre parece un campo de batalla.",
+      "back": "After a party their house always looks like a bombsite.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-025",
+      "front": "¿A quién se parece tu jefe?",
+      "back": "Who does your boss look like?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "¿A quién se parece tu marido, a su madre o a su padre?",
+      "back": "Who does your husband look like, his mother or his father?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¿A quién se parecen tus hijos, a ti o a tu mujer?",
+      "back": "Who do your children look like, you or your wife?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Los gemelos de mis vecinos se parecen.",
+      "back": "My neighbours' identical twins look alike.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Se parecen físicamente tus hermanas?",
+      "back": "Do your sisters look alike?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "No se parecen físicamente, pero sí en la forma de ser.",
+      "back": "They don't look alike, but they are alike.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Un reloj de muñeca no es exactamente igual que uno de pared.",
+      "back": "A watch doesn't look exactly the same as a clock.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Se parece un burro a un caballo?",
+      "back": "Does a donkey look the same as a horse?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-033",
+      "front": "Ella sale exactamente igual en cada foto.",
+      "back": "She looks exactly the same in every picture.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-034",
+      "front": "Suena interesante.",
+      "back": "It sounds interesting.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿A qué suena?",
+      "back": "What does it sound like?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Me parezco a mi madre cuando hablo por teléfono.",
+      "back": "I sound like my mother on the phone.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Sabe rica la comida de tu marido?",
+      "back": "Does your husband's cooking taste good?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-038",
+      "front": "¿A qué sabe la carne de cocodrilo?",
+      "back": "What does crocodile taste like?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-039",
+      "front": "La carne de cocodrilo sabe a pollo.",
+      "back": "Crocodile tastes like chicken.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Qué se siente al estar embarazada?",
+      "back": "What does it feel like to be pregnant?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Es algo maravilloso.",
+      "back": "It feels really good.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Es una experiencia totalmente nueva.",
+      "back": "It feels like a totally new experience.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¿A qué huele en la cocina?",
+      "back": "What does it smell like in the kitchen?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Huele a brécol.",
+      "back": "It smells like broccoli.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Huele fatal.",
+      "back": "It smells really bad!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Huele mal, pero sabe peor.",
+      "back": "It smells bad, but it tastes worse.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-047",
+      "front": "¿A qué suenan?",
+      "back": "What do they sound like?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Qué se siente al ser jefa?",
+      "back": "What does it feel like to be a boss?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Mira dónde se van a casar!",
+      "back": "Look where they're getting married!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "¡Mira por dónde vas!",
+      "back": "Look where you're going!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Mira dónde ha aparcado (él) el coche!",
+      "back": "Look where he's parked his car!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "¡Ay, dios mío! Fíjate en lo que ella lleva puesto.",
+      "back": "Oh, my god! Look what she's wearing.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-053",
+      "front": "¡Mira lo que has hecho ahora!",
+      "back": "Now look what you've done!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-054",
+      "front": "Mira lo que han hecho con su jardín.",
+      "back": "Look what they've done to their garden.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-055",
+      "front": "Fíjate cómo lo hace ella.",
+      "back": "Look how she's doing it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Mira qué bien toca el piano (él).",
+      "back": "Look how well he plays the piano.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Mira qué bien canta (ella).",
+      "back": "Look how beautifully she sings.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Mira quién acaba de llegar y mira con quién está!",
+      "back": "Look who's just arrived and look who he's with!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Mira a quién acaban de ascender!",
+      "back": "Look who just got promoted.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Mira quién se acaba de registrar en el hotel!",
+      "back": "Look who just checked in!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "¡Fíjate cuánto ha crecido (él)!",
+      "back": "Look how much he's grown!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-062",
+      "front": "¡Fíjate cuánta gente hay!",
+      "back": "Look how many people there are!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-063",
+      "front": "¡Mira cuánto nos hemos gastado!",
+      "back": "Look how much we've spent!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Quién cuidará de los niños cuando su madre esté en el hospital?",
+      "back": "Who will look after the children while their mother is in hospital?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Su abuela cuidará de ellos cuando sus padres estén fuera.",
+      "back": "Their grandmother will look after them while their parents are away.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Estoy cuidando al perro de mi hermana mientras ella está de viaje de negocios.",
+      "back": "I'm looking after my sister's dog while she's away on business.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "No sabía deletrearla, así que tuve que buscarla en el diccionario.",
+      "back": "I didn't know the correct spelling, so I had to look it up in the dictionary.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-068",
+      "front": "No tenía su número de teléfono, así que tuve que buscarlo en la guía telefónica.",
+      "back": "I didn't have her phone number, so I had to look it up in the phone book.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-069",
+      "front": "No sabía la letra de la canción, así que tuve que buscarla en internet.",
+      "back": "I didn't know the lyrics of the song, so I had to look them up on the internet.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-070",
+      "front": "Él estaba mirando por la ventana del coche cuando la vio cruzando la calle.",
+      "back": "He was looking out of the car window when he saw her crossing the road.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Estaba mirando por la ventana cuando te vi en la calle.",
+      "back": "I was looking out of the window when I saw you in the street.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Ella estaba mirando por la ventana cuando vio el accidente.",
+      "back": "She was looking out of the window when she saw the accident.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Siempre reviso un contrato antes de firmarlo.",
+      "back": "I always look over a contract before signing it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Antes de ir a una reunión, ella siempre revisa sus propuestas.",
+      "back": "Before going to a meeting, she always looks over her proposals.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Antes de dar un discurso, él normalmente revisa sus notas.",
+      "back": "Before giving a speech, he normally looks over his notes.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Él casi nunca revisa su extracto bancario.",
+      "back": "He hardly ever looks through his bank statement.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-077",
+      "front": "Ella casi nunca revisa su factura telefónica.",
+      "back": "She hardly ever looks through her mobile phone bill.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-078",
+      "front": "Casi nunca hojeo una revista cuando voy a la peluquería.",
+      "back": "I hardly ever look through a magazine when I'm at the hairdresser's.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "Después de estar enfermas durante tres días ellas parecían muy cansadas.",
+      "back": "After being sick for three days, they looked very tired.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "El Barcelona parecía muy cansado frente al Arsenal.",
+      "back": "Barcelona looked very tired against Arsenal.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Chávez parecía cansado la última vez que apareció en la tele.",
+      "back": "Chavez looked tired when he last appeared on TV.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Él dijo que Praga parecía una ciudad de cuento.",
+      "back": "He said that Prague looked like a fairytale city.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-083",
+      "front": "El chaval que se hizo daño se parecía a un amigo mío.",
+      "back": "The guy who got hurt looked like a friend of mine.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-084",
+      "front": "Parecía un avión, pero sonaba como un tren.",
+      "back": "It looked like a plane, but it sounded like a train.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-085",
+      "front": "Ella buscó su boli por todas partes.",
+      "back": "She looked for her pen everywhere.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Él buscó su bici durante tres horas sin parar.",
+      "back": "He looked for his bike for three hours nonstop.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Buscaron su cachorro en el parque.",
+      "back": "They looked for their puppy in the park.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Susan cuidó mis plantas cuando yo estaba en París.",
+      "back": "Susan looked after my plants when I was in Paris.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Primero la busqué en el diccionario y luego la busqué en internet.",
+      "back": "First, I looked it up in the dictionary and then I looked it up on the Internet.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Cuando oí el choque miré por la ventana.",
+      "back": "When I heard the crash, I looked out of the window.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-091",
+      "front": "Miré mi reloj tan pronto como la clase había terminado.",
+      "back": "I looked at my watch as soon as the class was over.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-092",
+      "front": "Él miró el velocímetro tan pronto como vio el coche de policía.",
+      "back": "He looked at the speedometer as soon as he saw the police car.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-093",
+      "front": "Se miraron tan pronto como había terminado la ceremonia.",
+      "back": "They looked at each other as soon as the wedding service was over.",
+      "sourcePage": 47
+    }
+  ]
+}

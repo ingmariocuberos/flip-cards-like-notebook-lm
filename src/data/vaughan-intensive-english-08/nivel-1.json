@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-08",
+  "bookTitle": "Libro 8",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Estoy mirando a tu madre.",
+      "back": "I'm looking at your mother.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Estás mirando a mi hermana.",
+      "back": "You're looking at my sister.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Él está mirando a su hermano.",
+      "back": "He's looking at his brother.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella les está mirando a ellos.",
+      "back": "She's looking at them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Ellos les están mirando a ellas.",
+      "back": "They're looking at them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Les estamos mirando a ellos.",
+      "back": "We're looking at them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Por la mañana me miro en un espejo azul claro.",
+      "back": "In the morning, I look at myself in a light blue mirror.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Por la tarde me miro en un espejo verde claro.",
+      "back": "In the afternoon, I look at myself in a light green mirror.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Por la tarde-noche me miro en un espejo azul oscuro.",
+      "back": "In the evening, I look at myself in a dark blue mirror.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "El lunes mi padre se mira en el espejo rojo, pero el martes se mira en el amarillo.",
+      "back": "On Monday my father looks at himself in the red mirror, but on Tuesday he looks at himself in the yellow one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "El miércoles se mira en el espejo naranja, pero el jueves se mira en el marrón.",
+      "back": "On Wednesday he looks at himself in the orange mirror, but on Thursday he looks at himself in the brown one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "El viernes se mira en el espejo negro, pero el sábado se mira en el blanco.",
+      "back": "On Friday he looks at himself in the black mirror, but on Saturday he looks at himself in the white one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Todos los días ella se mira en el espejo durante dos horas.",
+      "back": "Every day she looks at herself in the mirror for two hours.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Todos los días ella se mira en el espejo durante media hora.",
+      "back": "Every day she looks at herself in the mirror for half an hour.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Todos los días ella se mira en el espejo durante diez minutos.",
+      "back": "Every day she looks at herself in the mirror for ten minutes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "No te estás mirando a ti mismo; estás mirando a tu perro.",
+      "back": "You aren't looking at yourself; you're looking at your dog.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "No te estás mirando a ti mismo; estás mirando a tu gato.",
+      "back": "You aren't looking at yourself; you're looking at your cat.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "No te estás mirando a ti mismo; estás mirando a tu caballo.",
+      "back": "You aren't looking at yourself; you're looking at your horse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No os estáis mirando en un espejo grande; os estáis mirando en uno pequeño.",
+      "back": "You aren't looking at yourselves in a big mirror; you're looking at yourselves in a small one.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "No os estáis mirando a vosotros mismos; les estáis mirando a ellas.",
+      "back": "You aren't looking at yourselves; you're looking at them.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No nos estáis mirando; os estáis mirando a vosotros mismos.",
+      "back": "You aren't looking at us; you're looking at yourselves.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "No se están mirando en su espejo; se están mirando en mi espejo.",
+      "back": "They aren't looking at themselves in their mirror; they're looking at themselves in my mirror.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "No se están mirando a sí mismos; están mirando a sus hijos.",
+      "back": "They aren't looking at themselves; they're looking at their children.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "No están mirando a sus nietos; se están mirando a sí mismos.",
+      "back": "They aren't looking at their grandchildren; they're looking at themselves.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "No se están mirando a sí mismos; se están mirando mutuamente.",
+      "back": "They aren't looking at themselves; they're looking at each other.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "No nos estamos mirando a nosotros mismos; nos estamos mirando mutuamente.",
+      "back": "We aren't looking at ourselves; we're looking at each other.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "No os estáis mirando a vosotros mismos; os estáis mirando mutuamente.",
+      "back": "You aren't looking at yourselves; you're looking at each other.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "Estoy mirando el coche nuevo de Pedro y Carmen.",
+      "back": "I'm looking at Peter and Carmen's new car.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "Él está mirando el ordenador nuevo de Megan y Richard.",
+      "back": "He's looking at Megan and Richard's new computer.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "Están mirando la nueva moto de Sam y Nicole.",
+      "back": "They're looking at Sam and Nicole's new motorbike.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Te estás mirando en el espejo o me estás mirando a mí?",
+      "back": "Are you looking at yourself in the mirror or are you looking at me?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Estás mirando tu coche o estás mirando mi coche?",
+      "back": "Are you looking at your car or are you looking at my car?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Estás mirando al perro de Tom y Gina o estás mirando a su gato?",
+      "back": "Are you looking at Tom and Gina's dog or are you looking at their cat?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Está mirando el periódico?",
+      "back": "Is she looking at the newspaper?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Está mirando a la gente en la calle?",
+      "back": "Is she looking at the people on the street?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Está mirando su reloj?",
+      "back": "Is she looking at her watch?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Qué es lo primero que miras por la mañana?",
+      "back": "What's the first thing you look at in the morning?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Qué estás mirando ahora?",
+      "back": "What are you looking at right now?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Qué es lo último que ves por la noche?",
+      "back": "What's the last thing you look at at night?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Quién te está mirando?",
+      "back": "Who is looking at you?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-041",
+      "front": "¿A quién estás mirando?",
+      "back": "Who are you looking at?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Quién es la segunda persona a la que miras por la mañana?",
+      "back": "Who's the second person you look at in the morning?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Por qué la estás mirando de esa manera?",
+      "back": "Why are you looking at her like that?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Por qué me está mirando ella?",
+      "back": "Why is she looking at me?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Por qué se están mirando el uno al otro?",
+      "back": "Why are they looking at each other?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-046",
+      "front": "Estoy buscando la corbata.",
+      "back": "I'm looking for my tie.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-047",
+      "front": "Él está buscando los zapatos.",
+      "back": "He's looking for his shoes.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-048",
+      "front": "Estamos buscando los abrigos.",
+      "back": "We're looking for our coats.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-049",
+      "front": "Estoy buscando las llaves del coche.",
+      "back": "I'm looking for my car keys.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-050",
+      "front": "Él está buscando las llaves de casa.",
+      "back": "He's looking for his house keys.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-051",
+      "front": "Ella está buscando las llaves de la moto.",
+      "back": "She's looking for her motorbike keys.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-052",
+      "front": "Estás buscando una corbata rojiza.",
+      "back": "You're looking for a reddish tie.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-053",
+      "front": "Ella está buscando una corbata azulada.",
+      "back": "She's looking for a bluish tie.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-054",
+      "front": "Están buscando una corbata verdosa.",
+      "back": "They're looking for a greenish tie.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-055",
+      "front": "Están buscando trabajo.",
+      "back": "They're looking for work.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-056",
+      "front": "Estás buscando un trabajo.",
+      "back": "You're looking for a job.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-057",
+      "front": "Ella está buscando un trabajo de profesora.",
+      "back": "She's looking for a job as a teacher.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-058",
+      "front": "Estás buscando las gafas en el sitio equivocado.",
+      "back": "You're looking for your glasses in the wrong place.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-059",
+      "front": "Estás buscando los vasos en el armario equivocado.",
+      "back": "You're looking for the glasses in the wrong cupboard.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-060",
+      "front": "Estás buscando los cuchillos en el cajón equivocado.",
+      "back": "You're looking for the knives in the wrong drawer.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Lo está buscando él en el piso de arriba?",
+      "back": "Is he looking for it upstairs?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-062",
+      "front": "Él no lo está buscando en el piso de arriba; lo está buscando en el piso de abajo.",
+      "back": "He's not looking for it upstairs; he's looking for it downstairs.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Lo están buscando en el piso de abajo también?",
+      "back": "Are they looking for it downstairs too?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Los estás buscando en el primer cajón?",
+      "back": "Are you looking for them in the top drawer?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-065",
+      "front": "No los estoy buscando en el primer cajón; los estoy buscando en el último.",
+      "back": "I'm not looking for them in the top drawer; I'm looking for them in the bottom one.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Los está buscando ella en el último cajón también?",
+      "back": "Is she looking for them in the bottom drawer too?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Sigue él buscando al candidato adecuado?",
+      "back": "Is he still looking for the right candidate?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Siguen buscando a la niñera adecuada?",
+      "back": "Are they still looking for the right babysitter?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Seguís buscando a la persona adecuada?",
+      "back": "Are you still looking for the right person?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Estás buscándolos también?",
+      "back": "Are you also looking for them?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Los está buscando él también?",
+      "back": "Is he also looking for them?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Lo están buscando también?",
+      "back": "Are they also looking for it?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Qué está buscando la hermana de Sally en el armario?",
+      "back": "What's Sally's sister looking for in the cupboard?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Qué está buscando el hermano de Harry en el cajón?",
+      "back": "What's Harry's brother looking for in the drawer?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Qué están buscando los padres de Nicola en el piso de arriba?",
+      "back": "What are Nicola's parents looking for upstairs?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Mira! Está lloviendo.",
+      "back": "Look! It's raining.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Mirad! Está nevando.",
+      "back": "Look! It's snowing.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Miren! Hay niebla.",
+      "back": "Look! It's foggy.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Mira esa casa rosa!",
+      "back": "Look at that pink house!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Mira esos árboles amarillos!",
+      "back": "Look at those yellow trees!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Mira este teléfono naranja!",
+      "back": "Look at this orange phone!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-082",
+      "front": "Búsquelo en la cocina, por favor.",
+      "back": "Look for it in the kitchen, please.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-083",
+      "front": "Búscalos en tu habitación, por favor.",
+      "back": "Look for them in your bedroom, please.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-084",
+      "front": "Buscad un bolígrafo azul, por favor.",
+      "back": "Look for a blue pen, please.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-085",
+      "front": "¡No mires a esa mujer, Peter!",
+      "back": "Don't look at that woman, Peter!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-086",
+      "front": "¡No mires a ese hombre, Sandra!",
+      "back": "Sandra, don't look at that man!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-087",
+      "front": "¡No me mires así, Tom!",
+      "back": "Don't look at me like that, Tom!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-088",
+      "front": "No busques las llaves en su bolsa (de ella).",
+      "back": "Don't look for your keys in her bag.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-089",
+      "front": "No busques tu gato en mi jardín.",
+      "back": "Don't look for your cat in my garden.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-090",
+      "front": "No busques tu teléfono en mi coche.",
+      "back": "Don't look for your phone in my car.",
+      "sourcePage": 20
+    }
+  ]
+}
