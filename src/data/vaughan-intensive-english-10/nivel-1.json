@@ -1,0 +1,544 @@
+{
+  "bookId": "vaughan-intensive-english-10",
+  "bookTitle": "Libro 10",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Voy!",
+      "back": "I'm coming!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Vamos!",
+      "back": "We're coming!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Él viene en enero.",
+      "back": "He's coming in January.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "No vienen en enero.",
+      "back": "They're not coming in January.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Vienes en enero?",
+      "back": "Are you coming in January?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Cuándo vienes?",
+      "back": "When are you coming?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Cuándo viene él?",
+      "back": "When's he coming?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Cuándo viene ella?",
+      "back": "When's she coming?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Voy el lunes y vuelvo el viernes.",
+      "back": "I'm going on Monday and I'm coming back on Friday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Cuándo vuelve Mark?",
+      "back": "When's Mark coming back?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¡Vuelve!",
+      "back": "Come back!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Vienes en enero o en febrero?",
+      "back": "Are you coming in January or in February?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Daisy no viene en enero, viene en febrero.",
+      "back": "Daisy isn't coming in January, she's coming in February.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No te preocupes; vuelvo en febrero.",
+      "back": "Don't worry; I'm coming back in February.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Él es de Portugal y su mujer es de España.",
+      "back": "He comes from Portugal and his wife comes from Spain.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-016",
+      "front": "Yvette es de Francia y su marido es de la India.",
+      "back": "Yvette comes from France and her husband comes from India.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Daniella es de Italia, pero su madre es de Alemania.",
+      "back": "Daniella comes from Italy, but her mother comes from Germany.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Jhoan no es de Chile, es de Perú.",
+      "back": "Jhoan doesn't come from Chile, he comes from Peru.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No soy de Suecia, soy de España.",
+      "back": "I don't come from Sweden, I come from Spain.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Patrick no es de Dinamarca, es de Irlanda.",
+      "back": "Patrick doesn't come from Denmark, he comes from Ireland.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿De dónde viene el parmesano?",
+      "back": "Where does parmesan cheese come from?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-022",
+      "front": "¿De dónde es Gillian?",
+      "back": "Where does Gillian come from?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "¿De dónde es el suegro de Gillian?",
+      "back": "Where does Gillian's father-in-law come from?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "Soy de la misma parte de Inglaterra que David.",
+      "back": "I come from the same part of England as David.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "Elena es de la misma parte de Cataluña que Alba.",
+      "back": "Elena comes from the same part of Catalonia as Alba.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "François viene de la misma parte de Francia que Gilbert.",
+      "back": "François comes from the same part of France as Gilbert.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "Soy de una parte distinta de España a la de Julio.",
+      "back": "I come from a different part of Spain than Julio.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "Tim es de una parte distinta de Estados Unidos a la de Ron.",
+      "back": "Tim comes from a different part of America than Ron.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "Hans es de una parte distinta de Alemania a la de Helmut.",
+      "back": "Hans comes from a different part of Germany than Helmut.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "Enero va primero, luego febrero.",
+      "back": "January comes first, then February.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-031",
+      "front": "Febrero va primero, luego marzo.",
+      "back": "February comes first, then March.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "Marzo va primero, luego abril.",
+      "back": "March comes first, then April.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "Enero viene antes de febrero, y febrero viene antes de marzo.",
+      "back": "January comes before February, and February comes before March.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "Febrero viene antes de marzo, y marzo viene antes de abril.",
+      "back": "February comes before March, and March comes before April.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "Marzo viene antes de abril, y abril viene antes de mayo.",
+      "back": "March comes before April, and April comes before May.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "Mayo viene después de abril, y junio viene después de mayo.",
+      "back": "May comes after April, and June comes after May.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-037",
+      "front": "Abril viene después de marzo, y mayo viene después de abril.",
+      "back": "April comes after March, and May comes after April.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-038",
+      "front": "Marzo viene después de febrero, y abril viene después de marzo.",
+      "back": "March comes after February, and April comes after March.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-039",
+      "front": "El último mes del año viene antes del primer mes del año siguiente.",
+      "back": "The last month of the year comes before the first month of the following year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-040",
+      "front": "El primer mes del año viene después del último mes del año anterior y antes del segundo mes del año.",
+      "back": "The first month of the year comes after the last month of the previous year and before the second month of the year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-041",
+      "front": "El segundo mes del año viene después del primer mes del año y antes del tercer mes del año.",
+      "back": "The second month of the year comes after the first month of the year and before the third month of the year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Qué mes viene primero, mayo o junio?",
+      "back": "Which month comes first, May or June?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Qué mes viene después de mayo, abril o junio?",
+      "back": "Which month comes after May, April or June?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Qué mes viene antes de abril, marzo o mayo?",
+      "back": "Which month comes before April, March or May?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-045",
+      "front": "Voy a ir a verte en junio.",
+      "back": "I'm going to come and see you in June.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-046",
+      "front": "Voy a ir a verte la semana que viene.",
+      "back": "I'm going to come and see you next week.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-047",
+      "front": "Voy a ir a verte en febrero.",
+      "back": "I'm going to come and see you in February.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-048",
+      "front": "Él va a venir a vernos en abril.",
+      "back": "He's going to come and see us in April.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-049",
+      "front": "Ella va a venir a vernos en enero.",
+      "back": "She's going to come and see us in January.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-050",
+      "front": "Fanny va a venir a vernos la semana que viene.",
+      "back": "Fanny's going to come and see us next week.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-051",
+      "front": "Voy a comprar pan.",
+      "back": "I'm going to buy some bread.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-052",
+      "front": "Voy a buscar las llaves de mi coche.",
+      "back": "I'm going to look for my car keys.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-053",
+      "front": "Él va a preparar la cena.",
+      "back": "He's going to make dinner.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-054",
+      "front": "Van a venir a vernos el mes que viene.",
+      "back": "They're going to come and see us next month.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-055",
+      "front": "Vamos a ir a verte el mes que viene.",
+      "back": "We're going to come and see you next month.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella va a venir a vernos el mes que viene.",
+      "back": "She's going to come and see us next month.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Vamos! Vas a llegar tarde.",
+      "back": "Come on! You're going to be late.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Venga! Vamos a llegar tarde.",
+      "back": "Come on! We're going to be late.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-059",
+      "front": "¡Vamos! Va a llover.",
+      "back": "Come on! It's going to rain.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-060",
+      "front": "No voy a ir a verte en junio.",
+      "back": "I'm not going to come and see you in June.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-061",
+      "front": "No voy a ir a verte en enero, voy a ir a verte en febrero.",
+      "back": "I'm not going to come and see you in January, I'm going to come and see you in February.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-062",
+      "front": "No voy a ir a verte la segunda semana de abril, voy a ir a verte la tercera semana de abril.",
+      "back": "I'm not going to come and see you in the second week of April, I'm going to come and see you in the third week of April.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-063",
+      "front": "No vamos a ir a veros hasta marzo.",
+      "back": "We're not going to come and see you until March.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-064",
+      "front": "No van a venir a vernos hasta junio.",
+      "back": "They're not going to come and see us until June.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-065",
+      "front": "No van a venir a vernos hasta las cinco.",
+      "back": "They're not going to come until five o'clock.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-066",
+      "front": "Mi prima no va a venir hasta el mes que viene.",
+      "back": "My cousin isn't going to come until next month.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi primo no va a venir hasta marzo del año que viene.",
+      "back": "My cousin isn't going to come until next March.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-068",
+      "front": "Mi primo no va a venir a vernos hasta mayo.",
+      "back": "My cousin isn't going to come and see us until May.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-069",
+      "front": "Él no va a venir la semana que viene. De hecho, no va a venir hasta la semana siguiente.",
+      "back": "He's not going to come next week. In fact, he's not going to come until the week after next.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-070",
+      "front": "Ella no va a venir esta semana ni la semana que viene. De hecho, no va a venir hasta la semana siguiente.",
+      "back": "She's not going to come this week or next week. In fact, she's not going to come until the week after next.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-071",
+      "front": "Andie no va a venir este mes ni el mes que viene. De hecho, no va a venir hasta el mes siguiente.",
+      "back": "Andie's not going to come this month or next month. In fact, he's not going to come until the month after next.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Entra!",
+      "back": "Come in!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Entrad! ¡No os voy a comer!",
+      "back": "Come in! I'm not going to eat you!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-074",
+      "front": "¡Venga! ¡Entra!",
+      "back": "Come on! Come in!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Vas a venir la semana que viene?",
+      "back": "Are you going to come next week?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Vas a venir a mi fiesta?",
+      "back": "Are you going to come to my party?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Vas a venir a la reunión?",
+      "back": "Are you going to come to the meeting?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Vas a venir el jueves de la semana que viene?",
+      "back": "Are you going to come next Thursday?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Vais a volver a casa la semana que viene?",
+      "back": "Are you going to come home next week?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Vas a volver antes del fin de semana?",
+      "back": "Are you going to come back before the weekend?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Vas a venir este viernes o vas a venir el viernes de la semana que viene?",
+      "back": "Are you going to come this Friday or are you going to come next Friday?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Vas a venir este miércoles o el miércoles de la semana que viene?",
+      "back": "Are you going to come this Wednesday or next Wednesday?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Vas a venir este sábado o el sábado de la semana que viene?",
+      "back": "Are you going to come this Saturday or next Saturday?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Cuándo vas a venir?",
+      "back": "When are you going to come?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Cuándo vas a venir a vernos?",
+      "back": "When are you going to come and see us?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Cuándo vas a volver?",
+      "back": "When are you going to come back?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Cuándo va a salir él?",
+      "back": "When's he going to come out?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Cuándo va a salir de ahí (ella)?",
+      "back": "When's she going to come out of there?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-089",
+      "front": "¿A qué hora va a salir Sue?",
+      "back": "What time's Sue going to come out?",
+      "sourcePage": 20
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-10",
+  "bookTitle": "Libro 10",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Ven a ver este cuadro de Van Gogh.",
+      "back": "Come and look at this painting by Van Gogh.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Ven a ver este libro de Hemingway.",
+      "back": "Come and look at this book by Hemingway.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Ven a ver estos CDs de AC/DC.",
+      "back": "Come and look at these CDs by AC/DC.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Ven a echar un vistazo a este anuncio del periódico.",
+      "back": "Come check out this newspaper ad!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Ven a echar un vistazo a este anuncio de la tele.",
+      "back": "Come check out this TV advert!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Ven a echar un vistazo a este anuncio de la radio.",
+      "back": "Come check out this radio commercial.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "La gente iba y venía todo el día.",
+      "back": "People were coming and going all day.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "La imagen de mi televisión aparece y desaparece por momentos.",
+      "back": "The picture on my TV comes and goes all the time.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "El dolor en mi cuello va y viene.",
+      "back": "The pain in my neck comes and goes.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "El gobierno ha llegado a un acuerdo con los trabajadores.",
+      "back": "The government has come to an agreement with the workers.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Han llegado a un acuerdo para que se les suba los salarios.",
+      "back": "They have come to an agreement to increase their salaries.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Han llegado a un acuerdo para subir un 15% el salario.",
+      "back": "They have come to an agreement on a 15% salary increase.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "La guerra civil de 6 años en Liberia terminó en 1996.",
+      "back": "The six-year civil war in Liberia came to an end in 1996.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "La huelga de tres meses terminó ayer a las siete de la tarde.",
+      "back": "The three-month strike came to an end at seven o'clock yesterday evening.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "El proyecto de dos años finalizó la semana pasada.",
+      "back": "The two-year project came to an end last week.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "He venido a buscar a Manuela.",
+      "back": "I've come for Manuela.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Él ha venido a buscar el borrador del contrato.",
+      "back": "He's come for the draft contract.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "La madre de Lucas vino a buscarle hace tres horas.",
+      "back": "Lucas's mother came for him three hours ago.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "A él le llegaba el agua del charco a los tobillos.",
+      "back": "The water in the puddle came up to his ankles.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "El agua del estanque me llegaba a las rodillas.",
+      "back": "The water in the pond came up to my knees.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "A ella le llega el agua del lago a la cintura.",
+      "back": "The water in the lake comes up to her waist.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Te regalan este estuche con las lentillas.",
+      "back": "This case comes free with the contact lenses.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "El coche te lo dan con el trabajo.",
+      "back": "The car comes with the job.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "El lavaplatos viene con instrucciones.",
+      "back": "The dishwasher comes with instructions.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Cáncer va entre Géminis y Leo.",
+      "back": "Cancer comes between Gemini and Leo.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Libra va entre Virgo y Escorpio.",
+      "back": "Libra comes between Virgo and Scorpio.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Capricornio va entre Sagitario y Acuario.",
+      "back": "Capricorn comes between Sagittarius and Aquarius.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Los globos aerostáticos están disponibles en todas las formas y colores.",
+      "back": "Hot-air balloons come in all shapes and colours.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Los sombreros victorianos vienen en muchas formas y tamaños.",
+      "back": "Victorian hats come in many shapes and sizes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Las bisagras vienen en diferentes formas, tamaños y colores.",
+      "back": "Hinges come in different shapes, sizes and colours.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "No se lo cuentes a ella, pase lo que pase.",
+      "back": "Don't tell her, come what may.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "No te enfades, pase lo que pase.",
+      "back": "Don't get angry, come what may.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "No te vayas, pase lo que pase.",
+      "back": "Don't leave, come what may.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Era un restaurante tan caro que la comida ascendió a 150 €.",
+      "back": "It was such an expensive restaurant that lunch came to €150!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Es un hotel tan barato que la habitación para tres noches sólo fueron 60 €.",
+      "back": "It's such a cheap hotel that the room for three nights came to only €60!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Es una tienda tan cara que sólo dos camisas cuestan 100 €.",
+      "back": "It's such an expensive shop that only two shirts came to €100!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Tengo tanto que hacer que estoy hecha un lío.",
+      "back": "I have so much to do that I don't know whether I'm coming or going.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Los cambios recientes hacen que los trabajadores estén hechos un lío.",
+      "back": "The recent changes mean that most workers don't know whether they're coming or going.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Pareces hecha un lío.",
+      "back": "You look as if you don't know whether you're coming or going.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Vas a ir así vestido a la boda de Tim? ¡Venga ya!",
+      "back": "You are going to Tim's wedding dressed like that? Come off it!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Dices que Lisa va a cantar en el coro de la iglesia? ¡Venga ya!",
+      "back": "You say Lisa is going to sing in the church choir? Come off it!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Quieres comprarte un Ferrari? ¡Venga ya!",
+      "back": "You want to buy a Ferrari? Come off it!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Un objeto contundente viene muy bien cuando quieres golpear a un ladrón en la cabeza.",
+      "back": "A blunt instrument comes in handy when you want to hit a burglar on the head.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Una batidora resulta muy útil cuando quieres preparar un batido.",
+      "back": "A blender comes in handy when you want to make a milkshake.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Pintura y una brocha vienen muy bien cuando quieres decorar una habitación.",
+      "back": "Paint and a paintbrush come in handy when you want to decorate a room.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Sé que Peter llegó primero en la carrera de la semana pasada.",
+      "back": "I know Peter came first in last week's race.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Sabes quién quedó primero en la carrera de esta semana?",
+      "back": "Do you know who came first in this week's race?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Mis hijos son lo primero.",
+      "back": "My children come first.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Quien llegue primero se lleva la copa; quien llegue segundo gana una medalla.",
+      "back": "Whoever comes first wins the cup; whoever comes second wins a medal.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Megan quedó primera el año pasado, pero quedó segunda este año.",
+      "back": "Megan came first last year, but she came second this year.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Mrs. Williams quedó primera y Mr. Pilgrim quedó segundo en las pasadas elecciones.",
+      "back": "Mrs Williams came first and Mr Pilgrim came second in the last election.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Sé quién ha quedado primero y segundo, pero no sé quién ha llegado el último.",
+      "back": "I know who came first and second, but I don't know who came last.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Al parecer, sólo los que lleguen primero o segundo ganarán un premio; la persona que llegue en último lugar no se lleva nada.",
+      "back": "Apparently, only those who come first and second win a prize; the person who comes last doesn't win anything.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "El Presidente Mohamed Orfali quedó en último lugar en la encuesta.",
+      "back": "President Mohamed Orfali came last in the survey.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "China estaba en lo alto del medallero con 54 oros.",
+      "back": "China came top of the medal table with 54 golds.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "El Manchester United quedó en lo alto de la tabla la pasada temporada.",
+      "back": "Manchester United came top of the league last season.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Stewart ha sido el número uno por tercer año consecutivo.",
+      "back": "Stewart came top for the third consecutive year.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Lucía fue la alumna más aventajada y Marisa la alumna menos aventajada de la clase.",
+      "back": "Lucia came top and Marisa came bottom of the class.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "El Manchester United quedó primero de la Liga y el Bolton el último.",
+      "back": "Manchester United came top and Bolton came bottom of the league.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Una compañía alemana ocupa el primer lugar, mientras que el último lo ocupa una francesa.",
+      "back": "A German company comes top whereas a French one comes bottom of the list.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "El pomo de la puerta no deja de desprenderse.",
+      "back": "The knob keeps coming loose.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Apriétalo con un destornillador o seguirá aflojándose.",
+      "back": "Tighten it with a screwdriver or it will keep coming loose.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Por qué no dejan de desatarse los cordones?",
+      "back": "Why do my shoelaces keep coming loose?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Por muy bien que lo pegues, el gancho del baño siempre se despega.",
+      "back": "It doesn't matter how well you stick it, the hook in the bathroom always comes unstuck.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Por muy bien que lo pegues, siempre se despega.",
+      "back": "No matter how well you stick it, it always comes unstuck.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Por mucho pegamento que uses, el póster siempre se despega.",
+      "back": "No matter how much glue you use, the poster always comes unstuck.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Le miré y vi que se le había desatado el cordón.",
+      "back": "I looked at him and saw that his shoelace had come undone.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Miré para abajo y vi que se me había bajado la cremallera.",
+      "back": "I looked down and saw that my zipper had come undone.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "De repente se dio cuenta de que se le habían desabrochado los botones.",
+      "back": "He suddenly realized his buttons had come undone.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Más vale que lo pegues bien o se despegará de nuevo.",
+      "back": "You'd better stick it properly or it will come off again.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Más vale que no te toques la costra o se te caerá.",
+      "back": "You'd better not touch the scab or it will come off.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Más vale que uses celo o se desprenderá.",
+      "back": "You'd better use sellotape or it will come off.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Fue un sueño hecho realidad?",
+      "back": "Was it a dream come true?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Es un sueño hecho realidad para todos nosotros.",
+      "back": "It's a dream come true for all of us.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Has hecho que se cumplan mis sueños.",
+      "back": "You have made my dreams come true.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "El jarrón se rompió y tuvieron que pegar los trozos de nuevo.",
+      "back": "The vase came apart and they had to glue all the pieces back together.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "La caldera se desarmó y un técnico tuvo que volver a montarla.",
+      "back": "The boiler came apart and a technician had to put it back together.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "El espejo retrovisor se desmontó y él tuvo que volver a pegar la base.",
+      "back": "The rear view mirror came apart and he had to stick the base back on.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Se os ha ocurrido alguna sugerencia?",
+      "back": "Have you come up with any suggestions?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Se le ocurren a él las mentiras más increíbles.",
+      "back": "He comes up with the most incredible lies.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Se les ocurrió una propuesta propia.",
+      "back": "They came up with their own proposal.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Ella dio con un artículo interesante sobre parásitos mientras ojeaba una revista.",
+      "back": "She came across an interesting article on parasites while looking through a magazine.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Mi padre se encontró los apuntes del cole mientras ordenaba el trastero.",
+      "back": "My father came across his school notes while he was tidying up the store cupboard.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Él se encontró su vieja cámara mientras buscaba el cargador del móvil.",
+      "back": "He came across his old camera while looking for his phone charger.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "La mancha de tomate no salió después de meter la prenda en la lavadora.",
+      "back": "The tomato sauce stain didn't come out in the wash.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Mis fotos nunca salen bien.",
+      "back": "My photos never come out well.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "El último disco de Wombats se lanzó ayer.",
+      "back": "The latest Wombats' record came out yesterday.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Peter se pasó por casa para disculparse por lo que había dicho.",
+      "back": "Peter came over to apologize for what he said.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Te pasarás por casa a tomar café en algún momento esta semana?",
+      "back": "Will you come over for coffee sometime this week?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Anoche Susan vino a casa a cenar.",
+      "back": "Susan came over for dinner last night.",
+      "sourcePage": 47
+    }
+  ]
+}
