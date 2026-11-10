@@ -49,6 +49,8 @@ sources/*.pdf
 sources/**/*.pdf
 sources/**/*__chunks/
 sources/**/*__pngs/
+sources/english/*.ocr.txt
+drive-download-*.zip
 
 # --- Notas internas (workflow privado, no compartir) ---
 sources/WORKFLOW.md

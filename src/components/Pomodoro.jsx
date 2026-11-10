@@ -147,7 +147,7 @@ export default function Pomodoro() {
     <main className="screen pomodoro-screen">
       <header className="screen-header library-header">
         <h1>Tarjetas didácticas</h1>
-        <p className="muted">Deutsch · Bücher</p>
+        <p className="muted">{book?.language === 'en' ? 'English · Books' : 'Deutsch · Bücher'}</p>
         <LibraryTabs />
       </header>
 
@@ -186,7 +186,7 @@ export default function Pomodoro() {
         <h2>Tarjetas para este flow</h2>
         <div className="pomodoro-selects">
           <label>Libro<select value={book?.bookId ?? ''} onChange={(event) => chooseBook(event.target.value)} disabled={isRunning}>{books.map((item) => <option key={item.bookId} value={item.bookId}>{item.bookTitle}</option>)}</select></label>
-          <label>Sektion<select value={sektion?.sektionId ?? ''} onChange={(event) => chooseSektion(event.target.value)} disabled={isRunning}>{book?.sektionen.map((item) => <option key={item.sektionId} value={item.sektionId}>{item.sektionTitle}</option>)}</select></label>
+          <label>{book?.language === 'en' ? 'Nivel' : 'Sektion'}<select value={sektion?.sektionId ?? ''} onChange={(event) => chooseSektion(event.target.value)} disabled={isRunning}>{book?.sektionen.map((item) => <option key={item.sektionId} value={item.sektionId}>{item.sektionTitle}</option>)}</select></label>
         </div>
         {sektion && <>
           <div className="pomodoro-select-actions">
@@ -208,6 +208,7 @@ export default function Pomodoro() {
           {timer.phase !== 'break' && <button type="button" onClick={() => setShowCards((shown) => !shown)}>{showCards ? 'Ocultar tarjetas' : 'Abrir tarjetas'}</button>}
         </div>
         {(showCards || timer.phase === 'break') && card && <>
+          {card.sourcePage && <p className="source-page">Página {card.sourcePage} del PDF</p>}
           <Card front={card.front} back={card.back} flipped={flipped} onClick={() => setFlipped((value) => !value)} />
           <div className="pomodoro-card-controls">
             <button type="button" className="warn-btn" onClick={() => mark('not_understood')}>No entendí</button>

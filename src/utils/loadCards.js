@@ -33,6 +33,7 @@ function loadAll() {
       booksById.set(json.bookId, {
         bookId: json.bookId,
         bookTitle: json.bookTitle,
+        language: json.language === 'en' ? 'en' : 'de',
         sektionen: []
       });
     }

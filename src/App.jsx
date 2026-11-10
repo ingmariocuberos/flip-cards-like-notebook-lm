@@ -18,6 +18,7 @@ export default function App() {
         <Route path="/" element={<BookList />} />
         <Route path="/buch/:bookId" element={<SektionList />} />
         <Route path="/buch/:bookId/sektion/:sektionId" element={<CardDeck />} />
+        <Route path="/buch/:bookId/nivel/:sektionId" element={<CardDeck />} />
         <Route path="/review" element={<ReviewDeck />} />
         <Route path="/progreso" element={<ProgressTransfer />} />
         <Route path="/pomodoro" element={<Pomodoro />} />

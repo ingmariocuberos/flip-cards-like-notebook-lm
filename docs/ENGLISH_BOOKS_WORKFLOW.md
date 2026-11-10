@@ -1,0 +1,39 @@
+# Tarjetas de inglés: procedimiento y avance
+
+## Fuente y estructura
+
+- Archivo recibido: `drive-download-20261110T145320Z-1-001.zip` (20 PDF, `Libro 01.pdf` a `Libro 20.pdf`).
+- Extracción local: `sources/english/`. Estos PDF y el ZIP no se versionan ni se incluyen en Vite.
+- Libro 1: *Vaughan Intensive English*, 88 páginas PDF, una lección con tres niveles: básico (páginas PDF 4–31), intermedio (32–59) y avanzado (60–87). La página 88 es la contraportada.
+- Cada nivel se publica como un JSON en `src/data/vaughan-intensive-english-01/`. El campo interno `sektionId` sigue siendo necesario para el cargador y para las claves de `localStorage`; en la interfaz se muestra como “Nivel”.
+- Identificadores ya asignados: `bookId = vaughan-intensive-english-01`; `sektionId = nivel-basico`, `nivel-intermedio`, `nivel-avanzado`. Los ID de las tarjetas son `s1-001`, `s2-001`, `s3-001`, etc. **No renombrarlos después de publicar**, pues se perdería su progreso.
+
+## Estado del piloto
+
+| Nivel | PDF | JSON | Tarjetas | Estado |
+| --- | --- | --- | ---: | --- |
+| Básico | 4–31 | `nivel-1.json` | 113 | Redactado y compilado |
+| Intermedio | 32–59 | `nivel-2.json` | 119 | Redactado y compilado |
+| Avanzado | 60–87 | `nivel-3.json` | 121 | Redactado y compilado |
+
+Las tarjetas reúnen frases de los ejercicios, vocabulario y diálogos. La cara frontal pregunta en español y la posterior da la respuesta en inglés. `sourcePage` apunta al **número de página del PDF**, no al número impreso en la hoja, y se muestra en la aplicación para consultar el libro. Páginas introductorias, pasatiempos gráficos, instrucciones que requieren el audio y páginas de respuestas no generan tarjetas repetidas.
+
+## Repetir el proceso con otro libro
+
+1. Extraer el PDF correspondiente en `sources/english/`.
+2. Verificar si tiene texto con `fitz.open(...)[0].get_text()`. Estos PDF son escaneos sin capa de texto.
+3. Renderizar: `python3 tools/render-scanned-pdf.py 'sources/english/Libro 02.pdf'`. Requiere PyMuPDF (`fitz`). Los PNG en `__pngs` se ignoran en Git.
+4. Ejecutar OCR con Apple Vision: `swift tools/ocr-scanned-pages.swift 'sources/english/Libro 02__pngs' > 'sources/english/Libro 02.ocr.txt'`. Requiere macOS con Swift y Vision. La salida OCR se ignora en Git. También se puede compilar una vez con `swiftc` para procesar varios lotes.
+5. Inspeccionar visualmente el PDF. El OCR intercala columnas y confunde `I` con `1`, contracciones, nombres y signos; no copiar frases sin verificar. Registrar la página PDF exacta de cada ejemplo.
+6. Crear un `bookId` nuevo para el siguiente libro y tres archivos por nivel con los campos `bookId`, `bookTitle`, `language: "en"`, `sektionId`, `sektionTitle`, `order`, `cards`. Cada tarjeta lleva `id`, `front`, `back` y `sourcePage`.
+7. Revisar que no haya pares repetidos, que los ID sean estables, que el español sea inequívoco y que el inglés coincida con el ejemplo o la construcción explicada por el libro. Ejecutar `npm run build` y probar selección de idioma, nivel, giro de tarjeta y marcación de progreso.
+
+El libro 1 tiene un generador reproducible en `tools/build-english-book-01.py`; ese archivo conserva el texto revisado, la página y el orden de cada tarjeta. Al modificarlo, volver a ejecutar el script y revisar el JSON generado. Para libros posteriores se puede reutilizar el mismo formato de pares con página.
+Tras publicar un nivel, añadir nuevas tarjetas al final de su lista: el generador asigna ID según el orden y mover filas cambiaría las claves de progreso existentes.
+
+## Integración en la aplicación
+
+- `language: "en"` separa los libros ingleses en la biblioteca. Los JSON alemanes no se modifican y se consideran `de` si no tienen ese campo.
+- La ruta visible para cada nivel es `/buch/:bookId/nivel/:sektionId`; usa el mismo `CardDeck` y las mismas valoraciones `understood` y `not_understood`.
+- El repaso rápido usa claves independientes: alemán conserva `flashcards:review:v1`; inglés usa `flashcards:review:v1:en`.
+- Pomodoro puede seleccionar las tarjetas del libro inglés y llama “Nivel” al selector. La exportación de progreso incluye ambas lenguas porque copia todas las claves `flashcards:`.

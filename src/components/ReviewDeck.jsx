@@ -1,18 +1,21 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import Card from './Card.jsx';
 import {
   getUnderstoodCards,
   readReviewState,
   reconcileReviewState,
-  REVIEW_KEY,
+  reviewKey,
   startReview
 } from '../utils/review.js';
 
 export default function ReviewDeck() {
-  const cards = useMemo(getUnderstoodCards, []);
+  const [searchParams] = useSearchParams();
+  const language = searchParams.get('idioma') === 'ingles' ? 'en' : 'de';
+  const backTo = language === 'en' ? '/?idioma=ingles' : '/';
+  const cards = useMemo(() => getUnderstoodCards(language), [language]);
   const [review, setReview] = useState(() => {
-    const saved = reconcileReviewState(readReviewState(), cards);
+    const saved = reconcileReviewState(readReviewState(language), cards);
     return saved.session && saved.session.index < saved.session.ids.length
       ? saved
       : startReview(saved, cards);
@@ -25,11 +28,11 @@ export default function ReviewDeck() {
 
   useEffect(() => {
     try {
-      window.localStorage.setItem(REVIEW_KEY, JSON.stringify(review));
+      window.localStorage.setItem(reviewKey(language), JSON.stringify(review));
     } catch (error) {
       console.warn('[review] failed to save progress:', error);
     }
-  }, [review]);
+  }, [review, language]);
 
   useEffect(() => {
     setFlipped(false);
@@ -64,9 +67,9 @@ export default function ReviewDeck() {
   return (
     <main className="screen deck-screen">
       <header className="screen-header">
-        <Link to="/" className="back-link">← Tarjetas didácticas</Link>
+        <Link to={backTo} className="back-link">← Tarjetas didácticas</Link>
         <h1>Repaso rápido</h1>
-        <p className="muted">Tarjetas entendidas de todos tus libros y Sektionen.</p>
+        <p className="muted">Tarjetas entendidas de tus libros de {language === 'en' ? 'inglés' : 'alemán'}.</p>
       </header>
 
       {!session ? (
@@ -78,13 +81,14 @@ export default function ReviewDeck() {
             <button onClick={() => setReview((current) => startReview(current, cards))}>
               Nuevo repaso
             </button>
-            <Link to="/" className="button-link">Volver al inicio</Link>
+            <Link to={backTo} className="button-link">Volver al inicio</Link>
           </div>
         </div>
       ) : (
         <>
           <div className="deck-counter">{session.index + 1} / {session.ids.length}</div>
           <p className="review-source">{currentCard.bookTitle} · {currentCard.sektionTitle}</p>
+          {currentCard.sourcePage && <p className="source-page">Página {currentCard.sourcePage} del PDF</p>}
           <Card
             front={currentCard.front}
             back={currentCard.back}

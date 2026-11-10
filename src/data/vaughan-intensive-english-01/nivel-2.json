@@ -1,0 +1,724 @@
+{
+  "bookId": "vaughan-intensive-english-01",
+  "bookTitle": "Vaughan Intensive English — Libro 1",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Compré un libro para mi hermana.",
+      "back": "I bought a book for my sister.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-002",
+      "front": "Él compró un CD para su mujer.",
+      "back": "He bought a CD for his wife.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-003",
+      "front": "Ella compró un regalo para su amiga.",
+      "back": "She bought a present for her friend.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-004",
+      "front": "Compramos un coche nuevo.",
+      "back": "We bought a new car.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-005",
+      "front": "Ellos compraron un ordenador nuevo.",
+      "back": "They bought a new computer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-006",
+      "front": "Ella compró un vestido nuevo.",
+      "back": "She bought a new dress.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-007",
+      "front": "Ed compró un zumo de naranja para desayunar.",
+      "back": "Ed bought an orange juice for breakfast.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-008",
+      "front": "Olga compró una ensalada de berenjena para comer.",
+      "back": "Olga bought an eggplant salad for lunch.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-009",
+      "front": "Alan compró una tarta de manzana para cenar.",
+      "back": "Alan bought an apple pie for dinner.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-010",
+      "front": "Carl compró un coche ayer.",
+      "back": "Carl bought a car yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-011",
+      "front": "Diana compró un vestido ayer.",
+      "back": "Diana bought a dress yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-012",
+      "front": "Nick y Laura compraron un ordenador ayer.",
+      "back": "Nick and Laura bought a computer yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-013",
+      "front": "Jack compró una chaqueta muy bonita ayer.",
+      "back": "Jack bought a really nice jacket yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-014",
+      "front": "Jim compró un jersey muy bonito ayer.",
+      "back": "Jim bought a really nice jumper yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-015",
+      "front": "Shirley compró una camisa muy bonita ayer.",
+      "back": "Shirley bought a really nice shirt yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-016",
+      "front": "No compré nada en las tiendas ayer.",
+      "back": "I didn't buy anything at the shops yesterday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-017",
+      "front": "Steve no compró nada en la farmacia.",
+      "back": "Steve didn't buy anything at the chemist's.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-018",
+      "front": "Sarah tampoco compró nada en la farmacia.",
+      "back": "Sarah didn't buy anything at the chemist's either.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-019",
+      "front": "No compraron suficientes adornos para el árbol de Navidad.",
+      "back": "They didn't buy enough decorations for the Christmas tree.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-020",
+      "front": "No compré suficientes sellos para enviar esto a Polonia.",
+      "back": "I didn't buy enough stamps to send this to Poland.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-021",
+      "front": "No compramos suficiente bebida para la fiesta.",
+      "back": "We didn't buy enough drinks for the party.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-022",
+      "front": "No compré mucho en la carnicería.",
+      "back": "I didn't buy much at the butcher's.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-023",
+      "front": "John tampoco compró mucho en la carnicería.",
+      "back": "John didn't buy much at the butcher's either.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-024",
+      "front": "No compramos mucho al final.",
+      "back": "We didn't buy much in the end.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-025",
+      "front": "No compré mucha carne en la carnicería.",
+      "back": "I didn't buy much meat at the butcher's.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-026",
+      "front": "Ella no compró mucho pescado en la pescadería.",
+      "back": "She didn't buy much fish at the fishmonger's.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-027",
+      "front": "No compraron mucha agua mineral en el supermercado.",
+      "back": "They didn't buy much mineral water at the supermarket.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-028",
+      "front": "Al final él no compró tanto.",
+      "back": "In the end, he didn't buy that much.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-029",
+      "front": "Al final no compraron tanto en las rebajas.",
+      "back": "In the end, they didn't buy that much at the sales.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-030",
+      "front": "Al final no compramos tanto porque estábamos cansados.",
+      "back": "In the end, we didn't buy that much because we were tired.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Compraste suficiente comida para esta noche?",
+      "back": "Did you buy enough food for tonight?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Me compraste algo en Londres?",
+      "back": "Did you buy anything for me in London?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Compraste mucha carne en el supermercado?",
+      "back": "Did you buy much meat at the supermarket?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Compraste un sello para tu carta?",
+      "back": "Did you buy a stamp for your letter?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Compraste un bocadillo para comer?",
+      "back": "Did you buy a sandwich for lunch?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Compraste un regalo para tu madre?",
+      "back": "Did you buy a present for your mother?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Qué compraron ayer?",
+      "back": "What did they buy yesterday?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Susan compró suficiente vino ayer?",
+      "back": "Did Susan buy enough wine yesterday?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Paul compró algo ayer?",
+      "back": "Did Paul buy anything yesterday?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Sam compró algo en la tienda del aeropuerto?",
+      "back": "Did Sam buy anything at the airport shop?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Compraste algo para mí ayer?",
+      "back": "Did you buy anything for me yesterday?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Compraron algo en la pescadería?",
+      "back": "Did they buy anything at the fishmonger's?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Compraste algo al final?",
+      "back": "Did you buy anything in the end?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Qué compró Tina al final?",
+      "back": "What did Tina buy in the end?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Ella compró aquel vestido rojo al final?",
+      "back": "Did she buy that red dress in the end?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-046",
+      "front": "Un cinturón.",
+      "back": "A belt.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Un traje.",
+      "back": "A suit.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Una corbata.",
+      "back": "A tie.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Una camisa.",
+      "back": "A shirt.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Una bata.",
+      "back": "A dressing-gown.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Una falda.",
+      "back": "A skirt.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Una gabardina.",
+      "back": "A rain coat.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-053",
+      "front": "Unas zapatillas de casa.",
+      "back": "Some slippers.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-054",
+      "front": "Un pijama.",
+      "back": "Some pyjamas.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-055",
+      "front": "Unas zapatillas deportivas.",
+      "back": "Some trainers.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-056",
+      "front": "Ella se está probando un cinturón.",
+      "back": "She's trying on a belt.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-057",
+      "front": "Él se está probando un traje.",
+      "back": "He's trying on a suit.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "He comprado tres libros este mes.",
+      "back": "I've bought three books this month.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-059",
+      "front": "He comprado diez DVD este mes.",
+      "back": "I've bought ten DVDs this month.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-060",
+      "front": "He comprado siete pares de zapatos este año.",
+      "back": "I've bought seven pairs of shoes this year.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-061",
+      "front": "Ella ha comprado muchas cosas hoy.",
+      "back": "She's bought a lot of things today.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Ella ha comprado cinco blusas este año.",
+      "back": "She's bought five blouses this year.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Ella ha comprado tres vestidos también.",
+      "back": "She's bought three dresses too.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Él ha comprado un neumático nuevo para su bici.",
+      "back": "He's bought a new tire for his bike.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-065",
+      "front": "¡Él ha comprado otra corbata!",
+      "back": "He's bought another tie!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Él ha comprado enjuague bucal por fin!",
+      "back": "He's bought some mouthwash at last!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-067",
+      "front": "He comprado diez pares de calcetines esta semana.",
+      "back": "I've bought ten pairs of socks this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Ella ha comprado mucha comida esta semana.",
+      "back": "She's bought a lot of food this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Él ha comprado unas cosas para su coche esta semana.",
+      "back": "He's bought some things for his car this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "He comprado veinte cafés en lo que va de semana.",
+      "back": "I've bought twenty coffees so far this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Él ha comprado cuatro paquetes de cigarrillos en lo que va de semana.",
+      "back": "He's bought four packets of cigarettes so far this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Ella ha comprado seis botellas de cerveza en lo que va de semana.",
+      "back": "She's bought six bottles of beer so far this week.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "No compro leche desde hace días.",
+      "back": "I haven't bought any milk for days.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-074",
+      "front": "No compro pan desde hace días.",
+      "back": "I haven't bought any bread for days.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-075",
+      "front": "No compro cereales desde hace días.",
+      "back": "I haven't bought any cereal for days.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-076",
+      "front": "Él no compra vino desde hace semanas.",
+      "back": "He hasn't bought any wine for weeks.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Él no compra ningún CD desde hace semanas.",
+      "back": "He hasn't bought any CDs for weeks.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Él no compra ningún libro desde hace semanas.",
+      "back": "He hasn't bought any books for weeks.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "No compran cigarrillos desde hace años.",
+      "back": "They haven't bought any cigarettes for years.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-080",
+      "front": "No compran alcohol desde hace años.",
+      "back": "They haven't bought any alcohol for years.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-081",
+      "front": "No compran chocolate desde hace años.",
+      "back": "They haven't bought any chocolate for years.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-082",
+      "front": "No compro nada de ropa desde hace tiempo.",
+      "back": "I haven't bought any clothes for a long time.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "No compro nada de café desde hace tiempo.",
+      "back": "I haven't bought any coffee for a long time.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "No compro joyas desde hace tiempo.",
+      "back": "I haven't bought any jewelry for a long time.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Ella no compra vino desde hace mucho tiempo.",
+      "back": "She hasn't bought any wine for ages.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Ella no compra ningún CD desde hace mucho tiempo.",
+      "back": "She hasn't bought any CDs for ages.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Ella no compra ningún libro desde hace mucho tiempo.",
+      "back": "She hasn't bought any books for ages.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Me has comprado un regalo alguna vez?",
+      "back": "Have you ever bought me a present?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Le has comprado alguna vez un anillo a tu mujer?",
+      "back": "Have you ever bought your wife a ring?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Le has comprado alguna vez un coche a tu hijo?",
+      "back": "Have you ever bought your son a car?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-091",
+      "front": "¿Te ha invitado ella a desayunar alguna vez?",
+      "back": "Has she ever bought you breakfast?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Ha invitado ella alguna vez a su hermano a comer?",
+      "back": "Has she ever bought her brother lunch?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-093",
+      "front": "¿Ha invitado ella alguna vez a su hermana a cenar?",
+      "back": "Has she ever bought her sister dinner?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-094",
+      "front": "¿Te ha invitado él a un café alguna vez?",
+      "back": "Has he ever bought you a coffee?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-095",
+      "front": "¿Te ha invitado él alguna vez a una cerveza?",
+      "back": "Has he ever bought you a beer?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-096",
+      "front": "¿Te ha invitado él alguna vez a una copa?",
+      "back": "Has he ever bought you a drink?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-097",
+      "front": "¿Qué le has comprado a él?",
+      "back": "What have you bought him?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-098",
+      "front": "¿Qué les has comprado a ellos?",
+      "back": "What have you bought them?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-099",
+      "front": "¿Qué le has comprado a ella?",
+      "back": "What have you bought her?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-100",
+      "front": "¿Qué me ha comprado él?",
+      "back": "What's he bought for me?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-101",
+      "front": "¿Qué te ha comprado él?",
+      "back": "What's he bought for you?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-102",
+      "front": "¿Qué les ha comprado él a ellos?",
+      "back": "What's he bought for them?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-103",
+      "front": "¿Compraste la bebida para la fiesta de esta noche?",
+      "back": "Did you buy the drink for the party tonight?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-104",
+      "front": "¿Qué bebida compraste?",
+      "back": "What drink did you buy?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-105",
+      "front": "Compré vino y cerveza.",
+      "back": "I bought some wine and I bought some beer.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-106",
+      "front": "¿Compraste zumo de fruta?",
+      "back": "Did you buy any fruit juice?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-107",
+      "front": "Compré zumo de naranja y zumo de piña.",
+      "back": "I bought some orange juice and I bought some pineapple juice.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-108",
+      "front": "¿No compraste zumo de manzana?",
+      "back": "Didn't you buy any apple juice?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-109",
+      "front": "No, no compré zumo de manzana.",
+      "back": "No, I didn't buy any apple juice.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-110",
+      "front": "¿Compro zumo de manzana ahora?",
+      "back": "Shall I buy some apple juice now?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-111",
+      "front": "¿Compraste comida?",
+      "back": "Did you buy any food?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-112",
+      "front": "Compré unos aperitivos.",
+      "back": "I bought some snacks.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-113",
+      "front": "¿Qué aperitivos compraste?",
+      "back": "What snacks did you buy?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-114",
+      "front": "Compré aceitunas y patatas fritas de bolsa.",
+      "back": "I bought some olives and some potato chips.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-115",
+      "front": "¿Compraste queso?",
+      "back": "Did you buy any cheese?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-116",
+      "front": "Compré queso y también jamón.",
+      "back": "I bought some cheese and some ham too.",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-117",
+      "front": "Ahora me debes sesenta dólares.",
+      "back": "Now you owe me sixty dollars!",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-118",
+      "front": "¿No puedo invitarte a una copa en vez de eso?",
+      "back": "Can't I buy you a drink instead?",
+      "sourcePage": 52
+    },
+    {
+      "id": "s2-119",
+      "front": "¿Me estás tomando el pelo?",
+      "back": "Are you pulling my leg?",
+      "sourcePage": 52
+    }
+  ]
+}

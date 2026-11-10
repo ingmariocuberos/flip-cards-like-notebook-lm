@@ -4,11 +4,13 @@ import { shuffle } from './shuffle.js';
 
 export const REVIEW_KEY = 'flashcards:review:v1';
 export const REVIEW_SIZE = 10;
+export const reviewKey = (language = 'de') => language === 'en' ? `${REVIEW_KEY}:en` : REVIEW_KEY;
 
-export function getUnderstoodCards() {
+export function getUnderstoodCards(language = 'de') {
   const cards = new Map();
 
   for (const book of getBooks()) {
+    if (book.language !== language) continue;
     for (const sektion of book.sektionen) {
       const status = readStatus(book.bookId, sektion.sektionId);
       for (const card of sektion.cards) {
@@ -27,9 +29,9 @@ export function getUnderstoodCards() {
   return cards;
 }
 
-export function readReviewState() {
+export function readReviewState(language = 'de') {
   try {
-    const saved = JSON.parse(window.localStorage.getItem(REVIEW_KEY));
+    const saved = JSON.parse(window.localStorage.getItem(reviewKey(language)));
     return saved && typeof saved === 'object' ? saved : {};
   } catch {
     return {};

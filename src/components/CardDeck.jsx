@@ -49,7 +49,7 @@ export default function CardDeck() {
   if (!found) {
     return (
       <main className="screen">
-        <p className="empty">Sektion no encontrada.</p>
+        <p className="empty">Unidad no encontrada.</p>
         <Link to="/" className="back-link">← Volver</Link>
       </main>
     );
@@ -58,7 +58,7 @@ export default function CardDeck() {
   const { book, sektion } = found;
 
   function handleReset() {
-    if (window.confirm('¿Reiniciar todo el progreso de esta Sektion?')) {
+    if (window.confirm(`¿Reiniciar todo el progreso de ${book.language === 'en' ? 'este nivel' : 'esta Sektion'}?`)) {
       deck.resetProgress();
       setFlipped(false);
     }
@@ -124,6 +124,9 @@ export default function CardDeck() {
         </div>
       ) : deck.currentCard ? (
         <>
+          {deck.currentCard.sourcePage && (
+            <p className="source-page">Página {deck.currentCard.sourcePage} del PDF</p>
+          )}
           <Card
             front={deck.currentCard.front}
             back={deck.currentCard.back}

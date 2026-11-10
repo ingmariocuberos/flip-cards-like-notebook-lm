@@ -1,0 +1,736 @@
+{
+  "bookId": "vaughan-intensive-english-01",
+  "bookTitle": "Vaughan Intensive English — Libro 1",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "No me gusta el ajo, pero sí me gusta la cebolla.",
+      "back": "I don't like garlic, but I do like onion.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-002",
+      "front": "No compro revistas todos los días, pero sí compro el periódico a diario.",
+      "back": "I don't buy magazines every day, but I do buy the paper on a daily basis.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-003",
+      "front": "No compro mucha ropa de diseño, pero sí compro corbatas de diseño.",
+      "back": "I don't buy many designer clothes, but I do buy designer ties.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-004",
+      "front": "Ella no suele comprar zapatos, pero sí los compra cuando hay rebajas.",
+      "back": "She doesn't normally buy shoes, but she does buy them when the sales are on.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-005",
+      "front": "No compré cacahuetes, pero sí compré unos anacardos.",
+      "back": "I didn't buy any peanuts, but I did buy some cashew nuts.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-006",
+      "front": "No le compré un regalo de cumpleaños, pero sí le compré una tarjeta.",
+      "back": "I didn't buy him a birthday present, but I did buy him a birthday card.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-007",
+      "front": "Él no compró tornillos, pero sí compró unos clavos.",
+      "back": "He didn't buy any screws, but he did buy some nails.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-008",
+      "front": "Aún no han comprado los tomates, pero sí han comprado los calabacines.",
+      "back": "They haven't bought the tomatoes yet, but they have bought the courgettes.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-009",
+      "front": "Aún no he comprado las berenjenas, pero sí he comprado el apio.",
+      "back": "I haven't bought the aubergines yet, but I have bought the celery.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-010",
+      "front": "Aún no hemos comprado las ciruelas, pero sí hemos comprado las cerezas.",
+      "back": "We haven't bought the plums yet, but we have bought the cherries.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-011",
+      "front": "Él aún no ha cenado, pero sí ha tomado un aperitivo.",
+      "back": "He hasn't had his dinner yet, but he has had an aperitif.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-012",
+      "front": "Él aún no ha comprado canela, pero sí ha comprado cacao en polvo.",
+      "back": "He hasn't bought any cinnamon yet, but he has bought some cocoa powder.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-013",
+      "front": "Él aún no ha comprado harina con levadura, pero sí ha comprado harina normal.",
+      "back": "He hasn't bought any self-raising flour yet, but he has bought some plain flour.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-014",
+      "front": "Ella aún no ha comprado azúcar moreno, pero sí ha comprado azúcar glas.",
+      "back": "She hasn't bought any brown sugar yet, but she has bought some icing sugar.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-015",
+      "front": "No iré a la oficina esta noche, pero sí iré mañana por la mañana.",
+      "back": "I won't go to the office tonight, but I will go tomorrow morning.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-016",
+      "front": "Ella no comprará más este mes, pero sí comprará más el mes que viene.",
+      "back": "She won't buy any more this month, but she will buy some more next month.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-017",
+      "front": "No le comprarán un reloj esta vez, pero sí uno para su próximo cumpleaños.",
+      "back": "They won't buy him a watch this time round, but they will buy him one for his next birthday.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-018",
+      "front": "Jim compra el periódico cada día a pesar de que casi nunca lo lee.",
+      "back": "Jim buys the paper every day even though he hardly ever reads it.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-019",
+      "front": "Janet compró otras gafas de sol a pesar de que ya tiene por lo menos diez pares en casa.",
+      "back": "Janet bought another pair of sunglasses even though she already has at least ten pairs at home.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-020",
+      "front": "A Jake le gusta comprar libros a pesar de que nunca tiene tiempo de leerlos.",
+      "back": "Jake likes to buy books even though he never has time to read them.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-021",
+      "front": "Pedro compra paraguas a pesar de que apenas llueve donde vive.",
+      "back": "Pedro buys umbrellas despite the fact that it hardly ever rains where he lives.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-022",
+      "front": "Fred siempre compra el teléfono más caro del mercado a pesar de que nunca lo utiliza.",
+      "back": "Fred always buys the most expensive phone on the market despite the fact that he never uses it.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-023",
+      "front": "Alguna gente todavía compra CDs a pesar de que suele ser más barato descargarlos.",
+      "back": "Some people still buy CDs despite the fact that it's usually cheaper to download them.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-024",
+      "front": "Él acabó comprándolo a pesar de que realmente no lo necesitaba.",
+      "back": "He ended up buying it in spite of the fact that he didn't really need it.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-025",
+      "front": "Todavía compro LPs a pesar de que nunca los escucho.",
+      "back": "I still buy LPs in spite of the fact that I never listen to any of them.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-026",
+      "front": "Compré un cuadro que me costó tres mil euros a pesar de que probablemente sólo vale mil.",
+      "back": "I bought a picture that cost me three thousand euros in spite of the fact that it's probably only worth one thousand.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-027",
+      "front": "Compré un jarrón antiguo a pesar de que estaba cascado.",
+      "back": "I bought an antique vase notwithstanding the fact that it was chipped.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-028",
+      "front": "Mi madre compró un billete para dar la vuelta al mundo a pesar de que tiene miedo a volar.",
+      "back": "My mother bought a round-the-world ticket notwithstanding the fact that she's afraid of flying.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-029",
+      "front": "Lo compré a pesar de que costó un dineral.",
+      "back": "I bought it regardless of the fact that it cost a bomb.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-030",
+      "front": "Él lo compró a pesar de que costó un ojo de la cara.",
+      "back": "He bought it regardless of the fact that it cost an arm and a leg.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-031",
+      "front": "Lo compraron a pesar de que costó una fortuna.",
+      "back": "They bought it regardless of the fact that it cost a fortune.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-032",
+      "front": "Tengo dinero suficiente para comprar un piso de dos dormitorios en las afueras.",
+      "back": "I can afford to buy a two-bedroom flat on the outskirts of town.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-033",
+      "front": "Tengo dinero suficiente para comprar un piso de un dormitorio en el centro.",
+      "back": "I can afford to buy a one-bedroom flat in the centre of town.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-034",
+      "front": "No me lo puedo permitir con mi sueldo.",
+      "back": "I can't afford it on my salary.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-035",
+      "front": "George no se puede permitir un coche nuevo.",
+      "back": "George can't afford a new car.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-036",
+      "front": "Sheila no se puede permitir un entrenador personal.",
+      "back": "Sheila can't afford a personal trainer.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Tus padres pueden permitirse comprar una casa en la Toscana?",
+      "back": "Can your parents afford to buy a house in Tuscany?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Podemos permitirnos comprar otra lavadora?",
+      "back": "Can we afford to buy another washing machine?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Alfred realmente puede permitirse ese Rolex?",
+      "back": "Can Alfred really afford that Rolex?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Él puede permitirse todas esas acciones?",
+      "back": "Can he afford all those shares?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Tus padres pueden permitirse viajar dos veces al año?",
+      "back": "Can your parents afford to go away twice a year?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Por qué no tienes dinero para venir con nosotros?",
+      "back": "Why can't you afford to come with us?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Por qué no tienes dinero para salir a cenar?",
+      "back": "Why can't you afford to come out for dinner?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Por qué no tienes dinero para que te arreglen el coche?",
+      "back": "Why can't you afford to get your car fixed?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-045",
+      "front": "Me compré un vestido muy bonito ayer.",
+      "back": "I bought myself a nice dress yesterday.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-046",
+      "front": "Me dio una excusa por no venir al trabajo, pero no me la tragué.",
+      "back": "He gave me some excuse about why he didn't come to work, but I didn't buy it.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-047",
+      "front": "¡No puedo creer que se tragara todas esas tonterías!",
+      "back": "I can't believe he bought into all that rubbish!",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-048",
+      "front": "Nunca me creo nada de lo que dicen esos tipos.",
+      "back": "I never buy anything those guys say.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-049",
+      "front": "Una plancha.",
+      "back": "An iron.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Un cortacésped.",
+      "back": "A lawnmower.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Un pincel.",
+      "back": "A paintbrush.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Una escalera.",
+      "back": "A ladder.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-053",
+      "front": "Un martillo.",
+      "back": "A hammer.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-054",
+      "front": "Una tabla de planchar.",
+      "back": "An ironing board.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-055",
+      "front": "Una fregona.",
+      "back": "A mop.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-056",
+      "front": "Una manguera.",
+      "back": "A hose.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Una aspiradora.",
+      "back": "A vacuum cleaner.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "Un clavo.",
+      "back": "A nail.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Hacer tareas de limpieza.",
+      "back": "To do some cleaning.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Hacer labores de jardinería.",
+      "back": "To do some gardening.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Dónde compraste esa camisa?",
+      "back": "Where did you get that shirt from?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "La compré en las rebajas de verano.",
+      "back": "I got it at the summer sales.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Me puedes comprar jengibre cuando estés en el supermercado?",
+      "back": "Can you get me some ginger while you're at the supermarket?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Compré una casa la semana pasada.",
+      "back": "I purchased a house last week.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Compré un coche nuevo hace tres semanas.",
+      "back": "I purchased a new car three weeks ago.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Compré un yate valorado en trescientos mil euros.",
+      "back": "I purchased a yacht worth three hundred thousand euros.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Tras meses de negociación, adquirí los derechos para pescar en el lago.",
+      "back": "After months of negotiation, I acquired the rights to fish in the lake.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Acabo de adquirir varias propiedades en Dubái.",
+      "back": "I've just acquired several properties in Dubai.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Estoy intentando adquirir alguna propiedad en el centro de Londres.",
+      "back": "I'm trying to acquire some property in central London.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Compré estas sandalias en las rebajas.",
+      "back": "I picked these sandals up in the sales.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Él compró aquel jeep a un precio muy razonable.",
+      "back": "He picked up that jeep at a really reasonable price.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Te sorprendería lo que puedes encontrar en un rastro.",
+      "back": "You'd be surprised what you can pick up at a flea market.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Sólo quedaban dos. ¡No podía dejarlos escapar!",
+      "back": "There were only two left. I just had to snap them up!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Yo compraría tantos como puedas antes de que se agoten.",
+      "back": "I'd snap up as many as you can before they run out of stock.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Cómpralo ya!",
+      "back": "Snap it up quick!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Tenemos unos cuantos empresarios chinos interesados en comprar una participación en nuestra empresa.",
+      "back": "We have a number of Chinese businessmen interested in buying into our company.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "¿En qué empresa estás pensando comprar una participación?",
+      "back": "Which company are you thinking about buying into?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Estás asumiendo un riesgo considerable al comprar una participación en esa empresa.",
+      "back": "You're taking a considerable risk by buying into that company.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Quién te va a comprar tu parte de la empresa?",
+      "back": "Who's going to buy you out?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Necesito encontrar a alguien para comprar mi parte lo antes posible.",
+      "back": "I need to find someone to buy me out as soon as possible.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Si encuentro a alguien que compre mi parte, mis problemas se solucionarán.",
+      "back": "If I can find someone to buy me out, my problems will be solved.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Mi cuñada ha comprado todos los envases de leche de la tienda.",
+      "back": "My sister-in-law bought up all the cartons of milk in the store.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "La empresa de Trevor compró todas las acciones de TeliMónica que quedaban.",
+      "back": "Trevor's company bought up all the remaining TeliMónica shares.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Al final no hacía falta comprarlo todo.",
+      "back": "In the end there was no need to buy up everything.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Todo el mundo está comprando grandes cantidades de gasolina por la situación en Oriente Medio.",
+      "back": "Everyone's buying in large amounts of petrol due to the situation in the Middle East.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Estoy comprando mucha comida por si nos quedamos aislados por la nieve.",
+      "back": "I'm buying lots of food in in case we get snowed-in.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Compra suministros, por si acaso. El pronóstico no tiene buena pinta.",
+      "back": "Buy in supplies just in case. The forecast isn't looking good!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Alguien está intentando sobornarle.",
+      "back": "Someone is trying to buy him off.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "¿Alguna vez ha intentado sobornarte alguien?",
+      "back": "Has anyone ever tried to buy you off?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Tengo la sospecha de que alguien le sobornó.",
+      "back": "I have a sneaking suspicion that someone bought him off.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-091",
+      "front": "Estoy seguro de que él te va a pedir que lo pagues al contado.",
+      "back": "I'm sure he's going to ask you to pay for it up front.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-092",
+      "front": "No puedo creer que ellos quisieran que lo pagaras al contado.",
+      "back": "I can't believe they wanted you to pay for it up front.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-093",
+      "front": "Si el vendedor me pide que lo pague al contado, ¡le mandaré a paseo!",
+      "back": "If the seller asks me to pay for it up front, I'll tell him where to go!",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-094",
+      "front": "No tengo más remedio que pagar a plazos.",
+      "back": "I have no choice but to pay in installments.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-095",
+      "front": "¿Cuánto más me costará al final si pago a plazos?",
+      "back": "How much more will it cost me in the end if I pay in installments?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-096",
+      "front": "Si puedes evitar pagar a plazos, mucho mejor.",
+      "back": "If you can avoid paying in installments, all the better.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-097",
+      "front": "¿Llevas dinero encima?",
+      "back": "Have you got any cash on you?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-098",
+      "front": "Estoy sin blanca ahora mismo.",
+      "back": "I'm out of cash right now.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-099",
+      "front": "Voy al cajero a sacar dinero.",
+      "back": "I'm going to the hole in the wall to get some cash out.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-100",
+      "front": "El vendedor nos dijo que teníamos que pagarlo en efectivo.",
+      "back": "The seller told us that we had to pay for it in cash.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-101",
+      "front": "No lo pagues en efectivo a no ser que tengas que hacerlo.",
+      "back": "Don't pay for it in cash unless you have to.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-102",
+      "front": "¿Pagaste el coche en efectivo?",
+      "back": "Did you pay for the car in cash?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-103",
+      "front": "Mi suegra paga todo con tarjeta de crédito.",
+      "back": "My mother-in-law pays for everything by credit card.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-104",
+      "front": "¿No te dejaron pagarlo con tarjeta de crédito?",
+      "back": "Didn't they let you pay for it by credit card?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-105",
+      "front": "¿Es seguro pagar las cosas con tarjeta de crédito por internet?",
+      "back": "Is it safe to pay for things by credit card over the internet?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-106",
+      "front": "En la recesión de los años treinta, gran parte de la mano de obra agrícola fue pagada en especie.",
+      "back": "During the recession in the thirties, many farm labourers were paid in kind.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-107",
+      "front": "¿Qué quieres decir con que fueron pagados en especie?",
+      "back": "What do you mean they were paid in kind?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-108",
+      "front": "En lugar de recibir dinero, llevaron a casa parte del maíz que cosecharon.",
+      "back": "Instead of receiving cash, they took home some of the corn they harvested.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-109",
+      "front": "¿Por qué compraste esa chaqueta tan horrible?",
+      "back": "Why on earth did you buy that awful jacket?",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-110",
+      "front": "Parece algo que encontrarías en un rastro por un dólar.",
+      "back": "It looks like something you'd pick up at a flea market for a dollar.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-111",
+      "front": "Esta chaqueta me costó un ojo de la cara.",
+      "back": "This jacket cost me an arm and a leg.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-112",
+      "front": "Parece que va a deshacerse en cualquier momento.",
+      "back": "It looks like it's gonna come apart at any minute.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-113",
+      "front": "Esta chaqueta ha sido confeccionada por los mejores sastres de Londres.",
+      "back": "This jacket has been crafted by London's finest tailors.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-114",
+      "front": "El aspecto gastado es el último grito.",
+      "back": "The 'worn' look is all the rage.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-115",
+      "front": "¿No te dan ganas de coger unas tijeras y darle un buen recorte?",
+      "back": "Doesn't it make you want to get hold of the nearest pair of scissors and give it a good trim?",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-116",
+      "front": "Creo que puedo resistir la tentación.",
+      "back": "I think I can resist the temptation!",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-117",
+      "front": "Tu chaqueta tampoco es precisamente alta costura.",
+      "back": "Your jacket is hardly haute couture, is it?",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-118",
+      "front": "Estoy seguro de que costó una fracción del precio de la tuya.",
+      "back": "I'm sure it cost a fraction of the price of yours.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-119",
+      "front": "Es cómoda y calentita, y no me costó un dineral.",
+      "back": "It's comfy 'n' warm, and it didn't cost me the earth.",
+      "sourcePage": 80
+    },
+    {
+      "id": "s3-120",
+      "front": "Todavía están buscando comprador para su casa.",
+      "back": "They're still looking for a buyer.",
+      "sourcePage": 84
+    },
+    {
+      "id": "s3-121",
+      "front": "Compra hasta caer rendido.",
+      "back": "Shop 'til you drop.",
+      "sourcePage": 84
+    }
+  ]
+}

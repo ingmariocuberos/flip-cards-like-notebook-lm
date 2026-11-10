@@ -18,9 +18,9 @@ export default function SektionList() {
   return (
     <main className="screen">
       <header className="screen-header">
-        <Link to="/" className="back-link">← Bücher</Link>
+        <Link to={book.language === 'en' ? '/?idioma=ingles' : '/'} className="back-link">← {book.language === 'en' ? 'Libros de inglés' : 'Bücher'}</Link>
         <h1>{book.bookTitle}</h1>
-        <p className="muted">{book.sektionen.length} Sektionen</p>
+        <p className="muted">{book.sektionen.length} {book.language === 'en' ? 'niveles' : 'Sektionen'}</p>
       </header>
 
       <ul className="card-list">
@@ -31,7 +31,7 @@ export default function SektionList() {
             <li key={sektion.sektionId}>
               <Link
                 className="card-item"
-                to={`/buch/${book.bookId}/sektion/${sektion.sektionId}`}
+                to={`/buch/${book.bookId}/${book.language === 'en' ? 'nivel' : 'sektion'}/${sektion.sektionId}`}
               >
                 <div className="card-item-title">{sektion.sektionTitle}</div>
                 <div className="card-item-meta">

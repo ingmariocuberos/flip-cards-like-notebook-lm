@@ -1,0 +1,688 @@
+{
+  "bookId": "vaughan-intensive-english-01",
+  "bookTitle": "Vaughan Intensive English — Libro 1",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Compro pescado en el supermercado.",
+      "back": "I buy fish at the supermarket.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Compro fruta en el supermercado.",
+      "back": "I buy fruit at the supermarket.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Compro pan en el supermercado.",
+      "back": "I buy bread at the supermarket.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Compro una naranja todos los días.",
+      "back": "I buy an orange every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Ella compra una naranja todos los días.",
+      "back": "She buys an orange every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Él compra una naranja todos los días.",
+      "back": "He buys an orange every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella siempre compra pescado en el supermercado.",
+      "back": "She always buys fish at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella siempre compra fruta en el supermercado.",
+      "back": "She always buys fruit at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-009",
+      "front": "Ella siempre compra pan en el supermercado.",
+      "back": "She always buys bread at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-010",
+      "front": "Mi hermana compra pescado en el supermercado.",
+      "back": "My sister buys fish at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-011",
+      "front": "Mi hermana compra fruta en el supermercado.",
+      "back": "My sister buys fruit at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-012",
+      "front": "Mi hermana compra pan en el supermercado.",
+      "back": "My sister buys bread at the supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-013",
+      "front": "Compro pescado los lunes.",
+      "back": "I buy fish on Mondays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-014",
+      "front": "Él compra fruta los lunes.",
+      "back": "He buys fruit on Mondays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-015",
+      "front": "Ella compra pan los lunes.",
+      "back": "She buys bread on Mondays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-016",
+      "front": "La gente no compra pescado en el dentista.",
+      "back": "People don't buy fish at the dentist.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-017",
+      "front": "La gente no compra fruta en la carnicería.",
+      "back": "People don't buy fruit at the butcher's.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-018",
+      "front": "La gente no compra pan en el médico.",
+      "back": "People don't buy bread at the doctor's.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-019",
+      "front": "Él no compra aceite de oliva todos los días.",
+      "back": "He doesn't buy olive oil every day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-020",
+      "front": "Él no compra fruta todos los días.",
+      "back": "He doesn't buy fruit every day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-021",
+      "front": "Él no compra vino todos los días.",
+      "back": "He doesn't buy wine every day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-022",
+      "front": "No compramos mucho vino.",
+      "back": "We don't buy much wine.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-023",
+      "front": "No compramos mucha fruta.",
+      "back": "We don't buy much fruit.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-024",
+      "front": "No compramos mucha carne.",
+      "back": "We don't buy much meat.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-025",
+      "front": "Los británicos no compran mucho aceite de oliva.",
+      "back": "The British don't buy much olive oil.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-026",
+      "front": "Los británicos no compran mucho jamón ibérico.",
+      "back": "The British don't buy much Iberian ham.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-027",
+      "front": "Los británicos no compran mucho pescado.",
+      "back": "The British don't buy much fish.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-028",
+      "front": "Ella nunca compra pescado en el supermercado.",
+      "back": "She never buys fish at the supermarket.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-029",
+      "front": "Ella nunca compra fruta en el supermercado.",
+      "back": "She never buys fruit at the supermarket.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella nunca compra pan en el supermercado.",
+      "back": "She never buys bread at the supermarket.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Compras un coche todos los años?",
+      "back": "Do you buy a car every year?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Compras una naranja todos los días?",
+      "back": "Do you buy an orange every day?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Compras pescado en el supermercado?",
+      "back": "Do you buy fish at the supermarket?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Compras mucho aceite de oliva?",
+      "back": "Do you buy much olive oil?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Compras mucha fruta?",
+      "back": "Do you buy much fruit?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Compras mucho vino?",
+      "back": "Do you buy much wine?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Él compra pan todos los días?",
+      "back": "Does he buy bread every day?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Él compra regalos todas las semanas?",
+      "back": "Does he buy presents every week?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Él compra sushi los lunes?",
+      "back": "Does he buy sushi on Mondays?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Ella compra comida los fines de semana?",
+      "back": "Does she buy food at the weekend?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Ella compra ropa los fines de semana?",
+      "back": "Does she buy clothes at the weekend?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Ella compra pan los fines de semana?",
+      "back": "Does she buy bread at the weekend?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Compran mucha fruta los americanos?",
+      "back": "Do the Americans buy much fruit?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Compran mucho aceite de oliva los americanos?",
+      "back": "Do the Americans buy much olive oil?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Compran mucho vino los americanos?",
+      "back": "Do the Americans buy much wine?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-046",
+      "front": "Hay una manzana.",
+      "back": "There's an apple.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Hay una uva.",
+      "back": "There's a grape.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Hay una naranja.",
+      "back": "There's an orange.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Hay una cebolla.",
+      "back": "There's an onion.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Una manzana.",
+      "back": "An apple.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Una uva.",
+      "back": "A grape.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Una piña.",
+      "back": "A pineapple.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-053",
+      "front": "Una fresa.",
+      "back": "A strawberry.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-054",
+      "front": "Una zanahoria.",
+      "back": "A carrot.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-055",
+      "front": "Un pimiento.",
+      "back": "A pepper.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-056",
+      "front": "Un tomate.",
+      "back": "A tomato.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-057",
+      "front": "Una patata.",
+      "back": "A potato.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-058",
+      "front": "Estoy comprando un libro.",
+      "back": "I'm buying a book.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-059",
+      "front": "Estoy comprando un bolígrafo.",
+      "back": "I'm buying a pen.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-060",
+      "front": "Estoy comprando un coche.",
+      "back": "I'm buying a car.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-061",
+      "front": "Estoy comprando pescado en el supermercado.",
+      "back": "I'm buying some fish at the supermarket.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Estoy comprando fruta en el supermercado.",
+      "back": "I'm buying some fruit at the supermarket.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Estoy comprando pan en el supermercado.",
+      "back": "I'm buying some bread at the supermarket.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Estoy comprando unas flores.",
+      "back": "I'm buying some flowers.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-065",
+      "front": "Estoy comprando unos libros.",
+      "back": "I'm buying some books.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-066",
+      "front": "Estoy comprando unos sellos.",
+      "back": "I'm buying some stamps.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-067",
+      "front": "Él está comprando unas cosas.",
+      "back": "He's buying some things.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Él está comprando unas postales.",
+      "back": "He's buying some postcards.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Él está comprando unos sobres.",
+      "back": "He's buying some envelopes.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Ella está comprando unos sobres en la papelería.",
+      "back": "She's buying some envelopes at the stationer's.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Ella está comprando papel en la papelería.",
+      "back": "She's buying some paper at the stationer's.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Ella está comprando unas cosas en la papelería.",
+      "back": "She's buying some things at the stationer's.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "No estoy comprando un libro.",
+      "back": "I'm not buying a book.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-074",
+      "front": "No estoy comprando un bolígrafo.",
+      "back": "I'm not buying a pen.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-075",
+      "front": "No estoy comprando un piso.",
+      "back": "I'm not buying a flat.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-076",
+      "front": "No estoy comprando pan.",
+      "back": "I'm not buying any bread.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "No estoy comprando fruta.",
+      "back": "I'm not buying any fruit.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "No estoy comprando vino.",
+      "back": "I'm not buying any wine.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "No estoy comprando flores.",
+      "back": "I'm not buying any flowers.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-080",
+      "front": "No estoy comprando libros.",
+      "back": "I'm not buying any books.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-081",
+      "front": "No estoy comprando sellos.",
+      "back": "I'm not buying any stamps.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-082",
+      "front": "Ella no está comprando pan.",
+      "back": "She isn't buying any bread.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Ella no está comprando queso.",
+      "back": "She isn't buying any cheese.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Ella no está comprando vino.",
+      "back": "She isn't buying any wine.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Él no está comprando pescado.",
+      "back": "He isn't buying any fish.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Él no está comprando fruta.",
+      "back": "He isn't buying any fruit.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Él no está comprando vegetales.",
+      "back": "He isn't buying any vegetables.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Estás comprando una bici?",
+      "back": "Are you buying a bike?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Estás comprando una bebida?",
+      "back": "Are you buying a drink?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Estás comprando un vestido?",
+      "back": "Are you buying a dress?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-091",
+      "front": "¿Estás comprando queso?",
+      "back": "Are you buying any cheese?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-092",
+      "front": "¿Estás comprando tomates?",
+      "back": "Are you buying any tomatoes?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-093",
+      "front": "¿Estás comprando pasta?",
+      "back": "Are you buying any pasta?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-094",
+      "front": "¿Qué estás comprando?",
+      "back": "What are you buying?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-095",
+      "front": "¿Qué estás comprando ahora?",
+      "back": "What are you buying now?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-096",
+      "front": "¿Qué estás comprando en el supermercado?",
+      "back": "What are you buying at the supermarket?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-097",
+      "front": "¿Qué está él comprando?",
+      "back": "What's he buying?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-098",
+      "front": "¿Qué está él comprando ahora?",
+      "back": "What's he buying now?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-099",
+      "front": "¿Qué está él comprando en el supermercado?",
+      "back": "What's he buying at the supermarket?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-100",
+      "front": "¿Qué está ella comprando?",
+      "back": "What's she buying?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-101",
+      "front": "¿Qué está ella comprando ahora?",
+      "back": "What's she buying now?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-102",
+      "front": "¿Qué está ella comprando en el supermercado?",
+      "back": "What's she buying at the supermarket?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-103",
+      "front": "¿Para quién estás comprando las flores?",
+      "back": "Who are you buying the flowers for?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-104",
+      "front": "Estoy comprando las flores para mi hermana.",
+      "back": "I'm buying the flowers for my sister.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-105",
+      "front": "¿Por qué le estás comprando flores a tu hermana?",
+      "back": "Why are you buying your sister flowers?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-106",
+      "front": "Le estoy comprando flores porque es su cumpleaños.",
+      "back": "I'm buying my sister flowers because it's her birthday.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-107",
+      "front": "¿Siempre le compras flores a tu hermana por su cumpleaños?",
+      "back": "Do you always buy your sister flowers for her birthday?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-108",
+      "front": "Sí, siempre le compro flores a mi hermana por su cumpleaños.",
+      "back": "Yes, I always buy my sister flowers for her birthday.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-109",
+      "front": "¿Qué fruta estás comprando?",
+      "back": "What fruit are you buying?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-110",
+      "front": "Estoy comprando naranjas y manzanas.",
+      "back": "I'm buying some oranges and some apples.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-111",
+      "front": "¿Siempre compras naranjas y manzanas?",
+      "back": "Do you always buy oranges and apples?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-112",
+      "front": "No, a veces compro plátanos y peras.",
+      "back": "No, sometimes I buy bananas and pears.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s1-113",
+      "front": "Yo te invito a una copa. (Ofrecimiento en un bar)",
+      "back": "I'll buy you a drink.",
+      "sourcePage": 27
+    }
+  ]
+}
