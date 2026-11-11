@@ -44,3 +44,7 @@ Tras publicar un nivel, añadir nuevas tarjetas al final de su lista: el generad
 ## Ajuste del libro 21
 
 En el libro 21 los niveles intermedio y avanzado comienzan dos páginas PDF más tarde: los ejercicios seleccionados están en 34–39 y 44–49 para intermedio, y 62–67 y 72–77 para avanzado. Verificar los encabezados de cada PDF antes de aplicar rangos fijos de OCR.
+
+## Ajuste del libro 24
+
+El libro 24 tiene ejercicios básicos en las páginas PDF 4–9 y 14–19. El nivel intermedio empieza en la página PDF 31: hay ejercicios en 31–36 y 41–46; la 47 es un repaso ilustrado. El nivel avanzado empieza en la página PDF 59: los ejercicios están en 59–64 y 69–74; la 75 también es un repaso ilustrado. El OCR principal de las páginas 4–19, 32–47 y 60–75 se guardó localmente como `sources/english/Libro 24.ocr-main.txt`; el OCR adicional de 31 y 59 está en `sources/english/Libro 24.ocr.txt`. Ambos archivos son locales y están ignorados por Git.
