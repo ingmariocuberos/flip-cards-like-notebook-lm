@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-20",
+  "bookTitle": "Libro 20",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "El entrenador no quiere dar la impresión de estar predispuesto en contra de los otros miembros del equipo.",
+      "back": "The coach doesn't want to be seen to be biased against the other team members.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Lo último que necesitamos es dar la impresión de estar sin hacer nada, mientras nuestros competidores actúan.",
+      "back": "The last thing we need is to be seen to be twiddling our thumbs while our competitors make a move.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Es muy importante dar la impresión de estar trabajando mientras el jefe está por aquí.",
+      "back": "It's very important to be seen to be working while the boss is around.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Vieron al ladrón escapar corriendo de la escena del crimen con un jamón enorme entre sus brazos.",
+      "back": "The thief was seen running away from the scene of the crime holding an enormous leg of ham.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Diez minutos más tarde, fue visto usando el jamón como un garrote para echar una puerta abajo.",
+      "back": "Ten minutes later, he was seen using the leg of ham as a club to batter down a door.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Finalmente, fue visto dirigiéndose hacia el norte en una carretilla elevadora a diez kilómetros por hora.",
+      "back": "Finally he was seen heading in a northward direction in a fork-lift truck travelling at 10 km per hour.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Está por ver si el resto de la manada de leones llegará a aceptar al nuevo o no.",
+      "back": "It remains to be seen whether the rest of the pack of lions will come to accept the newcomer or not.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Está por ver si los zancos con muelles se pondrán de moda en el Polo Sur.",
+      "back": "It remains to be seen whether pogo sticks will catch on in the South Pole.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Está por ver si las víctimas aceptarán una resolución extrajudicial o no.",
+      "back": "It remains to be seen whether the victims will accept an out-of-court settlement or not.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Cuando los trabajadores por fin se dieron cuenta de lo que había pasado, el verdadero culpable no estaba por ningún lado.",
+      "back": "By the time the staff had realized what happened, the real culprit was nowhere to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Cuando el mago quitó el pañuelo, el conejo no estaba por ningún lado.",
+      "back": "When the magician took away the handkerchief, the rabbit was nowhere to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Cuando los arqueólogos quitaron los escombros, los cimientos originales no estaban por ningún lado.",
+      "back": "When the archeologists eventually cleared away the rubble, the original foundations were nowhere to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "A pesar del valor de la obra de arte, no se veía a ningún guardia por ningún lado.",
+      "back": "Despite the value of the work of art, there were no guards to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "A pesar del enorme número de asistentes al funeral, apenas se vieron lágrimas.",
+      "back": "Despite the huge turnout of mourners at the funeral, there were hardly any tears to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "A pesar de la cantidad de lluvia que cayó, se vio muy poca agua.",
+      "back": "Despite the amount of rain they had, there was very little water to be seen.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "No veo la utilidad de seguir con este punto si no vais a escuchar.",
+      "back": "I don't see the point in carrying on with this point if you're not going to listen.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "No veo la utilidad de comprar otro cortacésped cuando el que ya tienes funciona muy bien.",
+      "back": "I don't see the point in buying another lawnmower when the one you already have does an excellent job.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "No veo la utilidad de que lo señales si no me lo vas a presentar luego.",
+      "back": "I don't see the point in pointing him out if you're not going to introduce me to him later.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Simplemente no vale la pena arriesgarlo. ¿Entiendes lo que quiero decir?",
+      "back": "It's simply not worth the risk. Do you see my point?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Si todo el mundo conoce el plan, no habrá ningún elemento sorpresa. ¿Entiendes lo que quiero decir?",
+      "back": "If everyone is in on the plan, there will be no surprise element. Do you see my point?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Será difícil convencer a la mayoría de la gente de que necesita un sistema de calefacción nuevo. ¿Entiendes lo que quiero decir?",
+      "back": "It'll be hard to convince most people that they need a new heating system. Do you see my point?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Veo lo que quieres decir, pero sigo creyendo que estás infravalorando las habilidades del equipo.",
+      "back": "I see your point, but I still think that you're underestimating the team's abilities.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Veo lo que quieres decir, pero todavía creo que podemos hacer que el proceso lleve mucho menos tiempo.",
+      "back": "I see your point, but I still think that we can make the process less time-consuming.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Veo lo que quieres decir, pero todavía creo que la mayoría de la gente prefiere el modelo antiguo.",
+      "back": "I see your point, but I still think that most people prefer the old model.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "No sirve de nada volver a contarles la misma historia de nuevo.",
+      "back": "There's no point in telling them the same story again.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "No sirve de nada cambiar la receta si a todo el mundo le encanta la original.",
+      "back": "There's no point in changing the recipe if everyone loves the original one.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "A lo hecho, pecho.",
+      "back": "There's no point in crying over spilt milk.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¿De qué sirve preguntar si ya sabes que la respuesta será no?",
+      "back": "What's the point in asking if you already know that the answer will be 'no'?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¿De qué sirve aprender inglés si no repasas constantemente y no dejas de olvidar cosas?",
+      "back": "What's the point in learning English if you don't constantly revise and keep forgetting things?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¿De qué sirve escribir una novela que nadie va a leer?",
+      "back": "What's the point in writing a novel that no one's going to read?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "El clima en la Bolsa oscila entre deprimido y extático.",
+      "back": "The mood on the stock market is seesawing between depressed and ecstatic.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Los precios de la vivienda llevan subiendo y bajando desde hace unos seis meses.",
+      "back": "Housing prices have been seesawing for the past six months or so.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "El precio de las acciones a menudo fluctúa antes de caer en picado o de subir como la espuma.",
+      "back": "Share prices often seesaw before either plummeting or rocketing.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "La tendencia de llevar pantalones anchos podría cambiar al contrario en cualquier momento.",
+      "back": "The trend toward baggier trousers could swing the other way at any time.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Conozco a muchos votantes indecisos.",
+      "back": "I know a lot of voters who could swing either way.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Cómo podemos darle la vuelta a esta situación?",
+      "back": "How can we swing this situation around?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Las ventas empezaron a caer en marzo del año pasado.",
+      "back": "Sales first began to slide back in March of last year.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Siento que mi nivel de francés está empezando a decaer.",
+      "back": "I can feel that my level of French is beginning to slide.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "No puedo evitar pensar que su popularidad está empezando a decaer.",
+      "back": "I can't help feeling that his popularity is beginning to slide.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Diste un rodeo muy grande para venir aquí.",
+      "back": "You took a very roundabout route to get here.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Me lo dijeron dando muchos rodeos.",
+      "back": "I was told in a very roundabout way.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Una de cal y una de arena.",
+      "back": "It's all swings and roundabouts!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Montar tu propio negocio puede ser una montaña rusa emocional.",
+      "back": "Starting your own business can be an emotional rollercoaster ride.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Su última relación resultó ser una auténtica montaña rusa emocional.",
+      "back": "His last relationship proved to be a real rollercoaster ride.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "He oído que el nuevo éxito de taquilla es una locura de película.",
+      "back": "I've heard that the new blockbuster is a real rollercoaster of a movie!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Yo antes tenía buena vista, pero hoy día la tengo bastante mal.",
+      "back": "I used to have very good eyesight but my eyesight's pretty bad nowadays.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Siento decirlo, pero mi abuela está perdiendo la vista.",
+      "back": "My grandmother is losing her sight, I'm afraid to say.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Voy a revisarme la vista el martes de la semana que viene.",
+      "back": "I'm going to get my eyes tested next Tuesday.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "La visibilidad fue nula. Los perdimos de vista en la niebla.",
+      "back": "Visibility was atrocious. We lost sight of them in the fog.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Es evidente que aquí el primer ministro está perdiendo de vista la raíz del problema.",
+      "back": "The PM is visibly losing sight of the root of the problem here.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Lo perdimos de vista entre la multitud.",
+      "back": "We lost sight of him in the crowd.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Es más complicado de lo que parece a primera vista.",
+      "back": "It's trickier than it seems at first sight.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "A primera vista no parece demasiado complicado.",
+      "back": "It doesn't look overly complicated at first sight.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Conocí a tu madre en Londres. Fue amor a primera vista.",
+      "back": "I met your mother in London. It was love at first sight.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Pasamos la mayor parte de nuestro tiempo en Londres viendo los lugares de interés.",
+      "back": "We spent most of our time in London seeing the sights.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "No soporto estar viendo monumentos.",
+      "back": "I can't stand going sightseeing.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Cuáles son los monumentos que más merece la pena visitar en París?",
+      "back": "Which sights are most worth seeing in Paris?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Él tenía una pinta ridícula con ese peluquín puesto.",
+      "back": "He looked a right sight wearing that toupee.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Mi mesa está hecha un desastre.",
+      "back": "My desk looks a real sight.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Esa camisa amarillo chillón te queda espantosa. Vestido así se te distinguiría entre una multitud.",
+      "back": "You look a right sight in that bright yellow shirt. With that on you'd be quite visible in a crowd of two hundred thousand people.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "¡Mucho ojo! Te puedes meter en un gran lío.",
+      "back": "You'd better watch it or you might get into trouble!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Tienen que tener mucho cuidado por allí hoy; las calles tienen mucho hielo.",
+      "back": "They'd better watch it out there today; the roads are very icy.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Ten mucho cuidado porque te podrían despedir.",
+      "back": "You'd better watch it or they could fire you.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Mucho cuidado con lo que haces por aquí en los próximos días.",
+      "back": "You'd better watch what you do around here in the next few days.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Ten cuidado y mira por dónde vas.",
+      "back": "You'd better watch where you're going.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Tenemos que tener mucho cuidado con lo que decimos y a quién se lo decimos.",
+      "back": "We'd better watch what we say and to whom.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "¡Cuidado con esa boquita!",
+      "back": "You'd better watch your mouth!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Ten cuidado con lo que dices; no queremos que vuelvas a meter la pata.",
+      "back": "You'd better watch your tongue; we don't want you to put your foot in it again.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Dile que tenga mucho cuidado con las palabrotas porque la última vez ofendió mucho a mis padres.",
+      "back": "Tell him that he'd better watch his language because the last time he really offended my parents.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Es un barrio peligroso, así que mucho ojo.",
+      "back": "It's a dangerous neighbourhood so you'd better watch your back.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Has hecho muchos enemigos por aquí, así que ten cuidado con lo que haces.",
+      "back": "You've made a lot of enemies around here so you'd better watch your back.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Tenemos que andar con mucho cuidado; hay policías por todos los sitios.",
+      "back": "We'd better watch our backs; there are police all over the place.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Mira por dónde andas; el camino es un poco resbaladizo por aquí.",
+      "back": "You'd better watch your step; the path is a little slippery here.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Mucho cuidado con lo que haces si quieres seguir trabajando aquí.",
+      "back": "You'd better watch your step if you want to continue working here.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Es muy falsa, así que mucho ojo con ella.",
+      "back": "She's really two-faced so you'd better watch your step with her.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Si no estoy cuando llegues, puedes entrar tú.",
+      "back": "If I'm not around when you arrive, you can see yourself in.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Di la bienvenida al Año Nuevo con una resaca horrible.",
+      "back": "I saw the New Year in with an awful hangover.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Creo que ese es el señor Johnson, ¿le puedes hacer pasar, por favor?",
+      "back": "I think that's Mr. Johnson, can you see him in please?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Mary, acompaña al señor Johnson hasta la puerta, por favor.",
+      "back": "See Mr. Johnson out, will you, please, Mary?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Te acompaño hasta la puerta.",
+      "back": "I'll see you out.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "No te preocupes, no hace falta que me acompañes hasta la puerta.",
+      "back": "Don't worry, I can see myself out.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Tengo que reconocer que lloré como una magdalena cuando por fin me despedí de ellos.",
+      "back": "I must admit that I cried like a baby when I finally saw them off.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Os acompañaremos hasta el aeropuerto y nos despediremos de vosotros allí.",
+      "back": "We'll go with you to the airport and see you off there.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "El perro ahuyentó a los ladrones al aullar como un lobo enloquecido.",
+      "back": "The dog saw the burglars off by howling like a mad wolf.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "¡Te crees muy listo, pero te tengo bien caladito!",
+      "back": "You think you're so clever but I can see right through you!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "No le voy a mentir porque me conoce demasiado bien.",
+      "back": "I'm not going to lie to her because she can see right through me.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Por qué te enfadas tanto? No he dicho que su camiseta sea transparente; ¡he dicho que sus intenciones son transparentes!",
+      "back": "What are you getting so angry for? I didn't say I could see through her t-shirt, I said I could see through her intentions!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Casi nunca termina las cosas que ha empezado.",
+      "back": "He hardly ever sees anything through once he has started it.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "¡Voy a llevar esto a buen término aunque me mate!",
+      "back": "I'll see this thing through even if it kills me!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Lo difícil no era tomar la decisión, sino llevarlo todo a cabo hasta el final.",
+      "back": "The hard part wasn't making the decision, it was seeing everything through to the end.",
+      "sourcePage": 75
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-20",
+  "bookTitle": "Libro 20",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Los veo! Están de pie al lado de la parada de autobús.",
+      "back": "I can see them! They're standing by the bus stop.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Te veo! Estás de pie al lado del buzón de Correos.",
+      "back": "I can see you! You're standing by the post box.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Yo lo veo también! ¡Está al lado del castillo!",
+      "back": "I can see it too! It's by the castle!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "No veo nada.",
+      "back": "I can't see anything.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "No veo nada con esta niebla.",
+      "back": "I can't see a thing in this fog.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "No lo veo en ninguna parte.",
+      "back": "I can't see it anywhere.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Ves desde donde estás?",
+      "back": "Can you see from where you are?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Ves algo allí?",
+      "back": "Can you see something over there?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Ves a aquel hombre ahí? ¿El que está con un perro?",
+      "back": "Can you see that man over there? The one with the dog?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Qué ves en el horizonte?",
+      "back": "What can you see on the horizon?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Qué es lo que ves ahí?",
+      "back": "What can you see over there?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Qué es lo que se ve desde el punto más alto de la Torre Eiffel?",
+      "back": "What can you see from the top of the Eiffel Tower?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¡No se ve nada!",
+      "back": "You can't see a thing!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Se ve algo desde donde estás de pie?",
+      "back": "Can you see anything from where you're standing?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Se ve mejor de día.",
+      "back": "You can see it better in the daytime.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Entiendo lo que quieres decir.",
+      "back": "I see what you mean.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¡Ah! ¡Ahora entiendo cuál es el problema!",
+      "back": "Ah! I see what the problem is now!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Entendemos lo que quieres decir, pero no estamos de acuerdo contigo.",
+      "back": "We see what you mean but we don't agree with you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No entiendo qué quieres decir.",
+      "back": "I don't see what you mean.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No entiendo cuál es el problema.",
+      "back": "I don't see what the problem is.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No entiendo por qué.",
+      "back": "I don't see why.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Lo entiendes ahora?",
+      "back": "Do you see now?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Entiendes lo que te quiero decir?",
+      "back": "Do you see what I mean?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Entiendes por qué él está diciendo eso?",
+      "back": "Do you see why he's saying that?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Veamos. Estoy segura de que podemos encontrar una solución.",
+      "back": "Let's see. I'm sure we can find a solution.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Veámoslo. Creo que puedo ir el lunes de la semana que viene.",
+      "back": "Let's see. I think I can go next Monday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Déjame ver. No estoy seguro de lo que quieres decir.",
+      "back": "Let me see. I'm not sure what you mean.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Ya veo! ¡Así que no le amas de verdad!",
+      "back": "I see! So you don't really love him!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Ya veo! Así que quieres un aumento.",
+      "back": "I see! So you want a raise.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Ya veo! No me sorprende para nada.",
+      "back": "I see! It doesn't surprise me at all.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¡Nos vemos!",
+      "back": "See you!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Nos vemos más tarde!",
+      "back": "See you later!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡Nos vemos la semana que viene!",
+      "back": "See you next week!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Nos vemos mañana!",
+      "back": "I'll see you tomorrow!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Nos vemos la semana después de la semana que viene.",
+      "back": "I'll see you the week after next.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Nos vemos la próxima vez que venga.",
+      "back": "I'll see you next time I come.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Nos vemos la semana que viene?",
+      "back": "Shall we see each other next week?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Nos podemos ver pasado mañana si quieres.",
+      "back": "We can see each other the day after tomorrow if you like.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Por qué no nos vemos el jueves de la semana que viene?",
+      "back": "Why don't we see each other next Thursday?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "He quedado con él la semana que viene.",
+      "back": "I'm seeing him next week.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "No lo voy a ver hasta el viernes de la semana que viene.",
+      "back": "I'm not seeing him until next Friday.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¡He quedado con ella esta noche!",
+      "back": "I'm seeing her tonight!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Tu hermana está saliendo con alguien en estos momentos?",
+      "back": "Is your sister seeing anyone at the moment?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Sí, está saliendo con un tío de Teruel en estos momentos.",
+      "back": "Yeah, she's seeing a guy from Teruel at the moment.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Creo que Henry está saliendo con alguien.",
+      "back": "I think Henry's seeing someone.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Vi a dos hombres entrar en el edificio.",
+      "back": "I saw two men go into the building.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Me vieron llegar.",
+      "back": "They saw me arrive.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Ella vio a una mujer hacer una llamada telefónica.",
+      "back": "She saw a woman make a phone call.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Vi a aquel hombre hablando con alguien.",
+      "back": "I saw that man speaking to somebody.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Vi a Rick conduciendo su coche.",
+      "back": "I saw Rick driving his car.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Vimos a John trabajando con su portátil en el tren.",
+      "back": "We saw John working on his laptop on the train.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Veo a alguien comprando un periódico.",
+      "back": "I can see someone buying a newspaper.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Veo a alguien leyendo un periódico.",
+      "back": "I can see someone reading a newspaper.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Pues yo veo a dos hombres hablándose entre ellos.",
+      "back": "Well, I can see two men talking to each other.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Veo a alguien hablando por el móvil.",
+      "back": "I can see somebody talking on their mobile.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Veo a alguien mirando su móvil.",
+      "back": "I can see somebody looking at their mobile.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Veo a alguien subiendo a su coche.",
+      "back": "I can see somebody getting into their car.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Te veo convirtiéndote en presidente de los Estados Unidos algún día.",
+      "back": "I can see you becoming President of the United States one day.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "No le veo a él teniendo mucho éxito en aquella empresa.",
+      "back": "I can't see him being very successful in that company.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "No te veo haciendo eso, para serte sincero.",
+      "back": "I can't really see you doing that to be honest with you.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Siempre veo la tele los domingos.",
+      "back": "I always watch television on Sundays.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Hoy día los niños ven demasiada televisión.",
+      "back": "Children watch too much television nowadays.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Nunca veo la televisión durante la semana.",
+      "back": "I never watch television during the week.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Mi padre nunca ve la tele.",
+      "back": "My Dad never watches television.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Mi mujer ve más televisión que yo.",
+      "back": "My wife watches more television than I do.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Mi hijo ve demasiada televisión.",
+      "back": "My son watches too much television.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi madre siempre ve el telediario de las nueve, pero nunca ve el de las tres.",
+      "back": "My mother always watches the nine o'clock news but she never watches the three o'clock news.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Quiero ver el telediario esta noche.",
+      "back": "I want to watch the news tonight.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Ves el telediario todas las noches?",
+      "back": "Do you watch the news every night?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Vas a ver el partido esta noche?",
+      "back": "Are you going to watch the match tonight?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Él ve partidos de fútbol todos los sábados.",
+      "back": "He watches football matches every Saturday.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¡No puedes ver el partido! ¡Ves demasiada televisión!",
+      "back": "You can't watch the match! You watch too much television!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Puedo ver el partido cuando se acabe el telediario?",
+      "back": "Can I watch the match when the news is over?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "No puedes ver el telediario hasta que termine el partido.",
+      "back": "You can't watch the news until the match is over.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Salgo en cuanto se acabe la película.",
+      "back": "I'm going out as soon as the film is over.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Todos los días miro a los niños jugando al fútbol en el parque.",
+      "back": "Every day I watch the children playing football in the park.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "A veces miro a los niños jugando en el parque de enfrente de mi casa.",
+      "back": "I sometimes watch the children playing in the park opposite my flat.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Yo no miro a ningún niño jugando enfrente de mi piso porque ningún niño juega allí.",
+      "back": "I never watch children playing opposite my flat because no children play opposite my flat.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Te gusta mirar a la gente reírse en la tele?",
+      "back": "Do you like watching people laughing on telly?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Me encanta mirar a la gente reírse en la tele.",
+      "back": "I love watching people laughing on telly.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Por regla general, a la gente le gusta mirar a la gente reírse en la tele.",
+      "back": "In general, people like watching people laughing on telly.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Por qué estás mirando a esa gente discutiendo?",
+      "back": "Why are you watching those people having an argument?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "No estoy mirando a nadie discutiendo. Estoy mirando aquella estatua.",
+      "back": "I'm not watching anyone having an argument. I'm looking at that statue!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "No me gusta mirar a la gente discutiendo.",
+      "back": "I don't like watching people arguing.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Por qué estás mirando a esos hombres debatiendo?",
+      "back": "Why are you watching those men having a discussion?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Te gusta mirar a la gente debatiendo?",
+      "back": "Do you like watching people having a discussion?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Estoy sentada en una cafetería mirando a unas personas debatiendo sobre algo.",
+      "back": "I'm sitting in a café watching some people having a discussion about something.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¡Papá! ¡Mírame!",
+      "back": "Dad, watch me!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Oye! ¡Mira esto!",
+      "back": "Hey, watch this!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¡No puedo mirar!",
+      "back": "I can't watch!",
+      "sourcePage": 19
+    }
+  ]
+}
