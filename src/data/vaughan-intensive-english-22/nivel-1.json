@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-22",
+  "bookTitle": "Libro 22",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Creo que tienes razón.",
+      "back": "I think you're right.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Creo que están equivocados.",
+      "back": "I think they're wrong.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Creo que ella tiene razón, pero creo que él está equivocado.",
+      "back": "I think she's right but I think he's wrong.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Creo que no es una buena idea.",
+      "back": "I don't think it's a good idea.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Creo que no le gusta a él.",
+      "back": "I don't think he likes it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Creo que no vamos a ganar.",
+      "back": "I don't think we're going to win.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Va a llover mañana? Creo que sí.",
+      "back": "Is it going to rain tomorrow? I think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿De verdad se tarda tres horas en llegar a Manchester desde aquí? Creo que sí.",
+      "back": "Does it really take three hours to get to Manchester from here? I think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Es la corona la moneda que utilizan en la República Checa? Creo que sí.",
+      "back": "Is the crown the currency they use in the Czech Republic? I think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Crees que vamos a llegar tarde? No, no lo creo.",
+      "back": "Do you think we're going to be late? No, I don't think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Se va a acabar el mundo la semana que viene? No, no lo creo.",
+      "back": "Is the world going to end next week? I don't think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Él está enfadado, ¿a que sí? No, no lo creo.",
+      "back": "He's angry, isn't he? No, I don't think so.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Creo que Jeremy y Daphne se van a divorciar. ¿Tú crees?",
+      "back": "I think Jeremy and Daphne are going to get divorced. Do you think so?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Creo que vamos a llegar tarde. ¿De verdad lo crees?",
+      "back": "I think we're going to be late. Do you really think so?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Creo que va a nevar al atardecer. ¿De verdad lo crees?",
+      "back": "I think it's going to snow this evening. Do you really think so?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Crees que a Mark se le da mejor el tenis que a Rafa?",
+      "back": "Do you think Mark is better at tennis than Rafa?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Crees que este modelo es mejor que aquel?",
+      "back": "Do you think this model is better than that one?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Crees que eres mejor cocinero que yo?",
+      "back": "Do you think you're a better cook than I am?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Creo que el mío es peor que el tuyo.",
+      "back": "I think mine is worse than yours.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Creo que el mío es mejor que el suyo de él, pero peor que el suyo de ella.",
+      "back": "I think mine is better than his but worse than hers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No creo que se te dé peor el tenis a ti que a mí.",
+      "back": "I don't think you are worse at tennis than I am.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Creo que él es más rápido que yo.",
+      "back": "I think he's faster than I am.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Creo que su coche puede ir más rápido que el mío.",
+      "back": "I think his car can go faster than mine.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Creo que ella conduce más rápido que yo.",
+      "back": "I think she drives faster than I do.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Creo que esta ruta es más lenta que aquella.",
+      "back": "I think this way is slower than that one.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Crees que esta ruta es más rápida o más lenta que aquella?",
+      "back": "Do you think this way is faster or slower than that one?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Creo que mi hermano conduce más despacio que yo.",
+      "back": "I think my brother drives slower than I do.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Creo que ella es más grande que su hermana.",
+      "back": "I think she's bigger than her sister.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Crees que Francia es más grande que España?",
+      "back": "Do you think France is bigger than Spain?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Creo que la catedral de Sevilla es más grande que la de Milán.",
+      "back": "I think the cathedral in Seville is bigger than the one in Milan.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Quién crees que es el mejor futbolista del mundo?",
+      "back": "Who do you think is the best football player in the world?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿De verdad crees que tu dibujo es el mejor?",
+      "back": "Do you really think your drawing is the best?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Yo creo que eres la mejor esposa del mundo entero.",
+      "back": "I think you're the best wife in the whole world.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Yo creo que soy el peor cocinero del mundo mundial.",
+      "back": "I think I'm the worst cook in the whole world.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Quién crees que es el peor político de España?",
+      "back": "Who do you think is the worst politician in Spain?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Creo que este es el peor hotel de España.",
+      "back": "I think this is the worst hotel in Spain.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Creo que el tren bala en Japón es el tren más rápido del mundo.",
+      "back": "I think the bullet train in Japan is the fastest train in the world.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Qué animal crees que es el más veloz del mundo?",
+      "back": "Which animal do you think is the fastest in the world?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Creo que el guepardo es el animal más rápido y el halcón peregrino es el ave más veloz del mundo.",
+      "back": "I think the cheetah is the fastest animal in the world and I think the peregrine falcon is the fastest bird in the world.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Creo que el caracol es la criatura más lenta de mi jardín.",
+      "back": "I think the snail is the slowest creature in my garden.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Quién crees que es el niño más lento de tu clase?",
+      "back": "Who do you think is the slowest child in your class?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Quién crees que es la persona que conoces que más despacio habla?",
+      "back": "Who do you think is the person you know who speaks the slowest?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Creo que la ballena azul es el mamífero más grande del mundo.",
+      "back": "I think the blue whale is the biggest mammal in the world.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Crees que Nueva Delhi es la ciudad más grande del mundo?",
+      "back": "Do you think New Delhi is the biggest city in the world?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Creo que Londres es la ciudad más grande de Europa.",
+      "back": "I think London is the biggest city in Europe.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Creo que me voy a hacer un té.",
+      "back": "I think I'll make a cup of tea.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Creo que hoy voy a ir al supermercado un poco más tarde.",
+      "back": "I think I'll go to the supermarket later on today.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Creo que esta noche voy a llamar a mi madre un poco más tarde.",
+      "back": "I think I'll call my mother later on this evening.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "No creo que vaya a llover.",
+      "back": "I don't think it'll rain.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Creo que él no lo hará.",
+      "back": "I don't think he'll do it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Creo que eso no ocurrirá.",
+      "back": "I don't think that'll happen.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Crees que nevará esta Navidad?",
+      "back": "Do you think it'll snow this Christmas?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Crees que ella dirá que sí?",
+      "back": "Do you think she'll say yes?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Crees que se tardará mucho?",
+      "back": "Do you think it'll take long?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Creo que a lo mejor me busco otro trabajo.",
+      "back": "I think I might look for another job.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Creo que a lo mejor me voy a Sicilia en mis vacaciones de verano.",
+      "back": "I think I might go to Sicily for my summer holiday.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Creo que a lo mejor me acuesto.",
+      "back": "I think I might go to bed.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Crees que te casarás algún día?",
+      "back": "Do you think you might get married one day?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Crees que algún día igual te mudarás a las afueras?",
+      "back": "Do you think you might move to the outskirts one day?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Crees que algún día lo mismo te vas a vivir a Estados Unidos?",
+      "back": "Do you think you might go and live in the States one day?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Piénsatelo!",
+      "back": "Think about it!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Me lo pensaré.",
+      "back": "I'll think about it.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Me lo estoy pensando.",
+      "back": "I'm thinking about it.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Ella siempre está pensando en su novio.",
+      "back": "She's always thinking about her boyfriend.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No quiero pensar en el trabajo cuando estoy de vacaciones.",
+      "back": "I don't want to think about work when I'm on holiday.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Pensemos en algo diferente.",
+      "back": "Let's think about something different.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿En qué está pensando él?",
+      "back": "What's he thinking about?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿En quién estás pensando?",
+      "back": "Who are you thinking about?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿En qué crees que está pensando ella?",
+      "back": "What do you think she's thinking about?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Estoy pensando en mudarme.",
+      "back": "I'm thinking about moving house.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Estáis pensando en casaros?",
+      "back": "Are you thinking about getting married?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Qué piensas hacer el verano que viene?",
+      "back": "What are you thinking about doing next summer?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Estoy pensando en no decir nada.",
+      "back": "I'm thinking about not saying anything.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Estoy pensando en no decírselo a ella.",
+      "back": "I'm thinking about not telling her.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Estoy pensando en no volver allí nunca más.",
+      "back": "I'm thinking about not going back there ever again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Qué opinas?",
+      "back": "What do you think?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Qué opina ella?",
+      "back": "What does she think?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Qué opinan ellos?",
+      "back": "What do they think?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Qué opinas del nuevo gobierno?",
+      "back": "What do you think of the new government?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Qué opinas del periódico de hoy?",
+      "back": "What do you think of today's newspaper?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Qué opinas de la nueva jefa?",
+      "back": "What do you think of the new boss?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Qué opinas de ellas?",
+      "back": "What do you think of them?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Qué opina ella de él?",
+      "back": "What does she think of him?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Qué opina él de ella?",
+      "back": "What does he think of her?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Qué opinas del comunismo?",
+      "back": "What do you think of communism?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Qué opinas del fascismo?",
+      "back": "What do you think of fascism?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Qué opina tu mujer del consumismo?",
+      "back": "What does your wife think of consumerism?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Qué opinas del optimismo de Paul?",
+      "back": "What do you make of Paul's optimism?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Qué opinas de todo este pesimismo?",
+      "back": "What do you make of all this pessimism?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Qué opinas de este nuevo mecanismo?",
+      "back": "What do you make of this new mechanism?",
+      "sourcePage": 19
+    }
+  ]
+}

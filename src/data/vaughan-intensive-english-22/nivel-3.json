@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-22",
+  "bookTitle": "Libro 22",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Creí que tú lo sabrías puesto que eres su mejor amigo.",
+      "back": "I would have thought that you would know, seeing as you're her best friend.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Pensaba que Jane estaría aquí puesto que es su fiesta de despedida.",
+      "back": "I would have thought that Jane would be here, seeing as it's her leaving do.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Pensaba que vendría más gente porque es un bar con barra libre.",
+      "back": "I would have thought that more people would turn up, especially seeing as it's an open bar.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "No pensaba que nadie hubiera oído mucho del discurso con todo ese ruido de la sala de al lado.",
+      "back": "I wouldn't have thought anybody heard much of the speech with all that noise going on in the next room.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "No pensaba que él necesitaría a un profesional para decirle que estaba bebiendo demasiado.",
+      "back": "I wouldn't have thought he needed a professional to tell him that he's drinking too much.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "No creo que a nadie le importe si Sócrates era una figura histórica o no.",
+      "back": "I wouldn't have thought that anybody cared less whether Socrates was a historical figure or not.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Nunca habría pensado que sus familias estarían de acuerdo con tal enlace.",
+      "back": "I'd never have thought that their families would agree to such a union.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Nunca habría pensado que te sentirías obligado a apoyar un punto de vista tan controvertido.",
+      "back": "I'd never have thought that you would feel obliged to support such a controversial point of view.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Nunca habría pensado que una humilde hija de molinero acabaría casándose con un príncipe.",
+      "back": "I'd never have thought that a lowly miller's daughter would end up marrying a prince.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Quién lo iba a decir? Una mujer primer ministro en uno de los países más machistas del mundo.",
+      "back": "Who'd have thought it? A woman prime minister in one of the most sexist countries on the planet.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Quién iba a decir que un ateo llegaría a ser tan popular en el Bible Belt?",
+      "back": "Who'd have thought that an atheist would become so popular in the Bible Belt?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Quién iba a decir que tanta gente se convencería con un argumento tan débil?",
+      "back": "Who'd have thought that so many people would be won over by such a weak argument?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "No me lo habría pensado dos veces si me hubieras pedido que donase dinero a esa ONG.",
+      "back": "I wouldn't have given it a second thought if you'd asked me to donate money to that particular charity.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Si alguien me hubiera pedido ayuda para la causa, no me lo habría pensado dos veces.",
+      "back": "If someone had asked me to help with the cause, I wouldn't have given it a second thought.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Si hubiera visto a un niño ahogándose en el río, no me lo habría pensado dos veces; lo habría rescatado.",
+      "back": "If I'd seen a drowning child in the river, I wouldn't have given it a second thought. I would have dived in to rescue it.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Ahora que lo pienso, ninguno de los dos lo sabíamos por aquel entonces.",
+      "back": "Now that I think about it, neither of us knew that at the time.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Ahora que lo pienso, ninguno de ellos quería tomar parte en el experimento al principio.",
+      "back": "Now that I think about it, neither of them wanted to take part in the experiment at first.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Ahora que lo pienso, ninguno de ellos tenía ni idea de que llegarían a ser luchadores famosos.",
+      "back": "Now that I think about it, neither of them had any idea that they would become famous wrestlers one day.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Ahora que lo pienso, ninguno de nosotros era consciente de lo que pasaba cuando empezamos la investigación.",
+      "back": "Come to think of it, none of us were aware of what was happening when we started the investigation.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Ahora que lo pienso, ninguno de nosotros sabía lo peligrosa que era realmente la situación.",
+      "back": "Come to think of it, none of us knew how dangerous the situation really was.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Ahora que lo pienso, ninguno de ellos estaba dispuesto a prescindir de su libertad para ser miembro del partido.",
+      "back": "Come to think of it, none of them were willing to give up their freedom to become party members.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Pensándolo mejor, vosotros dos deberíais salir de la rueda de prensa ahora mismo.",
+      "back": "On second thoughts, both of you should leave the press conference right this minute.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Pensándolo mejor, vosotros dos deberíais pedir perdón a Sophie personalmente.",
+      "back": "On second thoughts, both of you should apologize to Sophie personally.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Pensándolo mejor, ellos dos deberían pagar las consecuencias.",
+      "back": "On second thoughts, both of them should pay the penalty.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Pensando en voz alta, todos vosotros deberíais ver el documental. Os hará pensar.",
+      "back": "Thinking aloud, all of you should watch the documentary. It will make you think.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Pensando en voz alta, todos nosotros deberíamos ir juntos de vacaciones. Sería tan divertido.",
+      "back": "Thinking aloud, all of us should go on holiday together. It would be such a laugh.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Pensando en voz alta, todos ellos deberían poner dinero en el fondo común.",
+      "back": "Thinking aloud, all of them should put some money into the kitty.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Y pensar que algunos de ellos se hacen llamar cristianos.",
+      "back": "And to think that some of them call themselves Christians!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Y pensar que algunos de vosotros lleváis años estudiando inglés.",
+      "back": "And to think that some of you have been studying English for years.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Y pensar que algunos de ellos ni siquiera sabían dónde se encuentra el país en el mapa.",
+      "back": "And to think that some of them didn't even know where the country was on the map.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Pensé que este verbo sería lo suficientemente importante como para dedicarle un momento.",
+      "back": "I figured that this verb would be important enough to spend a moment looking at it.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Pensamos que si no aprendes el verbo «to figure», tu inglés tendrá lagunas importantes.",
+      "back": "We figured that if you don't learn the verb \"to figure\", your English will be lacking an important element.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Pensé que como mucha gente está obsesionada con su figura, un libro sobre dietas vendería más que un curso de inglés.",
+      "back": "I figured that as many people are obsessed with their figure, a diet book would sell more than an English course.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Curiosamente, el personaje del hermano no aparece mucho en la novela.",
+      "back": "Strangely enough, the character of the brother doesn't figure much in the novel itself.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Por qué no apareces en los créditos?",
+      "back": "Why don't you figure in the credits?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Trevor no destaca hasta la segunda mitad de la película.",
+      "back": "Trevor doesn't figure prominently until the second half of the movie.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¿No puedes resolverlo tú mismo?",
+      "back": "Can't you figure it out for yourself?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Si no lo puedes resolver tú mismo, pide ayuda a tu profesor.",
+      "back": "If you can't figure it out for yourself, then ask your teacher to give you a hand.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Puede que lleve un tiempo solucionarlo todo.",
+      "back": "It might take some time to figure it all out.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "No me explico que alguien como él pudiera hacer semejante cosa.",
+      "back": "It just doesn't figure that someone like him could do such a thing.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "No me explico que él pudiera haber ganado tanto dinero y luego gastarlo tan rápido.",
+      "back": "It just doesn't figure that he could have earned so much money and then spend it so quickly.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "No me explico que una persona religiosa pueda ser tan cruel con alguien desamparado.",
+      "back": "It just doesn't figure that a religious person could be so cruel to somebody who is so helpless.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Por favor, no te ofendas: solo es una forma de hablar.",
+      "back": "Please don't be offended: it's just a figure of speech.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Qué extraño: nunca he oído esa figura literaria antes.",
+      "back": "That's strange: I've never heard that figure of speech before.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Qué figura literaria tan increíble acabamos de aprender.",
+      "back": "What an amazing figure of speech we've just learned!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Creo que de ninguna manera lograremos terminar todo para esta noche.",
+      "back": "I reckon there's no way we'll get everything done by tonight.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Yo creo que nunca vas a tirarte a la piscina.",
+      "back": "I reckon you're never going to take the plunge.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Yo creo que está loco por pensar en hacer algo así.",
+      "back": "I reckon he's out of his mind to think about doing something like that.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Yo creo que no hay otra opción.",
+      "back": "I believe there's no other option.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Creo que el sistema entero necesita reformarse por completo.",
+      "back": "I believe the whole system needs a complete overhaul.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Nosotros creemos que esta es la única vía para el progreso.",
+      "back": "We believe this is the only way forward.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Quiero que todos reflexionéis sobre todo lo que se ha dicho hoy.",
+      "back": "I want you all to reflect upon everything that's been said today.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "¿Has reflexionado sobre lo que hablamos la semana pasada?",
+      "back": "Have you reflected upon what we discussed last week?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Hay mucho sobre lo que reflexionar.",
+      "back": "There's much to reflect upon.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "A menudo reflexiono sobre la naturaleza efímera de las cosas.",
+      "back": "I often muse upon the ephemeral nature of things.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Vamos todos a reflexionar un rato sobre esa idea.",
+      "back": "Let us all muse upon that idea for a while.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "No es buena idea reflexionar sobre ese tipo de cosas.",
+      "back": "It's not a good idea to muse upon that sort of thing.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Creo que los dos tenemos que reflexionar sobre si esta es la mejor línea de acción.",
+      "back": "I think we both need to ponder whether or not this is really the best course of action for us to take.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Necesito cinco minutos para reflexionar sobre mis opciones.",
+      "back": "I need five minutes to ponder over my options.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Creo que necesito reflexionar un rato sobre esto.",
+      "back": "I think I need to ponder over this for a while.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Yo que tú, lo pensaría dos veces antes de comprar una casa en el mercado actual.",
+      "back": "If I were you, I'd think twice before buying a house in the current market.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "La próxima vez lo pensaré dos veces antes de prestarle dinero a alguien.",
+      "back": "The next time I'll think twice before I decide to lend someone any money.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Estás seguro de que es el hombre indicado? Deberías pensarlo dos veces antes de tomar una decisión final.",
+      "back": "Are you sure he's the right man for the job? You might want to think twice before making a final decision.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "No podemos reaccionar siempre a la competencia; tenemos que ser más previsores.",
+      "back": "We can't always react to what the competition or the market is doing; we need to think ahead more!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Estoy empezando a pensar en mi jubilación y me asusta porque no he ahorrado ni un duro.",
+      "back": "I'm beginning to think ahead to my retirement and it's frightening as I'm starting to realize that I haven't saved a penny!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "¿Por qué nunca piensas las cosas de antemano? No has traído ropa de abrigo para Londres en otoño.",
+      "back": "Why do you never think ahead?! I can't believe you didn't bring any warm clothes for a holiday in London in the middle of autumn!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Iba a teñirme el pelo de rojo, pero después lo reconsideré.",
+      "back": "I was going to dye my hair red but then I thought better of it.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Casi le dije que se metiera el trabajo por donde le cupiera; menos mal que cambié de opinión.",
+      "back": "I almost told him that he could stick his job; it's just as well that I thought better of it!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Vámonos de la fiesta antes de que vuelvas a cambiar de opinión.",
+      "back": "Come on, let's leave the party now before you think better of it again.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Tenemos que pensar muy bien en cómo vamos a contarles esto a los niños.",
+      "back": "We need to think long and hard about how we're going to tell the children about this.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Me hace gracia que siempre piense tanto en las respuestas y después se suela equivocar.",
+      "back": "It makes me laugh that he always thinks so long and hard about the answers and then usually gets them wrong!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Reflexionó durante mucho tiempo sobre dejar a su marido y después recapacitó.",
+      "back": "She thought long and hard about leaving her husband and then thought better of it.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Nunca vamos a innovar de verdad a no ser que empecemos a pensar a lo grande.",
+      "back": "We're never going to truly innovate unless we start thinking big.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Sabes lo que tienen en común todos los directores generales legendarios? Pensaban a lo grande.",
+      "back": "Do you know what all the legendary CEOs have in common? They all thought big.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Cuando dije que teníamos que pensar a lo grande, no me refería a tu cuerpo. Has engordado.",
+      "back": "When I said that we needed to think big I wasn't referring to your body! You've put on loads of weight!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Él es de la vieja escuela, que cree que el lugar de la mujer está en la cocina.",
+      "back": "He comes from the old school of thought that believes a woman's place is in the kitchen.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "No creo en esa escuela de pensamiento económico keynesiano.",
+      "back": "I don't believe in that Keynesian economic school of thought.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "La gente que cree en el creacionismo es la misma que no cree en el calentamiento global.",
+      "back": "I think you'll find that the school of thought that believes in creationism is the same one that doesn't believe in global warming.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Tus comentarios profundos nos darán sin duda algo en que pensar a todos.",
+      "back": "Your profound comments will certainly give us all food for thought.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "No quería que mis palabras se interpretasen como una orden; solo era algo para reflexionar.",
+      "back": "My words were not intended as an order; it was merely food for thought.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Muchas gracias por tus ideas; nos han dado mucho en que pensar.",
+      "back": "Thanks for your ideas; they've given us lots of food for thought.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Perdona, he perdido el hilo. ¿Qué estaba diciendo?",
+      "back": "I'm sorry, I've lost my train of thought. What was I saying?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Tu interrupción me ha hecho perder el hilo; ahora no sé de qué hablaba.",
+      "back": "You've interrupted my train of thought; now I have no idea what I was talking about.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Tu entrada repentina le hizo perder el hilo por completo.",
+      "back": "Your sudden entrance made her lose her train of thought completely.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Lo siento, ¿me estabas hablando a mí? Estaba totalmente ensimismado.",
+      "back": "I'm sorry, were you talking to me? I was completely lost in thought.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Creo que está estresado últimamente; siempre parece estar ensimismado.",
+      "back": "I think he must be quite stressed lately; he always seems to be lost in thought.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "No has oído ni una palabra porque estabas completamente ensimismada.",
+      "back": "Well of course you haven't heard a word I've said; you were completely lost in thought.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Si algo le sucediera a mi ahijado, Dios no lo quiera, sabes que yo le cuidaría.",
+      "back": "If anything ever happened to my godson, perish the thought, you know that I would look after him.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Dios nos libre de que alguna vez se les ocurra casarse.",
+      "back": "Perish the thought that they ever think about getting married.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "¿Que si se ha levantado aún? Ni lo pienses. Aún no son ni las diez.",
+      "back": "Has he got up yet? Perish the thought! It's not even 10 o'clock yet.",
+      "sourcePage": 75
+    }
+  ]
+}
