@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-15",
+  "bookTitle": "Libro 15",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me sentiría genial si vinieras conmigo.",
+      "back": "I'd feel great if you came with me.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Me sentiría fenomenal si no fuera por este dolor de cabeza.",
+      "back": "I'd feel great if it weren't for this headache.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Me sentiría fenomenal si no tuviera que trabajar este fin de semana.",
+      "back": "I'd feel great if I didn't have to work this weekend.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Me sentiría fatal si supiera que has hecho todo este camino para nada.",
+      "back": "I'd feel terrible if I knew you'd come all this way for nothing.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Me sentiría fatal si tuvieras que ir solo.",
+      "back": "I'd feel terrible if you had to go alone.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Me sentiría fatal si perdieras el contrato por mi culpa.",
+      "back": "I'd feel terrible if you lost the deal because of me.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Te sentirías mejor si yo pusiera el aire acondicionado?",
+      "back": "Would you feel better if I turned on the air-conditioning?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "¿Te sentirías disgustada si él no te llamara?",
+      "back": "Would you feel upset if he didn't call you?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Sentirías claustrofobia si tuvieras que viajar en la parte de atrás de mi coche?",
+      "back": "Would you feel claustrophobic if you had to travel in the back of my car?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Cómo te sentirías si te pasara a ti?",
+      "back": "How would you feel if it happened to you?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Cómo te sentirías si alguien te lanzara una tarta a la cara?",
+      "back": "How would you feel if someone threw a pie in your face?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Cómo te sentirías si ella dijera eso a tu mejor amigo?",
+      "back": "How would you feel if she said that to your best friend?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Cómo te hubieras sentido si nadie hubiese aparecido?",
+      "back": "How would you have felt if nobody had turned up?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Cómo te habrías sentido si hubieras perdido el partido?",
+      "back": "How would you have felt if you'd lost the match?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Cómo te habrías sentido si los papeles se hubiesen invertido?",
+      "back": "How would you have felt if the shoe had been on the other foot?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Al ser de las islas Canarias, a María le afecta mucho el frío cuando está en Madrid en esta época del año.",
+      "back": "Coming from the Canary Islands, Maria really feels the cold when she's in Madrid at this time of year.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Al hacerme mayor, siento que me afecta mucho más el frío que antes.",
+      "back": "As I get older, I find that I feel the cold much more than I used to.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "A la mayoría de los sudamericanos que conozco que viven en Londres les afecta mucho el frío del invierno.",
+      "back": "Most of the South Americans I know who live in London really feel the cold in winter.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Disfruto viviendo en España, pero me afecta mucho el calor del verano.",
+      "back": "I enjoy living in Spain, but I really feel the heat in summer.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "¿No te afecta el calor viniendo de un país tan frío a un lugar como éste?",
+      "back": "Don't you feel the heat coming from such a cold country to a place like this?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Si te afecta el calor, te recomiendo que te quedes en el autocar.",
+      "back": "If you feel the heat, I recommend you stay in the coach.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Parece que la presión te está empezando a afectar.",
+      "back": "It looks like you're beginning to feel the pressure.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Se notaba que la presión le estaba afectando a él por el lenguaje corporal.",
+      "back": "You could tell he was feeling the pressure by his body language.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "A un buen jefe nunca le afecta la presión.",
+      "back": "A good boss never feels the pressure.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "¿Ha dejado alguien una ventana abierta en algún lugar? Siento una corriente de aire frío.",
+      "back": "Has someone left a window open somewhere? I can feel a draught.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Sientes una corriente de aire? Creo que viene de debajo de la puerta.",
+      "back": "Can you feel a draught? I think it's coming from under the door.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Siempre que siento una corriente de aire frío se me agarrota el cuello.",
+      "back": "Whenever I feel a draught, my neck seizes up.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Venga! ¡Baila! ¿No sientes el ritmo?",
+      "back": "Come on! Dance! Can't you feel the rhythm?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Al final de la noche todos sentían el ritmo y bailaban como locos en la pista de baile.",
+      "back": "By the end of the night everyone was feeling the rhythm and dancing like crazy on the dance floor.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "No se puede bailar si no se siente el ritmo.",
+      "back": "You can't dance if you don't feel the rhythm.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Actualmente estoy buscando un empleo, así que si puedes tantear el terreno por mí, sería genial.",
+      "back": "I'm currently looking for a job, so if you could put your feelers out, that would be great.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "No hemos olvidado tu idea. En este momento estamos tanteando el terreno.",
+      "back": "We haven't forgotten your idea. At the moment we're putting our feelers out.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Puedes tantear el terreno para ver la posibilidad de publicar mi nuevo libro?",
+      "back": "Can you put your feelers out about the possibility of publishing my new book?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Alguna vez tienes la sensación de que estás siendo vigilado?",
+      "back": "Do you ever get the feeling you're being watched?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Tengo la sensación de que nos conocemos de antes.",
+      "back": "I get the feeling we've met before.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Alguna vez tienes la sensación de que te estás repitiendo?",
+      "back": "Do you ever get the feeling you're repeating yourself?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¡Realmente creo que estoy empezando a acostumbrarme a esto por fin!",
+      "back": "I really think I'm beginning to get the feel for this at last!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Volar es fácil una vez que te acostumbras a ello.",
+      "back": "Flying is easy once you get the feel for it.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "No te preocupes; pronto te acostumbrarás.",
+      "back": "Don't worry; you'll soon get the feel for it.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Su hijo pequeño, Jason, definitivamente tiene un don para la música.",
+      "back": "Their youngest son, Jason, definitely has a feel for music.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Nadie tiene talento para hablar en público como nuestro jefe.",
+      "back": "Nobody has a feel for speaking in public like our boss.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Puedes aprender a ser actor o se nace con el talento para ese tipo de habilidad?",
+      "back": "Can you learn how to be an actor or are you born with a feel for that type of thing?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Me encanta la sensación del tacto de mi chaqueta nueva de terciopelo verde.",
+      "back": "I love the feel of my new green velvet jacket.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Me encanta la sensación de la arena resbalando entre mis dedos.",
+      "back": "I love the feel of the sand slipping between my fingers.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Me encanta la sensación de las olas golpeando mi cuerpo.",
+      "back": "I love the feel of the waves hitting my body.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "No le aguanto; siempre intenta rebajar a la gente.",
+      "back": "I can't stand her; she always tries to make people feel small.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Puedes criticar mi trabajo, pero no intentes menospreciarme.",
+      "back": "You can criticize my work, but don't try to make me feel small.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Ella logra menospreciar a la gente y ni siquiera se da cuenta de que lo hace.",
+      "back": "She manages to make people feel small, but she doesn't even realize she's doing it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Puedes decir lo que quieras, pero no me vas a hacer sentir culpable.",
+      "back": "You can say whatever you want, but you're not going to make me feel guilty.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Claro que le hice sentir culpable a él por haberse olvidado de mi cumpleaños.",
+      "back": "Of course I made him feel guilty for forgetting my birthday.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "¿De verdad crees que la religión se basa en la idea de hacernos sentir culpables?",
+      "back": "Do you really think religion is based on the idea of making us feel guilty?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "No pude ver esa escena entera; casi me dieron náuseas.",
+      "back": "I couldn't watch all of that scene; it almost made me feel sick.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Me pone enferma cuando pienso en todo el dinero que robaron.",
+      "back": "It makes me sick when I think about all the money they stole.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Me entró un asco al ver esa carne putrefacta de animal.",
+      "back": "Looking at that rotten animal meat made me feel sick to the stomach.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Os harán sentir bienvenidos si vais a su casa.",
+      "back": "They'll make you feel really welcome if you go to their house.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "No entiendo por qué dicen que los ingleses son tan fríos; todo el mundo nos hizo sentir bienvenidos cuando estuvimos allí.",
+      "back": "I don't know why they say the English are so cold; everyone made us feel welcome when we were there.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Os hicieron sentir bienvenidos?",
+      "back": "Did they make you feel welcome?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "No diría precisamente que me hicieron sentir como en casa.",
+      "back": "I wouldn't exactly say they made me feel at home.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Mientras estáis aquí haremos todo lo que podamos para que os sintáis como en casa.",
+      "back": "While you're here, we'll do whatever we can to make you feel at home.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "¿La familia anfitriona te hizo sentir como en casa?",
+      "back": "Did the host family make you feel at home?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Me siento mal por lo que ocurrió.",
+      "back": "I feel bad about what happened.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Me siento mal por lo que dije.",
+      "back": "I feel bad about what I said.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Me siento mal por lo que hicimos.",
+      "back": "I feel bad about what we did.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Me da cosa decírselo a ella.",
+      "back": "I feel bad about telling her.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Me siento mal por haberlo hecho sin que ellas lo supieran. (gerundio simple)",
+      "back": "I feel bad about doing it without them knowing.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Me siento mal por haberlo hecho sin que ellas lo supieran. (gerundio perfecto)",
+      "back": "I feel bad about having done it without them knowing.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Me siento mal por no habérselo dicho a ellos antes.",
+      "back": "I feel bad about not telling them sooner.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Me siento mal por no haberlo hecho antes.",
+      "back": "I feel bad about not having done it sooner.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Él se siente mal por no habernos avisado de los peligros.",
+      "back": "He feels bad about not warning us about the dangers.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Nadie me habló en la fiesta. Me sentí totalmente excluido.",
+      "back": "Nobody spoke to me at the party. I felt terribly left-out.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Nos sentimos excluidos cuando no nos invitaron a participar en la reunión.",
+      "back": "We felt excluded when we weren't invited to take part in the meeting.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "El amigo de Paul, Jonathan, se sintió marginado por sus raíces gitanas.",
+      "back": "Paul's friend Jonathan felt marginalized because of his gypsy origins.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Me sentí totalmente perdido en la conferencia sobre astrofísica.",
+      "back": "I felt completely out of my depth at the astrophysics conference.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "No se sintieron a la altura de las circunstancias cuando se dieron cuenta de lo que era capaz la competencia.",
+      "back": "They felt out of their league when they realized what the competition was capable of.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Era el número veinte del mundo, pero se sintió totalmente incompetente al enfrentarse a Nadal.",
+      "back": "He was number 20 in the world, but he felt totally outclassed by Nadal.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Como no estábamos familiarizados con la casa y estaba oscuro, tuvimos que tantear el espacio para encender la luz.",
+      "back": "As we weren't familiar with the house and it was dark, we had to feel for the light switch.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Cuando hubo un apagón, tuvimos que alcanzar a ciegas el pomo de la puerta para salir a buscar unas velas.",
+      "back": "When there was a power cut, we had to feel for the door handle in order to get out and find some candles.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Busqué a ciegas el interruptor de la luz, ¡pero parecía que se había movido!",
+      "back": "I felt for the light switch, but it seemed to have moved!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Alguien estaba hurgando en su mochila mientras ella hablaba con sus amigas.",
+      "back": "Someone was feeling around in her backpack while she was talking to her friends.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Hurgué en mi bolsillo, pero mis llaves habían desaparecido.",
+      "back": "I felt around in my pocket, but my keys had gone.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Busca en el fondo de la bolsa; tienen que estar por ahí en algún sitio.",
+      "back": "Feel around in the bottom of the bag; they have to be there somewhere.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Compadezco a los que tienen que cuidar a sus parientes ancianos que sufren demencia.",
+      "back": "I feel for those who have to look after elderly relatives with dementia.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Compadezco a quienquiera que tenga que pasar por lo que él pasó.",
+      "back": "I feel for anyone who has to go through what he went through.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Lo siento mucho por Jane, pues tiene que cuidar a tres niños y a su madre anciana.",
+      "back": "I really feel for Jane, having to look after three kids and her elderly mother.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Le tanteamos a él sobre sus ideas respecto a la empresa.",
+      "back": "We felt him out about his ideas for the company.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Quiero tantearle a él acerca de sus tendencias políticas.",
+      "back": "I want to feel him out about his political leanings.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Dijiste que querías tantearme sobre algo.",
+      "back": "You said that you wanted to feel me out about something.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "¿Te sientes dispuesto a dar un paseo por el parque esta tarde?",
+      "back": "Do you feel up to going for a walk in the park this afternoon?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "No me sentí lo suficientemente bien la semana pasada como para hacer mucho porque tenía gripe.",
+      "back": "I didn't feel up to much last week as I had flu.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Estoy seguro de que me sentiré lo suficientemente bien como para hacerlo luego.",
+      "back": "I'm sure I'll feel up to it later.",
+      "sourcePage": 75
+    }
+  ]
+}

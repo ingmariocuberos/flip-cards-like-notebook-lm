@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-15",
+  "bookTitle": "Libro 15",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Cómo estás? (pregunta habitual)",
+      "back": "How are you?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Cómo te va? (saludo habitual)",
+      "back": "How's it going?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Cómo estás? (con «doing»)",
+      "back": "How are you doing?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Cómo te encuentras? (presente simple)",
+      "back": "How do you feel?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Cómo te encuentras? (presente continuo)",
+      "back": "How are you feeling?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Cómo se encuentra tu suegra?",
+      "back": "How's your mother-in-law feeling?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Me siento genial esta mañana!",
+      "back": "I feel great this morning!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Roger se siente un poco indispuesto en este momento. Es por eso que no está en su sitio.",
+      "back": "Roger's feeling a bit ill at the moment. That's why he's not at his desk.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Tengo ganas de devolver. ¿Me puedes llevar al baño, por favor?",
+      "back": "I feel sick. Can you take me to the bathroom, please?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "No tengo mucha hambre hoy.",
+      "back": "I don't feel very hungry today.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Tengo mucha sed. ¿Tienes sed también?",
+      "back": "I feel really thirsty. Do you feel thirsty too?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Tengo un poco de frío. Me voy a poner el jersey.",
+      "back": "I feel a bit cold. I'm going to put my jumper on.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Estoy un poco triste hoy. ¡Es por el tiempo!",
+      "back": "I feel a bit sad today. It's the weather!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Estoy un poco nerviosa por lo de ir al médico.",
+      "back": "I feel a bit nervous about going to the doctor's.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Estoy un poco cansado hoy. Siempre me siento cansado los viernes.",
+      "back": "I'm feeling a bit tired today. I always feel tired on Fridays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Estoy seguro de que te sentirás mejor mañana.",
+      "back": "I'm sure you'll feel better tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Toma esta medicina y te sentirás mejor.",
+      "back": "Take this medicine and you'll feel better.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Toma uno de éstos y te sentirás mejor.",
+      "back": "Take one of these and you'll feel better.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Te sentirás mucho mejor cuando te tomes uno de éstos.",
+      "back": "You'll feel much better when you take one of these.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Te sentirás mejor cuando llegues a casa.",
+      "back": "You'll feel better when you get home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Te sentirás mejor cuando estés en el avión.",
+      "back": "You'll feel better when you're on the plane.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Si él se siente mejor, saldrá esta noche.",
+      "back": "If he feels better, he'll go out tonight.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Si ella se siente mejor, irá al trabajo mañana.",
+      "back": "If she feels better, she'll go to work tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Si se sienten mejor, te llamarán.",
+      "back": "If they feel better, they'll call you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Me sentiré mejor si me tomo uno de éstos.",
+      "back": "I'll feel better if I take one of these.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Te sentirás mejor si no comes nada esta noche.",
+      "back": "You'll feel better if you don't eat anything tonight.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Te llamaré si me siento mejor mañana.",
+      "back": "I'll call you if I feel better tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Te sentirás peor si no te tomas la medicina.",
+      "back": "You'll feel worse if you don't take your medicine.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Si ella hace eso, se sentirá peor.",
+      "back": "If she does that, she'll feel worse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Estoy seguro de que me sentiré peor cuando llegue al hospital.",
+      "back": "I'm sure I'll feel worse when I get to the hospital.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "No te sentirás nada mejor si no te vas a la cama.",
+      "back": "You won't feel any better if you don't go to bed.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "No se sentirán nada mejor si no hacen algo de ejercicio.",
+      "back": "They won't feel any better if they don't do some exercise.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Ella no se sentirá nada mejor si no le llama.",
+      "back": "She won't feel any better if she doesn't call him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "No te sentirás mejor hasta que hables de ello con tu jefe.",
+      "back": "You won't feel any better until you speak to your boss about it.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "No te sentirás mejor hasta que te tomes la medicina.",
+      "back": "You won't feel any better until you take your medicine.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "No te sentirás mejor hasta que pares.",
+      "back": "You won't feel any better until you stop.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Ella no se sentirá mejor hasta que duerma algo.",
+      "back": "She won't feel any better until she gets some sleep.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Él tampoco se sentirá mejor hasta que se eche un poco.",
+      "back": "He won't feel any better either until he gets some sleep.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "No te sentirás nada mejor si no duermes un poco.",
+      "back": "You won't feel any better if you don't get any sleep.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "No te sentirás mejor a no ser que duermas un poco.",
+      "back": "You won't feel any better unless you get some sleep.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "No dormirás nada a no ser que vayas a la cama. Y si no duermes nada, ¡no te sentirás mejor!",
+      "back": "You won't get any sleep unless you go to bed. And if you don't get any sleep, you won't feel any better!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "No te sentirás mejor a no ser que descanses un poco.",
+      "back": "You won't feel any better unless you get some rest.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "No te sentirás peor a no ser que no duermas.",
+      "back": "You won't feel any worse unless you don't get any sleep.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Ella no se sentirá peor a no ser que no tome su medicina.",
+      "back": "She won't feel any worse unless she doesn't take her medicine.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "No llamaré al médico a no ser que ella se encuentre peor.",
+      "back": "I won't call the doctor unless she feels any worse.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Te apetece un café?",
+      "back": "Do you feel like a coffee?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Sí, me apetece un café con leche. ¿Y a ti?",
+      "back": "Yes, I feel like a white coffee. How about you?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "No me apetece un café con leche, me apetece un café solo.",
+      "back": "I don't feel like a white coffee, I feel like a black coffee.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Me apetece un paseo. ¿Te apetece un paseo?",
+      "back": "I feel like a walk. Do you feel like a walk?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "No me apetece un paseo largo.",
+      "back": "I don't feel like a long walk.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Bueno, ¿entonces te apetece un paseo corto?",
+      "back": "Well, do you feel like a short walk then?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Me apetece una siesta rapidita. ¿Y a ti?",
+      "back": "I feel like a quick nap. How about you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Siempre me apetece una siesta después de una comida fuerte.",
+      "back": "I always feel like a kip after a big lunch.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Pareces cansado. ¿Te apetece una siesta?",
+      "back": "You look tired. Do you feel like forty winks?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Me apetece tomar algo. ¿Y a ti?",
+      "back": "I feel like a drink. How about you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Me apetece beber algo frío.",
+      "back": "I feel like a cold drink.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Ahora mismo me apetece beber algo caliente. ¡Estoy helado!",
+      "back": "Right now, I feel like a hot drink. I'm freezing!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Me apetece algo diferente. ¿Y a ti?",
+      "back": "I feel like something different. How about you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Me apetece algo dulce. ¿Y a ti?",
+      "back": "I feel like something sweet. How about you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Me apetece algo salado. ¿Y a ti?",
+      "back": "I feel like something savoury. How about you?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Me apetece comprar el periódico. ¿Qué es lo que te apetece hacer a ti?",
+      "back": "I feel like buying the newspaper. What do you feel like doing?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "No me apetece ir a trabajar hoy.",
+      "back": "I don't feel like going to work today.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Te apetece ir a Bruselas durante el fin de semana?",
+      "back": "Do you feel like going to Brussels for the weekend?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Me apetece dar un paseo corto. ¿Quieres venir?",
+      "back": "I feel like going for a short walk. Do you want to come?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No me apetece ir a caminar hoy. Estoy cansada.",
+      "back": "I don't feel like going for a walk today. I'm tired.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Voy a ir a caminar. ¿Te apetece venir?",
+      "back": "I'm going to go for a walk. Do you feel like coming?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Me apetece echarme una siesta. ¿Qué es lo que te apetece hacer a ti?",
+      "back": "I feel like having forty winks. What do you feel like doing?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Te apetece echar una siesta?",
+      "back": "Do you feel like having a nap?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Tengo muchas ganas de echar una siesta.",
+      "back": "I really feel like having a kip.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Me apetece tomar algo fresquito.",
+      "back": "I feel like having a nice cold drink.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Pues a mí me apetece tomar algo calentito.",
+      "back": "Well, I feel like having a nice hot drink.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "A mi marido siempre le apetece tomar algo cuando vuelve a casa del trabajo.",
+      "back": "My husband always feels like having a drink when he gets home from work.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Me apetece hacer algo diferente para variar. ¿Qué es lo que te apetece hacer a ti?",
+      "back": "I feel like doing something different for a change. What do you feel like doing?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Te apetece hacer algo interesante para variar?",
+      "back": "Do you feel like doing something interesting for a change?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Nos apetece hacer algo nuevo para variar.",
+      "back": "We feel like doing something new for a change.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Voy a dar un paseo. ¿Le apetece a alguien venir?",
+      "back": "I'm going to go for a walk. Does anyone feel like coming?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Voy a fregar. ¿Le apetece a alguien echarme una mano?",
+      "back": "I'm going to do the dishes. Does anyone feel like giving me a hand?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Voy a hacer café. ¿Le apetece a alguien una taza?",
+      "back": "I'm going to make some coffee. Does anyone feel like a cup?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Voy a llamar a Marta. ¿A alguien le apetece hablar con ella después de mí?",
+      "back": "I'm going to phone Marta. Does anybody feel like speaking to her after me?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Voy a ir al supermercado. ¿Le apetece a alguien venir conmigo?",
+      "back": "I'm going to go to the supermarket. Does anybody feel like coming with me?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Voy a lavar el coche. ¿Le apetece a alguien echarme una mano?",
+      "back": "I'm going to wash the car. Does anybody feel like giving me a hand?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "A nadie le apetece hacer nada con este tiempo.",
+      "back": "No one feels like doing anything in this weather.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "A nadie le apetece dar un paseo con esta lluvia.",
+      "back": "No one feels like going for a walk in this rain.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "A nadie le apetece jugar al fútbol con esta nieve.",
+      "back": "No one feels like playing football in this snow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "A nadie le apetece un helado en diciembre.",
+      "back": "Nobody feels like an ice cream in December.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "A nadie le apetece ir a la playa en enero.",
+      "back": "Nobody feels like going to the beach in January.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "A nadie le apetece ir de compras cuando tiene gripe.",
+      "back": "Nobody feels like going shopping when they have flu.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "A nadie le apetece hablar con nadie cuando tiene gripe.",
+      "back": "Nobody feels like speaking to anybody when they have flu.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "A nadie le apetece tomar una cerveza con nadie cuando tiene gripe.",
+      "back": "Nobody feels like having a beer with anybody when they have flu.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "A nadie le apetece salir con nadie cuando tiene gripe.",
+      "back": "Nobody feels like going out with anybody when they have flu.",
+      "sourcePage": 19
+    }
+  ]
+}
