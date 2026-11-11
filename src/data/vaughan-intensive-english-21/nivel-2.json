@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-21",
+  "bookTitle": "Libro 21",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¡Qué ganas de conocer a tu hermano! Me han hablado tanto de él.",
+      "back": "I can't wait to meet your brother! I've heard so much about him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-002",
+      "front": "No he estado en Brujas, pero me han hablado tanto de ella que quiero ir.",
+      "back": "I haven't been to Bruges but I've heard so much about it that I want to go.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-003",
+      "front": "Me han hablado tan bien de El Rey León que tengo muchas ganas de verla en el teatro.",
+      "back": "I've heard so many good things about The Lion King that I can't wait to see it at the theatre.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-004",
+      "front": "¿Has tenido noticias de Henry, el cazatalentos?",
+      "back": "Have you heard anything from Henry, the headhunter?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-005",
+      "front": "Hannah no sabe nada de Hugo desde que fueron al cine a ver Los Cazafantasmas.",
+      "back": "Hannah hasn't heard from Hugo since they went to see Ghostbusters at the cinema.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-006",
+      "front": "Hugh se enteró de la huelga de hambre de Homer mientras veía las noticias en la tele.",
+      "back": "Hugh heard about Homer's hunger strike while he was watching the news on TV.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-007",
+      "front": "Los niños escuchaban atentamente los chistes que el payaso les estaba contando.",
+      "back": "The children listened closely to the jokes the clown was telling them.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-008",
+      "front": "La niña pequeña escuchó atentamente mientras su abuela le contaba un cuento de hadas.",
+      "back": "The little girl listened closely while her granny was telling her a fairy tale.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-009",
+      "front": "El juez escuchó atentamente las mentiras que el carterista le estaba contando antes de dictar sentencia.",
+      "back": "The judge listened closely to the lies the pickpocket was telling him before he passed a verdict.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-010",
+      "front": "No escucho la radio desde que se rompió la mía hace dos meses.",
+      "back": "I haven't listened to the radio since mine broke two months ago.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-011",
+      "front": "Tim escuchó el programa de radio de Lisa de camino a la oficina.",
+      "back": "Tim listened to Lisa's radio show on his way to the office.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-012",
+      "front": "¡Megan lleva diez horas escuchando música en su iPod!",
+      "back": "Megan's been listening to music on her iPod for ten hours!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-013",
+      "front": "Por lo que oí cuando vivía en Melbourne, cada año los cocodrilos se comen a dos personas en Australia.",
+      "back": "From what I heard when I was living in Melbourne, every year two people are eaten by crocodiles in Australia.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-014",
+      "front": "Por lo que oí cuando trabajaba en Islandia, muchos islandeses creen en los elfos.",
+      "back": "From what I heard when I was working in Iceland, many Icelanders believe in elves.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-015",
+      "front": "Por lo que oí cuando viajaba de mochilero por Camboya, la esperanza de vida allí es de 49 años.",
+      "back": "From what I heard when I was backpacking in Cambodia, life expectancy there is 49 years old.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Puedes decírselo tú a ella? A mí no me hace caso.",
+      "back": "Can you please tell her? She doesn't listen to me.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Puedes hablar tú con él? A mí no me hace caso.",
+      "back": "Can you please talk to him? He doesn't listen to me.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-018",
+      "front": "Le pedí a Lu que hablara con ellos porque a mí no me hacen caso.",
+      "back": "I asked Lu to talk to them because they don't listen to me.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Puedes decírselo tú a ella? A mí no me hace ningún caso.",
+      "back": "Can you please tell her? She doesn't listen to a word I say.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Puedes hablar tú con él? A mí no me hace ningún caso.",
+      "back": "Can you please talk to him? He doesn't listen to a word I say.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-021",
+      "front": "Le pedí a Lu que hablara con ellos porque a mí no me hacen ningún caso.",
+      "back": "I asked Lu to talk to them because they don't listen to a word I say.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-022",
+      "front": "Estuve atenta por si ponían la canción en la radio.",
+      "back": "I listened for the song on the radio.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-023",
+      "front": "El mecánico me dijo que estuviera pendiente por si oía algún ruido extraño.",
+      "back": "The mechanic told me to listen for any squeaking sounds.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-024",
+      "front": "Linda le pidió a su hija que estuviera pendiente del timbre y del teléfono mientras se duchaba.",
+      "back": "Linda told her daughter to listen for the doorbell and the phone while she was having a shower.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-025",
+      "front": "Cuando el marido de Mary enfurece, no atiende a razones.",
+      "back": "When Mary's husband sees red, he doesn't listen to reason.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-026",
+      "front": "Se lo puedes explicar diez veces, pero no creo que atienda a razones.",
+      "back": "You can explain it to him ten times but I don't think he'll listen to reason.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-027",
+      "front": "Craig es muy testarudo y casi nunca atiende a razones.",
+      "back": "Craig is very stubborn and he hardly ever listens to reason.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-028",
+      "front": "Oye, si vuelves a terminarte el chocolate de una sentada, no volveré a comprar más.",
+      "back": "Listen, the next time you finish the chocolate in one go, I won't buy any more.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-029",
+      "front": "Oye, la próxima vez que no hagas los deberes, te quedarás sin ver la tele.",
+      "back": "Listen, the next time you don't do your homework, you won't watch TV.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-030",
+      "front": "Escucha, la próxima vez que te pelees con tu hermana, te quedarás sin jugar a los videojuegos.",
+      "back": "Listen, the next time you fight with your sister, you won't play your videogames.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-031",
+      "front": "El último disco de Susan se oye bastante.",
+      "back": "Susan's latest record is being played quite a lot.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-032",
+      "front": "Una de mis canciones favoritas se oye bastante en la radio.",
+      "back": "One of my favourite songs is being played a lot on the radio.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-033",
+      "front": "Ya no se oye música techno en la radio.",
+      "back": "Techno music isn't played on the radio any more.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-034",
+      "front": "¡Oye! Te olvidas el periódico.",
+      "back": "Excuse me! You've forgotten your newspaper.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-035",
+      "front": "¡Oiga! ¡Se le ha caído el monedero!",
+      "back": "Excuse me! You've dropped your purse!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-036",
+      "front": "¡Oiga! Aquí no puede hablar por teléfono.",
+      "back": "Excuse me! You can't talk on your phone here.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-037",
+      "front": "Oye, oye, te invité a comer a ti, no a ti y a tus veinte amigos.",
+      "back": "Hang on a minute; I invited you to lunch, not you and your twenty friends!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-038",
+      "front": "Oye, oye, dije que iba a pagar los vuelos, no los vuelos y el hotel.",
+      "back": "Hang on a minute; I said I was paying for the flights, not for the flights and the hotel.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-039",
+      "front": "Oye, oye, acepté salir a cenar, no ir a una discoteca hasta las cinco de la mañana.",
+      "back": "Hang on a minute; I agreed to go out for dinner, not to a disco until 5 in the morning.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-040",
+      "front": "Como lo oyes. Mónica ha perdido el billete de lotería premiado.",
+      "back": "That's right. Monica lost the winning lottery ticket.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-041",
+      "front": "Como lo oyes. El señor Mank estaba falsificando cuadros.",
+      "back": "That's right. Mr Mank was forging paintings.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-042",
+      "front": "Como lo oyes. Piqué va a jugar en el Madrid la próxima temporada.",
+      "back": "That's right. Piqué is going to play for Real Madrid next season.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-043",
+      "front": "Cuando Tim va al teatro siempre se sienta en la primera fila porque no oye muy bien.",
+      "back": "When Tim goes to the theater he always sits in the front row because his hearing isn't very good.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-044",
+      "front": "Mis vecinos de arriba ponen la música muy alta porque no oyen muy bien.",
+      "back": "My neighbours upstairs play music very loud because their hearing isn't very good.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-045",
+      "front": "Como no oigo bien, tengo que llevar un audífono.",
+      "back": "Since my hearing isn't very good I have to wear a hearing aid.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-046",
+      "front": "Me dicen que os vais a casar.",
+      "back": "I hear you two are going to get married.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-047",
+      "front": "Me enteré de que la despidieron.",
+      "back": "I heard they fired her.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-048",
+      "front": "Nos hemos enterado de que estás pensando en irte a vivir al extranjero.",
+      "back": "We've heard you're thinking about going to live abroad.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Os habéis enterado de que está liada con el jefe?",
+      "back": "Have you heard she's been having an affair with the boss?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-050",
+      "front": "¿Te has enterado de que se van a separar?",
+      "back": "Have you heard they're going to break up?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-051",
+      "front": "¿Os habéis enterado de que se ha hecho una operación de nariz durante las vacaciones?",
+      "back": "Have you heard he had a nose job done during his holidays?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Te has enterado de lo de Michelle?",
+      "back": "Have you heard about Michelle?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-053",
+      "front": "Nos enteramos de su divorcio por Carol.",
+      "back": "We heard about their divorce from Carol.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-054",
+      "front": "Lo supe a través de Dave.",
+      "back": "I heard about it from Dave.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-055",
+      "front": "Me enteré de la buena noticia por Hugh.",
+      "back": "I found out about the good news from Hugh.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-056",
+      "front": "Ya se han enterado de que les hemos estado mintiendo.",
+      "back": "They've already found out that we've been lying to them.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-057",
+      "front": "Intentad enteraros de lo que piensan hacer.",
+      "back": "Try to find out what they're planning to do!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Te vas a enterar!",
+      "back": "You'll find out what's what!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Te enteras?",
+      "back": "Do you get it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-060",
+      "front": "¡A ver si te enteras!",
+      "back": "Wise up!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Te importaría bajar el volumen? No puedo pensar con tanto ruido.",
+      "back": "Would you mind turning the volume down? I can't hear myself think.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Os importaría hablar bajo? El ruido no me deja concentrarme.",
+      "back": "Would you mind speaking quietly? I can't hear myself think.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-063",
+      "front": "Mis compañeros de trabajo escuchan música en la oficina y yo no puedo pensar con tanto ruido.",
+      "back": "My coworkers listen to their music in the office and I can't hear myself think.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-064",
+      "front": "Cualquiera que la oiga creería que es la única madre del mundo.",
+      "back": "To hear her talk, you'd think she's the only mother in the world.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-065",
+      "front": "Por la forma en que habla, cualquiera diría que ha viajado por todo el mundo.",
+      "back": "To hear him talk, you'd think he's been everywhere in the world.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-066",
+      "front": "Por la forma en que hablan, cualquiera diría que lo saben todo sobre móviles.",
+      "back": "To hear them talk, you'd think they know everything about mobile phones.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Me dijo Lisa que se había teñido el pelo de verde? Debo de habérmelo imaginado.",
+      "back": "Did Lisa tell me she had dyed her hair green? I must be hearing things.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-068",
+      "front": "Paul se ofreció a hacer las tareas de la casa. Debo de habérmelo imaginado.",
+      "back": "Paul offered to do the housework; I must be hearing things.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Albacete: 9, Barcelona: 0? Debo de habérmelo imaginado.",
+      "back": "Albacete 9, Barcelona 0? I must be hearing things.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-070",
+      "front": "¡Venga ya! Ya me conozco la historia.",
+      "back": "Come on! I've heard it all before.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-071",
+      "front": "Ya sé que conoces la historia, pero deja que te explique por qué lo hice.",
+      "back": "I know you've heard it all before but let me try to explain why I did it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-072",
+      "front": "Te olvidas de que ya me conozco la historia.",
+      "back": "What you forget is that I've heard it all before.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Sabes la última? ¡Piqué ha fichado por el Madrid!",
+      "back": "Have you heard the latest? Piqué has signed for Real Madrid!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Sabes la última? ¡Van a subir el sueldo de todo el mundo!",
+      "back": "Have you heard the latest? They are going to raise everybody's salaries!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Sabes la última? ¡Han arrestado al señor Mank por falsificación!",
+      "back": "Have you heard the latest? Mr Mank has been arrested for forgery!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Has oído hablar de la ley de Murphy?",
+      "back": "Have you heard of Murphy's Law?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Has oído hablar del dramaturgo español Miguel Mihura?",
+      "back": "Have you heard of the Spanish playwright Miguel Mihura?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Has oído hablar del enjuague bucal?",
+      "back": "Have you heard of mouthwash?",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-079",
+      "front": "He oído hablar de ello, pero no lo he probado.",
+      "back": "I've heard of it but I haven't tried it.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-080",
+      "front": "He oído hablar de él, pero no he leído ninguna de sus novelas.",
+      "back": "I've heard of him but I haven't read any of his novels.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-081",
+      "front": "He oído hablar sobre el Pilates, pero no he visto cómo se hace.",
+      "back": "I've heard of Pilates but I haven't seen how it's done.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Has oído hablar alguna vez de algún español a quien no le guste el jamón serrano?",
+      "back": "Have you ever heard of a Spanish person who doesn't like Spanish cured ham?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Has oído hablar alguna vez de algún compositor que no supiera leer una partitura?",
+      "back": "Have you ever heard of a composer who couldn't read music?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Has oído hablar alguna vez del 70.000 de Janáček?",
+      "back": "Have you ever heard of Janáček's 70,000?",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-085",
+      "front": "Nunca he oído hablar de un cómico que no sepa contar chistes.",
+      "back": "I've never heard of a comedian that doesn't know how to tell jokes.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-086",
+      "front": "Nunca he oído hablar de un poeta que no sepa leer o escribir.",
+      "back": "I've never heard of a poet that doesn't know how to read or write.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-087",
+      "front": "Nunca he oído hablar de un político que sea capaz de responder a una pregunta directa.",
+      "back": "I've never heard of a politician who is capable of answering a direct question.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-088",
+      "front": "Una vez oí hablar de un hombre que pasó treinta años sin dormir.",
+      "back": "I once heard of a man who went 30 years without any sleep.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-089",
+      "front": "Una vez oí hablar de un perro que podía decir la palabra «sausages».",
+      "back": "I once heard of a dog that could say the word \"sausages\".",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-090",
+      "front": "Una vez oí hablar de un niño que podía hablar más de diez idiomas.",
+      "back": "I once heard of a boy who could speak over ten languages.",
+      "sourcePage": 49
+    }
+  ]
+}

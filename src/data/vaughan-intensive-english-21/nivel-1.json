@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-21",
+  "bookTitle": "Libro 21",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Oigo algo.",
+      "back": "I can hear something.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Yo también oigo algo. Oigo un ruido.",
+      "back": "I can hear something too. I can hear a noise.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Yo también oigo un ruido. Oigo un ruido fuerte.",
+      "back": "I can hear a noise too. I can hear a loud noise.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Te oigo perfectamente.",
+      "back": "I can hear you perfectly well.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Tu voz se escucha un poco baja, pero te oigo perfectamente.",
+      "back": "Your voice is a bit quiet but I can hear you perfectly well.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Hay un ruido en la línea, pero te oigo perfectamente.",
+      "back": "There's a noise on the line but I can hear you perfectly well.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Oigo algo. Es cada vez más fuerte.",
+      "back": "I can hear something. It's getting louder and louder.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Oigo un ruido. Es cada vez más fuerte.",
+      "back": "I can hear a noise. It's getting louder and louder.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Él dice que oye un ruido. Dice que es cada vez más fuerte.",
+      "back": "He says he can hear a noise. He says it's getting louder and louder.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Oigo un ruido, pero se escucha cada vez más bajito.",
+      "back": "I can hear a noise but it's getting softer and softer.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Te oigo, pero tu voz se escucha cada vez más bajita.",
+      "back": "I can hear you but your voice is getting quieter and quieter.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Ella dice que nos oye, pero su voz se escucha cada vez más bajita.",
+      "back": "She says she can hear us but her voice is getting quieter and quieter.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Oigo algo, pero no veo nada.",
+      "back": "I can hear something but I can't see anything.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Él dice que escucha un coche, pero yo no veo ninguno.",
+      "back": "He says he can hear a car but I can't see one.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Oigo a nuestro gato, pero no lo veo.",
+      "back": "I can hear our cat but I can't see it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No te oigo. ¿Lo puedes repetir?",
+      "back": "I can't hear you. Can you say that again?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Lo puedes repetir? No te oigo. Hay mucho ruido de fondo.",
+      "back": "Can you repeat that? I can't hear you. There's a lot of noise in the background.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Oigo mucho ruido de fondo, pero no te oigo a ti.",
+      "back": "I can hear a lot of noise in the background but I can't hear you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No te oigo bien. ¿Lo puedes repetir?",
+      "back": "I can't hear you very well. Can you repeat that?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No oigo bien debido a todo ese ruido de fondo.",
+      "back": "I can't hear very well because of all that background noise.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No os oímos bien debido a ese fuerte ruido de fondo.",
+      "back": "We can't hear you very well because of that loud noise in the background.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No oigo nada de nada. ¿Te vuelvo a llamar?",
+      "back": "I can't hear a thing. Shall I call you back?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Él dice que no oye nada de nada. ¿Le vuelvo a llamar?",
+      "back": "He says he can't hear a thing. Shall I call him back?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Hay mucho ruido de fondo. No oigo nada de nada. ¿Te vuelvo a llamar?",
+      "back": "There's a lot of noise in the background. I can't hear a thing. Shall I call you back?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No oigo ni una palabra. ¿Te vuelvo a llamar?",
+      "back": "I can't hear a word. Shall I call you back?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Le puedes decir que repita eso? No oigo ni una palabra de lo que está diciendo.",
+      "back": "Can you tell him to repeat that? I can't hear a word of what he's saying.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "No oigo ni una palabra de lo que estás diciendo debido a todo ese ruido de fondo.",
+      "back": "I can't hear a word of what you're saying because of all that background noise.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Veo algo, pero no oigo nada.",
+      "back": "I can see something but I can't hear anything.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Él dice que ve algo, pero que no oye nada de nada.",
+      "back": "He says he can see something but he says he can't hear a thing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Los veo, pero no oigo ni una palabra de lo que están diciendo.",
+      "back": "I can see them but I can't hear a word of what they're saying.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Me oyes?",
+      "back": "Can you hear me?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Me oís al fondo?",
+      "back": "Can you hear me at the back?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Me oyes? Porque yo no te oigo a ti. ¿Te vuelvo a llamar?",
+      "back": "Can you hear me? Because I can't hear you. Shall I call you back?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Me oyes o quieres que hable más fuerte?",
+      "back": "Can you hear me or do you want me to speak up?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Les oís o queréis que hablen más fuerte?",
+      "back": "Can you hear them or do you want them to speak up?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Nos oís al fondo o queréis que hablemos más fuerte?",
+      "back": "Can you hear us at the back or do you want us to speak up?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Oyes lo que estoy diciendo?",
+      "back": "Can you hear what I'm saying?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Oyes lo que están diciendo?",
+      "back": "Can you hear what they're saying?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Oyen lo que estamos diciendo?",
+      "back": "Can they hear what we're saying?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Tú oyes lo que yo oigo?",
+      "back": "Can you hear what I can hear?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Tú oyes lo que ella oye?",
+      "back": "Can you hear what she can hear?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Oye ella lo que nosotros oímos?",
+      "back": "Can she hear what we can hear?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Nos oís ahí?",
+      "back": "Can you hear us over there?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Oyes algo ahí?",
+      "back": "Can you hear something over there?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Oyes ese ruido que viene de ahí?",
+      "back": "Can you hear that noise that's coming from over there?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "He oído que Mark y Tina se van de vacaciones a las Bahamas.",
+      "back": "I hear Mark and Tina are going on holiday to the Bahamas.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Me he enterado de que te vas de vacaciones la semana que viene.",
+      "back": "I hear you're going on holiday next week.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "He oído que os vais de vacaciones a la Riviera francesa.",
+      "back": "I hear you're going on holiday to the French Riviera.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "He oído que vais a casaros en una iglesia.",
+      "back": "I hear you're going to get married in a church.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "He oído que se van a casar en el ayuntamiento.",
+      "back": "I hear they're going to get married in the town hall.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Me he enterado de que Pam y Steve se van a casar en una finca privada.",
+      "back": "I hear Pam and Steve are going to get married on a private country estate.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "He oído que vas a cambiar de trabajo.",
+      "back": "I hear you're changing jobs.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "He oído que tus padres van a cambiar de coche.",
+      "back": "I hear your parents are going to change cars.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "He oído que Sandy va a cambiar de look.",
+      "back": "I hear Sandy's going to change her look.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Me he enterado de que os vais a mudar.",
+      "back": "I hear you're moving.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "He oído que quieren cambiar de casa.",
+      "back": "I hear they want to move house.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "He oído que ella va a cambiar de casa a finales de mes.",
+      "back": "I hear she's moving house at the end of the month.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "He oído que John quiere cambiar de trabajo. Yo también me había enterado.",
+      "back": "I hear John wants to change jobs. So I hear!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "He oído que no quieren casarse en una iglesia. Yo también me había enterado.",
+      "back": "I hear they don't want to get married in a church. So I hear!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "He oído que el nuevo profesor de inglés no es muy simpático. Yo había oído lo mismo.",
+      "back": "I hear the new English teacher isn't very nice. So I hear!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Escúchame!",
+      "back": "Listen to me!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¡Te estoy escuchando!",
+      "back": "I am listening to you!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "No me estás escuchando. ¡Estás escuchando tu MP3!",
+      "back": "You're not listening to me. You're listening to your mp3 player!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Me encanta escuchar música.",
+      "back": "I love listening to music.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Estás escuchando a Beethoven?",
+      "back": "Are you listening to Beethoven?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "No, estoy escuchando a Bon Jovi.",
+      "back": "No, I'm listening to Bon Jovi.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Qué tipo de música quieres escuchar?",
+      "back": "What type of music do you want to listen to?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Qué tipo de música sueles escuchar?",
+      "back": "What type of music do you usually listen to?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Qué tipo de música les gusta escuchar a tus padres?",
+      "back": "What type of music do your parents like listening to?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Escucha lo que están diciendo, ¿quieres?",
+      "back": "Listen to what they're saying, will you?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Estoy escuchando lo que estás diciendo.",
+      "back": "I am listening to what you're saying!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "No estás escuchando lo que estoy diciendo. ¡Estás escuchando música!",
+      "back": "You're not listening to what I'm saying. You're listening to music!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Presta atención!",
+      "back": "Pay attention!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¡Préstame atención!",
+      "back": "Pay attention to me!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Te estoy prestando atención!",
+      "back": "I am paying attention to you!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Mira! ¡No quiero ir!",
+      "back": "Listen! I don't want to go!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Mira! ¡No quiero cambiar de casa!",
+      "back": "Listen! I don't want to move house!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Mira! ¡Yo quiero cambiar de look!",
+      "back": "Listen! I want to change my look!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Mira! No tendrás una segunda oportunidad.",
+      "back": "Listen! You won't get a second chance.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Mira! ¿Quieres que te dé una segunda oportunidad?",
+      "back": "Listen! Do you want me to give you a second chance?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Mira! Te voy a dar una segunda oportunidad.",
+      "back": "Listen! I'm going to give you a second chance.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¡Escucha! Voy a hacer la mudanza el 1 de junio.",
+      "back": "Listen! I'm going to move house on the first of June.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¡Mira! Vamos a casarnos en una finca privada el 1 de junio.",
+      "back": "Listen! We're going to get married on a private country estate on the first of June.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¡Escucha! No la voy a ver hasta el 1 de junio.",
+      "back": "Listen! I'm not going to see her until the first of June.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¡Presta mucha atención! Esto es muy importante.",
+      "back": "Listen carefully! This is very important.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Escúchame atentamente. Vamos a hacer la mudanza el día 1 de junio.",
+      "back": "Listen to me carefully. We're going to move house on the first of June.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Presta mucha atención! Tengo una noticia importante.",
+      "back": "Listen carefully. I have some important news.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Te estoy escuchando con atención. ¡Sigue!",
+      "back": "I'm listening closely to you. Go on!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Te estamos escuchando con atención. ¡Sigue!",
+      "back": "We're listening closely to you. Go on!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "No estás prestando mucha atención a lo que estoy diciendo, Bob.",
+      "back": "You're not really listening to what I'm saying, Bob.",
+      "sourcePage": 19
+    }
+  ]
+}

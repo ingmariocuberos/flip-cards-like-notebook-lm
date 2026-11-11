@@ -1,6 +1,6 @@
 # Avance de los libros de inglés
 
-Fuente local: `sources/english/Libro NN.pdf`. Los 20 PDF se descomprimieron del ZIP entregado por el usuario. Cada libro se completa y se publica en un commit propio antes de empezar el siguiente.
+Fuente local: `sources/english/Libro NN.pdf`. Los PDF 1–20 proceden del primer ZIP y los 21–40 del segundo ZIP entregados por el usuario. Cada libro se completa y se publica en un commit propio antes de empezar el siguiente.
 
 | Libro | Páginas PDF | Estado | Tarjetas por nivel | Commit |
 | --- | ---: | --- | --- | --- |
@@ -24,5 +24,25 @@ Fuente local: `sources/english/Libro NN.pdf`. Los 20 PDF se descomprimieron del 
 | 18 | 85 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 18 flashcards by level` |
 | 19 | 85 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 19 flashcards by level` |
 | 20 | 85 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 20 flashcards by level` |
+| 21 | 87 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 21 flashcards by level` |
+| 22 | 85 | Pendiente | — | — |
+| 23 | 86 | Pendiente | — | — |
+| 24 | 85 | Pendiente | — | — |
+| 25 | 86 | Pendiente | — | — |
+| 26 | 86 | Pendiente | — | — |
+| 27 | 86 | Pendiente | — | — |
+| 28 | 86 | Pendiente | — | — |
+| 29 | 86 | Pendiente | — | — |
+| 30 | 86 | Pendiente | — | — |
+| 31 | 86 | Pendiente | — | — |
+| 32 | 50 | Pendiente | — | — |
+| 33 | 51 | Pendiente | — | — |
+| 34 | 46 | Pendiente | — | — |
+| 35 | 47 | Pendiente | — | — |
+| 36 | 47 | Pendiente | — | — |
+| 37 | 47 | Pendiente | — | — |
+| 38 | 87 | Pendiente | — | — |
+| 39 | 46 | Pendiente | — | — |
+| 40 | 47 | Pendiente | — | — |
 
 `Tarjetas por nivel` sigue el orden básico / intermedio / avanzado. “Publicado” significa JSON validados, `npm run build` correcto y `git push origin main` completado. Los PDF y OCR se conservan localmente en `sources/english/`; no se versionan.

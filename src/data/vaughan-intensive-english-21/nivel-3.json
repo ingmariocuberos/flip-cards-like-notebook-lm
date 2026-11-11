@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-21",
+  "bookTitle": "Libro 21",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "John ha dicho que podemos escuchar una de sus llamadas mientras está vendiendo; estará bien ver cómo lo hace.",
+      "back": "John said we can listen in on one of his phone calls while he's selling; it'll be good to see how the master does it!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-002",
+      "front": "Mamá, ¿cuántas veces te he dicho que no escuches mis conversaciones privadas?",
+      "back": "Mum! How many times have I told you not to listen in on my private conversations!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-003",
+      "front": "No estaba escuchando tu conversación a hurtadillas; hablas tan alto que es imposible no enterarse.",
+      "back": "I wasn't listening in on your conversation; you speak so loudly that it's impossible not to hear you!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-004",
+      "front": "Perdona, pero no pude evitar oír vuestra conversación.",
+      "back": "I'm sorry but I couldn't help overhearing your conversation.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-005",
+      "front": "Oyó por casualidad todo lo que dijimos sobre él.",
+      "back": "He overheard everything we said about him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-006",
+      "front": "No pudimos evitar oír que sois de Irlanda también.",
+      "back": "We couldn't help overhearing that you're from Ireland too.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Has estado escuchando nuestra conversación a escondidas?",
+      "back": "Have you been eavesdropping on our conversation?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-008",
+      "front": "Mírala escuchando su conversación a escondidas.",
+      "back": "Look at her eavesdropping on their conversation.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-009",
+      "front": "Creo que a veces mi hermana escucha mis llamadas telefónicas a escondidas.",
+      "back": "I think my sister sometimes eavesdrops on my phone calls.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-010",
+      "front": "Se escucha por ahí que va a haber cambios en la empresa.",
+      "back": "We've been getting wind of changes to come in the company.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Cómo te has enterado de eso?",
+      "back": "How did you get wind of that?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-012",
+      "front": "Tarde o temprano se van a enterar de lo que estamos tramando.",
+      "back": "Sooner or later they'll get wind of what we're planning.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-013",
+      "front": "Estoy susurrando porque creo que alguien ha puesto un micro oculto para espiarnos.",
+      "back": "Sshh! I'm whispering because I think someone has bugged us!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-014",
+      "front": "Les cogieron con las manos en la masa porque pincharon todos sus teléfonos.",
+      "back": "They caught them red-handed because they bugged all their telephones.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Crees que han colocado un micro oculto en esta habitación?",
+      "back": "Do you think this room is bugged?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-016",
+      "front": "Cuanto más lo escuchas, más interesante se vuelve.",
+      "back": "The more you listen to it, the more interesting it becomes.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-017",
+      "front": "Cuanto más lo escuchamos, más nos convencemos de que era un timador.",
+      "back": "The more we listened to him, the more we were convinced that he was a con man.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-018",
+      "front": "Cuantas más mentiras escuchábamos, más deseábamos salir disparados del país.",
+      "back": "The more lies we heard, the more we wanted to get the hell out of the country.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-019",
+      "front": "¿No has oído que cuanto más comes, más gordo te pones?",
+      "back": "Haven't you heard that the more you eat, the fatter you become?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-020",
+      "front": "¿No has oído que cuanto más ejercicio haces, más en forma te pones?",
+      "back": "Haven't you heard that the more exercise you do, the fitter you get?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-021",
+      "front": "¿No has oído que cuanto más café bebes, más nervioso te pones?",
+      "back": "Haven't you heard that the more coffee you drink, the more nervous you become?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-022",
+      "front": "Escúchame. Cuanto más le grites, más probable es que te ignore.",
+      "back": "Listen to me! The more you shout at him, the more likely he is to ignore you.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-023",
+      "front": "Escúchame. Cuanto más los presiones, más probable es que digan que no.",
+      "back": "Listen to me! The more you pressure them, the more likely they'll say no.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-024",
+      "front": "Escúchame. Cuanto más estudies, más oportunidades tendrás.",
+      "back": "Listen to me! The more you study, the more opportunities you'll have.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-025",
+      "front": "Oí a alguien decir que cuanto más fumes, más niveles de estrés tendrás.",
+      "back": "I heard somebody say that the more you smoke, the higher the levels of stress you'll have.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-026",
+      "front": "Oí a Bob decir que cuanto más nadas, más fuerte te pones.",
+      "back": "I heard Bob say that the more you swim, the stronger you become.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-027",
+      "front": "Oí a Carol decir que cuanto más juegas a la lotería, más probabilidad tienes de arruinarte.",
+      "back": "I heard Carol say that the more you play the lottery, the bigger the chance you have of losing everything.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-028",
+      "front": "Estaba escuchando la radio el otro día y oí que cuanto más lees, más inteligente te vuelves.",
+      "back": "I was listening to the radio the other day and I heard the more you read, the more intelligent you become.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-029",
+      "front": "Estaba escuchando la radio el otro día y oí que cuanto más abierto seas, más amigos tendrás.",
+      "back": "I was listening to the radio the other day and I heard the more open you are, the more friends you'll have.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-030",
+      "front": "Estaba escuchando la radio el otro día y oí que cuanta más responsabilidad tienes, más dinero ganas.",
+      "back": "I was listening to the radio the other day and I heard the more responsibility you have, the more money you earn.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Te has enterado de lo último? Bob y Sue están pensando en mudarse.",
+      "back": "Have you heard the latest? Bob and Sue are thinking of moving house!",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Te has enterado de lo último? Mi jefa Susan se va a hacer cura.",
+      "back": "Have you heard the latest? My boss Susan's going to become a priest!",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Te has enterado de lo último? Gary asegura ser de Marte.",
+      "back": "Have you heard the latest? Gary claims to be from Mars!",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Te has enterado del último cotilleo? Gina y Luca están saliendo.",
+      "back": "Have you heard the latest gossip? Gina and Luca are seeing each other.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Te has enterado de lo último? Van a despedir a Sally el viernes de la semana que viene.",
+      "back": "Have you heard the latest gossip? Sally's going to be fired next Friday.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-036",
+      "front": "¿Te has enterado de la última noticia? La empresa está a punto de despedir a cuarenta y cinco trabajadores.",
+      "back": "Have you heard the latest news? The company is about to lay off forty-five workers.",
+      "sourcePage": 66
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Has escuchado la última canción de David Bisbal? Es muy pegadiza.",
+      "back": "Have you heard David Bisbal's latest song? It's really catchy!",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-038",
+      "front": "Aún no he escuchado el último álbum de U2. ¿Y tú?",
+      "back": "I haven't heard U2's latest album yet. Have you?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-039",
+      "front": "Tengo unas ganas locas de escuchar el último disco de Shakira. Dicen que es fantástico.",
+      "back": "I'm gagging to hear Shakira's latest record. It's supposed to be amazing.",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Has escuchado la última grabación de María Callas? Es horrorosa.",
+      "back": "Have you heard Maria Callas's last recording? It's bloody awful.",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Has escuchado el último álbum de Freddie Mercury? Flipas.",
+      "back": "Have you heard Freddie Mercury's last album? It blows your socks off!",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Has escuchado la última sonata de piano de Beethoven? Es alucinante.",
+      "back": "Have you heard Beethoven's last piano sonata? It's mind-blowing!",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Has oído hablar del recién fallecido Václav Havel?",
+      "back": "Have you heard of the late Václav Havel?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Ha oído hablar tu madre de la difunta Joan Sutherland?",
+      "back": "Has your mother heard of the late Joan Sutherland?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-045",
+      "front": "Su difunto padre tocaba en un grupo llamado Los Pepinos. ¿Alguna vez has oído hablar de ellos?",
+      "back": "His late father used to play in a band called The Cucumbers. Have you ever heard of them?",
+      "sourcePage": 67
+    },
+    {
+      "id": "s3-046",
+      "front": "Cuando su exmujer entró en la sala se podía oír el vuelo de una mosca.",
+      "back": "When his ex-wife walked into the room you could hear a pin drop.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-047",
+      "front": "Se podía oír el vuelo de una mosca cuando le preguntó al jefe por el aumento de sueldos.",
+      "back": "You could have heard a pin drop when he asked the boss about salary increases.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-048",
+      "front": "Justo antes de que cantara la última canción hubo un silencio total; se podía oír el vuelo de una mosca.",
+      "back": "Just before he began to sing his final song the theatre was in absolute silence; you could have heard a pin drop.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-049",
+      "front": "Tú, ni pío.",
+      "back": "I don't want to hear a peep out of you!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-050",
+      "front": "No les oímos decir ni mu en toda la noche.",
+      "back": "We didn't hear a peep out of them all evening.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-051",
+      "front": "Voy al despacho del director; mientras no esté, que nadie diga ni mu.",
+      "back": "I'm going to the headmaster's office; while I'm gone I don't want to hear a peep out of anyone, OK?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-052",
+      "front": "Está loca por Rafael; no permite que se le critique.",
+      "back": "She's completely mad about Rafael; she won't hear a word against him.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-053",
+      "front": "Están demasiado orgullosos de sus hijos; no permiten que se les critique.",
+      "back": "They're too proud of their children; they won't hear a word against them.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-054",
+      "front": "No quiero oír ni una palabra en contra de la remolacha; es la hortaliza del futuro.",
+      "back": "I won't hear a word against beetroot; it's the vegetable of the future.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-055",
+      "front": "Me temo que esto nos va a seguir dando guerra.",
+      "back": "I'm afraid we haven't heard the last of this.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Crees que este caso sobre los Johnson seguirá dando guerra?",
+      "back": "Do you think we've heard the last of this business about the Johnsons?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-057",
+      "front": "Esto no quedará así.",
+      "back": "You haven't heard the last of this!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Ganó el primer premio? Ya verás cómo no va a parar de recordárnoslo.",
+      "back": "He won first prize? We'll never hear the end of this, you'll see.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-059",
+      "front": "¿Te liaste con Mariano en la cena de Navidad? No te dejarán olvidarlo nunca.",
+      "back": "You got off with Mariano at the Christmas party? You'll never hear the end of it!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-060",
+      "front": "Si no le pides perdón, ella no te dejará olvidarlo nunca.",
+      "back": "If you don't apologise to her, you'll never hear the end of it!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-061",
+      "front": "La hija de Jim y Kim chilla tan estridentemente que siempre salgo de su casa con dolor de cabeza.",
+      "back": "Jim and Kim's three-year-old daughter has such a shrill scream that I always come away from their house with a terrible headache.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-062",
+      "front": "Qué risa tan estridente tienes. Tengo que acordarme de no contar más chistes.",
+      "back": "Wow! What a shrill laugh you have! I must remember not to crack any more jokes!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-063",
+      "front": "De repente un silbido estridente me paró en seco.",
+      "back": "The next thing I know, an ear-piercingly shrill whistle stopped me in my tracks.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-064",
+      "front": "Todo lo que pudimos oír fue el sonido apagado de un arma con silenciador a través de la pared.",
+      "back": "All we could hear was the muffled sound of a gun with a silencer through the wall.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-065",
+      "front": "Claro que sonará apagado; primero te tienes que quitar las orejeras.",
+      "back": "Of course it's going to sound muffled; you need to take your earmuffs off first.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-066",
+      "front": "No me extraña que el sonido sea apagado; hay una manta cubriendo el micrófono.",
+      "back": "It's no wonder that the sound is muffled; there's a blanket covering the microphone.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-067",
+      "front": "Después de escuchar CDs toda la vida, es difícil acostumbrarse al chisporroteo de los vinilos.",
+      "back": "After listening to CDs all your life, it's difficult to get used to the crackling sound of LPs.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-068",
+      "front": "No hay nada como el chisporroteo de una chimenea en una noche fría de invierno.",
+      "back": "There's nothing like the crackling sound of an open fire on a cold winter's night.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-069",
+      "front": "¿Alguien más puede oír ese chisporroteo? Suena como si alguien estuviera friendo beicon.",
+      "back": "Can anyone else hear that crackling sound? It sounds like someone's frying bacon.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Le retumba la voz de forma natural o lo hace para atraer la atención de toda la sala?",
+      "back": "Is his voice naturally booming or does he do it to attract the attention of everybody in the room?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-071",
+      "front": "A la mayoría de los actores de teatro les retumba la voz.",
+      "back": "Most theatre actors have booming voices.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-072",
+      "front": "Se puede oír la música retumbar desde el equipo de su coche a varias calles de distancia.",
+      "back": "You can hear the music booming from their car stereo streets away.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-073",
+      "front": "Se oye un extraño borboteo proveniente del fregadero.",
+      "back": "There's a strange gurgling sound coming from the sink.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Viene ese borboteo del desagüe o de tu estómago?",
+      "back": "Is that gurgling sound coming from the drain or from your stomach?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-075",
+      "front": "¿Por qué hacen los bebés gorgoritos tan raros cuando están contentos?",
+      "back": "Why do babies make such strange gurgling noises when they're happy?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-076",
+      "front": "La visión de las gotas de rocío reluciendo como diamantes al sol es algo digno de contemplar.",
+      "back": "The sight of dewdrops glistening like diamonds in the early morning sun is something to behold.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-077",
+      "front": "La luna brillando en el lago a medianoche era perfecta para mi propuesta de matrimonio, pero ella dijo que no.",
+      "back": "The moonlight glistening on the lake at midnight was the perfect backdrop to my marriage proposal, but she said no!",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-078",
+      "front": "Si miras por la ventana, podrás ver algo brillando en el césped. ¿Qué puede ser?",
+      "back": "If you look out of the window, you can see something glistening in the grass. What could it be?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-079",
+      "front": "Tengo que pensar en una forma de amortiguar el golpe.",
+      "back": "I need to think of a way of softening the blow.",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-080",
+      "front": "¿Puedes intentar ablandarle antes de que yo le pida el aumento?",
+      "back": "Can you try and soften him up before I ask for the pay rise?",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-081",
+      "front": "Deberías usar suavizante para suavizar estas toallas. Están acartonadas.",
+      "back": "You should use fabric conditioner to soften these towels. They're like cardboard!",
+      "sourcePage": 76
+    },
+    {
+      "id": "s3-082",
+      "front": "¿Por qué se oye cada vez a menos gente silbar hoy en día?",
+      "back": "Why do you hear fewer and fewer people whistling nowadays?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-083",
+      "front": "¿Puedes silbar la canción ganadora del Festival de Eurovisión del año pasado?",
+      "back": "Can you whistle the winning song from last year's Eurovision Song Contest?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Es esencial poder silbar para ser un buen amo para un perro?",
+      "back": "Is it essential to be able to whistle to be a good dog owner?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-085",
+      "front": "Por favor, abróchense los cinturones para el aterrizaje.",
+      "back": "Please fasten your seatbelts for landing.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-086",
+      "front": "Comprueba que todas las hebillas estén bien aseguradas antes de saltar.",
+      "back": "Make sure that all the buckles are tightly fastened before you jump.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Has intentado sujetarlo con una grapa?",
+      "back": "Have you tried fastening it with a staple?",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-088",
+      "front": "Lo único que se oía era el susurro de las hojas en la brisa.",
+      "back": "All you could hear were the leaves rustling in the breeze.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-089",
+      "front": "¿Puedes dejar de hacer crujir esa bolsa de papel? Estoy intentando escuchar la música.",
+      "back": "Can you please stop rustling that paper bag? I'm trying to listen to the music.",
+      "sourcePage": 77
+    },
+    {
+      "id": "s3-090",
+      "front": "Estoy seguro de que anoche oí a un zorro revolviendo en la basura.",
+      "back": "I'm sure I heard a fox rustling around in the trash last night.",
+      "sourcePage": 77
+    }
+  ]
+}

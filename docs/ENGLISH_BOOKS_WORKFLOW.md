@@ -4,7 +4,7 @@ El estado libro por libro está en [ENGLISH_BOOKS_PROGRESS.md](ENGLISH_BOOKS_PRO
 
 ## Fuente y estructura
 
-- Archivo recibido: `drive-download-20261110T145320Z-1-001.zip` (20 PDF, `Libro 01.pdf` a `Libro 20.pdf`).
+- Archivos recibidos: `drive-download-20261110T145320Z-1-001.zip` (libros 1–20) y `drive-download-20261111T160431Z-1-001.zip` (libros 21–40 más duplicado del 20).
 - Extracción local: `sources/english/`. Estos PDF y el ZIP no se versionan ni se incluyen en Vite.
 - Libro 1: *Vaughan Intensive English*, 88 páginas PDF, una lección con tres niveles: básico (páginas PDF 4–31), intermedio (32–59) y avanzado (60–87). La página 88 es la contraportada.
 - Cada nivel se publica como un JSON en `src/data/vaughan-intensive-english-01/`. El campo interno `sektionId` sigue siendo necesario para el cargador y para las claves de `localStorage`; en la interfaz se muestra como “Nivel”.
@@ -40,3 +40,7 @@ Tras publicar un nivel, añadir nuevas tarjetas al final de su lista: el generad
 - La ruta visible para cada nivel es `/buch/:bookId/nivel/:sektionId`; usa el mismo `CardDeck` y las mismas valoraciones `understood` y `not_understood`.
 - El repaso rápido usa claves independientes: alemán conserva `flashcards:review:v1`; inglés usa `flashcards:review:v1:en`.
 - Pomodoro puede seleccionar las tarjetas del libro inglés y llama “Nivel” al selector. La exportación de progreso incluye ambas lenguas porque copia todas las claves `flashcards:`.
+
+## Ajuste del libro 21
+
+En el libro 21 los niveles intermedio y avanzado comienzan dos páginas PDF más tarde: los ejercicios seleccionados están en 34–39 y 44–49 para intermedio, y 62–67 y 72–77 para avanzado. Verificar los encabezados de cada PDF antes de aplicar rangos fijos de OCR.
