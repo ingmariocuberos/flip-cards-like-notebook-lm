@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-14",
+  "bookTitle": "Libro 14",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Quiero un coche nuevo.",
+      "back": "I want a new car.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Steve quiere un nuevo trabajo.",
+      "back": "Steve wants a new job.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Quieren ropa nueva.",
+      "back": "They want some new clothes.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Quiero una taza de té.",
+      "back": "I want a cup of tea.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Quiero un trabajo diferente.",
+      "back": "I want a different job.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Quiero un descanso.",
+      "back": "I want a break.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Quiero desayunar temprano mañana por la mañana.",
+      "back": "I want to have breakfast early tomorrow morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Sandra quiere volver a casa temprano esta noche.",
+      "back": "Sandra wants to come back home early tonight.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Queremos levantarnos temprano mañana por la mañana.",
+      "back": "We want to get up early tomorrow morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Quiero ir al cine esta noche.",
+      "back": "I want to go to the cinema tonight.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Quiero ir en coche.",
+      "back": "I want to go by car.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Quiero tomar pasta para la cena esta noche.",
+      "back": "I want to have pasta for dinner tonight.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Quiero preparar la cena antes de que mi mujer vuelva.",
+      "back": "I want to make dinner before my wife gets back.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Él quiere llegar a la oficina antes de que llegue su jefe.",
+      "back": "He wants to get to the office before his boss gets there.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Quieren hacer las compras antes de salir a cenar.",
+      "back": "They want to do the shopping before they go out for dinner.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No quiero problemas.",
+      "back": "I don't want any problems.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No quieren nada de comer.",
+      "back": "They don't want anything to eat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Nosotros tampoco queremos nada de comer.",
+      "back": "We don't want anything to eat either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Ella no quiere café.",
+      "back": "She doesn't want any coffee.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Él no quiere nada de beber.",
+      "back": "He doesn't want anything to drink.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Mark no quiere nada para desayunar.",
+      "back": "Mark doesn't want anything for breakfast.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No quiero más, gracias.",
+      "back": "I don't want any more, thank you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Diana no quiere comer más tostadas.",
+      "back": "Diana doesn't want to have any more toast.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No queremos tener más problemas con nuestro coche.",
+      "back": "We don't want to have any more problems with our car.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No quiero nada más, gracias.",
+      "back": "I don't want anything else, thank you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "No quieren hacer nada más.",
+      "back": "They don't want to do anything else.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella no quiere comprar nada más.",
+      "back": "She doesn't want to buy anything else.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No quiero tomar más café.",
+      "back": "I don't want to have any more coffee.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No quiero ir a trabajar mañana.",
+      "back": "I don't want to go to work tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Él no quiere volver antes de Navidad.",
+      "back": "He doesn't want to come back before Christmas.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Quieres un descanso?",
+      "back": "Do you want a break?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Quieres una taza de té?",
+      "back": "Do you want a cup of tea?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Quieres un trabajo?",
+      "back": "Do you want a job?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Quieres buscar otro trabajo?",
+      "back": "Do you want to look for another job?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Tu hermano se quiere comprar otro coche?",
+      "back": "Does your brother want to get another car?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Quieres tomar otra tostada?",
+      "back": "Do you want to have another slice of toast?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Qué quieres hacer al respecto?",
+      "back": "What do you want to do about it?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Qué quieres tomar para desayunar?",
+      "back": "What do you want to have for breakfast?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Qué quiere hacer él para su cumpleaños?",
+      "back": "What does he want to do for his birthday?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Qué quieres hacer cuando llegues a casa?",
+      "back": "What do you want to do when you get home?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Qué quiere hacer él cuando vengan sus padres?",
+      "back": "What does he want to do when his parents come?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Quieres desayunar cuando te levantes?",
+      "back": "Do you want to have breakfast when you get up?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Por qué quieres llamarla?",
+      "back": "Why do you want to phone her?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Por qué me quiere ella llamar?",
+      "back": "Why does she want to phone me?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Por qué quieres llamarles?",
+      "back": "Why do you want to phone them?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Quiero que estés ahí a las siete.",
+      "back": "I want you to be there at seven o'clock.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Quiero que lo hagas para mí.",
+      "back": "I want you to do it for me.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Quiero que compres leche.",
+      "back": "I want you to buy some milk.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Quiero que lo haga él.",
+      "back": "I want him to do it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Quiero que él me ayude.",
+      "back": "I want him to help me.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Quiero que él gane.",
+      "back": "I want him to win.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Quiero que lo haga ella.",
+      "back": "I want her to do it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Quiero que ellos vayan a la reunión en París.",
+      "back": "I want them to go to the meeting in Paris.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Quiero que ella esté allí puntual.",
+      "back": "I want her to be there on time.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Él quiere que yo lo haga mañana.",
+      "back": "He wants me to do it tomorrow.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella quiere que yo busque el informe.",
+      "back": "She wants me to look for the report.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Ella quiere que yo prepare la cena esta noche.",
+      "back": "She wants me to make dinner tonight.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Quieren que nos casemos.",
+      "back": "They want us to get married.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Quieren que yo haga la compra.",
+      "back": "They want me to do the shopping.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Quieren que él hable inglés.",
+      "back": "They want him to speak English.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "No quiero que él vuelva a hacer eso.",
+      "back": "I don't want him to do that again.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "No quiero que ella vuelva a ir allí.",
+      "back": "I don't want her to go there again.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella no quiere que tomen bizcocho.",
+      "back": "She doesn't want them to have any cake.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "No quiero que vengan en septiembre.",
+      "back": "I don't want them to come in September.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Él no quiere que yo lo haga hasta finales de septiembre.",
+      "back": "He doesn't want me to do it until the end of September.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "No quieren que hagamos nada hasta principios de septiembre.",
+      "back": "They don't want us to do anything until the beginning of September.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Ella no quiere que hagamos nada más.",
+      "back": "She doesn't want us to do anything else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "No quiero que hagan nada más hasta finales de septiembre.",
+      "back": "I don't want them to do anything else until the end of September.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "No quieren que yo compre nada más.",
+      "back": "They don't want me to buy anything else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "No quiero que vayan a ningún otro sitio.",
+      "back": "I don't want them to go anywhere else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No quiero que él los busque en ningún otro sitio.",
+      "back": "I don't want him to look for them anywhere else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "No quieren que yo trabaje en ningún otro sitio.",
+      "back": "They don't want me to work anywhere else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "No quiero que ella hable con nadie más.",
+      "back": "I don't want her to talk to anyone else.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Ella no quiere que nadie más esté allí.",
+      "back": "She doesn't want anyone else to be there.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "No quieren que nadie más hable con ella.",
+      "back": "They don't want anyone else to speak to her.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Quieres que lo haga antes del viernes?",
+      "back": "Do you want me to do it before Friday?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Cuándo quieres que lo haga?",
+      "back": "When do you want me to do it?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Qué quieres que haga?",
+      "back": "What do you want me to do?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Quiere él que vaya allí en octubre?",
+      "back": "Does he want me to go there in October?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Dónde quieres que vaya en octubre?",
+      "back": "Where do you want me to go in October?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Quieres que lo haga a principios de octubre o a finales de octubre?",
+      "back": "Do you want me to do it at the beginning of October or do you want me to do it at the end of October?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Quiere ella que yo haga alguna otra cosa?",
+      "back": "Does she want me to do anything else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Quieres que haga algo más?",
+      "back": "Do you want me to do anything else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Quieren que hagamos algo más?",
+      "back": "Do they want us to do anything else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Quieres que yo vaya a otro sitio más?",
+      "back": "Do you want me to go anywhere else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Quieres que Peter vaya a otro sitio más?",
+      "back": "Do you want Peter to go anywhere else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Quiere él que Matthew y Katy miren en otro sitio?",
+      "back": "Does he want Matthew and Katy to look anywhere else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Quieres que yo invite a alguien más?",
+      "back": "Do you want me to invite anyone else?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Quiere ella que alguien más le ayude?",
+      "back": "Does she want anyone else to help her?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Quieres que alguien más te llame?",
+      "back": "Do you want anyone else to phone you?",
+      "sourcePage": 19
+    }
+  ]
+}

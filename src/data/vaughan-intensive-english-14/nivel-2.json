@@ -1,0 +1,532 @@
+{
+  "bookId": "vaughan-intensive-english-14",
+  "bookTitle": "Libro 14",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Los niños quieren que haya tres veces más adornos de Navidad este año.",
+      "back": "The children want there to be three times as many Christmas decorations this year.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Todo el mundo quiere que haya el doble de días festivos al año.",
+      "back": "Everybody wants there to be twice as many public holidays a year.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Él quiere que haya la mitad de coches en las carreteras.",
+      "back": "He wants there to be half as many cars on the roads.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Cuando Alison estaba en el colegio quería que hubiera menos deberes.",
+      "back": "When Alison was at school, she wanted there to be less homework.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Cuando Richard estaba en la universidad quería que hubiera menos teoría y más clases prácticas.",
+      "back": "When Richard was at university, he wanted there to be less theory and more practical classes.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Cuando Alberto era adolescente, sus padres querían que hubiera menos alcohol en sus fiestas.",
+      "back": "When Alberto was a teenager, his parents wanted there to be less alcohol at his parties.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Cuando Alison estaba en el colegio no quería que hubiera tantos deberes.",
+      "back": "When Alison was at school, she didn't want there to be so much homework.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Cuando Richard estaba en la universidad no quería que hubiera tanta teoría.",
+      "back": "When Richard was at university, he didn't want there to be so much theory.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Cuando Alberto era adolescente, sus padres no querían que hubiera tanto alcohol en sus fiestas.",
+      "back": "When Alberto was a teenager, his parents didn't want there to be so much alcohol at his parties.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "No quiero que haya tanta nieve en Nottingham como la del pasado mes de diciembre.",
+      "back": "I don't want there to be as much snow in Nottingham as there was last December.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "No quieren que haya tanto vino en la fiesta de Navidad de este año como hubo en la del año pasado.",
+      "back": "They don't want there to be as much wine at this year's Christmas party as there was at last year's.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "El comité organizador tampoco quiere que haya tanta comida.",
+      "back": "The organization committee doesn't want there to be as much food either.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Yo querría que hubiera menos gente en las tiendas cuando hay rebajas.",
+      "back": "I'd like there to be fewer people in the shops when the sales are on.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Ellos querrían que hubiera menos vecinos ruidosos y cotillas en el vecindario.",
+      "back": "They'd like there to be fewer noisy and nosey neighbours in the neighbourhood.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Nosotros querríamos que hubiera menos manifestaciones en el centro de la ciudad.",
+      "back": "We'd like there to be fewer demonstrations in the city centre.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "No quieres que pase eso, ¿verdad?",
+      "back": "You don't want that to happen, do you?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "No quieren que vuelva a pasar, ¿verdad?",
+      "back": "They don't want that to happen again, do they?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Ella no quiere que le pase eso, ¿verdad?",
+      "back": "She doesn't want that to happen to her, does she?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "¿De verdad quiere él que eso sea cierto?",
+      "back": "Does he really want it to be true?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "¿De verdad quieres que eso sea así?",
+      "back": "Do you really want it to be like that?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "¿De verdad quieren que eso se haga así?",
+      "back": "Do they really want it to be done that way?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "¿En serio ella quiere que granice?",
+      "back": "Does she really want it to hail?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "¿En serio él quiere que sea lunes por la mañana?",
+      "back": "Does he really want it to be Monday morning?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "¿En serio quieren que sea otra vez invierno?",
+      "back": "Do they really want it to be winter again?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "No quiero que nada salga mal.",
+      "back": "I don't want anything to go wrong.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Ella no quiere que les pase nada.",
+      "back": "She doesn't want anything to happen to them.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "No queremos que pase nada en las próximas dos horas.",
+      "back": "We don't want anything to happen in the next two hours.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Quiero que todo salga perfecto.",
+      "back": "I want everything to be perfect.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Ella quiere que todo sea como antes.",
+      "back": "She wants everything to be as it used to be.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Quieren que todo termine bien.",
+      "back": "They want everything to end well.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Quieres agua? No, no quiero.",
+      "back": "Do you want any water? No, I don't want any.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Quieres una galleta? Sí, quiero una.",
+      "back": "Do you want a biscuit? Yes, I want one.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Quieres galletas? Sí, quiero algunas.",
+      "back": "Do you want any biscuits? Yes, I want some.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Quieres ir a Sirte? No, no quiero, pero tengo que ir.",
+      "back": "Do you want to go to Sirte? I don't want to, but I have to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Queréis ir de safari a Sudáfrica? Yo quiero, pero ella no.",
+      "back": "Do you want to go on a safari in South Africa? I want to, but she doesn't.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Quieren asistir a la reunión de mañana? No quieren y yo tampoco.",
+      "back": "Do they want to attend tomorrow's meeting? They don't want to and neither do I.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-037",
+      "front": "Él puede ser realmente encantador con todo el mundo cuando quiere.",
+      "back": "He can be really charming to everybody when he wants to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Ella puede ser muy divertida cuando quiere.",
+      "back": "She can be a lot of fun when she wants to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Pueden ser de gran ayuda cuando quieren.",
+      "back": "They can be very helpful when they want to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Ella puede ser un auténtico incordio cuando quiere.",
+      "back": "She can be a real nightmare when she wants to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella puede ser una pesada cuando quiere.",
+      "back": "She can be a pain in the neck when she wants to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Puedes ser un auténtico pesado cuando quieres.",
+      "back": "You can be a real nuisance when you want to.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Qué quieres decir?",
+      "back": "What do you mean?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Qué quieres decir con eso?",
+      "back": "What do you mean by that?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Qué crees que quiere decir él con eso?",
+      "back": "What do you think he means by that?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Qué quieres decir con que no puedes asistir a mi boda?",
+      "back": "What do you mean you can't make it to my wedding?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Qué quieres decir con que nunca has ido al cine?",
+      "back": "What do you mean you've never been to the cinema?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Qué quieres decir con que él no sabe escribir mi nombre?",
+      "back": "What do you mean he doesn't know how to spell my name?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "No quería decir que no podré asistir a tu boda, sino que llegaré tarde.",
+      "back": "I didn't mean I can't make it to your wedding, only that I'll arrive late.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-050",
+      "front": "No he querido decir que nunca haya ido al cine, sino que preferiría ir al teatro.",
+      "back": "I didn't mean I've never been to the cinema, only that I'd prefer to go to the theatre.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-051",
+      "front": "No he querido decir que él no sepa escribir tu nombre, sólo que escribió el mío en la lista.",
+      "back": "I didn't mean he doesn't know how to spell your name, only that he wrote mine on the list instead.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Quieres decir que Sally y Bob están teniendo una aventura?",
+      "back": "Do you mean that Sally and Bob are having an affair?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Quieres decir que van a despedir a Matt?",
+      "back": "Do you mean that Matt is going to be made redundant?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Quieres decir que han ascendido a Susan?",
+      "back": "Do you mean that Susan has been promoted?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Lo que ella ha querido decir es que Sally y Bob pasan mucho tiempo juntos por la fiesta sorpresa del cumpleaños de Lisa.",
+      "back": "What she meant was that Sally and Bob are spending a lot of time together because of Lisa's surprise birthday party.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Lo que ha querido decir él es que Matt va a empezar su nuevo negocio.",
+      "back": "What he meant was that Matt is going to start his own business.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Lo que quise decir es que han trasladado a Susan a la oficina de Nueva York.",
+      "back": "What I meant was that Susan has been transferred to the New York office.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Ella quiere unas pinzas de depilar nuevas.",
+      "back": "She wants a new pair of tweezers.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-059",
+      "front": "Él quiere unas manoplas nuevas.",
+      "back": "He wants a new pair of mittens.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-060",
+      "front": "Quiero unas pinzas para el hielo nuevas.",
+      "back": "I want a new pair of tongs.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-061",
+      "front": "No lo harán.",
+      "back": "They won't do it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Él no lo comprará.",
+      "back": "He won't buy it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "No se lo diré a él.",
+      "back": "I won't tell him.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Queríamos marcharnos, pero ahora queremos quedarnos.",
+      "back": "We wanted to leave, but now we want to stay.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-065",
+      "front": "Querían gritar, pero ahora quieren susurrar.",
+      "back": "They wanted to shout, but now they want to whisper.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-066",
+      "front": "Quería ponerme eso, pero ahora quiero quitarme esto.",
+      "back": "I wanted to put that on, but now I want to take this off.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-067",
+      "front": "Quiero ganar, pero no lo haré.",
+      "back": "I want to win, but I won't.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Quieres esperar, pero no lo harás.",
+      "back": "You want to wait, but you won't.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Quieren silbar, pero no lo harán.",
+      "back": "They want to whistle, but they won't.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "No lo veré a no ser que quieras que lo vea contigo.",
+      "back": "I won't watch it unless you want me to watch it with you.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Él no las regará a no ser que quieras que las riegue por ti.",
+      "back": "He won't water them unless you want him to water them for you.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "No se pesarán a no ser que quieras que se pesen.",
+      "back": "They won't weigh themselves unless you want them to weigh themselves.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Me apetece un poco de té. ¿Y a ti?",
+      "back": "I fancy a drop of tea. How about you?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-074",
+      "front": "Me apetece un poco de leche en mi té. ¿Y a ti?",
+      "back": "I fancy a drop of milk in my tea. How about you?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-075",
+      "front": "Me apetece un poco de vino. ¿Y a ti?",
+      "back": "I fancy a drop of wine. How about you?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-076",
+      "front": "Me apetece mucho un trozo de tarta.",
+      "back": "I really fancy a slice of cake.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Me apetece bastante una tostada para desayunar.",
+      "back": "I quite fancy a slice of toast for breakfast.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Me apetece mucho una rodaja de melón.",
+      "back": "I really fancy a slice of melon.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Te apetece algo de comer?",
+      "back": "Do you fancy a bite to eat?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-080",
+      "front": "¿Te apetece dar un paseo?",
+      "back": "Do you fancy a walk?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-081",
+      "front": "¿Te apetece dar un paseo en coche?",
+      "back": "Do you fancy a spin?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-082",
+      "front": "¡Qué casualidad encontrarme contigo aquí!",
+      "back": "Fancy meeting you here!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "¡No me puedo creer que se haya comido toda la tarta sin ofrecernos nada!",
+      "back": "Fancy eating all that cake without offering us any!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Cómo se te ocurre decírselo a todos tus amigos en Facebook antes que a tu familia?",
+      "back": "Fancy telling all your friends on Facebook before your family!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Creo que le gustas mucho a él.",
+      "back": "I think he fancies you.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Te gusta mucho ella?",
+      "back": "Do you fancy her?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "¡Él me gusta muchísimo!",
+      "back": "I really fancy him!",
+      "sourcePage": 47
+    }
+  ]
+}

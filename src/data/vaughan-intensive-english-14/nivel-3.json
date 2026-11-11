@@ -1,0 +1,526 @@
+{
+  "bookId": "vaughan-intensive-english-14",
+  "bookTitle": "Libro 14",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Quiero que el hombre que voló aquí en su helicóptero privado desde algún lugar al norte de Guadalajara únicamente para verme vaya a recepción.",
+      "back": "I want the man who flew here especially to see me in his own private helicopter from somewhere just north of Guadalajara to go to reception.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Quiero que la mujer que voló aquí, tiró su plato de guisantes al suelo del avión, causó varios accidentes al recogerlo y bloqueó el pasillo pida ayuda.",
+      "back": "I want the woman who flew here and not only dropped her plate of peas on the floor of the plane, but also caused several accidents by trying to clear them up and blocking the aisle to ask someone for help.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Quiero que el hombre cuyos zapatos ganaron los campeonatos nacionales de diseño de calzado los últimos tres años suba al escenario.",
+      "back": "I want the man whose shoes won the national shoe-design championships for the last three years running to come up onto the stage.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Quiero que el hombre cuyos zapatos bloquean la salida e impiden salir a un grupo de ancianas de la sala de bingo se ponga en contacto conmigo.",
+      "back": "I want the man whose shoes are blocking the exit and preventing the group of old ladies from leaving the bingo hall to contact me immediately.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Quiero que el hombre que lanzó la jabalina en los Juegos Olímpicos de Berlín de 1936 y casi golpeó a Adolf Hitler nos lo cuente todo.",
+      "back": "I want the man who threw javelin at the 1936 Berlin Olympics and narrowly missed hitting Adolf Hitler to tell us all about it.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-006",
+      "front": "Quiero que la mujer que tiró por accidente a su gato por la ventana pensando que era el peluche de su hija abandone la sala.",
+      "back": "I want the woman who accidentally threw her cat out of the window thinking it was her estranged daughter's cuddly toy to leave the room.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-007",
+      "front": "Quiero que la mujer cuyos sobrinos se mudaron a Nueva Zelanda y se hicieron artistas famosos de circo mueva su coche.",
+      "back": "I want the woman whose nephews moved to New Zealand and became famous circus performers, winning many awards and becoming household names, to move her car.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Quiero que el hombre cuyos sobrinos compraron la tienda de antigüedades del vecindario y la convirtieron en un negocio multimillonario me llame.",
+      "back": "I want the man whose nephews bought the local antique shop and turned it into a multimillion dollar business to call me.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Quiero que el hombre que cultivó verduras al lado de la calle y las vendió por enormes cantidades de dinero atribuyéndoles propiedades mágicas confiese su delito.",
+      "back": "I want the man who grew vegetables on the side of the street and sold them for huge sums of money telling the customers that they had magic properties to own up, please.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Quiero que la mujer que cultivó girasoles que batieron el récord de altura mientras trabajaba como batería de una banda de rock me devuelva mis manoplas.",
+      "back": "I want the woman who grew record-breaking sunflowers in her garden while at the same time working as a full-time drummer for a world-famous rock band to give me back my oven gloves.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Quiero que el hombre que cultivó nabos se despida.",
+      "back": "I want the man who grew turnips to say goodbye.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Quiero que compres cada ejemplar que encuentres.",
+      "back": "I want you to buy up every copy you can find.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-013",
+      "front": "El jefe quiere que nuestros rivales compren todas las existencias.",
+      "back": "The boss wants our rivals to buy up all the stock.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Por qué querían que compráramos todas las existencias?",
+      "back": "Why did they want us to buy up all the stock?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-015",
+      "front": "Quiero que pares de hablar de ello, por favor.",
+      "back": "I want you to stop going on and on about it, please!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-016",
+      "front": "Él quiere que le digas de qué estás hablando.",
+      "back": "He wants you to tell him what you're going on about.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "No queremos que sigas y sigas hablando de ello.",
+      "back": "We don't want you to keep going on and on about it.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Queremos que acabes con todo lo que no sea esencial.",
+      "back": "We want you to do away with everything that's not essential.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-019",
+      "front": "Quiero que se deshagan de todos los adornos baratos.",
+      "back": "I want them to do away with all the cheap decorations.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-020",
+      "front": "Querían que elimináramos todo este papeleo innecesario.",
+      "back": "They wanted us to do away with all this unnecessary paperwork.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-021",
+      "front": "De verdad quiero que arregles el comedor para nosotros.",
+      "back": "I really want you to do up the dining room for us.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-022",
+      "front": "Mi mujer tiene muchas ganas de que le arreglen la cocina antes de Navidad.",
+      "back": "My wife really wants them to do up the kitchen before Christmas.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Queríamos que los empleados arreglaran la oficina para la fiesta de fin de año, pero no lo hicieron.",
+      "back": "We wanted the staff to do up the office for the end of year party, but they didn't.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Nadie quiere que los criminales queden impunes de sus crímenes.",
+      "back": "Nobody wants criminals to get away with their crimes.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "No quiero que ellos se salgan con la suya en esto.",
+      "back": "I don't want them to get away with this.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Querrías que ellos se salieran con la suya?",
+      "back": "Would you want them to get away with it?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Cálmate, ¿quieres? (con «calm down»)",
+      "back": "Calm down, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-028",
+      "front": "Cálmate, ¿quieres? (con «pull yourself together»)",
+      "back": "Pull yourself together, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-029",
+      "front": "Cálmate, ¿quieres? (con «get a grip»)",
+      "back": "Get a grip, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-030",
+      "front": "Acuérdate de echar el pestillo esta vez, ¿quieres?",
+      "back": "Remember to bolt the door this time, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-031",
+      "front": "Acuérdate de cerrar con la cadena también, ¿quieres?",
+      "back": "Remember to put the chain on as well, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Acuérdate de poner la alarma antirrobo, ¿quieres?",
+      "back": "Remember to set the burglar alarm, will you?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Sube la ventanilla, ¿quieres? ¡El viento me está despeinando!",
+      "back": "Wind up the window, will you? The wind is messing up my hair!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-034",
+      "front": "Baja el espejo, ¿quieres? El sol me está deslumbrando.",
+      "back": "Put your sun visor down, will you? The sun's getting in my eyes.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-035",
+      "front": "Mueve tu asiento hacia delante, ¿quieres? No hay espacio aquí atrás.",
+      "back": "Put your seat forward, will you? There's no room here in the back.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-036",
+      "front": "Vuelve a poner la tapa al tarro de mermelada después de usarlo, ¿quieres?",
+      "back": "Put the lid back on the jam jar after using it, will you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-037",
+      "front": "Pásale un trapo a la encimera, ¿quieres?",
+      "back": "Give the worktop a wipe, will you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Remueve el guiso, ¿quieres? Si no, se pegará.",
+      "back": "Stir the stew, will you? It'll stick otherwise.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Súbete los calcetines, ¿quieres?",
+      "back": "Pull your socks up, will you?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Átate los cordones, ¿quieres? Si no, te caerás.",
+      "back": "Tie your shoelaces, will you? You'll trip over otherwise!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Abróchate el abrigo, ¿quieres? ¡Hace mucho frío!",
+      "back": "Do your coat up, will you? It's freezing!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Lo hice sin querer.",
+      "back": "I didn't do it on purpose.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-043",
+      "front": "Estoy seguro de que ella lo hizo sin querer.",
+      "back": "I'm sure she didn't do it on purpose.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-044",
+      "front": "No creo que lo hayan hecho a propósito.",
+      "back": "I don't think they did it on purpose.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-045",
+      "front": "Lo dijeron sin querer herir tus sentimientos.",
+      "back": "They said it without meaning to hurt your feelings.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-046",
+      "front": "Estoy convencido de que lo hicieron sin querer.",
+      "back": "I'm convinced they did it without meaning to.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Sin querer, me choqué contra la verja de mi vecino cuando daba marcha atrás.",
+      "back": "Without meaning to, I backed my car into my neighbour's gate.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "No fue mi intención causar tantos problemas.",
+      "back": "I didn't mean to cause so many problems.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-049",
+      "front": "No lo hicieron a propósito.",
+      "back": "They didn't mean to do it!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-050",
+      "front": "No fue nuestra intención soltar la liebre.",
+      "back": "We didn't mean to let the cat out of the bag.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-051",
+      "front": "Sin querer, él desveló el secreto.",
+      "back": "He unintentionally gave the game away.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-052",
+      "front": "Sin querer, le pisé la pata a mi perro.",
+      "back": "I unintentionally trod on my dog's paw.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Sin querer, él me pisó los pies.",
+      "back": "He unintentionally trod on my feet.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Dejé a mi vecino inconsciente sin querer al abrir la puerta del garaje.",
+      "back": "I accidentally knocked my neighbour out when I opened the garage door.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Él se dio un golpe en la cabeza sin querer en la máquina expendedora.",
+      "back": "He accidentally hit his head on the vending machine.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Ella tiró el jarrón de la mesa sin querer.",
+      "back": "She accidentally knocked the vase off the table.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Te apetece tomar un té?",
+      "back": "Do you fancy a cup of tea?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Qué os apetece hacer?",
+      "back": "What do you fancy doing?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-059",
+      "front": "Creo que le gustas a él.",
+      "back": "I think he fancies you.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-060",
+      "front": "¿Te apetece ver una película?",
+      "back": "Do you feel like watching a film?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Qué te apetece hacer esta tarde?",
+      "back": "What do you feel like doing this evening?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "¿Por qué no? Porque no me apetece.",
+      "back": "Why not? Because I don't feel like it!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Te apetece jugar una partida de ajedrez?",
+      "back": "Are you up for a game of chess?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-064",
+      "front": "No me apetece mucho salir esta noche.",
+      "back": "I'm not really up for going out tonight.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-065",
+      "front": "Él se apunta a un bombardeo.",
+      "back": "He's always up for anything!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-066",
+      "front": "Llevo toda la noche muriéndome por un chocolate.",
+      "back": "I've been craving for some chocolate all night long.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Tu mujer ha empezado a tener antojos de comidas raras ahora que está embarazada?",
+      "back": "Has your wife started craving for strange foods now that she's pregnant?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Creo que el bebé está reclamando a su madre.",
+      "back": "I think the baby is craving for her mother.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "¡Cuánto he anhelado este momento!",
+      "back": "How I've longed for this moment!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Llevo mucho tiempo deseando conocerte.",
+      "back": "I've been longing to meet you for ages.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Creo que él está deseando volver a su país.",
+      "back": "I think he's longing to go back to his country.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Quiero a Enrique para mi equipo.",
+      "back": "I want Enrique for my team.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-073",
+      "front": "La policía quiere interrogarle; le buscan por una serie de delitos.",
+      "back": "The police want him for questioning; they want him for a number of crimes.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-074",
+      "front": "Sólo deseo lo mejor para mis hijos.",
+      "back": "I only want the best for my kids.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-075",
+      "front": "Cuando éramos niños no teníamos mucho, pero la comida nunca nos faltó.",
+      "back": "When we were kids we didn't have much, but we never wanted for food.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-076",
+      "front": "No les falta de nada.",
+      "back": "They're quite wealthy; they don't want for nothing.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Mientras estés conmigo no te faltará nada.",
+      "back": "While you're with me you won't want for nothing.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Ella no está feliz con su matrimonio; creo que quiere dejarlo.",
+      "back": "She isn't happy with her marriage; I think she wants out.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-079",
+      "front": "Este trabajo me está matando; quiero dejarlo.",
+      "back": "This job is killing me; I want out.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-080",
+      "front": "No están muy satisfechos con el desarrollo del negocio; quieren dejarlo.",
+      "back": "They're not very pleased with the way the business is going; they want out.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-081",
+      "front": "Quiero esta caja fuera de aquí.",
+      "back": "I want that box out of here.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-082",
+      "front": "Está harta de él; quiere que salga de su vida.",
+      "back": "She's fed up with him; she wants him out of her life.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Quiero que todos salgáis de allí ahora mismo.",
+      "back": "I want all of you out of there at once.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "¡Quiero mi dinero de vuelta ahora!",
+      "back": "I want my money back now!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "No puedo ir a otro bar; mis padres quieren que vuelva a casa antes de la una.",
+      "back": "I can't go to another bar; my parents want me back home before one.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Te echamos de menos; todos queremos que vuelvas.",
+      "back": "We really miss you; we all want you back.",
+      "sourcePage": 75
+    }
+  ]
+}
