@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-23",
+  "bookTitle": "Libro 23",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Voy a poner el despertador a las seis.",
+      "back": "I'm going to set the alarm clock for six o'clock.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "No pongas el despertador a las seis; ponlo a las siete.",
+      "back": "Don't set the alarm for six o'clock; set it for seven o'clock.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "No quiero poner el despertador a las siete; quiero ponerlo a las seis.",
+      "back": "I don't want to set the alarm for seven o'clock; I want to set it for six o'clock.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¿A qué hora vas a poner el despertador?",
+      "back": "What time are you going to set your alarm for?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿A qué hora sueles poner el despertador?",
+      "back": "What time do you normally set your alarm for?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "¿A qué hora pongo el despertador?",
+      "back": "What time shall I set the alarm clock for?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Mañana tengo que poner mi despertador a las siete y cuarto de la mañana.",
+      "back": "I have to set my alarm clock for quarter past seven tomorrow morning.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Pues yo tengo que poner mi despertador a las siete y cuarto todos los días.",
+      "back": "Well, I have to set my alarm clock for quarter past seven every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Creo que tendré que poner el despertador a las cinco y cuarto para llegar al aeropuerto a tiempo.",
+      "back": "I think I'll have to set the alarm for quarter past five to get to the airport in time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Tengo que poner el reloj del DVD en hora. ¿Son las ocho menos cuarto?",
+      "back": "I have to set the time on the DVD player. Is it quarter to eight?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Tengo que poner el reloj del horno en hora. Yo tengo las tres menos cuarto. ¿Tú tienes las tres menos cuarto?",
+      "back": "I have to set the time on the oven. I make it quarter to three. Do you make it quarter to three?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Tengo que poner el reloj del riego automático en hora. Yo tengo las nueve menos cuarto. ¿Tú también tienes las nueve menos cuarto?",
+      "back": "I have to set the time on the watering system. I make it quarter to nine. Do you make it quarter to nine too?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Tendré que cambiar mi reloj a la hora británica.",
+      "back": "I'll have to reset my watch to British time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Que no se te olvide poner tu despertador de nuevo.",
+      "back": "Don't forget to reset your alarm clock!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Siempre se me olvida cambiar mi despertador los domingos por la noche.",
+      "back": "I always forget to reset my alarm on Sunday evenings.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Estoy pensando en montar un negocio.",
+      "back": "I'm thinking about setting up a business.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Qué tipo de negocio estás pensando montar?",
+      "back": "What type of business are you thinking about setting up?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Creo que es una buena idea montar tu negocio en Hong Kong.",
+      "back": "I think it's a good idea to set up your business in Hong Kong.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Quiero montar mi propio negocio.",
+      "back": "I want to set up my own business.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Por qué no montas tu propio negocio?",
+      "back": "Why don't you set up your own business?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Mi padre quiere que mi hermana monte su propio negocio.",
+      "back": "My father wants my sister to set up her own business.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Mike quiere montar un negocio que venda repuestos para ordenadores.",
+      "back": "Mike wants to set up a business that sells spare parts for computers.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Kath está montando un negocio que vende repuestos para electrodomésticos.",
+      "back": "Kath is setting up a business that sells spare parts for household appliances.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Sam está montando un negocio que vende repuestos para coches.",
+      "back": "Sam is setting up a business that sells spare parts for cars.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Nick está montando su propio negocio. Lo está montando en Boston.",
+      "back": "Nick is setting up his own business. He's setting it up in Boston.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Greg y Eve están pensando en montar su propio negocio. Están pensando en montarlo en Austin, Tejas.",
+      "back": "Greg and Eve are thinking about setting up their own business. They're thinking about setting it up in Austin, Texas.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Estamos pensando en montar un negocio para vender ropa por internet. Estamos pensando en montarlo a final de año.",
+      "back": "We're thinking about setting up a business that sells clothes online. We're thinking about setting it up at the end of the year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Queremos montar nuestra propia empresa.",
+      "back": "We want to set up our own company.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Yo también quiero montar mi propia empresa. Pero no la quiero montar todavía.",
+      "back": "I want to set up my own company too. But I don't want to set it up yet.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Están pensando en montar su propia empresa? ¿Dónde están pensando en montarla?",
+      "back": "Are they thinking about setting up their own company? Where are they thinking about setting it up?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "En verano sale el sol muy temprano.",
+      "back": "The sun rises very early in the summer.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "En invierno el sol sale bastante tarde.",
+      "back": "The sun rises quite late in the winter.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿A qué hora suele salir el sol en julio?",
+      "back": "What time does the sun normally rise in July?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Mira! El sol se está poniendo. ¿Siempre se pone tan temprano en abril?",
+      "back": "Look! The sun's setting. Does it always set this early in April?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "El sol se pone sobre las siete en esta época del año.",
+      "back": "The sun sets around seven o'clock at this time of year.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Qué puesta de sol más bonita!",
+      "back": "What a beautiful sunset!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "En invierno el sol se pone más temprano en Escocia que en España.",
+      "back": "In winter, the sun sets earlier in Scotland than in Spain.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "En invierno el sol sale más temprano en España que en Inglaterra.",
+      "back": "In winter, the sun rises earlier in Spain than in England.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "El sol se pone más temprano en invierno que en verano.",
+      "back": "The sun sets earlier in winter than in summer.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¿El sol se pone más tarde en invierno o en verano?",
+      "back": "Does the sun set later in the winter or in the summer?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "El sol se pone más tarde en verano que en invierno.",
+      "back": "The sun sets later in the summer than in the winter.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "En julio el sol sale más tarde en España que en Escocia.",
+      "back": "In July, the sun rises later in Spain than in Scotland.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "En esta época del año el sol sale cada día más tarde.",
+      "back": "At this time of year the sun rises later and later every day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "En esta época del año el sol se pone cada día más temprano.",
+      "back": "At this time of year the sun sets earlier and earlier every day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Me encanta cuando el sol se pone cada vez más tarde y los días se hacen cada vez más largos.",
+      "back": "I love it when the sun sets later and later and the days get longer and longer.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Quiero salir antes del amanecer.",
+      "back": "I want to set off before sunrise.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Tendremos que salir antes del amanecer si queremos llegar antes del atardecer.",
+      "back": "We'll have to set off before dawn if we want to get there before dusk.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Tendremos que salir antes de las diez si queremos llegar antes de que se ponga el sol.",
+      "back": "We'll have to set off before ten o'clock if we want to get there before the sun sets.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Va a haber mucho tráfico en las carreteras mañana. Por eso quiero salir temprano.",
+      "back": "There's going to be a lot of traffic on the roads tomorrow. That's why I want to set off early.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "La hora punta empieza a las siete y media. Por eso quiero salir antes de las cinco y media.",
+      "back": "Rush hour starts at half past seven. That's why I want to set off before half past five.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Tenemos que salir antes del amanecer. Por eso tenemos que irnos a la cama temprano.",
+      "back": "We have to set off before dawn. That's why we have to go to bed early.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Mañana tendremos que salir a primera hora de la mañana. De lo contrario, no llegaremos a tiempo para la boda.",
+      "back": "We'll have to set off first thing tomorrow morning. Otherwise, we won't get there in time for the wedding.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Tendréis que salir antes del amanecer. De lo contrario, no llegaréis al aeropuerto a tiempo.",
+      "back": "You'll have to set off before dawn. Otherwise, you won't get to the airport in time.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Tendremos que salir antes de las seis y media. De lo contrario, tardaremos mucho más tiempo y no llegaremos a tiempo para la reunión.",
+      "back": "We'll have to set off before half past six. Otherwise, it'll take us a lot longer and we won't get there in time for the meeting.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Por un lado, si salimos a primera hora de la mañana, evitaremos el tráfico de la hora punta...",
+      "back": "On the one hand, if we set off first thing in the morning, we'll miss the rush hour traffic...",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Por un lado, si nos vamos a la cama temprano, podemos salir a primera hora...",
+      "back": "On the one hand, if we go to bed early, we can set off first thing...",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Por un lado, si salimos antes de que salga el sol, llegaremos temprano...",
+      "back": "On the one hand, if we set off before the sun rises, we'll get there early...",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Por otro lado, si salimos a primera hora, tendremos que irnos a la cama pronto.",
+      "back": "On the other hand, if we set off first thing, we'll have to go to bed early.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Por otro lado, si nos vamos a la cama pronto, nos perderemos la película de esta noche.",
+      "back": "On the other hand, if we go to bed early, we'll miss tonight's film.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Por otro lado, si salimos antes de que salga el sol, tendremos que hacer las maletas esta noche.",
+      "back": "On the other hand, if we set off before the sun rises, we'll have to pack the suitcases tonight.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Asegúrate de no activar la alarma contra incendios cuando prepares las tostadas.",
+      "back": "Make sure you don't set off the fire alarm when you make the toast.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Asegúrate de no activar la alarma antirrobo de mi coche cuando saques tu bici del garaje.",
+      "back": "Make sure you don't set off my car alarm when you get your bike out of the garage.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Asegúrate de no activar la alarma de seguridad con tu marcapasos.",
+      "back": "Make sure you don't set off the security alarm with your pacemaker.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "No quiero soltar una bomba, ¡pero estoy embarazada!",
+      "back": "I don't want to set off a bomb, but I'm pregnant!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No querrás soltar una bomba. Por eso, ni se te ocurra mencionar a su ex.",
+      "back": "You don't want to set off a bomb. That's why you don't want to mention his ex.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "El primer ministro va a soltar una bomba política cuando hable del nuevo impuesto sobre el derecho a respirar.",
+      "back": "The PM is going to set off a political bomb when he talks about the new tax on breathing.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "El perro de mi vecino siempre está haciendo que salte mi riego automático.",
+      "back": "My neighbour's dog is always setting off my automatic watering system.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "No juguéis al fútbol en el césped. Siempre estáis haciendo que salte el riego automático.",
+      "back": "Don't play football on the grass. You're always setting off the automatic watering system.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Estoy harto! Esos pájaros siempre están haciendo saltar el riego.",
+      "back": "I'm fed up! Those birds are always setting off the watering system.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "No menciones la guerra. Él no se callará durante horas.",
+      "back": "Don't mention the war. You'll set him off for hours.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No quiero darle pie (a ella) otra vez.",
+      "back": "I don't want to set her off again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "No digas nada. Si no, empezarán a hablar y ya no se callarán.",
+      "back": "Don't say anything. Otherwise, you'll set them off.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Ten cuidado con la alarma antirrobo del coche. Por favor, ¡no la actives otra vez!",
+      "back": "Mind the car alarm. Please don't set it off again!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Ten cuidado con la alarma contra incendios al calentar tus tostadas. No querrás volver a hacerla sonar.",
+      "back": "Mind the fire alarm with your toast. You don't want to set it off again.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Ten cuidado con la alarma de seguridad por lo de tu marcapasos. No querrás activarla.",
+      "back": "Mind the security alarm with your pacemaker. You don't want to set it off.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Siéntate en el sofá.",
+      "back": "Sit down on the settee.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Estoy sentado en el sofá.",
+      "back": "I'm sitting on the settee.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Quieres que me siente en este sofá o en aquél?",
+      "back": "Do you want me to sit on this settee or on that settee?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Creo que él nunca echará raíces.",
+      "back": "I don't think he'll ever settle down.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Cuándo vas a asentarte, casarte y tener una familia?",
+      "back": "When are you going to settle down, get married and have a family?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "No estoy preparada para sentar la cabeza todavía.",
+      "back": "I'm not ready to settle down yet.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¡Éste es un entorno tan bonito para una boda!",
+      "back": "This is such a beautiful setting for a wedding!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¡Tu casa está en un entorno tan bonito!",
+      "back": "Your house is in such a nice setting!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¡El hotel está en un entorno tan bonito!",
+      "back": "The hotel is in such a lovely setting!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¡Se trata de un seto tan bonito!",
+      "back": "That's such a beautiful hedge.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Hay un seto al fondo de mi jardín.",
+      "back": "There's a hedge at the bottom of my garden.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Mira! Creo que estoy viendo un nido en ese seto.",
+      "back": "Look! I think I can see a nest in that hedge!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Vamos a buscar setas.",
+      "back": "We're going to look for some wild mushrooms.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Me encanta la tortilla de setas.",
+      "back": "I love wild mushroom omelette.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Yo tomaré sopa de setas.",
+      "back": "I'll have the wild mushroom soup, please.",
+      "sourcePage": 19
+    }
+  ]
+}

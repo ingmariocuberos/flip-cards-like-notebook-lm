@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-23",
+  "bookTitle": "Libro 23",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Algunos vándalos prendieron fuego al edificio.",
+      "back": "Some vandals set the building on fire.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "¿Por qué a la gente de Valencia le encanta prender fuego a cosas que tardaron meses en crear?",
+      "back": "Why do people from Valencia love setting fire to things that take them months to make?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Hice caer una vela sin querer y prendió fuego al mantel. ¡Hasta ahí llegó mi cena romántica a la luz de las velas!",
+      "back": "I accidentally set the tablecloth on fire by knocking over a candle. So much for my romantic candlelit dinner!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Parece que alguien ha prendido fuego al laboratorio de química.",
+      "back": "It looks like someone has set fire to the chemistry lab.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Los bomberos creen que unos niños prendieron fuego al granero.",
+      "back": "Firemen believe that some children set fire to the barn.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "No sé cómo lograron prender fuego a todo el ala este.",
+      "back": "I don't know how they managed to set fire to the entire east wing.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Ten cuidado de no quemarte el pelo.",
+      "back": "Be careful not to set your hair alight.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Durante la noche, un tronco que todavía estaba encendido se cayó de la chimenea y prendió fuego a la casa.",
+      "back": "During the night, a burning log rolled off the hearth and set the house alight.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Quién prendió fuego al vertedero?",
+      "back": "Who set the rubbish dump alight?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Tras varias semanas de malentendidos, al final pudimos aclarárselo a todo el mundo.",
+      "back": "After several weeks of misunderstandings, we eventually set everybody straight.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Por qué nadie me corrigió antes sobre el asunto?",
+      "back": "Why didn't anybody set me straight on the matter sooner?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Se lo aclararemos cuando tengamos suficientes pruebas.",
+      "back": "We'll set them straight when we have enough evidence.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Es importante dar buen ejemplo a los jóvenes.",
+      "back": "It's important to set a good example to young people.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Quién está dando buen ejemplo a los jóvenes hoy en día?",
+      "back": "Who is setting a good example to young people nowadays?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "¡Los pirómanos no dan buen ejemplo a los jóvenes!",
+      "back": "Pyromaniacs do not set a good example to young people!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Creo que es hora de arrancar.",
+      "back": "I think it's time to set the ball rolling.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Vale; ¿quién va a empezar?",
+      "back": "OK; who's going to set the ball rolling?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "¿Empiezo yo entonces?",
+      "back": "Shall I set the ball rolling then?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Aquella sencilla llamada puso en marcha una serie de acontecimientos que cambiarían el curso de la Historia.",
+      "back": "That simple phone call set in motion a series of events that would change the course of history.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Todo el mundo estuvo de acuerdo en que los nuevos trámites deberían ponerse en marcha lo antes posible.",
+      "back": "Everybody agreed that the new procedures should be set in motion as soon as possible.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Todo se pondrá en marcha en cuanto recibamos la señal.",
+      "back": "Everything will be set in motion as soon as we receive the signal.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "El prisionero fue puesto en libertad después de años de apelaciones.",
+      "back": "The prisoner was set free after years of appeals.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "¿Dejarías en libertad a todos los pájaros que hay enjaulados si pudieras?",
+      "back": "Would you set free all caged birds if you had the power?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "¿Deberían ponerse en libertad todos los animales salvajes que viven en cautividad inmediatamente?",
+      "back": "Should all wild animals in captivity be set free immediately?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "El dueño de la finca suelta a sus perros cada noche para proteger el recinto.",
+      "back": "The owner of the estate sets his dogs loose every night to protect the premises.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Cuando soltaron a los toros, todo el mundo corrió lo más rápido que pudo.",
+      "back": "When they set the bulls loose, everybody ran as fast as they could.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Alguien soltó a los caballos durante la noche.",
+      "back": "Somebody set the horses loose during the night.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¡El barco zarpa al amanecer!",
+      "back": "The ship sets sail at dawn!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "No podemos zarpar hasta que haga viento.",
+      "back": "We can't set sail until there's some wind.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¡Es hora de hacerse a la mar!",
+      "back": "It's time to set sail!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Los recién casados habían puesto toda su ilusión en comprar ese piso en particular, antes de que todo se viniera abajo.",
+      "back": "The newly-weds had set their heart on buying that particular flat, before it all fell through.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Desde que era niño, había deseado con todo su corazón tener un perro, hasta que cuando era adulto se enteró de que era alérgico a ellos.",
+      "back": "Since he was a child, he'd set his heart on owning a dog only to find out as an adult that he was allergic to them.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Si realmente pones toda tu ilusión en aprender inglés, seguramente triunfarás.",
+      "back": "If you really set your heart on learning English, you're bound to succeed.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Tony está empeñado en convertirse en el neurocirujano más joven del mundo.",
+      "back": "Tony has set his mind on becoming the youngest brain surgeon in the world.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¡Dios sabe por qué estará empeñado en ser terapeuta ocupacional!",
+      "back": "God knows why he set his mind on becoming an occupational therapist!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Él lleva empeñado en ser piloto desde la tierna edad de cinco años.",
+      "back": "He set his mind on being a pilot from the tender age of five.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Él tiene la mira puesta en convertirse en una estrella de Hollywood.",
+      "back": "He's setting his sights on becoming a Hollywood star.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Dorothy tenía la mira puesta en casarse con la realeza.",
+      "back": "Dorothy set her sights on marrying into royalty.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Tengo la mira puesta en llegar a ser alguien de renombre en el mundo del espectáculo.",
+      "back": "I've set my sights on making a name for myself in show-biz.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Nunca he visto a ese hombre en mi vida.",
+      "back": "I've never set eyes on that man before.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Me enamoré de ella la primera vez que la vi.",
+      "back": "I fell in love with her the first time I set eyes on her.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Cuando él lo vio por primera vez, sabía que ese era el que quería.",
+      "back": "When he first set eyes on it, he knew that was the one he wanted.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Christian no había cruzado el umbral de una iglesia antes de decidir convertirse en monje.",
+      "back": "Christian had never set foot in a church before he decided to become a monk.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Si alguna vez se vuelve a presentar en este pueblo, le dispararé.",
+      "back": "If he ever sets foot in this town again, I'll shoot him.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Apenas había entrado en casa cuando el teléfono empezó a sonar.",
+      "back": "I'd barely set foot in the door before the phone started ringing.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Me tendieron una trampa. No tenía ni idea de que me estaban grabando.",
+      "back": "I was set up. I had no idea it was being filmed.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Le tendieron una trampa a mi jefe porque necesitaban un cabeza de turco.",
+      "back": "My boss was set up as they needed a scapegoat.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Era obvio desde el principio que les habían tendido una trampa.",
+      "back": "It was clear from the outset that they had been set up.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Si quieres mi opinión, me parece que te han engañado.",
+      "back": "If you want my opinion, sounds like you've been taken for a ride.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Parece que les engañaron.",
+      "back": "Looks like they were taken for a ride.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Por lo que me estás contando, está claro que te timaron.",
+      "back": "From what you're saying, it's clear you were taken for a ride.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Me timaron y bien. Piqué con el truco más viejo del mundo.",
+      "back": "I was completely conned. I fell for the oldest trick in the book.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Me timaron y bien. No me puedo creer que picara con ese viejo truco.",
+      "back": "I was totally conned. I can't believe I fell for that old trick.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Nos timaron y bien. Esos tres tipos se hacían pasar por agentes de policía y nos lo tragamos.",
+      "back": "We were absolutely conned. Those three guys were posing as police officers and we fell for it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Me timaron un par de timadores.",
+      "back": "I was ripped off by a couple of con men.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Un estafador timó a mis padres vendiéndoles una participación en multipropiedad.",
+      "back": "My parents were ripped off by a con merchant who sold them time-share.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Si no quieres que te timen, no inviertas en multipropiedad.",
+      "back": "If you don't want to be ripped off, then don't buy time-share.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Me da por pensar que me han estafado.",
+      "back": "I somehow think I've been had.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "¡Te han estafado!",
+      "back": "You've been had!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Me da por sospechar que me timaron.",
+      "back": "I somehow suspect I was had.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Tienes que guardar algo de este dinero; nunca sabes lo que puede pasar en el futuro.",
+      "back": "You need to set some of this money aside; you never know what might happen in the future.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Vamos a tener que reservar algo de tiempo para poder pintar este dormitorio.",
+      "back": "We're going to have to set some time aside so that we can paint this bedroom.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Por qué no dejáis de lado vuestras diferencias e intentáis llevaros bien?",
+      "back": "Why don't you set aside your differences and try to get on?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Su increíble belleza le hace diferente a las otras actrices.",
+      "back": "Her incredible beauty sets her apart from the other actresses.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Qué crees que es lo que hace a Messi distinto al resto de futbolistas?",
+      "back": "What do you think it is that sets Messi apart from all other footballers?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Su prodigiosa memoria le hace diferente al resto de alumnos.",
+      "back": "His prodigious memory sets him apart from the other students.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Si tenemos que hacer todo este papeleo, nos retrasará varios meses.",
+      "back": "If we have to do all this paperwork, it will set us back months.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Cuando perdimos su respaldo financiero, fue un serio revés para el proyecto.",
+      "back": "When we lost their financial backing, it really set the project back.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "La boda de mi hija me va a costar una pequeña fortuna.",
+      "back": "My daughter's wedding is going to set me back a small fortune.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "No era nuestra intención llegar a ser el grupo musical más grande del mundo.",
+      "back": "We didn't set out to become the biggest band in the world.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Esto es lo que creo que nuestro negocio debería intentar conseguir.",
+      "back": "This is what I think our business should set out to achieve.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "¿Te propusiste hacerme daño o qué?",
+      "back": "Did you set out to hurt me or what?!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Parece que va a llover toda la noche.",
+      "back": "It looks like the rain has set in for the night.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Fue espantoso ver lo rápido que se desarrolló el cáncer.",
+      "back": "It was frightening how quickly the cancer set in.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Una vez que haya empezado a oxidarse, no podrás hacer nada para impedirlo.",
+      "back": "Once the rust has set in, you won't be able to do anything to stop it.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "¿Cuándo estaréis listos para marcharos?",
+      "back": "When will you be set to leave?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Está todo listo para la fiesta?",
+      "back": "Is everything set for the party?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Si estáis preparados y listos, ¡vámonos!",
+      "back": "If you're ready and set, let's go!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Estábamos totalmente preparados para iniciar la barbacoa cuando empezó a llover.",
+      "back": "We were all set to start the barbecue when it started to rain.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Cuando tú estés lista estaremos todos preparados para irnos.",
+      "back": "Whenever you're ready, we're all set to go.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "¿Listos?",
+      "back": "All set?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "¿Por qué estás tan decidido a abandonar la empresa?",
+      "back": "Why are you so set on leaving the company?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Está empeñada en que tiene que ser ese coche.",
+      "back": "She's dead set on that car.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Pensaba que estaban totalmente decididos a invertir en el proyecto.",
+      "back": "I thought they were dead set on investing in the project.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Sus padres se oponen completamente a la idea de que se casen.",
+      "back": "Her parents are dead set against the idea of them getting married.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Se oponen completamente a contarles la verdadera razón por la que sucedió.",
+      "back": "They're dead set against telling them the real reason why it happened.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Por qué te opones tanto a prestarles el dinero que necesitan para la casa?",
+      "back": "Why are you so set against lending them the money that they need for the house?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Yo que tú no me molestaría en intentar convencerle de lo contrario; es de ideas fijas.",
+      "back": "I wouldn't try to bother convincing her otherwise; she's very set in her ways.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "¿No puedes ser un poco más flexible? ¿Por qué tienes costumbres tan arraigadas?",
+      "back": "Can't you be a bit more flexible? Why are you so set in your ways?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "No vas a poder hacerle cambiar de opinión, ¿sabes? Tiene 82 años y tiene costumbres muy arraigadas.",
+      "back": "You won't be able to change his mind you know; he's 82 and very set in his ways.",
+      "sourcePage": 75
+    }
+  ]
+}

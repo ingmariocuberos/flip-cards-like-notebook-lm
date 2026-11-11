@@ -49,7 +49,10 @@ sources/*.pdf
 sources/**/*.pdf
 sources/**/*__chunks/
 sources/**/*__pngs/
-sources/english/*.ocr.txt
+sources/english/*.ocr*.txt
+sources/english/*.draft.tsv
+sources/english/*.layout*.jsonl
+sources/english/*__layout/
 drive-download-*.zip
 
 # --- Notas internas (workflow privado, no compartir) ---
