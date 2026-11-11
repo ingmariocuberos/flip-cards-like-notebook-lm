@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-17",
+  "bookTitle": "Libro 17",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Di que sí!",
+      "back": "Say yes!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "No quiero decir que sí.",
+      "back": "I don't want to say yes.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Quieres que diga que sí?",
+      "back": "Do you want me to say yes?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¡Di que no!",
+      "back": "Say no!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Por qué ella siempre dice que no?",
+      "back": "Why does she always say no?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "¡No siempre dice que no!",
+      "back": "She doesn't always say no!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Saluda!",
+      "back": "Say hello!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "No quiero saludar.",
+      "back": "I don't want to say hello.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Puedes decir «hola» en francés?",
+      "back": "Can you say 'hello' in French?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Me despediré antes de irme.",
+      "back": "I'll say goodbye before I leave.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "No quiero despedirme.",
+      "back": "I don't want to say goodbye.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Tú nunca dices adiós.",
+      "back": "You never say goodbye.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Discúlpate!",
+      "back": "Say sorry!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Quiero disculparme por todos los problemas.",
+      "back": "I'd like to say sorry for all the problems.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Nunca se disculpan cuando hacen algo malo.",
+      "back": "They never say sorry when they do something wrong.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Él dice que puede venir a la fiesta la semana que viene.",
+      "back": "He says he can come to the party next week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Dice que lo puede hacer mañana.",
+      "back": "He says he can do it tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Dice que puede echarte una mano el viernes.",
+      "back": "He says he can give you a hand on Friday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Ella dice que quiere ir a Brighton.",
+      "back": "She says she wants to go to Brighton.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Dice que quiere que vayas a Brighton también.",
+      "back": "She says she wants you to go to Brighton too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Dice que quiere comprar ropa en Brighton.",
+      "back": "She says she wants to buy some clothes in Brighton.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Ella dice que es una buena idea y él dice que también.",
+      "back": "She says it's a good idea and he says it's a good idea too.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella dice que no lloverá, pero él dice que sí.",
+      "back": "She says it won't rain, but he says it will rain.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Ella dice que será imposible, pero él dice que no.",
+      "back": "She says it will be impossible, but he says it won't be impossible.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Yo digo que estás loco si te gusta ella.",
+      "back": "I say you're crazy if you like her.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Les gusta ese nuevo grupo, pero yo digo que están locos.",
+      "back": "They like that new band, but I say they're crazy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Yo digo que él está loco si le gusta hacer eso.",
+      "back": "I say he's crazy if he likes doing that.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Él dice que vendrá, pero yo creo que no.",
+      "back": "He says he'll come, but I say he won't.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Ella dice que lo hará, pero yo creo que no.",
+      "back": "She says she'll do it, but I say she won't.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Matt dice que comprará ese coche, pero yo creo que no.",
+      "back": "Matt says he'll buy that car, but I say he won't.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Dicen que el inglés es difícil, pero no estoy de acuerdo.",
+      "back": "They say English is hard, but I don't agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Dicen que Alemania va a ganar el próximo Mundial, pero no estoy de acuerdo.",
+      "back": "They say Germany is going to win the next World Cup, but I don't agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Dicen que la situación va a mejorar, pero no estoy de acuerdo.",
+      "back": "They say the situation is going to get better, but I don't agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "La gente dice que es imposible y estoy de acuerdo.",
+      "back": "People say it's impossible and I agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "La gente dice que la empresa está cambiando y estoy de acuerdo.",
+      "back": "People say the company is changing and I agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "La gente dice que él nunca ganará y estoy de acuerdo.",
+      "back": "People say he will never win and I agree.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Estás de acuerdo con lo que dicen?",
+      "back": "Do you agree with what they say?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Está él de acuerdo con lo que dicen?",
+      "back": "Does he agree with what they say?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Estáis de acuerdo con lo que dicen?",
+      "back": "Do you agree with what they say?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Dicen que es un mal presidente. ¿Estás de acuerdo?",
+      "back": "They say he's a bad president. Do you agree?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Dicen que se tarda mucho tiempo en aprender bien un idioma. ¿Estás de acuerdo?",
+      "back": "They say it takes a long time to learn a language properly. Do you agree?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Dicen que él es un buen médico. ¿Estás de acuerdo?",
+      "back": "They say he's a good doctor. Do you agree?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Estoy de acuerdo contigo.",
+      "back": "I agree with you.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "No estoy de acuerdo con ellos.",
+      "back": "I don't agree with them.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Estás de acuerdo conmigo?",
+      "back": "Do you agree with me?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Cómo se dice «cacahuetes» en francés?",
+      "back": "How do you say \"peanuts\" in French?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Cómo se dice eso en inglés?",
+      "back": "How do you say that in English?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Cómo se dice «las afueras» en inglés?",
+      "back": "How do you say \"las afueras\" in English?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "No sé cómo se dice «chewing gum» en español.",
+      "back": "I don't know how you say \"chewing gum\" in Spanish.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "No sé cómo se dice «flipflops» en español.",
+      "back": "I don't know how you say \"flipflops\" in Spanish.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Joan no sabe cómo se dice «gloves» en español.",
+      "back": "Joan doesn't know how you say \"gloves\" in Spanish.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Sabes cómo se dice «chicle» en inglés?",
+      "back": "Do you know how you say \"chicle\" in English?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Sabes cómo se dice «guantes» en inglés?",
+      "back": "Do you know how you say \"guantes\" in English?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Sabes cómo se dice «chanclas» en inglés?",
+      "back": "Do you know how you say \"chanclas\" in English?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "No sé cómo decir «mushroom» en español.",
+      "back": "I don't know how to say \"mushroom\" in Spanish.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Sabes cómo decir «mushroom» en español?",
+      "back": "Do you know how to say \"mushroom\" in Spanish?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Estoy seguro de que Ian sabe cómo decir «mushroom» en español.",
+      "back": "I'm sure Ian knows how to say \"mushroom\" in Spanish.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Si tú lo dices!",
+      "back": "If you say so!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Bueno, ¡si tú lo dices!",
+      "back": "Well, if you say so!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Bueno, pues vale, ¡si tú lo dices!",
+      "back": "Well, alright then, if you say so!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Salúdales de mi parte!",
+      "back": "Say hello to them for me!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Quieres que yo la salude de tu parte?",
+      "back": "Do you want me to say hello to her for you?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¡Ven a decirnos hola! ¡No seas tímida!",
+      "back": "Come and say hello to us! Don't be shy!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Diles adiós a tus tíos.",
+      "back": "Say goodbye to your uncle and aunt.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No quiero decir adiós a mis tíos.",
+      "back": "I don't want to say goodbye to my uncle and aunt.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Puedes venir a decirles adiós, por favor?",
+      "back": "Can you come and say goodbye to them, please?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Quiero pedirle perdón a ella por mi comportamiento de anoche.",
+      "back": "I want to say sorry to her for my behaviour last night.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¡Pídele perdón a tu hermana!",
+      "back": "Say sorry to your sister!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Pídele perdón por ser tan maleducado!",
+      "back": "Say sorry to her for being rude!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Dime algo!",
+      "back": "Say something to me!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Ella está intentando decirte algo.",
+      "back": "She's trying to say something to you.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¡No les digas nada!",
+      "back": "Don't say anything to them!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿No quieres decirme nada?",
+      "back": "Don't you want to say anything to me?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Ella no quiere decirles nada?",
+      "back": "Doesn't she want to say anything to them?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Por qué no quieres decirle nada a ella?",
+      "back": "Why don't you want to say anything to her?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Vas a decirles algo?",
+      "back": "Are you going to say anything to them?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Qué le vas a decir a ella?",
+      "back": "What are you going to say to her?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Vas a pedirle perdón?",
+      "back": "Are you going to say sorry to him?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Les dirás algo si les ves?",
+      "back": "Will you say anything to them if you see them?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Le pedirán perdón si la ven?",
+      "back": "Will they say sorry to her if they see her?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Nos diréis adiós cuando os vayáis?",
+      "back": "Will you say goodbye to us when you leave?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Qué les dirás si no puedes ir?",
+      "back": "What will you say to them if you can't go?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Qué dirá ella si va a la reunión?",
+      "back": "What will she say if she goes to the meeting?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Qué dirán si no vas?",
+      "back": "What will they say if you don't go?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Lo harás si lo digo yo?",
+      "back": "Will you do it if I say so?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Te los comerás si lo digo yo?",
+      "back": "Will you eat them if I say so?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿La llamarás si lo digo yo?",
+      "back": "Will you call her if I say so?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Dirás algo acerca del problema?",
+      "back": "Will you say something about the problem?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Me apoyarás si digo algo acerca de la campaña comercial?",
+      "back": "Will you support me if I say something about the sales campaign?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Me escucharán si digo algo sobre ello en la reunión de la semana que viene?",
+      "back": "Will they listen to me if I say something about it at the meeting next week?",
+      "sourcePage": 19
+    }
+  ]
+}

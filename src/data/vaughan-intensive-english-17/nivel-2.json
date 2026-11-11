@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-17",
+  "bookTitle": "Libro 17",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Lisa dice que Matt no ha hecho nada que merezca la pena desde el 2000.",
+      "back": "Lisa says Matt hasn't done anything worthwhile since the year 2000.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Tom dice que Lisa compró una falda muy bonita ayer.",
+      "back": "Tom says Lisa bought a really nice skirt yesterday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Matt dice que Tom va a casa de su hermana todos los sábados.",
+      "back": "Matt says Tom goes to his sister's every Saturday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Andrés dijo que la empresa de Melissa ganaba mucho dinero.",
+      "back": "Andrés said Melissa's company made a lot of money.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Andrés dijo que Ian ganaba mucho más dinero que Lea.",
+      "back": "Andrés said Ian earned a lot more money than Lea.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Andrés dijo que no tenía sentido para él porque Lea trabajaba más duro que Ian.",
+      "back": "Andrés said it didn't make sense to him because Lea worked harder than Ian.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Eloísa dijo que iban de vacaciones a Costa de Marfil.",
+      "back": "Eloísa said they were going on holiday to the Ivory Coast.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Eloísa dijo que sus vecinos también iban de vacaciones a Costa de Marfil.",
+      "back": "Eloísa said her neighbours were going on holiday to the Ivory Coast too.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Eloísa dijo que todos los que conocía iban de vacaciones a Costa de Marfil.",
+      "back": "Eloísa said everybody she knew was going on holiday to the Ivory Coast.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Inés dijo que Lucas iba a hablar con Contabilidad sobre las condiciones de pago.",
+      "back": "Inés said Lucas was going to talk to Accounts about the payment terms.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Inés dijo que Matt y Melanie iban a hablar con el Departamento de Finanzas.",
+      "back": "Inés said Matt and Melanie were going to speak to the Finance Department.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Inés dijo que ella no iba a hablar con nadie sobre nada.",
+      "back": "Inés said she wasn't going to talk to anybody about anything.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Ella dijo que no hacían nada ese fin de semana.",
+      "back": "She said they weren't doing anything that weekend.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Él dijo que tenía que comprar suficiente comida para diez personas.",
+      "back": "He said he had to buy enough food for ten people.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Dije que no iba a comprar nada en la carnicería, sino en la panadería.",
+      "back": "I said I wasn't going to buy anything at the butchers, but that I was going to buy something at the baker's.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Miriam dijo que Sally y Luke habían nacido el mismo día.",
+      "back": "Miriam said Sally and Luke had been born on the same day.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Miriam dijo que Sally no se había criado con sus padres.",
+      "back": "Miriam said Sally hadn't been raised by her parents.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Miriam dijo que Sally se había criado con su tío y su tía.",
+      "back": "Miriam said Sally had been raised by her uncle and aunt.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Derek dijo que Mo Orfali había hecho su presentación sobre el parásito Echinococcus granulosus ayer.",
+      "back": "Derek said Mo Orfali had done his presentation on the parasite Echinococcus granulosus yesterday.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Derek dijo que sólo tres montañeros habían regresado al campamento base.",
+      "back": "Derek said only three mountaineers had made it back to the base camp.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Derek dijo que Gillian Sullivan había ganado un par de miles en un concurso televisivo.",
+      "back": "Derek said Gillian Sullivan had won a couple of grand on a game show.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Megan dijo que no había tenido ni un solo día libre desde 2003.",
+      "back": "Megan said she hadn't had a single day off since 2003.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Megan dijo que nunca nadie le había comprado nada.",
+      "back": "Megan said nobody had ever bought her anything.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Megan dijo que la habían robado en el autobús tres veces ese mes.",
+      "back": "Megan said she had been robbed on the bus three times so far this month.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Alberto dijo que cuidaría al perro de su hermana la semana siguiente.",
+      "back": "Alberto said he'd look after his sister's dog next week.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Alberto dijo que revisaría las propuestas de Richard a la mañana siguiente.",
+      "back": "Alberto said he'd look over Richard's proposals tomorrow morning.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Alberto dijo que él y Kyle buscarían la letra de la canción en internet.",
+      "back": "Alberto said he and Kyle would look the lyrics of the song up on the internet.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Alison dijo que no se tardaría mucho en cavar un hoyo en el jardín.",
+      "back": "Alison said it wouldn't take long to dig a hole in the garden.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Alison dijo que no tardaría mucho en limpiar sus zapatos.",
+      "back": "Alison said it wouldn't take her long to polish her shoes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Alison dijo que no tardarían mucho en marcar un gol.",
+      "back": "Alison said it wouldn't take them long to score a goal.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Brenda dijo que no soportaba que alguien se metiera el dedo en la nariz todo el día.",
+      "back": "Brenda said she couldn't put up with someone picking their nose all day.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Brenda dijo que no podía evitar preguntarse qué hacer después.",
+      "back": "Brenda said she couldn't help wondering what to do next.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "Brenda dijo que estaba deseando ver de nuevo a Harry.",
+      "back": "Brenda said she couldn't wait to meet Harry again.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Sue dijo que puede que se casara con Jamie en Fiyi.",
+      "back": "Sue said she might get married to Jamie in Fiji.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Sue dijo que puede que se mudara a Chicago el año siguiente con Jamie.",
+      "back": "Sue said she might move to Chicago next year with Jamie.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Sue dijo que puede que pidiera un traslado a la oficina de Chicago.",
+      "back": "Sue said she might ask to be transferred to the Chicago office.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Pam dijo que Phil debería cortarse el pelo.",
+      "back": "Pam said Phil should get his hair cut.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Pam dijo que Phil debería ponerse a régimen.",
+      "back": "Pam said Phil should go on a diet.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Pam dijo que Phil debería darse prisa.",
+      "back": "Pam said Phil should get a move on.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¡Pero si dijiste que dejarías el trabajo si no necesitaras el dinero!",
+      "back": "But you said you'd quit your job if you didn't need the money!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¡Pero si dijiste que viajaríamos por todo el mundo si ganaras la lotería!",
+      "back": "But you said that we'd travel around the world if you won the lottery!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¡Pero si dijiste que me comprarías un bonito apartamento si tuvieras más dinero!",
+      "back": "But you said you'd buy me a nice apartment if you had more money!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Juan dijo que podía ser que no fuera a la reunión del día siguiente.",
+      "back": "Juan said he might not go to the following day's meeting.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Melissa dijo que no podría asistir a la comida ese día.",
+      "back": "Melissa said she couldn't make it for lunch on that day.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Paul dijo que sabía distinguir un traje de cincuenta euros de uno de dos mil euros.",
+      "back": "Paul said he could tell the difference between a 50-euro suit and a 2,000-euro one.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Cómo decías que te llamabas?",
+      "back": "What did you say your name was?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Qué decías que has comido hoy?",
+      "back": "What did you say you had for lunch today?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Qué hora has dicho que era?",
+      "back": "What time did you say it was?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "¿De dónde decías que eres?",
+      "back": "Where did you say you were from again?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "¿Dónde decías que vivías?",
+      "back": "Where did you say you lived?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "¿Dónde has dicho que ibas?",
+      "back": "Where did you say you were going?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Cuántos años has dicho que tienes?",
+      "back": "How old did you say you were?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Cómo de rápido has dicho que puedes correr?",
+      "back": "How fast did you say you could run?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Cuánto has dicho que pesas?",
+      "back": "How much did you say you weighed?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Qué dijiste que preferías, té o café?",
+      "back": "Which one did you say you preferred, tea or coffee?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Qué tipo de leche has dicho que bebías, desnatada o semidesnatada?",
+      "back": "Which milk did you say you drank, skimmed or semi-skimmed?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Qué has dicho que querías, azúcar o sacarina?",
+      "back": "Which one did you say you wanted, sugar or saccharine?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Cuándo dijiste que ibas a ir a la Luna?",
+      "back": "When did you say you were going to the moon?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Cuándo has dicho que ibas a conocer a Meryl Streep?",
+      "back": "When did you say you were meeting Meryl Streep?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Cuándo dijiste que era tu cumpleaños?",
+      "back": "When did you say your birthday was?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "A Sally le cuesta mucho decir que no.",
+      "back": "Sally finds it very difficult to say 'no'.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Cree que está fallando a la gente cuando dice que no.",
+      "back": "She thinks that she lets people down by saying 'no'.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Por favor, di que sí.",
+      "back": "Please say 'yes'.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "La mayoría de la gente dijo que sí a la prohibición de fumar.",
+      "back": "Most people said 'yes' to a smoking ban.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Los votantes dijeron que no a apostar en los eventos deportivos.",
+      "back": "Voters said 'no' to betting on sports events.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Alemania dijo que no a las centrales nucleares.",
+      "back": "Germany said 'no' to nuclear power stations.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Liam no dijo ni una palabra en toda la reunión.",
+      "back": "Liam didn't say a word throughout the whole meeting.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "No digas ni pío.",
+      "back": "Don't say a word.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "¡No dije nada!",
+      "back": "I didn't say a word!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Asegúrate de levantarte cuando digan tu nombre.",
+      "back": "Make sure you stand up when they say your name.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "La mayoría de los ingleses no saben decir mi apellido.",
+      "back": "Most English people don't know how to say my surname.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Levanta la mano cuando la profesora diga tu nombre.",
+      "back": "Raise your hand when the teacher says your name.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella ni siquiera saludó a sus padres.",
+      "back": "She didn't even say hello to her parents.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Él ni siquiera le dio los buenos días a la gente de la sala de reuniones.",
+      "back": "He didn't even say good morning to the people in the meeting room.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Se marcharon sin siquiera despedirse.",
+      "back": "They left without even saying goodbye.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Es difícil decir cuánto tiempo durará.",
+      "back": "It's hard to say how long it'll last.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Es difícil decir cuánta gente estará allí.",
+      "back": "It's hard to say how many people will be there.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Es difícil decir quién ganará el partido.",
+      "back": "It's hard to say who'll win the match.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Es justo decir que no éramos los únicos.",
+      "back": "It's fair to say that we weren't the only ones.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Es justo decir que nunca fuimos amigos íntimos.",
+      "back": "It's fair to say that we were never close friends.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Es justo decir que nadie le echará de menos a él por aquí.",
+      "back": "It's fair to say that nobody will miss him around here.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Se puede decir sin temor a equivocarse que no seremos los últimos.",
+      "back": "It's safe to say that we won't be the last.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Se puede decir sin temor a equivocarse que yo era el único testigo.",
+      "back": "It's safe to say that I was the only witness.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Se puede decir sin temor a equivocarse que no volveremos a oír hablar de ellos.",
+      "back": "It's safe to say that we won't hear from them again.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Es demasiado pronto como para decir si vendrán o no.",
+      "back": "It's too early to say whether they'll come or not.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Es demasiado pronto como para decir si hemos vendido suficientes para cubrir nuestros gastos generales.",
+      "back": "It's too early to say whether we've sold enough to cover our overheads.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Es demasiado pronto como para decir si van a organizar otra gira.",
+      "back": "It's too early to say whether they're going to plan another tour.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Es imposible decir lo que harán después.",
+      "back": "It's impossible to say what they'll do next.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Es imposible decir cuántos realmente eran parte de la protesta.",
+      "back": "It's impossible to say how many were actually part of the protest.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Es imposible decir cuánto tiempo tardaremos en terminar el libro.",
+      "back": "It's impossible to say how long it'll take us to finish the book.",
+      "sourcePage": 47
+    }
+  ]
+}

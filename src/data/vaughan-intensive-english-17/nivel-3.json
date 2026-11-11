@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-17",
+  "bookTitle": "Libro 17",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "La cena en aquel restaurante fue excelente. Dicho esto, apenas tocamos el postre porque ya estábamos muy llenos.",
+      "back": "The meal we had at that restaurant was excellent. Having said that, we hardly touched the dessert as we were so full.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Eso tiene diez años. Dicho esto, apenas necesita ningún arreglo.",
+      "back": "It is ten years old. Having said that, it hardly needs anything doing to it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Es un documento muy importante. Dicho esto, apenas es necesario un equipo de búsqueda para encontrarlo.",
+      "back": "It's a very important document. Having said that, it hardly warrants a search party to find it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "A lo mejor deberíamos haber hecho un esfuerzo extra. Dicho esto, ellos casi nunca tiran la casa por la ventana cuando reciben visitas.",
+      "back": "Maybe we should have made more of an effort. Having said that, they hardly ever push the boat out when they have visitors.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Somos muy buenos amigos. Dicho esto, casi nunca quedamos para vernos.",
+      "back": "We're very good friends. Having said that, we hardly ever see each other socially.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Me encanta viajar en tranvía cuando visito esa ciudad. Dicho esto, es muy lento y casi nunca llega a su hora.",
+      "back": "I love travelling by tram when I visit that city. Having said that, it is very slow and hardly ever arrives on time.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Todo el mundo dijo cuánto disfrutaba de la comida. Dicho esto, casi nadie quiso repetir.",
+      "back": "Everyone said how much they enjoyed the meal. Having said that, hardly anyone wanted a second helping.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Me habría muerto de vergüenza cuando Bob intentó arreglar el mundo. Dicho esto, casi nadie le hizo caso.",
+      "back": "I could have died when Bob started putting the world to rights. Having said that, hardly anyone took any notice of him.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Pensé que el precio de la entrada era abusivo. Dicho esto, a casi nadie parecía importarle: el lugar estaba abarrotado.",
+      "back": "I thought that the ticket price was extortionate. Having said that, hardly anyone seemed to mind: the place was packed.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Todo el mundo en la reunión parecía feliz. Dicho esto, no se abordó casi ningún tema de importancia.",
+      "back": "Everyone at the meeting seemed happy. Having said that, hardly anything of importance was broached.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Fue una buena película. Dicho esto, casi nada ocurrió durante la primera media hora.",
+      "back": "It was a good movie. Having said that, hardly anything happened for the first half an hour.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Eso podría haber sido un desastre total. Dicho esto, casi nada salió mal.",
+      "back": "That could so easily have been a complete disaster. Having said that, hardly anything went wrong.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Nunca he oído una pieza de música tan discordante. Dicho esto, casi nadie se fue durante la actuación.",
+      "back": "I've never heard such a discordant piece of music in my life. Having said that, barely anyone left during the performance.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Lo pasamos muy bien en el concierto. Dicho esto, apenas podíamos ver nada desde el fondo de la sala.",
+      "back": "We had a great time at the concert. Having said that, we could barely see anything from where we were at the back of the hall.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Fue un discurso vehemente. Dicho esto, él apenas tocó los asuntos importantes, como la economía.",
+      "back": "It was a rousing speech. Having said that, he barely touched on the important issues, such as the economy.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Corta el césped y luego poda las rosas. Vale, como tú digas.",
+      "back": "Mow the lawn and then prune the roses. Ok, if you say so.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "El clima en Londres no es tan malo como piensas. Vale, como tú digas.",
+      "back": "The weather in London is not as bad as you think. Ok, if you say so.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Baraja las cartas y entonces dame cuatro. Vale, como tú digas.",
+      "back": "Shuffle the cards and then deal me four. Ok, if you say so.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Éste es un punto gramatical muy interesante, modestia aparte.",
+      "back": "This is a very interesting grammar point, even if I do say so myself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Éste tiene que ser uno de los mejores cursos de inglés del mundo, modestia aparte.",
+      "back": "This has to be one of the best English courses in the world, even if I do say so myself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "La cena que preparé anoche fue una de las más sabrosas que he comido en mucho tiempo, modestia aparte.",
+      "back": "The meal I cooked last night was one of the tastiest I've had for a long time, even if I do say so myself.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Enviaron el dinero la semana pasada. Al menos eso es lo que ellos dicen.",
+      "back": "They sent the money last week, or so they say.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Él y sus amigos ya han cumplido dieciocho años, al menos eso es lo que él dice.",
+      "back": "He and his friends are all over eighteen, or so he says.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella habla inglés, francés y alemán con soltura, al menos eso es lo que dice.",
+      "back": "She speaks fluent English, French and German, or so she says.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Si estás en desacuerdo con cualquier cosa que digo, ¡dilo!",
+      "back": "If you disagree with anything I say, say so!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Si no te apetece alojarte en un albergue juvenil, ¡dilo!",
+      "back": "If you don't feel like staying in a youth hostel, say so!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Si no quieres una comida de tres platos, ¡dilo!",
+      "back": "If you don't want to have a three-course meal, say so!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Si estabas en desacuerdo con algo que decía, ¡habérmelo dicho antes!",
+      "back": "If you disagreed with something I said, why didn't you say so before?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Si no te apetecía alojarte en un albergue juvenil, ¡habérmelo dicho antes!",
+      "back": "If you didn't feel like staying in a youth hostel, why didn't you say so before?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Si no querías una comida de tres platos, ¡habérmelo dicho antes!",
+      "back": "If you didn't want to have a three-course meal, why didn't you say so before?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "No hace falta decir que no volveremos a invitar a Chuck y a su caniche a nuestro piso.",
+      "back": "It goes without saying that we won't be inviting Chuck and his poodle to our flat again.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "No hace falta decir que todo el mundo involucrado se avergonzó de lo que habían hecho.",
+      "back": "It goes without saying that everyone involved was thoroughly ashamed of what they had done.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "No hace falta decir que estamos muy felices con tu trabajo y compromiso.",
+      "back": "It goes without saying that we're all over the moon with your work and commitment.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Ni que decir tiene que nadie se ofreció a ayudarme a limpiar la lámpara de araña.",
+      "back": "Needless to say, no one offered to help me clean the chandelier.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Ni que decir tiene que nadie fue lo suficientemente fuerte para mover la roca.",
+      "back": "Needless to say, nobody was strong enough to move the boulder.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Ni que decir tiene que salimos del edificio en llamas lo más rápido posible.",
+      "back": "Needless to say, we got out of the burning building as fast as we could.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¡Nos salvamos por los pelos! ¡Ya lo creo que sí!",
+      "back": "That was a close shave! You can say that again!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Ésa fue la peor película que he visto nunca. ¡Ya lo creo que sí!",
+      "back": "That was probably the worst movie I've ever seen! You can say that again!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "¡Qué contento estoy de estar de nuevo en casa! ¡Ya lo creo que sí!",
+      "back": "Boy, am I pleased to be back home! You can say that again!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Bill ha cogido una enfermedad tropical rara? ¡No me digas!",
+      "back": "Bill's caught a rare tropical disease?! You don't say!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¿El equipo de fútbol entero estuvo en una sola habitación de hotel? ¡No me digas!",
+      "back": "The whole football team was in that one hotel room?! You don't say!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¿La economía mundial se ha recuperado y ya no hay nada por lo que preocuparse? ¡No me digas!",
+      "back": "The world economy has made a sudden recovery and there's now nothing to worry about?! You don't say!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Qué quieres que te diga? A todo el mundo le encantó mi actuación.",
+      "back": "What can I say? Everyone loved my performance.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Qué quieres que te diga? Las mujeres caen a mis pies.",
+      "back": "What can I say? Women just fall at my feet.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Qué quieres que te diga? Todo el mundo piensa que soy lo más de lo más.",
+      "back": "What can I say? Everyone thinks I'm the bee's knees!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "No vale con decir lo que te dé la gana. (con «whatever»)",
+      "back": "You can't just say whatever you like.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "No vale con decir lo que te dé la gana cuando te dé la gana.",
+      "back": "You can't just say whatever you like whenever you like.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "No vale con decir lo que te dé la gana a quien te dé la gana.",
+      "back": "You can't just say whatever you like to whoever you like.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "No vale con decir lo que te apetezca.",
+      "back": "You can't just say anything you feel like.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "No vale con decir lo que te dé la gana. (con «anything»)",
+      "back": "You can't just say anything you want to.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "No vale con decir lo que te venga en gana.",
+      "back": "You can't just say anything you fancy.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "No vale con decir cualquier cosa.",
+      "back": "You can't just say any old thing.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "No vale con decir cualquier tontería.",
+      "back": "You can't just say any old rubbish.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "No vale con decir cualquier chorrada.",
+      "back": "You can't just say any old nonsense.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "No vale con decir lo primero que se te pase por la cabeza.",
+      "back": "You can't just say the first thing that comes into your head.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "No vale con decir lo primero que se te ocurra.",
+      "back": "You can't just say the first thing that crosses your mind.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "No vale con decir lo primero que estés pensando.",
+      "back": "You can't just say the first thing you think of.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "No vale con no decir nada y dejarlo así.",
+      "back": "You can't just not say anything and leave it at that!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "No vale con decir eso y no hacer nada al respecto.",
+      "back": "You can't just say that and not do anything about it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "No vale con decir eso y no respaldarlo con hechos.",
+      "back": "You can't just say that and not back it up with facts.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "¡Silencio, por favor! ¡Ya has dicho lo que piensas!",
+      "back": "Be quiet, please! You've already had your say!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Todo el mundo tendrá la oportunidad de dar su opinión al terminar mi discurso.",
+      "back": "Everyone will have a chance to have their say at the end of my speech.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Al final dijo lo que tenía que decir y luego se marchó feliz.",
+      "back": "He eventually got his say and then he left a happy man.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "¿Cuándo me vas a dejar decir lo que pienso?",
+      "back": "When are you going to let me have my say?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "¡Silencio! Déjale que dé su opinión.",
+      "back": "Sshhh! Let him have his say!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "¡Llevas toda la noche hablando! ¿Por qué no te callas y dejas que alguien más hable?",
+      "back": "You've been talking all night! Why don't you shut up and let somebody else have their say?!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Cuándo tendré voz y voto en la gestión de esta empresa?",
+      "back": "When will I have a say in how things are run in this company?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Creo que es hora de que yo tenga voz y voto en cómo gastamos el dinero.",
+      "back": "I think it's about time I had a say in how the money is spent.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Puede que no sea un político elegido, pero el banquero más importante del país tiene mucha influencia en el gobierno.",
+      "back": "He may not be an elected politician, but I can assure you that as the country's most important banker he has a big say in the present government.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "En realidad, ni pincho ni corto en la forma en que se gestiona el país.",
+      "back": "I really have no say in how the country is run.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No te servirá de nada enfadarte conmigo: no tuve ni voz ni voto en la decisión de despedirte.",
+      "back": "It's no good getting angry with me; I had no say in the decision to fire you!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "No me lo preguntes a mí; no tengo ni voz ni voto.",
+      "back": "Don't ask me; I don't have any say in the matter.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "¿Por qué siempre tienes que tener la última palabra?",
+      "back": "Why do you always have to have the final say?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Podéis debatirlo todo lo que queráis, pero yo tengo la última palabra.",
+      "back": "You can talk about it for as long as you like, but I'm the one who has the final say.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "¿Quién lleva la voz cantante aquí?",
+      "back": "Who has the final say around here?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Según el informe, la obesidad infantil está aumentando rápidamente.",
+      "back": "The report stated that child obesity is increasing rapidly.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Él ha declarado públicamente que no tiene ninguna intención de dimitir.",
+      "back": "He publicly stated that he has no intention of resigning.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "«El dinero no me ha cambiado», aseguró la ganadora de la lotería mientras su mayordomo le servía caviar.",
+      "back": "Money hasn't changed me, the lottery winner stated firmly, while her butler served her caviar on a gold plate.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Él comentó lo hermosa que estaba.",
+      "back": "He remarked on how beautiful she was looking.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "«Tienes muy mal aspecto», dijo ella.",
+      "back": "You look terrible, she remarked.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "¿Por qué nadie ha mencionado que su mujer es treinta y tres años más joven que él?",
+      "back": "Why hasn't anyone remarked on the fact that his wife is thirty-three years younger than him?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "El ministro de Exteriores ha declarado que la guerra está entrando en una etapa decisiva.",
+      "back": "The foreign secretary has declared that the war is entering a crucial stage.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Si pierdo el juicio, tendré que declararme en bancarrota.",
+      "back": "If I lose the case, I'll have to declare bankruptcy.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "No te puedes autoproclamar ganador hasta que hayan contado todos los votos.",
+      "back": "You can't declare yourself the winner until all the votes have been counted.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Él alega que el alcalde intentó sobornarle.",
+      "back": "He alleges that the mayor tried to bribe him.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Se dice que no ha sido del todo honesto en sus negocios.",
+      "back": "He is alleged to have been less than honest in his business.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "No digo que operaras ilegalmente en Bolsa; alego que supuestamente lo hiciste.",
+      "back": "I'm not saying that you were involved in illegal share dealings; I'm alleging that you were involved in illegal share dealings.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Ella dijo: «No voy a salir contigo, eres muy feo».",
+      "back": "She went \"I'm not going out with you, you're well ugly\".",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Él dijo: «Me importa un pepino, Tracy, porque tienes una cara horrible».",
+      "back": "He went \"I don't give a monkey's, Tracy, 'cos you've got a face like a bulldog chewing a wasp!\"",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Dice él: «No lo voy a hacer», y ella: «Pues yo tampoco».",
+      "back": "He goes \"I ain't doing it\" and then she goes: \"Well, I ain't doing it either\".",
+      "sourcePage": 75
+    }
+  ]
+}
