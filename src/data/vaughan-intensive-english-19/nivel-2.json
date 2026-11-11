@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-19",
+  "bookTitle": "Libro 19",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Crees que mi amiga Kylie y su marido se podrían hospedar en tu casa las dos próximas noches?",
+      "back": "Do you think you could put my friend Kylie and her husband up for the next two nights?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Les ofrecimos a los Collier que se alojaran en casa cuando vinieran a la ciudad.",
+      "back": "We offered to put up the Colliers when they came to town.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "¿Me puedo alojar en tu casa durante unos días mientras estoy en Oslo?",
+      "back": "Can you put me up for a few days while I'm in Oslo?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Mi marido y yo dormimos en dormitorios diferentes porque no soporto sus ronquidos.",
+      "back": "My husband and I sleep in different bedrooms because I can't put up with his snoring.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Le ofrecimos a Lisa que se alojara en casa una semana, pero no creo que pueda aguantarla tanto tiempo.",
+      "back": "We offered to put Lisa up for a week, but I don't think I'll be able to put up with her for that long!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "¿Cómo soportas a una persona que está todo el día hablando a las espaldas de los demás?",
+      "back": "How can you put up with someone talking behind other people's backs all day?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Alberto puso su apartamento en venta porque se había quedado demasiado pequeño para él y su novia.",
+      "back": "Alberto put his flat up for sale because it had become too small for him and his girlfriend.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Raúl subastó su cuadro favorito porque necesitaba dinero para comprarle un anillo de boda a Alison.",
+      "back": "Raúl put his favourite painting up for auction because he needed money to buy Alison an engagement ring.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Richard y Ana pusieron su casa en venta porque no soportaban el ruido que hacían sus vecinos.",
+      "back": "Richard and Ana put their house up for sale because they couldn't put up with all the noise that their neighbours made.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Roula dio a su hijo en adopción en 1982.",
+      "back": "Roula put up her son for adoption in 1982.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Si Megan se quedara embarazada, daría a su bebé en adopción porque no soporta a los niños.",
+      "back": "If Megan got pregnant, she would put the baby up for adoption because she can't put up with children.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "La hija de Marissa tenía solo una semana cuando la dieron en adopción.",
+      "back": "Marissa's daughter was only one week old when she was put up for adoption.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "No quería hacerlo, pero él me empujó a ello.",
+      "back": "I didn't want to do it, but he put me up to it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "No culpes a David; fue idea de Peter: él me empujó a ello.",
+      "back": "Don't blame David, it was Peter's idea; he put me up to it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "No estoy enfadado con tus amigos; ellos no te empujaron a ello.",
+      "back": "It's not your friends I'm angry with; they didn't put you up to it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Tuvieron que retrasar la reunión sobre enfermedades infecciosas emergentes.",
+      "back": "They had to put the meeting on emerging infectious diseases back.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Puede que retrasemos la reunión para el 2 de junio.",
+      "back": "We might put the meeting back to the 2nd of June.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Su jefe quiere que retrasemos cinco horas la reunión de hoy.",
+      "back": "His boss wants us to put today's meeting back five hours.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "El último domingo de octubre atrasamos los relojes a las dos y ganamos una hora extra.",
+      "back": "We put the clocks back at 2 a.m. on the last Sunday in October and we gain an extra hour.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Atrasamos los relojes una hora.",
+      "back": "We put the clocks back one hour.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "No olvides atrasar los relojes una hora esta noche.",
+      "back": "Don't forget to put the clocks back an hour tonight.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "El último domingo de abril adelantamos los relojes a las dos y perdemos una hora de noche.",
+      "back": "We put the clocks forward at 2 a.m. on the last Sunday in April and we lose an hour during the night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Adelantamos los relojes para el horario de verano.",
+      "back": "We put the clocks forward for daylight saving time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Hay más luz por las tardes y menos por las mañanas cuando adelantamos los relojes.",
+      "back": "Afternoons have more daylight and mornings have less when we put the clocks forward.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Él es muy travieso y nunca vuelve a poner nada en su sitio.",
+      "back": "He's very naughty and never puts anything back where it belongs.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Asegúrate de volver a poner ese libro donde lo cogiste.",
+      "back": "Make sure you put that book back where you got it from.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Después de hojear la revista la volví a poner en su sitio.",
+      "back": "After leafing through the magazine, I put it back where it was before.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "La ginecóloga dijo: «Puede vestirse ahora».",
+      "back": "The gynecologist said: \"You can put your clothes back on now.\"",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Decidieron atrasar la reunión, así que volvimos a poner los contratos en nuestros maletines y nos fuimos.",
+      "back": "They decided to put the meeting back, so we put the contracts back into our briefcases and left.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Me di cuenta de que algo goteaba, así que volví a poner el coche en el garaje.",
+      "back": "I realized something was leaking, so I put my car back in the garage.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Sus padres le regañan cada vez que se niega a guardar los juguetes.",
+      "back": "His parents tell him off every time he refuses to put away his toys.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Qué te parece si tú guardas los platos y yo la ropa?",
+      "back": "How about you put the dishes away and I put the clothes away?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Cuántas veces tengo que decirle a mi marido que guarde las herramientas en el cobertizo?",
+      "back": "How many times do I have to tell my husband to put the tools away in the shed?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Richard necesita guardar dinero para cuando lleguen las vacas flacas.",
+      "back": "Richard needs to put some money away for a rainy day.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Alberto está ahorrando dinero para comprar un apartamento más grande.",
+      "back": "Alberto's putting some money away to buy a bigger flat.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Alison ahorró dinero y se compró un descapotable.",
+      "back": "Alison put some money away and bought herself a convertible.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Encerraron a Rob «el pirómano» durante diez años por quemar 10.000 hectáreas de bosque.",
+      "back": "Rob \"the arsonist\" was put away for ten years after burning 10,000 hectares of forest.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Encerraron a James «el ladrón de tiendas» después de robar toda la ropa de El Corte Francés.",
+      "back": "James \"the shoplifter\" was put away after stealing all the clothes from El Corte Francés.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Han encerrado a Stewart «el violador» para que siga un largo tratamiento.",
+      "back": "Stewart \"the rapist\" has been put away for long-term treatment.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Nunca he visto a nadie engullir donuts de esa manera.",
+      "back": "I've never seen anyone put doughnuts away like that.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Anita es capaz de zamparse una caja entera de bombones.",
+      "back": "Anita is capable of putting away a whole box of chocolates.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Tenía tanta hambre que me zampé dos hamburguesas.",
+      "back": "I was so peckish I put two burgers away!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Raúl ha estado ahorrando dinero para comprarle un anillo de boda a Alison.",
+      "back": "Raúl has been putting some money away to buy Alison an engagement ring.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "En lo que va de mes han encerrado a 459 delincuentes.",
+      "back": "So far this month, 459 criminals have been put away.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Después de guardar sus herramientas, se zampó dos pizzas.",
+      "back": "After putting away his tools, he put two pizzas away!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "El técnico desmontó la caldera y no supo volver a montarla.",
+      "back": "The technician took the boiler apart and didn't know how to put it back together!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Si desmontaras tu portátil, ¿sabrías volver a montarlo?",
+      "back": "If you took your laptop apart, would you know how to put it back together?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Él usó el destornillador y la llave inglesa para desmontar la aspiradora y volver a montarla.",
+      "back": "He used the screwdriver and spanner to take the vacuum cleaner apart and put it back together.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Cogí el bolígrafo y cuando terminé de escribir las 50 tarjetas de Navidad que tenía, lo solté.",
+      "back": "I picked up the pen and when I finished writing the 50 Christmas cards I had, I put it down.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Es un libro tan interesante que cada vez que lo cojo no lo puedo dejar.",
+      "back": "It's such an interesting book that whenever I pick it up I can't put it down!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "El jugador cogió dos cartas de la baraja y dejó cinco en la mesa.",
+      "back": "The player picked two cards up from the deck and put five down on the table.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Colgamos un cartel para que la gente supiera dónde era la fiesta y lo descolgamos cuando se acabó.",
+      "back": "We put a sign up to let everybody know where the party was and took it down when it was over.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Los albañiles pusieron los andamios y los quitaron cuando se terminó el edificio.",
+      "back": "The builders put the scaffolding up and took it down when the building was finished.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "La próxima semana pondrán las luces en este pueblo y las quitarán cuando se terminen las fiestas.",
+      "back": "Next week they'll put the lights up in this village and take them down when the local holidays are over.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Cuando Sally llegó a casa se quitó el uniforme del colegio y se puso el pijama.",
+      "back": "When Sally got home she took her school uniform off and put her pyjamas on.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Después del trabajo Charles siempre se quita el traje y se pone el chándal.",
+      "back": "After work, Charles always takes his suit off and puts his tracksuit on.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Fui al vestuario a quitarme la ropa y ponerme el bañador.",
+      "back": "I went to the changing room to take my clothes off and put my swimming costume on.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Han subido sus precios para cubrir costes.",
+      "back": "They've put up their prices in order to cover costs.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Es probable que las compañías aéreas suban los precios en un cinco por ciento.",
+      "back": "Airline companies are likely to put up prices by 5%.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Los ingresos del turismo internacional descendieron el año pasado en el tercer trimestre.",
+      "back": "International tourism revenue went down during the third quarter last year.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Jamás te lo juegues todo a una sola carta.",
+      "back": "Never put all your eggs in one basket.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "No me lo quise jugar todo a una carta, así que compré más de un décimo de lotería.",
+      "back": "I didn't want to put all my eggs in one basket, so I bought more than one lottery ticket.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Puedes permitirte jugártelo todo a una carta?",
+      "back": "Can you afford to put all your eggs in one basket?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "¿No crees que estás empezando la casa por el tejado buscando un vestido de novia antes de que Mathew te pida que te cases con él?",
+      "back": "Aren't you putting the cart before the horse by looking for a wedding dress before Mathew has proposed to you?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Hacer lo contrario sería empezar la casa por el tejado.",
+      "back": "Doing the opposite would be to put the cart before the horse.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Hacer eso es, en lo que a mí respecta, empezar la casa por el tejado.",
+      "back": "Doing that is, as far as I'm concerned, to put the cart before the horse.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Necesito algunas ideas para mi libro, así que sería fantástico si pudieras estrujarte el cerebro.",
+      "back": "I need some ideas for my book, so it would be great if you could put your thinking cap on.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Todavía tengo muchas hojas que escribir, así que debería estrujarme las neuronas.",
+      "back": "I still have a lot of pages to write, so I should put my thinking cap on.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Él debe estrujarse el cerebro si quiere impresionar a los inversores.",
+      "back": "He must put his thinking cap on if he wants to impress the investors.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Hay algo que me resulta raro de mi vecino, pero no sabría decir exactamente qué es.",
+      "back": "There's something weird about my neighbour, but I can't quite put my finger on it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Sé que algo va mal, pero no sé decir exactamente qué es.",
+      "back": "I know there's something wrong, but I can't put my finger on exactly what it is.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Estás diferente, pero no sé decir exactamente en qué.",
+      "back": "Something is different about you, but I can't put my finger on it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Después de que saliera cinco noches seguidas con sus compañeros de trabajo, su mujer decidió plantarse.",
+      "back": "After he went out five nights in a row with his workmates, his wife decided to put her foot down.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Cuando mi hermana empezó a coger mi coche sin permiso, tuve que plantarme.",
+      "back": "When my sister started borrowing my car without asking, I had to put my foot down.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "No puedes dejar que tu hijo te conteste; tendrás que imponerte.",
+      "back": "You can't let your son answer back; you'll have to put your foot down.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Cómo lo diría? Tu idea fue la peor que he oído jamás.",
+      "back": "How can I put it? Your idea was the worst I've ever heard.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Cómo lo diría? ¡Estás despedido!",
+      "back": "How can I put this? You're sacked!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Cómo te diría? La casa fue derribada hace solo dos años.",
+      "back": "How can I put it? The house was knocked down only two years ago.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Te diré lo siguiente: no les invitaremos a casa en el futuro inmediato.",
+      "back": "Let's put it this way: we won't be inviting them around in the foreseeable future.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Te diré lo siguiente: no era precisamente Pavarotti.",
+      "back": "Let's put it this way: he was no Pavarotti.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Te diré lo siguiente: tendrás noticias de mi abogado.",
+      "back": "Let me put it this way: you'll be hearing from my lawyer.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Esa no fue la mejor película que he visto, por no decir algo peor.",
+      "back": "That wasn't the greatest film I've seen, to put it mildly.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Estaba un poquitito enfadado, por no decir algo peor.",
+      "back": "I was a little bit miffed, to put it mildly.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Estábamos un poco asustados, por no decir algo peor.",
+      "back": "We were all a little scared, to put it mildly.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "No te quiero, hablando en plata.",
+      "back": "I don't love you, to put it bluntly.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Hablando claro, eres aburridísimo.",
+      "back": "To put it bluntly, you're really boring.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Tu italiano es una porquería, hablando en plata.",
+      "back": "Your Italian sucks, to put it bluntly.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Bueno, si lo dices así, ¿cómo puedo negarme?",
+      "back": "Well, if you put it like that, how can I say no?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Bueno, si lo dices así, ya no parece tan importante.",
+      "back": "Well, if you put it like that, it doesn't seem quite so important.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Bueno, si lo dices así, haré los deberes ahora mismo.",
+      "back": "Well, if you put it like that, I'll do my homework right away!",
+      "sourcePage": 47
+    }
+  ]
+}

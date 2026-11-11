@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-19",
+  "bookTitle": "Libro 19",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Lo pondré en la mesa de nuevo.",
+      "back": "I'll put it back on the table.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Puedes poner tu libro de nuevo en la estantería?",
+      "back": "Can you put your book back on the bookshelf?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¡No lo pongas de nuevo en el suelo!",
+      "back": "Don't put it back on the floor!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Los pondré de nuevo debajo de la mesa.",
+      "back": "I'll put them back under the table.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Por qué lo estás poniendo de nuevo ahí debajo?",
+      "back": "Why are you putting it back under there?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Quiero que pongas esto debajo del árbol de Navidad de nuevo.",
+      "back": "I want you to put this back under the Christmas tree.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Ponlo de nuevo al lado de la tele.",
+      "back": "Put it back by the television.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Quieres que lo vuelva a poner al lado de la nevera?",
+      "back": "Do you want me to put it back next to the fridge?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "No lo vuelvas a poner al lado del piano.",
+      "back": "Don't put it back beside the piano.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Voy a poner mis cosas cerca de las tuyas.",
+      "back": "I'm going to put my things near yours.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "No pongas tu vaso cerca del borde.",
+      "back": "Don't put your glass close to the edge.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Quieres poner tus zapatos mojados cerca del radiador?",
+      "back": "Do you want to put your wet shoes near the radiator?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Por qué no pones tus cosas en esta caja?",
+      "back": "Why don't you put your things in this box?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Puedo poner mis gafas de sol en tu bolso?",
+      "back": "Can I put my sunglasses in your handbag?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Ponlos en el coche y podemos volver a por ellos más tarde.",
+      "back": "Just put them in the car and we can come back for them later.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Puedes poner esa caja detrás del sofá, por favor?",
+      "back": "Can you put that box behind the sofa, please?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Quieres que ponga los tomates detrás de los puerros?",
+      "back": "Do you want me to put the tomatoes behind the leeks?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "No puedo poner los tomates detrás de los puerros; los pondré detrás de las zanahorias.",
+      "back": "I can't put the tomatoes behind the leeks; I'll put them behind the carrots.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Quieres que ponga los cartones de leche delante de los cartones de zumo o detrás de ellos?",
+      "back": "Do you want me to put the milk cartons in front of the juice cartons or behind them?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Voy a poner la pasta delante del arroz. ¿Está bien así?",
+      "back": "I'm going to put the pasta in front of the rice. Is that OK?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Estoy poniendo el arroz delante de la harina porque no lo puedo poner detrás del azúcar. ¿Está bien así?",
+      "back": "I'm putting the rice in front of the flour because I can't put it behind the sugar. Is that OK?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¡No pongas las latas de tomate encima de los plátanos o se espachurrarán!",
+      "back": "Don't put the tomato tins on top of the bananas or they'll get squashed!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¡No pongas la comida de los gatos encima del bizcocho o se espachurrará!",
+      "back": "Don't put the cat food on top of the cake or it'll get squashed!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¡No pongas las patatas encima del queso o se espachurrará!",
+      "back": "Don't put the potatoes on top of the cheese or it'll get squashed!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Pon la mayonesa entre los pepinillos y las aceitunas.",
+      "back": "Put the mayonnaise between the gherkins and the olives.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Quieres que ponga las latas de tomate entre las latas de maíz y las de aceitunas?",
+      "back": "Do you want me to put the tomato tins between the sweet corn tins and the olive tins?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Estoy poniendo las latas de cerveza entre las de tónica y las de gaseosa. ¿Está bien así?",
+      "back": "I'm putting the cans of beer between the cans of tonic and the cans of lemonade. Is that OK?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Pon la carne y el pescado juntos.",
+      "back": "Put the meat and the fish together.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Puedes poner las manzanas y las peras juntas, por favor?",
+      "back": "Can you put the apples and pears together, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Estoy poniendo el azúcar y la harina en la misma estantería. ¿Está bien así?",
+      "back": "I'm putting the sugar and flour together on the same shelf. Is that OK?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Voy a colgar tu cuadro. ¿Dónde quieres que lo cuelgue?",
+      "back": "I'm going to put up your picture. Where do you want me to put it up?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "No me apetece colgar las cortinas hoy. ¿Por qué no las colgamos mañana?",
+      "back": "I don't feel like putting up the curtains today. Why don't we put them up tomorrow?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Quita el viejo cuadro antes de que pongas el nuevo.",
+      "back": "Take the old picture down before you put the new one up.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡No lo sueltes! ¡Cógelo!",
+      "back": "Don't put it down! Pick it up!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡No cojas eso! ¡Suéltalo!",
+      "back": "Don't pick that up! Put it down!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Quieres que lo coja o quieres que lo suelte?",
+      "back": "Do you want me to pick it up or do you want me to put it down?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Te puedo ayudar a tender la ropa fuera?",
+      "back": "Can I help you put the washing out?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "No es buena idea sacarla ahora; ¡va a llover!",
+      "back": "It's not a good idea to put it out now; it's going to rain!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¡Está lloviendo! ¿Me ayudas a coger la ropa?",
+      "back": "It's raining! Can you help me bring the washing in?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Voy a poner nuestra maleta arriba, encima de nuestras cabezas.",
+      "back": "I'm going to put our suitcase above our heads.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Puedes poner el espejo encima del piano?",
+      "back": "Can you put the mirror above the piano?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¡No pongas la carne encima de la ensalada en la nevera!",
+      "back": "Don't put the meat above the lettuce in the fridge!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Voy a poner esta silla fuera.",
+      "back": "I'm going to put this chair outside.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "No pongas esos fuera; ponlos dentro.",
+      "back": "Don't put those outside; put them inside.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Puedes poner estos dentro, por favor? Creo que va a llover.",
+      "back": "Can you put these inside, please? I think it's going to rain.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Voy a encender las luces.",
+      "back": "I'm going to put the lights on.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "No las enciendas todavía.",
+      "back": "Don't put them on yet!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Enciendo las luces?",
+      "back": "Shall I put the lights on?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Enciendo el ordenador?",
+      "back": "Shall I put the computer on?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Vale, enciéndelo.",
+      "back": "Yeah, put it on.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "No lo enciendas hasta que yo esté lista.",
+      "back": "Don't put it on until I'm ready.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Ponemos la lavadora?",
+      "back": "Shall we put the washing machine on?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Por qué no pones la lavadora?",
+      "back": "Why don't you put the washing machine on?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "La pondré luego esta tarde.",
+      "back": "I'll put it on later this afternoon.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Ponemos el lavaplatos?",
+      "back": "Shall we put the dishwasher on?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Por qué no lo ponemos después del almuerzo?",
+      "back": "Why don't we put it on after lunch?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "No quiero poner el lavaplatos hoy.",
+      "back": "I don't want to put the dishwasher on today.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Pongo el horno?",
+      "back": "Shall I put the oven on?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Es buena idea encender el horno diez minutos antes de que metas la pizza.",
+      "back": "It's a good idea to put the oven on ten minutes before you put the pizza in.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "No voy a encender el horno hasta que esté preparado para meter el bizcocho.",
+      "back": "I'm not going to put the oven on until I'm ready to put the cake in.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Voy a poner el agua a hervir.",
+      "back": "I'm going to put the water on to boil.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Puedes poner el agua a hervir para una taza de té?",
+      "back": "Can you put the water on for a cup of tea?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Pongo el agua para la pasta?",
+      "back": "Shall I put the water on for the pasta?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Voy a poner un poco de parmesano encima de mis espaguetis.",
+      "back": "I'm going to put a bit of parmesan on my spaghetti.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Quieres que te eche un poco de sal en tu ensalada?",
+      "back": "Do you want me to put a bit of salt on your salad?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Echo más pimienta en tu filete?",
+      "back": "Shall I put some more pepper on your steak?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Siempre le echo un poco de azúcar a mi café.",
+      "back": "I always put a touch of sugar in my coffee.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Echo un poco de azúcar en tu té?",
+      "back": "Shall I put a touch of sugar in your tea?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Si quieres, puedo echar un poco más de sal en tu sopa.",
+      "back": "If you like, I can put a touch more salt in your soup.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Pongo mayonesa en tu plato?",
+      "back": "Shall I put some mayonnaise on your plate?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Mamá! ¿Puedo ponerles ketchup a mis patatas fritas?",
+      "back": "Mom! Can I put some ketchup on my fries?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Quieres que ponga mostaza en tu filete?",
+      "back": "Do you want me to put some mustard on your steak?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Qué sueles echarle a tu lasaña?",
+      "back": "What do you normally put in your lasagna?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Qué le suele echar tu madre a su ensalada César?",
+      "back": "What does your mother normally put in her Caesar salad?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Qué ingredientes sueles meter en tu risotto de setas?",
+      "back": "What ingredients do you normally put in your wild mushroom risotto?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Ponte el abrigo! ¡Póntelo ahora!",
+      "back": "Put your coat on! Put it on now!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "No quiero ponerme el abrigo ahora. Me lo pondré más tarde.",
+      "back": "I don't want to put on my coat now. I'll put it on later.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Si me lo pongo ahora, me lo quitaré en cinco minutos.",
+      "back": "If I put it on now, I'll take it off in five minutes.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Me pongo el sombrero?",
+      "back": "Shall I put my hat on?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Ponte el gorro de lana o cogerás frío.",
+      "back": "Put your woolly hat on or you'll get cold.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Ponte la gorra si no ves bien.",
+      "back": "Put your cap on if you can't see properly.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Por qué no te pones los zapatos?",
+      "back": "Why don't you put your shoes on?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Por qué siempre te quitas los zapatos en el coche? ¡Póntelos otra vez!",
+      "back": "Why do you always take your shoes off in the car? Put them back on!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¡No te quites los zapatos otra vez!",
+      "back": "Don't take your shoes off again!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¡No te quites las gafas! ¡Póntelas! ¡No ves nada sin ellas!",
+      "back": "Don't take your glasses off! Put them on! You can't see anything without them!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Voy a ponerme las gafas de leer; no veo lo que pone aquí.",
+      "back": "I'm going to put my reading glasses on; I can't see what this says.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Por qué no te pones las gafas de sol? ¡Anda! Póntelas.",
+      "back": "Why don't you put your sunglasses on? Go on, put them on!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¡Póntelo! ¡Quítatelo!",
+      "back": "Put it on! Take it off!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Póntelos! ¡Quítatelos!",
+      "back": "Put them on! Take them off!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¡No te lo pongas! ¡Quítatelo!",
+      "back": "Don't put it on! Take it off!",
+      "sourcePage": 19
+    }
+  ]
+}
