@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-16",
+  "bookTitle": "Libro 16",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Le conozco a él, pero no conozco a su hermana.",
+      "back": "I know him, but I don't know his sister.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Conoces a su tío George de ellos?",
+      "back": "Do you know their uncle George?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "La conocemos a ella, pero no conocemos a su tía.",
+      "back": "We know her, but we don't know her aunt.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Conozco a Derek. Le conocí en enero.",
+      "back": "I know Derek. I met him in January.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Ella conoce a Sophie. La conoció en febrero.",
+      "back": "She knows Sophie. She met her in February.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Conozco a Daphne. Nos conocimos en octubre.",
+      "back": "I know Daphne. We met in October.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Les conozco. Les conocí en la conferencia en Madrid en noviembre.",
+      "back": "I know them. I met them at the conference in Madrid in November.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Tú le conoces! Le conociste en la conferencia en Valencia en noviembre.",
+      "back": "You know him! You met him at the conference in Valencia in November.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "La conocen. La conocieron en la conferencia en Vigo en noviembre.",
+      "back": "They know her. They met her at the conference in Vigo in November.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Conozco París bastante bien. De hecho, conocí a mi mujer en París.",
+      "back": "I know Paris quite well. In fact, I met my wife in Paris.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Conozco Londres bastante bien. De hecho, conocí a mi marido en Londres.",
+      "back": "I know London quite well. In fact, I met my husband in London.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Conozco Roma bastante bien, pero no conozco Londres muy bien.",
+      "back": "I know Rome quite well, but I don't know London very well.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Conozco el centro de Londres bastante bien, pero no conozco las afueras para nada.",
+      "back": "I know the centre of London quite well, but I don't know the outskirts of London at all.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Conozco las afueras de París bastante bien, pero no conozco el centro para nada.",
+      "back": "I know the outskirts of Paris quite well, but I don't know the centre of Paris at all.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "La mujer de mi amigo conoce el centro de Roma bastante bien, pero no conoce las afueras para nada.",
+      "back": "My friend's wife knows the centre of Rome quite well, but she doesn't know the outskirts at all.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Conozco a alguien que puede hablar chino.",
+      "back": "I know someone who can speak Chinese.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Mi hermano conoce a alguien que puede hablar cinco idiomas.",
+      "back": "My brother knows someone who can speak five languages.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Mi tía conoce a alguien que puede tocar el arpa.",
+      "back": "My aunt knows someone who can play the harp.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Conozco a alguien que puede tocar el oboe.",
+      "back": "I know somebody who can play the oboe.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Mi amiga que sabe tocar el oboe conoce a alguien que puede tocar el clarinete.",
+      "back": "My friend who can play the oboe knows somebody who can play the clarinet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "El amigo de mi amiga, que puede tocar el clarinete, conoce a alguien que puede tocar la flauta.",
+      "back": "My friend's friend who can play the clarinet knows somebody who can play the flute.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Tu suegra conoce a alguien que pueda reparar ordenadores?",
+      "back": "Does your mother-in-law know anyone who can mend computers?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Tu suegro conoce a alguien que pueda reparar aspiradoras?",
+      "back": "Does your father-in-law know anyone who can fix vacuum cleaners?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Tu cuñada conoce a alguien que pueda reparar relojes de pared?",
+      "back": "Does your sister-in-law know anyone who can repair clocks?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Tu cuñado conoce a alguien que pueda echarme una mano para reparar este reloj de pulsera?",
+      "back": "Does your brother-in-law know anybody who can give me a hand with mending this watch?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Tu yerno conoce a alguien que pueda echarme una mano para reparar mi bici?",
+      "back": "Does your son-in-law know anybody who can give me a hand with repairing my bike?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Tu nuera conoce a alguien que me pueda ayudar a reparar mi coche?",
+      "back": "Does your daughter-in-law know anybody who can give me a hand with fixing my car?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No conozco a nadie que pueda reparar tu bici.",
+      "back": "I don't know anybody who can mend your bike.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No conozco a nadie que pueda echarle una mano a tu yerno.",
+      "back": "I don't know anybody who can give your son-in-law a hand.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Mi nuera no conoce a nadie que pueda echarte una mano.",
+      "back": "My daughter-in-law doesn't know anybody who can give you a hand.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Mi tío sabe mucho de coches. También sabe mucho sobre aviones.",
+      "back": "My uncle knows a lot about cars. He also knows a lot about planes.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Mi tía sabe mucho de árboles. También sabe mucho acerca de las ardillas.",
+      "back": "My aunt knows a lot about trees. She also knows a lot about squirrels.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Mi tía abuela sabe mucho de zapatos. También sabe mucho acerca de las nubes.",
+      "back": "My great aunt knows a lot about shoes. She also knows a lot about clouds.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Mi profesora de química sabe muy poco acerca de la música, pero sabe mucho de química.",
+      "back": "My chemistry teacher knows very little about music, but she knows a lot about chemistry.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Mi profesor de historia sabe muy poco acerca de las matemáticas, pero sabe mucho de historia.",
+      "back": "My history teacher knows very little about mathematics, but he knows a lot about history.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Mi profesora de biología sabe muy poco acerca de la literatura, pero sabe mucho de biología.",
+      "back": "My biology teacher knows very little about literature, but she knows a lot about biology.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "No sé mucho de canto.",
+      "back": "I don't know much about singing.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Mi madre no sabe mucho de jardinería.",
+      "back": "My mother doesn't know much about gardening.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Mi padre no sabe mucho de cocina.",
+      "back": "My father doesn't know much about cooking.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Mi sobrino no sabe nada de la vida.",
+      "back": "My nephew doesn't know anything about life.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "No sé nada de la guerra.",
+      "back": "I don't know anything about war.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Ella no sabe nada de la corrupción.",
+      "back": "She doesn't know anything about corruption.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "No sé nada sobre poesía.",
+      "back": "I know nothing about poetry.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Mi sobrina no sabe nada de la vida.",
+      "back": "My niece knows nothing about life.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella tampoco sabe nada sobre religión.",
+      "back": "She knows nothing about religion either.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Mi hijo sabe montar en bici.",
+      "back": "My son knows how to ride a bike.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Mi hija no sabe montar en bici todavía.",
+      "back": "My daughter doesn't know how to ride a bike yet.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Sabes montar en bici?",
+      "back": "Do you know how to ride a bike?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Sé conducir un coche.",
+      "back": "I know how to drive a car.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Mi hijo todavía no sabe conducir un coche y mi hija tampoco.",
+      "back": "My son doesn't know how to drive a car yet and my daughter doesn't know how to drive a car yet either.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Sabe tu hermano conducir un coche?",
+      "back": "Does your brother know how to drive a car?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Los maquinistas de tren saben conducir trenes.",
+      "back": "Train drivers know how to drive trains.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Los conductores de tractor saben conducir tractores.",
+      "back": "Tractor drivers know how to drive tractors.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Los camioneros saben conducir camiones.",
+      "back": "Lorry drivers know how to drive lorries.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Sabes pilotar un avión?",
+      "back": "Do you know how to fly a plane?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Sabe John pilotar un avión?",
+      "back": "Does John know how to fly a plane?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Tu mujer sabe pilotar un avión?",
+      "back": "Does your wife know how to fly a plane?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "No sé manejar un yate.",
+      "back": "I don't know how to sail a yacht.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Sabes manejar un yate?",
+      "back": "Do you know how to sail a yacht?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Mi tío sabe manejar un yate.",
+      "back": "My uncle knows how to sail a yacht.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Estoy conociendo a mi nueva vecina.",
+      "back": "I'm getting to know my new neighbour.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Sam está conociendo a su nuevo profesor de inglés.",
+      "back": "Sam's getting to know her new English teacher.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Estamos conociendo a nuestra nueva jefa.",
+      "back": "We're getting to know our new boss.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Todavía la estoy conociendo.",
+      "back": "I'm still getting to know her.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Aún no estoy preparado para casarme. Todavía estoy conociendo a mi novia.",
+      "back": "I'm not ready to get married yet. I'm still getting to know my girlfriend.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Aún no conozco las afueras de Londres. Todavía estoy conociendo el centro.",
+      "back": "I don't know the outskirts of London yet. I'm still getting to know the centre.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Se tarda mucho en conocer Londres.",
+      "back": "It takes a long time to get to know London.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "No se tarda mucho en conocer Port Bou.",
+      "back": "It doesn't take long to get to know Port Bou.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Se tarda mucho en conocer Santander?",
+      "back": "Does it take long to get to know Santander?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Todavía estoy aprendiendo a usar mi nuevo móvil.",
+      "back": "I'm still getting to know how to use my new mobile.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Mi hermana todavía está aprendiendo a utilizar su nuevo portátil.",
+      "back": "My sister's still getting to know how to use her new laptop.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Se tarda mucho tiempo en aprender a hablar un idioma extranjero.",
+      "back": "It takes a long time to get to know how to speak a foreign language.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Se tarda mucho tiempo en aprender a pilotar bien un avión.",
+      "back": "It takes a long time to get to know how to fly a plane properly.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Aún no estoy preparado para montar en bici por Londres. Todavía estoy aprendiendo a conocer bien la ciudad.",
+      "back": "I'm not ready to ride a bike in London yet. I'm still getting to know the place properly!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Aún no estoy preparada para pilotar un avión. Todavía estoy familiarizándome con los mandos.",
+      "back": "I'm not ready to fly a plane yet. I'm still getting to know the controls properly.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "No sé cuánto tiempo dura la película.",
+      "back": "I don't know how long the film lasts.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Sabes cuánto dura?",
+      "back": "Do you know how long it lasts?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Estoy seguro de que John sabe cuánto dura.",
+      "back": "I'm sure John knows how long it lasts.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Sé dónde viven.",
+      "back": "I know where they live.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "No sé dónde vive ella.",
+      "back": "I don't know where she lives.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Sabes dónde vive ella?",
+      "back": "Do you know where she lives?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "No sé cuándo es la fiesta de Mark.",
+      "back": "I don't know when Mark's party is.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Ellos no saben cuándo es la fiesta de Mark tampoco.",
+      "back": "They don't know when Mark's party is either.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Sabes cuándo es la fiesta de Mark?",
+      "back": "Do you know when Mark's party is?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Sabes a qué se dedica la mujer de Mark?",
+      "back": "Do you know what Mark's wife does?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "No sé a qué se dedica la mujer de Mark.",
+      "back": "I don't know what Mark's wife does.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Alguien sabe a qué se dedica la mujer de Mark?",
+      "back": "Does anyone know what Mark's wife does?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "No sé cómo funciona este horno.",
+      "back": "I don't know how this oven works.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Sabes cómo funciona este horno?",
+      "back": "Do you know how this oven works?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Nadie sabe cómo funciona este horno.",
+      "back": "Nobody knows how this oven works.",
+      "sourcePage": 19
+    }
+  ]
+}

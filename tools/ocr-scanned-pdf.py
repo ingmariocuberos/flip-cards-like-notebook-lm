@@ -12,9 +12,22 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('pages', type=Path, help='Directory produced by render-scanned-pdf.py')
     parser.add_argument('--workers', type=int, default=4)
+    parser.add_argument('--select', help='Comma-separated PDF page numbers or ranges, e.g. 4-19,32-47')
     args = parser.parse_args()
 
     pages = sorted(args.pages.glob('*.png'))
+    if args.select:
+        selected = set()
+        for part in args.select.split(','):
+            bounds = part.split('-', 1)
+            first = int(bounds[0])
+            last = int(bounds[1]) if len(bounds) == 2 else first
+            if first < 1 or last < first:
+                parser.error(f'Invalid page range: {part}')
+            selected.update(range(first, last + 1))
+        pages = [page for page in pages if int(page.stem) in selected]
+        if len(pages) != len(selected):
+            parser.error('Selected pages are missing from the rendered directory')
     if not pages:
         raise SystemExit('No PNG pages found')
     output = args.pages.with_name(args.pages.name.removesuffix('__pngs') + '.ocr.txt')
