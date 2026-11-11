@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-18",
+  "bookTitle": "Libro 18",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Sé que has bebido por tu aliento.",
+      "back": "I can tell you've been drinking from your breath.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Noto que están enamorados por su forma de mirarse cuando creen que nadie les está viendo.",
+      "back": "I can tell they're in love by the way they look at each other when they think nobody's watching.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Siempre noto cuando él miente porque tiende a tartamudear.",
+      "back": "I can always tell when he's lying because he tends to stutter.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Se nota que la isla sufrió una erupción volcánica devastadora hace solo cinco años?",
+      "back": "Can you tell that the island suffered a devastating volcanic eruption only five years ago?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "¿Se nota que él ha tenido rinoplastia?",
+      "back": "Can you tell that he's had a nose-job?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "¿Se nota?",
+      "back": "Can you tell?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Cómo se nota cuando has regado las plantas suficientemente?",
+      "back": "How can you tell when the plants have had enough water?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "¿Cómo sabes que él es el hombre de tu vida? ¡Acabas de conocerle!",
+      "back": "How can you tell he's the one? You've only just met him!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Cómo sabes cuando alguien te está mintiendo descaradamente?",
+      "back": "How can you tell when someone's lying through their teeth?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Se te nota en los ojos que algo pasa.",
+      "back": "I can tell from your eyes that something is wrong.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Se te nota en la voz que todavía estás enfadado por lo que pasó en la fiesta.",
+      "back": "I can tell from your voice that you're still angry about what happened at the party.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Se te nota en la cara que todavía no me has perdonado por haber dicho a todo el mundo lo de tu problemilla.",
+      "back": "I can tell from your face that you still haven't forgiven me for telling everyone about your little problem.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Que yo haya notado, no hay mal rollo entre ellos.",
+      "back": "As far as I can tell, there isn't any bad feeling between them.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Que yo haya notado, todo el mundo está pasándolo muy bien buscando fósiles.",
+      "back": "As far as I can tell, everybody's having a great time looking for fossils.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Que yo haya notado, nadie se dio cuenta de la enorme grieta en el techo.",
+      "back": "As far as I can tell, nobody noticed the huge crack in the ceiling.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Puedes distinguir un Van Gogh de un Renoir?",
+      "back": "Can you tell a Van Gogh from a Renoir?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Es posible distinguir las setas comestibles de las venenosas?",
+      "back": "Can you tell edible mushrooms from poisonous ones?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "¿Podrías distinguir un gato siamés de un gato birmano?",
+      "back": "Could you tell a Siamese cat from a Burmese one?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Juro que las únicas personas que pueden distinguirles son sus padres.",
+      "back": "I swear that the only people who can tell them apart are their parents.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "No soy capaz de distinguir los gemelos ahora que tienen el mismo peinado.",
+      "back": "I'm unable to tell the twins apart now they have the same hairstyle.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Si soy honesto, no podría distinguir entre ambos aunque me fuera la vida en ello.",
+      "back": "If I'm honest, I couldn't tell the two apart to save my life.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "No podría distinguir un roble de un olmo ni aunque me fuera la vida en ello.",
+      "back": "I couldn't tell an oak from an elm to save my life!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "No podría distinguir un gorrión de un herrerillo ni aunque me fuera la vida en ello.",
+      "back": "I couldn't tell a sparrow from a tit to save my life!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "No podría distinguir una sinfonía de Mozart de una de Beethoven ni aunque mi vida dependiera de ello.",
+      "back": "I couldn't tell a Mozart symphony from a Beethoven one to save my life.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "¿Cómo se distingue un abrigo de pieles de imitación de un abrigo de pieles real?",
+      "back": "How can you tell a fake fur coat from a real one?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Cómo se distingue un cocodrilo de un caimán?",
+      "back": "How can you tell a crocodile from an alligator?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Cómo se distingue un Picasso auténtico de una falsificación?",
+      "back": "How can you tell a real Picasso from a forgery?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¿Puedes distinguir entre un merlot y un cabernet?",
+      "back": "Can you tell the difference between a merlot and a cabernet?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¿Podrías distinguir entre alguien hablando en polaco y alguien hablando en húngaro?",
+      "back": "Can you tell the difference between someone speaking Polish and someone speaking Hungarian?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Podrías distinguir entre un acento australiano y un acento neozelandés?",
+      "back": "Can you tell the difference between an Australian accent and a New Zealand accent?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Al final tuve que regañarles a todos por hacer demasiado ruido.",
+      "back": "In the end, I had to tell them all off for making too much noise.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Cuando era niño, mis padres me regañaron por hacer estallar un petardo en casa.",
+      "back": "When I was a child, my parents told me off for setting off a fire-cracker in the house.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Si no les regañas, nunca aprenderán a distinguir entre el bien y el mal.",
+      "back": "If you don't tell them off, they'll never learn to tell right from wrong.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Me voy a chivar de ti por mirar las respuestas cuando el profesor estaba de espaldas.",
+      "back": "I'm telling on you for looking at the answers when the teacher's back was turned.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Me voy a chivar de ti por pisar los pensamientos del señor Johnson.",
+      "back": "I'm telling on you for stepping on Mr Johnson's pansies.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Me voy a chivar de ti por asustar al gato con una bengala.",
+      "back": "I'm telling on you for frightening the cat with a sparkler.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "No me puedo creer que hayas delatado a Charlie por pisar el césped.",
+      "back": "I can't believe you grassed on Charlie for stepping on the grass.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Jim ha delatado a Sam por dejar salir a los conejos de la conejera.",
+      "back": "Jim grassed on Sam for letting the rabbits out of the hutch.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Si me delatas, le hablaré a tu madre sobre aquella ocasión en la que casi mataste a su periquito.",
+      "back": "If you grass on me, I'll tell your Mum about that time you nearly killed her budgie.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Es obvio que su edad jugó en su contra.",
+      "back": "It's obvious that his age told against him.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "En este caso, tu reputación de no tener pelos en la lengua sin duda jugó en tu contra.",
+      "back": "In this case, your reputation for being somewhat out-spoken undoubtedly told against you.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "No reveles mucho sobre tu carrera; podría jugar en tu contra.",
+      "back": "Don't give too much away about your career; it could tell against you.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "La historia trata de una princesa que se enamora de un campesino.",
+      "back": "The story tells of a princess who falls in love with a peasant.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "La leyenda trata de un dragón lanzallamas que vivía en aquella cueva y se comía a seres humanos vivos.",
+      "back": "The legend tells of a fire-breathing dragon that lived in that cave and ate human beings alive.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "La historia trata de Enrique VIII que se encontró con una doncella bañándose en el río mientras cazaba jabalíes.",
+      "back": "The story tells of Henry VIII who, while out hunting for wild boar one day, came across a beautiful maiden bathing in the river.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Os llevasteis bien en la reunión?",
+      "back": "Did you all gel at the get-together?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Todo el mundo se llevó fenomenal en la fiesta: ¡hubo un ambiente genial!",
+      "back": "Everyone gelled at the party — there was a terrific atmosphere!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Espero que todo el mundo en el grupo se lleve bien en el crucero.",
+      "back": "I hope everyone in the group gels on the cruise.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Siempre se están gritando.",
+      "back": "They're always yelling at each other.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "¡No hace falta gritar!",
+      "back": "There's no need to yell!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "No te estoy gritando, ¡simplemente estoy hablando fuerte!",
+      "back": "I'm not yelling at you, I'm just speaking loudly!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Este queso de cabra huele muy fuerte.",
+      "back": "This goat's cheese really smells.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Él huele como si no se hubiera duchado desde hace unas semanas.",
+      "back": "He smells like he hasn't taken a shower in weeks.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Eso no huele muy bien, ¿verdad?",
+      "back": "That doesn't smell very nice, does it?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "La policía antidisturbios disipó los disturbios.",
+      "back": "The riot police quelled the riot.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Ellos disiparon los disturbios usando cañones de agua.",
+      "back": "They quelled the riot using water cannons.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Calmé sus miedos diciéndole que todo iba a salir bien.",
+      "back": "I quelled her fears by telling her that everything would be alright.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "No le des más vueltas al tema.",
+      "back": "Don't dwell on the matter any longer.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Obsesionarte con el tema no te va a servir de nada.",
+      "back": "Dwelling on the matter won't do you any good.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "No sirve de nada pensar en el pasado.",
+      "back": "There's no point dwelling on the past.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "No te puedes imaginar lo contento que me quedé cuando por fin te vi bajar del tren.",
+      "back": "I can't tell you how happy I was when I finally saw you getting off the train.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "No te puedes imaginar lo enfadados que estábamos cuando volvimos y vimos cómo habías dejado la casa.",
+      "back": "We can't tell you how angry we were when we got back and saw the state you'd left the house in.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "No te puedes imaginar lo tristes que nos vamos a quedar cuando termine este curso.",
+      "back": "I can't tell you how sad we'll be when this course finishes.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "No te imaginas el alivio que siento al saber que llegaste a casa sano y salvo.",
+      "back": "I can't tell you how relieved I am to find out that you arrived home safe and sound.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "No te imaginas el alivio que sentimos ahora que se ha acabado todo.",
+      "back": "I can't tell you how relieved we are that it's all over.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "¡No te puedes imaginar el alivio que sentí cuando por fin pude ir al baño!",
+      "back": "I can't tell you how relieved I was, literally, when I was finally able to visit the little boy's room!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "No te puedes imaginar cuánto te quiero.",
+      "back": "I can't tell you how much I love you.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "No te imaginas cuánto te echo de menos.",
+      "back": "I can't tell you how much I miss you.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "No te puedes imaginar cuánto significa para mí oírte decir eso.",
+      "back": "And I can't tell you how much it means to me to hear you say that.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "No te puedes imaginar la cantidad de veces que me he despertado cansada por el trabajo.",
+      "back": "I can't tell you how many mornings I've woken up tired from work.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No te puedes imaginar cuántas veces pensaba en ti cuando estabas fuera.",
+      "back": "I can't tell you how many times I thought about you while you were away.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "No te puedes imaginar cuánta gente me ha hecho esa pregunta a lo largo de los años.",
+      "back": "I can't tell you how many people have asked me that question over the years.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "La comida fue espantosa; todo lo que te diga es poco.",
+      "back": "I can't begin to tell you how terrible the meal was.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "No te podrías imaginar ni en mil años cuánto me arrepentí de haber tomado esa decisión.",
+      "back": "I can't begin to tell you how much I regretted making that decision.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Todo lo que te diga sobre lo guapa que estás sería poco!",
+      "back": "I can't begin to tell you how beautiful you look.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Te estoy diciendo que está en el cajón superior!",
+      "back": "I'm telling you it's in the top drawer!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Te he dicho que no tenía nada que ver con su decisión.",
+      "back": "I'm telling you I had nothing to do with their decision.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "¡No te lo digo más, no voy a ir!",
+      "back": "I'm telling you I'm not going!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Tío, qué calor hace hoy. ¡Y tanto!",
+      "back": "Man, it's hot today. You're telling me!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "¿Dices que ha engordado? ¡Y tanto!",
+      "back": "You're telling me he's put on weight!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "David está siendo un poco maleducado con todo el mundo últimamente. ¡A mí me lo cuentas!",
+      "back": "David's been a bit rude with everyone these days. You're telling me!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "No me importa decirte que en realidad estaba bastante contento cuando me despidieron y me dieron una enorme indemnización.",
+      "back": "I don't mind telling you that I was actually glad when they fired me and gave me a massive payoff.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "No me importa deciros que lloré como nunca durante meses después de que ella me dejó.",
+      "back": "I don't mind telling you that I cried myself to sleep for months after she left me.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "No me importa decirte que me sorprendió bastante cuando oí que te habían nombrado el nuevo jefe.",
+      "back": "I don't mind telling you that I was a little surprised to hear that they had appointed you to be the new boss.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "¿Que si se van a casar? Bueno, ¡eso es un secreto!",
+      "back": "Are they getting married? Well, that would be telling!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Cuántos años tiene su mujer? ¡Eso es un secreto!",
+      "back": "How old is his wife? That would be telling!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "¡No me digas! Me vas a decir que es un secreto, ¿verdad?",
+      "back": "Don't tell me! You're going to say that \"that would be telling\", aren't you?",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Es imposible saber cómo van a reaccionar.",
+      "back": "There's no telling how they'll react to the news.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Es imposible saber el daño que le estarán haciendo el alcohol y el tabaco.",
+      "back": "There's no telling how much damage all the alcohol and cigarettes is doing to him.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "¿Qué quieres decir con que es imposible saber por qué ella terminó casándose con él? ¡Es un multimillonario!",
+      "back": "What do you mean \"there's no telling\" why she ended up marrying him?! He's a multi-millionaire!",
+      "sourcePage": 75
+    }
+  ]
+}

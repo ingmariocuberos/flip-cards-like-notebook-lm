@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-18",
+  "bookTitle": "Libro 18",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Dímelo!",
+      "back": "Tell me!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Díselo a él!",
+      "back": "Tell him!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Díselo a ellos!",
+      "back": "Tell them!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¡Te lo estoy diciendo!",
+      "back": "I'm telling you!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Me lo vas a decir?",
+      "back": "Are you going to tell me?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "No quiero decírtelo.",
+      "back": "I don't want to tell you.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Ni se te ocurra decírselo a ellos!",
+      "back": "Don't even think about telling them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Ni se te ocurra decírselo a ella!",
+      "back": "Don't even think about telling her!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Ni se os ocurra decírnoslo!",
+      "back": "Don't even think about telling us!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Se lo diré a ellas cuando me pidan perdón.",
+      "back": "I'll tell them when they say sorry to me.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "No te lo diré mientras no me pidas perdón.",
+      "back": "I won't tell you unless you say sorry to me.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No se lo diré a ella hasta que me pida perdón.",
+      "back": "I won't tell her until she says sorry to me.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Me lo dirás si friego para ti?",
+      "back": "Will you tell me if I do the dishes for you?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Me lo dirás si te hago la compra?",
+      "back": "Will you tell me if I do the shopping for you?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Me lo dirás si te hago la cama?",
+      "back": "Will you tell me if I make the bed for you?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Dime que puedes hacerlo.",
+      "back": "Tell me you can do it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Dime que lo harás.",
+      "back": "Tell me you'll do it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Me estás diciendo que no puedes ir?",
+      "back": "Are you telling me you can't go?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Por favor, dile que está invitado.",
+      "back": "Please tell him he's invited.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No le digas que no está invitado.",
+      "back": "Don't tell him he isn't invited.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Si le dices que no está invitado, se enfadará.",
+      "back": "If you tell him he isn't invited, he'll get angry.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Por qué no le dices a ella que no está invitada?",
+      "back": "Why don't you tell her she's not invited?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Por qué no les dices que no pueden ir?",
+      "back": "Why don't you tell them they can't go?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Por qué no les dices que no están invitados a la reunión?",
+      "back": "Why don't you tell them they aren't invited to the meeting?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Por qué ella no le dice a él que puede venir en diciembre?",
+      "back": "Why doesn't she tell him he can come in December?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Por qué él no le dice a ella que no puede venir antes de diciembre?",
+      "back": "Why doesn't he tell her she can't come before December?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Por qué ella no les dice que pueden volver en diciembre?",
+      "back": "Why doesn't she tell them they can come back in December?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Dile que bajo ninguna circunstancia voy a invitar a su mujer a mi fiesta de cumpleaños.",
+      "back": "Tell him there's no way I'm going to invite his wife to my birthday party.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Me estás diciendo que no hay manera de que lleve a mi mujer?",
+      "back": "Are you telling me there's no way I can take my wife?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Te estoy diciendo que no hay manera de que lo hagamos antes de diciembre.",
+      "back": "I'm telling you there's no way we can do it before December.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Dime lo que quieres.",
+      "back": "Tell me what you want.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Dinos lo que hace.",
+      "back": "Tell us what it does.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Diles lo que sabes.",
+      "back": "Tell them what you know.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Diles lo que está haciendo tu amiga en Japón.",
+      "back": "Tell them what your friend's doing in Japan.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Me puedes decir lo que están diciendo?",
+      "back": "Can you tell me what they're saying?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Me puedes decir qué estás diciendo?",
+      "back": "Can you tell me what you're talking about?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Dime lo que vais a hacer la semana que viene.",
+      "back": "Tell me what you're going to do next week.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Diles lo que vamos a preparar para la cena de esta noche.",
+      "back": "Tell them what we're going to make for dinner tonight.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Les puedes decir lo que va a hacer el presidente?",
+      "back": "Can you tell them what the President's going to do?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Explícamelo.",
+      "back": "Explain it to me.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Me lo puedes explicar?",
+      "back": "Can you explain it to me?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Quiero que me lo expliques.",
+      "back": "I want you to explain it to me.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Explícame lo que hace esta máquina.",
+      "back": "Explain to me what this machine does.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Explícanos lo que quieres decir.",
+      "back": "Explain to us what you mean.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Me puedes explicar lo que están haciendo aquellos hombres?",
+      "back": "Can you explain to me what those men are doing?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Cuéntales!",
+      "back": "Tell them!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Cuéntaselo a ellos!",
+      "back": "Tell them about it!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Cuéntamelo!",
+      "back": "Tell me about it!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Cuéntame algo de tus vacaciones.",
+      "back": "Tell me something about your holiday.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Me puedes contar algo acerca de tu pueblo?",
+      "back": "Can you tell me something about your hometown?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Si te cuento algo acerca de mi niñez, ¿me contarás algo sobre la tuya?",
+      "back": "If I tell you something about my childhood, will you tell me something about yours?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "No quiero contártelo.",
+      "back": "I don't want to tell you about it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Por qué no quieres contármelo?",
+      "back": "Why don't you want to tell me about it?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Te lo contaré mañana por la mañana.",
+      "back": "I'll tell you about it tomorrow morning.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Cuéntanos qué tipo de comida te gusta.",
+      "back": "Tell us about what type of food you like.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Cuéntanos qué tipo de piso estás buscando.",
+      "back": "Tell us about what type of flat you're looking for.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Cuéntanos qué tipo de coche quieres comprar.",
+      "back": "Tell us about what type of car you want to buy.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Cuéntanos qué tipo de cosas te gusta hacer el fin de semana.",
+      "back": "Tell us about what sort of things you like doing on the weekend.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Les puedes contar qué tipo de ordenador quieres comprar?",
+      "back": "Can you tell them about what sort of computer you want to get?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Cuéntale a ella qué tipo de persona estás buscando.",
+      "back": "Tell her about what sort of person you're looking for.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Dile a él que se calle, por favor.",
+      "back": "Tell him to be quiet, please.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Diles que se callen, por favor.",
+      "back": "Tell them to shut up, please.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Diles que bajen el volumen un poco, por favor.",
+      "back": "Tell them to keep the noise down, please.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Siempre les digo a mis hijos que sean silenciosos por las mañanas.",
+      "back": "I always tell my children to be quiet in the mornings.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "A veces mi vecina les dice a sus hijos que se callen.",
+      "back": "My neighbour sometimes tells her children to shut up.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Si los niños hacen mucho ruido, les diré que bajen un poco el volumen.",
+      "back": "If the children make a lot of noise, I'll tell them to keep the noise down.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Dicho de otro modo, te estoy diciendo que trabajes.",
+      "back": "In other words, I'm telling you to do some work.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Dicho de otro modo, te estoy diciendo que te calles.",
+      "back": "In other words, I'm telling you to be quiet.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Dicho de otro modo, estoy diciéndote que pares.",
+      "back": "In other words, I'm telling you to stop.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Dile que te cuente su experiencia.",
+      "back": "Tell him to tell you about his experience.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Les puedes decir que me cuenten su experiencia?",
+      "back": "Can you tell them to tell me about their experience?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Por qué no le dices a ella que te cuente su experiencia en la India?",
+      "back": "Why don't you tell her to tell you about her experience in India?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Quiero que le digas que vaya al supermercado para mí.",
+      "back": "I want you to tell him to go to the supermarket for me.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Quieres que yo les diga que nos echen una mano?",
+      "back": "Do you want me to tell them to give us a hand?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Quiere él que yo les diga que vengan a la reunión?",
+      "back": "Does he want me to tell them to come to the meeting?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Dile a él que no vaya allí; es peligroso.",
+      "back": "Tell him not to go there; it's dangerous.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Dile a él que no hable con esa gente; son peligrosos.",
+      "back": "Tell him not to speak to those people; they're dangerous.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Diles que no compren esa moto; es peligrosa.",
+      "back": "Tell them not to buy that motorbike; it's dangerous.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Diles a esos hombres que bajen un poco el volumen, por favor.",
+      "back": "Tell those men to keep the noise down, please.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Dile a ella que no se acerque a esos hombres; son peligrosos.",
+      "back": "Tell her not to go near those men; they're dangerous.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Diles a esos hombres que no se acerquen al borde; es peligroso.",
+      "back": "Tell those men not to go near the edge; it's dangerous.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Dile a esa mujer que no hable con aquellas señoras.",
+      "back": "Tell that woman not to speak to those women.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Diles a esas mujeres que no hablen con aquella mujer.",
+      "back": "Tell those women not to speak to that woman.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Les puedes decir a esos hombres que no se acerquen a esas mujeres?",
+      "back": "Can you tell those men not to go near those women?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "No le puedo decir a ella que no haga un esfuerzo.",
+      "back": "I can't tell her not to make an effort.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "No te estoy diciendo que no hagas un esfuerzo.",
+      "back": "I'm not telling you not to make an effort.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Por qué me estás diciendo que no haga un esfuerzo?",
+      "back": "Why are you telling me not to make an effort?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Quiero que le digas a ella que le diga a él que haga un esfuerzo.",
+      "back": "I want you to tell her to tell him to make an effort.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Quieres que yo le diga a él que les diga a ellos que hagan un esfuerzo?",
+      "back": "Do you want me to tell him to tell them to make an effort?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "No sé si quiero que le digas a él que le diga a ella que haga un esfuerzo o no.",
+      "back": "I don't know if I want you to tell him to tell her to make an effort or not.",
+      "sourcePage": 19
+    }
+  ]
+}

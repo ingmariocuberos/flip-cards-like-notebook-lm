@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-18",
+  "bookTitle": "Libro 18",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Lisa me dice que Matt no ha hecho nada que merezca la pena desde 2005.",
+      "back": "Lisa tells me Matt hasn't done anything worthwhile since the year 2005.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Tom me dice que Lisa compró una camisa muy bonita ayer.",
+      "back": "Tom tells me Lisa bought a really nice shirt yesterday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Matt me dice que Tom va a casa de su hermano todos los sábados.",
+      "back": "Matt tells me Tom goes to his brother's every Saturday.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Andrés nos dijo que la empresa de Melissa no ganaba mucho dinero.",
+      "back": "Andrés told us Melissa's company didn't make a lot of money.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Andrés nos dijo que Lea ganaba mucho más dinero que Ian.",
+      "back": "Andrés told us Lea earned a lot more money than Ian.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Andrés nos dijo que le parecía lógico porque Lea trabajaba más.",
+      "back": "Andrés told us it made sense to him because Lea worked harder.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Eloísa le dijo a Alison que se iban de vacaciones a Kazajistán.",
+      "back": "Eloísa told Alison they were going on holiday to Kazakhstan.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Eloísa le dijo que sus vecinos también se iban de vacaciones a Kazajistán.",
+      "back": "Eloísa told her her neighbours were going on holiday to Kazakhstan too.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Eloísa le dijo que todos sus conocidos se iban de vacaciones a Kazajistán.",
+      "back": "Eloísa told her everybody she knew was going on holiday to Kazakhstan.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Inés le dijo a Richard que Lucas iba a hablar con un par de inversores sobre el proyecto.",
+      "back": "Inés told Richard Lucas was going to talk to a couple of investors about the project.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Inés le dijo que Matt y Melanie iban a hablar con Recursos Humanos.",
+      "back": "Inés told him Matt and Melanie were going to speak to Human Resources.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Inés le dijo que ella no iba a hablar con nadie de nada.",
+      "back": "Inés told him she wasn't going to talk to anybody about anything.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Ella me dijo que no iban al cine ese fin de semana.",
+      "back": "She told me they weren't going to the cinema that weekend.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Él nos dijo que tenía que comprar suficiente comida para veinte personas.",
+      "back": "He told us he had to buy enough food for twenty people.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Os dije que iba a fregar los platos.",
+      "back": "I told you I was going to do the dishes.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Sally me dijo que Miriam había estado prometida con un soldado durante tres años.",
+      "back": "Sally told me Miriam had been engaged to a soldier for three years.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Sally me dijo que después Miriam había estado prometida con un actor famoso.",
+      "back": "Sally told me after that Miriam had been engaged to a famous actor.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Sally me dijo que luego Miriam había vuelto a estar soltera durante seis años.",
+      "back": "Sally told me then Miriam had been single for six years.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Jo les dijo a los espectadores que había llovido a cántaros en el norte de España el día anterior.",
+      "back": "Jo told the viewers it had rained cats and dogs in the north of Spain yesterday.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Jo les dijo que había granizado en el este de Inglaterra durante todo el día.",
+      "back": "Jo told them it had hailed in the east of England all day.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Jo les dijo que había lloviznado durante unas horas en el sur de Alemania.",
+      "back": "Jo told them it had drizzled for a few hours in the south of Germany.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Sebastian le dijo a Megan que había tenido sesenta días libres desde enero.",
+      "back": "Sebastian told Megan he'd had 60 days off since January.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Sebastian le dijo que sus amigos le habían comprado muchos regalos por su cumpleaños.",
+      "back": "Sebastian told her his friends had bought him lots of presents for his birthday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Sebastian le dijo que lo habían ascendido tres veces desde 2008.",
+      "back": "Sebastian told her he had been promoted three times since 2008.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Tino le dijo que Alberto cuidaría de su perro la semana siguiente.",
+      "back": "Tino told him Alberto would look after his dog next week.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Richard le dijo que Alberto revisaría sus propuestas a la mañana siguiente.",
+      "back": "Richard told him Alberto would look over his proposals tomorrow morning.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Kyle le dijo que él y Alberto buscarían la letra de la canción en Internet.",
+      "back": "Kyle told him he and Alberto would look the lyrics of the song up on the internet.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Raúl les dijo a sus amigos que no tardaría mucho en podar los rosales.",
+      "back": "Raúl told his friends it wouldn't take long to trim the rose bushes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Raúl les dijo que no tardaría mucho en cambiar las cuatro ruedas del coche.",
+      "back": "Raúl told them it wouldn't take him long to change the four tyres on his car.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Raúl les dijo que no tardarían mucho en montar el andamio.",
+      "back": "Raúl told them it wouldn't take them long to put the scaffolding up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Steve me dijo que no soportaba a alguien que se pasara el día preguntándose qué hacer después.",
+      "back": "Steve told me he couldn't put up with someone wondering what to do next all day.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Steve me dijo que no podía evitar hurgarse la nariz todo el día.",
+      "back": "Steve told me he couldn't help picking his nose all day.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "Steve me dijo que estaba deseando conocer a otra persona.",
+      "back": "Steve told me he couldn't wait to meet someone else.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Jamie le dijo a Tony que quizá rompiera con Sue.",
+      "back": "Jamie told Tony he might break up with Sue.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Jamie le dijo que quizá se mudara solo a Chicago al año siguiente.",
+      "back": "Jamie told him he might move to Chicago on his own the following year.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Jamie le dijo que quizá buscara otro trabajo en Chicago.",
+      "back": "Jamie told him he might look for another job in Chicago.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Phil les dijo a sus amigos que Pam no debería gastarse tanto dinero en ropa.",
+      "back": "Phil told his friends Pam shouldn't spend so much money on clothes.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Phil les dijo que Pam no debería comprarles tantos regalos a los niños.",
+      "back": "Phil told them Pam shouldn't buy the children so many presents.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Phil les dijo que Pam debería lavar el coche más a menudo.",
+      "back": "Phil told them Pam should wash their car more often.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "A nosotros nos dijo que trabajaría dos días a la semana si no necesitara el dinero.",
+      "back": "He told us he'd work two days a week if he didn't need the money.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "A nosotros nos dijo que se quedaría en casa el resto de la semana si ganara la lotería.",
+      "back": "He told us he'd stay at home the rest of the week if he won the lottery.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "A nosotros nos dijo que se compraría un deportivo si tuviera más dinero.",
+      "back": "He told us he'd buy himself a sports car if he had more money.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Juan te dijo que podía que no fuera a la boda de Iván.",
+      "back": "Juan told you he might not go to Ivan's wedding.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Melissa le dijo a ella que no podría asistir el lunes a las dos de la tarde.",
+      "back": "Melissa told her she couldn't make it on Monday at 2 pm.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Paul me dijo que no distinguía a Bach de Beethoven.",
+      "back": "Paul told me he couldn't tell the difference between Bach and Beethoven.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Él me dijo que llamara a los proveedores para preguntar por el pedido.",
+      "back": "He told me to phone the suppliers about the delivery.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Él me dijo que organizara una reunión con el departamento de finanzas.",
+      "back": "He told me to arrange a meeting with the Finance Department.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Él me dijo que hablara con el contable.",
+      "back": "He told me to speak to the accountant.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Él nos dijo que no dejáramos bebidas cerca de la fotocopiadora.",
+      "back": "He told us not to leave drinks near the photocopier.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Él nos dijo que no sobrecargáramos la bandeja de papel.",
+      "back": "He told us not to overload the paper tray.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Él nos dijo que no moviéramos la fotocopiadora cuando estuviera encendida.",
+      "back": "He told us not to move the photocopier when it was switched on.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "No nos ordenó que gestionáramos las quejas de los clientes; se lo ordenó a ellos.",
+      "back": "He didn't tell us to handle the customer complaints; he told them to do it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "No nos ordenó que preparásemos las hojas de cálculo; se lo ordenó a ellos.",
+      "back": "He didn't tell us to create the spreadsheets; he told them to do it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "No nos ordenó que escribiéramos el orden del día para la reunión del día siguiente; se lo ordenó a ellos.",
+      "back": "He didn't tell us to type the agenda for the following day's meeting; he told them to do it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Por qué no nos mandó que gestionáramos las quejas de los clientes?",
+      "back": "Why didn't he tell us to handle the customer complaints?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Por qué no nos mandó que preparásemos las hojas de cálculo?",
+      "back": "Why didn't he tell us to create the spreadsheets?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Por qué no nos mandó que escribiéramos el orden del día para la reunión del día siguiente?",
+      "back": "Why didn't he tell us to type the agenda for the following day's meeting?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Le dijimos a ella que preparara el material para las presentaciones.",
+      "back": "We told her to prepare the materials for the presentation.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Le dijeron a ella que no emitiera las facturas aún.",
+      "back": "They told her not to issue the invoices yet.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Por qué le dijiste que no repartiera la correspondencia recibida?",
+      "back": "Why did you tell him not to distribute the incoming mail?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "La gente suele decir que solo los borrachos y los niños dicen la verdad.",
+      "back": "People say only drunks and children tell the truth.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Alguien dijo: dile a un amigo una mentira; si la mantiene en secreto, entonces dile la verdad.",
+      "back": "Someone said, \"Tell your friend a lie. If he keeps it secret, then tell him the truth.\"",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Mark Twain dijo: si dices la verdad, no tienes que recordar nada.",
+      "back": "Mark Twain said, \"If you tell the truth, you don't have to remember anything.\"",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Zac Efron dijo que una chica podría distinguir cuándo le gustaba si se ponía rojo o empezaba a contar chistes malos.",
+      "back": "Zac Efron said a girl could tell he liked her when he blushed or started telling bad jokes.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Will Rogers dijo que él no contaba chistes, sino que se fijaba en el Gobierno e informaba de los hechos.",
+      "back": "Will Rogers said he didn't tell jokes. He just watched the government and reported the facts.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "David Lean le dijo a la gente que no contara chistes sobre la comida.",
+      "back": "David Lean told people not to tell jokes about food.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Isak Dinesen dijo que ser persona era tener una historia que contar.",
+      "back": "Isak Dinesen said being a person was having a story to tell.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Steven Spielberg dijo que la gente había olvidado cómo contar una historia.",
+      "back": "Steven Spielberg said people had forgotten how to tell a story.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Jean Houston dijo que si seguías contando la misma historia triste, seguirías viviendo la misma vida triste.",
+      "back": "Jean Houston said if you kept telling the same sad story, you would keep living the same sad life.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Nunca le cuentes un secreto a una novia o a un novio; espera a que lleven casados un tiempo.",
+      "back": "Never tell a secret to a bride or a groom; wait until they have been married longer.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Claro que puedo guardar secretos; es la gente a la que se los cuento la que no puede guardarlos.",
+      "back": "Of course I can keep secrets. It's the people I tell them to that can't keep them.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "No se me dan bien los secretos, así que no me cuentes ninguno.",
+      "back": "I'm not good at secrets, so don't tell me any.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella sabe decir la hora en cinco idiomas.",
+      "back": "She knows how to tell the time in five languages.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Gracias a Dios no podemos predecir el futuro; nunca nos levantaríamos de la cama.",
+      "back": "Thank God we can't tell the future. We'd never get out of bed.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Aprendí a decir la hora cuando tenía seis años.",
+      "back": "I learned how to tell the time when I was six.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Me dijeron que venías.",
+      "back": "I was told you were coming.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Le dijeron a él que iba a llover.",
+      "back": "He was told it was going to rain.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Le dijeron a ella que habría al menos cinco.",
+      "back": "She was told there would be at least five.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "No nos dijeron que estuvieras aprendiendo inglés.",
+      "back": "We weren't told you were learning English.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "No nos dijeron que tuvieran una habitación libre.",
+      "back": "We weren't told they had a vacancy.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "No les dijeron que fuese la última parada.",
+      "back": "They weren't told it was the last stop.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "No me dijeron que llegara aquí media hora antes de tiempo.",
+      "back": "I wasn't told to get here half an hour early.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "No le dijeron que llevara corbata.",
+      "back": "He wasn't told to wear a tie.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "No le dijeron a ella que hiciera la reserva del vuelo sin decírtelo.",
+      "back": "She wasn't told to book the flight without telling you.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Nos dijeron que lleváramos los pasaportes todo el tiempo.",
+      "back": "We were told to carry our passports at all times.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Les dijeron que no cerraran las puertas con llave por la noche.",
+      "back": "They were told not to lock their doors at night.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Nos dijeron que pusiéramos nuestra alarma a las seis de la mañana.",
+      "back": "We were told to set our alarm clock for 6 am.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "¿No te dijeron que estuve aquí?",
+      "back": "Weren't you told I was here?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "¿No le dijeron a él que veníamos?",
+      "back": "Wasn't he told we were coming?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¿No les dijeron que vistieran formalmente?",
+      "back": "Weren't they told to dress formally?",
+      "sourcePage": 47
+    }
+  ]
+}
