@@ -32,7 +32,7 @@ Fuente local: `sources/english/Libro NN.pdf`. Los PDF 1–20 proceden del primer
 | 26 | 86 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 26 flashcards by level` |
 | 27 | 86 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 27 flashcards by level` |
 | 28 | 86 | Publicado | 90 / 91 / 90 | `Add Vaughan English book 28 flashcards by level` |
-| 29 | 86 | Pendiente | — | — |
+| 29 | 86 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 29 flashcards by level` |
 | 30 | 86 | Pendiente | — | — |
 | 31 | 86 | Pendiente | — | — |
 | 32 | 50 | Pendiente | — | — |

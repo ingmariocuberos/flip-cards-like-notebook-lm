@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-29",
+  "bookTitle": "Libro 29",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡No vuelvas a perder tu monedero!",
+      "back": "Don't lose your purse again!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Estoy seguro de que ella va a perder su monedero.",
+      "back": "I'm sure she's going to lose her purse.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "No quiero volver a perder mi monedero.",
+      "back": "I don't want to lose my purse again.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Es fácil perder tu abono en el Metro.",
+      "back": "It's easy to lose your travel card on the tube.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Es bastante fácil perder tu abono en la estación de Metro.",
+      "back": "It's quite easy to lose your travel card in the tube.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Es muy fácil perder tu abono si no tienes cuidado.",
+      "back": "It's very easy to lose your travel card if you're not careful.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Es fácil perder cosas, como tu abono, en el Metro.",
+      "back": "It's easy to lose things, like your travel card, on the tube.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Siempre estoy extraviando cosas, como por ejemplo mi monedero.",
+      "back": "I'm always losing things, like my purse.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Asegúrate de no perder nada, como por ejemplo tu abono.",
+      "back": "Make sure you don't lose anything, like your travel card.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Como yo, él a veces pierde cosas en el vagón del Metro.",
+      "back": "Like me, he sometimes loses things on the metro.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Igual que su hermana, ella nunca pierde nada.",
+      "back": "Like her sister, she never loses anything.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Ella pierde cosas a menudo, igualita que su madre.",
+      "back": "She often loses things, just like her mother.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Mi mujer nunca pierde nada, no como yo.",
+      "back": "Unlike me, my wife never loses anything.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "A diferencia de su mujer, Donald a veces pierde cosas importantes, como por ejemplo su abono.",
+      "back": "Unlike his wife, Donald sometimes loses important things, like his travel card.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "A diferencia de su marido, Donna a veces pierde cosas importantes, como por ejemplo su monedero.",
+      "back": "Unlike her husband, Donna sometimes loses important things, such as her purse.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Siempre pierdo al tenis.",
+      "back": "I always lose at tennis.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No quiero perder la apuesta.",
+      "back": "I don't want to lose the bet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Creo que vamos a perder el partido.",
+      "back": "I think we're going to lose the match.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Mi padre siempre pierde a las cartas. Da igual lo que haga.",
+      "back": "My father always loses at cards. It doesn't matter what he does.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Mi hermano siempre pierde al tenis. Da igual cómo juegue.",
+      "back": "My brother always loses at tennis. It doesn't matter how he plays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Mi hermana siempre pierde las apuestas. Da igual lo que diga.",
+      "back": "My sister always loses bets. It doesn't matter what she says.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Creo que vamos a perder contra ellos.",
+      "back": "I think we're going to lose against them.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Crees que el Manchester United va a perder contra el Liverpool?",
+      "back": "Do you think Manchester United is going to lose against Liverpool?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Suelo perder contra mi hijo al tenis.",
+      "back": "I usually lose against my son at tennis.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Quién crees que va a ganar la guerra?",
+      "back": "Who do you think is going to win the war?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Siempre ganan ellos. Da igual lo que hagamos.",
+      "back": "They always win. It doesn't matter what we do.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Él nunca gana. Da igual lo que haga.",
+      "back": "He never wins. It doesn't matter what he does.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Creo que nos van a ganar.",
+      "back": "I think they're going to beat us.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Crees que el Liverpool va a ganarle al Manchester United?",
+      "back": "Do you think Liverpool is going to beat Manchester United?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Mi hijo me suele ganar al tenis.",
+      "back": "My son usually beats me at tennis.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Ella quiere perder peso.",
+      "back": "She wants to lose weight.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡No necesitas adelgazar!",
+      "back": "You don't need to lose weight!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Necesito perder un poquito de peso.",
+      "back": "I need to lose a bit of weight.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Pierdo la voz todos los inviernos.",
+      "back": "I lose my voice every winter.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡Odio perder la voz!",
+      "back": "I hate losing my voice.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Él nunca pierde la voz.",
+      "back": "He never loses his voice.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Casi nunca pierdo los estribos.",
+      "back": "I hardly ever lose my temper.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Él está siempre perdiendo los estribos.",
+      "back": "He's always losing his temper.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¡Tranquilo! ¡No pierdas los estribos!",
+      "back": "Calm down! Don't lose your temper!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Ten cuidado! Tienes mucho que perder.",
+      "back": "Be careful! You have a lot to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "No importa. No tengo mucho que perder.",
+      "back": "It doesn't matter. I don't have a lot to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Trabajamos duro, pero tenemos mucho que perder.",
+      "back": "We work very hard, but we have a lot to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "No tengo absolutamente nada que perder.",
+      "back": "I have absolutely nothing to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "No le queda nada por perder.",
+      "back": "He has nothing left to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Van a hacerlo lo mejor que puedan; no tienen nada que perder.",
+      "back": "They're going to do their best; they have nothing to lose.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Si no eres rápido, perderás el autobús.",
+      "back": "If you're not quick, you'll miss the bus.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Si no te das prisa, perderás el autobús.",
+      "back": "If you don't hurry up, you'll miss the bus.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Si no te apuras, perderás el autobús.",
+      "back": "If you don't get a move on, you'll miss the bus.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Si te vas temprano, no perderás el tren.",
+      "back": "If you leave early, you won't miss the train.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Si coges ese atajo, no perderás el tren.",
+      "back": "If you take that shortcut, you won't miss the train.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Si te compras el billete por Internet, no perderás el tren.",
+      "back": "If you buy your ticket on the Internet, you won't miss the train.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Él se perderá la boda si no se viste ahora mismo.",
+      "back": "He'll miss the wedding if he doesn't get dressed right now!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Él se perderá la boda si no se levanta.",
+      "back": "He'll miss the wedding if he doesn't get up!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Él se perderá la boda si se queda en la cama.",
+      "back": "He'll miss the wedding if he stays in bed!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Se perderá la reunión si no la llevo en coche al trabajo.",
+      "back": "She'll miss the meeting if I don't drive her to work.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Si ella se pierde la reunión, perderá el trabajo.",
+      "back": "If she misses the meeting, she'll lose her job.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Si ella pierde su trabajo, se perderá todas las demás reuniones.",
+      "back": "If she loses her job, she'll miss all the other meetings.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Nos perderemos la película si perdemos el autobús.",
+      "back": "We'll miss the film if we miss the bus.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Se perderán el programa si llego tarde.",
+      "back": "They'll miss the programme if I'm late.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Si te pierdes el partido, más tarde lo sentirás.",
+      "back": "If you miss the match, you'll be sorry later.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Te echo de menos.",
+      "back": "I miss you.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Te echo tanto de menos...",
+      "back": "I miss you so much.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Te echo mucho de menos, ¿sabes?",
+      "back": "I really miss you, you know.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "A Camilla le gusta vivir en Suecia, pero echa de menos el estilo de vida español.",
+      "back": "Camilla likes living in Sweden, but she misses the Spanish lifestyle.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Lo que más echa de menos él es la comida.",
+      "back": "What he misses the most is the food.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Creo que mi perro me echa de menos cuando no estoy.",
+      "back": "I think my dog misses me when I'm away.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Te echaré de menos cuando estés en el extranjero.",
+      "back": "I'll miss you when you're abroad.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Te echaré de menos cuando te vayas de vacaciones.",
+      "back": "I'll miss you when you go on holiday.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Te echaré mucho de menos cuando esté dormida.",
+      "back": "I'll really miss you when I'm asleep.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Él me echará de menos cuando se mude a Alemania.",
+      "back": "He'll miss me when he moves to Germany.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Nos echará ella de menos cuando se mude a Brasil?",
+      "back": "Will she miss us when she moves to Brazil?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Su hija le echará de menos cuando se mude a Londres.",
+      "back": "His daughter will miss him when she moves to London.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Les echaremos de menos cuando dimitan.",
+      "back": "We'll miss them when they quit.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Quién me echará de menos cuando dimita?",
+      "back": "Who'll miss me when I resign?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Todo el mundo le echará de menos a ella cuando dimita.",
+      "back": "Everyone will miss her when she quits.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Echo de menos encargarme del jardín cuando estoy de vacaciones.",
+      "back": "I miss doing the gardening when I'm on holiday.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Ella echa de menos bailar el twist.",
+      "back": "She misses doing the twist.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Echo de menos hacer kárate. Espero que se me cure pronto la pierna.",
+      "back": "I miss doing karate. I hope my leg gets better.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Echo de menos estudiar porque trabajar es mucho más mundano.",
+      "back": "I miss studying because working is more mundane.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Él echa de menos estudiar porque disfruta aprendiendo.",
+      "back": "He misses studying because he enjoys learning.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Esther echa de menos estudiar porque le gusta trabajar a su propio ritmo.",
+      "back": "Esther misses studying because she likes to work at her own pace.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Echo de menos bailar hasta el amanecer.",
+      "back": "I miss dancing until dawn.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Ella echa de menos bailar cuando está estudiando para sus exámenes.",
+      "back": "She misses dancing when she's studying for her exams.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Ella echa de menos bailar cuando está trabajando.",
+      "back": "She misses dancing when she's working.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "No echaré de menos la nieve cuando deje de nevar.",
+      "back": "I won't miss it when it stops snowing.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¡No echaré de menos planchar cuando no tenga que hacerlo la semana que viene!",
+      "back": "I won't miss it when I don't have to do the ironing next week!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Helen no echará de menos estudiar cuando ya no tenga que hacerlo.",
+      "back": "Helen won't miss it when she no longer has to study.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Echaré de menos bailar juntos cuando seamos demasiado mayores para hacerlo.",
+      "back": "I'll miss it when we are too old to dance together.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Echaremos de menos estudiar cuando ya no tengamos que hacerlo.",
+      "back": "We'll miss it when we don't have to study any more.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Echarán de menos encargarse de la jardinería cuando se muden a la ciudad.",
+      "back": "They'll miss doing the gardening when they move to the city.",
+      "sourcePage": 19
+    }
+  ]
+}

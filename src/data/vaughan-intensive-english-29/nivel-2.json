@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-29",
+  "bookTitle": "Libro 29",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Perdí la llave de mi coche el otro día. Tardé mucho tiempo en encontrarla.",
+      "back": "I lost my car key the other day. It took me ages to find it.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Mi tío perdió las gafas el otro día. Tardó toda la mañana en encontrarlas.",
+      "back": "My uncle lost his glasses the other day. It took him all morning to find them.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Shelley perdió el móvil el otro día. Tardó dos días en encontrarlo.",
+      "back": "Shelley lost her mobile the other day. It took her two days to find it.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "¿Quién perdió el papelito con el número del fontanero?",
+      "back": "Who lost the piece of paper with the plumber's phone number on?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "¿Quién perdió el mapa en el que estaba escrito el nombre del hotel?",
+      "back": "Who lost the map with the name of the hotel written on it?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "¿Quién perdió el papelito en el que estaban escritas las indicaciones para llegar?",
+      "back": "Who lost the piece of paper with the directions written on it?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Sabes quién perdió el papelito en el que estaba escrita la lista de la compra?",
+      "back": "Do you know who lost the piece of paper with the shopping list written on it?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Sabes quién perdió el papelito con el nombre del electricista?",
+      "back": "Do you know who lost the piece of paper with the electrician's name on?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Sabes quién perdió ese papelito en el que estaba escrita la receta para el gazpacho?",
+      "back": "Do you know who lost that piece of paper with the gazpacho recipe written on it?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Nunca he perdido nada particularmente valioso.",
+      "back": "I've never lost anything particularly valuable.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Mi madre nunca ha perdido nada particularmente importante.",
+      "back": "My mother's never lost anything particularly important.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "No creo que haya perdido nunca nada particularmente destacable.",
+      "back": "I don't think I've ever lost anything particularly significant.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Alguna vez has perdido un papelito en el que estaba escrito algo particularmente importante?",
+      "back": "Have you ever lost a piece of paper with anything particularly important written on it?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Sabes si alguna vez ella ha perdido un papelito con algo importante encima?",
+      "back": "Do you know if she's ever lost a piece of paper with anything important on?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Alguna vez tu electricista ha perdido sus gafas?",
+      "back": "Has your electrician ever lost his glasses?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Has dicho «cara gano yo, cruz pierdes tú»; no soy tonto, eso es una trampa y yo perdería de las dos formas.",
+      "back": "You said \"heads I win, tails you lose\"; I'm not stupid, that's cheating and I would lose either way.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Hemos perdido a cara o cruz; ellos deciden qué lado del campo prefieren.",
+      "back": "We've lost the toss; they get to decide which end of the pitch they want.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Tuve que pagar la cena, ya que nos la jugamos a cara o cruz y yo perdí.",
+      "back": "I had to pay for dinner because we flipped a coin and I lost.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Cuántos partidos han perdido seguidos?",
+      "back": "How many matches have they lost in a row?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Él perdió 16 puntos seguidos en el segundo set.",
+      "back": "He lost 16 points in a row in the second set.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Ella sigue siendo el número uno de las Islas Británicas en tenis femenino a pesar de haber perdido 10 partidos seguidos en los Grand Slams.",
+      "back": "She is still the British number one tennis player despite the fact that she has lost 10 Grand Slam matches in a row.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Cuántos partidos han perdido en casa esta temporada?",
+      "back": "How many home matches have they lost this season?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Han perdido todos sus partidos fuera de casa en lo que va de temporada.",
+      "back": "They've lost all their away matches so far this season.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Perdieron la ida fuera de casa, así que tienen que ganar en la vuelta.",
+      "back": "They lost the first leg away, so they need to win the second leg at home.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Han perdido en su recurso de apelación al Tribunal Supremo?",
+      "back": "Have they lost their appeal in the Supreme Court?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Perdió la custodia de sus hijos después de una larga y amarga batalla con su mujer.",
+      "back": "He lost custody of his children after a long and bitter battle with his wife.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Es el tercer juicio que él ha perdido desde que empecé a trabajar en esta empresa.",
+      "back": "That's the third lawsuit he has lost since I started working in this company.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Han perdido las elecciones con una derrota arrolladora.",
+      "back": "They've lost the election by a landslide.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Perdieron el control del Congreso en las elecciones a mitad del mandato presidencial.",
+      "back": "They lost control of Congress in the mid-term elections.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Ha perdido la primera votación, pero aún podría ser la líder si lo hace bien en las próximas rondas.",
+      "back": "She has lost the first vote, but she could still become leader if she does well in the next rounds.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Por qué te ganó ella por tan poco?",
+      "back": "Why did she beat you so narrowly?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Derrotó ella al otro candidato de forma contundente en el debate?",
+      "back": "Did she beat the other candidate hands down in the debate?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Derrotó John a su rival de forma honesta?",
+      "back": "Did John beat his opponent fair and square?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Guadalajara perdió contra Racing de Santander anoche; Racing de Santander ganó a Guadalajara anoche.",
+      "back": "Guadalajara lost to Racing de Santander last night. Racing de Santander beat Guadalajara last night.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Mirandés perdió contra Ponferradina la semana pasada; Ponferradina ganó a Mirandés.",
+      "back": "Mirandés lost to Ponferradina last week. Ponferradina beat Mirandés last week.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Girona perdió contra Alicante dos veces la temporada pasada; Alicante ganó a Girona dos veces.",
+      "back": "Girona lost to Alicante twice last season. Alicante beat Girona twice last season.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Perdí contra él a los dardos, pero le gané al póker.",
+      "back": "I lost to him at darts, but I beat him at poker.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "¡Perdieron contra nosotros al escondite y también les ganamos al balón prisionero!",
+      "back": "They lost to us at hide and seek and we beat them at dodge ball too!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Nuestros hijos nos suelen ganar a las películas, pero estamos encantados de perder contra ellos.",
+      "back": "Our kids usually beat us at charades, but we're happy to lose to them.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¡Él sólo me ganó porque me torcí el tobillo!",
+      "back": "He only beat me because I twisted my ankle!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¡Ellos sólo nos ganaron porque él se hizo un esguince en la muñeca!",
+      "back": "They only beat us because he sprained his wrist!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¡Sólo la ganaste porque ella se lesionó el hombro!",
+      "back": "You only beat her because she injured her shoulder!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "—¿Crees que él me ganó de forma honesta? —¡Ni idea!",
+      "back": "—Do you think he beat me fair and square? —Beats me!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "—¿Cómo se hizo tu hijo el esguince en el tobillo? —¡Ni idea!",
+      "back": "—How did your son sprain his ankle? —Beats me!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "—¿Sabes si el Girona derrotó al Alicante anoche? —¡Ni idea!",
+      "back": "—Do you know if Girona beat Alicante last night? —Beats me!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Siempre me pierdo; creo que nací sin sentido de la orientación.",
+      "back": "I always get lost; I think I was born without a sense of direction.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Ella no tiene sentido de la orientación alguno. Por eso se perdió.",
+      "back": "She doesn't have a sense of direction whatsoever. That's why she got lost.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Cómo es que te pierdes cada vez? ¿No tienes sentido de la orientación?",
+      "back": "How come you get lost every time? Do you have no sense of direction?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "No me puedo creer que te perdieras y no pudieras pedir indicaciones a nadie.",
+      "back": "I can't believe you got lost and couldn't ask anyone for directions.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "No me extraña que no se perdieran. ¡Tenían las indicaciones correctas para llegar!",
+      "back": "No wonder they didn't get lost. They had the right directions to get there!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Nadie pensará que eres peor persona si te pierdes y pides indicaciones.",
+      "back": "No one will think any less of you if you get lost and ask for directions.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Cómo pudo nuestro sospechoso perderse entre la multitud? ¿No le estabas siguiendo?",
+      "back": "How could our suspect get lost in the crowd? Weren't you following him?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Las calles estaban tan abarrotadas por el desfile del 4 de julio que era difícil no perderse entre la multitud.",
+      "back": "The streets were so crowded due to the 4th of July parade that it was hard not to get lost in the crowd.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Me estás diciendo que te perdiste entre la multitud durante la manifestación y no pudiste volver?",
+      "back": "Are you telling me you got lost in the crowd during the demonstration and couldn't get back?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "¡Que no cunda el pánico! Nunca me pierdo porque llevo una brújula dondequiera que voy.",
+      "back": "Don't panic! I never get lost because I carry a compass everywhere I go.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "El astronauta entró en pánico y se volvió a perder en el espacio.",
+      "back": "The astronaut panicked and got lost in outer space again.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "No podrás encontrar el camino de vuelta si te pierdes y entras en pánico, así que intenta mantener la calma.",
+      "back": "You won't be able to find your way back if you get lost and panic, so try and keep calm.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Me encanta perderme por calles secundarias cada vez que hago turismo en algún sitio por primera vez.",
+      "back": "I love getting lost in back streets every time I go sightseeing somewhere for the first time.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "La mejor forma de ver Ámsterdam es perdiéndose por sus canales.",
+      "back": "The best way to see Amsterdam is getting lost through its canals.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Prefieres ir a hacer turismo con el guía o perderte conmigo?",
+      "back": "Do you prefer to go sightseeing with the guide or get lost with me?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Lo siento, Louis, te lo has perdido por cinco minutos.",
+      "back": "Sorry, Louis, you missed him by five minutes.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "¡Hola, Louis! Te lo acabas de volver a perder...",
+      "back": "Hi, Louis! You just missed him again...",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "A que no sabes qué, Louise. Esta vez te lo has perdido por tres minutos.",
+      "back": "Guess what, Louise. You missed him by three minutes this time.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Me lo he perdido, no estaba prestando atención.",
+      "back": "I missed that, I wasn't paying attention.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Me lo he perdido. ¿Me lo podrías enseñar una vez más?",
+      "back": "I missed that. Could you please show it to me one more time?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Me lo he perdido. ¿Te importaría volver a hacerlo?",
+      "back": "I missed that. Would you mind doing it again?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Qué pena que el director de Hollywood se perdiera nuestra actuación.",
+      "back": "Too bad the Hollywood director missed our performance.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Es una pena que nos perdiéramos vuestra canción por un poquito.",
+      "back": "Shame we missed your song by just a tad.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Qué pena que me perdiera al gato poniéndome caras raras.",
+      "back": "Pity I missed the cat pulling a face at me.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Siento mucho haberme perdido su discurso, Su Majestad.",
+      "back": "I'm very sorry I missed your speech, Your Majesty.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Ella siente muchísimo haberse perdido tu presentación de PowerPoint.",
+      "back": "She's terribly sorry she missed your PowerPoint presentation...",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Él siente muchísimo haberse perdido tu cena el otro día.",
+      "back": "He's awfully sorry he missed your dinner party the other day.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "¡Jolín! ¡Me he perdido mi anuncio preferido otra vez! Es que no cambio los canales lo bastante rápido.",
+      "back": "Darn! I missed my favorite commercial again! I just don't change channels fast enough.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Cómo que George acaba de estar aquí? ¡Nos lo hemos perdido por tan poco!",
+      "back": "What do you mean George was just here! We missed him by so little!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "¡Te acabas de perder otro semáforo en verde, Godofredo!",
+      "back": "You just missed another green light, Geoffrey!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "¡No puede creer que haya fallado el gol!",
+      "back": "I can't believe he missed the goal!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "El delantero raramente falla un penalti.",
+      "back": "The striker rarely misses a penalty.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Si falla otra vez, ¡España va ser eliminada de la Copa del Mundo en la primera vuelta!",
+      "back": "If he misses again, Spain will be out of the World Cup in the first round!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "¡Ése es el segundo golpe que ha fallado el jugador!",
+      "back": "That's the second shot the player's missed!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "¡Qué desastre! Está fallando todos los golpes.",
+      "back": "It's a disaster! He keeps missing the shot.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Él ha fallado el golpe y ha perdido el partido.",
+      "back": "He's missed the shot and lost the game.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "El portero casi no cogió el balón.",
+      "back": "The goalkeeper nearly missed the ball.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "¡Él casi cogió el balón!",
+      "back": "He just missed the ball!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "El portero no cogió el balón ni de lejos.",
+      "back": "The goalkeeper missed the ball by a mile!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "El tirador erró el tiro del blanco que estaba más lejos.",
+      "back": "The marksman missed the furthest target.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "No erró el tiro del blanco que estaba más cerca.",
+      "back": "He didn't miss the closest target.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Alguna vez ha errado el tiro a esa distancia?",
+      "back": "Has he ever missed at that distance?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "La bala casi falló el blanco.",
+      "back": "The bullet nearly missed the target.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "La flecha casi llega al blanco.",
+      "back": "The arrow just missed the target.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¡El dardo no dio en la diana ni de lejos!",
+      "back": "The dart missed the bullseye by a mile!",
+      "sourcePage": 47
+    }
+  ]
+}
