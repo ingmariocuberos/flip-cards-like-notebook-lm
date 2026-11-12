@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-24",
+  "bookTitle": "Libro 24",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Corrí mil metros en menos de diez minutos el lunes.",
+      "back": "I ran one thousand meters in less than ten minutes on Monday.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Luego corrí la carrera del martes en menos de diez minutos.",
+      "back": "Then I ran Tuesday's race in less than ten minutes.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Y luego corrí el maratón del jueves en menos de cincuenta minutos. Creo que tengo súper poderes.",
+      "back": "And then I ran Thursday's marathon in less than fifty minutes. I think I have super powers.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "A algunos les gusta ir a correr por la mañana.",
+      "back": "Some people like to go running in the morning.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "A otros les gusta correr por la tarde.",
+      "back": "Other people like to go running in the afternoon.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Y a otros les gusta correr por la tarde noche.",
+      "back": "And other people like to go running in the evening.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Corrí del sofá al sillón en nada de tiempo!",
+      "back": "I ran from the couch to the armchair in no time at all!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Silvia corrió desde la calle Alberto Alcocer a su apartamento en nada de tiempo!",
+      "back": "Sylvia ran from Alberto Alcocer Street to her apartment in no time at all!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Nicolás corrió de donde estaba su toalla al agua en nada de tiempo!",
+      "back": "Nicholas ran from his towel to the water in no time at all!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Correr en el agua es más cansado que correr en el asfalto.",
+      "back": "Running in the water is more tiring than running on asphalt.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Correr en el campo es más sano que correr en la ciudad.",
+      "back": "Running in the country is healthier than running in the city.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Correr en las nubes es como correr entre bolas de algodón?",
+      "back": "Is running on the clouds like running on cotton balls?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Corro para no perder el autobús todas las mañanas. ¡Siempre voy tarde!",
+      "back": "I run for the bus every morning. I'm always late!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Corrí para no perder el 656 anoche.",
+      "back": "I ran for bus 656 last night.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Nunca corro para no perder el tren. Simplemente cojo el siguiente.",
+      "back": "I never run for the train. I just catch the next one.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¡Tómatelo con calma! ¡Siempre estás corriendo de aquí para allá!",
+      "back": "Take it easy! You're always running around!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Ella es como una hormiguita, siempre está corriendo de acá para allá.",
+      "back": "She's like a busy bee, always running around.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Ella no dejará de correr de aquí para allá; simplemente no puede tomárselo con calma.",
+      "back": "She won't stop running around; she just can't take it easy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No sé por qué los niños subieron las escaleras corriendo a medianoche.",
+      "back": "I don't know why the children ran upstairs at midnight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "¡No puedes subir las escaleras corriendo con una pierna rota!",
+      "back": "You can't run upstairs with a broken leg!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¡Resulta tan cansado correr escaleras arriba!",
+      "back": "Running upstairs is so tiring!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¡Venga! ¡Bajad corriendo a por vuestros regalos!",
+      "back": "Come on! Run downstairs to get your presents!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¡No puedo hablar ahora mismo, estoy corriendo escaleras abajo!",
+      "back": "I can't talk right now, I'm running downstairs!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Mi perro baja las escaleras corriendo cuando llego a casa.",
+      "back": "My dog runs downstairs when I get home.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No entres corriendo en la sala, están reunidos.",
+      "back": "Don't run into the room, they're in a meeting.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Él entró corriendo en la habitación y sonrió.",
+      "back": "He ran into the room and smiled.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Entramos corriendo y les sorprendemos?",
+      "back": "Shall we run into the room and surprise them?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Sal corriendo de la habitación! ¡Está ardiendo!",
+      "back": "Run out of the room! It's on fire!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Salimos corriendo de la casa porque estaba en llamas.",
+      "back": "We ran out of the house because it was on fire.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Podéis salir corriendo del edificio? ¡Está en llamas!",
+      "back": "Can you run out of the building? It's on fire!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Hasta qué hora suelen funcionar los trenes que van a Londres?",
+      "back": "What time do trains to London normally run until?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Los trenes suelen operar hasta un poco antes de la medianoche.",
+      "back": "Trains normally run until just before midnight.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "De hecho, el último tren sale a las doce menos diez.",
+      "back": "In fact, the last train runs at ten to midnight.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Los autobuses no están operando hoy debido a la nieve.",
+      "back": "The buses aren't running today because of the snow.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "La mayoría de los trenes no están funcionando hoy debido a los fuertes vientos.",
+      "back": "Most trains aren't running today because of the high winds.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Hoy habrá autobuses extra por la final de Copa.",
+      "back": "Extra buses will be running today because of the Cup Final.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Me temo que todos los autobuses van con retraso debido a la huelga.",
+      "back": "I'm afraid all the buses are running late because of the strike.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "No me puedo creer que los trenes a Londres vayan con retraso otra vez...",
+      "back": "I can't believe the trains to London are running late again...",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Lleva retraso nuestro autobús?",
+      "back": "Is our bus running late?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¡No me puedo creer que los trenes que van a Londres salgan a su hora!",
+      "back": "I can't believe the trains to London are running on time!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Seguro que los autobuses salen puntuales?",
+      "back": "Are you sure buses are running on time?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Rápido, saca una foto! ¡Nuestro tren va a su hora!",
+      "back": "Quick, take a picture! Our train's running on time!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Te puedo llamar mañana? Ya llego tarde a mi clase de cerámica.",
+      "back": "Can I call you tomorrow? I'm running late for my ceramics class.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¡No te quedes ahí sentado si ya llegas tarde!",
+      "back": "Don't just sit there if you're running late!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Siento que no podamos quedarnos más tiempo, pero ya llegamos tarde.",
+      "back": "Sorry we can't stay any longer, but we're running late.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "No corras demasiado con el coche.",
+      "back": "Don't drive too fast.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Por qué corres tanto con el coche?",
+      "back": "Why do you drive so fast?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "No me gusta cuando corres con el coche.",
+      "back": "I don't like it when you drive fast.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Corre las cortinas: está oscureciendo.",
+      "back": "Draw the curtains: it's getting dark.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Siempre corro las cortinas antes de acostarme.",
+      "back": "I always draw the curtains before I go to bed.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Cuándo vas a correr las cortinas?",
+      "back": "When are you going to draw the curtains?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Quién va a correr con los gastos?",
+      "back": "Who's going to foot the bill?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Él no quiere correr con los gastos.",
+      "back": "He doesn't want to foot the bill.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Yo tampoco quiero correr con los gastos.",
+      "back": "I don't want to foot the bill either.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Corremos peligro.",
+      "back": "We're in danger.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Corren peligro nuestros puestos de trabajo?",
+      "back": "Are our jobs in danger?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Las víctimas no corren peligro.",
+      "back": "The victims aren't in danger.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Puedes correr el sofá un poco a la derecha, por favor?",
+      "back": "Can you move the sofa a bit to the right, please?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Corramos la mesa hasta la ventana.",
+      "back": "Let's move the table over to the window.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Voy a correr mi silla un poco a la izquierda.",
+      "back": "I'm going to move my chair a bit to the left.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Me acerco a casa de mi madre cada vez que necesito especias.",
+      "back": "I run over to my mum's every time I need spices.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Nos acercamos a casa de Gloria cada vez que tenemos hambre.",
+      "back": "We run up to Gloria's every time we're hungry.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Nos acercamos a casa de mis padres para el fin de semana?",
+      "back": "Shall we run down to my parents' for the weekend?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Puedes acercarte a mi casa y apagar las luces, por favor?",
+      "back": "Can you please run over to mine and turn off the lights?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Subo a tu casa y apago las luces?",
+      "back": "Shall I run up to yours and turn off the lights?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "¡Y luego podemos bajar a mi casa y apagar las luces!",
+      "back": "And then we can run down to mine and turn off the lights!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "No te preocupes, me acercaré en una carrera a ese chino a comprar la comida del gato.",
+      "back": "Don't worry, I'll run over to that corner shop to buy the cat's food.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Nos acercaremos en un momento al chino. ¡Se me ha olvidado la leche!",
+      "back": "We'll run up to the corner shop. I forgot the milk!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Puedes bajarte al chino a por chicles?",
+      "back": "Can you run down to the corner shop and get some chewing gum?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Te acercas a Cuenca cada vez que quieres ver casas colgantes?",
+      "back": "Do you run over to Cuenca every time you want to see hanging houses?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Me acerco a Burgos cada vez que necesito morcilla.",
+      "back": "I run up to Burgos every time I need some black pudding.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Nos acercamos a Toledo y compramos una espada?",
+      "back": "Shall we run down to Toledo and buy a sword?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Vamos a acercarnos a mi pueblo para las fiestas!",
+      "back": "Let's run over to my hometown for the fiestas!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Creo que subiré al pueblo de mi novio para el fin de semana.",
+      "back": "I think I'll run up to my boyfriend's hometown for the weekend.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Él bajó al pueblo de su novia la semana pasada.",
+      "back": "He ran down to his girlfriend's hometown last week.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Pongo el aire acondicionado durante el verano.",
+      "back": "I run the air conditioning in the summer.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Él pone el aspersor por la mañana.",
+      "back": "He runs the sprinkler in the morning.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Ponemos la calefacción cuando hace mucho frío.",
+      "back": "We run the heating when it's very cold.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "El motor está en marcha.",
+      "back": "The motor is running.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "El frigorífico hace mucho ruido cuando está en marcha.",
+      "back": "The fridge makes a lot of noise when it's running.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Mantén el taxímetro en marcha!",
+      "back": "Keep the meter running!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Mi médico me hace pruebas todas las semanas.",
+      "back": "My doctor runs tests on me every week.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Escaneamos el ordenador todas las noches.",
+      "back": "We run a scan on the computer every night.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "La empresa hizo un simulacro de incendio esta mañana.",
+      "back": "The company ran a fire drill this morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "El Rover de Philip usa gasolina.",
+      "back": "Philip's Rover runs on petrol.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Su tractor usa menos gasolina que su coche.",
+      "back": "His tractor runs on less petrol than his car.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "La moto de Mimi usa gasolina.",
+      "back": "Mimi's motorbike runs on gas.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¡El sistema informático vuelve a funcionar!",
+      "back": "The computer system is up and running!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Todos nos alegramos de que vuelvas a estar bien!",
+      "back": "We're all glad you're up and running!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Ayer inauguramos la flota. ¡Ya está funcionando!",
+      "back": "We inaugurated the fleet yesterday. It's up and running!",
+      "sourcePage": 19
+    }
+  ]
+}

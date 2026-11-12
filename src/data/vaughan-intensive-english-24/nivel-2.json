@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-24",
+  "bookTitle": "Libro 24",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Cuántas maratones has corrido en lo que va de año?",
+      "back": "How many marathons have you run so far this year?",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-002",
+      "front": "Este año no he corrido ningún maratón, pero el año pasado corrí cinco.",
+      "back": "This year I haven't run any marathons but last year I ran five.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-003",
+      "front": "¿Sabes cuánta gente corrió en la carrera de ayer? 4.537 personas corrieron en la carrera de ayer.",
+      "back": "Do you know how many people ran in yesterday's race? 4,537 people ran in yesterday's race.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-004",
+      "front": "La niña se levantó y bajó corriendo para abrir los regalos de Navidad.",
+      "back": "The little girl got up and ran downstairs to open her Christmas presents.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-005",
+      "front": "El bombero entró en la casa corriendo para comprobar que no había nadie más dentro.",
+      "back": "The fireman ran into the house to check there was nobody else inside.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-006",
+      "front": "La mujer subió corriendo para comprobar qué es lo que había causado el ruido.",
+      "back": "The woman ran upstairs to check what had caused the noise.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-007",
+      "front": "El autobús 27 no circuló del 3 al 6 de enero debido a la cabalgata de los Reyes Magos.",
+      "back": "Bus No. 27 didn't run from the 3rd to the 6th of January because of the Three Wise Men parade.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-008",
+      "front": "Los trenes que van del centro de la ciudad al aeropuerto no han estado circulando desde que empezaron las tareas de mantenimiento.",
+      "back": "Trains from the city centre to the airport haven't been running since the maintenance work on the railway started.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-009",
+      "front": "Los autobuses X1 y X2 circularon durante el periodo navideño, pero ya no circulan.",
+      "back": "Buses X1 and X2 ran over the Christmas period but they don't run any more.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-010",
+      "front": "¡Es la segunda vez esta semana que la ropa se me destiñe en la lavadora!",
+      "back": "It's the second time this week that my clothes have run in the wash!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-011",
+      "front": "Me froté los ojos y ¡se me corrió todo el rímel!",
+      "back": "I rubbed my eyes and all my mascara ran!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-012",
+      "front": "Lavé sin querer la ropa blanca con la ropa de color y todos los colores se destiñeron y ¡arruinaron mis sábanas de algodón!",
+      "back": "I accidentally washed whites and colours together and all the colours ran and ruined my cotton sheets!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-013",
+      "front": "Él se saltó un semáforo en rojo y le multaron con 100 euros.",
+      "back": "He ran a red light and was fined 100 euros.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-014",
+      "front": "Suspendió el examen de conducir porque se saltó dos semáforos.",
+      "back": "He failed his driving test because he ran two red lights.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Te ha parado alguna vez la policía por haberte saltado un semáforo en rojo?",
+      "back": "Have you ever run a red light and been stopped by the police?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-016",
+      "front": "Llamé al técnico porque el agua no salía caliente.",
+      "back": "I called the repairman because the water wasn't running hot.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-017",
+      "front": "Me quemé cuando el agua empezó a salir caliente de repente cuando estaba duchándome.",
+      "back": "I burnt myself while having a shower when the water suddenly started running hot.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-018",
+      "front": "No terminé de ducharme, porque de repente el agua empezó a salir muy fría.",
+      "back": "I didn't finish having a shower because the water suddenly started running very cold.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Dejas el grifo abierto cuando te lavas los dientes?",
+      "back": "Do you leave the tap running when you brush your teeth?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-020",
+      "front": "No dejo el grifo abierto cuando me lavo los dientes, pero lo dejo abierto cuando me lavo la cara.",
+      "back": "I don't leave the tap running when I brush my teeth, but I leave it running when I wash my face.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-021",
+      "front": "Él se olvidó de que el grifo estaba abierto e inundó el cuarto de baño.",
+      "back": "He forgot the tap was running and flooded the bathroom.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Qué dos ríos pasan por Bristol?",
+      "back": "Which two rivers run through Bristol?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Por qué ciudad pasa el río Adur antes de desembocar en el Canal de la Mancha?",
+      "back": "Which town does the river Adur run through before flowing into the English Channel?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Qué río pasa por Nottingham, el río Trent o el río Dee?",
+      "back": "Which river runs through Nottingham, the river Trent or the river Dee?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Tienes un pañuelo de papel? ¡Me gotea la nariz!",
+      "back": "Do you have a tissue? My nose is running!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-026",
+      "front": "¡La nariz lleva horas goteándome!",
+      "back": "My nose has been running for hours now!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-027",
+      "front": "Siempre que tomo sopa o una bebida caliente, ¡me gotea la nariz!",
+      "back": "Whenever I have hot soup or a hot drink, my nose runs!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-028",
+      "front": "El río Amazonas pasa principalmente por Perú y Brasil.",
+      "back": "The Amazon river runs mostly through Peru and Brazil.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-029",
+      "front": "Ella se dejó el grifo abierto e inundó la cocina.",
+      "back": "She left the faucet running and flooded the kitchen.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-030",
+      "front": "No puedo dar una presentación delante de 50 personas ¡si mi nariz sigue goteando!",
+      "back": "I can't give a presentation in front of 50 people if my nose keeps running!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Quién crees que se presentará a las elecciones a la presidencia en 2016?",
+      "back": "Who do you think will run for president in 2016?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Qué dos candidatos se presentaron a las elecciones a la presidencia en España el año pasado?",
+      "back": "Which two candidates ran for president in Spain's elections last year?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-033",
+      "front": "Al parecer, Vladimir Putin se presentará otra vez a las elecciones a la presidencia de Rusia el próximo año.",
+      "back": "Apparently, Vladimir Putin will run for president again in Russia's elections next year.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-034",
+      "front": "¿A qué candidato se enfrentó Rajoy en las elecciones del 2011?",
+      "back": "Which candidate did Rajoy run against in the 2011 elections?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-035",
+      "front": "¿A quién se enfrentará ella para convertirse en Secretaria General del partido?",
+      "back": "Who will she run against to become Secretary General of the party?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-036",
+      "front": "Zapatero se enfrentó a Aznar en las elecciones de 2004.",
+      "back": "Zapatero ran against Aznar in 2004.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Quién tiene derecho a presentarse como candidato en una elección federal?",
+      "back": "Who has the right to run as a candidate in a federal election?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-038",
+      "front": "El Primer Ministro ha decidido no presentarse como candidato cuando se celebren las elecciones en Italia.",
+      "back": "The Prime Minister has agreed not to run as a candidate when the elections are held in Italy.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-039",
+      "front": "Sin embargo, el jefe de Ferrari sí que se presentará como candidato en las próximas elecciones en Italia.",
+      "back": "However, the Ferrari boss will run as a candidate in the next elections in Italy.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-040",
+      "front": "Ella lleva dirigiendo esta compañía desde que la fundó en 1980.",
+      "back": "She's been running this company since she set it up in 1980.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella empezó a dirigir el negocio familiar cuando falleció su padre hace diez años.",
+      "back": "She started running the family business when her father passed away ten years ago.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-042",
+      "front": "Ella lleva dirigiendo ese país desde que fue elegida presidenta en 2008.",
+      "back": "She's been running that country since she was elected President in 2008.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Qué harías si dirigieras este país?",
+      "back": "What would you do if you ran this country?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Quién hizo historia en 1972 como la primera mujer de color en presentarse a las elecciones a la presidencia?",
+      "back": "Who made history in 1972 as the first black woman to run for president?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-045",
+      "front": "Rubalcaba se enfrentó a Rajoy en las elecciones del 2011.",
+      "back": "Rubalcaba ran against Rajoy in the 2011 elections.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-046",
+      "front": "Ella chocó contra un muro de ladrillos y abolló el parachoques delantero de su coche.",
+      "back": "She ran into a brick wall and dented the front bumper of her car.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-047",
+      "front": "La policía chocó contra el coche que se daba a la fuga para evitar que los ladrones del banco huyeran.",
+      "back": "The police ran into the getaway car to prevent the bank robbers from escaping.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-048",
+      "front": "Ella se saltó un semáforo en rojo y chocó contra una furgoneta roja.",
+      "back": "She ran a red light and ran into a red van.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-049",
+      "front": "Él se encontró con su ex novia el día en que estaba muy resfriado y su nariz no paraba de gotear.",
+      "back": "He ran into his ex-girlfriend the day he had a very bad cold and his nose was running nonstop.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-050",
+      "front": "Ella se topó con su actor favorito en el supermercado del barrio.",
+      "back": "She ran into her favourite actor in her local supermarket.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-051",
+      "front": "¿Te has encontrado alguna vez con alguien que conocieras mientras estabas de viaje en el extranjero?",
+      "back": "Have you ever been travelling abroad and ran into someone you knew?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Te acercarías corriendo a un hooligan y le dirías que se comportara?",
+      "back": "Would you run up to a hooligan and tell him to behave himself?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella se acercó corriendo a un policía y le dijo que la habían asaltado.",
+      "back": "She ran up to a policeman and told him she had been mugged.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Cuántos famosos se han acercado a ti corriendo en lo que va de semana?",
+      "back": "How many celebrities have run up to you so far this week?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Te disgustarías si atropellaras a una cucaracha?",
+      "back": "Would you be upset if you ran over a cockroach?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-056",
+      "front": "Ella intentó no atropellar a la ardilla que echó a correr delante de ella en la autopista y chocó contra un árbol.",
+      "back": "She tried not to run over the squirrel that ran out in front of her on the motorway and ran into a tree.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-057",
+      "front": "En inglés la persona que atropella a alguien y se da a la fuga se llama hit and run driver.",
+      "back": "In English the person who runs someone over and doesn't stop is called a hit and run driver.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-058",
+      "front": "La policía chocó contra un coche que se estaba dando a la fuga, pero los ladrones del banco huyeron con el dinero.",
+      "back": "The police ran into a getaway car, but the bank robbers managed to run away with the money.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-059",
+      "front": "Ella dejó su trabajo y se fue con el circo.",
+      "back": "She gave up her job and ran away with the circus.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-060",
+      "front": "Él no se llevaba bien con su padre y se escapó de casa cuando tenía trece años.",
+      "back": "He didn't get along with his father and ran away from home when he was thirteen.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-061",
+      "front": "Voy a correr. ¿Quieres venir?",
+      "back": "I'm going for a run. Do you want to come?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Dónde sueles ir a correr?",
+      "back": "Where do you usually go for a run?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-063",
+      "front": "¿No ibas a salir a correr?",
+      "back": "Weren't you going to go for a run?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Rápido! ¡Vamos a escaparnos antes de que nos pille tu madre!",
+      "back": "Quick! Let's make a run for it before your mum catches us!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-065",
+      "front": "Puede que pillemos el tren si salimos corriendo ahora mismo.",
+      "back": "We might just catch the train if we make a run for it now.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-066",
+      "front": "Nunca he visto a nadie darse a la fuga de manera tan rápida como tú cuando viste a su novio llegar a la fiesta.",
+      "back": "I've never seen anyone make a run for it so quickly as you did when you saw her boyfriend arrive at the party.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-067",
+      "front": "Ya no puedo vivir así; no quiero que seamos fugitivos durante el resto de nuestras vidas.",
+      "back": "I can't live like this anymore; I don't want us to be on the run for the rest of our lives.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Durante cuánto tiempo estuvo huido de la justicia antes de que la policía finalmente le pillara?",
+      "back": "How long was he on the run before the police finally caught him?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-069",
+      "front": "¿No crees que sería divertido si estuviésemos huidos de la justicia como Bonnie y Clyde?",
+      "back": "Don't you think it would be fun if we were on the run like Bonnie and Clyde?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Por qué deja él el control de la empresa a su hijo cuando está fuera de la oficina? No tiene ni idea de nada.",
+      "back": "Why does he give his son the run of the company when he's away? He doesn't have a clue about anything.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-071",
+      "front": "Nos dejan utilizar su casa de la playa cuando no la están utilizando.",
+      "back": "They give us the run of their beach house when they're not using it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-072",
+      "front": "Mientras estemos de vacaciones tienes nuestro piso a tu entera disposición; pero cuídalo y no hagas ninguna tontería.",
+      "back": "While we're on holiday you have the run of our flat; but look after it and don't do anything stupid.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-073",
+      "front": "No fui al trabajo ayer porque andaba suelto del estómago.",
+      "back": "I didn't go to work yesterday because I had the runs.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-074",
+      "front": "Mis vacaciones en India fueron un poco mal, ya que tuve diarrea durante las dos semanas que estuve allí.",
+      "back": "My holiday in India was spoiled a little because I had the runs for the whole two weeks I was there.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-075",
+      "front": "No me extraña que siempre andes suelto del estómago; comes demasiada comida picante.",
+      "back": "I'm not surprised that you always have the runs; you eat too much spicy food.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-076",
+      "front": "No puedes desayunar cereales: nos hemos quedado sin leche.",
+      "back": "You can't have any cereal for breakfast: we've run out of milk.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-077",
+      "front": "No podemos habernos quedado sin leche tan rápido: compré dos cartones ayer mismo.",
+      "back": "We can't have run out of milk so quickly: I bought two cartons only yesterday.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-078",
+      "front": "Sólo puedo ofrecerte leche desnatada o semidesnatada, puesto que nos hemos quedado sin leche entera.",
+      "back": "I can only offer you skimmed or semi-skimmed milk as we've run out of full fat milk.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-079",
+      "front": "Tampoco puedes desayunar tostadas: nos hemos quedado sin pan de molde.",
+      "back": "You can't have any toast for breakfast either: we've run out of bread.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-080",
+      "front": "El panadero se quedó sin pan anteayer antes de mediodía.",
+      "back": "The baker ran out of bread before midday the day before yesterday.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-081",
+      "front": "¿Cómo podemos hacer más sándwiches si ya nos hemos quedado sin pan?",
+      "back": "How can we make more sandwiches if we've already run out of bread?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Cuándo fue la última vez que te quedaste sin gasolina?",
+      "back": "When was the last time you ran out of petrol?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-083",
+      "front": "Hamilton se quedó sin gasolina a sólo media vuelta del final.",
+      "back": "Hamilton ran out of gas with only half a lap to go.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-084",
+      "front": "Si no paramos pronto, nos vamos a quedar sin gasolina.",
+      "back": "If we don't stop soon, we're going to run out of petrol.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-085",
+      "front": "Lo hemos intentado todo: me temo que me he quedado sin ideas.",
+      "back": "We've tried everything; I'm afraid I've run out of ideas.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-086",
+      "front": "¡Estoy empezando a quedarme sin ideas sobre qué hacer con este trasto viejo!",
+      "back": "I'm beginning to run out of ideas about what to do with this heap of metal!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-087",
+      "front": "Esto es ridículo; no podemos estar quedándonos sin ideas.",
+      "back": "This is ridiculous; we can't be running out of ideas!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-088",
+      "front": "Estábamos divirtiéndonos tanto, que no me di cuenta de que nos hemos quedado sin tiempo.",
+      "back": "We were having such fun that I didn't realize that we've run out of time.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Eres consciente de que se te ha acabado el tiempo?",
+      "back": "Are you aware that you've run out of time?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-090",
+      "front": "Tres... dos... uno... ¡Se acabó el tiempo!",
+      "back": "Three... two... one... We've run out of time!",
+      "sourcePage": 46
+    }
+  ]
+}

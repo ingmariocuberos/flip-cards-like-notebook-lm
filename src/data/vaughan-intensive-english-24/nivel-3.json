@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-24",
+  "bookTitle": "Libro 24",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me encanta la forma en que diriges esta empresa.",
+      "back": "I love the way you run this company.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-002",
+      "front": "Me encanta cómo el chocolate se derrite cuando lo pones en el horno.",
+      "back": "I love the way the chocolate runs when you put it in the oven.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-003",
+      "front": "Me encanta cuando corres aleteando con los brazos. ¡Es tan gracioso!",
+      "back": "I love the way you run with your arms flying around. It looks so funny!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-004",
+      "front": "Me gusta cómo sales corriendo cuando oyes a un perro ladrar. ¡Qué valiente eres!",
+      "back": "I like the way you run away whenever you hear a dog barking. Very brave indeed!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-005",
+      "front": "Me gusta cómo vas corriendo a tus padres siempre que tienes una pelea con tu novia.",
+      "back": "I like the way you run back to your parents whenever you have an argument with your girlfriend.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-006",
+      "front": "Me gusta la forma en que el arroyo cruza el jardín.",
+      "back": "I like the way the stream runs through the garden.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-007",
+      "front": "Admiro que ella se levante cada mañana a las 6 h y corra 5 kilómetros, aunque llueva o truene.",
+      "back": "I admire the way she gets up every morning at six o'clock and runs 5 km, come rain or shine.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-008",
+      "front": "Admiro la forma en que él dirige el restaurante sin perder nunca el control.",
+      "back": "I admire the way he runs the restaurant without ever losing his temper.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-009",
+      "front": "Admiro la forma en que él dirige el barco. Todo el mundo sabe cuál es su función.",
+      "back": "I admire the way he runs the ship. Everyone knows their place.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-010",
+      "front": "No me gusta cuando él vuelve corriendo a sus padres siempre que tenemos una pelea.",
+      "back": "I don't like the way he runs back to his parents whenever we have an argument.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-011",
+      "front": "No me gusta la forma en que el helado se desliza por el cono cuando empieza a derretirse.",
+      "back": "I don't like the way the ice-cream runs down the cone when it starts to melt.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-012",
+      "front": "No me gusta cuando Rover sale corriendo hacia los niños pequeños ladrando de un modo amenazante.",
+      "back": "I don't like the way Rover runs towards small children barking in a threatening way.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-013",
+      "front": "Odio cómo a veces dirigen este país.",
+      "back": "I hate the way this country is run sometimes.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-014",
+      "front": "Odio cómo él dirige su departamento con mano de hierro.",
+      "back": "I hate the way he runs his department with a rod of iron.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-015",
+      "front": "Odio que siempre nos quedamos sin leche cuando más la necesitamos.",
+      "back": "I hate the way we always run out of milk when we most need it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Por qué siempre estás hablando mal de él? Parece que le tienes celos.",
+      "back": "Why are you always running him down? It sounds like you're jealous of him.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-017",
+      "front": "Si no es por el hecho de que seas terriblemente inseguro, ¿por qué insistes en hablar mal de todo el mundo a tu alrededor?",
+      "back": "If it's not for the fact that you're terribly insecure, why do you insist on running everyone around you down?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-018",
+      "front": "¡Estoy harto de la gente que habla mal de mí en público todo el rato! ¿No se dan cuenta de que soy brillante?",
+      "back": "I'm sick of people running me down in public all the time! Can't they see that I'm brilliant?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-019",
+      "front": "¿Has escuchado el último cotilleo? El director se ha escapado con la actriz principal.",
+      "back": "Have you heard the latest gossip? The director's run off with his lead actress.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-020",
+      "front": "¿No era Franz el que se escapó con la mujer del molinero?",
+      "back": "Wasn't Franz the one who ran off with the miller's wife?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-021",
+      "front": "Es increíble que estén juntos de nuevo; sobre todo después de que se escapara con aquella stripper hace un par de años.",
+      "back": "It's amazing that they're back together again; especially after he ran off with that stripper a couple of years ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-022",
+      "front": "¿Tenemos tiempo de practicar el discurso una vez más?",
+      "back": "Do we have time to run through the speech one more time?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-023",
+      "front": "Vamos a ensayarlo por última vez.",
+      "back": "Let's run through it one last time.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-024",
+      "front": "Cuando ensayamos el guión ayer, todo estaba bien.",
+      "back": "When we ran through the script yesterday, everything was fine.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-025",
+      "front": "No puedo creer que hayas acumulado una factura de teléfono tan elevada.",
+      "back": "I can't believe that you've run up such a huge telephone bill.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-026",
+      "front": "Apaga la luz cuando no estés en la habitación, o acumularás una factura de luz muy elevada.",
+      "back": "Turn off the light when you're not in the room, otherwise you'll run up a big electricity bill.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Realmente necesitamos poner la calefacción tan alta? Sabes que acumularemos una factura de gas muy elevada.",
+      "back": "Do we really need the heating on so high? You know we'll run up an enormous gas bill.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-028",
+      "front": "No teníamos ni idea de que tropezaríamos con un obstáculo tan difícil.",
+      "back": "We had no idea that we would run up against such a difficult obstacle.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-029",
+      "front": "He tropezado con problemas similares en el pasado; siempre hay una manera de esquivarlos.",
+      "back": "I've run up against similar problems in the past; there's always a way to get round them.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-030",
+      "front": "Parece que la tripulación ha tropezado con algún tipo de problema.",
+      "back": "It looks like the crew has run up against some type of problem.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Por qué siempre estás corriendo de un lugar a otro? ¿Nunca paras?",
+      "back": "Why are you always dashing from one place to another? Don't you ever stop?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-032",
+      "front": "La última vez que vi a Mike estaba corriendo por la calle con un bate de béisbol.",
+      "back": "I last saw Mike dashing down the street carrying a large baseball bat.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-033",
+      "front": "Tengo que ir corriendo al supermercado. No tengo cebollas y cierran dentro de cinco minutos.",
+      "back": "I must dash to the supermarket. I haven't got any onions and they close in five minutes.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-034",
+      "front": "El ladrón salió corriendo en cuanto oyó la sirena de la policía.",
+      "back": "The thief legged it as soon as he heard the police sirens.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-035",
+      "front": "¡Rápido! ¡Podemos coger aquel autobús si corremos!",
+      "back": "Quick! We can catch that bus if we leg it!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-036",
+      "front": "Tendremos que irnos corriendo si no queremos empaparnos: está lloviendo a cántaros ahí fuera.",
+      "back": "We'll have to leg it if we don't want to get soaked: it's tipping it down out there.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-037",
+      "front": "Antes de que lo supiéramos, un par de pastores alemanes preciosos vinieron corriendo hacia nosotros.",
+      "back": "Before we knew it, a pair of gorgeous German shepherds came bounding towards us.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-038",
+      "front": "Los niños bajaron corriendo por la escalera en cuanto oyeron que la cena estaba lista.",
+      "back": "The kids bounded down the stairs as soon as they heard that dinner was ready.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-039",
+      "front": "Nada más de un segundo después del silbato, Jim vino corriendo por la calle.",
+      "back": "No more than a second after the sound of the whistle, Jim came bounding down the street.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-040",
+      "front": "La pandilla de hooligans corría a toda velocidad por la calle lanzando botellas.",
+      "back": "The gang of hooligans careered down the street throwing bottles.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-041",
+      "front": "Ellos se precipitaron contra la multitud sin pensar en los niños o en los ancianos que pudieran estar allí.",
+      "back": "They careered into the crowd without giving any thought to any children or old people that might be there.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-042",
+      "front": "No me gustaría la idea de ver a una manada de toros corriendo a toda velocidad por las calles de mi barrio.",
+      "back": "I wouldn't like the idea of a group of bulls careering through the streets of my neighborhood.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-043",
+      "front": "Es demasiado tarde: el carterista salió corriendo en la otra dirección.",
+      "back": "It's too late: the pickpocket bolted in the other direction.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-044",
+      "front": "El caballo salió corriendo en cuanto abrimos la puerta del establo.",
+      "back": "The horse bolted as soon as we opened the stable door.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-045",
+      "front": "Cuando saltó la alarma, los ladrones salieron corriendo.",
+      "back": "When the alarm went off, the robbers bolted.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-046",
+      "front": "Antes de correr un maratón, deberías comer mucha pasta.",
+      "back": "Before running a marathon, you should eat plenty of pasta.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-047",
+      "front": "Antes de dirigir esta empresa, yo era un vendedor a domicilio.",
+      "back": "Before running this company, I used to be a door-to-door salesman.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-048",
+      "front": "Antes de cruzar la calle corriendo, la próxima vez mira a ambos lados.",
+      "back": "Before running across the road, look both ways next time.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-049",
+      "front": "Mientras corría a por el autobús, recordé que había olvidado mi cartera.",
+      "back": "Whilst running for the bus, I remembered that I'd forgotten my wallet.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-050",
+      "front": "Mientras estaba fuera corriendo con mis amigos, tropecé y me hice un esguince.",
+      "back": "Whilst out running with my friends, I tripped and twisted my ankle.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-051",
+      "front": "Mientras corría por el jardín, a mi perro le picó una avispa.",
+      "back": "Whilst running around the garden, my dog got stung by a wasp.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-052",
+      "front": "Greg fue agredido mientras estaba corriendo en el parque.",
+      "back": "Greg was attacked while out running in the park.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-053",
+      "front": "Si el pecho empieza a oprimirte mientras corres, para inmediatamente.",
+      "back": "If your chest starts to feel tight while running, stop immediately.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-054",
+      "front": "Jack casi se desmayó mientras ensayaba la obra anoche.",
+      "back": "Jack nearly fainted while running through the play last night.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-055",
+      "front": "Después de correr durante una hora, mis pies estaban cubiertos de ampollas.",
+      "back": "After running for an hour, my feet were covered in blisters.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-056",
+      "front": "Después de correr durante un rato, decidimos parar y tomarnos un descanso.",
+      "back": "After running for a while, we decided to stop and take it easy.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-057",
+      "front": "Después de correr el maratón, es importante comer proteínas y carbohidratos.",
+      "back": "After running the marathon, it's important to eat protein and carbohydrates.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-058",
+      "front": "Antes de presentarse como candidato a la presidencia, William era un actor de Hollywood.",
+      "back": "Prior to running for president, William was a Hollywood actor.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-059",
+      "front": "Antes de hacer recados para el director, yo era un limpiador.",
+      "back": "Prior to running errands for the director, I used to be a cleaner.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-060",
+      "front": "Antes de acumular una deuda enorme, Clive era muy cuidadoso con el dinero. ¿Qué pasó?",
+      "back": "Prior to running up his huge debt, Clive was very careful with money. What happened?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-061",
+      "front": "Creo que todos nos encontramos algo agotados después de haber trabajado en este proyecto durante tantas semanas.",
+      "back": "I think we're all feeling a bit run-down after having worked on this project for so many weeks.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-062",
+      "front": "Antes éste era un edificio precioso y míralo ahora, está totalmente destartalado.",
+      "back": "This used to be such a beautiful building and look at it now, it's completely run-down.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-063",
+      "front": "Pues claro que no te encuentras bien; ¿qué esperas si no comes o no duermes bien?",
+      "back": "Well, of course you're feeling run-down; what do you expect if you don't eat or sleep properly?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-064",
+      "front": "¿Me puedes dar un resumen de lo que se dijo en la reunión?",
+      "back": "Can you give me a rundown of what was said in the meeting?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-065",
+      "front": "No tengo mucho tiempo para hablar, así que, ¿por qué no me pones rápidamente al día respecto a la situación actual?",
+      "back": "I don't have much time to talk; so why don't you just give me a quick rundown of the current situation?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-066",
+      "front": "No he visto los últimos episodios, así que ponme al tanto de lo que han hecho los protagonistas.",
+      "back": "I haven't seen the last few episodes, so give me a rundown of what the main characters have been up to.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-067",
+      "front": "Dime la verdad y deja de tomarme el pelo, ¡quieres!",
+      "back": "Just tell me the truth and stop giving me the runaround, will you!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-068",
+      "front": "Dicen que el informe no estará listo hasta la semana que viene; creo que nos están dando largas.",
+      "back": "They say the report won't be ready until next week; I think they're giving us the runaround.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-069",
+      "front": "Tarde o temprano vas a tener que devolverles ese dinero; no le puedes dar largas para siempre.",
+      "back": "Sooner or later you're going to have to give them that money back; you can't give them the runaround forever.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-070",
+      "front": "No voy a pedirle a él que nos ayude. ¿No sabías que tuvimos una fuerte discusión la semana pasada?",
+      "back": "I'm not going to ask him to help us. Didn't you hear that we had a big run-in last week?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-071",
+      "front": "Ella no me habla últimamente; tuvimos un pequeño altercado hace unas semanas.",
+      "back": "She hasn't been talking to me lately; we had a bit of a run-in a few weeks ago.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-072",
+      "front": "Me dicen que tuviste un roce con el jefe. ¿De qué iba la cosa?",
+      "back": "I heard you had a run-in with the boss. What was it all about?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-073",
+      "front": "Sólo nos quedan cinco euros; ¡a lo mejor tenemos que hacer un sinpa!",
+      "back": "We've only got five euros left; we might have to do a runner!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-074",
+      "front": "¡Ni se te ocurra! ¡Bajo ningún concepto voy a hacer un sinpa!",
+      "back": "Don't even think about it! There's no way I'm going to do a runner!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-075",
+      "front": "¿Te has enterado de que anoche volvieron a hacer otro sinpa en el pub?",
+      "back": "Did you hear that they did another runner from the pub again last night?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-076",
+      "front": "No me puedo creer que este hotel anuncie que tiene agua corriente caliente y fría como si fuera algo especial.",
+      "back": "I can't believe that this hotel advertises the fact that it has hot and cold running water as if it were something special.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-077",
+      "front": "Siempre están flirteando el uno con el otro; es algún tipo de broma recurrente que tienen.",
+      "back": "They're always flirting with each other; it's some kind of running joke that they have.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-078",
+      "front": "No necesitamos que nos comentes cada cosa que haces.",
+      "back": "We don't need a running commentary on everything that you do.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-079",
+      "front": "Es el segundo año consecutivo que ella es el número uno del mundo del tenis.",
+      "back": "She has been the world's number one tennis player for two years running now.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-080",
+      "front": "Este es el cuarto día consecutivo que llegas tarde; si vuelve a suceder mañana, ¡estás despedido!",
+      "back": "This is the fourth day running that you've arrived late; if it happens again tomorrow you'll be fired!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-081",
+      "front": "Él vuelve a presentar los Goya por tercer año consecutivo.",
+      "back": "He's going to be presenting the Goyas for the third year running.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-082",
+      "front": "¿Eres el responsable de la gestión diaria de esta empresa?",
+      "back": "Are you in charge of the day-to-day running of this company?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-083",
+      "front": "Quiero que asumas el control de la tienda mientras estoy fuera de viaje.",
+      "back": "I want you to take over the running of the shop while I'm away.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-084",
+      "front": "No hay ningún jefe en esta oficina. Es un esfuerzo de equipo, ya que todos somos responsables de la gestión del negocio.",
+      "back": "There's no manager in this office. It's a team effort as we're all responsible for the running of the business.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-085",
+      "front": "Siempre que ella haga una película, tendrá posibilidades de conseguir un Oscar.",
+      "back": "Whenever she makes a film she will always be in the running for an Oscar.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-086",
+      "front": "¿De verdad crees que él tiene posibilidades de conseguir un puesto en el gobierno?",
+      "back": "Do you really think he's in the running for a ministerial post?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-087",
+      "front": "No sé si ganaremos el contrato, pero tenemos posibilidades.",
+      "back": "I'm not sure if we'll win the contract, but we're certainly in the running.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-088",
+      "front": "El escándalo significa con casi toda probabilidad que ya no tiene posibilidades de ser presidente.",
+      "back": "The scandal means that he is almost certainly out of the running to be president.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-089",
+      "front": "No deberías subestimar a los alemanes; nunca se dan por vencidos hasta el pitido final del partido.",
+      "back": "You should never underestimate the Germans; they're never out of the running in a match until the final whistle.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-090",
+      "front": "Ya no tenemos posibilidades de conseguirlo porque ya no nos queda dinero para financiar la campaña.",
+      "back": "We're out of the running because we don't have any more money to finance the campaign.",
+      "sourcePage": 74
+    }
+  ]
+}
