@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-28",
+  "bookTitle": "Libro 28",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Fui pillado porque dejé mi correo electrónico abierto.",
+      "back": "I was found out because I left my email open.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Le pillaron a él porque habla en sueños.",
+      "back": "He was found out because he talks in his sleep.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Te pillarán, te lo aseguro!",
+      "back": "You'll be found out, I tell you!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Lo pillaron cuando se encontró la botella en el armario.",
+      "back": "He was found out when the bottle was found in the cupboard.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Le pillaron a ella cuando él olió colonia de hombre en su ropa.",
+      "back": "She was found out when he smelt men's cologne on her clothes.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Él fue pillado cuando su mujer encontró el extracto de su tarjeta de crédito.",
+      "back": "He was found out when his wife found the credit card statement.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Seguro que te pillarán si no cubres tus huellas.",
+      "back": "You're bound to be found out if you don't cover your tracks.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Seguro que me pillarán si no pongo fin a esta aventura amorosa.",
+      "back": "I'm bound to be found out if I don't end this affair.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Seguro que le pillarán a ella si no se inventa unas excusas más elaboradas.",
+      "back": "She's bound to be found out if she doesn't come up with more elaborate excuses.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Seguro que te van a pillar si sigues poniendo las mismas excusas.",
+      "back": "You're sure to be found out if you continue to use the same excuses.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Seguro que le pillarán a Aranzazu si sigue siendo tan obvia.",
+      "back": "Aranzazu is sure to be found out if she continues to be so obvious.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Seguro que le pillarán a Claudia si sigue malversando fondos de la compañía.",
+      "back": "Claudia is sure to be found out if she continues embezzling money from the company.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Eugenio, te han pillado con las manos en la masa. ¿Qué tienes que decir en tu defensa?",
+      "back": "Eugenio, you've been caught red-handed. What do you have to say for yourself?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Al pequeño Maximus le pillaron con las manos en la masa saliendo de la cocina con una galleta a medio comer en la mano.",
+      "back": "Little Maximus was caught red-handed walking out of the kitchen holding a half-eaten cookie.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Estefanía fue pillada con las manos en la masa robando dinero de la caja.",
+      "back": "Estefania was caught red-handed taking money from the till.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "El jurado declaró al acusado inocente.",
+      "back": "The jury found the Defendant not guilty.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Después de un proceso largo, se declaró al acusado culpable.",
+      "back": "After a long trial, the Defendant was found guilty.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Se le declaró inocente, pero la gente todavía desconfía de él.",
+      "back": "He was found innocent, but people are still suspicious of him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "El juez se pronunció a favor del demandado.",
+      "back": "The judge found for the Defendant.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "El juez se pronunció contra el demandante.",
+      "back": "The judge found against the Claimant.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "El juez se pronunció a favor del demandante.",
+      "back": "The judge found in favour of the Plaintiff.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "La prueba de la fiscal se ha encontrado inadecuada.",
+      "back": "The evidence of the public prosecutor was found wanting.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "El argumento del acusado se ha encontrado inadecuado.",
+      "back": "The argument made by the Defense was found wanting.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "La acusación se ha encontrado inadecuada.",
+      "back": "The case for the prosecution was found wanting.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "El juez encontró flaquezas en los argumentos de la defensa.",
+      "back": "The judge found fault with the arguments of the Defense.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "El demandado criticó la preparación de su abogado.",
+      "back": "The Defendant found fault with his lawyer's preparation.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Por qué ese juez critica todo constantemente?",
+      "back": "Why does that judge constantly find fault with everything?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¿El proceso empieza mañana? ¿Cómo vamos a conseguir un abogado para entonces?",
+      "back": "The trial starts tomorrow? How are we going to find a barrister by then?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¿De dónde voy a sacar 15.000 euros para la fianza?",
+      "back": "Where am I going to find €15,000 for bail?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "No te preocupes, ya encontraremos los 9.000 euros para los honorarios.",
+      "back": "Don't worry, we'll find the €9,000 for the legal fees.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Si él no hubiera sacado a su perro a pasear, ¡quién sabe cuándo se habría encontrado el cuerpo!",
+      "back": "If he hadn't taken his dog for a walk, who knows when the body would have been found!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Sus parientes tuvieron la sensación de cerrar una etapa cuando encontraron su cuerpo.",
+      "back": "His relatives felt a sense of closure after his body was found.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Encontraron el cuerpo después de una búsqueda larga y agotadora.",
+      "back": "The body was found after a long, tiring search.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Me puse tan aliviado cuando oí que se había encontrado al rehén...",
+      "back": "I was so relieved when I heard that the hostage had been found safe and sound...",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "No sabíamos si estaban cuidando bien a los rehenes, pero gracias a Dios les encontraron sanos y salvos al final.",
+      "back": "We didn't know if they were looking after the hostages well, but thankfully they were found safe and sound in the end.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Después de que los rehenes fueran encontrados, lo primero que querían hacer era ducharse y tomar una pizza.",
+      "back": "After the hostages were found, the first thing they wanted to do was take a shower and have a pizza.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "La persona desaparecida tuvo amnesia y estaba muy desorientada cuando la encontraron.",
+      "back": "The missing person had amnesia and she was very disorientated when she was found.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Cuando encontraron a la persona desaparecida, él no era consciente de que todo el mundo le había estado buscando.",
+      "back": "When the missing person was found, he was unaware that everyone had been looking for him.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Cuando se encontró a la persona desaparecida, nos contó por qué había desaparecido sin decírselo a nadie.",
+      "back": "When the missing person was found, he told us why he'd disappeared without telling anyone.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "El dinero fue encontrado por un grupo de exploradores y se vendió en una subasta.",
+      "back": "The money was found by a group of explorers and sold at an auction.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Desde que se inventó el detector de metales, hay mucha gente que ha encontrado tesoros.",
+      "back": "Since the invention of metal detectors, treasure has been found by many people.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "El tesoro no se habría encontrado si no hubiéramos decidido construir aquí la urbanización.",
+      "back": "The treasure wouldn't have been found if we hadn't decided to build the apartment complex here.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Leí en el periódico que las drogas se habían encontrado dentro de los neumáticos.",
+      "back": "I read in the paper that the drugs had been found inside of the car tyres.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Las drogas fueron encontradas en un apartamento abandonado en la parte más marginal de la ciudad.",
+      "back": "The drugs were found in a derelict flat in the run-down part of the city.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Menos mal que encontraron las drogas y el traficante fue arrestado. Será otro camello menos en nuestra ciudad.",
+      "back": "It's a good thing that the drugs were found and the trafficker was arrested. That's another pusher less in our city.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Salió a la luz que los datos de la investigación del ganador del premio Nobel habían sido falsificados.",
+      "back": "It came to light that the Nobel laureate's research data was completely bogus.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Salió a la luz que el ministro de Finanzas estaba desviando fondos públicos para su propio interés.",
+      "back": "It's come to light that the finance minister was siphoning off public funds into his own pocket.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "¿Cuándo salió a la luz el escándalo del Watergate?",
+      "back": "When did the Watergate cover-up come to light?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "La investigación desenterró documentos que nunca antes habían sido vistos.",
+      "back": "The investigation unearthed documents that had never been seen before.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Mientras estábamos haciendo el documental sobre la familia del presidente desenterramos secretos de Estado y ahora no sabemos qué hacer con ellos.",
+      "back": "While we were making the documentary about the First Family, we unearthed state secrets and now we don't know what to do with them.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "El agente secreto desenterró un complot para tomar el control del sistema federal de Correos.",
+      "back": "The undercover agent unearthed a conspiracy to take over the Federal Post Office.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Mi hermano siempre descubre las mejores gangas cuando vamos a buscar chollos.",
+      "back": "My brother always spots the best deals when we go bargain hunting.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "¡Descubrí un vestido monísimo el otro día!",
+      "back": "I spotted the cutest dress the other day!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "He descubierto el regalo exacto que le quiero dar a mi madre. ¡Ahora sólo tengo que averiguar cómo pagarlo!",
+      "back": "I've spotted the exact present I want to give my mother. Now I only have to figure out how to pay for it!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Hola, estoy intentando ponerme en contacto con la Srta. Lee. ¿Está hoy?",
+      "back": "Hello, I'm trying to get hold of Miss Lee. Is she in today?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "¡Hemos estado intentando ponernos en contacto con nuestro contable, pero parece haber huido con todo nuestro dinero!",
+      "back": "We've been trying to get hold of our accountant, but he seems to have fled with all our money!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¡Es usted una persona difícil de localizar, Sr. Martin!",
+      "back": "You're a hard person to get hold of, Mr Martin!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Me surgió la oportunidad de tomar el té con el duque de Edimburgo.",
+      "back": "I chanced upon the opportunity to have tea with the Duke of Edinburgh.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Fueron cuatro jóvenes los que se toparon con las pinturas cavernícolas de Lascaux en 1940. ¿Qué harían en una caverna?",
+      "back": "It was four youths that chanced upon the Lascaux cave paintings in 1940. What would they be doing in a cave?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Mientras estábamos en Chile, nos topamos con un joven de Roterdam que lucía un elegante sombrero de plumas.",
+      "back": "While in Chile, we chanced upon a charming young man from Rotterdam sporting a dashing feather hat.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Encontrar una persona en una gran ciudad sin conocer su apellido ni su dirección es como intentar buscar una aguja en un pajar.",
+      "back": "Finding a person in a big city without knowing their last name or address is like trying to find a needle in a haystack.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Estás intentando encontrar tus llaves en ese bolso enorme... ¿No sería más fácil encontrar una aguja en un pajar?",
+      "back": "You're trying to find your keys in that huge purse... Wouldn't it be easier to find a needle in a haystack?!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Mi jefa me ha pedido que busque un fichero en el archivo del sótano. ¡Me siento como si estuviera buscando una aguja en un pajar!",
+      "back": "My boss has asked me to find an old file down in the basement archive. I feel like I'm trying to find a needle in a haystack!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Estoy tardando un rato en encontrarme a gusto en mi nuevo trabajo. ¡No consigo descubrir qué es lo que tengo que hacer!",
+      "back": "It's taking me a while to find my feet in my new job. I can't figure out what I'm supposed to do!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Después de terminar la universidad, tardé unos años hasta encontrar mi camino.",
+      "back": "After I finished college, it took me a few years to find my feet.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Cuando una noticia importante llega a la redacción de noticias, todo el mundo corre de un lado para otro intentando ponerse al corriente.",
+      "back": "When an important story breaks in the newsroom, everybody just runs around trying to find their feet.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "De veras que quiero empezar a correr, pero sencillamente no puedo encontrar un hueco para hacerlo.",
+      "back": "I really want to start running, but I just can't find the time for it.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Cariño, gracias por encontrar siempre un hueco para mí.",
+      "back": "Sweetheart, thank you for always finding time for me.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Necesitamos encontrar un hueco para hablar de la posible fusión.",
+      "back": "We need to find some time to talk about the possible merger.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Ha encontrado Moe a Dios? ¡Ya no está actuando como un matón!",
+      "back": "Has Moe found God?! He's not acting like a thug any more!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Espero sinceramente que haber encontrado a Dios te esté haciendo feliz.",
+      "back": "I really hope having found God is making you happy.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Si no hubieras encontrado a Dios, no hubieras venido a nuestra parroquia.",
+      "back": "If you hadn't found God, you wouldn't have come to our parish.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "—Me he dado cuenta de que sólo disfruto de la telebasura si tengo mucha fiebre. —¡Yo también!",
+      "back": "—I find I only enjoy trashy television if I have a high fever. —I find that too!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "—Me he dado cuenta de que no sueño de noche cuando ceno comida picante. —¡Yo también!",
+      "back": "—I find I don't dream at night when I have spicy food for dinner. —I find that too!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "—Me he dado cuenta de que mi equipo de fútbol no juega igual de bien cuando jugamos fuera de casa. —¡Yo también!",
+      "back": "—I find that my football team doesn't play as well when we play away. —I find that too!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Me encantan esas cortinas! ¡Fueron un hallazgo genial!",
+      "back": "I love those curtains! They were a great find!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "¡Este restaurante fue un pequeño gran hallazgo, Álvaro! ¡Volvamos aquí otro día!",
+      "back": "This restaurant was a wonderful little find, Álvaro. Let's come back here another day!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Este pequeño y encantador café fue un hallazgo maravilloso! Es una lástima que esté tan lejos de la ciudad.",
+      "back": "This charming little café was a wonderful find! It's a shame it's so far away from the city.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Ya sabes lo que dicen! El que lo encuentra se lo queda, y el que lo pierde, ¡llora!",
+      "back": "You know what they say! Finders keepers, losers weepers!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "—Ése es mi lápiz de ojos. ¡Devuélvemelo! —¡Ya no es tuyo! ¡El que lo encuentra se lo queda, y el que lo pierde, llora!",
+      "back": "—That's my eyeliner. Give it back! —Not any more! Finders keepers, losers weepers!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Consideré entregar el dinero que había encontrado a la policía, pero después pensé: el que lo encuentra se lo queda, y el que lo pierde, llora. ¡Así que me lo quedé!",
+      "back": "I considered handing in the money that I'd found to the police, but then I thought: finders keepers, losers weepers! So I kept it!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Las conclusiones del juez de instrucción fueron un poco graves.",
+      "back": "The coroner's findings were a little grim.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Examinaron el cuerpo y las conclusiones fueron muy interesantes.",
+      "back": "They examined the body and the findings were very interesting.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Las conclusiones del juez de instrucción sugirieron que él había muerto por causas naturales.",
+      "back": "The coroner's findings suggested that he'd died of natural causes.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "El fuego fue un descubrimiento, no un invento.",
+      "back": "Fire was a discovery, not an invention.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Algunas personas dicen que la electricidad fue el mejor descubrimiento que nunca haya hecho el hombre.",
+      "back": "Some people say that electricity was the greatest discovery ever made by man.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "El tabaco no fue el mejor descubrimiento de la Historia, en mi humilde opinión.",
+      "back": "Tobacco wasn't the best discovery ever made, in my humble opinion.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "No puedes esperar hacer una buena foto si no miras por el visor.",
+      "back": "You can't expect to be able to take a good picture if you don't look through the viewfinder.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Cuanto más oscura está la habitación, menos me ayuda el visor.",
+      "back": "The darker the room is, the less the viewfinder helps me.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Mi cámara sería inútil si no tuviera visor.",
+      "back": "My camera would be useless if it didn't have a viewfinder.",
+      "sourcePage": 75
+    }
+  ]
+}

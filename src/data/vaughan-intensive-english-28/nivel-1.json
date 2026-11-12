@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-28",
+  "bookTitle": "Libro 28",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "A menudo encuentro cosas en los bolsillos de mi abrigo.",
+      "back": "I often find things in my coat pockets.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Mi cuñado a menudo encuentra dinero en la calle.",
+      "back": "My brother-in-law often finds money in the street.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "A menudo encuentro lo que estoy buscando en tiendas de segunda mano.",
+      "back": "I often find what I'm looking for in second-hand shops.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Rara vez la gente encuentra cuadros de gran valor en sus áticos.",
+      "back": "People rarely find valuable paintings in their attic.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Rara vez la gente encuentra un billete de 500 euros en la parte de atrás de un taxi.",
+      "back": "People rarely find a 500 euro banknote in the back of a taxi.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Rara vez la gente encuentra una moneda romana en su jardín.",
+      "back": "People rarely find a Roman coin in their garden.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "La gente casi nunca encuentra cuadros de gran valor en sus áticos.",
+      "back": "People hardly ever find valuable pictures in their loft.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "La gente casi nunca encuentra un billete de 100 dólares en la parte de atrás de un taxi.",
+      "back": "People hardly ever find a 100-dollar bill in the back of a cab.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "La gente casi nunca encuentra una moneda griega en su jardín.",
+      "back": "People hardly ever find a Greek coin in their back yard.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¡No encuentro mis zapatos!",
+      "back": "I can't find my shoes!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¡No los encuentro en ninguna parte!",
+      "back": "I can't find them anywhere!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No encuentro las llaves de mi coche y tampoco encuentro mi monedero.",
+      "back": "I can't find my car keys and I can't find my wallet either.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Encuentras el mando a distancia? Porque no lo encuentro.",
+      "back": "Can you find the remote? Because I can't find it anywhere.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "No lo encuentro. ¿Tú lo encuentras?",
+      "back": "I can't find it. Can you find it?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No los encuentro. ¿Tú los encuentras?",
+      "back": "I can't find them. Can you find them?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Creo que te darás cuenta de que eso es mío.",
+      "back": "I think you'll find (that) that's mine.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Creo que te darás cuenta de que esto es tuyo.",
+      "back": "I think you'll find (that) this is yours.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Creo que te darás cuenta de que éstos son nuestros.",
+      "back": "I think you'll find (that) these are ours.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Creo que te darás cuenta de que estás equivocado.",
+      "back": "I think you'll find (that) you're wrong.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Creo que te darás cuenta de que la cifra final es errónea.",
+      "back": "I think you'll find (that) the final figure is wrong.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Creo que te darás cuenta de que la factura está mal.",
+      "back": "I think you'll find (that) the bill is wrong.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Creo que te darás cuenta de que ése es el número equivocado.",
+      "back": "I think you'll find (that) that's the wrong number.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Creo que te darás cuenta de que ésta es la dirección equivocada.",
+      "back": "I think you'll find (that) this is the wrong address.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Creo que te darás cuenta de que éstas son las invitaciones equivocadas.",
+      "back": "I think you'll find (that) these are the wrong invitations.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Creo que te darás cuenta de que mi nombre está en la lista.",
+      "back": "I think you'll find (that) my name's on the list.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Creo que te darás cuenta de que tu nombre no está en la lista.",
+      "back": "I think you'll find (that) your name's not on the list.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Creo que te darás cuenta de que estás equivocado; mi nombre sí que está en la lista.",
+      "back": "I think you'll find (that) you're wrong; my name is on the list!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Creo que te darás cuenta de que eso es así.",
+      "back": "I think you'll find (that) that's the case.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Creo que te darás cuenta de que no es así!",
+      "back": "I think you'll find (that) it's not (the case)!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Creo que te darás cuenta de que sí es así!",
+      "back": "I think you'll find (that) it is (the case)!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Creo que te resultará más duro aprender alemán.",
+      "back": "I think you'll find it harder to learn German.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Creo que te resultará más duro hacerlo de esta manera.",
+      "back": "I think you'll find it harder to do it this way.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Creo que te resultará más duro ver sin las gafas.",
+      "back": "I think you'll find it harder to see without your glasses.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Creo que te resultará más fácil hacerlo a mi manera.",
+      "back": "I think you'll find it easier to do it my way.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Creo que te resultará más fácil ir en tren.",
+      "back": "I think you'll find it easier to go by train.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Creo que te resultará más fácil aprender francés.",
+      "back": "I think you'll find it easier to learn French.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Creo que te resultará más barato ir el miércoles.",
+      "back": "I think you'll find it cheaper to go on Wednesday.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Creo que te resultará más barato ir en autobús.",
+      "back": "I think you'll find it cheaper to go by bus.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Creo que te resultará más barato hacer la compra en Supersun.",
+      "back": "I think you'll find it cheaper to shop at Supersun.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Creo que te resultará mejor ir el fin de semana.",
+      "back": "I think you'll find it better to go at the weekend.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Creo que te resultará mejor hacerlo de esta manera.",
+      "back": "I think you'll find it better to do it this way.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Creo que te resultará mejor ir a pie.",
+      "back": "I think you'll find it better to go on foot.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "No creo que te resulte más fácil ir en coche.",
+      "back": "I don't think you'll find it easier to go by car.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "No creo que te resulte más barato viajar en verano.",
+      "back": "I don't think you'll find it cheaper to travel in the summer.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "No creo que te resulte mejor hacerlo de esa manera.",
+      "back": "I don't think you'll find it better to do it that way.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "El álgebra me parece difícil.",
+      "back": "I find algebra difficult.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "El alemán me parece difícil.",
+      "back": "I find German difficult.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "La física me parece difícil.",
+      "back": "I find physics difficult.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Nadar le parece fácil.",
+      "back": "He finds swimming easy.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Aprender le parece fácil.",
+      "back": "He finds learning easy.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Leer le parece fácil a ella.",
+      "back": "She finds reading easy.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "La poesía no me parece aburrida.",
+      "back": "I don't find poetry boring.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Visitar a mi tía abuela no me parece aburrido.",
+      "back": "I don't find visiting my great-aunt boring.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Ir a Correos no me parece aburrido.",
+      "back": "I don't find going to the post office boring.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Te parece interesante escribir?",
+      "back": "Do you find writing interesting?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Te parece interesante el arte?",
+      "back": "Do you find art interesting?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Te parece interesante la contabilidad?",
+      "back": "Do you find accounting interesting?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "El inglés supone un desafío para mí.",
+      "back": "I find English challenging.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "La química supone un desafío para mí.",
+      "back": "I find chemistry challenging.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Bailar supone un desafío para mí.",
+      "back": "I find dancing challenging.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Me resulta útil saber cocinar huevos.",
+      "back": "I find it useful to know how to cook eggs.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Me resulta útil poder hablar alemán.",
+      "back": "I find it useful to be able to speak German.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Le resulta útil a él vivir cerca del aeropuerto.",
+      "back": "He finds it useful to live near the airport.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "No me resulta extraño que no le guste la playa.",
+      "back": "I don't find it strange that he doesn't like the beach.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No me resulta extraño ir todos los días.",
+      "back": "I don't find it strange to go every day.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "No les resulta extraño que él todavía viva con ellos.",
+      "back": "They don't find it strange that he still lives with them.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Me está resultando frustrante que él no me escuche.",
+      "back": "I'm finding it frustrating that he doesn't listen to me.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Me está resultando frustrante que yo no hable francés.",
+      "back": "I'm finding it frustrating that I don't speak French.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Nos está resultando frustrante que ella no nos llame.",
+      "back": "We're finding it frustrating that she doesn't call us.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "No me está resultando duro concentrarme.",
+      "back": "I'm not finding it hard to concentrate.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No me está resultando difícil leer este libro.",
+      "back": "I'm not finding it hard to read this book.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "No le está resultando duro a ella hacer amigos.",
+      "back": "She's not finding it hard to make friends.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Me está resultando muy difícil decidir adónde ir de vacaciones.",
+      "back": "I'm really finding it hard to decide where to go on holiday.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "La verdad es que no me resulta muy extraño que ella siempre lleve vaqueros.",
+      "back": "I don't really find it strange that she always wears jeans.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "De verdad que no me resulta duro trabajar con él.",
+      "back": "I really don't find it hard to work with him.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Le encuentro muy atractivo cuando lleva puesto su traje.",
+      "back": "I find him very attractive when he wears his suit.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Él le parece muy atractivo a ella cuando hace surfing.",
+      "back": "She finds him very attractive when he surfs.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Todo el mundo le encuentra atractivo.",
+      "back": "Everyone finds him attractive.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Te parece pesado cuando se pone a hablar de su vida?",
+      "back": "Do you find him annoying when he talks about his life?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Ella le parece pesada a él cuando está de mal humor?",
+      "back": "Does he find her annoying when she's in a bad mood?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Te parece pesado cuando está con su mejor amigo?",
+      "back": "Do you find him annoying when he's with his best friend?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "No me parece muy atractivo cuando siente pena de sí mismo.",
+      "back": "I don't find him very good-looking when he feels sorry for himself.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "No me parece muy atractivo cuando se deja crecer la barba.",
+      "back": "I don't find him very good-looking when he lets his beard grow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Él no le parece muy atractivo a ella cuando se peina.",
+      "back": "She doesn't find him very good-looking when he combs his hair.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Lo siento, pero ella me parece de lo más insoportable.",
+      "back": "I'm sorry, but I find her really obnoxious.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Ella me parece de lo más insoportable cuando está con Ana.",
+      "back": "I find her extremely obnoxious when she's with Ana.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Philip ya no quiere salir con ella porque le parece insoportable.",
+      "back": "Philip doesn't want to go out with her any more because he finds her obnoxious.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Qué te parece la actitud de Anthony hoy en día?",
+      "back": "How do you find Anthony's attitude nowadays?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Cómo ves la actitud de Grace en clase?",
+      "back": "How do you find Grace's attitude in class?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Qué le parece a ella la actitud de él en general?",
+      "back": "How does she find his attitude in general?",
+      "sourcePage": 19
+    }
+  ]
+}

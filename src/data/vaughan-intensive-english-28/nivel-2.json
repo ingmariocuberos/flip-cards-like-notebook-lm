@@ -1,0 +1,556 @@
+{
+  "bookId": "vaughan-intensive-english-28",
+  "bookTitle": "Libro 28",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Encontré lo que estaba buscando en el ático.",
+      "back": "I found what I was looking for in the loft.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Él encontró su reloj en la parte de atrás del coche.",
+      "back": "He found his watch in the back of the car.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Encontré mi destornillador en la parte de atrás de mi furgoneta.",
+      "back": "I found my screwdriver in the back of my van.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Nunca he encontrado un millón de dólares en la parte de atrás de un taxi.",
+      "back": "I've never found a million dollars in the back of a cab.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "¿Has encontrado mucho dinero alguna vez en la parte de atrás de un taxi?",
+      "back": "Have you ever found a lot of money in the back of a taxi?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "El otro día encontré un billete de cinco.",
+      "back": "I found a fiver the other day.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Encontraste lo que estabas buscando en el desván?",
+      "back": "Did you find what you were looking for in the loft?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "No encontré nada en el desván. Estaba totalmente oscuro.",
+      "back": "I couldn't find anything in the loft. It was pitch black.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Encontraste algo que mereciera la pena en el desván?",
+      "back": "Did you find anything worthwhile in the loft?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Encontré mis zapatos en la parte de atrás del armario.",
+      "back": "I found my shoes at the back of the cupboard.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Encontraste tus guantes? Estaban en la estantería superior del armario debajo de las escaleras cuando los vi por última vez.",
+      "back": "Did you find your gloves? They were on the top shelf of the cupboard under the stairs when I saw them last.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Ella ha encontrado sus guantes de esquí. Estaban en la estantería inferior del armario en el desván.",
+      "back": "She's found her ski gloves. They were on the bottom shelf of the cupboard in the loft.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "—Echa un vistazo en el armario. —¡Lo he encontrado!",
+      "back": "—Have a look in the cupboard. —Found it!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "—Echa un vistazo en la estantería superior del armario. —¡Los he encontrado!",
+      "back": "—Have a look on the top shelf of the cupboard. —Found them!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "—Echa un vistazo en el armario del desván. —¡Lo he encontrado!",
+      "back": "—Have a look in the cupboard in the loft. —Found it!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "No encuentro las palabras adecuadas para explicar cómo se siente uno al tirarse de un avión.",
+      "back": "I can't find the right words to explain what it's like to jump out of a plane.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "No encuentro las palabras adecuadas para describir cómo me siento en este momento.",
+      "back": "I can't find the right words to describe how I'm feeling at the moment.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Parece que no encuentro las palabras adecuadas para expresar mi gratitud por todo el trabajo duro que has hecho.",
+      "back": "I can't seem to find the right words to express my gratitude for all the hard work you've done.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "No encuentro un vestido de la talla correcta para ella.",
+      "back": "I can't find the right size dress for her.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "No encuentro un destornillador del tamaño adecuado para destornillar este tornillo.",
+      "back": "I can't find the right size screwdriver to unscrew this screw.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "No encuentro un bol del tamaño adecuado para la mezcla para hacer una tarta.",
+      "back": "I can't find the right size bowl for the cake mixture.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "No encuentro el regalo adecuado para el setenta cumpleaños de mi padre.",
+      "back": "I can't find the right gift for my father's 70th birthday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "No encuentro el regalo adecuado para mi sobrina de cinco años.",
+      "back": "I can't find the right gift for my five-year-old niece.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "No encuentro nada adecuado para darle a ella como regalo de despedida.",
+      "back": "I can't find the right gift to give her as a leaving present.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "No encuentro el momento adecuado para sacar el tema de la compensación.",
+      "back": "I can't find the right moment to bring up the subject of compensation.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Parece que no encuentro la ocasión idónea para pedirle matrimonio.",
+      "back": "I can't seem to find the right occasion to ask for her hand in marriage.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Parece que nunca encuentro el momento correcto para decirles a mis padres que me voy a casar.",
+      "back": "I can never seem to find the right moment to tell my parents that I'm getting married.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "No encuentro el momento adecuado para presentar mi dimisión.",
+      "back": "I can't find the right time to hand in my notice.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Nunca encuentro el momento adecuado para decirles la verdad.",
+      "back": "I can never find the right time to tell them the truth.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Parece que nunca encuentro el momento adecuado para sacar el tema.",
+      "back": "I can never seem to find the right time to broach the subject.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Me enteré del concurso y decidí participar.",
+      "back": "I found out about the competition and decided to enter.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Ella se enteró del plan secreto aunque intentamos escondérselo.",
+      "back": "She found out about the secret plan even though we tried to keep it from her.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "El público se enteró de la corrupción gubernamental.",
+      "back": "The public found out about the government's corruption.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Nos enteramos a través de los periódicos.",
+      "back": "We found out from the newspapers.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Él se enteró a través de su hermana.",
+      "back": "He found out from his sister.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Me enteré a través de los paparazzi.",
+      "back": "I found out from the paparazzi.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Ella se enteró del complot a través de uno de los conspiradores.",
+      "back": "She found out about the conspiracy from one of the plotters.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Nos enteramos de la tormenta que se aproximaba a través de nuestros vecinos.",
+      "back": "We found out about the incoming storm through our neighbors.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "La actriz se enteró de su candidatura al premio a través de los medios de comunicación.",
+      "back": "The actress found out about her nomination from the media.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Te has enterado de la subida de precios?",
+      "back": "Have you found out about the price hike?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Se han enterado de nuestro error?",
+      "back": "Have they found out about our mistake?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Se ha enterado ella de su fiesta sorpresa?",
+      "back": "Has she found out about her surprise party?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Se descubrió lo que ella hizo un año después de que cometiera el crimen.",
+      "back": "She was found out a year after she committed the crime.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "No se descubrió lo que habían hecho durante meses.",
+      "back": "They weren't found out for months.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Se descubrió que el juez era fácilmente sobornable.",
+      "back": "The judge was found out to be easy to bribe.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Me costó meses de meditación y terapia, pero creo que por fin me he encontrado a mí mismo.",
+      "back": "It took months of meditation and therapy, but I think I've finally found myself.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Él se fue de viaje al lejano Oriente y volvió diciendo que se había encontrado a sí mismo.",
+      "back": "He went travelling in the Far East and came back saying he'd found himself.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Encontrarse a uno mismo consiste en vivir el momento e intentar ser consciente.",
+      "back": "Finding oneself is all about being in the moment and practicing awareness.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Después de todos mis gastos navideños, fui incapaz de pagar el alquiler en enero.",
+      "back": "After all my Christmas expenses, I found myself unable to pay my rent in January.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "El departamento de reclamaciones fue incapaz de gestionar todas las quejas de los clientes.",
+      "back": "The claims department found itself unable to sort out all the customer complaints.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Jane se vio incapaz de resistir la tentación de tomarse otro trozo de tarta.",
+      "back": "Jane found herself unable to resist the temptation of another piece of cake.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Joe se va a ver en una situación comprometida si sigue evitando a su novia.",
+      "back": "Joe's going to find himself in a difficult situation if he carries on avoiding his girlfriend.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Nos vimos en una situación incómoda cuando tuvimos que decidir entre los dos candidatos.",
+      "back": "We found ourselves in an uncomfortable situation when we had to decide between the two candidates.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Cada vez que mis hijos me mienten y lo descubro, se ven en una situación muy embarazosa.",
+      "back": "Every time my kids lie to me and I find out about it, they find themselves in an awkward situation.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Si en alguna ocasión te ves en la situación de ahorrar algo de dinero, hazlo.",
+      "back": "If you ever find yourself in a position to save some money, do.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Si el año continúa así, no os veréis en situación de poder expandir vuestras operaciones.",
+      "back": "If the year continues this way, you won't find yourselves in a position to expand your operations.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Cómo llegó ella a verse en una situación para rechazar nuestra oferta?",
+      "back": "How did she find herself in a position to reject our offer?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Cómo es que te viste en una situación para viajar a la India?",
+      "back": "How did you find yourself in a position to travel to India?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Tenía algo de tiempo libre, así que decidí ir a la India a encontrarme a mí mismo.",
+      "back": "I had some time off, so I decided to go to India to find myself.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Es por eso por lo que no le pediste a Pam que se casara contigo?",
+      "back": "Is that why you didn't ask Pam to marry you?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Bueno, en realidad no la quería, así que me vi en una situación un poco dura.",
+      "back": "Well, I didn't really love her, so I found myself in a tough situation.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Cómo te resulta el tiempo aquí?",
+      "back": "How do you find the weather here?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Cómo le resulta a ella su piso nuevo?",
+      "back": "How is she finding her new flat?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Cómo les resulta la zona?",
+      "back": "How do they find the area?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Cómo te resulta trabajar con John?",
+      "back": "How are you finding working with John?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Cómo le resulta a él desplazarse tan lejos para ir al trabajo?",
+      "back": "How does he find travelling so far to work?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Cómo les resulta vivir en el campo?",
+      "back": "How are they finding living in the countryside?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-068",
+      "front": "Bueno, ya estás viviendo en España. ¿Qué te está pareciendo?",
+      "back": "So, you're living in Spain now. How are you finding it?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Ella trabaja para Zaro, ¿no? ¿Qué le parece?",
+      "back": "She works for Zaro, doesn't she? How does she find it?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Vas en transporte público de Essex al trabajo, ¿no? ¿Y cómo te resulta?",
+      "back": "You commute from Essex, don't you? How do you find it?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Cómo le resultó la primera semana de su trabajo nuevo?",
+      "back": "How did he find the first week in his new job?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Cómo les resultó el examen de hoy?",
+      "back": "How did they find the exam today?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "¡Has terminado el libro! ¿Y cómo te resultó?",
+      "back": "You finished the book! So how did you find it?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Cómo crees que te va a resultar?",
+      "back": "How do you think you'll find it?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Cómo creen que les va a resultar la jubilación?",
+      "back": "How do they think they'll find retirement?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Cómo crees que le va a resultar a ella su nuevo trabajo?",
+      "back": "How do you think she'll find her new job?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-077",
+      "front": "Me encontré por casualidad con Suzanne en el cine.",
+      "back": "I bumped into Suzanne at the movies.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Te encontraste por casualidad con ellos las Navidades pasadas.",
+      "back": "You bumped into them last Christmas.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Ellos se encontraron con los Johnson de casualidad mientras estaban en Italia.",
+      "back": "They bumped into the Johnsons when they were in Italy.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Me encontré con mi hermana en la parada del autobús esta mañana.",
+      "back": "I met my sister at the bus stop this morning.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Nos encontraremos en lo más alto del Empire State Building.",
+      "back": "We'll meet at the top of the Empire State Building.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Dónde te viene bien que nos encontremos?",
+      "back": "Where is it convenient for you to meet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-083",
+      "front": "Encontré un libro muy interesante ayer.",
+      "back": "I came across a very interesting book yesterday.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Mientras estaba en Sudán, ella se encontró con una rama de su familia.",
+      "back": "While she was in Sudan, she came across a branch of her family.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Encuentras las mejores gangas en las ventas por mudanza.",
+      "back": "You come across the best deals at moving sales!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "¡Qué bien te veo! ¿Has perdido algo de peso?",
+      "back": "You look swell! Have you lost some weight?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "¡Qué bien se le ve a ella! ¡Está simplemente resplandeciente!",
+      "back": "She looks amazing! She's just glowing!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "¡Qué bien les encontré! Quiero el número de teléfono de su cirujano plástico.",
+      "back": "They looked fantastic! I want their plastic surgeons' phone number.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Si eliges hacer lo correcto, te vas a encontrar con dificultades.",
+      "back": "If you choose to do the right thing, you're going to come up against difficulties.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Siempre que intentes cambiar los hábitos de la gente, te vas a encontrar con resistencia por su parte.",
+      "back": "Whenever you try to change people's habits, you're going to come up against resistance.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-091",
+      "front": "Admiro a las personas que se encuentran con dificultades personales y consiguen superarlas.",
+      "back": "I admire people who come up against hardship and manage to overcome it.",
+      "sourcePage": 47
+    }
+  ]
+}
