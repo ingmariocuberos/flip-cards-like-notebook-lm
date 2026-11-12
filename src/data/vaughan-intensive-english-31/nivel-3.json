@@ -1,0 +1,538 @@
+{
+  "bookId": "vaughan-intensive-english-31",
+  "bookTitle": "Libro 31",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me acabo de dar cuenta de lo urgente que es fregar este suelo.",
+      "back": "I just realized how desperately this floor needs cleaning.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Hay que lavar mi coche en cuanto sea posible.",
+      "back": "My car needs cleaning ASAP.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Jovencito, tienes que limpiar tu cuarto y lo sabes de sobra!",
+      "back": "Young man, your room needs cleaning and you know it perfectly well!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Venga, chicos, hay que pagar nuestra cuenta del bar antes de que los camareros se vayan.",
+      "back": "Come on, folks, our (bar) tab needs paying before the waiters can leave.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "A nadie le gustan los impuestos, pero al final del día hay que pagar a Hacienda.",
+      "back": "Nobody loves taxes, but at the end of the day, the IRS needs paying.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "No podemos seguir escondiéndonos así. Tenemos que pagar nuestras deudas.",
+      "back": "We can't go on hiding like this. Our debts need paying!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "No tengo otro par de calcetines limpios. Tengo que hacer la colada urgentemente.",
+      "back": "I don't have another pair of clean socks. My laundry desperately needs doing.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "John se está escondiendo en su habitación para evitar lavar los platos sucios.",
+      "back": "John is hiding in his room and avoiding the dishes that need doing.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Cariño, sabes que tienes que hacer tus deberes. ¡No se van a hacer por sí mismos!",
+      "back": "You know, darling, your homework needs doing. It isn't going to do itself!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "¡Este jardín podría ser precioso! ¡Pero hay que regarlo de vez en cuando!",
+      "back": "This garden could be beautiful! But it needs watering every now and then!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Estas flores se están marchitando. Hay que regarlas.",
+      "back": "These flowers are wilting. They need watering.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "¡Esas malas hierbas están demasiado sanas, no hay que regarlas!",
+      "back": "Those weeds are too healthy, they don't need watering!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Ese sarpullido parece sospechoso. De veras creo que hay que ir a que te lo vean.",
+      "back": "That rash looks suspect. I really think it needs looking at.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Tu motor suena raro. Creo que hay que ir a que vean tu carburador.",
+      "back": "Your engine is sounding funny. I think your carburetor needs looking at.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Parece que ese diente está infectado, Jane. Creo que tienes que ir a que te lo vean.",
+      "back": "That tooth looks infected, Jane. I think it needs looking at!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "¡Esta casa es un peligro para la salud! ¡Hay que limpiarla inmediatamente!",
+      "back": "This house is a health hazard! It needs to be cleaned immediately!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Dónde guardas la fregona? ¡Hay que fregar el suelo cuanto antes!",
+      "back": "Where do you keep your mop?! The floor needs to be cleaned ASAP!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Tengo que pagar el alquiler al final del mes. Así que, por favor, ¡no escatimen en mi propina!",
+      "back": "My rent needs to be paid at the end of the month. So, please, don't scrimp on my tip!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "¡Hay que devolver el préstamo! ¡No podemos acumular más intereses!",
+      "back": "This loan needs to be repaid! We can't accrue any more interest!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Odio hacer las tareas del hogar, pero hay que planchar y hay que limpiar las ventanas.",
+      "back": "I hate doing the housework, but the ironing needs to be done and the windows need to be cleaned.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-021",
+      "front": "Si tienes tiempo suficiente, cariño, hay que hacer la compra. ¡Acuérdate de comprar algo de leche!",
+      "back": "If you have enough time, sweetheart, the shopping needs to be done. Remember to get some milk!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-022",
+      "front": "Después de una entrega grande, ¿hay que hacer un inventario?",
+      "back": "After a big shipment, does an inventory need to be done?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Yo diría que hay que regar ese césped marrón, ¿tú no?",
+      "back": "I'd say that that brown lawn needs to be watered, wouldn't you?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "No hay que regar las orquídeas como a las demás plantas, hay que vaporizarlas.",
+      "back": "Orchids don't need to be watered like regular plants, they need to be misted.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Ella es tan bajita que parece una planta que hay que regar.",
+      "back": "She's so short! She looks like a plant that needs to be watered.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Hay que ir a que te vean esa tos pronto. Si no lo haces, podría convertirse en neumonía.",
+      "back": "Your cough really needs to be looked at soon. If not, it could turn into pneumonia.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Hay que solucionar este problema antes de que se haga más grande.",
+      "back": "This problem needs to be seen to before it gets any bigger.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Hay que ir a que vean mi declaración de la renta antes de que la entregue.",
+      "back": "My tax return needs to be looked at before I submit it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Él no es nada consciente de que está siendo un maleducado. Hay que decírselo, porque esta situación no puede continuar así.",
+      "back": "He's totally unaware that he's being rude. He needs to be told, because this situation can't continue.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-030",
+      "front": "Hay que decirle a ella que su conducta es inapropiada.",
+      "back": "She needs to be told that her conduct is inappropriate.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-031",
+      "front": "Jake no tiene ni idea de que está molestando a todos en la oficina. Hay que decírselo.",
+      "back": "Jake has no idea that he's annoying everyone in the office. He needs to be told!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Ella se cree la mujer más despampanante del planeta. Hay que ponerla en su sitio.",
+      "back": "She thinks she's the most stunning woman on the planet! She needs to be put in her place!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "De verdad, hay que poner a John en su sitio; de lo contrario, ¡su cabeza será demasiado grande como para pasar por la puerta!",
+      "back": "John really needs to be put in his place, because otherwise his head will be too big to get through the doorway!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Son muy arrogantes; no hay nadie que los aguante. ¡Hay que ponerlos en su sitio!",
+      "back": "They're so conceited; nobody can stand them! They need to be put in their place!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Hay que enseñar a los panaderos a usar la caja para que puedan ayudar a los cajeros antes de la hora de cierre.",
+      "back": "The bakers need to be trained to use the till so that they can help the cashiers before closing time.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-036",
+      "front": "Hay que formar a los contables para que puedan usar el nuevo paquete de aplicaciones.",
+      "back": "The accountants need to be trained so that they can use the new software package.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-037",
+      "front": "Hay que formarles para tratar con los clientes para que puedan ayudar al departamento de atención al cliente cuando no estén tan ocupados.",
+      "back": "They need to be trained to deal with the clients so that they can help the customer service department when they aren't so busy.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "¡Lo ha hecho mal, así que hay que castigarle!",
+      "back": "He's done wrong, so he needs to be punished!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Ella ha infringido la ley y no ha demostrado remordimiento alguno, así que hay que castigarla.",
+      "back": "She's broken the law and hasn't shown any remorse, so she needs to be punished.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Victoria falsificó la firma de su madre, así que hay que castigarla.",
+      "back": "Victoria forged her mother's signature, so she needs to be punished.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Tengo que ser informado de todos los cambios que ocurran mientras estoy en Tokio.",
+      "back": "I need to be informed of all the changes that take place while I'm in Tokyo.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Hay que informar a Tracey sobre todas las decisiones que se tomen que afecten al traslado.",
+      "back": "Tracey needs to be informed of all the decisions that are made affecting the move.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Hay que informar a Stephanie sobre todas las actividades que tengan lugar en cualquier momento.",
+      "back": "Stephanie needs to be informed of all the activities taking place at all times.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Este puesto exige alguien organizado y trabajador.",
+      "back": "This job calls for an organized and hard-working person.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-045",
+      "front": "Esta misión exige alguien trabajador con nervios de acero. ¿Eres tú el que estamos buscando?",
+      "back": "This mission calls for a hard-working person with nerves of steel. Are you the one we're looking for?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-046",
+      "front": "Este puesto no exige realmente alguien con nervios de acero, pero sí exige alguien con una buena disposición.",
+      "back": "This position doesn't really call for someone with nerves of steel, but it does call for someone with a good disposition.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Hay que pulir esta mesilla de café. ¿Dónde está el trapo?",
+      "back": "This coffee table wants polishing. Where's the cloth?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "A tu coche le vendría bien un buen lavado. ¿Por qué demonios lo aparcaste debajo de un cerezo?",
+      "back": "Your car wants washing. Why on earth did you park it under a cherry tree?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Hay que ordenar el ático. ¿Te das cuenta de cuántos trastos hay arriba?",
+      "back": "The loft wants sorting out. Do you realize how much clutter there is up there?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "A esta pared le vendría bien otra mano de pintura.",
+      "back": "This wall could do with another lick of paint.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-051",
+      "front": "Este café necesita más leche.",
+      "back": "This coffee could really do with some more milk.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-052",
+      "front": "Me vendrían muy bien unas vacaciones.",
+      "back": "I could really do with a holiday!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Se necesita cocinero «cordon bleu» a tiempo parcial para restaurante concurrido. De 17 h a 1 h, lunes a viernes.",
+      "back": "Part-time cordon bleu chef required for a busy restaurant. 5 pm to 1 am Monday to Friday.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Se necesita recepcionista de jornada completa para centro deportivo concurrido en Móstoles.",
+      "back": "Full-time receptionist required for busy leisure centre in Mostoles.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Se necesita secretaria a tiempo parcial. Paciente y organizada.",
+      "back": "Part-time secretary required. Patient and organized.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Este puesto exige alguien con un estómago fuerte.",
+      "back": "This job calls for someone with a strong stomach.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Hay que limpiar tu bicicleta. Está cubierta de telarañas.",
+      "back": "Your bike wants washing. It's covered in cobwebs.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Se necesita supervisor financiero dinámico y trabajador para conocido banco comercial del centro de Londres.",
+      "back": "Dynamic, hard-working financial supervisor required for well-known commercial bank Central London.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Paul organizó la fiesta. Ni falta hace que diga que fue un desastre total.",
+      "back": "Paul organised the party. I need hardly say it was an absolute disaster.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-060",
+      "front": "Ni falta hace que diga que la cosa fue atroz en su totalidad.",
+      "back": "I need hardly say that the whole thing was dreadful.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-061",
+      "front": "Ni falta hace que diga que fue algo típico de Paul.",
+      "back": "I need hardly say that it was typically Paul.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Paul organizó la fiesta. ¿Necesito decir algo más?",
+      "back": "Paul organised the party. Need I say more?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Todo fue organizado por Paul. ¿Necesito decir algo más?",
+      "back": "The entire thing was organized by Paul. Need I say more?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Fue algo típico de Paul. ¿Necesito decir algo más?",
+      "back": "It was typically Paul. Need I say more?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Veámonos mañana. ¡Tu marido no tiene por qué enterarse!",
+      "back": "Meet me tomorrow! Your husband need never know!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-066",
+      "front": "Mi marido se enfadaría, pero supongo que no tiene por qué enterarse.",
+      "back": "My husband would be angry, but I suppose he need never know.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-067",
+      "front": "Él dice que sabe guardar un secreto, así que su mujer no tiene por qué enterarse.",
+      "back": "He says he can keep a secret, so his wife need never know.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Si hace falta, puedo escribir las cartas yo mismo a máquina.",
+      "back": "If need be, I can type the letters myself.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Pueden recogerle después del trabajo si hace falta.",
+      "back": "They can collect her later if need be.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Ella trabajará tarde cuando haga falta.",
+      "back": "She'll work late if need be.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Sé escribir a máquina, así que si surge la necesidad, puedo escribir las cartas yo mismo.",
+      "back": "I can type, so should the need arise, I can write the letters myself.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Estarán disponibles para recogerla más tarde, si surge la necesidad.",
+      "back": "They'll be available to collect her later, should the need arise.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "No estoy insinuando que tengas un mal sentido de orientación, pero tengo un mapa, si surge la necesidad.",
+      "back": "I'm not suggesting you have a bad sense of direction, but I have a map, should the need arise.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Mi jefe me cuenta justo lo necesario.",
+      "back": "My boss keeps me on a need-to-know basis.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-075",
+      "front": "Por razones legales, prefiero que me cuentes sólo lo que sea necesario.",
+      "back": "For legal reasons, I prefer for you to keep me on a need-to-know basis.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-076",
+      "front": "Éste es un tema delicado. Preferiría contarte justo lo necesario.",
+      "back": "This is a sensitive subject. I'd rather keep you on a need-to-know basis.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Ayer se derritió la tarta de helado, el payaso dijo que no venía y ahora faltan los gorros de fiesta. ¡Justo lo que me faltaba!",
+      "back": "Yesterday the ice-cream cake melted, the clown cancelled and now the party hats are missing. That's all I needed!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Esta mañana me dejé el chubasquero en casa y me olvidé el paraguas en el tren. Ahora llueve a mares. ¡Justo lo que me faltaba!",
+      "back": "This morning I left my raincoat at home and forgot my umbrella on the train. Now it's pouring down. That's all I needed!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Me perdieron el equipaje, me robaron la cartera y luego me confiscaron el pasaporte. ¡Justo lo que me faltaba!",
+      "back": "My luggage was lost, my wallet was stolen and then my passport was confiscated. That's all I needed!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "¡Más trabajo es lo último que necesito!",
+      "back": "I need more work like I need a hole in the head.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-081",
+      "front": "¡Una rueda pinchada es lo último que necesito!",
+      "back": "I need a flat tire like I need a hole in the head.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-082",
+      "front": "¡Más gastos es lo último que necesito!",
+      "back": "I need more expenses like I need a hole in the head.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Su jefe le sugirió que se fuera a casa pronto. No tuvo que decírselo dos veces.",
+      "back": "His boss suggested he go home early. He didn't need to tell him twice.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Le pedí a ella que liderase el proyecto y no tuve que decírselo dos veces.",
+      "back": "I asked her to head up the project and I didn't need to tell her twice.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Les dije que disfrutaran de la barra libre y no tuve que decírselo dos veces.",
+      "back": "I told them to help themselves to the open bar and I didn't need to tell them twice.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "La trabajadora social fue una bendición para nosotros en nuestro momento de mayor necesidad.",
+      "back": "The social worker was a real godsend to us in our hour of need.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Lo último que necesitas en un momento de gran necesidad es a la gente que se queja.",
+      "back": "In your hour of need you need whiny people like a hole in the head.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "¡Gracias por estar presente en mi momento de mayor necesidad!",
+      "back": "Thank you for being there for me in my hour of need!",
+      "sourcePage": 75
+    }
+  ]
+}

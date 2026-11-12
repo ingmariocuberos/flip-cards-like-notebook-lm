@@ -1,0 +1,538 @@
+{
+  "bookId": "vaughan-intensive-english-31",
+  "bookTitle": "Libro 31",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Me siento infravalorada, John. ¡Tengo mis necesidades!",
+      "back": "I feel undervalued, John. I have needs!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "No des por hecho que me tienes, ¿vale? ¡Tengo mis necesidades!",
+      "back": "Don't take me for granted, ok? I have needs!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Siempre estamos haciendo tus cosas, pero tengo mis necesidades también, ¿sabes?",
+      "back": "We're always doing your thing, but I have needs too, you know?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Puedes acudir a mí siempre que necesites un amigo.",
+      "back": "You can call on me any time you need a friend.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Apóyate en mí siempre que necesites un hombro en el que llorar.",
+      "back": "Lean on me any time you need a shoulder to cry on.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Danos un toque siempre que necesites a un ingeniero aeronáutico.",
+      "back": "Give us a shout any time you need an aeronautical engineer.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Dónde estabas cuando más te necesitaba?",
+      "back": "Where were you when I needed you (the) most?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Dónde estabas cuando tanto te necesitaba?",
+      "back": "Where were you when I needed you so badly?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Dónde estabas cuando te necesitaba como agua de mayo?",
+      "back": "Where were you when I needed you like the desert needs the rain?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Siento oír que te rompieras la clavícula. Estoy aquí si me necesitas.",
+      "back": "I'm sorry to hear you broke your collarbone. I'm here if you need me.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Siento oír que tu equipo perdiera por tantísimo. Estoy aquí si me necesitas.",
+      "back": "I'm sorry to hear your team lost by a mile. I'm here if you need me.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Siento oír que te dejara tu media naranja. Estoy aquí si me necesitas.",
+      "back": "I'm sorry to hear your other half dumped you. I'm here if you need me.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Tu pareja cocina por primera vez y está nerviosa. Estoy aquí para cualquier cosa que puedas necesitar.",
+      "back": "Your other half is doing the cooking for the first time and is very nervous about getting it right. I'm here for whatever you may need.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Tu compañero de piso hace una tarea importante y está preocupado. Estoy aquí para cualquier cosa que puedas necesitar.",
+      "back": "Your flat mate is doing an important homework assignment and is worried about doing it well. I'm here for whatever you may need.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Tu mejor amiga da una cena a sus compañeros y teme que todo salga mal. Estoy aquí para cualquier cosa que puedas necesitar.",
+      "back": "Your best friend is giving a dinner party for her work mates and is scared everything will go wrong. I'm here for whatever you may need.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "¡No tiene por qué haber este desorden!",
+      "back": "There is no need for this mess!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "¡No hay por qué ser tan desordenado!",
+      "back": "There is no need to be so untidy!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "¡No tengo por qué decirte todo el tiempo que recojas!",
+      "back": "There is no need for me to tell you to tidy up all the time!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "No hay por qué cancelar la boda.",
+      "back": "There isn't any need to call off the wedding.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "No hay por qué romper nuestro compromiso.",
+      "back": "There isn't any need to break off our engagement.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "No tienes por qué irte de casa.",
+      "back": "There isn't any need for you to move out.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "¡Creo que es del todo innecesario!",
+      "back": "I don't think there's any need for this!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "¡No creo que él tenga que ser tan irrespetuoso!",
+      "back": "I don't think there's any need for him to be so disrespectful!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "¡Tampoco creo que haya que ser tan inconsiderado!",
+      "back": "I don't think there's any need to be so inconsiderate either!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "¡Era del todo innecesario!",
+      "back": "There was no need for that!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "¡No había por qué usar el revólver!",
+      "back": "There was no need to use the revolver!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¡No tenían por qué morir!",
+      "back": "There was no need for them to die!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Era necesario eso?",
+      "back": "Was there any need for that?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Había necesidad de usar el revólver?",
+      "back": "Was there any need to use the revolver?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Era necesario que murieran?",
+      "back": "Was there any need for them to die?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Llevo los últimos tres días necesitando llamar a mi padre.",
+      "back": "I've needed to call my father for the last three days.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Llevo la última semana necesitando hablar contigo.",
+      "back": "I've needed to speak to you for the last week.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¡Llevas el último mes necesitando entregar los deberes pendientes, jovencillo!",
+      "back": "You've needed to turn in your overdue homework for the past month, young man!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Llevas los últimos dos meses necesitando entregarme tu currículum.",
+      "back": "You've needed to send me your CV for the past two months.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella lleva necesitando regar las orquídeas desde ayer.",
+      "back": "She's needed to water the orchids since yesterday.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-036",
+      "front": "Ella lleva necesitando llamar a sus hijos desde la semana pasada.",
+      "back": "She's needed to call her kids since last week.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-037",
+      "front": "Ella lleva necesitando una pieza de repuesto para el coche desde el mes pasado.",
+      "back": "She's needed a spare part for her car since last month.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Él lleva necesitando llevar traje desde que empezó ese trabajo.",
+      "back": "He's needed to wear a suit since he started that job.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Él lleva necesitando tener cuidado con lo que dice desde que nacieron sus hijos.",
+      "back": "He's needed to watch his language since he became a father.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Él lleva necesitando consejos de moda desde que era niño.",
+      "back": "He's needed fashion tips since he was a kid.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Llevo un par de semanas necesitando cortar el césped.",
+      "back": "I've been needing to mow the lawn for a couple of weeks.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Llevo necesitando cortarme las uñas de los pies desde que me empezaron a sobresalir de las sandalias.",
+      "back": "I've been needing to cut my toenails since they started poking out of my sandals.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Llevo necesitando arreglar el grifo que gotea desde que empezó a despertarme por la noche.",
+      "back": "I've been needing to fix that leaky faucet since it started waking me up at night!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Parece que tienes necesidad de ayuda.",
+      "back": "It looks like you're in need of help.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-045",
+      "front": "Después de tres horas de riguroso estudio, seguro que los estudiantes tendrán necesidad de un descanso.",
+      "back": "After three hours of solid study, I'm sure the students will be in need of a break.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-046",
+      "front": "Llevo todo el día sin salir; tengo necesidad de un poco de aire fresco.",
+      "back": "I've been indoors all day; I'm in need of a bit of fresh air.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "A esta habitación le hace mucha falta una mano de pintura.",
+      "back": "This room is in much need of a lick of paint.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "A la casa en la que estamos interesados le hace mucha falta un poco de cuidado y amor.",
+      "back": "The house we're interested in is in much need of a bit of TLC.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "A todos nos hacen mucha falta unas vacaciones.",
+      "back": "We're all in much need of a holiday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Al segundo candidato que vimos le hacía buena falta un corte de pelo y asearse.",
+      "back": "The second candidate we saw was in desperate need of a haircut and a wash.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-051",
+      "front": "Los hospitales tienen siempre auténtica necesidad de donantes de órganos.",
+      "back": "Hospitals are always in desperate need of organ donors.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-052",
+      "front": "La ONG tiene auténtica necesidad de donaciones para poder continuar realizando su buena obra.",
+      "back": "The charity is in desperate need of donations so they can keep on doing their good work.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Necesitaría usted ayuda?",
+      "back": "Are you in any need of assistance?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Llame a este timbre si necesita ayuda.",
+      "back": "If you are in need of assistance, please ring this bell.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "El caballero de la habitación 111 parece necesitar ayuda.",
+      "back": "The gentleman from room 111 appears to be in need of assistance.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Hay que echarle un ojo a los cimientos urgentemente.",
+      "back": "The foundations are in desperate need of attention.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "El tejado no es lo único a lo que hay que echarle un ojo.",
+      "back": "The roof isn't the only thing in need of attention.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Me parece que tus hijos están faltos de atención. Andan desmadrados por la calle en estos momentos.",
+      "back": "I think your kids are in need of attention. They're running riot in the street as we speak.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Necesitas que infle los globos y los pegue en el techo?",
+      "back": "Do you need me to blow up the balloons and stick them up on the ceiling?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Necesitas que lleguemos todos al mismo tiempo?",
+      "back": "Do you need us all to get there at the same time?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Cuántos de nosotros necesitas que te ayudemos a sacar los muebles de la habitación?",
+      "back": "How many of us do you need to help you carry the furniture out of the room?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Necesitarás que los hombres vengan con esmoquin y las mujeres con trajes de fiesta?",
+      "back": "Will you need the men to show up in tuxedos and the women in evening gowns?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Necesitarás que aquel chico de la camiseta azul sea el camarero?",
+      "back": "Will you need that guy in the blue t-shirt to be the waiter?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Necesitarás que todas las bebidas se sirvan frías?",
+      "back": "Will you need all the drinks to be served chilled?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Vas a necesitar que la gente aparque sus coches en fila detrás del tuyo?",
+      "back": "Are you going to need people to park their cars in a single line behind yours?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Vas a necesitar que la gente no haga mucho ruido, o pueden armar jaleo?",
+      "back": "Are you going to need people to keep it down, or can they make a racket?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Vas a necesitar que cada uno esté atento a su vaso o habrá más de uno por persona?",
+      "back": "Are you going to need everyone to keep an eye on their glass, or will there be more than one per person?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Necesitas que toda la comida para picar se mantenga caliente hasta que se acabe la fiesta?",
+      "back": "Do you need all the finger food to keep warm until the party's over?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Necesitas que la música sea de los 80?",
+      "back": "Do you need the music to be from the 80's?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Vas a necesitar que el perro salude a los invitados a medida que vayan llegando?",
+      "back": "Are you going to need the dog to greet the guests as they arrive?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Dónde necesitas que pongamos las cubiteras de hielo?",
+      "back": "Where do you need us to put the ice buckets?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Dónde necesitas que colguemos los farolillos?",
+      "back": "Where do you need us to hang the lanterns?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Dónde necesitas que nos pongamos de pie cuando entres?",
+      "back": "Where do you need us to stand when you walk in?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "De verdad, no hace falta que te preocupes de mí. ¡Estaré bien!",
+      "back": "You really needn't worry about me. I'll be fine!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-075",
+      "front": "No hace falta que te preocupes. No te resultará difícil.",
+      "back": "You don't need to worry. You won't find it difficult.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-076",
+      "front": "Ya no tienes por qué preocuparte. ¡Todo está arreglado!",
+      "back": "You don't have to worry about it anymore. It's all sorted out!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "No hace falta que te molestes en fregar ahora.",
+      "back": "You needn't bother washing up now.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "De verdad, no hace falta que te molestes en planchar esa camisa.",
+      "back": "You really don't need to bother ironing that shirt.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "No tienes por qué molestarte con eso.",
+      "back": "You don't have to bother with that.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "¡No hace falta que te molestes por mí!",
+      "back": "You needn't go to all that trouble for me!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-081",
+      "front": "No hace falta que vayas si no quieres.",
+      "back": "You don't need to go if you don't want to.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-082",
+      "front": "De verdad, no tienes por qué ir a la reunión después de todo.",
+      "back": "You really don't have to go to the meeting after all.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "De verdad, no hacía falta que me esperaras.",
+      "back": "You really needn't have waited for me.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "No hacía falta que esperaras tanto tiempo.",
+      "back": "You didn't need to wait for so long.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "No tenías por qué esperar si no querías.",
+      "back": "You didn't have to wait if you didn't want to.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "No hacía falta que compraras café. No se nos ha acabado.",
+      "back": "You needn't have bought coffee. We haven't run out.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "No hacía falta que compraras un conjunto nuevo para la boda, podías haber pedido prestado uno mío.",
+      "back": "You didn't need to buy a new outfit for the wedding, you could've borrowed one of mine.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "De verdad, ¡no tenías por qué comprarme un regalo!",
+      "back": "You really didn't have to buy me a gift!",
+      "sourcePage": 47
+    }
+  ]
+}
