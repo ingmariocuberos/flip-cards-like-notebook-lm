@@ -52,3 +52,9 @@ El libro 24 tiene ejercicios básicos en las páginas PDF 4–9 y 14–19. El ni
 ## Correcciones de coherencia del libro 26
 
 El OCR de los ejercicios está en `sources/english/Libro 26.ocr.txt` (páginas 4–19, 32–47 y 60–75). En la página PDF 17 la frase española dice «café» y la respuesta inglesa dice `tea`; la tarjeta usa «té» en el frente. En la página PDF 61 la frase española dice que alguien *se habría presentado* mientras que la respuesta inglesa dice `wouldn't have turned up`; la tarjeta añade «no» al frente. En la página PDF 71 la frase española menciona «varicela» y la respuesta inglesa `measles`; la tarjeta usa «sarampión». Estos ajustes mantienen la correspondencia entre ambas caras sin cambiar el inglés impreso.
+
+## Libros desde el 32: escaneos de pliegos
+
+El PDF del libro 32 tiene 50 páginas apaisadas, cada una con dos páginas impresas lado a lado. El OCR de la página completa intercala las columnas de ambas mitades y no es una base fiable para redactar tarjetas. Tras renderizar el PDF, dividir los pliegos con `python3 tools/split-english-spreads.py 'sources/english/Libro 32__pngs' 6 44` y ejecutar `python3 tools/ocr-scanned-pdf.py 'sources/english/Libro 32__halves'`. Las imágenes `__halves` y el OCR resultante se ignoran en Git. La mitad izquierda del pliego PDF `p` se etiqueta `2p-1` y la derecha `2p` en el OCR; **`sourcePage` de las tarjetas debe seguir siendo la página PDF `p`**, que es la que puede abrir la aplicación.
+
+En el libro 32, los ejercicios con Focus Points están en las mitades OCR 11–26 (PDF 6–13, básico), 39–54 (PDF 20–27, intermedio) y 65–80 (PDF 33–40, avanzado). Las páginas entre estas bandas contienen vocabulario, pasatiempos, diálogos y resúmenes. No asumir la misma distribución en los libros 33–40 sin comprobar sus encabezados.

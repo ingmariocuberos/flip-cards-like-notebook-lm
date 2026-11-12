@@ -49,6 +49,7 @@ sources/*.pdf
 sources/**/*.pdf
 sources/**/*__chunks/
 sources/**/*__pngs/
+sources/**/*__halves/
 sources/english/*.ocr*.txt
 sources/english/*.draft.tsv
 sources/english/*.layout*.jsonl
