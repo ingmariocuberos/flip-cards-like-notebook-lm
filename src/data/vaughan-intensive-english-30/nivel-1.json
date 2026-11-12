@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-30",
+  "bookTitle": "Libro 30",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Quiero preguntarle algo a ella.",
+      "back": "I want to ask her something.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Te puedo preguntar algo?",
+      "back": "Can I ask you something?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Pregúntame.",
+      "back": "Ask me!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Pregúntaselo a ellos.",
+      "back": "Ask them.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Voy a preguntarle a él.",
+      "back": "I'm going to ask him.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Por qué no se lo preguntas a ella?",
+      "back": "Why don't you ask her?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Te puedo hacer una pregunta?",
+      "back": "Can I ask you a question?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Quieres hacer alguna pregunta?",
+      "back": "Do you want to ask any questions?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Haced todas las preguntas que queráis.",
+      "back": "Ask all the questions you want.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¡No preguntes sobre eso!",
+      "back": "Don't ask about that!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Preguntaré acerca de su madre de él.",
+      "back": "I'll ask about his mother.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Puedo hacer una pregunta sobre la reunión de la semana que viene?",
+      "back": "Can I ask a question about next week's meeting?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Te puedo preguntar algo sobre mi contrato?",
+      "back": "Can I ask you something about my contract?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Si queréis hacerme alguna pregunta sobre mi presentación, ¡adelante!",
+      "back": "If you want to ask me any questions about my presentation, feel free!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Me gustaría hacerte una pregunta acerca de la conferencia del año que viene.",
+      "back": "I'd like to ask you a question about next year's conference.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Pregúntale a Peter si va a haber una reunión sobre la gestión del tiempo mañana por la mañana.",
+      "back": "Ask Peter if there's going to be a meeting on time management tomorrow morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Pregúntale a Lucas si va a haber una conferencia sobre el mercado libre pasado mañana.",
+      "back": "Ask Lucas if there's going to be a lecture on free trade the day after tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Pregúntale a Pam si va a haber más de dos talleres la semana que viene.",
+      "back": "Ask Pam if there are going to be more than two workshops next week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Ve y pregúntale a Peter por qué están sus botas de agua en el lavabo.",
+      "back": "Go and ask Peter why his rubber boots are in the washbasin.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Ve y pregúntale a Lucas por qué están las botas de montaña de Richard en la bañera.",
+      "back": "Go and ask Lucas why Richard's hiking boots are in the bathtub.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Ve y pregúntale a Pam por qué sus zapatos de aguja están en la secadora.",
+      "back": "Go and ask Pam why her stilettos are in the tumble-dryer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Voy a preguntarle a Peter qué hacen sus botas de agua en el lavabo.",
+      "back": "I'll go and ask Peter what his rubber boots are doing in the washbasin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Voy a preguntarle a Lucas qué hacen las botas de montaña de Richard en la bañera.",
+      "back": "I'll go and ask Lucas what Richard's hiking boots are doing in the bathtub.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Voy a preguntarle a Pam qué hacen sus zapatos de aguja en la secadora.",
+      "back": "I'll go and ask Pam what her stilettos are doing in the tumble-dryer.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Luis le va a preguntar a Peter de quién es esta postal.",
+      "back": "Luis's going to ask Peter who this postcard is from.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Lucas le va a preguntar para quién es esta carta.",
+      "back": "Lucas's going to ask him who this letter is for.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Carlos le va a preguntar para quién son estos sobres.",
+      "back": "Carlos's going to ask him who these envelopes are for.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Le puedes preguntar al fontanero cómo arreglar la tubería de la cocina?",
+      "back": "Can you ask the plumber how to fix the pipe in the kitchen?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Le puede él preguntar al carpintero cómo reparar la librería?",
+      "back": "Can he ask the carpenter how to repair the bookshelf?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Le pueden preguntar al electricista cómo instalar el cableado eléctrico en su casa?",
+      "back": "Can they ask the electrician how to install the electrical wiring in their house?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Ella pregunta, pero nadie más pregunta nada.",
+      "back": "She asks questions, but nobody else asks any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Él pregunta mucho, pero nadie más pregunta nada.",
+      "back": "He asks a lot of questions, but nobody else asks any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Paul pregunta, pero nadie más pregunta nada.",
+      "back": "Paul asks questions, but nobody else asks any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Él hace muchas preguntas a sus compañeros de trabajo. Sin embargo, no le preguntan nada.",
+      "back": "He asks his colleagues a lot of questions. However, they don't ask him any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Ella hace muchas preguntas a su vecino. Sin embargo, él no le hace preguntas a ella.",
+      "back": "She asks her neighbour a lot of questions. However, he doesn't ask her any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Hacen preguntas a su jefe. Sin embargo, ella nunca les hace preguntas.",
+      "back": "They ask their boss questions. However, she never asks them any questions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Él hace preguntas válidas mientras que ella hace preguntas tontas.",
+      "back": "He asks valid questions whereas she asks silly questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Ella hace muchas preguntas a Manuel, mientras que él le pregunta mucho a Lucía.",
+      "back": "She asks Manuel a lot of questions whereas he asks Lucía a lot of questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Ernesto hace preguntas irrelevantes mientras que Juan hace preguntas relevantes.",
+      "back": "Ernesto asks irrelevant questions whereas Juan asks relevant questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Ella hace muchas preguntas mientras que yo no.",
+      "back": "She asks a lot of questions whilst I don't.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Ellas hacen preguntas irrelevantes mientras que él no.",
+      "back": "They ask irrelevant questions whilst he doesn't.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Nosotros siempre hacemos preguntas mientras que ellos nunca las hacen.",
+      "back": "We always ask questions whilst they never do.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Tim pregunta mucho, sin embargo Graham nunca pregunta.",
+      "back": "Tim asks a lot of questions. However, Graham never asks any questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Lucy hace preguntas complicadas, mientras que Lily hace preguntas sencillas.",
+      "back": "Lucy asks complicated questions whereas Lily asks simple questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Él hace preguntas tontas mientras que ella hace preguntas sensatas.",
+      "back": "He asks silly questions whilst she asks sensible questions.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Quién va a pedir la cuenta?",
+      "back": "Who's going to ask for the bill?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Puedes pedir la cuenta o pido yo la cuenta?",
+      "back": "Can you ask for the bill or shall I ask for the bill?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Yo pido la cuenta. ¿Me trae la cuenta, por favor?",
+      "back": "I'll ask for the bill. Could I have the bill, please?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Pídemelo. ¿Por qué no me lo quieres pedir?",
+      "back": "Ask me for it. Why don't you want to ask me for it?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Se los pediré a ella. Bueno, se los pediré a él.",
+      "back": "I'll ask her for them. Well, I'll ask him for them.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "—¿Te lo puedo pedir a ti? —No, lo siento. Pero puedes pedírselo a ellas.",
+      "back": "—Can I ask you for it? —No, sorry. But you can ask them for it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Puedo pedirle información, señorita?",
+      "back": "Can I ask you for some information, Ms?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Puedo pedirle información, señor? No le llevará ni un minuto.",
+      "back": "Can I ask for some information, Sir? It won't take a minute.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿A quién puedo pedirle información?",
+      "back": "Who can I ask for some information?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "La gente siempre me pide indicaciones, pero casi nunca conozco el camino.",
+      "back": "People always ask me for directions, but I hardly ever know the way.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Creo que él le está pidiendo indicaciones a ese policía.",
+      "back": "I think he's asking that police officer for directions.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Si le pides indicaciones a alguien, llegarás allí antes.",
+      "back": "If you ask someone for directions, you'll get there sooner.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Crees que es buen momento para pedir un aumento de sueldo? Necesito pedir uno.",
+      "back": "Do you think it's a good time to ask for a pay rise? I need to ask for one.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Creo que no. El mejor momento para pedir un aumento es un viernes.",
+      "back": "I don't think so. The best time to ask for a raise is on a Friday.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Pide un aumento en un viernes, porque aunque la respuesta sea «no», al menos seguirá siendo viernes.",
+      "back": "Ask for a pay rise on a Friday, because even if the answer is no, at least it'll still be Friday.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Por qué no le pides a él que lo haga?",
+      "back": "Why don't you ask him to do it?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Estoy demasiado ocupado. ¿Puedes pedirle a él que lo haga?",
+      "back": "I'm too busy. Can you ask him to do it?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "No importa, le pediré a él que lo haga.",
+      "back": "Never mind, I'll ask him to do it.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Él te llevará a casa si se lo pides.",
+      "back": "He'll take you home, if you ask him to.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No seas tímido y pídeselo a él.",
+      "back": "Don't be shy and ask him to.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Adelante, pídeselo a él. No te morderá.",
+      "back": "Go ahead, ask him to. He won't bite you.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Pídeles que te muestren algún tipo de identificación.",
+      "back": "Ask them to show you some ID.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Pídeles que te digan sus nombres completos.",
+      "back": "Ask them to tell you their full names.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Pídeles que te den la contraseña.",
+      "back": "Ask them to give you the password.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Seguro que los hombres de allí te ayudarán si se lo pides.",
+      "back": "I'm sure the men over there will help you, if you ask them to.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No hay ningún problema. Sólo tienes que pedírselo a ellos.",
+      "back": "No problem at all. You only have to ask them to.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Lo volverán a hacer si se lo pedís.",
+      "back": "They'll do it again if you ask them to.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Pedidme que cante una canción, ya veréis.",
+      "back": "Ask me to sing a song, you'll see.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Le está pidiendo él a ella que vaya con él?",
+      "back": "Is he asking her to go with him?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "No nos pidas que estemos allí tan pronto, ¡por favor!",
+      "back": "Don't ask us to be there so early, please!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Pídele a Nick que deje un mensaje y le volveré a llamar luego.",
+      "back": "Ask Nick to leave a message and I'll call him back later.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Pídele a Samantha que deje un mensaje y le volveré a llamar luego.",
+      "back": "Ask Samantha to leave a message and I'll call her back later.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Pídele a Timothy que deje un mensaje y le volveré a llamar luego.",
+      "back": "Ask Timothy to leave a message and I'll call him back later.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Pídele a Jim que me vuelva a llamar pasado mañana.",
+      "back": "Ask Jim to call me back the day after tomorrow.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Pídele a Aránzazu que me vuelva a llamar mañana.",
+      "back": "Ask Aranzazu to call me back tomorrow.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Pídele a Celia que me vuelva a llamar pasado mañana cuando no esté tan ocupado.",
+      "back": "Ask Celia to call me back the day after tomorrow when I'm not so busy.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Pídele a Lucas que deje sus señas y le volveré a llamar en un par de días.",
+      "back": "Ask Lucas to leave his details and I'll call him back in a couple of days.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Pídele a Diana que deje sus señas y le volveré a llamar mañana por la mañana.",
+      "back": "Ask Diana to leave her details and I'll call her back tomorrow morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Pídele a Jimena que deje sus señas y le volveré a llamar la semana que viene.",
+      "back": "Ask Jimena to leave her details and I'll call her back next week.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Pídele a Richard que me mande un e-mail y responderé después de la reunión.",
+      "back": "Ask Richard to email me and I'll respond after the meeting.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Pídele a Robert que me mande un e-mail y responderé pasado mañana.",
+      "back": "Ask Robert to email me and I'll respond the day after tomorrow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Pídele a Ralph que me mande un e-mail y le mandaré la información la semana que viene.",
+      "back": "Ask Ralph to email me and I'll send him the information next week.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Pídele a Gregory que se mantenga a la espera porque estoy hablando por teléfono.",
+      "back": "Ask Gregory to hold the line because I'm talking on the phone.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Pídele a Martha que se mantenga a la espera porque me estoy atando los cordones.",
+      "back": "Ask Martha to hold the line because I'm tying my shoelaces.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Pídele a Marcus que se mantenga a la espera porque estoy terminando mi tortilla.",
+      "back": "Ask Marcus to hold the line because I'm finishing my Spanish omelet.",
+      "sourcePage": 19
+    }
+  ]
+}
