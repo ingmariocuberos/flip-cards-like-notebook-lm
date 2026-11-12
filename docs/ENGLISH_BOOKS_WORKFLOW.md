@@ -48,3 +48,7 @@ En el libro 21 los niveles intermedio y avanzado comienzan dos páginas PDF más
 ## Ajuste del libro 24
 
 El libro 24 tiene ejercicios básicos en las páginas PDF 4–9 y 14–19. El nivel intermedio empieza en la página PDF 31: hay ejercicios en 31–36 y 41–46; la 47 es un repaso ilustrado. El nivel avanzado empieza en la página PDF 59: los ejercicios están en 59–64 y 69–74; la 75 también es un repaso ilustrado. El OCR de las 48 páginas de ejercicios está en `sources/english/Libro 24.ocr.txt`, ignorado por Git. Se seleccionaron 4–19, 31–46 y 59–74 en una sola ejecución para evitar sobrescribir OCR previo.
+
+## Correcciones de coherencia del libro 26
+
+El OCR de los ejercicios está en `sources/english/Libro 26.ocr.txt` (páginas 4–19, 32–47 y 60–75). En la página PDF 17 la frase española dice «café» y la respuesta inglesa dice `tea`; la tarjeta usa «té» en el frente. En la página PDF 61 la frase española dice que alguien *se habría presentado* mientras que la respuesta inglesa dice `wouldn't have turned up`; la tarjeta añade «no» al frente. En la página PDF 71 la frase española menciona «varicela» y la respuesta inglesa `measles`; la tarjeta usa «sarampión». Estos ajustes mantienen la correspondencia entre ambas caras sin cambiar el inglés impreso.

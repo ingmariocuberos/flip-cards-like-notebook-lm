@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-26",
+  "bookTitle": "Libro 26",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Cómo te llamabas? Lo siento, no me acuerdo.",
+      "back": "What's your name again? Sorry, I can't remember.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Nunca me acuerdo de cómo se llama la gente.",
+      "back": "I can never remember people's names.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Madre mía! ¡No me acuerdo de cómo me llamo!",
+      "back": "Oh my god! I can't remember my name!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Te acuerdas de dónde vive Charlie?",
+      "back": "Can you remember where Charlie lives?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Se acuerda alguien de dónde vive Charlie?",
+      "back": "Can anyone remember where Charlie lives?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Me temo que nadie se acuerda de dónde vive.",
+      "back": "I'm afraid no one can remember where he lives.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Te acuerdas de cuántos años tiene Elizabeth?",
+      "back": "Can you remember how old Elizabeth is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Todo el mundo se acuerda de los años que tiene.",
+      "back": "Everyone can remember how old she is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Por supuesto que me acuerdo de cuántos años tiene Elizabeth!",
+      "back": "Of course I can remember how old Elizabeth is!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Tu marido se acuerda de cuándo es tu cumpleaños?",
+      "back": "Can your husband remember when your birthday is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "El mío nunca se acuerda de cuándo es el mío.",
+      "back": "Mine can never remember when mine is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Apuesto a que tu mujer se acuerda de cuándo es tu cumpleaños.",
+      "back": "I bet your wife can remember when your birthday is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Alguien recuerda en qué trabaja Joe?",
+      "back": "Can anyone remember what Joe does?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "La hija de Joe no recuerda en qué trabaja Joe.",
+      "back": "Joe's daughter can't remember what Joe does.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Recuerdas a qué se dedica Joe?",
+      "back": "Can you remember what Joe does?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "No olvides quién eres.",
+      "back": "Don't forget who you are.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "No olvides quién es tu familia.",
+      "back": "Don't forget who your family is.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Y jamás olvides quiénes son tus verdaderos amigos.",
+      "back": "And never forget who your real friends are.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No olvides cómo te llamas.",
+      "back": "Don't forget what your name is.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No olvides cómo te apellidas.",
+      "back": "Don't forget what your last name is.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¡Y sobre todo no olvides cuál es tu mote!",
+      "back": "And above all don't forget what your nickname is!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No olvides dónde pasas la Navidad todos los años.",
+      "back": "Don't forget where you spend Christmas every year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "No olvides dónde guardas tus llaves de casa.",
+      "back": "Don't forget where you keep your house keys!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¡Y nunca, jamás, olvides dónde vives!",
+      "back": "And never ever forget where you live!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Nunca olvides lo alto que eres!",
+      "back": "Don't ever forget how tall you are!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¡Nunca olvides lo delgado que eres!",
+      "back": "Don't ever forget how thin you are!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Nunca olvides lo atractivo que eres!",
+      "back": "Don't ever forget how good-looking you are!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "No olvides lo corta que es.",
+      "back": "Don't forget how short it is.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No olvides lo imprevisible que es.",
+      "back": "Don't forget how unpredictable it is.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Y nunca, jamás, olvides lo maravillosa que puede ser!",
+      "back": "And never ever forget how wonderful it can be!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Vaya, me olvidé todo mi dinero en casa.",
+      "back": "Oops, I left all my money at home.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿De verdad? Pero tú nunca te olvidas nada en casa...",
+      "back": "Really? But you never leave anything at home...",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Pues me temo que yo también olvidé mi dinero en casa...",
+      "back": "Well, I'm afraid I left my money at home too...",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "No te olvides el portátil en el trabajo, ¿vale?",
+      "back": "Don't leave your laptop at work, OK?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "No quiero olvidarme el portátil en el trabajo.",
+      "back": "I don't want to leave my laptop at work.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Shelley se olvidó el portátil en el trabajo la semana pasada.",
+      "back": "Shelley left her laptop at work last week.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "No te dejes las zapatillas de andar por casa.",
+      "back": "Don't leave your slippers behind.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "No te dejes el pasaporte.",
+      "back": "Don't leave your passport behind.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Y sobre todo, no te dejes a tu compañero de habitación.",
+      "back": "And above all, don't leave your roommate behind.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Oh, no! ¡Te olvidaste tu pescado en el asiento delantero de mi coche!",
+      "back": "Oh, no! You left your fish in the front seat of my car!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Ella se olvidó el paraguas en el asiento trasero.",
+      "back": "She left her umbrella in the back seat.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "No te dejes tu café en el techo de mi coche, por favor.",
+      "back": "Don't leave your coffee on the roof of my car, please!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Tu hijo se olvida muchas cosas en el colegio?",
+      "back": "Does your kid leave a lot of things at school?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Su hijo se olvida cosas en el colegio continuamente.",
+      "back": "His child leaves things at school all the time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Nuestras hijas nunca se dejan cosas en el colegio.",
+      "back": "Our children never leave things at school.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Estoy tan olvidadizo estos días!",
+      "back": "I'm so forgetful these days!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Los viejos son muy olvidadizos a menudo.",
+      "back": "Old people are often very forgetful.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Él es tan olvidadizo! Espero que no pierda su cita.",
+      "back": "He's so forgetful! I hope he won't miss his appointment.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Tengo el pasaporte, la cartera, las llaves... ¿Se me olvida algo?",
+      "back": "I have my passport, my wallet, my keys... Am I forgetting anything?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Voy a invitar a Sarah, Rob, Matt, James, Ellie y a su novio a la fiesta. ¿Me olvido a alguien?",
+      "back": "I'm inviting Sarah, Rob, Matt, James, Ellie and her boyfriend to the party. Am I forgetting anyone?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Esta receta es muy sencilla. Sólo necesitas huevos, harina y leche. ¿O se me olvida algo?",
+      "back": "This recipe's really simple. You only need eggs, flour and milk. Or am I forgetting something?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Tengo el pasaporte, la cartera, las llaves. Tengo la sensación de que se me olvida algo.",
+      "back": "I have my passport, my wallet, my keys... I have a feeling I'm forgetting something.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Voy a invitar a Sarah, Rob, Matt, James, Ellie y a su novio a la fiesta. Tengo la sensación de que me olvido de alguien.",
+      "back": "I'm inviting Sarah, Rob, Matt, James, Ellie and her boyfriend to the party. I have a feeling I'm forgetting someone.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Esta receta es muy sencilla. Sólo necesitas huevos, harina y leche... Tengo la impresión de que se me olvida algo.",
+      "back": "This recipe's really simple. You only need eggs, flour and milk... I have a feeling I'm forgetting something.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Soy muy malo para recordar los nombres.",
+      "back": "I'm very bad at remembering names.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Puede escribirlo, por favor? Soy muy malo para recordar las direcciones.",
+      "back": "Can you write that down for me, please? I'm really bad at remembering directions.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Sé que se le olvidará nuestro aniversario otra vez. Es muy malo para recordar las fechas importantes.",
+      "back": "I know he'll forget our anniversary again. He's very bad at remembering important dates.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Te conozco! Nunca olvido una cara.",
+      "back": "I know you! I never forget a face.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Seguro que ella todavía se acordará de ti; nunca se le olvida una cara.",
+      "back": "I'm sure she'll still remember you; she never forgets a face.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Soy muy malo para recordar los nombres, pero nunca olvido una cara.",
+      "back": "I'm really bad at remembering names, but I always remember a face.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "No me acuerdo si a él le gusta el jazz, así que hablaré con él antes de comprar las entradas.",
+      "back": "I can't remember whether or not he likes jazz, so I'll speak to him before buying the tickets.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Ella no se acuerda de si te gusta o no el marisco.",
+      "back": "She can't remember whether or not you like seafood.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "No me acuerdo de si te gustan los garbanzos o no.",
+      "back": "I can't remember whether you like chickpeas or not.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "No me acuerdo de si ella te conoce o no.",
+      "back": "I can't remember whether she knows you or not.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "No me acuerdo de si ella conoce a tu hija o no.",
+      "back": "I can't remember whether or not she knows your daughter.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Él no se acuerda de si ella sabe usar el sistema o no.",
+      "back": "He can't remember whether or not she knows how to use the program.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "No me acuerdo de si pones azúcar o sacarina en tu té.",
+      "back": "I can't remember whether you take sugar or sweetener in your tea.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Ella no se acuerda de si pongo leche desnatada o semidesnatada en mi café.",
+      "back": "She can't remember whether I take skimmed or semi-skimmed milk in my coffee.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "John no se acuerda de si coges el autobús o el Metro para ir al trabajo.",
+      "back": "John can't remember whether you take the bus or the metro to work.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "No sé si él prefiere la playa o las montañas. Es que no me acuerdo.",
+      "back": "I don't know whether he prefers the beach or the mountains. I just can't remember.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "El agente no se acuerda de si prefieres apartamentos u hoteles.",
+      "back": "The agent can't remember whether you prefer apartments or hotels.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "La camarera no se acuerda de si prefieres vino tinto o vino blanco.",
+      "back": "The waitress can't remember whether you prefer red wine or white wine.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "No recuerdo si él quiere la carne o el pescado.",
+      "back": "I can't remember whether he wants meat or fish.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "No recuerdo si el cliente quiere una bolsa de papel o de plástico.",
+      "back": "I can't remember whether the customer wants a paper or a plastic bag.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "No recuerdo si él quiere venir a la obra de teatro con nosotros o no.",
+      "back": "I can't remember whether or not he wants to come to the play with us.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Asegúrate de recordar mi cumpleaños!",
+      "back": "Be sure to remember my birthday!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Asegúrate de acordarte de los huevos!",
+      "back": "Be sure to remember the eggs!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Asegúrate de acordarte de ir al banco!",
+      "back": "Be sure to remember to go to the bank!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Asegúrate de acordarte de pasarlo bien.",
+      "back": "Make sure you remember to have a good time.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Asegúrate de acordarte de apagar el fuego de la cocina cuando salgas de casa.",
+      "back": "Make sure you remember to turn the stove off when you leave the house.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Asegúrate de acordarte de ir a por lo de la tintorería.",
+      "back": "Make sure you remember the dry cleaning!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Asegúrate de que yo me acuerde de mandarte la dirección.",
+      "back": "Make sure I remember to send you the address.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Asegúrate de que yo me acuerde de pedir un recibo.",
+      "back": "Make sure I remember to ask for a receipt.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Asegúrate de que yo me acuerde de lo que te debo de dinero.",
+      "back": "Make sure I remember what I owe you.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Asegúrate de que él se acuerde de quién eres.",
+      "back": "Make sure he remembers who you are.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Asegúrate de que ella se acuerde de traer su uniforme.",
+      "back": "Make sure she remembers to bring her uniform.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Asegúrate de que él se acuerde de pasar por tu casa.",
+      "back": "Make sure he remembers to go by your house.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Asegúrate de que no se olviden de hacer una donación.",
+      "back": "Make sure they don't forget to make a donation.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Asegúrate de no olvidarte de tu volante de permiso.",
+      "back": "Make sure you don't forget your permission slip.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¡Asegúrate de que él no se olvide de la fecha de hoy!",
+      "back": "Make sure he doesn't forget today's date!",
+      "sourcePage": 19
+    }
+  ]
+}

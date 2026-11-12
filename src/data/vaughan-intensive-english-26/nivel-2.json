@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-26",
+  "bookTitle": "Libro 26",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Paul, ¿te acordaste de poner el tono de llamada en el nivel 1?",
+      "back": "Paul, did you remember to set the volume of your ringtone to 1?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Sí, me acordé de poner el tono de llamada en el nivel 1.",
+      "back": "Yes, I remembered to set the volume of my ringtone to 1.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Perdón, no me acordé de poner el tono de llamada en el nivel 1.",
+      "back": "Sorry, I didn't remember to set the volume of my ringtone to 1.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Paul, ¿te acordaste de limpiar los zapatos?",
+      "back": "Paul, did you remember to polish your shoes?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Recuerdo haber sacado el cepillo y el betún del armario, pero no recuerdo haber limpiado los zapatos.",
+      "back": "I remember taking the shoe brush and polish out of the cupboard, but I don't remember polishing my shoes.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Voy a por ellos. ¡Sí! Me acordé de limpiarlos.",
+      "back": "I'll go and get them. Yes! I remembered to polish them.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Te acordaste de aplazar la reunión sobre el control de la ira?",
+      "back": "Did you remember to put the meeting on anger management back?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Me acuerdo de haber hablado con Lisa de la reunión, pero no me acuerdo de haberla aplazado. Voy a preguntarle.",
+      "back": "I remember talking to Lisa about the meeting, but I don't remember putting it back. I'll ask her.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Lo siento, no me acordé de aplazar la reunión sobre el control de la ira y, por favor, ¡deja de gritarme!",
+      "back": "I'm sorry; I didn't remember to put the meeting on anger management back, and, please, stop shouting at me!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Paul, ¿te acordaste de llenar el depósito del coche?",
+      "back": "Paul, did you remember to fill up the car's tank?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Lisa, ¿sabes si Paul se acordó de llenar el depósito del coche?",
+      "back": "Lisa, do you know if Paul remembered to fill up the car's tank?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "No lo sé, pero me acuerdo de que Paul me preguntó si el coche usaba diésel o gasolina.",
+      "back": "I don't know, but I remember Paul asking me if the car ran on diesel or on petrol.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Ahora que lo pienso, no me acuerdo de haberle dado a Paul una contestación y no recuerdo que él me preguntara de nuevo.",
+      "back": "Now that I think about it, I don't remember giving Paul an answer and I don't remember him asking me again.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Te acordarás de decirme que hable con Recursos Humanos acerca de ti y de Paul?",
+      "back": "Will you remember to tell me to speak to HR about you and Paul?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "¡Claro! Me acordaré de decírtelo... o no.",
+      "back": "Sure! I'll remember to tell you... or not.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "No olvides adelantar los relojes para el horario de verano, o te despertarás una hora antes.",
+      "back": "Don't forget to put the clocks forward for daylight saving time, or else you'll wake up an hour early.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Por favor, dile a Lisa que no se olvide de poner el despertador a las siete y media de la mañana, o llegará tarde a la entrevista.",
+      "back": "Please, tell Lisa not to forget to set her alarm clock for half past seven in the morning, or else she'll turn up late for the interview.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Le dijeron al bombero que no se olvidara de entrar corriendo a la casa para comprobar que no había nadie dentro.",
+      "back": "They told the fireman not to forget to run into the house to check that there was nobody else inside.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "A Tim se le olvidó adelantar los relojes para el horario de verano y se despertó una hora antes.",
+      "back": "Tim forgot to put the clocks forward for daylight saving time and woke up an hour early.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "A Lisa se le olvidó poner el despertador a las siete y media de la mañana y se presentó tarde a la entrevista.",
+      "back": "Lisa forgot to set her alarm clock for half past seven in the morning and turned up late for the interview.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Al bombero se le olvidó entrar corriendo a la casa para comprobar que no había nadie dentro, y fue despedido.",
+      "back": "The fireman forgot to run into the house to check that there was nobody else inside, and was dismissed.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Nunca olvidaré cuando vi el Taj Mahal por primera vez.",
+      "back": "I'll never forget seeing the Taj Mahal for the first time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Nunca olvidaré cuando el día de mi boda bailé el vals con mi padre.",
+      "back": "I'll never forget dancing the waltz with my father on my wedding day.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Nunca olvidaré cuando me tropecé al subir al escenario.",
+      "back": "I'll never forget tripping over when I was getting up on the stage.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Nunca olvidaré cuando él nos intentaba timar al llegar al Taj Mahal.",
+      "back": "I will never forget him trying to rip us off when we got to the Taj Mahal.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Nunca olvidaré cuando mi padre me sonreía al bailar el vals en mi boda.",
+      "back": "I will never forget my father smiling at me when we were waltzing on my wedding day.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Nunca olvidaré cuando todo el mundo se reía de mí al tropezarme.",
+      "back": "I will never forget everybody laughing at me when I tripped over.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "¡Olvídate de pintarte las uñas! ¡Tenemos prisa!",
+      "back": "Forget about doing your nails! We're in a hurry!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "¡Olvídate de maquillarte!",
+      "back": "Forget about putting your makeup on!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "¡Olvídate de depilarte las piernas! De hecho, ¡olvídate de salir esta noche!",
+      "back": "Forget about doing your legs! In fact, forget about going out tonight!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Matt le recordará a Shelley lo de la conferencia de Nicola sobre el control de la ira.",
+      "back": "Matt will remind Shelley about Nicola's lecture on anger management.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Shelley le recordará a Nicola lo de la fiesta de despedida de Matt.",
+      "back": "Shelley will remind Nicola about Matt's farewell party.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "Nicola le recordará a Matt lo del baby shower de Shelley.",
+      "back": "Nicola will remind Matt about Shelley's baby shower.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Si Matt no se acuerda de hablar con Shelley sobre la conferencia de Nicola sobre el control de la ira, por favor recuérdale a Paul que hable con ella.",
+      "back": "If Matt doesn't remember to talk to Shelley about Nicola's lecture on anger management, please remind Paul to talk to her.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Si Shelley no se acuerda de hablar con Nicola sobre la fiesta de despedida de Matt, por favor recuérdale a Louise que hable con ella.",
+      "back": "If Shelley doesn't remember to talk to Nicola about Matt's farewell party, please remind Louise to talk to her.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Si Nicola no se acuerda de hablar con Matt sobre el baby shower de Shelley, por favor recuérdale a Steve que hable con él.",
+      "back": "If Nicola doesn't remember to talk to Matt about Shelley's baby shower, please remind Steve to talk to him.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Matt se acordó de recordarle a Shelley que asistiera a la conferencia de Nicola sobre el control de la ira.",
+      "back": "Matt remembered to remind Shelley to attend Nicola's lecture on anger management.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Shelley se acordó de recordarle a Nicola que comprara serpentinas para la fiesta de despedida de Matt.",
+      "back": "Shelley remembered to remind Nicola to buy the streamers for Matt's farewell party.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Nicola se acordó de recordarle a Matt que buscara juegos en internet para el baby shower de Shelley.",
+      "back": "Nicola remembered to remind Matt to look for games on the internet for Shelley's baby shower.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Shelley le recuerda a Nicola a su profesora del control de la ira.",
+      "back": "Shelley reminds Nicola of her anger management lecturer.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Nicola le recuerda a Shelley cuando ella tenía veinte años.",
+      "back": "Nicola reminds Shelley of herself when she was twenty.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Matt le recuerda a Nicola a su colega de IT.",
+      "back": "Matt reminds Nicola of her IT colleague.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Para acordarse de lo que tiene que hacer, ella pone recordatorios en su teléfono.",
+      "back": "In order to remember what she has to do she sets reminders on her phone.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Por favor, recuérdame que ponga un recordatorio en el teléfono para que no me olvide de tomarme el antibiótico.",
+      "back": "Please remind me to set a reminder on my phone so that I don't forget to take my antibiotics.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Él se olvidó de poner un recordatorio y no se acordó de grabar el documental.",
+      "back": "He forgot to set a reminder and didn't remember to record the documentary.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "No me acuerdo de haber tenido esa conversación con Jeremy.",
+      "back": "I don't recall having that conversation with Jeremy.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "No recuerdo haber visto una luna llena desde hace mucho tiempo.",
+      "back": "I can't recall seeing a full moon for a long time.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Cuando llegué a la sala de reuniones, no me acordaba del nombre del director.",
+      "back": "When I got to the meeting room, I couldn't recall the manager's name!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Te acuerdas de cuando James trabajaba con nosotros? ¡Qué buenos tiempos eran aquellos!",
+      "back": "Do you remember when James worked with us? Those were the good old days!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Echo de menos los buenos tiempos en los que no teníamos que preocuparnos por las facturas y la hipoteca.",
+      "back": "I miss the good old days when we didn't have to worry about bills and the mortgage.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "No nos dimos cuenta de ello en aquella época, pero aquellos días eran muy buenos.",
+      "back": "We didn't realize it at the time, but those were the good old days.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "En mi época, todos nos poníamos a trabajar a los 16 años.",
+      "back": "In my day, we all started to work at the age of 16.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Los jóvenes de hoy en día tienen mucha más suerte de la que teníamos en mi época.",
+      "back": "Youngsters these days have it so much better than we did in my time.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Nunca tuvimos teléfonos móviles en mi época, ¡y nos apañábamos sin ningún problema!",
+      "back": "We never had mobile phones in my day, and we got by with no problems!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Las cosas eran muy distintas en aquella época, cuando empezó la Revolución Industrial.",
+      "back": "Things were very different back then when the Industrial Revolution started.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "No puedo imaginar cómo era la vida en aquella época, cuando el teléfono no se había inventado.",
+      "back": "I can't imagine what life was like back then when the telephone hadn't been invented.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Por aquel entonces, cuando estaba en el colegio, teníamos que hacer las cuentas sin calculadora.",
+      "back": "Back then, when I was at school, we had to work out our sums without calculators.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Te acuerdas del tiempo en el que Clive era nuestro jefe?",
+      "back": "Do you remember the time when Clive was our boss?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "No sé si te acuerdas de aquel tiempo cuando Sarah salía con Mark.",
+      "back": "I don't know if you remember the time when Sarah went out with Mark.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Espero que te acuerdes de la época en que pasábamos todos los veranos en el lago.",
+      "back": "I hope you remember the time we spent every summer at the lake.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Si recuerdo bien, no queda más pan integral.",
+      "back": "If I remember well, there isn't any brown bread left.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Si me acuerdo bien, creo que tienes que coger la próxima calle a la izquierda para llegar al estadio.",
+      "back": "If I remember well, I think you have to take the next road on the left to get to the stadium.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Si recuerdo bien, Tracy salía con Eugenio el año pasado.",
+      "back": "If I remember well, Tracy went out with Eugenio last year.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Ella me dijo que si se acordaba bien, él no iba al mismo colegio que ella.",
+      "back": "She said that if she remembered correctly, he didn't go to the same school as her.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "La capital de Turquía es Ankara, si mal no recuerdo.",
+      "back": "The capital of Turkey is Ankara, if I remember correctly.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "El vuelo de ida y vuelta de Nueva York a Los Ángeles salía por unos 450 dólares el año pasado, si recuerdo bien.",
+      "back": "The return flight from New York to Los Angeles cost about $450 last year, if I remember correctly.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Las llaves están en tu bolsillo, si recuerdo bien.",
+      "back": "The keys are in your pocket, if I remember rightly.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Dije que la contraseña era 12463, si recuerdo bien.",
+      "back": "I said that the password was 12463, if I remember rightly.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Si recuerdo bien, el entrenador se fue porque otro equipo le ofreció más dinero para que entrenara a sus jugadores.",
+      "back": "If I remember rightly, the coach left because another team offered him more money to coach its players.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Que yo me acuerde, nunca he tenido que tomar medicamentos.",
+      "back": "As far as I can remember, I've never had to take medication.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Por lo que ella recuerda, él llevaba un abrigo marrón y un gorro.",
+      "back": "As far as she can remember, he was wearing a brown coat and a cap.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Que yo recuerde, la plancha no estaba enchufada cuando me fui de casa.",
+      "back": "As far as I can remember, the iron wasn't plugged in when I left the house.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Que ella recuerde, el sospechoso no llevaba ningún arma.",
+      "back": "As far as she can recall, the suspect wasn't carrying a weapon.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Que yo recuerde, los contratos ya se han mandado, pero llámales para comprobar si los han recibido.",
+      "back": "As far as I can recall, the contracts have been sent, but ring them to see if they've received them.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Que yo recuerde, la fecha tope era el día 3 de noviembre.",
+      "back": "As far as I recall, the deadline was the 3rd of November.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Tienes suerte de tener tan buena memoria; los exámenes deben ser muy fáciles para ti.",
+      "back": "You're lucky to have such a good memory; exams must be really easy for you.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Claro que no recuerdo quién es ella; ya sabes la mala memoria que tengo para las caras.",
+      "back": "Of course I don't remember who she is; you know I have a bad memory for people's faces.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Eso no es verdad, no tienes poca memoria; siempre te has acordado de mi cumpleaños hasta ahora.",
+      "back": "That's not true, you don't have a poor memory; you've always remembered my birthday until now.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "No tiene sentido pedirle a él que se acuerde; tiene la cabeza como un colador.",
+      "back": "There's no point asking him to remember; he has a memory like a sieve.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Ya, dices que tienes la cabeza como un colador, pero a mí siempre me ha parecido que tienes una memoria muy selectiva.",
+      "back": "Yes, you say you have a memory like a sieve, but it always seems a very selective memory to me!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "No me preguntes cómo se llama él; no tengo buena memoria para los nombres.",
+      "back": "Don't ask me what his name is; I've got a memory for names like a sieve.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Tienes buenos recuerdos de tu infancia?",
+      "back": "Do you have good memories of your childhood?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Tengo recuerdos tan felices de aquel primer verano que pasamos juntos...",
+      "back": "I have such happy memories of that first summer we spent together...",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Pensaba que me dijiste que tenías buenos recuerdos de la época en la que vivías en Escocia.",
+      "back": "I thought you told me that you had fond memories of the time you lived in Scotland.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Esta canción me trae recuerdos de mi época de universitaria en los años noventa.",
+      "back": "This song brings back memories of when I was a university student in the nineties.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "¿A que esta foto te trae recuerdos?",
+      "back": "I bet this photo brings back some memories, doesn't it?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Qué perfume llevas? Me trae muchos recuerdos de una ex novia mía.",
+      "back": "What perfume are you wearing? It really brings back memories of an old girlfriend of mine.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Por cierto, Pablo te manda muchos recuerdos.",
+      "back": "By the way, Pablo sends you his warmest regards.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Diste recuerdos a tu ex novia de mi parte?",
+      "back": "Did you give my regards to your ex-girlfriend?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¡Dale recuerdos a tus padres!",
+      "back": "Give my regards to your parents!",
+      "sourcePage": 47
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-26",
+  "bookTitle": "Libro 26",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Si él hubiera recordado haber visto un jabalí muerto en la carretera, me lo habría dicho.",
+      "back": "If he'd remembered seeing a dead wild boar in the road, he would've told me about it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Si hubiera recordado cerrar la puerta con llave, no nos habrían robado.",
+      "back": "If I'd remembered to lock the door, we wouldn't have been burgled.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Si se hubieran acordado de mí, habrían parado para recogerme.",
+      "back": "If they'd remembered me, they would've stopped to pick me up.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Si hubieras olvidado el cumpleaños de tu propio hijo, nunca te habría perdonado.",
+      "back": "If you'd forgotten your own son's birthday again, I'd never have forgiven you.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Si hubiéramos olvidado nuestras invitaciones, no nos habrían dejado entrar.",
+      "back": "If we'd forgotten our invitations, they wouldn't have let us in.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Si el ladrón no se hubiera olvidado de ponerse los guantes, nunca habríamos podido cogerle.",
+      "back": "If the thief hadn't forgotten to put on his gloves, we'd never have been able to catch him.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Si ella les hubiera recordado poner agua fresca en la pecera, los peces no se habrían muerto.",
+      "back": "If she'd reminded them to put fresh water into the fish tank, the fish wouldn't have died.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Si le hubiéramos recordado a él a su familia, estoy seguro de que no se habría presentado.",
+      "back": "If we'd reminded him of his family, I'm sure he wouldn't have turned up.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Si le hubieras recordado a todo el mundo lo del dinero para las entradas, no habríamos tenido este problema.",
+      "back": "If you'd reminded everyone about the money for the tickets, we wouldn't have had this problem.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Ella no se habría acordado si tú no se lo hubieras recordado.",
+      "back": "She wouldn't have remembered if you hadn't reminded her.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Ellos se habrían olvidado si no se lo hubiéramos recordado.",
+      "back": "They would've forgotten if we hadn't reminded them.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Te lo habría recordado si me hubiera acordado.",
+      "back": "I would've reminded you if I'd remembered.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Si te hubieras acordado de llamar al fontanero, habríamos podido ducharnos con agua caliente.",
+      "back": "Had you remembered to call the plumber, we would've been able to have a hot shower.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Si él se hubiera olvidado sus zapatos de claqué, no habría habido espectáculo.",
+      "back": "Had he forgotten his tap shoes, there wouldn't have been a show.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Si hubiéramos recordado a los candidatos que llegaran diez minutos antes, habríamos terminado hace horas.",
+      "back": "Had we reminded the candidates to arrive ten minutes early, we would've finished hours ago.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Cuando los políticos se jubilan, muchos escriben sus memorias.",
+      "back": "When politicians retire, many write their memoirs.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Has leído Memorias de una Geisha? De verdad creo que te encantaría.",
+      "back": "Have you read Memoirs of a Geisha? I really think you'd love it.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "He estado pensando en escribir mis memorias: Mi vida como profesor de inglés. ¿Crees que alguien lo compraría?",
+      "back": "I've been thinking about writing my memoirs: My life as an English teacher. Do you think anybody would buy it?!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "¡Quiero el memorándum a primera hora de la mañana!",
+      "back": "I want the memo first thing tomorrow morning!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "La abogada recién titulada tardó mucho en preparar el memorándum.",
+      "back": "It took a long time for the newly qualified lawyer to draft the memorandum.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Una de mis tareas es escribir y hacer circular el memorándum en la oficina después de cada reunión.",
+      "back": "One of my duties is to write a memo to circulate around the office after each meeting.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Casi todas las plazas en Francia tienen un monumento conmemorativo a la guerra.",
+      "back": "Almost every town square in France has a war memorial.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Cuando vaya a Nueva York quiero visitar el monumento conmemorativo del 11 de septiembre.",
+      "back": "When I go to New York I want to visit the 9/11 memorial.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "En Irlanda hay varios monumentos conmemorativos del Gran Hambre.",
+      "back": "In Ireland there are several Great Famine memorials.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "En Estados Unidos se celebra el Día Conmemorativo el último lunes de mayo.",
+      "back": "Memorial Day is celebrated on the last Monday of May in the United States.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Mucha gente asistió a la ceremonia conmemorativa.",
+      "back": "The memorial service was attended by a great deal of people.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Cuando ella murió pusieron una placa conmemorativa en su banco favorito del parque.",
+      "back": "When she died they put a memorial plaque on her favourite park bench.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Sé que no debería, pero me llevé la bata de la habitación del hotel como un recuerdo del fin de semana.",
+      "back": "I know I shouldn't have, but I took the dressing gown from the hotel room as a momento of the weekend.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "He guardado un montón de recuerdos de cuando mis hijos eran jóvenes: primeros zapatos, dientes de leche, dibujos...",
+      "back": "I've kept loads of momentos of when the children were young: first shoes, milk teeth, pictures...",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "He guardado las entradas del cine como recuerdo de la primera cita con mi novio.",
+      "back": "I've kept cinema tickets as a momento of my first date with my boyfriend.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Bueno, si no se te hubiera pasado lo de la reunión, habrías podido presentar tu idea.",
+      "back": "Well, if the meeting hadn't slipped your mind, you would have been able to put your idea forward.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Cuanto más me canso, más se me pasan las cosas.",
+      "back": "The more tired I get, the more things slip my mind.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¡No me digas que se te pasó! Tienes una secretaria que te recuerda cuándo son tus citas.",
+      "back": "Don't tell me it slipped your mind! You have a secretary to remind you when your appointments are.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "¡Tienes memoria de pez! Te dije mi nombre hace tres minutos y ya se te ha olvidado.",
+      "back": "You have the memory of a goldfish. I told you my name three minutes ago and you've already forgotten it.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Si yo no tuviera memoria de pez, no sería un desastre total.",
+      "back": "If I didn't have the memory of a goldfish, I wouldn't be a total disaster!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "¡He olvidado los nombres de mis alumnos! ¡Tengo una memoria de pez!",
+      "back": "I've forgotten my students' names! I have the memory of a goldfish!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Creo que se te han olvidado las formas, ¡jovenzuelo! Di por favor cuando quieras algo.",
+      "back": "I think you've forgotten your manners, young man! Say please when you want something.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Desde que ha cumplido 15 años ¡se le han olvidado las formas! ¡Se ha vuelto una maleducada!",
+      "back": "Since she's turned 15, she's forgotten all her manners! She's so rude nowadays!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Creo que se te han olvidado las formas. ¡Yo soy una señorita! ¡Se supone que me tienes que abrir la puerta!",
+      "back": "I think you've forgotten your manners. I'm a lady! You're supposed to open the door for me!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Se ha colocado una placa delante del monumento que conmemora la guerra que pone Para que no olvidemos.",
+      "back": "A plaque was placed in front of the war memorial, which reads Lest we forget.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Para que no olvidemos los sacrificios hechos por nuestros antepasados durante la guerra...",
+      "back": "Lest we forget the sacrifices made by our forefathers during the war...",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Para que no olvidemos a los que dieron sus vidas por su patria.",
+      "back": "Lest we forget all those who gave their lives for their country.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Cuánto de la cultura pop de hoy acabará cayendo en el olvido?",
+      "back": "How much of today's pop culture will end up falling into oblivion?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Muchos nombres de los contemporáneos de Beethoven han caído en el olvido.",
+      "back": "Many of the names of Beethoven's contemporaries have fallen into oblivion.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Nunca sabremos cuántas obras maestras han caído injustamente en el olvido.",
+      "back": "We'll never know how many masterpieces have unjustly fallen into oblivion.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Después del accidente, ella no se acordaba para nada de lo que había pasado.",
+      "back": "After the accident, she had no recollection at all of what had happened.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Fue un suceso espantoso, pero afortunadamente ella no se acuerda para nada de él.",
+      "back": "It was a horrible event, but thankfully, she has no recollection at all of it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Cuando el detective habló con la testigo, dijo que ella no se acordaba para nada del suceso.",
+      "back": "When the detective spoke to the witness, he said that she had no recollection at all of the event.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "No vas a ir a Praga con tus amigos este fin de semana. ¡Quítate esa idea de la cabeza!",
+      "back": "You are not going to go to Prague with your friends this weekend! Put that idea out of your head!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Le pregunté a ella si podíamos comprarnos un perro, pero me dijo que me quitara esa idea de la cabeza.",
+      "back": "I asked her if we could get a dog and she told me to put that idea right out of my head.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Pensé en quedarme con el dinero, pero después me quité la idea de la cabeza.",
+      "back": "I thought about keeping the money, but then I put the thought right out of my head.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "¡Lo siento! Pensaba que tenía la respuesta, pero me he quedado en blanco.",
+      "back": "Sorry! I thought I had the answer, but I've drawn a blank!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Ella intentó buscarle una solución al problema, pero se quedó en blanco.",
+      "back": "She tried to find a solution to the problem, but she drew a blank.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "La policía peinó la escena del crimen en busca de pistas, pero no obtuvo ningún resultado.",
+      "back": "The police combed the scene of the crime for clues, but drew a blank.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Pensé que lo iba a hacer muy bien en el examen, pero se me quedó la mente en blanco cuando lo estaba haciendo.",
+      "back": "I thought I was going to do the exam really well, but my mind went blank when I was taking it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Cuando la película iba por la mitad, se fue la imagen de la pantalla y nos devolvieron el dinero.",
+      "back": "When the film was half way through, the screen went blank and we all got our money back.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Él se había preparado su discurso de manera minuciosa, pero en cuanto empezó a hablar se le quedó la mente en blanco.",
+      "back": "He had prepared his speech really thoroughly, but as soon as he started talking his mind went blank.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Sally no se acuerda de haberle visto antes.",
+      "back": "Sally's unable to recall having seen him before.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "No se acuerda de haber estado allí aunque insistan en que así fue.",
+      "back": "She's unable to recall having ever been there even though they insist she has.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "No se acuerda de aquella vez cuando tuvo el sarampión.",
+      "back": "She's unable to recall that time when she had the measles.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Por favor, perdóname por haber omitido tu nombre de la lista.",
+      "back": "Please forgive me for omitting your name from the list.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Omitimos algunas pruebas de seguridad y ahora estamos pagando por eso.",
+      "back": "We omitted some safety checks and now we are paying for it.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Si omites el nombre del anfitrión de la lista, el gorila no le dejará entrar.",
+      "back": "If you omit the host's name from the list, the bouncer will not let him in.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Por favor, olvídate del número de teléfono que te di. Tuve que cambiarlo.",
+      "back": "Please disregard the phone number I gave you. I had to change it.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Es mejor olvidarte de lo que ha pasado y pensar en el presente.",
+      "back": "It's better to disregard what's happened and think about the present.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "No puedo creer que él haya hecho caso omiso de mi consejo.",
+      "back": "I can't believe that he's completely disregarded my advice.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Por qué no te quitas de la cabeza los pensamientos negativos y te tiras a la piscina?",
+      "back": "Why don't you banish your negative thoughts and take the plunge!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Tienes que quitarte el pensamiento de la cabeza, ¡o te volverás loco!",
+      "back": "You have to banish the thought from your mind, or you'll go crazy!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Deberías deshacerte de los pensamientos de fracaso de tu mente.",
+      "back": "You should banish those thoughts of failure from your mind.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Pasé por alto el problema y ahora se ha empeorado.",
+      "back": "I overlooked the problem and now it has gotten worse.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "No deberíamos pasar por alto los posibles síntomas de una enfermedad.",
+      "back": "We shouldn't overlook possible symptoms of an illness.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Si no hubiéramos pasado por alto las últimas normas no nos habrían multado.",
+      "back": "If we hadn't overlooked the updated rules, they wouldn't have fined us.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Ojalá no hubiera omitido la pregunta cuatro en el examen. ¡Podría por lo menos haber adivinado la respuesta!",
+      "back": "I wish I hadn't skipped question four on the exam. I could have at least guessed the answer!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Por qué demonios has faltado a tantas clases de inglés? ¿Sabes cuánto nos cuestan a la compañía?",
+      "back": "Why on earth have you skipped so many English classes? Do you know how much they cost the company?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Leí el primer volumen de El Señor de los Anillos y el tercero, pero omití el segundo.",
+      "back": "I read the first volume of The Lord of the Rings and the 3rd one, but I skipped the 2nd one.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Por lo que me acuerdo, ella era sumamente alta.",
+      "back": "From what I recollect, she was extremely tall.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Puede usted honestamente decir que se acuerda de la noche en cuestión?",
+      "back": "Can you honestly say you recollect the night in question?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Ella no podía acordarse de si le había conocido a él o no.",
+      "back": "She couldn't recollect whether she had met him or not.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Por muchas veces que la oiga, Moon River siempre me hace pensar en ti.",
+      "back": "However much I hear it, Moon River always brings you to mind.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Admirar montañas nevadas hace pensar en chocolate a la taza y ponche de vino especiado.",
+      "back": "Looking at snow-covered mountains brings hot chocolate and mulled wine to mind.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "La palabra espía me hace pensar en hombres vestidos con abrigo largo y gafas de sol negras y pequeñas.",
+      "back": "The word spy brings to mind men in long jackets and small black shades.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "A John, caminar a través de campos de heno recién segados le trae recuerdos de los veranos de su niñez en el campo.",
+      "back": "For John, walking through freshly cut hay fields evokes memories of his childhood summers in the country.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Oír la voz de mi madre fallecida inesperadamente en un vídeo casero me trajo un recuerdo tan fuerte que me salieron lágrimas de los ojos.",
+      "back": "Unexpectedly hearing my deceased mother's voice on an old home-movie evoked such a strong memory of her that I found myself welling up.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Para mucha gente con más de treinta años, el sabor de los fideos ramen instantáneos les trae recuerdos de apartamentos pequeños y estrechos y presupuestos miserables.",
+      "back": "For many people over thirty, the taste of instant ramen noodles evokes memories of small, cramped apartments and miserly budgets.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "¡No vayas por ahí invocando peleas pasadas!",
+      "back": "Don't go around digging up old fights!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Si te dedicas a recordarle a la gente que te debe favores, nunca tendrás amigos verdaderos.",
+      "back": "If you spend your time digging up old favors, you'll never have real friends.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Las ráfagas de viento en una casa vacía invocan recuerdos inquietantes.",
+      "back": "Gusts of wind in an empty house dig up haunting memories.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Nos encanta reunirnos con amigos del colegio y rememorar los viejos tiempos.",
+      "back": "We love to get together with old school friends and reminisce about the good old days.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "¡Me encontré con ella en la calle y nos pasamos media hora recordando a nuestro profesor de ciencias! ¡Estaba como un queso!",
+      "back": "I bumped into her on the street and we spent half an hour reminiscing about our science teacher! He was so dreamy!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "El mundo sería un lugar mejor si todos simplemente dejaran de recordar cómo eran las cosas antes.",
+      "back": "The world would be a better place if everybody would just stop reminiscing about the way things used to be.",
+      "sourcePage": 75
+    }
+  ]
+}
