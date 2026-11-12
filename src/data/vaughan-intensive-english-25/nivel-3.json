@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-25",
+  "bookTitle": "Libro 25",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Sé que si hubieras seguido insistiendo, él habría terminado el informe antes de la reunión.",
+      "back": "I know that if you'd kept on at him, he would have finished the report before the meeting.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Cuanto más insistas, más trabajará él.",
+      "back": "The more you keep on at him, the more he'll work.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Por mucho que insistas con Sandra, no seguirá tus consejos.",
+      "back": "No matter how much you keep on at Sandra, she won't follow your advice.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Él lleva todo el día dándome la paliza porque no termino con Alex. ¿Por qué no me deja en paz?",
+      "back": "He's been giving me grief all day because I won't finish with Alex. Why can't he get off my back?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Sé que no debería haberme ido sin despedirme, pero por favor, no me des la paliza.",
+      "back": "I know I shouldn't have left without saying goodbye, but please don't give me so much grief.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Mi amigo Kevin me está dando mucho la paliza porque no volví a llamar a Samantha.",
+      "back": "My friend Kevin is giving me so much grief because I didn't ring Samantha back.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Ella lleva meses encima mío para que aprenda a conducir.",
+      "back": "She's been on my back for months about learning to drive.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Yo debería haber sido un poco más pesado con él porque al final suspendió su examen.",
+      "back": "I should have been on his back more because in the end he failed his exam.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Si hubieras sido más pesado con él, habría adornado antes el árbol de Navidad.",
+      "back": "If you'd been on his back, he would have decorated the tree before Christmas.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Te vas a enterar si la casa no está ordenada pronto.",
+      "back": "I'm going to give you a good hiding if the house isn't tidy soon!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Si Max descubriera la verdad, ¡te daría una buena paliza!",
+      "back": "If Max found out the truth, he would give you such a big hiding!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Mi mujer me dio una paliza cuando llegué borracho a casa anoche.",
+      "back": "My wife gave me a hiding when I got home drunk last night.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Por qué quieres saber dónde estoy en todo momento? ¡Déjame en paz!",
+      "back": "Why do you want to know where I am at every moment? Get off my case!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "¡Llevas horas interrogándome! ¿Quieres dejarme en paz?",
+      "back": "You've been on my case for hours! Will you get off my case?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Ella no deja de hacerte preguntas porque no se fía de ti.",
+      "back": "She won't get off your case because she doesn't trust you.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Le dije a él que como siguiera gritándome, haría las maletas y me marcharía.",
+      "back": "I told him that if he kept on shouting at me, I would pack my bags and leave.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Como siga discutiendo él, me hartaré y me marcharé de la sala de reuniones.",
+      "back": "If he keeps on arguing, I will get tired and leave the meeting room.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Él sabe que como siga quejándose, la gente se aburrirá de escucharle.",
+      "back": "He knows that if he keeps on moaning, people will get bored of listening to him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "El médico te dijo que como no dejaras de fumar perjudicarías gravemente tu salud.",
+      "back": "The doctor told you that if you kept on smoking, you'd seriously damage your health!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "Como Juan siga bebiendo, perderá a su novia y a todos sus amigos.",
+      "back": "If John keeps on drinking, he'll lose his girlfriend and all his friends.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Como mantengas esa mala postura al sentarte, a largo plazo te convertirás en un jorobado.",
+      "back": "If you keep on sitting with such bad posture, eventually, you'll turn into a hunchback.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Como este coche siga calándose, ¡voy a gritar!",
+      "back": "If this car keeps on stalling, I'm going to scream!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Si el ordenador hubiera seguido apagándose, lo habría tirado por la ventana.",
+      "back": "If the computer had kept on turning off, I would have chucked it out of the window.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Como el motor siga haciendo ese ruido, voy a comprar uno nuevo.",
+      "back": "If the engine keeps on making that noise, I'm going to buy a new one.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Como sigas escapando, nunca llegarás a ser un hombre valiente.",
+      "back": "If you keep on running away, you will never become a brave man!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Como te sigas escondiendo, ¿cómo esperas poder superar tus miedos?",
+      "back": "If you keep on hiding, how do you expect to conquer your demons?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Te prometo que como sigas escondiendo la verdad, a largo plazo saldrá a la luz.",
+      "back": "I promise that if you keep on hiding the truth, it'll come out eventually.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Como sigas siendo un cobarde, la gente va a hablar mal de ti.",
+      "back": "If you keep on being a coward, people are going to talk negatively about you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Él le advirtió a ella que como siguiera siendo una cobarde, le perdería para siempre.",
+      "back": "He warned her that if she kept on being a coward, she'd lose him forever.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Como sigas siendo un cobarde, no esperes que la gente se enamore de ti.",
+      "back": "If you keep on being a coward, don't expect people to fall in love with you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Guardo con mucho cuidado el autógrafo original de Napoleón que me regaló un admirador secreto el año pasado.",
+      "back": "I treasure the original autograph of Napoleon that I was given by a secret admirer last year.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Qué libro guardas con más cariño de toda tu extensa colección de primeras ediciones?",
+      "back": "Which book do you treasure most from your extensive collection of first editions?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Hay una fotografía de mí cuando era joven con mi abuelo, de unas vacaciones en Brighton, que guardo con más cariño que cualquier otra.",
+      "back": "There's one photograph of me when I was young with my grandfather, on holiday in Brighton, that I treasure over all others.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "El regalo que guardo con más cariño de todos es el dibujo de un caballito de madera que mi sobrina dibujó para mí las Navidades pasadas.",
+      "back": "The present I cherish above all others is the picture of a rocking horse that my five-year-old niece drew me last Christmas.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Guardo con mucho cariño los recuerdos que tengo del primer amor de mi niñez.",
+      "back": "I cherish the memories I have of my childhood sweetheart.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Guardo con mucho cariño el tiempo que pasamos recogiendo moras y retozando en las praderas.",
+      "back": "I cherish the time we spent blackberry picking and frolicking in the meadows.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Cuál de tus pertenencias guardas con más cariño?",
+      "back": "Which of your belongings do you hold most dearly?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Guardo con mucho cariño la colección de teteras antiguas de mi recién fallecida tía-abuela.",
+      "back": "I hold my late great aunt's collection of antique teapots most dearly.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "¿No guardas con cariño la relación por correspondencia con tu amigo canadiense?",
+      "back": "Don't you hold your friendship with your Canadian pen-pal dearly?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Muchas celebridades guardan con recelo su privacidad. Otras aparecen en la revista Hola.",
+      "back": "Many celebrities guard their privacy with a rod of iron. Others appear in Hello magazine.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Todo el mundo tiene el derecho constitucional a guardar silencio en un juicio.",
+      "back": "Everyone has the constitutional right to guard their silence in a court of law.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Protege esta carta con tu vida. Contiene información que podría hacer caer al gobierno.",
+      "back": "Guard this letter with your life. It contains information which could bring down the government.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Julián valora por encima de cualquier otra cosa la copia original y firmada del álbum The Wall que él posee.",
+      "back": "Julian prizes his original signed copy of the album The Wall above everything else he owns.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Qué recuerdo de tu niñez valoras por encima de los otros?",
+      "back": "Which childhood memory do you prize above all others?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Los premios que él valora por encima del resto son los que ganó en natación cuando era adolescente.",
+      "back": "The prizes he prizes most are the ones he won at swimming when he was a teenager.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Es importante mantenerse a la cabeza en lo que concierne a los negocios.",
+      "back": "It's important to keep ahead of the game as far as business is concerned.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Nunca seremos capaces de mantenernos a la cabeza si echamos a otro empleado.",
+      "back": "We'll never be able to keep ahead if we get rid of another member of staff.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "¿Podrás mantenerte a la cabeza si cambian las fechas tope?",
+      "back": "Will you be able to keep ahead if they change the deadlines?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "La madre de Jake le castigó sin salir después de cenar por haber dicho una palabrota a su abuela.",
+      "back": "Jake's mother kept him in after dinner for saying a rude word to his grandmother.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Alguna vez te han castigado a quedarte más tarde después de clase por no hacer tus deberes?",
+      "back": "Have you ever been kept in after school for not doing your homework?",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Les castigaremos sin salir después de comer si siguen portándose mal.",
+      "back": "We'll keep them in after lunch if they keep on misbehaving.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Yo me llevaría bien con él si fuera tú; su padre es presidente de una multinacional.",
+      "back": "I would keep in with him if I were you; his father is the president of a multinational.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Es esencial que él mantenga una buena relación con la gente adecuada.",
+      "back": "It's essential that he keep in with the right crowd.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "¿Cómo puedes esperar que él mantenga una buena relación con la gente adecuada si nunca estás para vigilarle?",
+      "back": "How can you expect him to keep in with the right crowd when you're never there to supervise him?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Si eres constante con ello el tiempo suficiente, al final le cogerás el truco.",
+      "back": "If you keep at it for long enough, you'll eventually get the hang of it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Lo difícil no es empezar; lo difícil es ser constante.",
+      "back": "The difficult part is not starting; the difficult part is keeping at it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¡Voy a seguir con ello aunque acabe conmigo!",
+      "back": "I'm going to keep at it even if it kills me!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Te agradecería que pudieras mantenerlo en secreto por ahora.",
+      "back": "I'd be very grateful if you could keep it under wraps for the time being.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Es vital mantener todos tus datos empresariales bajo llave.",
+      "back": "It's vital to keep all your business data under lock and key.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Tendremos a todos los sospechosos bajo vigilancia hasta que encontremos más pruebas.",
+      "back": "We're keeping all the suspects under surveillance until we can find some more evidence.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Vigila a Layla. Ahora que está aprendiendo a andar puede alcanzar objetos peligrosos.",
+      "back": "Keep an eye on Layla; now that she's a toddler, she can reach dangerous objects.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "No hace falta que le vigiles a él. Sabe lo que está haciendo.",
+      "back": "There's no need for you to keep an eye on him. He knows what he's doing.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "¡Vigilad los cielos! ¡Vienen los extraterrestres!",
+      "back": "Keep an eye on the sky! The aliens are coming!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Debiste haber estado atento a ese coche. Ahora ya se ha ido el agente a casa.",
+      "back": "You should have kept an eye out for that car. Now the agent has gone home.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Estate atento a un hombre con un maletín marrón. Él te dirá lo que tienes que hacer.",
+      "back": "Keep your eye out for a tall man with a brown briefcase. He will tell you what you have to do.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Necesito estar atento al mismo abrigo que tiene Miranda.",
+      "back": "I need to keep an eye out for the same coat that Miranda has.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Si le mantienes alerta, su comportamiento cambiará.",
+      "back": "If you keep him on his toes, his behaviour will change.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Estos alumnos son muy astutos y se aburrirán fácilmente. ¡Manténles controlados!",
+      "back": "These students are very sharp and they get bored easily. Keep them on their toes!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "El entrenador no nos mantenía en tensión durante el entrenamiento y al final perdimos.",
+      "back": "The coach didn't keep us on our toes during training and we lost in the end.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Sé que te estás preocupando, ¡pero cálmate! No hay nada que puedas hacer en este momento.",
+      "back": "I know you're worrying, but keep your hair on! There's nothing you can do right now.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Estaba tan enfadada que tuve que decirle que se calmase.",
+      "back": "She was so angry that I had to tell her to keep her hair on.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "¡Cálmate! Cuanto más te estreses, ¡más nervioso me pondrás!",
+      "back": "Keep your hair on! The more stressed you get, the more nervous you'll make me!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Sé que ella te dejó, ¡pero anímate! Es hora de pasar página.",
+      "back": "I know that she left you, but keep your chin up! It's time to move on.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Le dije la semana pasada que se animara, pero creo que le gusta ser negativo.",
+      "back": "I told him last week to keep his chin up, but I think he likes being negative.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Si te animas, te prometo que desprenderás mejores vibraciones.",
+      "back": "If you keep your chin up, I promise you will give off better vibes.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Mantén el pico cerrado sobre tu reciente oferta de trabajo hasta que hables con tu jefe.",
+      "back": "Keep mum about your new job offer until you have a chance to talk to your boss.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Él debería mantener el pico cerrado sobre lo que vio si quiere salir con vida de Nueva Jersey.",
+      "back": "He should keep mum about what he saw if he wants to get out of New Jersey alive.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Más te vale mantener el pico cerrado si sabes lo que te conviene.",
+      "back": "You'd better keep mum if you know what's good for you.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Frank, por favor, mantén a Jane al tanto de la evolución de este proyecto.",
+      "back": "Frank, please keep Jane posted on how this project develops.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "¡Por todos los santos, mantenedme al tanto de los resultados del partido!",
+      "back": "For heaven's sake, keep me posted on the match scores!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "¡Te mantendré al tanto sobre si él me llama o no!",
+      "back": "I'll keep you posted about whether he calls me or not!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Mantened al director general informado de todos los cambios que hagáis.",
+      "back": "Keep the CEO abreast of all the changes you make.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Él me dijo que le mantuviéramos informado de cualquier decisión que tomáramos.",
+      "back": "He told me to keep him abreast of whatever decision we made.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Si no mantengo a mi tía informada del día a día de mi vida, no duerme bien por la noche.",
+      "back": "If I don't keep my aunt abreast of my day-to-day life, she doesn't sleep well at night.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Él intentó mantener mis miedos alejados contándome sus propias experiencias.",
+      "back": "He tried to keep my fears at bay by telling me about his own experiences.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Si les damos a nuestros acreedores un 10% de lo que les debemos, puede que eso les mantenga alejados.",
+      "back": "If we give the creditors 10% of what we owe them, maybe that will keep them at bay.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Si quieres mantener alejada a la competencia, siempre tienes que estar un paso por delante.",
+      "back": "If you want to keep the competition at bay, you always have to be one step ahead.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Lo más importante en una entrevista de trabajo es mantener la calma.",
+      "back": "The most important thing at a job interview is to keep your cool.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Estaba muy nervioso por hablar delante de toda aquella gente, pero al final mantuve la calma.",
+      "back": "I was very nervous to speak in front of all those people, but in the end I kept my cool.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "¡Ella mantuvo la calma cuando el camarero le trajo bacalao en vez de merluza aunque estuvo a punto de perder el control!",
+      "back": "She kept her cool when the waiter brought her cod instead of hake even though she was about to lose it!",
+      "sourcePage": 75
+    }
+  ]
+}

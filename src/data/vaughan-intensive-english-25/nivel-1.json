@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-25",
+  "bookTitle": "Libro 25",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Dónde guardas tu dinero?",
+      "back": "Where do you keep your money?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Tengo guardado mi dinero en mi cartera.",
+      "back": "I keep my money in my wallet.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Lo tengo guardado hasta que lo gasto.",
+      "back": "I keep it until I spend it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Guardo mis calcetines en el cajón de abajo.",
+      "back": "I keep my socks in the bottom drawer.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Dónde guardas tú los tuyos?",
+      "back": "Where do you keep yours?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Guardo los míos en el cajón de arriba.",
+      "back": "I keep mine in the top drawer.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Hace falta guardar la leche en el frigorífico?",
+      "back": "Do you need to keep milk in the fridge?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Sólo hace falta guardar la leche en el frigorífico después de abrirla.",
+      "back": "You only need to keep milk in the fridge after opening it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Siempre guardo la mía en el frigorífico, por si acaso.",
+      "back": "I always keep mine in the fridge, just in case.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Sabes dónde guardan Tom y Olivia su comida basura?",
+      "back": "Do you know where Tom and Olivia keep their junk food?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Creo que Tom guarda su comida basura en el cajón de arriba.",
+      "back": "I think Tom keeps his junk food in the top drawer.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Y Olivia la guarda en el cajón de abajo.",
+      "back": "And Olivia keeps it in the bottom drawer.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Mi abuela guarda sus fotos en un álbum.",
+      "back": "My grandma keeps her pics in an album.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿De verdad? Yo guardo las mías en mi ordenador.",
+      "back": "Really? I keep mine in my computer.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Dónde guardas las tuyas?",
+      "back": "Where do you keep yours?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Quédate con el recibo para comprobarlo luego.",
+      "back": "Keep the receipt to check it later.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Por qué no te quedas con el recibo por si acaso?",
+      "back": "Why don't you keep the receipt just in case?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Me quedaré con el recibo hasta que lo compruebe.",
+      "back": "I'll keep the receipt until I check it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Quédate con el cambio.",
+      "back": "You can keep the change.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Por favor, quédese con el cambio.",
+      "back": "Please keep the change.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Me puedo quedar con el cambio?",
+      "back": "Can I keep the change?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Te puedes quedar con mi libro; no me gusta, en cualquier caso.",
+      "back": "You can keep my book; I don't like it anyway.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Bueno, ¿me puedo quedar con tu chaqueta?",
+      "back": "Anyway, can I keep your jacket?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No me gusta, pero me lo quedaré de todos modos.",
+      "back": "I don't like it, but I'll keep it anyway.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Normalmente te quedas con los auriculares cuando vuelas?",
+      "back": "Do you usually keep your headphones when you fly?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Nunca me los quedo, pero me voy a quedar con éstos.",
+      "back": "I never keep them, but I'm keeping these.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Vamos a quedarnos con los auriculares!",
+      "back": "Let's keep the headphones!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Por qué no te la quedas? ¡Es gratis!",
+      "back": "Why don't you keep it? It's free!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Las toallas son gratis? ¡Vamos a quedárnoslas!",
+      "back": "Are the towels free? Let's keep them!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Vale, quédatelo, pero no es gratis...",
+      "back": "OK, keep it, but it's not free...",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Mi gato siempre se pone al lado del radiador para mantenerse caliente.",
+      "back": "My cat always lies by the radiator to keep warm.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Normalmente me siento al lado del fuego para mantenerme caliente.",
+      "back": "I usually sit by the fire to keep warm.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Un gorro te ayudará a mantenerte caliente en la nieve.",
+      "back": "A hat will help you keep warm in the snow.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "No es fácil estarse quieto después de cinco tazas de café.",
+      "back": "It's not easy to keep still after five cups of coffee.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Quiero que os estéis quietos cinco minutos, ¿vale?",
+      "back": "I want you to keep still for five minutes, OK?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Se pueden estar quietos los cinco alumnos del fondo?",
+      "back": "Can the five students at the back keep still?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Me está costando mucho mantener la calma.",
+      "back": "I'm really struggling to keep calm.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿A ti también te está costando mantener la calma?",
+      "back": "Are you struggling to keep calm too?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Creo que a todo el mundo le está costando mantener la calma.",
+      "back": "I think everyone's struggling to keep calm.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Me cuesta mantenerme despierto siempre que veo una película.",
+      "back": "I struggle to keep awake every time I watch a movie.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Le cuesta mantenerse despierta cada vez que vuela a EEUU.",
+      "back": "She struggles to keep awake every time she flies to the US.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¡A todo el mundo le cuesta mantenerse despierto en sus clases!",
+      "back": "Everyone struggles to keep awake in his classes!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Creo que me está costando mantenerme cuerdo debido al ruido constante.",
+      "back": "I think I'm struggling to keep sane because of the constant noise.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "No me sorprende que te esté costando mantenerte cuerdo.",
+      "back": "I'm not surprised you're struggling to keep sane.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Le está costando mantenerse cuerdo después de aquella relación.",
+      "back": "He's struggling to keep sane after that relationship.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿De verdad mantienes el contacto con todos tus parientes?",
+      "back": "Do you really keep in touch with all your relatives?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "No me creo que mantengas el contacto con todos tus parientes.",
+      "back": "I can't believe you keep in touch with all your relatives.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Mis padres quieren que esté en contacto con ellos todo el rato.",
+      "back": "My parents want me to keep in touch all the time.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Él se mantiene en contacto con su tío por parte de padre.",
+      "back": "He keeps in touch with his uncle on his father's side.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Sólo mantengo el contacto con mis tías por parte de madre. Tienen más dinero.",
+      "back": "I only keep in touch with my aunts on my mother's side. They have more money.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Por qué no mantiene él el contacto con sus primos más mayores?",
+      "back": "Why doesn't he keep in touch with his older cousins?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Sólo me mantendré en contacto con mi sobrina más maja.",
+      "back": "I'll only keep in touch with my nice niece.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¡Quiero que mis sobrinos Pete y Paul mantengan el contacto para siempre!",
+      "back": "I want my nephews Pete and Paul to keep in touch forever!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Tus sobrinas se mantienen en contacto?",
+      "back": "Do your nieces keep in touch?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Sencillamente, no tengo tiempo de mantener el contacto con mi nuera.",
+      "back": "I just don't have time to keep in touch with my daughter-in-law.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Tienes tiempo de mantener el contacto con la tuya?",
+      "back": "Do you have time to keep in touch with yours?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "La verdad es que me mantengo en contacto con mi yerno.",
+      "back": "I actually keep in touch with my son-in-law.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Su hermanastro mantiene el contacto con su padrastro.",
+      "back": "His stepbrother keeps in touch with his stepdad.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Vas a mantener el contacto con tu hijastra?",
+      "back": "Are you going to keep in touch with your stepdaughter?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Creo que ella va a mantenerse en contacto con su madrastra.",
+      "back": "I think she's going to keep in touch with her stepmum.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Sube las escaleras andando en vez de coger el ascensor si quieres mantenerte en forma.",
+      "back": "Walk up the stairs instead of taking the lift if you want to keep fit.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Sube las escaleras corriendo en vez de coger el ascensor si quieres mantenerte en forma.",
+      "back": "Run up the stairs instead of taking the lift if you want to keep fit.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Sube las escaleras volando en vez de coger el ascensor si quieres mantenerte en forma.",
+      "back": "Fly up the stairs instead of taking the lift if you want to keep fit.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Toma verduras en vez de tomar patatas fritas.",
+      "back": "Have vegetables instead of having chips.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Toma fruta de postre en vez de tomar tarta.",
+      "back": "Have fruit for dessert instead of having cake.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Desayuna mucho en vez de cenar mucho.",
+      "back": "Have a big breakfast instead of having a big dinner.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Puedes mantenerte en forma si andas en vez de ir en coche.",
+      "back": "You can keep fit if you walk instead of driving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "También puedes mantenerte en forma si vas en bici en vez de ir en coche.",
+      "back": "You can also keep fit if you ride a bike instead of driving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Y también puedes mantenerte en forma si vas a caballo en vez de ir en coche.",
+      "back": "And you can also keep fit if you ride a horse instead of driving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Voy a correr todas las mañanas para mantenerme en forma.",
+      "back": "I go jogging every morning to keep fit.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Vamos a bailar todos los fines de semana para mantenernos en forma.",
+      "back": "We go dancing every weekend to keep fit.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Hacen tus padres senderismo para mantenerse en forma?",
+      "back": "Do your parents go hiking to keep fit?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Hay gente que se mantiene en forma paseando a su perro.",
+      "back": "Some people keep fit walking their dog.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Otros se mantienen en forma caminando solos.",
+      "back": "Other people keep fit walking alone.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Y otros se mantienen en forma estudiando inglés.",
+      "back": "And other people keep fit studying English.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Tengo un perro.",
+      "back": "I keep a dog.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Tú tienes caballos.",
+      "back": "You keep horses.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Ella tiene pájaros?",
+      "back": "Does she keep birds?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Yo tengo gallinas en el gallinero.",
+      "back": "I keep chickens in the chicken coop.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Ellos no tienen vacas en el prado.",
+      "back": "They don't keep cows in the field.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Tiene él caballos en los establos?",
+      "back": "Does he keep horses in the stables?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Yo tengo patos en mi finca.",
+      "back": "I keep ducks on my estate.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Crías cerdos en tu granja?",
+      "back": "Do you keep pigs on your farm?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "No tenemos perros guardianes en nuestra parcela, pero podríamos tenerlos.",
+      "back": "We don't keep guard dogs on our plot of land, but we could.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Crío ovejas porque me dan lana.",
+      "back": "I keep sheep for their wool.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Ella cría abejas porque le dan miel.",
+      "back": "She keeps bees for their honey.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Tenemos un gato porque nos hace compañía.",
+      "back": "We keep a cat for company.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Tenemos caballos para montarlos.",
+      "back": "We keep horses to ride them.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Tienes un perro para que les ladre a los intrusos?",
+      "back": "Do you keep a dog to bark at intruders?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Ella cría palomas para mandar mensajes.",
+      "back": "She keeps pigeons to send messages.",
+      "sourcePage": 19
+    }
+  ]
+}

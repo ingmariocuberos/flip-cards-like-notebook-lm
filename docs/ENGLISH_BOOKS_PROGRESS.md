@@ -28,7 +28,7 @@ Fuente local: `sources/english/Libro NN.pdf`. Los PDF 1–20 proceden del primer
 | 22 | 85 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 22 flashcards by level` |
 | 23 | 86 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 23 flashcards by level` |
 | 24 | 85 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 24 flashcards by level` |
-| 25 | 86 | Pendiente | — | — |
+| 25 | 86 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 25 flashcards by level` |
 | 26 | 86 | Pendiente | — | — |
 | 27 | 86 | Pendiente | — | — |
 | 28 | 86 | Pendiente | — | — |
