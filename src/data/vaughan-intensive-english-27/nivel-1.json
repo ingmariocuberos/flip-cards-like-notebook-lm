@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-27",
+  "bookTitle": "Libro 27",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Vámonos a la montaña el fin de semana que viene! O, mejor aún, ¡vámonos ahora!",
+      "back": "Let's go to the mountains next weekend! Or even better, let's go now!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Vámonos a Australia por Navidad!",
+      "back": "Let's go to Australia for Christmas!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Vamos a tomar algo después del trabajo!",
+      "back": "Let's go for a drink after work!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Vamos a ver lo que dicen.",
+      "back": "Let's see what they say.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Vamos a ver lo que podemos hacer.",
+      "back": "Let's see what we can do.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Vamos a ver lo que nos depara el futuro.",
+      "back": "Let's see what the future brings.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Hagamos esto antes de hacer eso.",
+      "back": "Let's do this before we do that.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Hagamos eso después de hacer esto.",
+      "back": "Let's do that after we do this.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Hagamos aquéllos en vez de éstos.",
+      "back": "Let's do those instead of these.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "No seamos paranoicos. No hay nadie allí.",
+      "back": "Let's not be paranoid. There isn't anyone there.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "No hablemos sobre eso delante de todo el mundo.",
+      "back": "Let's not discuss that in front of everyone.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No discutamos. Estoy demasiado cansado esta noche.",
+      "back": "Let's not argue. I'm too tired tonight.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Que no cunda el pánico!",
+      "back": "Let's not panic!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¡No perdamos el control!",
+      "back": "Let's not lose control!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No nos precipitemos a la hora de sacar conclusiones.",
+      "back": "Let's not jump to conclusions.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Cierro la puerta?",
+      "back": "Shall I close the door?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Le traigo a ella un vaso de agua?",
+      "back": "Shall I get her a glass of water?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Abro la caja?",
+      "back": "Shall I open the box?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Nos vamos?",
+      "back": "Shall we go?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Pedimos la cuenta?",
+      "back": "Shall we get the bill?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Limpiamos la cocina?",
+      "back": "Shall we clean the kitchen?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Qué vemos?",
+      "back": "What shall we watch?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Qué hago con todos estos pepinos?",
+      "back": "What shall I do with all these cucumbers?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Qué preparamos?",
+      "back": "What shall we prepare?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Adónde vamos hoy?",
+      "back": "Where shall we go today?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Adónde vamos este verano?",
+      "back": "Where shall we go this summer?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Adónde vamos el próximo fin de semana?",
+      "back": "Where shall we go next weekend?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Cómo le digo a él la verdad?",
+      "back": "How shall I tell him the truth?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Cómo explico esto?",
+      "back": "How shall I explain this?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Cómo empiezo?",
+      "back": "How shall I begin?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Déjale ir al partido o se decepcionará mucho.",
+      "back": "Let him go to the match or he'll be very disappointed.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡No soy lo que estás buscando! Por favor, ¡suéltame!",
+      "back": "I'm not the one you're looking for! Please, let me go!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Ella no quiere dejarme ir a Letonia para la despedida de soltero de Luis.",
+      "back": "She doesn't want to let me go to Latvia for Luis' stag do.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Suéltame la mano! Me estás haciendo daño.",
+      "back": "Let go of my hand! You're hurting me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Suéltame o llamaré a la policía.",
+      "back": "Let go of me or I'll call the police.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Ella no quiere soltarle la mano a él.",
+      "back": "She doesn't want to let go of his hand.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¡Suelta mi bolso o te pegaré!",
+      "back": "Let go of my bag or I'll hit you!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¡No sueltes la cuerda o te caerás!",
+      "back": "Don't let go of the rope or you'll fall!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Suelta la botella; ¡no es tuya!",
+      "back": "Let go of the bottle; it's not yours!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "No dejaré de cuidarme cuando me case.",
+      "back": "I won't let myself go after I get married.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Estás empezando a dejarte ir. ¡Vete al gimnasio!",
+      "back": "You're starting to let yourself go! Get to the gym!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Estás dejando de cuidarte, pero te quiero más que nunca.",
+      "back": "You're letting yourself go a bit, but I love you more than ever!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Has llegado tarde. Pero esta vez lo olvidaremos.",
+      "back": "You're late. But we'll let it go this time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Estoy decepcionado contigo, pero esta vez lo olvidaré.",
+      "back": "I'm disappointed in you, but we'll let it go this time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Lo siento. ¿No puedes olvidarlo esta vez?",
+      "back": "I'm sorry. Can't you let it go this time?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Por favor, déjame ver la película. ¡Tengo edad para verla!",
+      "back": "Please, let me see the film. I'm old enough to see it!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Déjame ver los deberes, por favor.",
+      "back": "Let me see your homework, please.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Pues a ver... ¿Cuál es la respuesta?",
+      "back": "Now let me see... What's the answer?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "No le dejaré hacerlo hasta la semana que viene.",
+      "back": "I won't let her do it until next week.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Por favor, déjala hacerlo!",
+      "back": "Please let her do it!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Nunca le dejan hacerlo sin su jefe.",
+      "back": "They never let her do it without her boss.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Déjale tocar la guitarra si quieres.",
+      "back": "Let him play the guitar if he wants to.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Déjale jugar al fútbol con los demás.",
+      "back": "Let him play football with the others.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Déjale jugar al Play English en la PSP después de cenar.",
+      "back": "Let him play Play English on the PSP after dinner.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Déjanos entrar!",
+      "back": "Let us come in!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Estás mala! Déjanos venir otra vez a cuidarte.",
+      "back": "You're ill! Let us come again and look after you.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Déjanos venir también! ¡Prometemos que nos portaremos bien!",
+      "back": "Let us come too! We promise we'll be good!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "No les dejes hablar en la reunión.",
+      "back": "Don't let them speak in the meeting.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Déjales hablar con ella. La conocen mejor.",
+      "back": "Let them speak to her. They know her better.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "No les dejes hablar con el médico.",
+      "back": "Don't let them speak to the doctor.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Me dejas ver las respuestas otra vez, por favor?",
+      "back": "Can you let me see the answers again, please?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Por favor, le dejas a él acompañarte?",
+      "back": "Please, can you let him go with you?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Nos dejas hablar en la reunión, por favor?",
+      "back": "Can you let us speak in the meeting, please?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Por favor, puedo ver sus respuestas de ella?",
+      "back": "Please, can I see her answers?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Por favor, pueden ellos acompañarme?",
+      "back": "Please, can they come with me?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Puedo usar tu boli, por favor?",
+      "back": "Can I use your pen, please?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Me dejarías acompañarte a la fiesta, por favor?",
+      "back": "May I come with you to the party, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Por favor, me dejarías ver tu vestido de novia?",
+      "back": "Please, may I see your wedding dress?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Me darás una respuesta antes del lunes, por favor?",
+      "back": "May I have your answer by Monday, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Nos dejarías ver la carta, por favor?",
+      "back": "May we see the menu, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Podríamos tomar dos ensaladas de pollo, por favor?",
+      "back": "May we have two chicken salads, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Podríamos tomar una botella de vino blanco, por favor?",
+      "back": "May we have a bottle of white wine, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Me dejas jugar?",
+      "back": "Can you let me play? / Can I play? / May I play?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Nos dejas ir también?",
+      "back": "Can you let us go too? / Can we go too? / May we go too?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Me dejas leer el libro?",
+      "back": "Can you let me read the book? / Can I read the book? / May I read the book?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Dejas los platos sobre la mesa después de almorzar?",
+      "back": "Do you leave the dishes on the table after lunch?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Él nunca deja el abrigo en el armario cuando llega a casa.",
+      "back": "He never leaves his coat in the closet when he gets home.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Siempre dejo mi bici en la esquina de la calle por la noche.",
+      "back": "I always leave my bike on the street corner at night.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Mis abuelos siempre dejan una propina de, al menos, el 20%.",
+      "back": "My grandparents always leave at least a 20% tip.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Los clientes casi nunca dejan propina en los bares españoles.",
+      "back": "Customers hardly ever leave a tip in Spanish bars.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Dejarás una buena propina para ese camarero tan amable?",
+      "back": "Will you leave a good tip for that helpful waiter?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¡Déjame en paz, estoy disgustado!",
+      "back": "Leave me alone, I'm upset!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Por favor, deja en paz a Dan. Necesita estudiar.",
+      "back": "Please leave Dan alone. He needs to study.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¡Siempre le dejo en paz cuando está enfadado!",
+      "back": "I always leave him alone when he's angry!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¡Ay, no! ¡Siempre me estoy olvidando el paraguas en el tren!",
+      "back": "Oh, no! I'm always leaving my umbrella on the train!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Te olvidas las llaves en casa a menudo?",
+      "back": "Do you often leave your keys at home?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Por qué siempre me olvido mi sombrero en casa cuando lo necesito?",
+      "back": "Why do I always leave my hat at home when I need it?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Dejo a los niños en el cole antes de ir al trabajo.",
+      "back": "I leave the kids at school before I go to work.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "El autobús número 21 te deja en la esquina de las calles State y Main.",
+      "back": "The bus number 21 leaves you on the corner of State and Main.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "¡No me dejes en este barrio tan peligroso a esta hora de la noche!",
+      "back": "Don't leave me in this dodgy neighborhood at this time of night!",
+      "sourcePage": 19
+    }
+  ]
+}

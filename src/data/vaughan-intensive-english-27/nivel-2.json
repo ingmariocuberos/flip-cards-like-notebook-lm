@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-27",
+  "bookTitle": "Libro 27",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Por favor, explícale a la peluquera si quieres llevar el pelo suelto o recogido.",
+      "back": "Please let the hairdresser know if you want to wear your hair up or down.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Por favor, dile también si tienes pensado llevar un tocado.",
+      "back": "Please let her know as well if you are planning to wear a head piece.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Si es así, por favor dile si lo vas a comprar tú o si querrías que lo comprara ella por ti.",
+      "back": "If so, please let her know if you are buying it yourself or if you would like her to buy it for you.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Por favor, dile a Steve con qué canción querrías empezar el baile.",
+      "back": "Please let Steve know which song you would like to pick for your first dance.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Por favor, dile a la florista qué flores querrías incluir en el ramo de flores.",
+      "back": "Please let the florist know which flowers you would like to include in your bouquet.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Por favor, dile al fotógrafo cuáles son los invitados a los que quieres que saque fotos.",
+      "back": "Please let the photographer know which guests you really want photos of.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Te agradeceríamos que nos dijeras el viernes, como muy tarde, quién va a ser la madrina.",
+      "back": "We'd be grateful if you could let us know who is going to be your Maid of Honor by Friday.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Te agradeceríamos que nos dijeras también quién va a ser el padrino.",
+      "back": "We'd be grateful if you could let us know who is going to be the best man too.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Te agradeceríamos que nos dijeras quién te gustaría que se encargara de recibir y sentar a los invitados en la iglesia esta noche, a las nueve como muy tarde.",
+      "back": "We'd be grateful if you could let us know who you would like to be the usher by nine o'clock tonight.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Dile a mi asistente que querrías que se enviaran las invitaciones el lunes como muy tarde.",
+      "back": "Let my assistant know that you would like the invitations to be sent on Monday at the latest.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Dile que quieres probar el menú y la tarta el martes como muy tarde.",
+      "back": "Let him know that you want to do the menu and cake tasting on Tuesday at the latest.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Diles que quieres hacer la prueba de maquillaje y peinado el miércoles como muy tarde.",
+      "back": "Let them know that you want to do the trial make-up and hair demonstrations on Wednesday at the latest.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Avísame si hay más gente involucrada en la ceremonia.",
+      "back": "Let me know of any other people involved in the ceremony.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Avisa al cura si hay alguna lectura en la que estéis especialmente interesados.",
+      "back": "Let the priest know of any readings you are especially interested in.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Avísame si hay algo más que necesites.",
+      "back": "Let me know of anything else you need.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "La sirvienta dejó entrar al vendedor a la casa.",
+      "back": "The maid let the salesman into the house.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Ella no dejó entrar al electricista porque no le conocía.",
+      "back": "She didn't let the electrician in because she didn't know him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "El fontanero está en la puerta. ¿Le dejas entrar, por favor?",
+      "back": "The plumber is at the door. Can you let him in, please?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Fernando Alonso paró en el semáforo para que yo saliera del coche.",
+      "back": "Fernando Alonso stopped at the traffic lights to let me out.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Le pedí al chófer que me dejara salir al llegar al cruce.",
+      "back": "I asked the chauffeur to let me out at the crossroads.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Sue le dijo al taxista que le dejara en la esquina de Blue Street con Green Street.",
+      "back": "Sue told the taxi driver to let her out at the corner of Blue Street with Green Street.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Matt decepcionó a Lisa al presentarse en el teatro cuando la obra iba por la mitad.",
+      "back": "Matt let Lisa down by turning up at the theatre when the play was half way through.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "La semana anterior él la decepcionó muchísimo al no acordarse de su aniversario.",
+      "back": "The week before he let her down badly by not remembering their anniversary.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Y antes de eso la decepcionó al no querer ayudarla cuando ella se lo pidió.",
+      "back": "And before that he let her down by not helping her when she asked him to.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "El gorila de la discoteca nos dejó pasar a pesar de que estaba abarrotada de gente.",
+      "back": "The bouncer let us through despite the nightclub being packed with people.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Si no nos dejan pasar, siempre podemos colarnos.",
+      "back": "If they don't let us through, we can always sneak in.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¡Por favor, dejad pasar a la ambulancia!",
+      "back": "Please let the ambulance through the crowd!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Los niños se fueron al parque en cuanto dejó de llover tanto.",
+      "back": "The children went to the park as soon as the rain let up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Sacaré a mi perro a pasear una vez deje de llover tanto.",
+      "back": "I'll take my dog for a walk once the rain lets up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "No iré a casa de Peter en coche a no ser que deje de nevar.",
+      "back": "I won't drive to Peter's unless the snow lets up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Cuando era niño, mis padres me dejaban dormir en la casita del árbol del jardín en verano.",
+      "back": "When I was growing up, my parents would let me sleep in the tree house in the garden in summer.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Cuando era pequeña, mi madre me dejaba ayudarla cuando estaba en la cocina haciendo pasteles.",
+      "back": "When I was growing up, my mother would let me help her when she was in the kitchen baking cakes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "Cuando éramos niños, nuestros padres nos dejaban tomar un vasito de vino con la comida los domingos.",
+      "back": "When we were growing up, our parents would allow us to have a small glass of wine with our lunch on Sundays.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Con 21 años su madre todavía no le dejaba salir a ella sola con chicos.",
+      "back": "When she was 21, her mother still wouldn't let her go out with boys alone.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Incluso con 18 años mis padres no me dejaban beber alcohol en casa.",
+      "back": "Even when I was 18, my parents wouldn't let me drink alcohol at home.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Con 16 años su madre no le dejaba ir a discotecas con sus amigas.",
+      "back": "When she was 16, her mother wouldn't allow her to go to discos with her friends.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Cuando eras joven, ¿tus padres te dejaban decir tacos delante de ellos?",
+      "back": "When you were young, would your parents let you say swearwords in front of them?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Tu madre te dejaba llevar maquillaje cuando eras adolescente?",
+      "back": "Would your mum let you wear makeup when you were a teenager?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Sus padres siempre le dejaban hablar así a las personas mayores cuando era niño?",
+      "back": "Would his parents always allow him to speak like that to adults when he was a kid?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¡Tenías que dejar entrar a la fiesta a tus colegas borrachos del rugby! ¿De verdad pensabas que se iban a comportar bien?",
+      "back": "You would let your drunken rugby friends into the party! Did you really think they were going to behave themselves?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Estaba claro que ella iba a dejar que viniera su ex novio, ¿no crees?",
+      "back": "She would let her ex-boyfriend come, wouldn't she?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Era de esperar que ellos dejaran a sus niños tatuarse.",
+      "back": "They would allow their kids to have tattoos, wouldn't they?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Mi padre tenía un Rolls Royce, pero nunca me dejaba conducirlo.",
+      "back": "My father used to have a Rolls Royce, but he would never let me drive it.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Antes yo era su novio, pero como nunca me dejaba salir con mis amigos, decidí terminar mi relación con ella.",
+      "back": "I used to be her boyfriend, but as she would never let me go out with my friends I decided to end my relationship with her!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Antes había muchos bares en esta calle, pero no nos dejaban entrar en ninguno.",
+      "back": "There used to be lots of bars in this street, but none of them would allow us to go in.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Por mucho que le ruegue a ella, no me dejará ir con ella.",
+      "back": "No matter how much I beg, she won't let me go with her.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Por muy convincente que sea ella, él no la dejará conducir su coche.",
+      "back": "No matter how convincing she is, he won't let her drive his car.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Por mucho que llore él, ella no le dejará volver a casa.",
+      "back": "No matter how much he cries, she won't let him come home.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Haga lo que haga, no me dejarán ir con ellos.",
+      "back": "No matter what I do, they will not let me go with them.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Diga lo que diga, no me dejarán hacer el discurso.",
+      "back": "No matter what I say, they won't let me make the speech.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Pase lo que pase, no te dejaré caer.",
+      "back": "No matter what happens, I won't let you fall.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "No hay forma de que él te deje ocupar su puesto cuando se vaya. Se asegurará de ello.",
+      "back": "There's no way he'll let you take over his job when he leaves. He'll make sure of that.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "No hay forma de permitir que ella entre en mi habitación. ¡Huele mal!",
+      "back": "There's no way I'll allow her to come into my room. She smells bad!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "No hay forma de que él me deje conducir su coche. Es muy testarudo.",
+      "back": "There's no way he'll let me drive his car. He's too stubborn.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Simplemente, no me dejarán participar.",
+      "back": "They just won't allow me to join in.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Ella se queja porque, simplemente, no le dejan ayudar en la cocina.",
+      "back": "She complains because they just don't allow her to help out in the kitchen.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Simplemente, no le dejarán hacer su trabajo.",
+      "back": "They just won't allow him to do his job.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "No están dispuestos a dejarle unirse al equipo de fútbol.",
+      "back": "They're not willing to let him join the football team.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Sam no está dispuesto a dejar que su perro coma chocolate.",
+      "back": "Sam isn't willing to let his dog eat chocolate.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Josh no está dispuesto a dejar que sus niños vayan solos al parque.",
+      "back": "Josh isn't willing to let his children go to the park alone.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Voy a alquilar mi oficina a alguien porque ese dinero extra me resultará útil.",
+      "back": "I'm going to let my office to someone because the extra money will come in handy.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Alquilaste tu piso a esa pareja cuando pasaste aquel año en el extranjero?",
+      "back": "Did you let your flat to that couple when you spent that year abroad?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "No es muy rentable alquilar pisos a nadie en este momento.",
+      "back": "It isn't very profitable to let flats to anyone at the moment.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Tengo mi casa a la venta desde hace mucho tiempo.",
+      "back": "My house has been for sale for a long time.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Me temo que mi coche no está en venta.",
+      "back": "I'm afraid my car isn't for sale.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Esa furgoneta es perfecta para mi negocio! ¡Y está en venta!",
+      "back": "That van is perfect for my business. And it's for sale!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "La ropa de mi talla nunca está de rebajas.",
+      "back": "Clothes in my size are never on sale.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Hay muchos ordenadores muy buenos de rebajas en este momento.",
+      "back": "There are lots of very good computers on sale at the moment.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Has visto aquella falda fantástica que está de rebajas?",
+      "back": "Did you see that fabulous skirt that's on sale?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Hay una habitación vacía en la casa que estoy alquilando. La quiero subarrendar.",
+      "back": "There's an empty room in the house that I'm renting. I want to sublet it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Se enfadará tu casero si se entera de que estás subarrendando?",
+      "back": "Will your landlord get angry if he finds out that you're subletting?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "No quiero que subarriendes el cuarto de los invitados. Lo necesitamos para los invitados.",
+      "back": "I don't want you to sublet the spare room. We need it for visitors.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Alquilemos una furgoneta para hacer la mudanza más fácil.",
+      "back": "Let's hire a van to help us move house.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Alquilé un coche y fui conduciendo a Andalucía.",
+      "back": "I hired a car and drove to Andalucia.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "He alquilado un coche casi todos los fines de semana de este año. Creo que ya me debería comprar uno.",
+      "back": "I've hired a car almost every weekend this year. I think I should buy one now.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "No se permiten los juegos de pelota en el césped.",
+      "back": "Ball games are not allowed on the grass.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "No se admiten perros en la tienda.",
+      "back": "Dogs are not allowed in the shop.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "No se permite el uso de móviles en clase en ningún momento.",
+      "back": "Mobile phones are not allowed in class at any time.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "No está permitido fumar en este edificio.",
+      "back": "Smoking is not allowed anywhere in this building.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "No está permitido correr en los pasillos del colegio.",
+      "back": "Running is not allowed in the school corridors.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Las caricias no se permiten en la piscina.",
+      "back": "Petting is not allowed in the swimming pool.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "A este preso no le permiten recibir visitas.",
+      "back": "This prisoner is not allowed to have visitors.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "No me permiten salir esta noche.",
+      "back": "I'm not allowed to go out tonight.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "No se les permite decir nada a la prensa hasta que termine el juicio.",
+      "back": "They're not allowed to say anything to the press until the trial has finished.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Mi madre dice que puedo quedarme fuera hasta la una.",
+      "back": "My mum says that I'm allowed to stay out until 1 am tonight.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Nos permiten un descanso por la mañana y otro por la tarde.",
+      "back": "We're allowed to have a break in the morning and one in the afternoon.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Le dejaron a él irse a casa el día después de la operación.",
+      "back": "He was allowed to go home the day after the operation.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Te permitirán venir a nuestra fiesta?",
+      "back": "Will you be allowed to come to our party?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Por qué no se les permite donar fondos a nuestra campaña para las elecciones?",
+      "back": "Why aren't they allowed to donate any funds to the election campaign?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¿No te permitieron apelar la decisión?",
+      "back": "Weren't you allowed to appeal the decision?",
+      "sourcePage": 47
+    }
+  ]
+}

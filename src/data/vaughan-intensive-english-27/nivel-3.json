@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-27",
+  "bookTitle": "Libro 27",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Que lo haga Pepe. Es suficientemente viejo y feo para hacerlo él mismo.",
+      "back": "Let Pepe do it. He's old and ugly enough to do it by himself.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Que haga lo que quiera. Él es el que manda.",
+      "back": "Let him do whatever he wants. He's the one that rules the roost.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "Que hagan lo que quieran. Son los hijos del jefe.",
+      "back": "Let them do whatever they want. They are the boss's children.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Que lo haga otro. Sé que piensas que Pepe es demasiado enigmático.",
+      "back": "Let somebody else do it. I know that you feel Pepe's too much of a dark horse.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Deja que otra persona limpie después de la fiesta. Tú ya has hecho suficiente.",
+      "back": "Let somebody else clean up after the party. You've already done enough.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Deja que otra persona lave los platos. Al final, tú siempre terminas lavándolos.",
+      "back": "Let someone else do the dishes. You always end up doing them.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Que lo haga Pepe si quiere y a ver si así se le quita la expresión de pena de su cara.",
+      "back": "Let Pepe do it if he wants to do it and if it wipes that hangdog expression off of his face.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Que lo escriba Pepe si nadie más quiere hacerlo. Él es muy fiable.",
+      "back": "Let Pepe write it if nobody else wants to do it. He's a safe pair of hands.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Que lo compre Pepe si nadie más puede permitírselo. Yo personalmente creo que es un auténtico robo.",
+      "back": "Let Pepe buy it if nobody else can afford it. I personally think it's daylight robbery.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Que todo el mundo sepa qué está pasando.",
+      "back": "Let everyone know what's happening.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Que todo el mundo sepa en lo que estás trabajando. ¿O es que te da vergüenza?",
+      "back": "Let everyone know what you're working on. Or are you ashamed?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Que el mundo sepa lo que está pasando en este país.",
+      "back": "Let the world know what's happening in this country.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Avísame si necesitas más sándwiches y me pondré con ello en seguida.",
+      "back": "Let me know if you need any more sandwiches and I'll get cracking.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Avísame si hay algo más que pueda hacer por ti, de lo contrario me iré.",
+      "back": "Let me know if there's anything else I can do for you, otherwise I'll make tracks.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Avísame si alguien más puede hacer el relevo; me acabo de enterar de que Janet nos ha abandonado.",
+      "back": "Let me know if anybody else can take over; I've just found out that Janet's jumped ship.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "No te dejes embaucar para cargar con más responsabilidad en el trabajo.",
+      "back": "Don't let them trick you into taking on more responsibility at work.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "No te dejes embaucar para lavar los platos.",
+      "back": "Don't let them trick you into washing the dishes.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "No te dejes embaucar para pagar más de lo que te corresponde.",
+      "back": "Don't let them trick you into paying more than your fair share.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "No dejes que te engatusen para quitarte la pensión.",
+      "back": "Don't let them trick you out of your pension.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "No dejes que te engatusen para quitarte lo que mereces.",
+      "back": "Don't let them trick you out of what you're due.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "No dejes que te engatusen para quitarte tus días de vacaciones.",
+      "back": "Don't let them trick you out of your days off.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "No dejes que te mientan.",
+      "back": "Don't let them lie to you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "No dejes que te mientan acerca de los costes ocultos.",
+      "back": "Don't let them lie to you about hidden costs.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "No dejes que te mientan acerca de sus verdaderas intenciones.",
+      "back": "Don't let them lie to you about their true intentions.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Eres el mejor escritor que tenemos y no dejes que nadie te diga lo contrario.",
+      "back": "You're the best writer we have and don't let anyone tell you otherwise.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Tienes una nariz sumamente preciosa. No dejes que nadie te diga lo contrario.",
+      "back": "You have an extremely beautiful nose. Don't let anyone tell you otherwise.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Eres más que capaz de aprender una lengua extranjera. No dejes que nadie te diga lo contrario.",
+      "back": "You're more than capable of learning a foreign language. Don't let anyone tell you otherwise.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "No dejes que nadie te pisotee.",
+      "back": "Don't let anyone walk all over you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "No dejes que tu jefe te pisotee.",
+      "back": "Don't let your boss walk all over you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "No dejes que personas que apenas conoces te pisoteen.",
+      "back": "Don't let people you hardly know walk all over you.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "La contratación de más gente nos permitirá incrementar nuestra producción.",
+      "back": "The hiring of more people will permit us to increase our production.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Podríamos dar una vuelta en coche antes de comer, si tenemos tiempo.",
+      "back": "We could go for a spin before lunch, time permitting.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "La empresa no permite a nadie aparcar las motos en la acera.",
+      "back": "The company doesn't permit anyone to park their motorbikes on the pavement.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "No soy quién para sancionar ese tipo de medida.",
+      "back": "I'm not in a position to sanction that type of measure.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Cuándo sancionará el gobierno el tratado nuevo?",
+      "back": "When will the government sanction the new treaty?",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Dudo que alguien tenga las agallas para sancionar tal cosa.",
+      "back": "I doubt that anyone will have the guts to sanction such a thing.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "El genio concedió tres deseos a Aladino.",
+      "back": "The genie granted Aladdin three wishes.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "Se me concedió una última oportunidad para demostrar mi valor ante la empresa.",
+      "back": "I was granted one last chance to prove myself to the rest of the company.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Desde luego, no le concedería tanto poder en el proceso de toma de decisiones la próxima vez.",
+      "back": "I definitely wouldn't grant him so much power in the decision making process next time.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "No consentiría hacer algo así ni aunque mi vida dependiera de ello.",
+      "back": "I wouldn't consent to doing something like that even if my life depended on it.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "Por alguna razón, el paciente no consiente tomar la medicina que le recetamos.",
+      "back": "For some reason, the patient won't consent to taking the medication we prescribed.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¿Consentirías formar parte de un ensayo médico?",
+      "back": "Would you consent to taking part in a medical trial?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "No toleraré ese tipo de comportamiento.",
+      "back": "I will not stand for that type of behavior.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Lo tolerarías si estuvieras en mi lugar?",
+      "back": "Would you stand for it if you were in my position?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "No creo que nadie fuera a tolerar algo así.",
+      "back": "I don't think that anybody would stand for something like that.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Él está de muy mal humor hoy. Déjalo en paz.",
+      "back": "He's in such a bad mood today. Just leave him alone.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "No sé por qué tratas de cambiar su opinión. Si no quiere ir, déjalo en paz.",
+      "back": "I don't know why you try to change his mind. If he doesn't want to come, let him be.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Déjales en paz: son muy jóvenes.",
+      "back": "Let them be: they're only young.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Ni siquiera queríamos venir, y ni mucho menos quedarnos toda la tarde.",
+      "back": "We didn't even want to come, let alone stay all evening.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Ni siquiera me gusta él, ¿cómo le iba a querer?",
+      "back": "I don't even like him, let alone love him!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Ella no bebe cerveza, y ni mucho menos licores.",
+      "back": "She doesn't drink beer, let alone spirits.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Que se sepa que era un jefe maravilloso.",
+      "back": "Let it be said that he was a wonderful boss.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Que no se diga que no hago nada por ti.",
+      "back": "Don't let it be said that I never do anything for you.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Que no se diga nunca que ella no fue generosa.",
+      "back": "Never let it be said that she wasn't generous.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Suspendiste el examen? Que te sirva de lección para trabajar más en el futuro.",
+      "back": "You failed the exam?! Let that be a lesson to you to work harder in future.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Él no debía de haberte gritado, pero que te sirva de lección para no volverle loco.",
+      "back": "He shouldn't have yelled at you, but let it be a lesson to you not to wind him up.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "No me sorprende que estés malo. ¡Que te sirva de lección para no comer tantas golosinas!",
+      "back": "I'm not surprised you're sick. Let that be a lesson to you not to eat so many sweets!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Por favor, permítame presentarle al Dr. Phillips.",
+      "back": "Please, allow me to introduce you to Dr. Phillips.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "¡Permítame!, le dijo mientras abría la puerta para ella.",
+      "back": "Allow me!, he said, as he opened the door for her.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Por favor, permítame el honor de acompañarle al baile.",
+      "back": "Please allow me the honour of accompanying you to the ball.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "La tercera parte de la trilogía del Padrino realmente me decepcionó.",
+      "back": "The third part of The Godfather trilogy really let me down.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Ella está matándose intentando agradarle a él porque, pase lo que pase, no quiere decepcionarle.",
+      "back": "She's killing herself trying to please him because, whatever happens, she doesn't want to let him down.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Todos estábamos muy ilusionados con este nuevo gobierno, pero predeciblemente, fuimos decepcionados.",
+      "back": "We were all very hopeful about this new government, but predictably, we were let down.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "¡Cuéntame dónde te haces las uñas! Me encanta tu manicura.",
+      "back": "Please let me in on where you get your nails done. I love your manicure!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Le has contado ya el secreto a Susan?",
+      "back": "Have you let Susan in on the secret yet?",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "¡No seas tan enigmático! Cuéntame lo que te ronda la cabeza.",
+      "back": "Don't be so enigmatic! Let me in on what's on your mind.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Ella no dijo nada abiertamente, pero dio a entender que le darían el ascenso pronto.",
+      "back": "She didn't say anything clearly, but she let on that she would be getting the promotion soon.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Él nunca se me declaró, pero me hizo entender que se quería casar conmigo.",
+      "back": "He never proposed, but he let on that he wanted to marry me.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Ella no dio a entender que estuviera muy contenta en la carta.",
+      "back": "She didn't let on in the letter that she was very happy.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Cuando éramos adolescentes, nuestra madre nos pilló robando cervezas del frigo, pero como era Nochevieja, lo dejó pasar con un gesto de la mano.",
+      "back": "When we were teenagers, our mother caught us stealing beers from the fridge, but as it was New Years' Eve, she let us off with a wave of the hand.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "¡Menos mal que a Bernie Madoff no le dejaron escapar sólo con un tirón de orejas!",
+      "back": "Thank goodness Bernie Madoff wasn't let off with a slap on the wrist!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "El policía nos echó una mirada severa al dejarnos marchar después de habernos visto cruzar la calle sin estar en un cruce de peatones.",
+      "back": "The policeman let us off with a stern look after he saw us jaywalking.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "¡Qué ganas tengo de que lleguen mis vacaciones! Podré desmelenarme y hacer el vago a todas horas.",
+      "back": "I can't wait until my vacation! I'll be able to let my hair down and laze around all day.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Para Charlie, desmelenarse significa llevar una corbata a rayas en vez de una corbata de color liso.",
+      "back": "To Charlie, letting his hair down means wearing a striped tie instead of a plain tie.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Si de verdad queremos desmelenarnos, deberíamos ir a un karaoke después del trabajo.",
+      "back": "If we really want to let our hair down, we should go to a karaoke after work.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Ella dio un gran suspiro cuando le contamos que estabas sano y salvo.",
+      "back": "She let out a big sigh of relief when we told her that you were safe and sound.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Di un grito enorme cuando marcaron el gol de la victoria.",
+      "back": "I let out a huge shout when they scored the winning goal.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Ella pegó un grito cuando el ladrón intentó robarle la bolsa.",
+      "back": "She let out a scream when the thief tried to steal her handbag.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "Ella soltó que está pensando en dimitir.",
+      "back": "She let out the fact that she was thinking about resigning.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Se le escapó sin darse cuenta que su mujer está embarazada.",
+      "back": "He inadvertently let it out that his wife is pregnant.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "No descubras el pastel al decirle a ella lo de la fiesta sorpresa.",
+      "back": "Don't let the cat out of the bag by telling her about the surprise party.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Tenemos que salir antes, teniendo en cuenta que puede haber retenciones en algunas carreteras.",
+      "back": "We need to leave early to allow time for delays on some roads.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Deberías tener en cuenta la posibilidad de que no vaya a haber nadie allí a esa hora.",
+      "back": "You have to allow for the possibility that there won't be anyone there at that time.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "No te olvides de guardar un poco de dinero para gastos inesperados.",
+      "back": "Don't forget to allow some money for unexpected costs.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "No podemos jugar al tenis con este tiempo; tenemos que esperar a que el viento amaine un poco.",
+      "back": "We can't play tennis in this weather; we have to wait for the wind to let up a little.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "No pidas que disminuya la cantidad de trabajo; tenemos suerte de tener tanto trabajo en la actual situación económica.",
+      "back": "Don't ask for the amount of work to let up; we're lucky to have so much work in the present economic climate.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Nos marcharemos cuando deje de llover tanto.",
+      "back": "We'll leave when the rain lets up.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Él siempre está hablando; no se calla nunca.",
+      "back": "He's always talking; he never lets up!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Sabes que ella no va a parar hasta que cambies de opinión.",
+      "back": "You know she won't let up until you change your mind.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "A pesar de su mala salud él se niega a aflojar el ritmo en el trabajo.",
+      "back": "In spite of his bad health he refuses to let up at work.",
+      "sourcePage": 75
+    }
+  ]
+}
