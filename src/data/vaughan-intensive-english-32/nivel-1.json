@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-32",
+  "bookTitle": "Libro 32",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Espero que haga buen tiempo mañana.",
+      "back": "I hope (that) it's nice tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Espero que haga sol mañana.",
+      "back": "I hope (that) it's a sunny day tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Espero que haga calor y que no llueva mañana.",
+      "back": "I hope (that) it's warm and dry tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Espero que pasado mañana haga buen tiempo.",
+      "back": "I hope it's a nice day the day after tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Espero que pasado mañana haga sol.",
+      "back": "I hope it's a sunny day the day after tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Espero que no llueva pasado mañana.",
+      "back": "I hope it's a dry day the day after tomorrow.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella espera que haga viento para poder salir a navegar.",
+      "back": "She hopes it'll be windy so that she can go sailing.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Esperamos que haga un tiempo perfecto para nuestro viaje de esquí.",
+      "back": "We hope it'll be good weather for our skiing trip.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Espero que haga buen tiempo para nuestra excursión a la playa.",
+      "back": "I hope it'll be nice for our day out at the beach.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Espero que el tiempo mejore cuando lleguéis aquí.",
+      "back": "I hope the weather gets better when you get here.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Espero que podamos salir cuando el tiempo mejore.",
+      "back": "I hope we can go out when the weather gets better.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Espero que podamos dar un paseo cuando mejore el tiempo.",
+      "back": "I hope we can go for a walk when the weather gets better.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "—¿Crees que tendremos unas Navidades blancas? —¡Espero que sí!",
+      "back": "—Do you think we'll have a white Christmas? —I hope so!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "—¿Crees que hará calor este fin de semana? —¡Espero que sí!",
+      "back": "—Do you think it'll be warm this weekend? —I hope so!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "—¿Crees que lloverá este invierno? —¡Espero que sí!",
+      "back": "—Do you think it'll rain this winter? —I hope so!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Espero que no esté lluvioso mañana.",
+      "back": "I hope (that) it's not rainy tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Espero que no esté nublado esta tarde.",
+      "back": "I hope (that) it's not cloudy this afternoon.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Espero que no haya niebla de camino a Ávila.",
+      "back": "I hope (that) it's not foggy on our way to Ávila.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "La madre de Tina espera que no llueva en la fiesta de compromiso de Tina y Lucas.",
+      "back": "Tina's mum hopes it doesn't rain for Tina and Lucas' engagement party.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tina espera que no granice en el día de su boda.",
+      "back": "Tina hopes it doesn't hail on their wedding day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Lucas espera que no nieve durante su luna de miel.",
+      "back": "Lucas hopes it doesn't snow during their honeymoon.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Tina y Lucas esperan que el tiempo no sea demasiado malo en el viaje en coche a Holyhead.",
+      "back": "Tina and Lucas hope the weather won't be too bad for the drive to Holyhead.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Esperan que el tiempo no sea demasiado tempestuoso en la travesía a Dublín.",
+      "back": "They hope the weather won't be too stormy on the crossing to Dublin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Esperan que el tiempo no esté demasiado ventoso para la pesca.",
+      "back": "They hope the weather won't be too windy for fishing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Esperan que el tiempo no empeore.",
+      "back": "They hope the weather doesn't get worse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Esperan que no haga más frío.",
+      "back": "They hope it doesn't get colder.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Esperan que no haya más niebla.",
+      "back": "They hope it doesn't get foggier.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "—¿Crees que el tiempo va a ser tan malo como la semana pasada? —Espero que no.",
+      "back": "—Do you think the weather will be as bad as last week? —I hope not.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "—¿Crees que este verano va a ser tan húmedo como el verano pasado? —Espero que no.",
+      "back": "—Do you think this summer will be as wet as last summer? —I hope not.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "—¿Crees que este invierno va a ser tan frío como el invierno pasado? —¡Realmente espero que no!",
+      "back": "—Do you think this winter will be as cold as last winter? —I really hope not!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "De lunes a viernes Elena espera el autobús 86 en dirección a Oxford St.",
+      "back": "From Monday to Friday Elena waits for the 86 to Oxford St.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Todos los días entre semana Carmen espera el tren en dirección a Victoria Station.",
+      "back": "Every weekday Carmen waits for the train to Victoria Station.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Cuatro días a la semana Elizabeth espera el metro en dirección a Heathrow Airport.",
+      "back": "Four days a week Elizabeth waits for the tube to Heathrow Airport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Todos los días Elena espera el autobús 86 para ir a trabajar.",
+      "back": "Every day Elena waits for the 86 to go to work.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Todos los días Carmen espera el tren para ir de compras.",
+      "back": "Every day Carmen waits for the train to go shopping.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Todos los días Elizabeth espera el metro para ir al aeropuerto.",
+      "back": "Every day Elizabeth waits for the tube to go to the airport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Elena está en el trabajo esperando a que empiece la reunión.",
+      "back": "Elena's at work waiting for the meeting to start.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Carmen está en el centro comercial esperando a que abran las tiendas.",
+      "back": "Carmen's at the shopping center waiting for the shops to open.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Elizabeth está en el aeropuerto esperando a que llegue su avión.",
+      "back": "Elizabeth's at the airport waiting for her plane to arrive.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Todos los días Elena espera a que llegue su jefe.",
+      "back": "Every day Elena waits for her boss to arrive.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Todos los días Carmen espera a que la dependienta le ayude.",
+      "back": "Every day Carmen waits for the shop assistant to help her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Todos los días Elizabeth espera a que los pasajeros se bajen del avión.",
+      "back": "Every day Elizabeth waits for the passengers to get off the plane.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Elena odia esperar al autobús.",
+      "back": "Elena hates waiting for the bus.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Carmen odia esperar a que abran las tiendas.",
+      "back": "Carmen hates waiting for the shops to open.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Elizabeth odia esperar a que los pasajeros se bajen del avión.",
+      "back": "Elizabeth hates waiting for the passengers to get off the airplane.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Hoy Elena no está esperando el 86; está esperando el 77.",
+      "back": "Today Elena isn't waiting for the 86; she's waiting for the 77.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Carmen no está esperando el tren; está esperando un taxi.",
+      "back": "Carmen isn't waiting for the train; she's waiting for a taxi.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Elizabeth no está esperando el metro; está esperando a que alguien la lleve en coche.",
+      "back": "Elizabeth isn't waiting for the tube; she's waiting for a lift.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Elena no está esperando el 80 para ir al trabajo; está esperando el 77 para ir a la peluquería.",
+      "back": "Elena isn't waiting for the 80 to go to work; she's waiting for the 77 to go to the hairdresser's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Carmen no está esperando el tren para ir de compras; está esperando un taxi para ir al médico.",
+      "back": "Carmen isn't waiting for the train to go shopping; she's waiting for a taxi to go to the doctor's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Elizabeth no está esperando el metro para ir al aeropuerto; está esperando a que la lleven en coche al dentista.",
+      "back": "Elizabeth isn't waiting for the tube to go to the airport; she's waiting for a lift to go to the dentist's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Elena espera que no tenga que esperar mucho.",
+      "back": "Elena hopes she won't have to wait (for) long.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Carmen espera que no tenga que esperar mucho tiempo.",
+      "back": "Carmen hopes she won't have to wait (for) a long time.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Elizabeth espera que no tenga que esperar demasiado.",
+      "back": "Elizabeth hopes she won't have to wait (for) too long.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Elena tendrá que esperar cinco minutos.",
+      "back": "Elena will have to wait (for) five minutes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Carmen tendrá que esperar media hora.",
+      "back": "Carmen will have to wait (for) half an hour.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Elizabeth tendrá que esperar una hora y media.",
+      "back": "Elizabeth will have to wait (for) an hour and a half.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Elena todavía está esperando ir a la peluquería.",
+      "back": "Elena's still waiting to go to the hairdresser's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Carmen todavía está esperando ir al médico.",
+      "back": "Carmen's still waiting to go to the doctor's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Elizabeth todavía está esperando ir al dentista.",
+      "back": "Elizabeth's still waiting to go to the dentist's.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Estás esperando una señal?",
+      "back": "Are you waiting for a sign?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Estás esperando al momento adecuado?",
+      "back": "Are you waiting for the right moment?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿A qué estás esperando?",
+      "back": "What are you waiting for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Le están esperando a él o a ella?",
+      "back": "Are they waiting for him or for her?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Está ella esperándonos a nosotros o esperándoles a ellos?",
+      "back": "Is she waiting for us or for them?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿A quién está él esperando?",
+      "back": "Who's he waiting for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Por qué está él esperando ahí fuera, donde hace frío?",
+      "back": "Why's he waiting out in the cold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Por qué está él esperando en el pasillo?",
+      "back": "Why's he waiting in the hallway?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Por qué está él esperando todavía?",
+      "back": "Why's he still waiting?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Cuánto tiempo sueles esperar en un restaurante?",
+      "back": "How long do you normally wait at a restaurant (for)?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Cuánto tiempo sueles esperar en la cola del supermercado?",
+      "back": "How long do you normally wait in line at the supermarket (for)?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Cuánto tiempo sueles esperar en el banco?",
+      "back": "How long do you normally wait at the bank (for)?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Puedes esperar un minuto?",
+      "back": "Can you wait a minute?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Puedes esperar un segundo?",
+      "back": "Can you wait a sec?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Puedes esperar un momento?",
+      "back": "Can you wait a moment?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "El maître está esperando muchas llamadas.",
+      "back": "The headwaiter's expecting a lot of calls.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "El camarero está esperando muchas propinas.",
+      "back": "The waiter's expecting a lot of tips.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "El cocinero está esperando muchos pedidos.",
+      "back": "The chef's expecting a lot of orders.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Está esperando el maître muchas llamadas o muchas propinas?",
+      "back": "Is the headwaiter expecting a lot of calls or a lot of tips?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Quién está esperando muchos pedidos?",
+      "back": "Who's expecting a lot of orders?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Están el maître y el camarero esperando muchas propinas?",
+      "back": "Are the headwaiter and the waiter expecting a lot of tips?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Jane espera mucho de su equipo.",
+      "back": "Jane expects a lot from her team.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Jane espera mucho de sí misma.",
+      "back": "She expects a lot from herself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Jane espera mucho de su familia.",
+      "back": "She expects a lot from her family.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Crees que los padres esperan demasiado de sus hijos?",
+      "back": "Do you think parents expect too much from their children?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Crees que algunos profesores esperan demasiado de sus alumnos?",
+      "back": "Do you think some teachers expect too much from their students?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Crees que tu jefe espera demasiado de ti?",
+      "back": "Do you think your boss expects too much from you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Este fin de semana estamos esperando mucha lluvia.",
+      "back": "We're expecting a lot of rain this weekend.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "No están esperando un verano caluroso.",
+      "back": "They're not expecting a hot summer.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Tampoco están esperando una Navidad blanca.",
+      "back": "They're not expecting a white Christmas either.",
+      "sourcePage": 13
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-32",
+  "bookTitle": "Libro 32",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Espero verle pronto.",
+      "back": "I hope to see him soon.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Espero saber de él pronto.",
+      "back": "I hope to hear from him soon.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Espero tener noticias suyas pronto.",
+      "back": "I hope to have news from him soon.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "¿Esperas conocer a una chica maja esta noche?",
+      "back": "Are you hoping to meet a nice girl tonight?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "¿Esperas llegar a conocerla bien?",
+      "back": "Are you hoping to get to know her well?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "¿Esperas quedar con ella luego?",
+      "back": "Are you hoping to meet up with her later?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Él espera despertarse a las 7 de la mañana.",
+      "back": "He hopes to wake up at 7am.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Él espera levantarse a las 7 de la mañana.",
+      "back": "He hopes to get up at 7am.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Él espera estar en pie a las 7 de la mañana.",
+      "back": "He hopes to be on his feet at 7am.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Esperaba ser una estrella del cine a estas alturas.",
+      "back": "I'd hoped to be a big movie star by now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Esperaba estar aquí antes de que llegaras.",
+      "back": "I'd hoped to be here before you arrived.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Esperaba estar en el restaurante a las 8 de la tarde.",
+      "back": "I'd hoped to be at the restaurant at 8pm.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Espero no cometer el mismo error dos veces.",
+      "back": "I hope not to make the same mistake twice.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Espero no tener que decírtelo de nuevo.",
+      "back": "I hope not to have to tell you again.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Espero no volver a tener noticias suyas.",
+      "back": "I hope not to hear from them again.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Carmen me dijo que estabas resfriada. ¡Espero que te recuperes pronto!",
+      "back": "Carmen told me you had a cold. I hope you get better soon!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Anna me dijo que tenías la gripe. ¡Espero que te recuperes pronto!",
+      "back": "Anna told me you had the flu. I hope you get better soon!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Annie me dijo que tenías la varicela. ¡Espero que te recuperes pronto!",
+      "back": "Annie told me you had chickenpox. I hope you get better soon!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Espero que todo salga bien en tu reunión de esta tarde.",
+      "back": "I hope everything goes well in your meeting this afternoon.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Espero que todo salga bien en tu viaje de negocios la semana que viene.",
+      "back": "I hope everything goes well on your business trip next week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Espero que todo salga bien en la feria de comercio este fin de semana.",
+      "back": "I hope everything goes well in the trade fair this weekend.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Oí la noticia. ¡Espero que esté todo bien!",
+      "back": "I heard the news. I hope everything is ok!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Me dijeron que ibas a cogerte unos días libres. ¡Espero que esté todo bien!",
+      "back": "I heard that you were taking some time off work. I hope everything is ok!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Me dijeron que no te encontrabas bien. ¡Espero que esté todo bien!",
+      "back": "I heard you weren't feeling very good. I hope everything is ok!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Espero que todo vaya bien por ahí. Todo va bien aquí.",
+      "back": "I hope everything is ok at your end. Everything here is going well.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Espero que todo vaya bien por ahí. Las cosas aquí se están volviendo una locura.",
+      "back": "I hope everything is ok at your end. Things here are getting crazy.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Espero que todo vaya bien por ahí. Aquí todo es un caos.",
+      "back": "I hope everything is ok at your end. Everything here is chaos.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Sé que llevas un tiempo preparando la reunión, así que espero que todo salga bien.",
+      "back": "I know you've been preparing for the meeting for a while, so I hope everything turns out well!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Sé que Laura lleva un tiempo preparando el viaje de negocios, así que espero que todo le salga bien.",
+      "back": "I know Laura's been preparing for the business trip for a while, so I hope everything turns out well for her!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Sé que David y Paul llevan un tiempo preparando la feria de comercio, así que espero que todo les salga bien.",
+      "back": "I know David and Paul have been preparing for the trade fair for a while, so I hope everything turns out well for them!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Cuánto esperaste?",
+      "back": "How long did you wait?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Cuánto esperaron a James?",
+      "back": "How long did they wait for James?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Cuánto esperó ella para que empezara la obra de teatro?",
+      "back": "How long did she wait for the play to start?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Esperaste al autobús o al tren?",
+      "back": "Did you wait for the bus or for the train?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Esperó ella a Paul o a Steven?",
+      "back": "Did she wait for Paul or for Steven?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Esperaste a que empezara el programa de televisión o a que terminara?",
+      "back": "Did you wait for the TV show to start or for it to finish?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Esperé veinte minutos a que él consiguiera una mesa.",
+      "back": "I waited twenty minutes for him to get a table.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Ella esperó dos semanas para tener una oportunidad para verle.",
+      "back": "She waited two weeks for a chance to see him.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Ellos esperaron haciendo cola cinco horas para conseguir entradas para el concierto!",
+      "back": "They waited in line five hours for tickets to the concert!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Esperé veinte minutos para conseguir una mesa.",
+      "back": "I waited twenty minutes to get a table.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella esperó dos semanas para verle.",
+      "back": "She waited two weeks to see him.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¡Ellos esperaron cinco horas haciendo cola para conseguir entradas para el concierto!",
+      "back": "They waited five hours in line to get tickets to the concert!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Esperé para ver a James, pero no esperé a Teresa.",
+      "back": "I waited to see James, but I didn't wait for Teresa.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "No esperamos mucho antes de irnos.",
+      "back": "We didn't wait long before we left.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Esperaron a que terminara el concierto, pero no esperaron para oír el bis.",
+      "back": "They waited for the concert to finish, but they didn't wait to hear the encore.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Cuánto tiempo llevas esperando?",
+      "back": "How long have you been waiting?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Cuánto tiempo llevas esperando el paquete?",
+      "back": "How long have you been waiting for the parcel?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Cuánto tiempo llevas esperando a que se vuelvan a poner en contacto contigo?",
+      "back": "How long have you been waiting for them to get back to you?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Llevo esperando este momento desde que era niño.",
+      "back": "I've been waiting for this moment since I was a child.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Llevan esperando este momento desde que les hablé de ti.",
+      "back": "They've been waiting for this moment since I told them about you.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Ella lleva esperándote desde el año pasado.",
+      "back": "She's been waiting for you since last year.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Llevo mucho tiempo esperando.",
+      "back": "I've been waiting for a long time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella lleva años esperando.",
+      "back": "She's been waiting for years.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Llevamos esperando un rato ya.",
+      "back": "We've been waiting for a while now.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "No llevo esperando mucho tiempo.",
+      "back": "I haven't been waiting for long.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Llevas mucho esperando?",
+      "back": "Have you been waiting long?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "¡Venga ya! ¡No llevas esperando tanto tiempo!",
+      "back": "Come on now! You haven't been waiting that long!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Espero que no lleves mucho tiempo esperando.",
+      "back": "I hope you haven't been waiting for long.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Espero que no hayamos estado esperando para nada.",
+      "back": "I hope we haven't been waiting for nothing.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Espero no haber estado esperando en la puerta de embarque incorrecta.",
+      "back": "I hope I haven't been waiting at the wrong gate.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Calculas que llegarás a la fiesta de lanzamiento antes de que se acabe?",
+      "back": "Are you expecting to make it to the launch party before it's over?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Espero poder llegar antes de que se acabe, pero no espero llegar para el comienzo.",
+      "back": "I'm hoping I can make it before it ends, but I'm not expecting to make it for kickoff.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "De todas formas, calculo que llegaré antes de que acabes tú.",
+      "back": "Anyway, I expect to make it before you finish.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Cuándo esperan ustedes estar en marcha?",
+      "back": "When do you expect to be up and running?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Esperamos estar operativos para mayo, siempre que todo vaya según el plan.",
+      "back": "We expect to be up and running by May, provided that everything goes as planned.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Esperaban estar operativos para mayo y, como todo fue según el plan, ¡lo consiguieron!",
+      "back": "They were expecting to be up and running by May and since everything went as planned, they made it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Ronald no espera conseguir el ascenso, pero habrá que esperar a ver.",
+      "back": "Ronald doesn't expect to get the promotion, but we'll just have to wait and see.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Randolph espera conseguir el trabajo, pero habrá que esperar a ver.",
+      "back": "Randolph expects to get the job, but we'll have to wait and see.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Rudolph espera sacarse el carnet de conducir, pero habrá que esperar a ver.",
+      "back": "Rudolph expects to get his driving license, but we'll have to wait and see.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "El profesor espera acabar de corregir todos los exámenes esta semana.",
+      "back": "The teacher expects to finish correcting all the exams this week.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Rick espera acabar de ordenar su mesa de trabajo en un par de días.",
+      "back": "Rick expects to finish tidying up his desk in a couple of days.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Mi amiga espera acabar de leer tu libro pronto.",
+      "back": "My friend expects to finish reading your book soon.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "No me gusta presumir, pero esperaba ganar desde el principio.",
+      "back": "I don't like to boast, but I expected to win from the start.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "No me gusta presumir, pero esperaba ser elegido para el puesto de trabajo.",
+      "back": "I don't like to boast, but I expected to be chosen for the job.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "No me gusta presumir, pero esperaba sacarme el carnet de conducir en el primer intento.",
+      "back": "I don't like to boast, but I expected to get my driver's license on my first attempt.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Estoy esperando que ella llame de un momento a otro.",
+      "back": "I'm expecting her to call any minute now.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Tengo que irme. Lucía me espera de un momento a otro.",
+      "back": "I've got to go. Lucia's expecting me any minute.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Llegan tarde, pero espero que aparezcan de un momento a otro.",
+      "back": "They're late, but I'm expecting them to turn up any minute now.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "¿De verdad esperas que cocine y que lave los platos?",
+      "back": "Do you really expect me to do the cooking and the washing up?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "¿De verdad esperas que lo planche todo?",
+      "back": "Do you really expect me to do all the ironing?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "¿De verdad esperas que haga la compra yo solo?",
+      "back": "Do you really expect me to do the shopping on my own?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "No esperarás que cocine y lave los platos, ¿verdad?",
+      "back": "You don't expect me to do the cooking and the washing up, do you?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "No esperarás que lo planche todo, ¿verdad?",
+      "back": "You don't expect me to do all the ironing, do you?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "No esperarás que haga la compra yo solo, ¿verdad?",
+      "back": "You don't expect me to do the shopping on my own, do you?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Ella esperaba que él ayudara más en casa.",
+      "back": "She expected him to be more helpful around the house.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Ella también esperaba que él cocinara mejor.",
+      "back": "She also expected him to be a better cook.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Él esperaba que ella fuera más organizada.",
+      "back": "He expected her to be tidier.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Fuimos a ver esa comedia nueva. Esperábamos que fuera divertidísima, pero es muy aburrida.",
+      "back": "We went to see that new comedy. We expected it to be hilarious, but it is really dull!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Has leído su nuevo libro? Esperaba que fuera realmente atroz, ¡pero es fenomenal!",
+      "back": "Have you read his new book? I expected it to be absolutely dreadful, but it is brilliant!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Acaban de comprar su nuevo álbum. Esperaban que fuera estupendo, pero dijeron que es malísimo.",
+      "back": "They've just bought his album. They expected it to be fantastic, but they said it is awful.",
+      "sourcePage": 27
+    }
+  ]
+}
