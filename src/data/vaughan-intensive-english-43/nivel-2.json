@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-43",
+  "bookTitle": "Libro 43",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Coge un taxi al centro de la ciudad. Desde allí puedes coger el autobús.",
+      "back": "Catch a taxi to the city centre, from there you can catch the bus.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Coge el autobús número 89 y baja en la parada que hay al lado de la estación de tren.",
+      "back": "Catch the number 89 bus and get off at the stop next to the train station.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Luego coge el tren a las 14.20 horas del andén 4 y baja en la tercera parada.",
+      "back": "Then catch the 14.20 train from platform 4 and get off at the third stop.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "No cojas un taxi si llevas equipaje adicional; te cobrarán más.",
+      "back": "Don't catch a cab if you have extra luggage with you; they'll charge you extra.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "No cojas el autobús, el tren es mucho más rápido.",
+      "back": "Don't catch the bus, the train is much quicker.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "No cojas el tren que sale a las 14.00 horas, ése es el lento. El que sale a las 14.30 h. es mucho más rápido.",
+      "back": "Don't catch the 14.00 train, that's the slow one. The 14.30 one is much quicker.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Asegúrate de que coges el tren que sale por la mañana. ¡No querrás llegar tarde!",
+      "back": "Make sure you catch the morning train; you don't want to be late!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Asegúrate de que coges un taxi antes de medianoche; si no, podrían cobrarte más.",
+      "back": "Make sure you catch a cab before midnight; if not, they could charge you more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Asegúrate de que coges el autobús correcto; si no llegas a la hora, no te esperaremos.",
+      "back": "Make sure you catch the right bus; if you're not there on time, we won't wait for you.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "No te olvides de ver la nueva serie que se estrena en el canal 2 el martes.",
+      "back": "Don't forget to catch the new series that's starting on channel 2 this Tuesday.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "No te olvides de ver el nuevo capítulo de esta noche; dicen que va a ser un clásico.",
+      "back": "Don't forget to catch the new episode tonight; they say it's going to be a classic.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "No te olvides de ver las noticias esta noche, van a anunciar los resultados de las elecciones.",
+      "back": "Don't forget to catch the news tonight; they're going to announce the election results.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Intenta no equivocarte de autobús; si no llegas puntual, no te esperaremos.",
+      "back": "Try not to catch the wrong bus; if you're not there on time, we won't wait for you.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Intenta no coger un taxi durante las horas punta; tardarás mucho más que si vas en tren.",
+      "back": "Try not to catch a cab during rush hour; it will take you much longer than the train.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Intenta no coger el tren lento; necesitamos que estés allí lo antes posible.",
+      "back": "Try not to catch the slow train; we need you to be there as soon as possible.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¡Pobrecito! ¿Te pillaste el dedo con la puerta? Mira, toma una tirita.",
+      "back": "You poor thing! Did you catch your finger in the door? Here, take a plaster.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¡Ay! ¡Me acabo de pillar el dedo con la puerta! ¿Tienes una tirita?",
+      "back": "Ow! I've just caught my finger in the door! Do you have a plaster?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Mi hermano se pilló el dedo con una puerta el año pasado, pero no con la puerta principal. Se lo pilló con la puerta del coche. ¡Pobrecito!",
+      "back": "My brother caught his finger in a door last year, but he didn't catch it in the front door. He caught it in the car door. Poor thing!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Tienes un agujero enorme en la camiseta. ¿Te la has enganchado con un clavo?",
+      "back": "You have a massive hole in your t-shirt. Did you catch it on a nail?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Tengo un agujero en la camiseta porque me la enganché con ese clavo.",
+      "back": "I have a hole in my t-shirt because I caught it on that nail.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Tengo un agujero en la camiseta, pero no me la enganché con un clavo.",
+      "back": "I have a hole in my t-shirt but I didn't catch it on a nail.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Siento llegar tarde. Estaba atrapado en un atasco horrible.",
+      "back": "I'm sorry for being late. I was caught in a horrible traffic jam.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Di la verdad. Sé que no estabas atrapado en un atasco. Elsa te vio con Javier.",
+      "back": "Tell the truth. I know that you weren't caught in a traffic jam. Elsa saw you with Javier.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Llegas muy tarde. ¿Estabas atrapada en un atasco?",
+      "back": "You're very late. Were you caught in a traffic jam?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Cómo atrapan las arañas a las moscas?",
+      "back": "How do spiders catch flies?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Las arañas atrapan las moscas tejiendo una telaraña y esperando a que entren en ella volando.",
+      "back": "Spiders catch flies by weaving a web and waiting for them to fly into it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Las arañas atrapan las moscas primero o tejen su telaraña primero?",
+      "back": "Do spiders catch flies first, or weave their web first?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¡No puedo creer que la bufanda se me quedara atrapada en la puerta! ¡Está hecha de lana auténtica y se ha estropeado!",
+      "back": "I can't believe my scarf got caught in the lift door! It's made of real wool and it's ruined!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Se te quedó atrapada la bufanda en la puerta del ascensor?",
+      "back": "Did your scarf get caught in the lift door?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "La bufanda no se me quedó atrapada en la puerta del ascensor; se me quedó atrapada en la puerta del coche.",
+      "back": "My scarf didn't get caught in the lift door; it got caught in the car door.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "He cogido un resfriado dos veces este mes.",
+      "back": "I've caught a cold twice this month.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "El gato de Pedro ha cogido tres ratones esta semana.",
+      "back": "Pedro's cat's caught three mice this week.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Hemos cogido varias enfermedades tropicales raras desde que nos mudamos aquí hace dos años.",
+      "back": "We've caught several strange tropical diseases since we moved here two years ago.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Nunca he cogido un resfriado en las montañas.",
+      "back": "I've never caught a cold in the mountains.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella nunca ha cogido más de tres taxis en toda su vida.",
+      "back": "She's never caught more than three taxis in her entire life.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Nosotros nunca hemos atrapado a un oso pardo en las montañas. ¡Son demasiado grandes!",
+      "back": "We've never caught a grizzly bear in the mountains. They're too big!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Cuántas veces te has pillado el dedo con una puerta en lo que va de semana?",
+      "back": "How many times have you caught your finger in a door so far this week?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Cuántas veces tu abogado se ha pillado el dedo con la puerta de su coche en lo que va de semana?",
+      "back": "How many times has your lawyer caught his finger in his car door so far this week?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Cuántas veces tu jefa se ha pillado el dedo con la puerta de un tren en lo que va de semana?",
+      "back": "How many times has your boss caught her finger in the door of a train so far this week?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "He estado atrapado en un atasco de tráfico un millón de veces.",
+      "back": "I've been caught in a traffic jam a million times.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella ha estado atrapada en un atasco de tráfico desde hace dos horas.",
+      "back": "She's been caught in a traffic jam for the last two hours.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "No te preocupes; él ha estado atrapado en atascos de tráfico en Londres antes. ¡Aquí es parte de la vida diaria!",
+      "back": "Don't worry; he's been caught in traffic jams in London before. It's part of everyday life here!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Has cogido ya algún pez con tu caña nueva?",
+      "back": "Have you caught any fish with your new rod yet?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "No, todavía no he cogido ningún pez con mi caña nueva.",
+      "back": "No, I haven't caught any fish with my new rod yet.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Por qué no has cogido ningún pez con tu caña nueva todavía?",
+      "back": "Why haven't you caught any fish with your new rod yet?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Se me ha caído el boli y no lo alcanzo. ¿Podrías cogérmelo, por favor?",
+      "back": "I dropped the pen and can't reach it. Could you pick it up for me please?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Se te acaba de caer el pañuelo de papel? ¡Cógelo ahora mismo!",
+      "back": "You just dropped the tissue? Pick it up right now!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¡Puaj! Acaba de coger el tenedor del suelo y ahora sigue comiendo.",
+      "back": "Yuk! He just picked up the fork from the floor and has carried on eating with it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Ella cogió el teléfono y dijo: «Hola, soy Mary».",
+      "back": "She picked up the phone and said: \"Hello, this is Mary\".",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Por favor, ¡que alguien coja el teléfono!",
+      "back": "Can somebody pick up the phone please!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Lo intenté varias veces, pero nadie coge el teléfono.",
+      "back": "I tried several times but nobody's answering the phone.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Coge la segunda a la izquierda y sigue recto hasta que veas un cine.",
+      "back": "Take the second street on the left and keep going straight until you see a cinema.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Después gira a la izquierda y coge la primera a la derecha.",
+      "back": "Then turn left and take the first on the right.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Ve recto, coge la tercera a la izquierda y ya estás en la calle principal.",
+      "back": "Go straight, take the third street on the left and you're on the main street.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Quiero encender mi cigarrillo. ¿Me puedes sujetar el libro un momento?",
+      "back": "I want to light my cigarette. Can you hold my book for a moment?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Él estaba sujetando el libro y ella estaba sujetando el cigarrillo.",
+      "back": "He was holding the book and she was holding the cigarette.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Su novio le estaba sujetando el monedero mientras ella se ponía el abrigo.",
+      "back": "Her boyfriend held her purse while she was putting on her coat.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "La joven pareja iba cogida de la mano y parecía muy enamorada.",
+      "back": "The young couple was holding hands and seemed very much in love.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "La famosa pareja no se cogía de la mano en público al principio.",
+      "back": "The famous couple didn't hold hands in public at the beginning.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Cuando éramos pequeños, éramos mejores amigos y nos cogíamos de la mano a menudo.",
+      "back": "When we were little, we were best friends and often held hands.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Te pusiste al día con el trabajo?",
+      "back": "Did you catch up on your work?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "No, nunca voy a ponerme al día con el trabajo.",
+      "back": "No, I'll never catch up on my work.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "¡Siempre tengo que ponerme al día con el trabajo de la semana pasada!",
+      "back": "I always have to catch up on last week's work!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Tengo que ponerme al corriente de las noticias de Nueva York.",
+      "back": "I need to catch up on the news from New York.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Si no te pones al corriente de las noticias, nunca vas a entender la política.",
+      "back": "If you don't catch up on the news, you'll never understand politics.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Te has puesto al corriente de lo que está pasando en la Eurocopa?",
+      "back": "Have you caught up on what's happening in the Euro Cup?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Nos pondremos al corriente el fin de semana.",
+      "back": "I'll catch up with you over the weekend.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Vale, nos ponemos al corriente el fin de semana.",
+      "back": "Ok, let's catch up with each other over the weekend.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Ellos se pusieron al corriente el fin de semana.",
+      "back": "They caught up with each other over the weekend.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Nunca va a alcanzar al corredor de delante.",
+      "back": "He'll never catch up with the runner in front.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "El corredor de delante es demasiado rápido como para alcanzarlo.",
+      "back": "The runner in front is too fast to catch up with.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¡Espera! ¡Creo que ha alcanzado al corredor de delante!",
+      "back": "Wait! I think he's caught up with the runner in front!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¿La economía de China va a ponerse al nivel de la de EE.UU.?",
+      "back": "Will China's economy ever catch up with the United States?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "El fútbol inglés todavía no se ha puesto al nivel del fútbol español.",
+      "back": "English football hasn't caught up with Spanish football yet.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Ningún ordenador se va a poner al nivel de Apple.",
+      "back": "No computer will ever catch up with Apple.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Quieres que te la tire? Aquí la tienes... ¡hala, qué bien la has cogido!",
+      "back": "Do you want me to throw it to you? Here you go... wow, great catch!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Me puedes tirar la botella de agua? Claro que sí, ¡aquí la tienes! ¡Buena recepción!",
+      "back": "Can you throw me my water bottle? Of course, here you go! Great catch!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "La pelota está volando... Ben Merrett corre y... ¡la ha cogido! ¡Qué buena recepción!",
+      "back": "The ball is flying... Ben Merrett is running and... he caught it! What a great catch!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "¡Susan es un buen partido! Pertenece a una familia acomodada y es súper encantadora.",
+      "back": "Susan's a catch! She's from a wealthy family and incredibly charming.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Él no era exactamente un buen partido. Bebía y no tenía un trabajo estable.",
+      "back": "He wasn't exactly a good catch. He drank and didn't have a steady job.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Es rico, atractivo, inteligente y encantador. Eso es lo que yo llamo un buen partido.",
+      "back": "He's wealthy, handsome, smart and charming. That's what I call a good catch.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Quieres que trabaje menos por más dinero? ¿Dónde está la trampa?",
+      "back": "You want me to work less for more money? What's the catch?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Esto es demasiado bueno para ser verdad. Tiene que haber un truco.",
+      "back": "This is too good to be true. There must be a catch.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Hay una pega: tienes que estar disponible las 24 horas los 7 días de la semana.",
+      "back": "There's a catch: you have to be available 24/7.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "La mayoría de los humoristas tienen una frase característica.",
+      "back": "Most comedians have a catch phrase.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "La mayoría de los niños sabe que la frase típica de Bugs Bunny es: «¿Qué hay de nuevo, viejo?».",
+      "back": "Most children know that Bugs Bunny's catch phrase is: \"What's up, doc?\".",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "La mayoría de la gente sabe que «Hasta la vista, baby» era la frase típica de Terminator.",
+      "back": "Most people know that \"Hasta la vista, baby\" was the Terminator's catch phrase.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "El inconveniente era que no se trataba de un trabajo estable.",
+      "back": "The catch was that it wasn't a steady job.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Él le tiró la pelota a Ben Merrett desde una distancia muy larga. ¡Qué bien la cogió!",
+      "back": "He threw Ben Merrett the ball from a long distance; what a great catch!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "La mayoría de la gente pensaba que su nueva mujer era un buen partido. Era una mujer encantadora y su familia era muy acomodada.",
+      "back": "Most people thought his new wife was a real catch - she was a charming woman and her family was very wealthy.",
+      "sourcePage": 27
+    }
+  ]
+}
