@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-36",
+  "bookTitle": "Libro 36",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿A qué te dedicas? ¿Cómo te ganas la vida?",
+      "back": "What do you do? What do you do for a living?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿A qué se dedica ella? ¿Cómo se gana la vida?",
+      "back": "What does she do? What does she do for a living?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿A qué se dedica él? ¿Cómo se gana la vida?",
+      "back": "What does he do? What does he do for a living?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Soy director.",
+      "back": "I work as a manager.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Soy profesor.",
+      "back": "I work as a teacher.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Soy abogado.",
+      "back": "I work as a lawyer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Él es arquitecto.",
+      "back": "He works as an architect.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella es contable.",
+      "back": "She works as an accountant.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Él es ingeniero.",
+      "back": "He works as an engineer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Trabaja en un banco como director.",
+      "back": "He works in a bank as a manager.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Trabaja en una academia como profesor.",
+      "back": "He works in an academy as a teacher.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Trabaja en Mocrosoft como ingeniero.",
+      "back": "He works at Mocrosoft as an engineer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Él trabajó de arquitecto el año pasado.",
+      "back": "He worked as an architect last year.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Él trabajó de abogado el año pasado.",
+      "back": "He worked as a lawyer last year.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Él trabajó de director el año pasado.",
+      "back": "He worked as a manager last year.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Trabajo a tiempo completo.",
+      "back": "I work full-time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Trabajan a tiempo parcial.",
+      "back": "They work part-time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Ella trabaja a tiempo parcial de directora en un banco.",
+      "back": "She works part-time as a manager in a bank.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Trabajo tres días a la semana.",
+      "back": "I work three days a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Ella trabaja dos días a la semana. Trabaja a tiempo parcial.",
+      "back": "She works two days a week. She works part-time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Él trabaja de profesor cuatro días a la semana.",
+      "back": "He works as a teacher four days a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Trabajo 25 horas a la semana.",
+      "back": "I work 25 hours a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Trabajo a tiempo completo. Trabajo 40 horas a la semana.",
+      "back": "I work full-time. I work 40 hours a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Trabajo a tiempo parcial. Trabajo 20 horas a la semana.",
+      "back": "I work part-time. I work 20 hours a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Trabajo de nueve a cinco.",
+      "back": "I work from nine to five.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Trabajo de ocho a cuatro y media.",
+      "back": "I work from eight to four-thirty.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Trabajo a tiempo parcial, de doce a ocho, tres días por semana.",
+      "back": "I work part-time, from twelve to eight, three days a week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Suelo ir al trabajo en metro, pero a veces voy al trabajo en tren.",
+      "back": "I usually go to work by metro, but sometimes I go to work by train.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Nunca voy al trabajo en autobús. Siempre voy andando.",
+      "back": "I never go to work by bus. I always walk to work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No voy al trabajo en coche todos los días. A veces voy al trabajo en metro.",
+      "back": "I don't drive to work every day. I sometimes go to work by metro.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿En qué estás trabajando en este momento?",
+      "back": "What are you working on at the moment?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿En qué estás trabajando ahora mismo?",
+      "back": "What are you working on right now?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿En qué estás trabajando hoy?",
+      "back": "What are you working on today?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Estoy trabajando en este correo electrónico para Mark.",
+      "back": "I'm working on this email for Mark.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Estoy trabajando en las cifras de ventas.",
+      "back": "I'm working on the sales figures.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Estoy trabajando en la página web.",
+      "back": "I'm working on the webpage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "No puedo trabajar en eso ahora mismo. Estoy trabajando en este correo electrónico para Mark.",
+      "back": "I can't work on that right now. I'm working on this email for Mark.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "No puedo trabajar en eso ahora mismo. Estoy trabajando en las cifras de ventas.",
+      "back": "I can't work on that right now. I'm working on the sales figures.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "No puedo trabajar en eso ahora mismo. Estoy trabajando en la página web.",
+      "back": "I can't work on that right now. I'm working on the webpage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Natasha trabaja los sábados.",
+      "back": "Natasha works on Saturdays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Marta trabaja los martes y viernes.",
+      "back": "Marta works on Tuesdays and Fridays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Keelin sólo trabaja los miércoles y los jueves.",
+      "back": "Keelin only works on Wednesdays and Thursdays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Natasha trabaja entre semana de nueve a seis.",
+      "back": "Natasha works on weekdays from 9 to 6.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Marta trabaja los martes y los viernes de diez a ocho.",
+      "back": "Marta works on Tuesdays and Fridays from 10 to 8.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Keelin sólo trabaja los sábados y los jueves de cuatro a ocho.",
+      "back": "Keelin only works on Saturdays and Thursdays from 4 to 8.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Trabajan para una organización sin ánimo de lucro.",
+      "back": "They work for a non-profit organization.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Él trabaja para una empresa grande.",
+      "back": "He works for a large company.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Ella trabaja para una empresa mediana.",
+      "back": "She works for a medium-sized company.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Michael trabaja para su padre.",
+      "back": "Michael works for his father.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Mary trabaja para su tío.",
+      "back": "Mary works for her uncle.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Trabajo para Arturo Gutiérrez.",
+      "back": "I work for Arturo Gutiérrez.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Dependo de Silvia; menos mal que es una jefa tan buena.",
+      "back": "I'm under Silvia; it's a good thing that she's such a good boss.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Gregory depende de mí; menos mal que es muy colaborativo.",
+      "back": "Gregory is under me; it's a good thing that he's very cooperative.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Tracey depende de Jake pero no aguanta su carácter de mandón.",
+      "back": "Tracey is under Jake but she can't stand his bossy character.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Se te pueden abrir muchas puertas nuevas cuando estás en paro.",
+      "back": "Lots of new doors can open for you when you're unemployed.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Mucha gente estudia inglés a jornada completa cuando está en paro.",
+      "back": "A lot of people study English full-time when they're unemployed.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Tengo que mantenerme ocupado ahora que estoy en paro.",
+      "back": "I need to keep myself busy now that I'm unemployed.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Muchos psicólogos son autónomos hoy en día.",
+      "back": "A lot of psychologists are self-employed nowadays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Muchos consultores son autónomos hoy en día.",
+      "back": "A lot of consultants are self-employed nowadays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Muchos traductores son autónomos hoy en día.",
+      "back": "A lot of translators are self-employed nowadays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Ella cobra a principios de mes.",
+      "back": "She gets paid at the beginning of the month.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Cobran el día cuatro de cada mes.",
+      "back": "They get paid on the 4th of every month.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Cobro a finales de mes.",
+      "back": "I get paid at the end of the month.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Si trabajo más horas, cobraré más.",
+      "back": "If I work more hours, I will get paid more.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Ella cobrará tarde si no entrega su hoja de asistencia esta tarde.",
+      "back": "She will get paid late if she doesn't submit her attendance sheet this afternoon.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Cobraremos si la empresa quiebra?",
+      "back": "Will we get paid if the company goes bankrupt?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Espero cobrar puntualmente.",
+      "back": "I hope I get paid on time.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Cobraremos puntualmente?",
+      "back": "Will we get paid on time?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Cobraremos con antelación este mes porque el día cinco cayó en sábado.",
+      "back": "We will get paid early this month because the 5th is a Saturday.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Siempre cobran a principios de mes, pero este mes cobrarán a finales.",
+      "back": "They always get paid at the beginning of the month, but this month they'll get paid at the end.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Por qué a veces cobramos el día cuatro del mes y otras el día siete?",
+      "back": "Why do we sometimes get paid on the 4th of the month and sometimes on the 7th?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Él nunca cobra puntualmente.",
+      "back": "He never gets paid on time.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Si no cobro antes del lunes que viene, no podré pagar el alquiler.",
+      "back": "If I don't get paid by next Monday, I won't be able to pay the rent.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Siempre cobro el día tres como muy tarde.",
+      "back": "I always get paid by the 3rd.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Los empleados tienen que cobrar antes de mañana.",
+      "back": "The employees have to get paid by tomorrow.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Mi ordenador no funciona!",
+      "back": "My computer doesn't work!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Mi teclado no funciona!",
+      "back": "My keyboard doesn't work!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Mi teléfono no funciona!",
+      "back": "My phone doesn't work!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Funciona tu ordenador ya?",
+      "back": "Does your computer work now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Funciona tu teclado ya?",
+      "back": "Does your keyboard work now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Funciona tu teléfono ya?",
+      "back": "Does your phone work now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Por qué no funciona el ordenador? Porque no se enciende.",
+      "back": "Why doesn't it work? Because it doesn't switch on.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Por qué no funciona el teclado? Porque no escribe.",
+      "back": "Why doesn't it work? Because it doesn't type.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Por qué no funciona el teléfono? Porque no suena.",
+      "back": "Why doesn't it work? Because it doesn't ring.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "La conexión de internet no funciona muy bien hoy.",
+      "back": "The internet connection isn't working very well today.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "La impresora no funciona y necesito imprimir una cosa.",
+      "back": "The printer isn't working and I need to print something.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "La fotocopiadora no funciona y quiero hacer una fotocopia del contrato.",
+      "back": "The photocopier isn't working and I want to photocopy the contract.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "La conexión de internet ya funciona bien.",
+      "back": "The internet connection is working fine now.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "La impresora ya funciona.",
+      "back": "The printer is working now.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "La fotocopiadora ya funciona.",
+      "back": "The photocopier is working now.",
+      "sourcePage": 13
+    }
+  ]
+}

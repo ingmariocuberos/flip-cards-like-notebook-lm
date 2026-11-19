@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-36",
+  "bookTitle": "Libro 36",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Veo en su currículo que trabajó en IBN hasta el año pasado. ¿Dónde trabajaste antes de eso?",
+      "back": "I can see from your resume that you worked at IBN until last year. Where did you work before that?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Dice en tu currículo que te uniste a Maximus Dutis después de terminar la universidad. ¿Cuándo empezaste a trabajar allí?",
+      "back": "It says on your resume that you joined Maximus Dutis after university. When did you start working there?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Entiendo por su solicitud que dejó su trabajo en Cosca&Co de forma repentina. ¿Por qué dejó de trabajar allí?",
+      "back": "I can tell from your application that you left your job at Cosca&Co abruptly. Why did you quit working there?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Quería que fuera un trabajo a corto plazo pero terminé trabajando allí desde 1990 hasta 1998.",
+      "back": "I wanted it to be a short-term job but in the end I worked there from 1990 to 1998.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Trabajé en finanzas hace dos años, pero no tenía tiempo para mi familia.",
+      "back": "I worked in finance two years ago, but I didn't have time for my family.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Como asistente personal del director, trabajé hombro con hombro con algunas de las personas más brillantes de la compañía.",
+      "back": "As personal assistant to the CEO, I worked shoulder to shoulder with some of the brightest people in the company.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Trabajé de recadero antes de trabajar de corresponsal científico.",
+      "back": "I worked as a messenger before I worked as a science writer.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Trabajé de actor antes de trabajar de reportero en vivo.",
+      "back": "I worked as an actor before I worked as an on-air reporter.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Trabajé de decorador de interiores antes de trabajar de diseñador.",
+      "back": "I worked as an interior designer before I worked as a designer.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Antes trabajaba por libre, pero últimamente he estado trabajando para una empresa multinacional.",
+      "back": "I used to work for myself but lately I've been working for a multinational company.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Antes trabajaba de contable, pero últimamente he estado trabajando de diseñador.",
+      "back": "I used to work as an accountant but recently I've been working as a designer.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Antes trabajaba de enfermera, pero en las últimas semanas he estado trabajando de trabajadora social.",
+      "back": "I used to work as a nurse but in the last few weeks I've been working as a social worker.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Estaba acostumbrado a trabajar de noche en mi último trabajo, pero podría acostumbrarme fácilmente a trabajar de día.",
+      "back": "I was used to working at night in my old job but I could easily get used to working during the day.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Estoy acostumbrado a trabajar codo a codo con un equipo, pero podría acostumbrarme a trabajar solo.",
+      "back": "I'm used to working closely with a team but I could get used to working alone.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Estoy acostumbrado a trabajar delante de un ordenador, pero podría acostumbrarme a trabajar en atención al cliente.",
+      "back": "I'm used to working in front of a computer but I could get used to working in customer service.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Hago ejercicio dos veces a la semana.",
+      "back": "I work out twice a week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Ella hace ejercicio cinco veces a la semana.",
+      "back": "She works out five times a week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Él hace ejercicio tres veces a la semana.",
+      "back": "He works out three times a week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Con qué frecuencia haces ejercicio?",
+      "back": "How often do you work out?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Con qué frecuencia hace ejercicio tu novio?",
+      "back": "How often does your boyfriend work out?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Con qué frecuencia hace ejercicio tu mujer?",
+      "back": "How often does your wife work out?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¡Debería hacer ejercicio en el gimnasio, pero es que no me gusta el sitio!",
+      "back": "I should work out at the gym but I don't like it there!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Cuando mejore el tiempo, haré ejercicio en el parque.",
+      "back": "When the weather gets better, I'm going to work out at the park.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "He estado haciendo ejercicio en casa últimamente.",
+      "back": "I've been working out at home recently.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Esos gorilas de discoteca deben de hacer ejercicio durante varias horas cada día. ¡Son enormes!",
+      "back": "Those bouncers must work out for hours every day! They're enormous!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Acabaría destrozado si hiciera más de una hora de ejercicio.",
+      "back": "I would be totally exhausted if I worked out for more than an hour.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Aún no he terminado. Haré ejercicio diez minutos más.",
+      "back": "I'm not finished yet. I'm going to work out for 10 more minutes.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Nunca podrás entrenar a tope en tu casa. Acabarás en el sofá.",
+      "back": "You'll never get a good workout at home. You'll end up on the sofa.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Siempre entreno a tope en el gimnasio porque los entrenadores son muy estrictos.",
+      "back": "I always get a good workout at the gym because the trainers there are so strict.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¡Mi profesor de inglés me ha dado una buena sesión de ejercicio!",
+      "back": "I got a good workout from my English teacher!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Este mando hace que la tele funcione.",
+      "back": "This remote makes the TV work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "El motor de combustión interna es lo que hace que un coche funcione.",
+      "back": "The internal combustion engine is what makes a car work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Este pequeño muelle de aquí hace que el mecanismo funcione.",
+      "back": "This little spring here makes the mechanism work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "La guitarra rítmica es lo que hace que esta canción sea tan buena.",
+      "back": "The rhythm guitar is what makes this song work so well.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Los colores vivos son lo que realmente hace que este cuadro sea tan bueno.",
+      "back": "The bright colors are what really make this painting work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "La combinación del dulzor de la miel y la fuerza de la mostaza es lo que realmente hace que esta salsa esté tan buena.",
+      "back": "The combination of the sweetness of the honey and the strength of the mustard is what really makes this sauce work so well.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Sabes operar esta máquina?",
+      "back": "Do you know how to work this machine?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Alguien sabe operar esta cosa?",
+      "back": "Does anyone know how to work this thing?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Alguien aquí sabe operar una máquina de coser?",
+      "back": "Does anyone here know how to work a sewing machine?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Poner aceite en un motor con regularidad hace que funcione mejor.",
+      "back": "Regular oiling makes an engine work better.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "La motivación hace que el equipo trabaje bien en conjunto.",
+      "back": "Motivation makes this team work together well.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Descargar un archivo grande hace que mi portátil funcione más despacio.",
+      "back": "Downloading a large file makes my laptop work slower.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Nos las arreglamos para no tener que pagar.",
+      "back": "We worked it so that we didn't have to pay.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Mi jefe se las arregló para no tener que trabajar los viernes.",
+      "back": "My boss worked it so that he doesn't have to work on Fridays.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Logré arreglármelas para que todos pensaran que yo hice todo el trabajo duro.",
+      "back": "I managed to work it so that everyone thought I had done all the hard work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Trabajo en una oficina, así que mi horario es fijo.",
+      "back": "I work in an office, so my working hours are fixed.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Hoy en día, mucha gente tiene un horario flexible.",
+      "back": "These days, lots of people have flexible working hours.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Kate antes era autónoma, así que su horario era flexible.",
+      "back": "Kate used to be self-employed, so her working hours were flexible.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Antes odiaba trabajar por turnos, pero ya está acostumbrada.",
+      "back": "She used to hate doing shift work but she's used to it now.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Sueles tener que trabajar por turnos si trabajas en un hospital.",
+      "back": "You usually have to do shift work if you work in a hospital.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Trabajar por turnos suele ser muy antisocial.",
+      "back": "Shift work is often very anti-social.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Antes odiaba trabajar en el turno de noche, pero me acostumbré.",
+      "back": "I used to hate working the night shift, but I got used to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "La mayoría de gente prefiere trabajar en el turno de día.",
+      "back": "Most people prefer to work the day shift.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Te importaría trabajar mañana en el turno de medianoche a ocho de la mañana?",
+      "back": "Would you mind working the twelve to eight am shift tomorrow?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Antes estaba de guardia tres noches al mes.",
+      "back": "I used to be on call three nights a month.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Hay siempre un médico de guardia los fines de semana, en caso de emergencia.",
+      "back": "There's always a doctor on call at the weekend, in case of emergencies.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Juan odia estar de guardia. Dice que no puede desconectar.",
+      "back": "Juan hates being on call. He says he can't unwind.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Eva antes odiaba trabajar en el turno de noche en la fábrica, pero se acostumbró.",
+      "back": "Eva used to hate working the night shift in the factory but she got used to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Tengo un horario fijo, pero preferiría tener un horario flexible.",
+      "back": "I have fixed working hours but I'd prefer to work flexi-time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "La gente suele odiar trabajar por turnos.",
+      "back": "People usually hate shift work.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "La gente no se quedará mucho tiempo si sigues agotándolos de esa manera.",
+      "back": "People won't stay long if you keep overworking them that way.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "No te des esas palizas, ¡o te dará una úlcera!",
+      "back": "Don't overwork yourself that way, or you'll get an ulcer!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Espero no haberme dado una paliza para nada.",
+      "back": "I hope I didn't overwork myself for nothing.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Me voy de la empresa, simplemente porque me siento explotado.",
+      "back": "I'm leaving the company, simply because I feel overworked and underpaid.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Los huelguistas se quejan por estar explotados.",
+      "back": "The strikers are complaining about being overworked and underpaid.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Conoces a alguien que no se sienta explotado?",
+      "back": "Do you know anyone that doesn't feel overworked and underpaid?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Está usted dispuesto a trabajar muchas horas?",
+      "back": "Are you willing to work long hours?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Estaría dispuesto a trabajar muchas horas ocasionalmente.",
+      "back": "I'd be willing to work long hours occasionally.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "No todo el mundo está dispuesto a trabajar muchas horas, ¿eh?",
+      "back": "Not everyone's willing to work long hours, you know.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Cobras por hacer horas extra?",
+      "back": "Do you get paid for working overtime?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "No podemos seguir haciendo horas extra. ¡Necesitamos a más gente ya!",
+      "back": "We can't keep working overtime. We need more people now!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "He hecho horas extra todos los días de esta semana.",
+      "back": "I've worked overtime every day this week.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "La cantidad de trabajo es tan grande hacia final de mes que siempre tenemos que hacer horas extra.",
+      "back": "The workload's so big towards the end of the month that we always need to do overtime.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Cómo puedes decir que te explotan con un volumen de trabajo tan pequeño?",
+      "back": "How can you say you're overworked and underpaid with such a small workload?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Estás seguro de que la cantidad de trabajo es razonable? No querría yo hacerte trabajar demasiado.",
+      "back": "Are you sure the workload is reasonable? I wouldn't want to overwork you.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Deberías cogerte una excedencia e irte a ver mundo.",
+      "back": "You should take a leave of absence and get out and see the world.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Él debería haberse cogido una excedencia y haber vuelto a la universidad.",
+      "back": "He really should've taken a leave of absence and gone back to college.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Creo que no deberías cogerte una excedencia; habrán ocupado tu puesto cuando vuelvas.",
+      "back": "I don't think you should take a leave of absence; your job will be gone when you get back.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Debería cogerse una baja por paternidad. Después de todo, tiene derecho a ella.",
+      "back": "He should take paternity leave. After all, he's entitled to it.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Aunque su jefe no se la ofreció, él debería haberse cogido una baja por paternidad más larga.",
+      "back": "Even though the boss didn't offer, he should have taken more paternity leave.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "¿Crees que él debería cogerse una baja por paternidad?",
+      "back": "Do you think he should take paternity leave?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Me cogeré una baja por enfermedad si me la conceden.",
+      "back": "I'll take sick leave if it's granted.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Se cogería una baja por enfermedad, pero su médico no se la concederá.",
+      "back": "He would take sick leave but his doctor won't grant it.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Se cogió una baja por enfermedad, aunque no se le concedió oficialmente.",
+      "back": "He took sick leave even though it wasn't officially granted.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Se cogió unos días para visitar a sus padres en los Estados Unidos.",
+      "back": "He took some time off to visit his parents in the States.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Por qué no te coges unos días libres? Te vendrán bien.",
+      "back": "Why don't you take some time off? It'll do you good.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Me cogería unos días si no estuviéramos tan liados.",
+      "back": "I would take some time off if we weren't so busy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Le dieron a él la baja dos veces.",
+      "back": "He was signed off twice.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "¡Le dieron a él de baja cinco veces en un año!",
+      "back": "He was signed off five times in one year!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Le dieron a ella la baja sólo una vez en la vida.",
+      "back": "She was signed off only once in her life.",
+      "sourcePage": 27
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "bookId": "vaughan-intensive-english-36",
+  "bookTitle": "Libro 36",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "No podemos seguir peleándonos todo el tiempo. Tenemos que resolver las cosas.",
+      "back": "We can't keep arguing all the time. We need to work it out.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Se llevan mucho mejor ahora, desde que han resuelto sus problemas.",
+      "back": "They get on much better now since they've worked out their issues.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Busquemos una solución al problema.",
+      "back": "Let's work out a solution to the problem.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Ella lo ha planeado todo. Primero van a Westminster, después al South Bank y después al Museo Británico.",
+      "back": "She's got it all worked out. First they're going to Westminster, then they're going to the South Bank, and then they're going to the British Museum.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Lo planeó todo. ¡Será fantástico!",
+      "back": "He worked out the entire plan. It'll be fabulous!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¡Sólo tiene veinte y pocos años, pero ya ha planeado toda su vida!",
+      "back": "She's only in her early twenties but she's already got her whole life worked out!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "¡Odio las matemáticas! Nunca sé calcular la solución.",
+      "back": "I hate maths! I can never work out the answer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Ella nunca puede calcular sus impuestos.",
+      "back": "She can never work out her taxes.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Él no podrá calcularlo mentalmente. Necesitará una calculadora.",
+      "back": "He won't be able to work it out in his head. He'll need a calculator.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "¡No llores, por favor! Al final todo saldrá bien.",
+      "back": "Please don't cry! It'll all work out in the end!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Se preocupa por todo, pero las cosas siempre salen para mejor.",
+      "back": "She's such a worrier, but things always work out for the best.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "No salió bien después de todo.",
+      "back": "It didn't work out after all.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Cuando no entiendes el significado de una palabra, sueles descifrarla por el contexto.",
+      "back": "When you don't understand the meaning of a word, you can usually work it out from the context.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Nadie entiende lo que pasó.",
+      "back": "Nobody can work out what happened.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Lo encuentro un poco raro. La verdad es que no consigo entenderlo.",
+      "back": "I find him a bit strange. I really can't work him out.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "No te pongas así, no merece la pena.",
+      "back": "Don't get so worked up, it's not worth it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "No puedo evitar alterarme cada vez que hablo con él, ¡es tan engreído!",
+      "back": "I can't help getting worked up every time I speak to him, he's so full of himself!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Ella se altera si mencionas a su jefe anterior, así que yo no lo haría.",
+      "back": "She gets worked up if you mention her previous employer, so I wouldn't.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Es curioso que siempre te alteres por las cosas más extrañas.",
+      "back": "It's funny how you always get worked up about the strangest things.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "¿De verdad se puso así él por lo que dije? ¡Sólo estaba bromeando!",
+      "back": "Did he really get worked up about what I said? I was only joking!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Calma, ¿vale? No hay por qué ponerse así.",
+      "back": "Relax, ok? There's nothing to get worked up about.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "¿No se alteró mucho ella cuando se enteró de que él había quedado con su ex para cenar?",
+      "back": "Didn't she get all worked up when she heard he'd met his ex for dinner?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "No sé lo que me dio. ¡Me alteré completamente sin razón aparente!",
+      "back": "I don't know what got into me. I got all worked up for no apparent reason!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Nosotros podemos criticar a nuestra familia, pero nos alteramos mucho si lo hace otra persona.",
+      "back": "It's alright for us to criticize our family, but we get all worked up if somebody else does.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "No es buen momento, él está completamente alterado.",
+      "back": "It's not a good time right now, he's all worked up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Por qué está tan alterado?",
+      "back": "What's he so worked up about?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Creo que está tan alterado por el nuevo abollón en su coche.",
+      "back": "I think he's so worked up about the new dent in his car.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Intentad mantener la calma, ¿queréis? Alteraros no ayudará.",
+      "back": "Try and keep your cool, will you? Working yourselves up won't help.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Es increíble cómo se pone él siempre que pierde al ajedrez.",
+      "back": "It's incredible how he works himself up whenever he loses at chess.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Ellos se alteran tan fácilmente que es mejor que no les digamos lo del retraso.",
+      "back": "They work themselves up so easily, we're better off not telling them about the delay.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Charles, tienes que ponerte con tus deberes, o si no luego no podrás salir.",
+      "back": "Charles, you need to get on with your homework, or you're not going out later.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Charles, ¿has recogido ya tu cuarto? Pues ponte con ello ahora mismo.",
+      "back": "Charles, have you tidied your room yet? Well, get on with it right away!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "¡Charles, tienes que ponerte con tu trabajo ya mismo! ¡No has hecho más que vaguear por la casa!",
+      "back": "Charles you really need to get on with your work! You've been doing nothing but lazing around the house!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Charles, limpia el salón y, ya que estás, tráeme la revista.",
+      "back": "Charles, clean the living room and while you're at it, bring me my magazine!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Charles, lava los platos y, ya que estás, pasa la fregona.",
+      "back": "Charles, do the washing up and while you're at it, mop the floor!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Charles, recoge la cocina y, ya que estás, prepárame un té.",
+      "back": "Charles, tidy the kitchen and while you're at it, make me a tea!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Estamos trabajando con el objetivo de un futuro mejor para todos.",
+      "back": "We're working towards a brighter future for everyone.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Estamos trabajando con el objetivo de tener un medio ambiente más limpio y seguro.",
+      "back": "We're working towards a cleaner and safer environment.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Estamos trabajando con el objetivo de tener una mayor conciencia de reciclaje.",
+      "back": "We're working towards an improved awareness on recycling.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Trabajamos día y noche para que tú no tengas que hacerlo.",
+      "back": "We work around the clock so you don't have to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Trabajamos día y noche para darte el servicio que necesitas.",
+      "back": "We work around the clock to provide you with the service you need.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Trabajaremos día y noche si es necesario.",
+      "back": "We'll work around the clock if necessary.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Vale, la reunión ha terminado. ¡Pongámonos manos a la obra!",
+      "back": "Right, the meeting's over; let's get down to business.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "¡Bueno, ya es hora de ponernos manos a la obra! ¡Vamos!",
+      "back": "It's time to get down to business guys! Now come on!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "¡Dejemos de tocarnos las narices y pongámonos manos a la obra!",
+      "back": "Let's stop messing around and get down to business.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Terminé la carrera de Filología Hispánica con matrícula.",
+      "back": "I graduated with honors in Spanish.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Estudié Económicas.",
+      "back": "I did Economics at uni.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Me formé como cocinero en una de las mejores escuelas técnicas.",
+      "back": "I trained as a chef at one of the best technical schools.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Me contrataron de secretaria, pero en realidad trabajaba de chica para todo.",
+      "back": "I was hired as a personal assistant but I actually worked as a girl Friday.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Me contrataron en mi primer trabajo mientras aún estaba en la universidad.",
+      "back": "I was taken on at my first job while I was still in college.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Me uní a la campaña del senador Smiths justo después de terminar la carrera.",
+      "back": "I joined Senator Smiths' campaign just after I graduated.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Nunca me han despedido de ninguno de mis trabajos. Siempre los he dejado antes de que me pudieran echar.",
+      "back": "I've never been laid off from any of my jobs. I've always quit before I could be made redundant.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Echaron a media empresa después de la fusión.",
+      "back": "Half the company was made redundant after the merger.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "¡Mi despido no fue procedente! ¡Fue un despido improcedente!",
+      "back": "I wasn't fired! I was laid off!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Me abrí camino en la empresa haciéndome notar y apreciar.",
+      "back": "I climbed the ladder by getting myself noticed and appreciated.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Ascendí trabajando duro y siendo humilde.",
+      "back": "I worked my way up by working hard and keeping my head down.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Me reclutó una agencia de cazatalentos.",
+      "back": "I was head-hunted by an external agency.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Dimití cuando me di cuenta de que ya no podía aprender nada nuevo.",
+      "back": "I resigned when I realized I couldn't learn anything new anymore.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "La universidad me obligó a jubilarme del puesto de profesor pero sigo intentando publicar en las revistas profesionales.",
+      "back": "The university forced me to retire from teaching but I still try to publish in the professional journals.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Decidí darle a la medicina un descanso así que colgué el estetoscopio y la bata blanca durante un tiempo.",
+      "back": "I decided to take a break from medicine so I hung up my stethoscope and white robe for a while.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Estoy encantada con lo que ha hecho Lisa. Trabajaba como una burra en ese proyecto.",
+      "back": "I'm delighted with what Lisa's done. She worked her socks off on that project.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Trabajaron como unos burros en esa propuesta. Apenas me puedo creer que no la eligieran.",
+      "back": "They worked their socks off on that proposal. I can hardly believe it wasn't chosen.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Trabajé como un burro en ese libro, ¡pero valió la pena!",
+      "back": "I worked my socks off on that book but it has totally paid off!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Ella trabajó mucho para proporcionar un buen hogar a su familia.",
+      "back": "She worked her fingers to the bone to provide a good home for her family.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Trabajaron mucho para llegar donde están ahora.",
+      "back": "They worked their fingers to the bone to get to where they are today.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Trabajé mucho para aprobar esos exámenes.",
+      "back": "I worked my fingers to the bone to pass those exams.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Estoy encantada con lo que ha hecho ella. Tenía un gran desafío con ese proyecto.",
+      "back": "I'm delighted with what she's done. She had her work cut out for her on that project.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Tenían un gran desafío frente a ellos con esa propuesta. No me sorprende que no la escogieran.",
+      "back": "They had their work cut out for them on that proposal. I'm not surprised it wasn't chosen.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Tenía un gran reto con ese libro, ¡pero valió la pena!",
+      "back": "I had my work cut out for me on that book, but it has totally paid off!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Trabajaba de sol a sol para proporcionar un buen hogar a su familia.",
+      "back": "She worked from dawn to dusk to provide a good home for her family.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Trabajaron de sol a sol para llegar donde están hoy.",
+      "back": "They worked from dawn to dusk to get to where they are today.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Trabajé de sol a sol para aprobar esos exámenes.",
+      "back": "I worked from dawn to dusk to pass those exams.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Los decoradores hicieron maravillas con mi piso nuevo.",
+      "back": "The decorators worked miracles on my new flat.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-074",
+      "front": "Ha hecho maravillas con su pronunciación; ahora habla como un nativo.",
+      "back": "He's worked miracles on his pronunciation; he speaks like a native now.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-075",
+      "front": "La florista hizo maravillas con las flores de la iglesia.",
+      "back": "The florist worked miracles on the flowers in the church.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-076",
+      "front": "¿Puedes hacer este párrafo como sólo tú sabes? Es que no consigo hacer que suene bien.",
+      "back": "Can you work your magic on this paragraph? I can't get it to sound right.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Dwaine Rooknee jugó como sólo él sabe en el campo anoche y marcó tres tantos.",
+      "back": "Dwaine Rooknee worked his magic on the pitch last night and scored a hat-trick.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Déjame hacerlo como sólo yo sé hacerlo; va a necesitar un toque femenino.",
+      "back": "Let me work my magic on this; it's going to need a woman's touch.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Por qué no usas esta receta para tu cita de mañana? Funcionará de maravilla.",
+      "back": "Why don't you try this recipe for your date tomorrow? It'll work like a charm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Si le compras unos bombones, funcionará de maravilla.",
+      "back": "If you buy her some chocolate, it'll work like a charm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Si te echas esta colonia, funcionará de maravilla.",
+      "back": "If you wear this aftershave, it'll work like a treat.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Trabajó como un burro en el guion y, al final, no lo usaron.",
+      "back": "He worked himself to death on the script and in the end they didn't use it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Estoy trabajando como un burro en este informe, pero no llego a ningún sitio.",
+      "back": "I'm working myself to death on this report at the moment, but I'm not getting anywhere.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Si les asignas el proyecto, lo trabajarán como burros.",
+      "back": "If you assign the project to them, they'll work themselves to death on it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Si yo fuera tú, evitaría a Mark de ventas. ¡Es un pájaro de cuidado!",
+      "back": "If I were you I'd avoid Mark from sales: he's a nasty piece of work!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Él es un pájaro de cuidado cuando está borracho.",
+      "back": "He's a nasty piece of work when he's drunk.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "¡Menuda pájara! ¡Es tan falsa!",
+      "back": "What a nasty piece of work she is! She's so two faced!",
+      "sourcePage": 41
+    }
+  ]
+}
