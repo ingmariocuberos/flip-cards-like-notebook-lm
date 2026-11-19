@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-34",
+  "bookTitle": "Libro 34",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "¿Por qué le dieron el premio a él?",
+      "back": "Why was he given the award?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "No tengo ni idea de por qué le dieron el premio a él.",
+      "back": "I have no idea why he was given the award.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "Le dieron el premio a él porque consideraron que su película era la mejor.",
+      "back": "He was given the award because they thought his film was the best.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Cuánto dinero le dieron?",
+      "back": "How much money was given to him?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "¿No sabes cuánto dinero le dieron?",
+      "back": "Don't you know how much money was given to him?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "No le dieron nada de dinero.",
+      "back": "No money was given to him.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Por qué le dieron el mejor papel a Katie?",
+      "back": "Why was Katie given the best role?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "¡Tienes que saber por qué se lo dieron a ella!",
+      "back": "You must know why it was given to her!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Se lo dieron a ella porque su padre es el mejor amigo del director.",
+      "back": "It was given to her because her father is the director's best friend.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Cuándo darán las instrucciones a los soldados?",
+      "back": "When will the soldiers be given the instructions?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "No estoy seguro de cuándo se las darán.",
+      "back": "I'm not sure when they will be given to them.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Se las darán en cuanto sea posible.",
+      "back": "They will be given to them as soon as possible.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Por qué no avisaron a los empleados con más tiempo?",
+      "back": "Why weren't the employees given more warning?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Por qué no te dieron una entrada para el concierto?",
+      "back": "Why weren't you given a ticket to the concert?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "¿Por qué no nos los dieron?",
+      "back": "Why weren't they given to us?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Puedes pasarle mi mechero a Tony?",
+      "back": "Can you hand Tony my lighter?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Puedes pasárselo?",
+      "back": "Can you hand it to him?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "Hay que reconocérselo; Messi es, de lejos, el mejor jugador del mundo.",
+      "back": "You have to hand it to Messi; he is by far the best player in the world.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "Pasa las galletas a los demás también; ¡no son sólo para ti!",
+      "back": "Hand those biscuits around; they're not just for you!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "No ofrezcas el agua a todo el mundo, o no nos quedará nada.",
+      "back": "Don't hand the water around or there'll be none left for us.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "Creo que ha estado repartiendo tu número de teléfono a todos sus amigos periodistas.",
+      "back": "I think she's been handing your phone number around to all her journalist friends.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "Pepe, ¿puedes repartir estos exámenes que corregí anoche?",
+      "back": "Pepe, can you hand out these exam papers that I corrected last night?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "Están repartiendo ejemplares gratis de su nuevo libro en la quinta planta de ese gran almacén.",
+      "back": "They're handing out free copies of his new book on the fifth floor of that department store.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "Dar consejos se te da muy bien, pero no se te da tan bien recibirlos.",
+      "back": "You're great at handing out advice, but not so great at taking it!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "Entregad vuestros deberes antes de salir, por favor.",
+      "back": "Hand in your homework on your way out, please.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "Tienes que entregar el formulario EH23 en el mostrador de la entrada.",
+      "back": "You need to hand in the EH23 form at the front desk.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Aún no has entregado tu tesis?",
+      "back": "Haven't you handed your thesis in yet?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "¿Crees que alguna vez cederá el negocio a sus hijos?",
+      "back": "Do you think he will ever hand the business over to his children?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "¡Entregad vuestras armas ahora mismo y no os pasará nada!",
+      "back": "Hand your weapons over immediately and no harm will come to you!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Ahora devolvemos la conexión a Ana en el estudio.",
+      "back": "I'm now handing you back over to Ana in the studio.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "Cuanto antes lo intentéis, antes podréis quitároslo de en medio.",
+      "back": "The sooner you give it a go, the sooner you'll be able to get it over with.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "La vida no es ningún ensayo. No podemos perdernos esto. ¡Probemos suerte todos!",
+      "back": "Life's no rehearsal. We just can't miss out on this. Let's all give it a go!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "Podría haber intentado eso hace tiempo, pero ya no soy ningún chaval.",
+      "back": "I could've given that a go a long time ago, but I'm well past my prime now.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Por qué no haces un intento antes de abandonarlo todo?",
+      "back": "Why don't you give it a try before giving it all up?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "Todos tenemos que intentarlo, y quien consiga la puntuación más alta gana.",
+      "back": "We all have to give it a try, and whoever gets the highest score wins.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "Yo que tú pasaría del pastelito que tienes en la mano y probaría éste otro en su lugar.",
+      "back": "I would give the cake you're holding a miss if I were you and give this other one a try instead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "Vas a tener que darlo todo y más si deseas ganarle.",
+      "back": "You're going to have to give it 110 per cent if you want to beat him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Tengo tantas ganas de tenerlo que lo daré todo y más. Espera y verás.",
+      "back": "I want it so much I'll give it 110 per cent and more. Just wait and see.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "Siempre dan unos espectáculos buenísimos. Dan un 110 por ciento cuando suben al escenario.",
+      "back": "They always put on great shows. They give it 110 per cent when they go on stage.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Déjame darte un consejo: ese flequillo hasta la punta de la nariz no te sienta nada bien.",
+      "back": "Let me give you a tip: those bangs all the way down the tip of your nose don't suit you at all.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "Te daré un consejo: lo mejor que puedes hacer es seguir diciendo que estás en la flor de la vida cumpleaños tras cumpleaños.",
+      "back": "I'll give you a tip: the best you can do is keep saying you're in your prime, birthday after birthday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "El jefe de comedor dio un consejo a los nuevos empleados: tratad bien a los clientes si queréis que os den propinas.",
+      "back": "The head waiter gave the new staff a tip: treat customers right if you want to be tipped.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Los consejos casi nunca se ponen en práctica si se dan sin haberlos pedido.",
+      "back": "Advice is hardly ever taken on board if it's given without having asked for it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "Ron le dio un consejo a ella que no debería haber escuchado en ningún caso.",
+      "back": "Ron gave her a piece of advice she should've never listened to.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Estaríamos mejor si no siguiéramos algunos de los consejos que nos dan.",
+      "back": "We'd be better off not following some of the advice we're given.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "¡Nos importa un pepino lo que hagas con tu vida!",
+      "back": "We don't give a hoot about what you do with your life!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "¡No le importa a él un comino lo que hagamos!",
+      "back": "He doesn't give a damn about what we do!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "¡¿Dices que te quieres mudar a Bali?! ¡Me importa un rábano!",
+      "back": "You want to move to Bali?! I don't give a darn!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "¡Yo soy la que siempre está pagando las cuentas, limpiando la casa y paseando al perro, y tú nunca haces nada! ¡¿Aquí qué es lo que pasa?!",
+      "back": "I'm the one always paying the bills, cleaning the house and walking the dog and you never do anything! What gives?!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "¡Tu jefe te obliga a recoger su ropa de la tintorería, a lavar su coche y a hacer los deberes de sus hijos! ¡¿Aquí qué es lo que pasa?!",
+      "back": "Your boss has you pick up his dry cleaning, wash his car and do his kids' homework! What gives?!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "Estuvimos esperando más de quince minutos, la comida estaba fría y nos cobraron 100 euros de más. ¡¿Aquí qué es lo que pasa?!",
+      "back": "We sat waiting for more than fifteen minutes, our food was cold and we were overcharged €100. What gives?!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "No estoy segura de esa compra. Quisiera pensármelo.",
+      "back": "I'm not sure about that purchase. I'd like to give it some thought.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Le he dado vueltas a tu propuesta y he decidido que no.",
+      "back": "I've given your proposal some thought and decided against it.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "No tienes que decir sí ahora mismo. Sólo prométeme que te lo pensarás.",
+      "back": "You don't have to say yes now. Just promise me you'll give it some thought.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "Cualquiera que haya trabajado alguna vez en el mundo de los negocios sabe que se trata de un toma y daca.",
+      "back": "Anyone who has ever worked in the business world knows that it's about knowing how to give and take.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "Las relaciones requieren mucho toma y daca. Pregúntaselo a cualquier terapeuta matrimonial.",
+      "back": "Relationships require a lot of give and take. Ask any marriage counselor.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Saber cómo dar y recibir te puede sacar de muchas situaciones peliagudas.",
+      "back": "Knowing how to give and take can get you out of a lot of tricky situations.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "¡Los adolescentes son alucinantes! ¡Les das la mano y te toman el brazo!",
+      "back": "Teenagers are amazing! You give them an inch and they take a mile!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "¡Me siento muy traicionada por ella! Le di la mano y me tomó el brazo.",
+      "back": "I feel so betrayed by her! I gave her an inch and she took a mile.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Decidí darle a mi clase algo de libertad con el proyecto, pero todos copiaron lo que ponía en la Wikipedia. Les di la mano y me tomaron el brazo.",
+      "back": "I decided to give my class some freedom on the project, but they all copied off Wikipedia. I gave them an inch and they took a mile!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "Dado que probó suerte al hacer puenting, no me sorprendería verle haciendo paracaidismo dentro de poco.",
+      "back": "Given that he gave bungee-jumping a try, I wouldn't be surprised to see him skydiving soon.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "Dadas las circunstancias, no estoy seguro de poder darte el visto bueno para el nuevo proyecto.",
+      "back": "Given the circumstances, I'm not sure if I can give you the thumbs up for the new project.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "Dadas las altas expectativas, Sarah estaba nerviosa y no pudo darlo todo.",
+      "back": "Given the huge expectation, Sarah was nervous and wasn't able to do her best.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "Deja que te avise: Peter llegará tarde a la reunión. Es un hecho.",
+      "back": "Let me give you a heads up: Peter will be late to the meeting - that's a given.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Me sorprende que no viniera más gente a la fiesta. Cuando hay comida gratis, es un hecho que el sitio va a estar abarrotado.",
+      "back": "I'm surprised more people didn't show up for the party. When there's free food, it's a given that the place will be packed.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "Va a haber un desfile de grandes grupos para el festival de Glastonbury, es un hecho.",
+      "back": "There's going to be a big line-up for the Glastonbury festival, that's a given.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "Si Kate no hubiera dejado de comprar cupones de lotería, podría haberla ganado algún día.",
+      "back": "If Kate hadn't stopped buying lottery tickets, she could've won the lottery on a given day.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Si el jefe de Lucy la despidiera en un momento dado, ella haría todo lo posible por conservar su puesto.",
+      "back": "If Lucy's boss fired her at a given moment, she'd do everything in her power to keep her job.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "El proyecto tiene que estar disponible online por si los accionistas quieren verlo en una próxima reunión.",
+      "back": "The project has to be available online, in case the shareholders want to see it in a given meeting.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Dada la capacidad del zoo, sólo se permitían 500 personas en las instalaciones en el mismo instante.",
+      "back": "Given the capacity of the zoo, only 500 people were allowed on the premises at any given time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "La colección del artista incluye más de dos millones de obras de arte, cinco mil de las cuales se pueden encontrar en la exposición cualquier semana.",
+      "back": "The artist's collection includes more than two million works of art, five thousand of which are on view in the exhibition in any given week.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Es importante evaluar el plan. Necesitamos poder controlar el proceso de producción entero en cualquier momento dado.",
+      "back": "It's important to give the plan some thought. We need to be able to control the whole production process at any given time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "El señor mayor era proclive a gritar a los desconocidos en la calle.",
+      "back": "The old man was given to shouting at strangers in the street.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Su tía sospechaba que tomaba drogas porque era dado a cambios de humor cada vez más violentos.",
+      "back": "His aunt suspected that he was on drugs because he was given to increasingly violent mood swings.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "Desde que John empezó a tomar la medicación, se ha dado a los berrinches.",
+      "back": "Since John started taking the medication, he's been given to temper tantrums.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "James es mucho mejor futbolista que sus compañeros de clase. Les da sopas con honda.",
+      "back": "James is a much better football player than his classmates. He runs circles around them.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Cuando se trata de debates, Nicola les da cien vueltas a sus amigos.",
+      "back": "When it comes to debates, Nicola runs circles around her friends.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "Mi prima Jessica tiene un don natural para el ajedrez y da sopas con honda a sus contrincantes.",
+      "back": "My cousin Jessica is naturally gifted at chess and runs circles around her opponents.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "¡No puedo creer que intentase pagar con un billete falso de cincuenta libras! ¡No me va a dar gato por liebre!",
+      "back": "I can't believe he tried to pay with a fake fifty-pound note! He's not going to pull a fast one on me!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Me dio gato por liebre cuando me vendió un reloj roto. ¡Ya no volveré a fiarme de ella!",
+      "back": "She pulled a fast one on me when she sold me a broken watch. I won't trust her again!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "Le pagué por una estatua de león hecha a mano, pero él me dio gato por liebre y me vendió una fabricada en Taiwán.",
+      "back": "I paid him for a handcrafted lion statue but he pulled a fast one on me and sold me one manufactured in Taiwan.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "Al principio no creía en ti, ¡pero tus ideas han dado sus frutos!",
+      "back": "I didn't believe in you at the start, but your ideas have borne fruit!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "Debido a la terrible helada de este año, nuestros manzanos no han dado fruta.",
+      "back": "As a result of the terrible frost this year, our apple trees haven't borne fruit.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "Si ninguno de tus planes da sus frutos este año, recibirás la carta de despido.",
+      "back": "If none of your plans bear fruit this year, you'll be given the pink slip.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "¡Esta noche voy a llegar tarde, cariño! ¡No doy abasto en el trabajo!",
+      "back": "I'm going to be late home tonight honey! I'm snowed under here at work!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "Espero que no te importe, pero no puedo ir al cine esta noche. ¡No doy abasto en la oficina!",
+      "back": "I hope you don't mind, but I can't go to the cinema tonight. I'm snowed under at the office!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "Nunca doy abasto en esta oficina, ¡y sé que la vida no es sólo trabajo, trabajo y más trabajo!",
+      "back": "I'm always snowed under in this office, and I know there's more to life than work, work, and more work!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "¡Más vale que des por perdida tu goma de borrar! David nunca las devuelve.",
+      "back": "You may as well say goodbye to your rubber! David never gives them back.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "¡Más vale que des por perdidos tus DVD! Lucy nunca los devuelve.",
+      "back": "You may as well say goodbye to your DVDs! Lucy never gives them back.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "¡Más vale que des por perdida tu porcelana! Ethel nunca devuelve nada a nadie.",
+      "back": "You may as well say goodbye to your fine china! Ethel never gives anything back to anyone.",
+      "sourcePage": 40
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "bookId": "vaughan-intensive-english-34",
+  "bookTitle": "Libro 34",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Dale el libro a tu hermano.",
+      "back": "Give your brother the book.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Les voy a dar la clase mañana por la mañana.",
+      "back": "I'm giving them the class tomorrow morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Siempre das dinero a los músicos cuando los ves tocar por la calle?",
+      "back": "Do you always give musicians money when you see them playing in the street?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella no le está dando la entrada a tu hermano.",
+      "back": "She isn't giving the ticket to your brother.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Da mucho dinero a un partido político, ¡pero no sé a cuál!",
+      "back": "He gives a lot of his money to a political party... but I don't know which one!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Por qué no le das las flores a ella?",
+      "back": "Why don't you give the flowers to her?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Por qué se lo estás dando a ellas?",
+      "back": "Why are you giving it to them?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Dánoslo!",
+      "back": "Give it to us!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¡No me lo des a mí!",
+      "back": "Don't give it to me!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Nos podéis dar vuestras opiniones al final de la sesión?",
+      "back": "Can you give us your opinions at the end of the session?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Está dando tu ropa a sus hermanos menores.",
+      "back": "She's giving your clothes to her younger brothers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "No les des ninguno de nuestros secretos.",
+      "back": "Don't give them any of our secrets.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Por qué no nos las das?",
+      "back": "Why don't you give them to us?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Os los puedo dar más tarde?",
+      "back": "Can I give them to you later?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Suelo dárselas a ellos al final de la semana.",
+      "back": "I usually give them to them at the end of the week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Dar a luz es una experiencia maravillosa.",
+      "back": "Giving birth is a wonderful experience.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Dar a luz es una experiencia fantástica.",
+      "back": "Giving birth is a fantastic experience.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Dar a luz es una experiencia alucinante, para algunas.",
+      "back": "Giving birth is an amazing experience, for some.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Te llamaré cuando llegue.",
+      "back": "I'll give you a ring when I get there.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Sí, por favor, llámame cuando llegues.",
+      "back": "Yes, please. Give me a call when you get there.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Puedes llamar a tu madre también?",
+      "back": "Can you give your mother a call too?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Dame un toque si necesitas ayuda.",
+      "back": "Give me a shout if you need any help.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Avísanos cuando acabes, por favor.",
+      "back": "Give us a shout when you finish, please.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Dame un toque la próxima vez que estés en la ciudad, ¿vale?",
+      "back": "Give me a shout next time you're in town, ok?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No voy a ir a trabajar, porque no quiero contagiarles a todos mi resfriado.",
+      "back": "I'm not going to work, because I don't want to give everybody my cold.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¡No te acerques a mí, que me vas a contagiar tu resfriado!",
+      "back": "Don't come near me, or you'll give me your cold!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "No me acercaré a ti porque no te quiero contagiar mi resfriado.",
+      "back": "I won't come near you, because I don't want to give you my cold.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Me puedes llevar a casa?",
+      "back": "Can you please give me a lift home?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No le lleves si no le conoces.",
+      "back": "Don't give him a ride if you don't know him.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Llevas a los niños al colegio en coche?",
+      "back": "Will you give the kids a ride to school?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Paul nunca entrega sus deberes a tiempo.",
+      "back": "Paul never gives in his homework on time.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-032",
+      "front": "Tienes que entregar tus informes mañana a las once en punto.",
+      "back": "You have to give in your reports tomorrow at 11 o'clock sharp.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-033",
+      "front": "No puedo terminar las fichas antes de la fecha límite. ¿Las puedo entregar más tarde?",
+      "back": "I can't finish the worksheets before the deadline! Can I give them in later?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-034",
+      "front": "Claro que puedo prestarte mis apuntes. ¿Cuándo me los devolverás?",
+      "back": "Of course you can borrow my notes. When will you give them back?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Qué ocurrirá si no devuelvo los libros de la biblioteca a tiempo?",
+      "back": "What will happen if I don't give back the library books on time?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-036",
+      "front": "Siempre devuelvo lo que presto.",
+      "back": "I always give back everything I borrow.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-037",
+      "front": "Nuestro profesor de matemáticas reparte muchas fichas todas las semanas.",
+      "back": "Our maths teacher gives out a lot of worksheets every week.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-038",
+      "front": "A menudo veo a estudiantes en la calle que reparten folletos.",
+      "back": "I often see students on the street giving out leaflets.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-039",
+      "front": "Van a repartir los exámenes al final del trimestre.",
+      "back": "They're going to give out the exams at the end of term.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Mira este folleto! Hay alguien que da clases de francés gratuitas.",
+      "back": "Look at this leaflet! There's someone who gives French classes for free.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-041",
+      "front": "Tom da clases de piano a adolescentes de 14 a 17 años.",
+      "back": "Tom gives piano classes to teenagers aged 14-17.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-042",
+      "front": "El próximo trimestre voy a dar clases de inglés a niños pequeños.",
+      "back": "Next term I'm going to give English classes to small children.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-043",
+      "front": "Después de entregar mi ensayo, voy a devolver mis libros de la biblioteca.",
+      "back": "After giving my essay in, I'm going to give my library books back.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-044",
+      "front": "La fecha tope para entregar los deberes es dos días después de que yo los distribuya.",
+      "back": "The deadline to give in the homework is two days after I give it out.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-045",
+      "front": "Me encanta dar clases de danza a niños.",
+      "back": "I love to give dance classes to children.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-046",
+      "front": "John se muda, así que le estoy echando una mano con las cajas.",
+      "back": "John's moving house so I'm giving him a hand with his boxes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Mi madre me está echando una mano con los niños mientras trabajo.",
+      "back": "My mother is giving me a hand with the kids while I work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Me echas una mano con los deberes, por favor?",
+      "back": "Will you give me a hand with my homework, please?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡No tienes que devolvérmelo! ¡Te lo estoy regalando!",
+      "back": "You don't have to give it back to me! I'm giving it to you!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Le vas a regalar a Hanna algo por el estreno de su casa?",
+      "back": "Are you giving Hanna a housewarming gift?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Tu madre me va a regalar su anillo de bodas.",
+      "back": "Your mother is going to give me her wedding ring.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Voy a donar mi ropa vieja a la caridad.",
+      "back": "I'm giving my old clothes to charity.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Vas a donar algo de dinero a la investigación contra el cáncer?",
+      "back": "Will you give any money to cancer research?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¡No daré dinero a esa causa!",
+      "back": "I won't give any money to that cause!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Es importante donar sangre durante todo el año.",
+      "back": "It's important to give blood year round.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Donaste sangre de tu brazo izquierdo o de tu brazo derecho?",
+      "back": "Did you give blood from your left arm or from your right arm?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Me siento débil cuando dono sangre.",
+      "back": "I feel faint when I give blood.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Estos vaqueros no ceden nada!",
+      "back": "These jeans won't give at all!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "No te preocupes si esos zapatos te aprietan; ya cederán.",
+      "back": "Don't worry if those shoes are tight; they'll give.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "El cuero suele ceder más que el plástico.",
+      "back": "Leather usually gives more than plastic.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Me da un kilo de patatas y un kilo de zanahorias, por favor?",
+      "back": "May I have a kilo of potatoes and a kilo of carrots, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Me da dos kilos de plátanos y un kilo de manzanas, por favor?",
+      "back": "May I have two kilos of bananas and a kilo of apples, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Deme un kilo de peras y un kilo de cerezas, por favor.",
+      "back": "May I have a kilo of pears and a kilo of cherries, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Lucía da una fiesta de cumpleaños este sábado.",
+      "back": "Lucia is throwing a birthday party this Saturday!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Elena da una fiesta de inauguración este fin de semana.",
+      "back": "Elena is throwing a housewarming party this weekend.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Claudia da una fiesta de disfraces este viernes.",
+      "back": "Claudia is throwing a fancy dress party this Friday.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Dale las gracias a él por su ayuda.",
+      "back": "Thank him for his help.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Dale los buenos días a tu profesor.",
+      "back": "Say good morning to your teacher.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Dale las buenas noches a tu tía.",
+      "back": "Say good night to your aunt.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Qué dan en el cine esta tarde noche?",
+      "back": "What's on at the cinema this evening?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Qué dan por la tele esta noche?",
+      "back": "What's on TV tonight?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Qué dan en el teatro este fin de semana?",
+      "back": "What's on at the theatre this weekend?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Da brillo a tus zapatos antes de ir al teatro!",
+      "back": "Polish your shoes before you go to the theatre!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Da brillo a la plata antes del banquete de esta tarde noche.",
+      "back": "Polish the silver before the banquet this evening.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Da brillo a los muebles antes de irte.",
+      "back": "Polish the furniture before leaving.",
+      "sourcePage": 12
+    }
+  ]
+}

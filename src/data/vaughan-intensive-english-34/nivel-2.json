@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-34",
+  "bookTitle": "Libro 34",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Por qué me lo estás dando a mí?",
+      "back": "Why are you giving it to me?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Te lo estoy dando a ti porque es tuyo.",
+      "back": "I'm giving it to you because it's yours.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "No se lo estoy dando a él porque no es suyo.",
+      "back": "I'm not giving it to him because it's not his.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "¿Por qué ella siempre se lo da a ellos?",
+      "back": "Why does she always give it to them?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Ella siempre se lo da a ellos porque es de ellos.",
+      "back": "She always gives it to them because it's theirs.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Ella nunca nos lo da a nosotros porque no es nuestro.",
+      "back": "She never gives it to us because it's not ours.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Por qué no te los darán a ti?",
+      "back": "Why won't they give them to you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "No me los darán a mí porque no son míos.",
+      "back": "They won't give them to me because they're not mine.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Se los darán a ella porque son suyos.",
+      "back": "They'll give them to her because they're hers.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Por qué se lo diste a ella?",
+      "back": "Why did you give it to her?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Se lo di a ella porque era suyo.",
+      "back": "I gave it to her because it was hers.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "No te lo di a ti porque no es tuyo.",
+      "back": "I didn't give it to you because it's not yours.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Por qué se las han dado a ellas?",
+      "back": "Why have they given them to them?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Se las han dado a ellas porque son de ellas.",
+      "back": "They've given them to them because they're theirs.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "No se las han dado a él porque no son suyas.",
+      "back": "They haven't given them to him because they're not his.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Daría lo que fuera por un cigarrillo.",
+      "back": "I'd give anything for a cigarette.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "No sé lo que daría por un baño caliente ahora mismo.",
+      "back": "I'd give anything for a hot bath right now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Por un beso de la flaca daría lo que fuera, aunque sólo uno fuera.",
+      "back": "I'd give anything for a kiss from the skinny girl... even if it was just one.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Daría lo que fuera por estar allí para ver qué pasa en su vestuario.",
+      "back": "I'd give anything to be a fly on the wall in their dressing room.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "No sé lo que daría por tener una cita con ella.",
+      "back": "I'd give anything to have a date with her.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Daría lo que fuera por poder hablar otra vez con mi abuela.",
+      "back": "I'd give anything to be able to talk to my grandmother again.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Daría lo que fuera por saber por qué no estuvieron allí.",
+      "back": "I'd give anything to know why they weren't there.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Daría lo que fuera por saber lo que ella dijo cuando se lo dijeron a ella.",
+      "back": "I'd give anything to know what she said when they told her.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Daría lo que fuera por saber con quién estuvo ella anoche.",
+      "back": "I'd give anything to know who she was with last night.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Qué darías por volver con tu exnovia?",
+      "back": "What would you give to get back together with your ex-girlfriend?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Qué darías por otras vacaciones en el Lejano Oriente?",
+      "back": "What would you give for another holiday in the Far East?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Qué darías por pasar una noche con ese actor?",
+      "back": "What would you give to spend a night with that actor?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Daría mi brazo derecho por verla de nuevo.",
+      "back": "I'd give my right arm to see her again.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "Daría un brazo y una pierna por mi propia cama.",
+      "back": "I'd give an arm and a leg for my own bed.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Daría la camisa que llevo por poder trabajar en esa empresa.",
+      "back": "I'd give the shirt off my back to be able to work in that company.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "La verdad es que no quiero aprender chino, pero le daré una oportunidad en cualquier caso.",
+      "back": "I don't really want to learn Chinese, but I'll give it a go anyway.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Hiciste un intento de hacer submarinismo mientras estuviste de vacaciones?",
+      "back": "Did you give scuba diving a go while you were on vacation?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Siempre pruebo deportes nuevos antes de decidir si me gustan o no.",
+      "back": "I always give new sports a go before I decide if I like them or not.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Hice el examen, pero no me esforcé al máximo.",
+      "back": "I did the exam, but I didn't really give it my all.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Si queremos conseguir este contrato, tenemos que esforzarnos al máximo.",
+      "back": "If we want to get this contract, we have to give it our all.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Se ha esforzado al máximo en la relación. Es una pena que esté terminando.",
+      "back": "He's given the relationship his all. It's a pity it's coming to an end.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Estaba indecisa sobre la mudanza; necesitaba que alguien me diera un pequeño empujón.",
+      "back": "I was undecided about the move; I needed someone to give me a little push.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Al casarse, su hermana le dio el empujón que ella necesitaba.",
+      "back": "Her sister gave her the push she needed by getting married.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "Él dice que no está seguro sobre la universidad. Necesita que le den un empujón.",
+      "back": "He says he's not sure about college. He needs to be given a push.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Deja que te dé un consejo: intenta caerle bien.",
+      "back": "Let me give you a tip: stay on his good side.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Deja que te dé un consejo: escucha a tu mujer.",
+      "back": "Let me give you a tip: listen to your wife.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Deja que te dé un consejo: vigila los peniques y los dólares cuidarán de sí mismos.",
+      "back": "Let me give you a tip: watch your pennies and your dollars will take care of themselves.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Conseguir un sobresaliente en esa clase me dio el empuje que necesitaba.",
+      "back": "Getting an A in that class really gave me the boost I needed.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "¿Le dieron tus ánimos el empuje que necesitaba antes de la competición?",
+      "back": "Did your encouragement give him a boost before the competition?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "No deberías depender de las bebidas energéticas para darte un empuje todos los días.",
+      "back": "You shouldn't rely on energy drinks to give you a boost on a daily basis.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Su padre la llevó al altar.",
+      "back": "Her father gave her away at her wedding.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Él quiso llevarla al altar vistiendo un traje muy elegante.",
+      "back": "He wanted to give her away at her wedding wearing a very elegant suit.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Sin embargo, al final él tuvo que llevarla al altar con un traje más modesto después de mancharse el bueno de sopa.",
+      "back": "However, in the end, he had to give her away in a more modest suit after getting a soup stain on the good one.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "Una mancha de carmín en el cuello de tu camisa siempre te delatará.",
+      "back": "Lipstick on your collar will always give you away.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "El olor a perfume de mujer siempre te delatará.",
+      "back": "The smell of women's perfume will always give you away.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Cuando hablas en tus sueños, sacas todo a la luz!",
+      "back": "When you talk in your sleep you give everything away!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "¡Te dije que donaras toda esa ropa a la iglesia!",
+      "back": "I told you to give away all those clothes to the church.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella me dijo que donara todos mis juguetes a los huérfanos.",
+      "back": "She told me to give away all my toys to the orphans.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Le dijeron a ella que donara todas sus joyas a la caridad.",
+      "back": "They told her to give away all her jewelry to charity.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Diez minutos antes de que acabara la película, Brett contó el final.",
+      "back": "Ten minutes before the end of the film, Brett gave away the ending!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "¡Por favor, no cuentes el final como la última vez!",
+      "back": "Please don't give away the ending like you did last time!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Como vuelvas a contar el final de la película, ¡no volveré a invitarte al cine!",
+      "back": "If you give away the ending of the film again, I won't invite you to the cinema again!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Intentamos fingir que no sabíamos que era su cumpleaños, pero Anna lo estropeó todo.",
+      "back": "We tried to hide the fact that we knew it was her birthday, but Anna gave the game away.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "Procuramos actuar de forma natural en la noche de su fiesta, pero lo estropeamos todo.",
+      "back": "We tried to act naturally on the evening of her party, but we gave the game away.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Quisimos fingir que no sabíamos que era su aniversario, pero Sandra lo estropeó todo.",
+      "back": "We wanted to pretend that we didn't know it was his anniversary, but Sandra gave the game away.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Mi fuerza de voluntad es prácticamente nula, así que siempre sucumbo ante la tentación.",
+      "back": "My willpower is practically non-existent, so I always give into temptation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Es un niño tan encantador que los mayores siempre dan su brazo a torcer con él.",
+      "back": "He's such a charming little boy that grown-ups give into him all the time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Dijeron que fue un gran error ceder ante las amenazas terroristas.",
+      "back": "They said it was a big mistake to give into the terrorist threats.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Por favor, no pierdas la fe en mí! Prometo hacerlo bien la próxima vez.",
+      "back": "Please don't give up on me! I promise I'll do it right next time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "No creo que recibamos más fondos de ellos. Dieron el proyecto por perdido hace tiempo.",
+      "back": "I don't think we'll receive any more funds from them. They gave up on the project long ago.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Después de diez horas de interrogatorio improductivo, la policía dio al sospechoso por perdido.",
+      "back": "The police gave up on the suspect after ten hours of unproductive interrogation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Hay algo debajo de la cama que despide un olor raro. ¿Podrían ser tus calcetines, cariño?",
+      "back": "Something under the bed's giving off a funny smell. Could it be your socks, dear?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "Creo que guardan el tarro del café en ese armarito. Despide un olor riquísimo a café al abrirlo.",
+      "back": "I think they keep the coffee jar in that cupboard. It gives off a lovely coffee smell when you open it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Cómo puede dar tanto calor una bombilla tan diminuta?",
+      "back": "How can such a tiny light bulb give off so much heat?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "A la paloma mensajera le falló su corazoncito antes de que pudiera llegar hasta la princesa.",
+      "back": "The homing pigeon's little heart gave out before reaching the princess.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "No me extraña que le fallara el hígado, ¡era una alcohólica empedernida!",
+      "back": "No wonder her liver gave out, she was a raging alcoholic!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "Aún se desconoce la razón por la que le fallaron los pulmones al experto buceador.",
+      "back": "The reason why the expert diver's lungs gave out is still unknown.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "No deberías abandonar tu dieta sólo porque sucumbiste al chocolate anoche.",
+      "back": "You shouldn't give up on your diet just because you gave into chocolate last night.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Le sorprendería la luz tan potente que emite esta lámpara.",
+      "back": "You'd be surprised what a bright light this lamp gives off.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Se puede llevar una vida normal si te falla uno de los riñones?",
+      "back": "Can you lead a normal life if one of your kidneys gives out?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Por qué no damos un paso adelante y acompañamos nuestras declaraciones con acciones?",
+      "back": "Why don't we take a step forward and accompany our statements with actions?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "El presidente estaba convencido de que había llegado el momento de dar un paso adelante y firmar el acuerdo de paz.",
+      "back": "The president was convinced it was time to take a step forward and sign the peace agreement.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Por fin ha dado un gran paso adelante y ha admitido su error.",
+      "back": "She has finally taken a big step forward and admitted her mistake.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Damos muchas cosas por sentadas, como tener agua caliente cuando lo necesitamos.",
+      "back": "We take so many things for granted, like having hot water whenever we need it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Das por sentado que puedes ir al colegio, pero piensa en todos los niños que no tienen esa oportunidad.",
+      "back": "You take it for granted that you can go to school, but think about all the children who don't have this opportunity.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "No subestimes a Susan. Algún día alguien se va a fijar en ella y apreciará lo que tú no apreciaste.",
+      "back": "Don't take Susan for granted. One day someone will take an interest in her and appreciate what you didn't.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Lo peor de ser policía es tener que dar una mala noticia a alguien.",
+      "back": "The worst thing about being a policeman is having to break the bad news to someone.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Quién le dio la noticia? ¡No debería haberse enterado!",
+      "back": "Who broke the news to her? She wasn't supposed to know!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Cuándo vas a dar la noticia sobre tu embarazo?",
+      "back": "When will you break the news about your pregnancy?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Para la fiesta de esta tarde tenemos comida y bebida para dar y tomar.",
+      "back": "We have plenty of food and drink to spare for the party tonight.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Quieres fruta? Mi madre siempre tiene para dar y tomar en su casa.",
+      "back": "Do you want some fruit? My mother always has plenty to spare in her house.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "Pídeselo a Lucía. Ella siempre tiene bolis para dar y tomar.",
+      "back": "Ask Lucia for it. She always has plenty of pens to spare.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "Estoy pensando en regalar los cachorros. Dan mucho trabajo.",
+      "back": "I'm thinking about giving the puppies away. They're a lot of work.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "Cuando el señor Bromley se hizo mayor no podía cuidar el jardín porque le daba mucho trabajo.",
+      "back": "When Mr. Bromley grew old, he couldn't take care of the garden because it was too much work.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Da mucho trabajo criar niños estando solo.",
+      "back": "It's hard work bringing up children alone.",
+      "sourcePage": 26
+    }
+  ]
+}
