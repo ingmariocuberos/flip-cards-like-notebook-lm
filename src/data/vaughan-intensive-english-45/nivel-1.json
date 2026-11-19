@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-45",
+  "bookTitle": "Libro 45",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Un arquitecto dibuja planos.",
+      "back": "An architect draws plans.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Un diseñador dibuja diseños.",
+      "back": "A designer draws designs.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Una artista dibuja lo que quiera.",
+      "back": "An artist draws anything she wants.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Mi amigo dibuja bien.",
+      "back": "My friend draws well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Dibujo fatal.",
+      "back": "I draw terribly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Mi hermano dibuja muy rápidamente.",
+      "back": "My brother draws very quickly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "No sé dibujar.",
+      "back": "I can't draw.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Él no sabe dibujar barbillas.",
+      "back": "He can't draw chins.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Mi profesor no sabe dibujar conejos.",
+      "back": "My teacher can't draw rabbits.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Puedes dibujar las barbillas?",
+      "back": "Can you draw chins?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Pueden dibujar bien?",
+      "back": "Can they draw well?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Podemos dibujar lo que queramos?",
+      "back": "Can we draw anything we want?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Dibuja tu jefe gráficos en las reuniones?",
+      "back": "Does your boss draw graphs in meetings?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Haces dibujos con tus niños?",
+      "back": "Do you draw pictures with your children?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Se dedica ella a dibujar dibujos animados?",
+      "back": "Does she draw cartoons for a living?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Qué estás dibujando?",
+      "back": "What are you drawing?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Qué está dibujando ella?",
+      "back": "What's she drawing?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Qué está dibujando él?",
+      "back": "What's he drawing?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Estoy dibujando a Lucas.",
+      "back": "I'm drawing Lucas.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Estoy dibujando a mi hermano.",
+      "back": "I'm drawing my brother.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Y yo estoy dibujando a mi primo.",
+      "back": "And I'm drawing my cousin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Estoy haciendo un dibujo de mi primo.",
+      "back": "I'm drawing a picture of my cousin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella está haciendo un dibujo de su prima.",
+      "back": "She's drawing a picture of her cousin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Él está haciendo un dibujo de su madre.",
+      "back": "He's drawing a picture of his mother.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Estoy haciendo un dibujo de mí mismo.",
+      "back": "I'm drawing a picture of myself.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Ella está haciendo un dibujo de sí misma.",
+      "back": "She's drawing a picture of herself.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Él está haciendo un dibujo de sí mismo.",
+      "back": "He's drawing a picture of himself.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Se están dibujando el uno al otro?",
+      "back": "Are they drawing each other?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No, no se están dibujando el uno al otro.",
+      "back": "No, they aren't drawing each other.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella se está dibujando a sí misma y él se está dibujando a sí mismo.",
+      "back": "She's drawing herself and he's drawing himself.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Haz un círculo alrededor de la respuesta correcta.",
+      "back": "Draw a circle around the correct answer.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "No hagas un círculo alrededor de la respuesta incorrecta.",
+      "back": "Don't draw a circle around the incorrect answer.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Asegúrate de que haces un círculo alrededor de la respuesta correcta.",
+      "back": "Make sure you draw a circle around the correct answer.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Puedes hacer una línea recta sin regla?",
+      "back": "Can you draw a straight line without a ruler?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Sí, puedo hacer una línea recta sin regla.",
+      "back": "Yes, I can draw a straight line without a ruler.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "No, no puedo hacer una línea recta sin regla.",
+      "back": "No, I can't draw a straight line without a ruler.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Subraya todos los sustantivos de esta frase.",
+      "back": "Draw a line under all of the nouns in this sentence.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "No subrayes los verbos en esta frase.",
+      "back": "Don't draw a line under the verbs in this sentence.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Asegúrate de que subrayas todos los sustantivos en esta frase.",
+      "back": "Make sure you draw a line under all of the nouns in this sentence.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Haz una línea para unir las palabras y sus significados.",
+      "back": "Draw a line to match the words and their meanings.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Cuando hagas una línea para unir las palabras y sus significados, ¡no utilices un bolígrafo!",
+      "back": "When you draw a line to match the words and their meanings, don't use a pen!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Asegúrate de que haces una línea para unir las palabras y sus significados.",
+      "back": "Make sure you draw a line to match the words and their meanings.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Si cometéis un error en vuestros exámenes, tachadlo.",
+      "back": "If you make a mistake on your exam, draw a line through it.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Si cometéis un error en vuestros exámenes, no lo tachéis. Utilizad una goma.",
+      "back": "If you make a mistake on your exam, don't draw a line through it. Use a rubber.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Aseguraos de que tacháis los errores en vuestros exámenes.",
+      "back": "Make sure you draw a line through the mistakes on your exams.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Se me da bastante bien dibujar personas, pero se me da muy bien dibujar animales.",
+      "back": "I'm quite good at drawing people, but I'm really good at drawing animals.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Se me da bien dibujar árboles, pero se me da muy bien dibujar flores.",
+      "back": "I'm good at drawing trees, but I'm really good at drawing flowers.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Se me da bien dibujar aviones, pero se me da mejor dibujar barcos.",
+      "back": "I'm good at drawing planes, but I'm better at drawing boats.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Se me da bastante mal dibujar caballos, pero se me da muy bien dibujar elefantes.",
+      "back": "I'm quite bad at drawing horses but I'm really good at drawing elephants.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Se me da mal dibujar gatitos, pero se me da muy mal dibujar cachorros.",
+      "back": "I'm bad at drawing kittens but I'm really bad at drawing puppies.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Se me da mal dibujar jirafas, pero se me da peor dibujar cebras.",
+      "back": "I'm bad at drawing giraffes but I'm worse at drawing zebras.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Se me da más o menos bien dibujar caras, pero se me da mejor dibujar manos.",
+      "back": "I'm ok at drawing faces but I'm better at drawing hands.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Se me da más o menos bien dibujar ojos, pero se me da bien dibujar bocas.",
+      "back": "I'm alright at drawing eyes but I'm good at drawing mouths.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Se me da más o menos bien dibujar orejas, pero se me da muy mal dibujar narices.",
+      "back": "I'm average at drawing ears but I'm really bad at drawing noses.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Se me da genial dibujar bicis, pero se me da muy mal dibujar coches.",
+      "back": "I'm great at drawing bikes but I'm really bad at drawing cars.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Se me da fenomenal dibujar trenes, pero se me da más o menos bien dibujar camionetas.",
+      "back": "I'm brilliant at drawing trains but I'm average at drawing vans.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Se me da fenomenal dibujar autobuses, pero se me da bastante mal dibujar aviones.",
+      "back": "I'm excellent at drawing buses but I'm quite bad at drawing planes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Se me da fatal dibujar cachorros, pero se me da más o menos bien dibujar gatitos.",
+      "back": "I'm useless at drawing puppies but I'm ok at drawing kittens.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Se me da fatal dibujar cebras, pero se me da más o menos bien dibujar jirafas.",
+      "back": "I'm terrible at drawing zebras but I'm alright at drawing giraffes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Se me da fatal dibujar personas, pero se me da aún peor dibujar edificios.",
+      "back": "I'm awful at drawing people but I'm worse at drawing buildings.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Mi hijo está haciendo un dibujo de un caballo.",
+      "back": "My son is doing a drawing of a horse.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Tu hijo está haciendo un dibujo de un caballo también.",
+      "back": "Your son is doing a drawing of a horse, too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Nuestros dos hijos están haciendo dibujos de caballos.",
+      "back": "Both of our sons are doing drawings of horses.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Su hija de él hace dibujos de casas a menudo.",
+      "back": "His daughter often does drawings of houses.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Sus hijas de ella hacen dibujos de casas a menudo también.",
+      "back": "Her daughters often do drawings of houses, too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Sus dos hijas de ellos hacen dibujos de casas a menudo.",
+      "back": "Both of their daughters often do drawings of houses.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "A mi hijo le encanta hacer dibujos de perros.",
+      "back": "My son loves doing drawings of dogs.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Tu hijo odia hacer dibujos de perros.",
+      "back": "Your son hates doing drawings of dogs.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "A nuestras hijas les encanta hacer dibujos de perros, pero odian hacer dibujos de gatos.",
+      "back": "Our daughters love doing drawings of dogs but hate doing drawings of cats.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Puede tu hija hacer un dibujo de un gato?",
+      "back": "Can your daughter do a drawing of a cat?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Puede su hijo de ellos hacer un dibujo de un gato?",
+      "back": "Can their son do a drawing of a cat?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Pueden los dos hacer un dibujo de un gato?",
+      "back": "Can both of them do a drawing of a cat?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Pueden tu hijo y tu hija hacerme un dibujo de una casa?",
+      "back": "Can your son and daughter do me a drawing of a house?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Pueden ellos hacernos un dibujo de un caballo también?",
+      "back": "Can they do us a drawing of a horse, too?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Pueden los dos hacernos un dibujo de un perro?",
+      "back": "Can both of them do us a drawing of a dog?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Kate está pintando en el jardín, mientras que su hermana está haciendo un dibujo arriba en su habitación.",
+      "back": "Kate's painting in the garden, while her sister's drawing a picture in her room upstairs.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "La hermana de Kate baja y hace otro dibujo, mientras que Kate continúa pintando en el jardín.",
+      "back": "Kate's sister goes downstairs and draws another picture while Kate continues painting in the garden.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "La hermana de Kate deja de dibujar y vuelve a subir, mientras que Kate empieza a pintar una vieja silla.",
+      "back": "Kate's sister stops drawing and goes back upstairs while Kate starts painting an old chair.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Kate, ¿vas a pintar todas las paredes de las plantas de arriba y abajo?",
+      "back": "Kate, are you going to paint all the walls upstairs and downstairs?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Por supuesto que no, sólo voy a pintar todas las paredes de mi habitación arriba.",
+      "back": "Of course not, I'm only going to paint all the walls of my room upstairs.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Alguien debería pintar el feo muro de ahí.",
+      "back": "Someone should paint the ugly wall over there.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Mira, Kate, ¡Paul el alto está reformando su tienda! ¡Y está pintando todas las paredes de rosa!",
+      "back": "Look, Kate, tall Paul is renovating his shop! And he's painting all the walls pink!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "No creo que Paul el alto pinte todas las paredes de rosa. Estoy segura de que pintará el techo de blanco.",
+      "back": "I don't think tall Paul will paint all the walls pink. I'm sure he'll paint the ceiling white.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Creo que Paul el alto debería pintar todas las paredes de verde y la puerta de entrada de negro.",
+      "back": "I think tall Paul should paint all the walls green and the front door black.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿De qué color vas a pintarte las uñas, Kate? ¿Puedo pintármelas yo también?",
+      "back": "What colour are you going to paint your fingernails, Kate? Can I paint mine too?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Me las voy a pintar de rojo, como las uñas del pie.",
+      "back": "I'm going to paint them red, like my toenails.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¿De qué color me pinto las uñas de la mano y del pie?",
+      "back": "What colour should I paint my fingernails and my toenails?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Kate está pintándose los labios y la cara, pero su hermana sólo se está pintando los ojos.",
+      "back": "Kate's putting on lipstick and makeup, but her sister's only putting mascara on.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Voy a una fiesta luego, así que voy a pintarme los labios de rojo y los ojos de azul.",
+      "back": "I'm going to a party later, so I'm going to put red lipstick and blue eyeshadow on.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Kate nunca va a una fiesta sin pintarse la cara, los ojos y los labios.",
+      "back": "Kate never goes to a party without putting on makeup, mascara, eyeshadow and lipstick.",
+      "sourcePage": 13
+    }
+  ]
+}

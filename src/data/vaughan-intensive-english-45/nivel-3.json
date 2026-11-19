@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-45",
+  "bookTitle": "Libro 45",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Iba a dibujar una mano, pero acabé dibujando una pata.",
+      "back": "I was going to draw a hand but I ended up drawing a paw.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Ibas a dibujar un paisaje campestre, pero acabaste dibujando un paisaje urbano.",
+      "back": "You were going to draw a landscape but you ended up drawing a cityscape.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Si dibujaras mejor, no acabarías dibujando patas en vez de manos.",
+      "back": "If you drew better, you wouldn't end up drawing paws instead of hands.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Quería dibujar como Picasso, pero acabé dibujando como mi sobrino.",
+      "back": "I wanted to draw like Picasso, but I ended up drawing like my nephew.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Ella quería dibujar como Velázquez, pero acabó dibujando como su hija.",
+      "back": "She wanted to draw like Velázquez, but she ended up drawing like her daughter.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Si practicaran más, no acabarían dibujando como niños.",
+      "back": "If they practiced more, they wouldn't end up drawing like children.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Querían que ella les dibujara como estrellas del cine.",
+      "back": "They wanted her to draw them as movie stars.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Ella quería que él la dibujara como una estrella del pop, pero acabó por dibujarla como una vieja.",
+      "back": "She wanted him to draw her as a pop star, but he ended up drawing her as an old woman.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Él quería que ella lo dibujara como una estrella del rock, pero ella acabó dibujándolo como un perro.",
+      "back": "He wanted her to draw him as a rock star, but she ended up drawing him as a dog.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Me iba a dibujar como una estrella del pop, pero en vez de eso me hizo parecer una estrella del tenis.",
+      "back": "He was going to draw me as a popstar, but he made me look like a tennis star instead.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Si no hubieras hecho que mis manos parecieran patas, no te pediría que me hicieras el dibujo de nuevo.",
+      "back": "If you hadn't made my hands look like paws, I wouldn't ask you to do the drawing of me again.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Me ibas a dibujar como una estrella de fútbol, pero acabaste haciéndome parecer gordo.",
+      "back": "You were going to draw me as a football star, but you ended up making me look fat!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Si él practicara tanto como Velázquez, dibujaría tan bien como él.",
+      "back": "If he practiced as much as Velázquez, he would draw as well as him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Si él pareciera más guapo, no querría que ella le dibujara como una estrella de cine.",
+      "back": "If he looked more handsome, he wouldn't want her to draw him as a movie star.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Él no acabaría dibujando un paisaje urbano que pareciera un paisaje campestre si dibujara tan bien como Picasso.",
+      "back": "He wouldn't end up drawing a cityscape that looked like a landscape if he drew as well as Picasso.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "A pesar de que me quedé despierto empollando toda la noche, me quedé en blanco cuando me preguntaron sobre la música barroca.",
+      "back": "Despite the fact that I stayed up all night cramming, I drew a blank when they asked me about baroque music.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "A pesar de que me quedé despierto empollando toda la noche, me quedé en blanco cuando me preguntaron sobre el existencialismo.",
+      "back": "Despite staying up all night cramming, I drew a blank when they asked me about existentialism.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "A pesar de todo lo que empollé, me quedé en blanco cuando me preguntaron sobre El Rey Lear.",
+      "back": "Despite all the cramming I did, I drew a blank when they asked me about King Lear.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Hay muy pocas cosas que no diría. ¡Pero no insultaría a la gente!",
+      "back": "There's very little I won't say. But I draw the line at insulting people!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Hay muy pocas cosas que ella no haría en la oficina. Lo único que no haría es limpiar el aseo.",
+      "back": "There's very little she won't do at the office. She only draws the line at cleaning the loo.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Hay muy pocas cosas que él no comería. ¡Pero no comería algo que todavía se mueve!",
+      "back": "There's very little he won't eat. But he draws the line at anything that's still moving!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "¿Te resulta difícil diferenciar tu trabajo de tu vida privada?",
+      "back": "Do you find it hard to draw a line between your job and your private life?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "A la mayoría de la gente le resulta difícil diferenciar su trabajo de su vida privada.",
+      "back": "Most people find it hard to draw a line between their jobs and their private lives.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Me está resultando cada vez más difícil diferenciar mi trabajo de mi vida privada.",
+      "back": "I'm finding it harder and harder to draw a line between my job and my private life.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Me gustaría que centrarais vuestra atención en el cráneo que hay al fondo del cuadro.",
+      "back": "I'd like to draw your attention to the skull in the background of the painting.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Me gustaría que centrarais vuestra atención en el puñal que hay en el primer plano del cuadro.",
+      "back": "I'd like to draw your attention to the dagger in the foreground of the painting.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Me gustaría que centrarais vuestra atención en la llama que hay en la parte superior derecha del cuadro.",
+      "back": "I'd like to draw your attention to the flame in the top right of the painting.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Pensaba que el chiste sobre el ladrón y el pingüino provocaría una sonrisa, pero no. ¡Jope!",
+      "back": "I thought that joke about the thief and the penguin would draw a smile, but it didn't. Sugar!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Pensaba que ese chiste sobre el inglés, el irlandés y el escocés provocaría una sonrisa, pero no. ¡Vaya!",
+      "back": "I thought that joke about the Englishman, the Irishman and the Scotsman would draw a smile, but it didn't. Darn!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Pensaba que ese chiste sobre el payaso y la pecera provocaría una sonrisa, pero no. ¡Jolín!",
+      "back": "I thought that gag about the clown and the fish tank would draw a smile, but it didn't. Damn!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Estáis listos para fijar una reunión o tenéis que redactar primero el contrato?",
+      "back": "Are you ready to set up a meeting or do you have to draw up the contract first?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Todavía no estamos listos para fijar una reunión; nuestro abogado tiene que redactar el contrato primero.",
+      "back": "We're not ready to set up a meeting yet; our lawyer needs to draw up the contract first.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Me temo que no estamos de acuerdo con estas condiciones. Una vez que hayas redactado un nuevo contrato, podemos fijar una reunión.",
+      "back": "I'm afraid we can't agree with these terms and conditions. Once you draw up a new contract, we can set up a meeting.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Has ideado un plan sobre cómo podemos evitar despedir a gente?",
+      "back": "Have you drawn up a plan as to how we can avoid laying off people?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "No, no he elaborado un plan todavía. No tengo ni idea de cómo podemos evitar despedir a gente.",
+      "back": "No, I haven't drawn up a plan yet. I have no idea how we can avoid laying off people.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Sí, he ideado un plan sobre cómo reestructurar la empresa. Así no habrá que despedir a nadie.",
+      "back": "Yes, I've drawn up a plan about how to restructure the company. That way we won't have to lay off anyone.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "¿Has elaborado la lista? Te lo agradecería si pudiéramos repasarla rápido.",
+      "back": "Did you draw up the list? I'd appreciate it if we could run through it quickly.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Los estados miembros repasaron rápidamente la lista de políticas que habían elaborado.",
+      "back": "The member states ran through the list of policies they had drawn up.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "No queda mucho tiempo, por lo cual te lo agradecería si pudiéramos empezar a elaborar la lista ahora.",
+      "back": "There's not much time left, so I'd appreciate it if we could start drawing up the list now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Repasemos los resultados de la campaña. Jack, ¿has elaborado ya una tabla?",
+      "back": "Let's run through the results of the campaign. Jack, have you drawn up a table yet?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "En cuanto termines de elaborar la tabla, fijaremos una reunión.",
+      "back": "As soon as you finish drawing up the table, we'll set up a meeting.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Elaboraron una tabla con información sobre todos los trabajadores que habían despedido ese año.",
+      "back": "They drew up a table with information about all the workers they had laid off that year.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Luke, arrima una silla. Tenemos que hablar.",
+      "back": "Luke, draw up a chair. We need to talk.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Acercad vuestras sillas a la mesa para que podáis echar un vistazo a la tabla que he elaborado.",
+      "back": "Please draw up your chairs to the table so you can have a look at the table I've drawn up.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Ella acercó más la silla al fuego para poder calentarse las manos.",
+      "back": "She drew up her chair closer to the fire so she could warm her hands.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Últimamente hace muchos bocetos, pero cuando era pequeña nunca esbozaba.",
+      "back": "She often makes sketches these days but when she was little she never sketched.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Últimamente sólo hace bocetos de vez en cuando, pero cuando estaba en el cole esbozaba muy a menudo.",
+      "back": "She only makes sketches once in a while these days, but when she was at school she sketched very often.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "De niña hacía bocetos todo el tiempo, pero últimamente sólo hace bocetos de vez en cuando.",
+      "back": "As a child she sketched all the time but these days she only makes sketches once in a while.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Hicieron un boceto del paisaje campestre antes de hacer el dibujo?",
+      "back": "Did they make a sketch of the landscape before they did the drawing?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Antes de hacer el dibujo, me aseguré de hacer un boceto aproximado del paisaje campestre.",
+      "back": "Before I did the drawing, I made sure to make a rough sketch of the landscape.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Antes de hacer los dibujos, nos aseguramos de hacer unos bocetos del paisaje urbano.",
+      "back": "Before we did the drawings, we made sure to make some sketches of the cityscape.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Asegúrate de esbozar una idea general del aspecto que quieres que tenga la pata.",
+      "back": "Make sure to sketch a rough idea of what you want the paw to look like.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Esbocé una idea general del aspecto que quieres que tenga la pata, pero no estoy seguro de que tenga buen aspecto.",
+      "back": "I sketched a rough idea of what I want the paw to look like, but I'm not sure it looks right.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Él esbozó una idea general de cómo quería que le saliera la pata, pero su esbozo parece más una mano que una pata.",
+      "back": "He sketched a rough idea of what he wanted the paw to look like, but his sketch looks more like a hand than a paw.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Asegúrate de bosquejar los cerros y el cielo antes de esbozar las casas.",
+      "back": "Make sure to sketch out the hills and the sky before you sketch the houses.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Bosquejé el fondo antes de elaborar los detalles.",
+      "back": "I sketched out the background before I filled in the details.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Bosquejó una idea general del fondo antes de elaborar los detalles particulares del primer plano.",
+      "back": "He sketched out a rough idea of the background before he filled in the finer details of the foreground.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Hoy en día se aseguran de hacer todos sus bocetos en sus blocs de dibujos antes de hacer sus dibujos.",
+      "back": "These days they make sure to make all of their sketches in their sketchpads before they do their drawings.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Los fondos que bosquejó en su bloc de dibujos se parecen a los fondos de sus dibujos de paisajes urbanos.",
+      "back": "The backgrounds that he sketched out in his sketchpad look like the backgrounds in his drawings of cityscapes.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Mi bloc de dibujos te dará una idea general del aspecto que tienen mis dibujos, pero siempre es difícil ver los detalles particulares en los bocetos.",
+      "back": "My sketchpad will give you a rough idea of what my drawings look like, but it's always hard to see the finer details in sketches.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "No sé mucho de arte, ¡pero me encanta este cuadro! Los colores vivos realmente lo hacen destacar.",
+      "back": "I don't know much about art, but I love this painting! The bright colours really make it stand out.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Los cuadros de Dalí me resultan demasiado surrealistas y perturbadores.",
+      "back": "I find Dali's paintings too surreal and disturbing.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Sé que Miguel Ángel es más famoso por sus cuadros, pero prefiero sus bocetos.",
+      "back": "I know Michelangelo's most famous for his paintings, but I prefer his sketches.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Éste es un ejemplo magnífico de una acuarela de la escuela inglesa del siglo XVIII.",
+      "back": "This is a superb example of a watercolour from the English school of the 18th century.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Aunque el artista es más conocido por su uso de acuarelas, su soporte preferido era óleo en lienzo.",
+      "back": "Although the artist is best known for his use of watercolours, his preferred medium was oils on canvas.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Este museo alberga una colección extensa tanto de acuarelas como de pinturas al óleo de los artistas más célebres de Europa occidental.",
+      "back": "This gallery houses an extensive collection of both watercolours and oil paintings from Western Europe's most celebrated artists.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Mira las delicadas pinceladas que ha usado el artista en este retrato de su madre.",
+      "back": "Look at the delicate brushstrokes used by the artist in this portrait of his mother.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "¿Qué conclusiones se pueden sacar del uso del artista de pinceladas tan violentas en su autorretrato?",
+      "back": "What conclusions can be drawn from the artist's use of such violent brushstrokes in his self-portrait?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "¿Ves cómo ha empleado el artista las pinceladas y la aplicación densa de pintura con tan buenos resultados en este retrato?",
+      "back": "Can you see how the artist has used the brushstrokes and the thick application of paint to great effect in this portrait?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "La mayoría de los bodegones del artista fueron pintados en óleos, aunque también experimentaba con acuarela.",
+      "back": "The majority of the artist's still-lifes were painted in oils, although he also experimented with watercolour.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Monet fue uno de los primeros artistas en romper la tradición de un fondo oscuro en los bodegones.",
+      "back": "Monet was one of the first artists to break the tradition of a dark background in still-lifes.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "La composición de este bodegón es sumamente compleja, con elementos compitiendo tanto en el primer plano como en el fondo.",
+      "back": "The composition of this still-life is extremely complex, with competing elements in both the foreground and background.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Aunque el artista es conocido por sus paisajes urbanos en óleos, produjo varios paisajes campestres en el mismo soporte.",
+      "back": "Although the artist is renowned for his cityscapes in oils, he produced a number of landscapes in the same medium.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "El célebre paisaje de Turner es una representación del último viaje de un héroe de guerra.",
+      "back": "Turner's celebrated seascape is a depiction of the last voyage of a war hero.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Este paisaje data de 1650 y precede a ejemplos parecidos de la obra del artista.",
+      "back": "This landscape dates from 1650 and predates similar examples of the artist's work.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Tengo una aplicación fantástica en mi ordenador que me permite retocar fotos feas de mí y hacerme parecer hermosa!",
+      "back": "I have a fantastic application on my computer that allows me to touch up ugly pictures of myself and make me look beautiful!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "La mayoría de las fotos de las carteleras están retocadas para que los modelos estén impecables. Me parece malo para la sociedad.",
+      "back": "Most billboard pictures are touched up to make the model look impeccable. I think it's bad for society.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "¡No retoques mi foto! ¡Quiero que me hagas una foto con todas mis imperfecciones para que el mundo vea que yo también soy imperfecta!",
+      "back": "Don't touch up my photo. I want you to take a warts-and-all picture of me so that the world can see that I am also imperfect!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Siempre que escribo con lápices, utilizo una goma para borrar las erratas que cometo, y cuando utilizo un bolígrafo, siempre me funciona el líquido corrector.",
+      "back": "Whenever I write with pencils, I use a rubber to rub out the mistakes I make, and when I use a pen, correction fluid always does the trick.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Si aplicas con demasiada fuerza el lápiz, entonces te resultará difícil borrar las palabras si cometes un fallo.",
+      "back": "If you push your pencil to the paper too hard, then it'll be difficult for you to rub out the words if you make a mistake.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Siempre que utilizo esta goma para borrar palabras, deja una mancha residual que queda peor que si simplemente lo hubiera tachado.",
+      "back": "Whenever I use this rubber to rub words out, it leaves a residual mark that looks worse than it would if I'd just crossed it out.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "A este apartamento sólo le hace falta una mano de pintura.",
+      "back": "This apartment just needs a lick of paint.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "¡Le he dado una mano de pintura a este sitio! Sé que me he dejado un poco ahí, ¡pero lo cubriré con un marco!",
+      "back": "I've given the place a lick of paint! I know I've missed a spot there, but I'll cover it with a picture frame!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¡Este cuarto necesita desesperadamente una mano de pintura!",
+      "back": "This bedroom is in desperate need of a lick of paint!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "¡Maximus, los elefantes son grises, no verdes! ¿Por qué no los coloreas usando el lápiz del color correcto?",
+      "back": "Maximus, elephants are grey, not green! Why don't you colour them in using the correct crayon?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "¡Héctor! Cuando coloreas las formas, ¡no tienes que salirte de la línea!",
+      "back": "Hector! When you colour in the shapes, you need to stay within the lines!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "¡Warren! La próxima vez que colorees el cielo, ¡no lo pintes de rojo!",
+      "back": "Warren! Next time you colour in the sky, don't colour it in red!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Los cambios importantes de los contratos actualizados fueron resumidos para la plantilla por el gerente de Recursos Humanos.",
+      "back": "The major changes in the updated contracts were clearly outlined to the staff by the Human Resources manager.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Las modificaciones de las condiciones no estaban destacadas claramente porque estaban escondidas en la letra pequeña.",
+      "back": "The modifications to the terms and conditions weren't clearly outlined because they were hidden in the small print.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Él tiene la sensación de que hubo demasiadas cláusulas encubiertas en el contrato de compraventa que no fueron destacadas por el vendedor, y cree que fue estafado.",
+      "back": "He feels that there were too many hidden clauses in the sales agreement that were not outlined by the salesman and he reckons he was conned.",
+      "sourcePage": 41
+    }
+  ]
+}
