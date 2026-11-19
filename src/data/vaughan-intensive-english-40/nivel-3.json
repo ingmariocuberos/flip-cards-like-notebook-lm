@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-40",
+  "bookTitle": "Libro 40",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "La voz de Ernesto cambió mientras daba un discurso delante de toda la clase. Se sintió totalmente avergonzado.",
+      "back": "Ernesto's voice broke while he was giving a speech in front of the whole class. He was totally mortified.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Me acuerdo del día en el que me cambió la voz como si fuera ayer. Estaba hablando con mis amigos y de repente cambió. ¡Todos se rieron!",
+      "back": "I remember the day my voice broke like it was yesterday. I was talking with my friends and suddenly it broke. Everyone laughed!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Que yo sepa, las voces de las mujeres no cambian, pero cuando son adultas sus voces parecen más profundas que de niñas.",
+      "back": "As far as I know, girl's voices don't break, but as adults, their voices seem deeper than when they're children.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Cuando consigues no caerte, tienes que asegurarte de que lo haces de forma digna para no pasar vergüenza.",
+      "back": "When you break a fall, you have to make sure that you do so gracefully so as not to embarrass yourself.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Creí que me iba a caer al pantano, pero de alguna manera logré evitar la caída milagrosamente.",
+      "back": "I thought I was going to fall into the swamp, but somehow I managed to break my fall miraculously.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Si no hubiera evitado la caída después de tropezarme con el cable, ahora estaría fuera de circulación.",
+      "back": "If I hadn't broken my fall after tripping on the wire, I would now be out of action.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Le pedí al tendero que me diera cambio de un billete de veinte libras, ¡pero me dio mal el cambio!",
+      "back": "I asked the shopkeeper to break a twenty-pound note for me, but he short-changed me!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Si le hubiera pedido que me diera cambio de un billete de veinte libras, ¡le habría recordado que le había dado un billete de veinte libras!",
+      "back": "If I'd asked him to break a twenty-pound note for me, I would have reminded him that I'd given him a twenty-pound note!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Bueno, insistí y finalmente se rindió y me dio el cambio correcto, ¡sin contar la caja siquiera!",
+      "back": "Well, I insisted and he gave in eventually and broke the note for me properly, without even counting the till!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "A un hombre se le puede destrozar, pero también puede reponerse.",
+      "back": "A man can be broken down, but he can also pick himself up again.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Cómo narices logró ella destrozarlo y convertirlo en un pedacito del hombre que era?",
+      "back": "How on earth did she manage to break him down and reduce him to a fraction of the man that he was?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Era un hombre extrovertido, pero su esposa dominante lo destrozó lentamente a lo largo de los años.",
+      "back": "He was a confident, outgoing man, but his domineering wife broke him down slowly over the years.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "La innovación es la clave para despuntar en cualquier sector. ¡Esteban Trabajos sin duda lo hizo en su vida profesional!",
+      "back": "Innovation is key if you want to break new ground in any industry. Esteban Trabajos definitely did during his career!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Me habría encantado llevar a cabo actividades pioneras en la investigación del cáncer. Ahora supongo que le toca a la nueva generación.",
+      "back": "I would have loved to have broken new ground in cancer research. Now I guess it's up to the new generation.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Tengo toda mi fe puesta en que se llevarán a cabo actividades pioneras en la búsqueda de una cura para las enfermedades más peligrosas del mundo.",
+      "back": "I have every faith that new ground will be broken in the quest to find a cure for the world's most dangerous diseases.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Alguna vez estallan las guerras por algo por lo que merezca la pena morir?",
+      "back": "Do wars ever break out over anything worth dying for?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "¡No me extraña nada que estallara un incendio con todas esas colillas que hay por todos lados!",
+      "back": "I'm hardly surprised a fire broke out with all those cigarette butts lying around!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "No es precisamente culpa de la Luna si estalló una pelea en el bar anoche.",
+      "back": "It's hardly the Moon's fault if a row broke out in the pub last night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "¿Cómo que estalló una pelea por unos frutos secos entre dos ardillas?",
+      "back": "What do you mean a quarrel over some nuts broke out between two squirrels?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Más vale que espabilemos. No quiero estar aquí si estalla una bronca entre esos dos.",
+      "back": "We'd better get a move on. I don't want to be here if a brawl breaks out between those two.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "¿Estalló una disputa sobre los impuestos entre los dos políticos?",
+      "back": "Did a squabble over taxes break out between the two politicians?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "No puedo evitar ponerme a cantar cuando el agua caliente en la ducha deja de correr de repente.",
+      "back": "I just can't help breaking into song when the hot water in the shower suddenly stops running.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "El público se puso a aplaudir cuando ella anunció su victoria de ellos.",
+      "back": "The audience broke into applause when she announced their victory.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Se pusieron a aplaudir en cuanto me puse a cantar. ¿Crees que en realidad querían que parara?",
+      "back": "They broke into applause as soon as I broke into song. Do you think they actually wanted me to stop?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Le vi echar a correr perseguido por un enjambre de abejas.",
+      "back": "I saw him break into a run chased by a swarm of bees.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "¡No me extraña nada que se pusiera a sudar!",
+      "back": "I'm hardly surprised he broke into a sweat!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Cómo puedes no empezar a sudar cuando echas a correr?",
+      "back": "How can you not break into a sweat when you break into a run?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Después de todos esos años en la universidad, Peggy por fin se introdujo en la industria publicitaria.",
+      "back": "After all those years at college, Peggy finally broke into the advertising industry.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Nadie apostaba un duro a que ella se introduciría en la industria cinematográfica. ¡Y mírala ahora!",
+      "back": "No one put any money on her breaking into the film industry. And look at her now!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "¿Quién iba a pensar que nos introduciríamos en la industria informática gracias a este pequeño dispositivo?",
+      "back": "Who would've thought we'd break into the computer industry thanks to this little device?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "China ha roto relaciones comerciales con Corea del Sur tras unos diálogos de crisis hostiles en Pekín.",
+      "back": "China has broken off trade relations with South Korea in the wake of hostile crisis talks in Beijing.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Tras las revelaciones de la semana pasada, Sudán ha roto relaciones intergubernamentales con Chad.",
+      "back": "In the wake of last week's revelations, Sudan has broken off intergovernmental relations with Chad.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Todas las relaciones diplomáticas entre Libia y Argelia se han roto tras otro brote de violencia en la frontera.",
+      "back": "All diplomatic relations between Libya and Algeria have been broken off in the wake of another outbreak of violence at the border.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Se rumorea que Prittney Spears está a punto de romper su relación con el que ha sido su amante durante mucho tiempo, Mark Swartz.",
+      "back": "Rumours are flying that Prittney Spears is about to break off her relationship with long-time lover, Mark Swartz.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Se rumorea que Mark Swartz fue, en realidad, el que cortó con Prittney.",
+      "back": "Rumours are flying that Mark Swartz was, in fact, the one who broke it off with Prittney.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "A pesar de que hay muchos rumores, ni Prittney ni Mark han negado haber roto su relación.",
+      "back": "Despite the fact that rumours are flying, neither Prittney nor Mark have denied breaking off their relationship.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Una investigación de la NASA revela que el ala del transbordador espacial se desprendió durante el regreso a la atmósfera.",
+      "back": "A NASA probe reveals the space shuttle's wing broke off during re-entry to the atmosphere.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Una nueva investigación del hundimiento del Titanic revela que la popa se desprendió.",
+      "back": "A new probe into the sinking of the Titanic reveals the stern broke off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Una investigación de la policía sobre el desplome del Puente Tibus ha revelado que se desprendieron varios cables de suspensión.",
+      "back": "A police probe into the collapse of the Tibus Bridge has revealed that several suspension cables broke off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "El ministro Domney jura que desmantelará el Servicio de Salud Nacional.",
+      "back": "Minister Domney vows to break the National Health Service apart.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Ciudadanos locales juran que harán todo lo posible para evitar que el embalse se haga trizas.",
+      "back": "Local townsfolk vow to do everything they can to prevent the dam from breaking apart.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Ingenieros nuevos juran que el nuevo transbordador espacial no se hará trizas durante el regreso.",
+      "back": "New engineers vow that the new space shuttle will not break apart on re-entry.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "El grupo U3 ha hecho una declaración confirmando que dos de sus miembros se han separado para formar su propio grupo.",
+      "back": "The band U3 has issued a statement confirming that two members have broken away to form their own band.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "En una declaración realizada ayer, Ucrania dijo que piensa separarse de la UE.",
+      "back": "In a statement issued yesterday, the Ukraine said it plans to break away from the EU.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "El nuevo gobierno hizo una declaración diciendo que creen que es hora de dejar el pasado atrás.",
+      "back": "The new government issued a statement saying they believe it's time to break away from the past.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Cuando se inclinó, sus pantalones se rompieron justo en el medio.",
+      "back": "When he bent over, his trousers split right up the middle.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "A pesar de estar normalmente muy unidos, la propuesta dividió al grupo.",
+      "back": "Despite usually being very united, the proposal really split the group.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Generalmente, se atribuye a Ernest Rutherford ser el primero en desintegrar el átomo en 1917.",
+      "back": "Ernest Rutherford is widely credited with being the first to split the atom in 1917.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Lo más fastidioso de este teléfono es que si se te cae, seguro que la pantalla se rajará.",
+      "back": "The annoying thing about this phone is that if you drop it, the screen is bound to crack.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Tienes que ponerte bálsamo labial en invierno. Si no, los labios se te agrietarán por el frío.",
+      "back": "You have to put lip balm on in the winter. If you don't, the cold will crack your lips.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "No pudo aguantar más sus exigencias. Llegó un momento en el que se hizo insoportable y sufrió una crisis nerviosa.",
+      "back": "He couldn't take any more of their demands. There came a point when it became too much and he cracked.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Oyó una ramita rompiéndose en la distancia y supo que lo estaban siguiendo.",
+      "back": "He heard a twig snapping in the distance and he knew he was being followed.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "No quería ponerme así contigo. Lo siento. He pasado un día infernal.",
+      "back": "I didn't mean to snap at you like that. I'm sorry. I've just had a hellish day.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "El tablón no se habría roto así si no te hubieras arrodillado encima.",
+      "back": "The plank wouldn't have snapped like that if you hadn't knelt on it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Algún bruto me ha robado la radio del coche. Consiguió entrar destrozando el parabrisas.",
+      "back": "Some thug has swiped my car radio. They got in by smashing my windscreen.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "El coche resbaló cruzando tres carriles antes de estrellarse contra el árbol.",
+      "back": "The car slid across three lanes of traffic before smashing into the tree.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Me amenazó con romperme la cara si no le daba las llaves de mi coche.",
+      "back": "He threatened to smash my face in if I didn't give up my car keys.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "La tapa de la olla se rompió en pedazos cuando la puso bajo el agua fría.",
+      "back": "The lid of the pot shattered into smithereens when he put it under the cold water.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Él cree que al decirme esto ha roto mis ilusiones. Pero, de hecho, me ha destrozado los sueños.",
+      "back": "He thinks that by telling me this he has shattered my illusions. But in fact, he's shattered my dreams.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Estuve despierto hasta el amanecer. ¡Estoy hecho polvo!",
+      "back": "I was awake till the crack of dawn. I'm absolutely shattered!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Dejé el trabajo. A pesar de todas las largas horas y de las vacaciones anuladas, la gota que colmó el vaso fue perder mi plaza de aparcamiento.",
+      "back": "I quit my job. In spite of all the long hours and cancelled holidays, it was losing my parking space that was the straw that broke the camel's back.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Después de todos los problemas, fue la gota que colmó el vaso.",
+      "back": "After all the problems, it was the straw that broke the camel's back.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¡Esto es el colmo! ¡Voy a presentar una queja formal!",
+      "back": "That's the last straw! I'm going to make a formal complaint!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "La verdad es que no podemos tomar estas medidas sin que se arme la gorda.",
+      "back": "We really can't take that course of action without all hell breaking loose.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Si ella descubriera que él le ha estado mintiendo, se armaría la gorda.",
+      "back": "If she found out that he's been lying to her, all hell would break loose.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Era una manifestación pacífica, y entonces se armó la gorda de repente.",
+      "back": "It was a peaceful protest, then suddenly all hell broke loose.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Los coches corrían por el circuito a una velocidad vertiginosa.",
+      "back": "The cars raced around the track at breakneck speed.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "La empresa está evolucionando a una velocidad vertiginosa.",
+      "back": "The company is developing at breakneck speed.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "No entendí lo que dijo. ¡Habla a una velocidad vertiginosa!",
+      "back": "I didn't catch what he said. He talks at breakneck speed!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Los campesinos trabajaban duro en los campos haciendo un trabajo matador.",
+      "back": "The peasants toiled in the fields doing back-breaking labour.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "La cosecha de la fruta puede ser un trabajo matador.",
+      "back": "Fruit-picking can be back-breaking work.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Sentarse en frente de un ordenador todo el día no es exactamente un trabajo matador.",
+      "back": "Sitting at a computer all day isn't exactly back-breaking work.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "El diputado rompió la disciplina de voto y votó contra su partido.",
+      "back": "The member of parliament broke ranks and voted against his party.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Los jugadores se rebelaron y mostraron abiertamente su desacuerdo con la decisión del capitán.",
+      "back": "The players broke ranks and openly disagreed with the captain's decision.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "A un soldado le harían un consejo de guerra por insubordinarse.",
+      "back": "A soldier would be court-martialed for breaking ranks.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Lo cierto es que tenemos que mejorar la gestión de nuestras finanzas si queremos cubrir gastos.",
+      "back": "We really need to improve how we manage our finances, if we're going to stand a chance at breaking even.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Si volvemos a analizar nuestra estrategia de ventas, todavía podríamos cubrir gastos.",
+      "back": "If we reanalyze our sales strategy we could still break even.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Si la empresa no hubiera tenido esa feria del libro en abril, no habría cubierto gastos.",
+      "back": "If the firm hadn't run that book fair in April, they wouldn't have broken even.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Venga! ¡Compremos unas cortinas nuevas para el salón! ¡No nos vamos a arruinar!",
+      "back": "Come on! Let's buy some new curtains for the living room! It won't break the bank!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "¡Me voy a arruinar con la subida de tarifas de los taxis!",
+      "back": "I'm going to end up breaking the bank with the increase in taxi fares.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "¡Me imagino que te habrás quedado sin un duro al comprar el coche nuevo!",
+      "back": "I'm guessing the new car you bought broke the bank!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Lo siento, tío, estoy sin un duro. La verdad es que no me puedo permitir salir esta noche.",
+      "back": "Sorry, mate, I'm broke. I really can't afford to come out tonight.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Siempre dice que está sin un duro, pero gana más dinero que todos nosotros juntos.",
+      "back": "He always says he's broke, but then earns more money than all of us put together.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¿De verdad que estás sin un duro? ¿O es que eres un tacaño?",
+      "back": "Are you really broke? Or is it more the case that you're tight-fisted?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "La pareja invirtió todo su dinero en la empresa, y si la empresa no sale bien, acabarán arruinados.",
+      "back": "The couple has invested all their money into the company, and if the business doesn't work out, they'll end up flat broke.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Pero cómo se te ocurre gastar todos nuestros ahorros así? ¡Estamos arruinados por culpa de tu estupidez!",
+      "back": "Why would you go and spend all our savings like that? We're flat broke because of your stupidity!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Dicen que Dwayne Wooney está sin un duro después de apostar todo su dinero en Las Vegas.",
+      "back": "They say that Dwayne Wooney is flat broke after he gambled all his money in Vegas.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Si tienes derecho a reclamar beneficios, tienes derecho a una exención tributaria.",
+      "back": "If you're eligible to claim benefits, then you're eligible for a tax break.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Él no esperaba una exención de impuestos, pero se puso muy contento al recibirla.",
+      "back": "He wasn't expecting a tax break, but he was very pleased to receive one.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Dado tu sueldo, creo que es improbable que tengas derecho a una exención tributaria.",
+      "back": "Based on your salary, I think that it's unlikely that you're entitled to a tax break.",
+      "sourcePage": 41
+    }
+  ]
+}

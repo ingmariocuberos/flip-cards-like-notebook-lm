@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-40",
+  "bookTitle": "Libro 40",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Eres tan torpe; siempre estás rompiendo mis cosas.",
+      "back": "You're so clumsy; you're always breaking my things.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Eso no es justo; no soy torpe y nunca rompo tus cosas.",
+      "back": "That's not fair; I'm not clumsy and I never break your things.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Por supuesto que eres torpe! Siempre rompes todos nuestros vasos de vino.",
+      "back": "Of course you're clumsy! You always break all our wine glasses.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "No des las tazas buenas a los niños; se rompen fácilmente.",
+      "back": "Don't give the good cups to the kids; they break easily.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "No puedes sentarte en esa silla; se rompe fácilmente.",
+      "back": "You can't sit on that chair; it breaks easily.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "No utilices esos altavoces; se rompen muy fácilmente.",
+      "back": "Don't use those speakers; they break very easily.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Siempre que estás borracha, rompes algo.",
+      "back": "Whenever you're drunk, you break something.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Cada vez que utilizo este reloj de pulsera, se rompe.",
+      "back": "Whenever I use this watch, it breaks.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Siempre que te presto algo mío, lo rompes.",
+      "back": "Whenever I lend you something of mine, you break it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Vale, te prestaré mi móvil, pero ten cuidado con no romperlo.",
+      "back": "Ok, I'll lend you my mobile, but be careful not to break it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Tenga cuidado de no romper este jarrón.",
+      "back": "Be careful not to break this vase!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Ten cuidado de que no se te caigan sus juguetes o los romperás.",
+      "back": "Be careful not to drop his toys or you'll break them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Es tan torpe; cada vez que le presto unos vasos, siempre los rompe.",
+      "back": "He's so clumsy; whenever I lend him some glasses, he always breaks them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Ten cuidado de no romper mi cámara; es muy cara.",
+      "back": "Be careful not to break my camera; it's very expensive.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "No entiendo por qué este portátil siempre se rompe tan fácilmente.",
+      "back": "I don't understand why this laptop always breaks so easily.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Te rompiste el brazo izquierdo ayer?",
+      "back": "Did you break your left arm yesterday?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Sí, desafortunadamente, me rompí el brazo izquierdo ayer.",
+      "back": "Yes, unfortunately, I broke my left arm yesterday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "No, afortunadamente, no me rompí el brazo izquierdo ayer.",
+      "back": "No, fortunately, I didn't break my left arm yesterday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Se rompió él una costilla después del accidente?",
+      "back": "Did he break a rib after the accident?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Sí, desafortunadamente, se rompió una costilla después del accidente.",
+      "back": "Yes, unfortunately, he broke a rib after the accident.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No, afortunadamente, no se rompió ninguna costilla después del accidente.",
+      "back": "No, fortunately, he didn't break any ribs after the accident.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Se rompió ella la muñeca derecha después de caerse de la silla?",
+      "back": "Did she break her right wrist after she fell off the chair?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Sí, me temo que ella se rompió la muñeca derecha después de caerse de la silla.",
+      "back": "Yes, I'm afraid she broke her right wrist after she fell off her chair.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No, menos mal que ella no se rompió la muñeca derecha después de caerse de la silla.",
+      "back": "No, thankfully she didn't break her right wrist after she fell off the chair.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Me he roto un dedo del pie, doctor?",
+      "back": "Did I break a toe, doctor?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Sí, la radiografía demuestra que te has roto un dedo del pie.",
+      "back": "Yes, the X-ray shows that you broke a toe.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "No, la radiografía demuestra que no te has roto ningún dedo del pie.",
+      "back": "No, the X-ray shows that you didn't break any toes.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Sandra se rompió la pierna izquierda después de caerse del caballo.",
+      "back": "Sandra broke her left leg after falling off the horse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Te equivocas. Sandra no se rompió la pierna izquierda después de caerse del caballo.",
+      "back": "You're mistaken. Sandra didn't break her left leg after falling off the horse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Tienes razón. Sandra se rompió la pierna izquierda después de caerse del caballo.",
+      "back": "You're right. Sandra broke her left leg after falling off the horse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Qué pasa? Tengo una pierna rota.",
+      "back": "What's wrong? I have a broken leg.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Qué le pasa a él? Tiene un brazo roto.",
+      "back": "What's wrong with him? He has a broken arm.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Qué le pasa a ella? Tiene el corazón roto.",
+      "back": "What's wrong with her? She has a broken heart.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "No puedo ir, tengo la pierna rota.",
+      "back": "I can't go, my leg's broken.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Él tampoco puede ir, tiene el brazo roto.",
+      "back": "He can't go either, his arm's broken.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Pero ella sí que puede ir! ¡Sólo tiene el corazón roto!",
+      "back": "But she can go! Only her heart's broken!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¡Oh no! ¡Mi móvil está roto!",
+      "back": "Oh no! My mobile phone's broken!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Está roto tu portátil?",
+      "back": "Is your laptop broken?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Qué pasa? ¡Su portátil y mi móvil están rotos!",
+      "back": "What's wrong? His laptop and my mobile phone are broken!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "El ordenador no funciona porque el teclado está roto.",
+      "back": "The computer doesn't work because the keyboard's broken.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Puedes usar otro teclado si ése está roto.",
+      "back": "You can use another keyboard if that one's broken.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Pero el monitor también está roto...",
+      "back": "But the monitor's broken too...",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Qué pasa ahora? ¡La lavadora está rota!",
+      "back": "What's wrong now? The washing machine's broken!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Bueno, si la lavadora está rota, no podemos hacer la colada.",
+      "back": "Well, if the washing machine's broken, we can't do the laundry.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Y cómo vamos a hacer el Momento Lavadora de la página 83 con una lavadora rota?",
+      "back": "And how are we going to do the Momento Lavadora on page 83 with a broken washing machine?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "No voy a romper las reglas. ¡Lo prometo!",
+      "back": "I'm not going to break the rules. I promise!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Los niños son muy traviesos. Están siempre rompiendo las reglas.",
+      "back": "The children are very naughty. They're always breaking the rules.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡No vuelvas a romper las reglas!",
+      "back": "Don't break the rules again!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Nunca infringiré la ley!",
+      "back": "I will never break the law!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "El criminal infringió la ley e irá a la cárcel.",
+      "back": "The criminal broke the law and will go to prison.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Por qué infringió la ley?",
+      "back": "Why did he break the law?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Nunca falto a una promesa.",
+      "back": "I never break a promise.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "No faltará a la promesa que nos hizo.",
+      "back": "He won't break his promise to us.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¡Deja de faltar a tu promesa!",
+      "back": "Stop breaking your promise!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "No es fácil batir un récord.",
+      "back": "It's not easy to break a record.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "El atleta batió el récord del mundo de los 500 metros.",
+      "back": "The athlete broke the world record for the five hundred meters.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Ella quiere batir el récord de remo.",
+      "back": "She wants to break the record for rowing.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Fumar es una costumbre muy difícil de dejar.",
+      "back": "Smoking is a very difficult habit to break.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Corregir la gramática de nuestros amigos es una costumbre difícil de dejar.",
+      "back": "Correcting our friends' grammar is a hard habit to break.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Ir al gimnasio todos los días es una costumbre muy fácil de dejar.",
+      "back": "Going to the gym every day is an easy habit to break.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Paremos para comer a la una.",
+      "back": "Let's break for lunch at 1pm.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Ayer paramos para tomar café dos veces antes del mediodía.",
+      "back": "Yesterday we broke for coffee twice before noon.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Suelen parar para tomar el té a las seis.",
+      "back": "They usually break for a tea at around 6 o'clock.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Me tomaré un descanso cuando pueda.",
+      "back": "I'll take a break when I can.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Todos estamos cansados. ¿Nos tomamos un descanso?",
+      "back": "We're all tired. Shall we take a break?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Necesitas descansar. Tómate un descanso.",
+      "back": "You need to rest. Take a break.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Me tomaré un descanso largo después de terminar este informe.",
+      "back": "I'll have a long break after I finish this report.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¡No puedes tomarte un descanso ahora! ¡Te tomaste un descanso hace cinco minutos!",
+      "back": "You can't have a break now! You had a break five minutes ago!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¡No estoy haciendo el vago! ¡Me estoy tomando un descanso!",
+      "back": "I'm not lazing about! I'm having a break!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Di una vuelta a la manzana para tomarme un descanso rápido.",
+      "back": "I went around the block for a quick break.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Voy a subir a la azotea para tomarme un descanso. Necesito despejarme.",
+      "back": "I'm going up to the terrace for a break. I need to clear my head.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Necesitas algo de aire fresco. Tómate un descanso y después vuelve.",
+      "back": "You need some fresh air. Go for a break and then come back.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Siento ser tan directo, pero de veras necesito un descanso para ir al baño.",
+      "back": "Sorry to be so blunt, but I really need a bathroom break!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Deja a Joe en paz. Necesita un descanso.",
+      "back": "Leave Joe alone. He needs a break.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Yo necesitaba un descanso después de cinco horas.",
+      "back": "After five hours I needed a break.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Por qué no paramos para tomar un café?",
+      "back": "Why don't we go for a coffee break?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Por qué no paramos para fumar un cigarro?",
+      "back": "Why don't we go for a cigarette break?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Por qué no paramos para comer?",
+      "back": "Why don't we go for our lunch break?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Está bien si paramos para tomar un café ahora?",
+      "back": "Is it ok if we take a coffee break now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Está bien si paramos para fumar un cigarro ahora?",
+      "back": "Is it ok if we take a cigarette break now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Está bien si paramos para comer ahora?",
+      "back": "Is it ok if we take our lunch break now?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Dónde están? Han parado para tomar café.",
+      "back": "Where are they? They're having a coffee break.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Dónde están? Han parado para fumarse un cigarro.",
+      "back": "Where are they? They're having a cigarette break.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Dónde están? Han parado para comer.",
+      "back": "Where are they? They're having their lunch break.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Me voy de escapada a Bruselas.",
+      "back": "I'm going on a city break to Brussels.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Voy a pasar el fin de semana en Edimburgo.",
+      "back": "I'm going on a weekend break to Edinburgh.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Voy a hacer una visita cultural en los Pirineos.",
+      "back": "I'm going on a cultural break in the Pyrenees.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Me fui de escapada a Bruselas.",
+      "back": "I went on a city break to Brussels.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Pasé un fin de semana en Edimburgo.",
+      "back": "I went on a weekend break to Edinburgh.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Pasé un fin de semana cultural en los Pirineos.",
+      "back": "I went on a cultural break in the Pyrenees.",
+      "sourcePage": 13
+    }
+  ]
+}
