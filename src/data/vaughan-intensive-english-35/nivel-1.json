@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-35",
+  "bookTitle": "Libro 35",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Deberías hacer los deberes ahora, no después!",
+      "back": "You should do your homework now, not later!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Deberías lavarte los dientes tres veces al día.",
+      "back": "You should brush your teeth three times a day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "No deberías hablar nunca con extraños.",
+      "back": "You should never talk to strangers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Deberíamos ir al cine esta noche.",
+      "back": "We should go to the cinema tonight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Pero entonces deberíamos comprar las entradas pronto.",
+      "back": "But then we should buy the tickets soon.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Deberíamos ver esta película, es graciosa y te animará.",
+      "back": "We should see this film, it's funny and it will cheer you up.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Fíjate en ese peinado! Ella debería ir al peluquero.",
+      "back": "Look at that haircut! She should go to the hairdresser.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Brad Pitt debería casarse con su novia.",
+      "back": "Brad Pitt should marry his girlfriend.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Él debería dejar de fumar.",
+      "back": "He should stop smoking.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Nuestros vecinos deberían dejar de organizar tantas fiestas.",
+      "back": "Our neighbours should stop throwing so many parties.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "De verdad, ¡deberían bajar la música!",
+      "back": "They really should turn down the music!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Deberían respetar que necesitamos descansar por la noche.",
+      "back": "They should respect that we need a good night's sleep.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "A lo mejor deberíais casaros para sentiros más cerca el uno del otro.",
+      "back": "Maybe you should get married, so you feel closer to each other.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Deberíais dejar de pelearos por tonterías.",
+      "back": "You should stop arguing about small things.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Sobre todo, ¡deberíais seguir viniendo a verme!",
+      "back": "Above all, you should continue to see me!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Debería ir a la reunión?",
+      "back": "Should I go to the meeting?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Debería quedarme en casa?",
+      "back": "Should I stay home?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Debería traer un paraguas?",
+      "back": "Should I bring an umbrella?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Crees que debería ir a la reunión?",
+      "back": "Do you think I should go to the meeting?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Crees que debería quedarme en casa?",
+      "back": "Do you think I should stay home?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Crees que debería traer un paraguas?",
+      "back": "Do you think I should bring an umbrella?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Cuándo crees que debería llamarle a él?",
+      "back": "When do you think I should call him?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Cuándo crees que debería estar listo?",
+      "back": "When do you think I should be ready?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Cuándo crees que debería hablar con él?",
+      "back": "When do you think I should speak to him?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Debería traer mi chaqueta o debería traer mi abrigo?",
+      "back": "Should I bring a jacket or should I bring a coat?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Debería ir a un museo o debería quedarme en el parque?",
+      "back": "Should I go to a museum or should I stay in the park?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Debería llamarle a él o debería mandarle un correo electrónico a ella?",
+      "back": "Should I call him or should I email her?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡¿Por qué tendría yo que hacer eso?!",
+      "back": "Why should I do that?!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡¿Por qué tendría yo que ir ahí?!",
+      "back": "Why should I go there?!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡¿Por qué tendría yo que sentirlo?!",
+      "back": "Why should I be sorry?!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Yo no debería ser tan pesimista, pero lo soy.",
+      "back": "I shouldn't be so pessimistic, but I am.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡No deberías estar aquí! Estamos hablando de ti.",
+      "back": "You shouldn't be here! We're talking about you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "No deberían sentarse al lado de la salida de emergencia.",
+      "back": "They shouldn't sit next to the emergency exit.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "La vida está llena de cosas que no deberíamos hacer.",
+      "back": "Life's full of things that we shouldn't do.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "La gente no debería hablar sobre cosas que desconoce.",
+      "back": "People shouldn't talk about things they don't know.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Los niños no deberían hablar con extraños.",
+      "back": "Children shouldn't talk to strangers.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Creo que no deberías estar de pie al lado de la valla eléctrica.",
+      "back": "I don't think you should stand next to the electric fence.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Creo que no deberías robar un banco a plena luz del día.",
+      "back": "I don't think you should rob a bank in broad daylight.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Creo que no deberías decírselo a ella.",
+      "back": "I don't think you should tell her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Creo que él no debería preocuparse por ello.",
+      "back": "I don't think he should worry about it.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Creo que ella no debería preocuparse por ello tampoco.",
+      "back": "I don't think she should worry about it either.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Creo que la gente en general no debería preocuparse.",
+      "back": "I don't think people in general should worry.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Creo que no deberíamos quedarnos.",
+      "back": "I don't think we should stay.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Por qué crees que no deberíamos quedarnos?",
+      "back": "Why don't you think we should stay?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Creo que no deberíamos quedarnos, ¡porque deberíamos irnos ya!",
+      "back": "I don't think we should stay, because we should go now!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Todos los estudiantes deben pedir permiso antes de salir de clase.",
+      "back": "All students must ask for permission before leaving the class.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Debes tomar esta medicina tres veces al día antes de las comidas.",
+      "back": "You must take this medicine three times a day before meals.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Tienes que irte a la cama, ¡ahora!",
+      "back": "You must go to bed... now!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Tengo que dejar de fumar.",
+      "back": "I must stop smoking.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Tengo que llamar a mi madre esta tarde.",
+      "back": "I must call my mother this evening.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Debo concertar una cita para ver a mi médico.",
+      "back": "I must make an appointment to see my doctor.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Realmente debes cortarte el pelo.",
+      "back": "You really must get your haircut.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Esta fiesta es horrible; tenemos que irnos cuanto antes.",
+      "back": "This is a terrible party; we must leave as soon as possible.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Ella debe empezar a estudiar pronto si quiere aprobar el examen.",
+      "back": "She must start studying soon if she wants to pass the exam.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Tengo que decir que su marido es un auténtico imbécil.",
+      "back": "I must say, her husband is a complete idiot.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Tengo que decirte que hoy estás guapísimo.",
+      "back": "I must say, you're looking great today.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Tengo que reconocer que su inglés es mucho mejor ahora que hace seis meses.",
+      "back": "I must say, her English is much better now than in comparison with six months ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Tienes que visitarnos la próxima vez que vengas a Gales.",
+      "back": "You must come and visit us the next time you're in Wales.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Tienes que ver su última película; ¡es alucinante!",
+      "back": "You must see his new film; it's amazing!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Tienes que volver el año que viene.",
+      "back": "You must come again next year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Debo mandar el fax?",
+      "back": "Do I have to send the fax?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Debo llamar al jefe otra vez?",
+      "back": "Do I have to call the boss again?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Debo asistir a la reunión?",
+      "back": "Do I have to attend the meeting?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Por qué debo mandar el fax?",
+      "back": "Why do I have to send the fax?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Por qué debo llamar al jefe otra vez?",
+      "back": "Why do I have to call the boss again?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Por qué debo asistir a la reunión?",
+      "back": "Why do I have to attend the meeting?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Cuándo debo llegar al trabajo?",
+      "back": "When do I have to get to work?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Cuándo debo ir a comer?",
+      "back": "When do I have to go and eat?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Cuándo debo hacer el informe?",
+      "back": "When do I have to do the report?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Con quién debe hablar Robert?",
+      "back": "Who does Robert have to talk to?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿A quién debe buscar Robert?",
+      "back": "Who does Robert have to look for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Con quién debe quedar Robert?",
+      "back": "Who does Robert have to meet up with?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Quién debe hablar con Robert?",
+      "back": "Who has to talk to Robert?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Quién debe buscar a Robert?",
+      "back": "Who has to look for Robert?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Quién debe quedar con Robert?",
+      "back": "Who has to meet up with Robert?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "No se debe dejar encendida la fotocopiadora.",
+      "back": "You mustn't leave the photocopier on.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "No se deben dejar refrescos cerca de la fotocopiadora.",
+      "back": "You mustn't leave drinks near the photocopier.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "No se deben dejar fotocopias en la bandeja.",
+      "back": "You mustn't leave photocopies in the tray.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "John, no debes conversar con los recepcionistas.",
+      "back": "John, you mustn't chat to the receptionists.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Pete, no debes comer en la zona de recepción.",
+      "back": "Pete, you mustn't eat in the reception area.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Elena, no debes gritar en la zona de recepción.",
+      "back": "Elena, you mustn't shout in the reception area.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "John no debe conversar con las recepcionistas.",
+      "back": "He mustn't chat to the receptionists.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Pete no debe comer en la zona de recepción.",
+      "back": "He mustn't eat in the reception area.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Elena no debe gritar en la zona de recepción.",
+      "back": "She mustn't shout in the reception area.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "No deben fumar en la sala de juntas.",
+      "back": "They mustn't smoke in the meeting room.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "No deben dejar la pizarra de la sala de juntas pintada.",
+      "back": "They mustn't leave writing on the white board in the meeting room.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "No deben dejar botellas de agua en la sala de juntas.",
+      "back": "They mustn't leave bottles of water in the meeting room.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "No debemos fumar en la sala de juntas.",
+      "back": "We mustn't smoke in the meeting room.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "No debemos dejar la pizarra de la sala de juntas pintada.",
+      "back": "We mustn't leave writing on the white board in the meeting room.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "No debemos dejar botellas de agua en la sala de juntas.",
+      "back": "We mustn't leave bottles of water in the meeting room.",
+      "sourcePage": 13
+    }
+  ]
+}

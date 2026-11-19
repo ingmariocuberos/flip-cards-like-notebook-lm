@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-35",
+  "bookTitle": "Libro 35",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Dónde está él? Debería de estar en el trabajo a esta hora de la mañana.",
+      "back": "Where is he? He should be at work at this time of the morning.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Debería de funcionar; nunca me ha dado problemas antes.",
+      "back": "It should work; I've never had problems with it before.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Este plato debería de tener cebolla; por eso sabe un poco raro.",
+      "back": "This dish should have onions in it; that's why it tastes a bit strange.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Ella debería de estar de vuelta en unos veinte minutos.",
+      "back": "She should be back in about 20 minutes.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Debería de llover esta noche; bueno, eso es lo que dijeron en el pronóstico del tiempo.",
+      "back": "It should rain tonight; that's what the weather forecast said anyway.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Deberían de llegar pronto; salieron hace más de tres horas.",
+      "back": "They should arrive soon; they left more than three hours ago.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "No deberías de tardar mucho en llegar allí; no suele haber mucho tráfico en esa carretera.",
+      "back": "It shouldn't take you too long to get there; there isn't usually much traffic on that road.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "No deberían de estar en casa; deberían de estar aún en el colegio.",
+      "back": "They shouldn't be at home; they should still be at school now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "No deberías de tener ningún problema en encontrarlo.",
+      "back": "You shouldn't have any trouble finding it.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Creo que podrías comprar algunos calcetines en esa tienda de allí.",
+      "back": "You should be able to buy some socks in that shop over there.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Creo que podremos comer algo antes de que empiece el concierto.",
+      "back": "We should be able to eat something before the concert starts.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Creo que podrías pillarle si le llamas al móvil: lo suele llevar encima.",
+      "back": "You should be able to reach him on his mobile; he normally has it with him.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Debería de haber suficiente vino; compramos seis cajas.",
+      "back": "There should be enough wine; we bought six boxes.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Debería de haber algo de leche en la nevera.",
+      "back": "There should be some milk in the fridge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Debería de haber más gente aquí; este sitio suele estar lleno a esta hora.",
+      "back": "There should be more people here; this place is usually full at this time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Él debería haberme dicho que no iba a venir.",
+      "back": "He should've told me he wasn't going to come.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Deberías haber sido más honesto con ellos.",
+      "back": "You should've been more honest with them.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Deberíamos haber pensado antes en las consecuencias negativas.",
+      "back": "We should've thought about the negative consequences beforehand.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "No deberías haberles dicho nada.",
+      "back": "You shouldn't have told them anything.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Él no debería haber empezado a salir con ella.",
+      "back": "He shouldn't have started going out with her.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Yo no debería haberle invitado a la fiesta.",
+      "back": "I shouldn't've invited him to the party.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "El partido debería de haber empezado ya.",
+      "back": "The match should've started by now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Ya deberían de haber llegado.",
+      "back": "They should've arrived by now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella ya debería de haber salido de casa.",
+      "back": "She should've left home by now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "No deberían de haber tenido problemas con el tráfico en domingo.",
+      "back": "They shouldn't have had any problems with the traffic on a Sunday.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "El concierto no debería de haber terminado aún; empezó hace sólo cuarenta y cinco minutos.",
+      "back": "The concert shouldn't have finished yet; it only started forty-five minutes ago.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Su plan no debería de haber salido bien porque era una idea muy mala.",
+      "back": "Their plan shouldn't have worked out because it was such a terrible idea.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Debería haber habido más policía en la manifestación.",
+      "back": "There should have been more police at the demonstration.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "No debería haber habido nadie con menos de dieciocho años en el teatro durante el espectáculo.",
+      "back": "There shouldn't have been anyone under the age of eighteen in the theatre during that show.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Debería haber habido menos gente en la playa en esa época del año.",
+      "back": "There should have been fewer people at the beach at that time of the year.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Creo que es posible que hable con RRHH sobre lo que ha sucedido hoy.",
+      "back": "I think I might speak to HR about what happened today.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Crees que es posible que él llegue tarde a la reunión?",
+      "back": "Do you think he might be late for the meeting?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Ella cree que tal vez yo pueda cambiar de departamento.",
+      "back": "She thinks I might be able to change departments.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Si hablas con RRHH, es posible que puedan ayudarte.",
+      "back": "If you speak to HR, they might be able to help you.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Si el tráfico está mal, puede que él llegue tarde a la reunión.",
+      "back": "If the traffic is bad, he might be late for the meeting.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Si te interesa, puede que cambies de departamento.",
+      "back": "If you're interested, you might be able to change departments.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Dónde está Natasha? Creemos que es posible que se haya ido al gimnasio.",
+      "back": "Where's Natasha? We think she might have gone to the gym.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Por qué no estaba Marta en la reunión? Creemos que es posible que se haya marchado de la oficina temprano.",
+      "back": "Why wasn't Marta at the meeting? We think she might have left the office early.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Cuándo leyó John el informe? Creemos que es posible que lo haya leído esta mañana.",
+      "back": "When did John read the report? We think he might have read it this morning.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Creo que es posible que se haya ido ahora mismo; la vi saliendo con la bolsa del gimnasio hace unos minutos.",
+      "back": "I think she might have just gone, I saw her leaving with her gym bag a few minutes ago.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Creo que es posible que se haya marchado ahora mismo; la vi apagando el ordenador hace un minuto.",
+      "back": "I think she might have just left, I saw her switching off her computer a minute ago.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Creo que igual acaba de leerlo; le vi mirando su correo electrónico hace un par de minutos.",
+      "back": "I think he might have just read it, I saw him looking at his emails a couple of minutes ago.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Ya que estás, podrías esperar a escuchar lo que ella tiene que decir.",
+      "back": "You might as well see what she has to say.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Ya que estoy, podría asistir a la reunión.",
+      "back": "I might as well attend the meeting.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Ya que estás, podrías llamarla.",
+      "back": "You might as well give her a call.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Mi jefe me dijo que tengo que llegar allí a las siete. Debe de tener prisa.",
+      "back": "My boss told me that I must get there at 7. He must be in a hurry.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¡Dios mío! ¡Debo de estar embarazada! Tengo que dejar de fumar ya.",
+      "back": "Oh my! I must be pregnant! I must stop smoking right away.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Tenemos que ir al veterinario. Al perro le debe de doler mucho.",
+      "back": "We must go to the vet. The dog must be in a lot of pain.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Hay voces altas y música. Debe de haber una fiesta en la casa de al lado.",
+      "back": "There are loud voices and music. There must be a party next door.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Mi empresa ha contratado a tanta gente que deben de faltar ordenadores en la oficina.",
+      "back": "My company has taken on so many people that there must be a lack of computers in the office.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Estamos cerca de la universidad. Debe de haber una copistería en alguna parte.",
+      "back": "We're near the university. There must be a photocopy shop somewhere.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Lucy no está hoy. Debe de haber problemas con su hija.",
+      "back": "Lucy isn't in today. There must be some issues with her daughter.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "La industria se está quebrando. ¡Debe de haber políticas que puedan detener este desastre!",
+      "back": "The industry is going bankrupt. There must be policies that can stop this disaster!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Ves la cola que va hasta la puerta? Debe de haber gente esperando fuera también.",
+      "back": "Can you see the queue all the way to the door? There must be people waiting outside too.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Oyes los ronquidos? Él debe de estar durmiendo.",
+      "back": "Do you hear the snoring? He must be sleeping.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Mira a esos tíos. Llevan puestas unas máscaras. ¡Deben de estar atracando un banco!",
+      "back": "Look at those guys, they're wearing masks. They must be robbing a bank!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Philipp no está ahora mismo. Debe de estar comiendo.",
+      "back": "Philipp is out at the moment. He must be having lunch.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Todas sus tiendas están cerradas. Deben de estar en quiebra.",
+      "back": "All their shops are closed. They must be bankrupt.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Están contratando a mucha gente. Deben de estar expandiéndose.",
+      "back": "They're taking on a lot of people. They must be expanding.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "No podemos desarrollar un nuevo producto para los ronquidos. Ya debe de haber algún tratamiento.",
+      "back": "We can't develop a new product for snoring. There must be some kind of treatment already.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Debe de haber sido un buen partido. El entrenador parece bastante contento.",
+      "back": "It must have been a good game. The coach looks quite happy.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Debió de ser una reunión muy importante. ¡No se la perdió nadie!",
+      "back": "It must have been a very important meeting. No one missed it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Debe de haber llovido mientras estábamos dentro. Las calles están mojadas.",
+      "back": "It must have rained while we were inside. The streets are wet.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "El partido debe de haber sido muy bueno.",
+      "back": "The game must have been very good.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "La reunión debe de haber sido muy importante.",
+      "back": "The meeting must have been a very important one.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "La lluvia debe de haberle estropeado el peinado.",
+      "back": "The rain must have ruined her hairdo.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Debo de haberme dejado las llaves en casa.",
+      "back": "I must have left my keys at home.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Debo de haber dicho algo malo.",
+      "back": "I must have said something wrong.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Debo de haberlo escrito hace mucho tiempo. ¡No me acuerdo de nada!",
+      "back": "I must have written it a long time ago. I can't remember any of it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Debimos de conocernos en la boda de Pam el año pasado, pero no me acuerdo.",
+      "back": "We must've met at Pam's wedding last year, but I can't remember.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Él debe de haberse llevado mi coche a la playa. ¡Hay arena por todos lados!",
+      "back": "He must've driven my car to the beach, there's sand all over it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Deben de haber sido gente adinerada si vivían en un palacio.",
+      "back": "They must've been wealthy people if they lived in a palace.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella debe de habérselo pasado muy bien si quiere volver.",
+      "back": "She must've had a great time if she wants to go back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "El barco debe de haberse hundido justo donde encontraron las monedas.",
+      "back": "The boat must've sunk right where they found the coins.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Tu perro debe de haberse comido tus deberes, ¿verdad?",
+      "back": "Your dog must've eaten your homework, right?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "No debe de tener muchos amigos.",
+      "back": "He must not have many friends.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "No debe de sentirse muy bien.",
+      "back": "He must not be feeling very well.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "No debe de saber dónde está la crema solar.",
+      "back": "He must not know where the sun cream is.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Nadie contesta, no deben de estar.",
+      "back": "No one's answering; they can't be in.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "No debe de ser británico; no está suficientemente borracho.",
+      "back": "He can't be British; he's not drunk enough.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "¡Él tiene tanta energía! No debe de tener niños pequeños.",
+      "back": "He's got so much energy! He can't have young children.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "¿No te ha llamado para hablar del examen? No ha debido de salirle bien.",
+      "back": "He hasn't called you about the exam? It can't have gone well.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "El nuevo logotipo es espantoso. No han debido de tardar más de cinco minutos en elaborarlo.",
+      "back": "This new logo is awful; it can't have taken them more than 5 minutes to come up with it.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Parece feliz, no ha debido de enterarse de la noticia.",
+      "back": "She looks happy; she can't have heard the news.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¡No habrás perdido la cartera otra vez!",
+      "back": "You can't have lost your wallet again!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "¡No hablarás en serio!",
+      "back": "You can't be serious!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "¡No se habrán bebido toda la cerveza del hotel!",
+      "back": "They can't have drunk all the beer in the hotel!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Han debido de ir a por más alcohol, ¿verdad?",
+      "back": "They must have gone for more alcohol, mustn't they?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "El director del hotel estará aliviado, ¿verdad?",
+      "back": "The hotel manager must be relieved, mustn't he?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "No han debido de llegar aún, ¿verdad?",
+      "back": "They can't have got there already, can they?",
+      "sourcePage": 27
+    }
+  ]
+}
