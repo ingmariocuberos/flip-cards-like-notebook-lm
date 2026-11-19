@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-46",
+  "bookTitle": "Libro 46",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Me caí cuando iba corriendo para no perder el tren.",
+      "back": "I fell over when I was running for the train.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Ella se cayó cuando iba corriendo para no perder el autobús.",
+      "back": "She fell over when she was running for the bus.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Mientras él iba corriendo para no perder el autobús, se cayó.",
+      "back": "When he was running for the bus, he fell over.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Casi me caí debido a que tenía prisa.",
+      "back": "I almost fell over as a result of being in a hurry.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Ella casi se cayó debido a que iba corriendo para coger el tren.",
+      "back": "She almost fell over as a result of running for the train.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Debido a que tenía prisa, él casi se cayó.",
+      "back": "As a result of being in a hurry, he almost fell over.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Te caíste debido a que no miraste por dónde ibas.",
+      "back": "You fell over as a result of not watching where you were going.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Casi se caen debido a que no estaban mirando por dónde iban.",
+      "back": "They almost fell over as a result of not looking where they were going.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Debido a que no estábamos mirando por dónde íbamos, casi nos caemos.",
+      "back": "As a result of not looking where we were going, we almost fell over.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Cómo te caíste y te rompiste el dedo?",
+      "back": "How did you fall over and break your finger?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Cómo te caíste y te rompiste el pulgar?",
+      "back": "How did you fall over and break your thumb?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Cómo se cayó tu abuela y se rompió el dedo del pie?",
+      "back": "How did your grandmother fall over and break her toe?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Cómo te las ingeniaste para caerte y romperte el pulgar?",
+      "back": "How did you manage to fall over and break your thumb?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Cómo te las ingeniaste para caerte y romperte el dedo del pie?",
+      "back": "How did you manage to fall over and break your toe?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Cómo se las ingenió tu abuela para caerse y romperse la muñeca?",
+      "back": "How did your grandmother manage to fall over and break her wrist?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Alguna vez te has caído a un río?",
+      "back": "Have you ever fallen into a river?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Alguna vez tu amigo Gary se ha caído a un estanque?",
+      "back": "Has your mate Gary ever fallen into a pond?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Alguna vez te has caído a un embalse?",
+      "back": "Have you ever fallen into a reservoir?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Nunca me he caído a un río, pero me he caído a un arroyo.",
+      "back": "I've never fallen into a river, but I have fallen into a stream.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Gary nunca se ha caído a un estanque, pero se ha caído en un charco.",
+      "back": "Gary's never fallen into a pond, but he has fallen into a puddle.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Nunca me he caído a un embalse, pero me he caído al mar.",
+      "back": "I've never fallen into a reservoir, but I have fallen into the sea.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Alguna vez te has caído por la ventana?",
+      "back": "Have you ever fallen out of a window?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Alguna vez tu amigo Pete se ha caído por la ventana de la primera planta?",
+      "back": "Has your mate Pete ever fallen out of a first floor window?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Alguna vez te has caído por la ventana de la segunda planta?",
+      "back": "Have you ever fallen out of a second floor window?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Nunca me he caído por la ventana, pero me he caído de la cama.",
+      "back": "I've never fallen out of a window but I have fallen out of my bed.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Mi amigo Pete nunca se ha caído por la ventana de la primera planta, pero se ha caído por la ventana de la planta baja.",
+      "back": "My mate Pete's never fallen out of a first floor window but he has fallen out of a ground floor window.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Nunca me he caído por una ventana de la segunda planta, pero me he caído de un árbol.",
+      "back": "I've never fallen out of a second floor window but I have fallen out of a tree.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Alguna vez se ha caído este cuadro de la pared?",
+      "back": "Has that picture ever fallen off the wall?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Alguna vez te has caído de una silla?",
+      "back": "Have you ever fallen off a chair?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Alguna vez te has caído de tu bici a un río?",
+      "back": "Have you ever fallen off your bike and into a river?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Alguna vez has tirado un cuadro de una pared?",
+      "back": "Have you ever knocked a picture off a wall?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Sí, una vez tiré un cuadro de la pared de mi tía.",
+      "back": "Yes, once I knocked a picture off my aunt's wall.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "No, nunca he tirado ningún cuadro de ninguna pared.",
+      "back": "No, I've never knocked any pictures off any walls.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Casi tiré tu vaso de la mesa. En serio, tengo que tener más cuidado.",
+      "back": "I almost knocked your glass off the table. I really need to be more careful.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Casi tiraste mi vaso de la mesa. En serio, tienes que tener más cuidado.",
+      "back": "You almost knocked my glass off the table. You really need to be more careful.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Casi tira él su vaso de la mesa? En serio, tiene que tener más cuidado.",
+      "back": "Did he almost knock his glass off the table? He really needs to be more careful.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¡Soy tan torpe! Tiré un vaso de vino tinto en la fiesta. ¡Ahora tengo una mancha en mi camisa!",
+      "back": "I'm so clumsy! I knocked a glass of red wine over at the party. Now I have a stain on my shirt!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¡Soy una persona tan torpe! Tiré un vaso de vino tinto en la fiesta.",
+      "back": "I'm such a clumsy person! I knocked a glass of red wine over at the party.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Él es tan torpe! Tiró un vaso de vino tinto en la fiesta. ¡Manchó la camisa del anfitrión!",
+      "back": "He's so clumsy! He knocked a glass of red wine over at the party. It stained the host's shirt!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Quién demonios tiró el vaso de vino tinto?",
+      "back": "Who on earth knocked over the glass of red wine?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Quién demonios tiró el vaso de agua?",
+      "back": "Who on earth knocked over the glass of water?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Quién demonios tiró las flores?",
+      "back": "Who on earth knocked over the flowers?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "No tengo ni idea de quién tiró la jarra de agua.",
+      "back": "I have no idea who knocked over the jug of water.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "No tengo ni idea de quién tiró la jarra de agua. (Usa «clue».)",
+      "back": "I haven't a clue who knocked over the jug of water.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "No tengo ni la más remota idea de quién tiró la jarra de agua.",
+      "back": "I haven't the foggiest idea who knocked over the jug of water.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Tus pantalones están deshilachándose.",
+      "back": "Your trousers are falling apart.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Lo siento, no puedes pasar a esta discoteca. Tus zapatos se están desmoronando.",
+      "back": "I'm sorry; you cannot come into this club. Your shoes are falling apart.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Muchos factores acumulados hicieron que al final ella se viniera abajo.",
+      "back": "Many accumulating factors caused her to fall apart eventually.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Perdí la cabeza por tu madre la primera vez que la vi.",
+      "back": "I fell for your mother the first time I saw her.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Ella perdió la cabeza por mí la primera vez que me vio.",
+      "back": "She fell for me the first time she clapped eyes on me.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Nos enamoramos la primera vez que nos vimos.",
+      "back": "We fell for each other the first time we caught sight of one another.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Ellos se revolcaron de risa cuando se dieron cuenta de lo que había pasado.",
+      "back": "They fell about laughing when they realized what had happened.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Me revolqué de risa cuando me di cuenta de lo que yo había dicho.",
+      "back": "I fell about laughing when I realized what I'd said.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Ella se revolcó de risa cuando se dio cuenta de lo que habían entendido.",
+      "back": "She fell about laughing when she realized what they'd understood.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Se pelearon hace aproximadamente un año y a día de hoy todavía hay algo de tensión entre ellos.",
+      "back": "They fell out about a year ago and to this day, there's some tension between them.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Se han peleado por algo muy banal y no tienen intención de hacer las paces.",
+      "back": "They've fallen out over something very trivial and they have no intention of burying the hatchet.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Ni siquiera se acuerdan de por qué se pelearon, pero a día de hoy siguen ignorándose.",
+      "back": "They can't even remember why they fell out, but to this day they still ignore each other.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Sus planes de ir a Andorra se vinieron abajo debido a la falta de nieve ese invierno.",
+      "back": "Their plans to go to Andorra fell through on account of the lack of snow that winter.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Las negociaciones se han venido abajo debido al hecho de que no fueron capaces de verlo de la misma manera.",
+      "back": "The negotiations have fallen through on account of the fact that they couldn't see eye to eye.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "El trato se vino abajo debido a los desacuerdos entre ambas partes.",
+      "back": "The deal fell through on account of the disagreements between both parties.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "El precio de la vivienda está bajando en este momento.",
+      "back": "House prices are going down at the moment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "La Bolsa ha estado bajando gradualmente las últimas tres semanas.",
+      "back": "The stock market's been going down gradually for the last three weeks.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Las ventas han estado bajando espectacularmente.",
+      "back": "Sales have been going down dramatically.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Cuando las ventas van disminuyendo, empiezan a caer después de una época de crecimiento.",
+      "back": "When sales tail off, they start to fall after a period of growth.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "El crecimiento en la Bolsa ha ido disminuyendo últimamente.",
+      "back": "The growth on the stock market has tailed off recently.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Los expertos esperan que las ventas vayan disminuyendo gradualmente.",
+      "back": "Experts expect sales to tail off gradually.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Cuando las ventas caen en picado, caen de repente y espectacularmente.",
+      "back": "When sales plummet, they fall suddenly and dramatically.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "La venta de vivienda ha ido cayendo en picado las últimas dos semanas.",
+      "back": "House sales have been plunging for the last fortnight.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "El precio de la vivienda está cayendo en picado en este momento.",
+      "back": "House prices are plunging at the moment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Cuando los precios caen en picado, caen de repente y espectacularmente.",
+      "back": "When prices plunge, they fall suddenly and dramatically.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "La venta de la vivienda está cayendo en picado en este momento.",
+      "back": "House sales are plunging at the moment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Los expertos esperaban que el precio de la vivienda cayera en picado.",
+      "back": "Experts expected house prices to plunge.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Cuando un mercado se desploma, pierde la mayor parte de su valor.",
+      "back": "When a market collapses, it loses most of its value.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Cuando Jack escuchó que el mercado se había desplomado, se desplomó en la calle.",
+      "back": "When Jack heard that the market had collapsed, he collapsed on the street.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Cuando Jack escuchó que los expertos esperaban que se desplomara el mercado, casi se desploma.",
+      "back": "When Jack heard that the experts expected the market to collapse, he nearly collapsed.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Se me cae el móvil al suelo a menudo; por eso hay una grieta en la pantalla.",
+      "back": "I often drop my mobile on the ground; that's why there's a crack in the screen.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Nunca se me cae el móvil al suelo; por eso no hay ninguna grieta en la pantalla.",
+      "back": "I never drop my mobile on the ground; that's why there aren't any cracks in the screen.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Siempre se le está cayendo el móvil al suelo; por eso siempre se está apagando.",
+      "back": "He's always dropping his mobile on the ground; that's why it's always turning off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Se le cayó el móvil de camino a tu casa, así que no puede llamar a nadie.",
+      "back": "She dropped her mobile on the way to your house so she can't call anyone.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Se me cayó la cartera de camino al supermercado, así que no puedo comprar nada.",
+      "back": "I dropped my wallet on the way to the supermarket so I can't buy anything.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Si se te cayó la cartera de camino al supermercado, deberías encontrarla en el camino de vuelta.",
+      "back": "If you dropped your wallet on the way to the supermarket, you should find it on the way back.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "No he metido la pata con ninguna oportunidad todavía, así que espero que me dé el puesto.",
+      "back": "I haven't dropped the ball on any opportunities yet, so I hope he gives me the position.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Él ya ha metido la pata con dos proyectos, así que le daré el puesto a ella en su lugar.",
+      "back": "He's dropped the ball on two projects already, so I'll give the position to her instead.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Ya han metido la pata conmigo dos veces, así que por eso decidí escoger otro equipo para la tarea.",
+      "back": "They've dropped the ball on me twice already, so that's why I decided to choose another team for the task.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Se quedó dormido en medio de la película; por eso nos fuimos a casa temprano.",
+      "back": "He dropped off in the middle of the movie; that's why we left for home early.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Se despertó de camino a casa en el coche, pero luego se quedó dormido otra vez.",
+      "back": "He woke up on the way home in the car, but then he dropped off again.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Nuestra primera cita fue bien, pero realmente metió la pata cuando se quedó dormido en medio de nuestra conversación.",
+      "back": "Our first date went well, but he really dropped the ball when he dozed off in the middle of our conversation.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Seré directo: me tiré un pedo en medio del Focus Point 3.",
+      "back": "I'll be up front: I dropped one in the middle of Focus Point 3.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Realmente metió la pata cuando se tiró un pedo durante la presentación.",
+      "back": "He really dropped the ball when he dropped one during the presentation.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Ella se tiró un pedo en el camino de vuelta de la película hacia su casa.",
+      "back": "She dropped one on the way back home from the movie.",
+      "sourcePage": 27
+    }
+  ]
+}

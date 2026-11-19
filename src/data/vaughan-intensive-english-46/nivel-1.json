@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-46",
+  "bookTitle": "Libro 46",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Yo me caigo siempre.",
+      "back": "I'm always falling over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Mi tía abuela también se cae siempre.",
+      "back": "My great aunt's always falling over too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Tu tío abuelo también se cae siempre?",
+      "back": "Is your great uncle always falling over too?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Si caminas sobre el hielo, te caerás.",
+      "back": "If you walk on ice, you'll fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Si caminas sobre la arena, probablemente no te caerás.",
+      "back": "If you walk on sand, you probably won't fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Si caminas sobre aceite, puede que te caigas.",
+      "back": "If you walk on oil, you might fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Ten cuidado! No quiero que te caigas.",
+      "back": "Watch out! I don't want you to fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Dile a tu hermana que tenga cuidado! No quiero que se caiga.",
+      "back": "Tell your sister to be careful! I don't want her to fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Dile a tu hermano que tenga cuidado! No quiero que se caiga.",
+      "back": "Tell your brother to take care! I don't want him to fall over.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Siempre me tropiezo con ese escalón.",
+      "back": "I'm always falling over that step.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Mi prima siempre se tropieza con estas piedras.",
+      "back": "My cousin's always falling over these stones.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Mi sobrino siempre se tropieza con este perrito pequeñito.",
+      "back": "My nephew's always falling over this tiny dog.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Ten cuidado con no caerte del borde!",
+      "back": "Mind you don't fall over the edge!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Ten cuidado con no caerte por el acantilado!",
+      "back": "Mind you don't fall over the edge of the cliff!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Ten cuidado con no caerte de la azotea!",
+      "back": "Mind you don't fall over the edge of the flat roof!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Por qué está bajando el precio de la vivienda en esa zona?",
+      "back": "Why are house prices falling in that area?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "El precio de la vivienda en esa zona está bajando debido a una falta de demanda.",
+      "back": "House prices are falling in that area due to a lack of demand.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Debido a una falta de demanda en ese barrio, el precio de la vivienda está bajando.",
+      "back": "Due to a lack of demand in that neighborhood, house prices are falling.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "El precio de la vivienda está bajando en Irlanda a causa de los bajos ingresos en ese país.",
+      "back": "Property prices are falling in Ireland because of the low incomes in that country.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "A causa de una falta de demanda en el mercado, el precio de la vivienda está bajando en Irlanda.",
+      "back": "Because of a lack of demand in the market, property prices are falling in Ireland.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "A causa de la situación económica actual, el precio de la vivienda está bajando en Gales.",
+      "back": "Because of the current economic climate, property prices are falling in Wales.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "El valor de la propiedad está bajando debido a la situación económica actual en Gales.",
+      "back": "The value of the property is falling due to the current economic climate in Wales.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "A causa de la falta de crecimiento en el mercado, el valor de nuestra propiedad está bajando.",
+      "back": "Because of the lack of growth in the market, the value of our property is falling.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Por qué está bajando el valor de vuestra propiedad?",
+      "back": "How come the value of your property is falling?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Por qué está bajando la demanda de viviendas en esa zona?",
+      "back": "How come demand for houses is falling in that area?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "La demanda de viviendas está bajando a causa del mal clima de la zona.",
+      "back": "Demand for houses is falling because of the area's bad climate.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "La demanda de propiedad está bajando debido a los bajos ingresos en ese distrito.",
+      "back": "Demand for property is falling due to low incomes in that district.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Por qué están bajando las temperaturas en Escocia?",
+      "back": "How come temperatures are falling in Scotland?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Las temperaturas están bajando en Escocia debido al viento frío.",
+      "back": "Temperatures are falling in Scotland due to the cold wind.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "A causa de la falta de sol en la zona, las temperaturas están bajando en Escocia.",
+      "back": "Because of the lack of sun in the area, temperatures are falling in Scotland.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Probablemente haya una caída de los precios el año que viene.",
+      "back": "There will probably be a fall in prices next year.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Crees que habrá una caída de los precios el año que viene?",
+      "back": "Do you think there will be a fall in prices next year?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "No creo que haya una caída de los precios el año que viene.",
+      "back": "I don't think there will be a fall in prices next year.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Puede que haya una caída de la temperatura del aire en los próximos días.",
+      "back": "There might be a fall in air temperature in a few days' time.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Puede que haya una caída de la temperatura del aire la semana que viene.",
+      "back": "There might be a fall in air temperature next week.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Puede que haya una caída de la temperatura del aire el mes que viene.",
+      "back": "There might be a fall in air temperature next month.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "No creo que haya una caída de la demanda.",
+      "back": "I don't think there will be a fall in demand.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Puede que haya una caída de la demanda en los próximos días.",
+      "back": "There might be a fall in demand in a few days' time.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Por qué crees que podría haber una caída de la demanda en los próximos días?",
+      "back": "Why do you think there might be a fall in demand in a few days' time?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "No habrá ninguna caída en las ventas este año en comparación con el año pasado gracias a nuestra campaña publicitaria.",
+      "back": "There won't be a fall in sales this year compared to last year thanks to our advertising campaign.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "No habrá ninguna caída en las ventas este año en comparación con el año pasado gracias a la calidad de nuestro producto.",
+      "back": "There won't be a fall in sales this year compared to last year thanks to the quality of our product.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "No habrá ninguna caída en las ventas este año en comparación con el año pasado gracias a nuestros precios competitivos.",
+      "back": "There won't be a fall in sales this year compared to last year thanks to our competitive prices.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Por qué no habrá ninguna caída en los precios el año que viene?",
+      "back": "Why won't there be a fall in prices next year?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Por qué no habrá ninguna caída en la temperatura del aire el mes que viene?",
+      "back": "Why won't there be a fall in air temperature next month?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Por qué no habrá una caída en las ventas el año que viene?",
+      "back": "Why won't there be a fall in sales next year?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "No quiero que te caigas por las escaleras.",
+      "back": "I don't want you to fall down the stairs.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Ten cuidado con no caerte por las escaleras.",
+      "back": "Mind you don't fall down the stairs.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Ten cuidado o te caerás por las escaleras.",
+      "back": "Be careful or you'll fall down the stairs.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Ese calendario siempre se cae de la pared.",
+      "back": "That calendar's always falling off the wall.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "No quiero que vuelva a caerse de la pared.",
+      "back": "I don't want it to fall off the wall again.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Ayúdame para que no se vuelva a caer de la pared.",
+      "back": "Try and help me so it doesn't fall off the wall again.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Mueve el libro para que no se caiga del estante.",
+      "back": "Move the book so it doesn't fall off the bookshelf.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "La planta se va a caer de ese estante.",
+      "back": "The plant's going to fall off the top of that shelf.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Si colocas demasiados libros en esa estantería, se caerán.",
+      "back": "If you put too many books on those shelves, they'll fall off.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Cuidado! El yogur se caerá del frigorífico.",
+      "back": "Careful! Or the yogurt will fall out of the fridge!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Ten cuidado con no caerte del sillón.",
+      "back": "Mind you don't fall out of your armchair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Todo se va a caer del armario.",
+      "back": "Everything's going to fall out of the cupboard.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Se me está cayendo el pelo.",
+      "back": "My hair's falling out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¡Es verdad! Se te está cayendo el pelo.",
+      "back": "It's true! Your hair is falling out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Uso una crema especial para que no se me caiga el pelo.",
+      "back": "I use a special cream so my hair doesn't fall out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "No quiero que hagas caer esa estatua.",
+      "back": "I don't want you to knock over that statue.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Asegúrate de no tirar esa estatua.",
+      "back": "Mind you don't knock over that statue.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Ten cuidado o la tirarás.",
+      "back": "Be careful or you'll knock it over.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "No quiero que tires la botella de la mesa.",
+      "back": "I don't want you to knock that bottle off the table.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Asegúrate de no tirar la botella de la mesa.",
+      "back": "Mind you don't knock that bottle off the table.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Ten cuidado o la tirarás de la mesa.",
+      "back": "Be careful or you'll knock it off the table.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Asegúrate de no tirar ese calendario de la pared.",
+      "back": "Mind you don't knock that calendar off the wall.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Asegúrate de no tirar ese cuadro de la pared.",
+      "back": "Mind you don't knock that painting off the wall.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Asegúrate de no tirar esa foto de la pared.",
+      "back": "Mind you don't knock that photo off the wall.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Ten cuidado con ese palo! Le vas a sacar el ojo a alguien.",
+      "back": "Be careful with that stick! You'll knock someone's eye out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Ten cuidado con ese palo de golf! Le vas a sacar el ojo a alguien.",
+      "back": "Be careful with that golf club! You'll knock someone's eye out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Ten cuidado con ese remo! Le vas a sacar el ojo a alguien.",
+      "back": "Be careful with that oar! You'll knock someone's eye out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Crees que derribarán el edificio?",
+      "back": "Do you think they'll knock the building down?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No creo que derriben el edificio.",
+      "back": "I don't think they'll knock the building down.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Estoy seguro de que lo derribarán.",
+      "back": "I'm sure they'll knock it down.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "En el pronóstico del tiempo están diciendo que no habrá fuertes precipitaciones o nevadas.",
+      "back": "In the weather forecast they're saying that there won't be heavy rainfall or snowfall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Se esperan muchas precipitaciones este otoño.",
+      "back": "We're expecting heavy rainfall this fall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "En Rusia, el otoño va de septiembre a diciembre, hasta la primera nevada.",
+      "back": "In Russia, fall is from September to December, until the first snowfall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "La cascada más alta del mundo es la del Salto del Ángel en Venezuela.",
+      "back": "The world's highest waterfall is Angel Falls in Venezuela.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "La cascada más ancha del mundo son las Cataratas Victoria en Zimbabue.",
+      "back": "The world's widest waterfall is Victoria Falls in Zimbabwe.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "La cascada más bonita del mundo es la de Iguazú en Argentina.",
+      "back": "The world's most beautiful waterfall is the Iguazu in Argentina.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Es posible ver a estos pájaros antes del anochecer?",
+      "back": "Is it possible to see these birds before nightfall?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Sólo puedes ver a estos pájaros al anochecer.",
+      "back": "You can only see these birds at nightfall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Las mujeres deberían tener cuidado en la calle después del anochecer; es muy peligroso.",
+      "back": "Women should be careful on the street after nightfall; it's very dangerous.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Su mal inglés lo va a llevar a la ruina como líder político?",
+      "back": "Is his bad English going to lead to the political leader's downfall?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Si no recibe clases, definitivamente su mal inglés lo va a llevar a la ruina.",
+      "back": "If he doesn't take classes, his bad English is definitely going to lead to his downfall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "El alcohol va a ser su perdición.",
+      "back": "Alcohol is going to be his downfall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Si no reducimos el presupuesto, va a haber un déficit de financiación.",
+      "back": "If we don't cut the budget, there'll be a shortfall in funding.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Si hay un déficit de financiación, no ganaré las elecciones este otoño.",
+      "back": "If there's a shortfall in funding, I won't win the election this fall.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Si realmente hay un déficit de financiación, tendremos que reducir el presupuesto.",
+      "back": "If there really is a shortfall in funding, we'll have to cut the budget.",
+      "sourcePage": 13
+    }
+  ]
+}

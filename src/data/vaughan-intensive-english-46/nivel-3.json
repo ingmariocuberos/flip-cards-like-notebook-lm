@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-46",
+  "bookTitle": "Libro 46",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Él tuvo una caída fuerte de camino al trabajo.",
+      "back": "He took a hard fall on the way to work.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Ella tuvo una caída realmente mala de camino a casa.",
+      "back": "She took a really bad fall on the way home.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Él tuvo una caída horrible en el camino de regreso a la oficina.",
+      "back": "He took a horrible fall on the way back to the office.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Tuve una caída desagradable de camino a casa.",
+      "back": "I had a nasty fall on the way home.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Debes de haber tenido una caída espantosa de camino al trabajo.",
+      "back": "You must have had a dreadful fall on the way to work.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Fue una caída horrenda que la tuviste de camino a la oficina.",
+      "back": "That was a horrendous fall you had on the way to the office.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Logré amortiguar la caída agarrándome a la barandilla.",
+      "back": "I managed to break my fall by grabbing hold of the bannister rail.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Ella logró amortiguar la caída agarrándose al hombro de él.",
+      "back": "She managed to break her fall by grabbing hold of his shoulder.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Lograste amortiguar la caída agarrándote al pomo de la puerta.",
+      "back": "You managed to break your fall by grabbing hold of the doorknob.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "La caída del comunismo se produjo a finales de los años ochenta.",
+      "back": "The fall of communism came about at the end of the eighties.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "La caída del imperio Romano se produjo a finales del siglo V.",
+      "back": "The fall of the Roman Empire came about at the end of the 5th century.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "La caída del telón de acero se produjo a finales del siglo XX.",
+      "back": "The fall of the iron curtain came about at the end of the 20th century.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "¿La caída del hombre fue culpa de Adán?",
+      "back": "Was the fall of man Adam's fault?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "¿La caída del hombre fue culpa de Eva?",
+      "back": "Was the fall of man Eve's fault?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "¿De quién fue la culpa?",
+      "back": "Whose fault was it?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "¡Espero que no pierdas tu trabajo! ¿Tienes ahorros a los que recurrir?",
+      "back": "I hope you don't lose your job! Do you have any savings to fall back on?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Ojalá no hubiera perdido mi trabajo. No tengo ahorros a los que recurrir.",
+      "back": "I wish I hadn't lost my job. I don't have any savings to fall back on.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Si no hubiera perdido mi trabajo, no habría tenido que recurrir a mis ahorros.",
+      "back": "If I hadn't lost my job, I wouldn't have had to fall back on my savings.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "¡Espero que él no se mezcle con la gente equivocada en la universidad!",
+      "back": "I hope he doesn't fall in with the wrong crowd at university!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Ojalá él no se hubiera mezclado con ese grupo de idiotas en la universidad.",
+      "back": "I wish he hadn't fallen in with that crowd of idiots at uni.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Si no se hubiera mezclado con ese grupo de idiotas, habría tenido éxito en la universidad.",
+      "back": "If he hadn't fallen in with that crowd of idiots, he would've done well at uni.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "La verdad es que espero que él no se retrase en la universidad.",
+      "back": "I really hope he doesn't fall behind at uni.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "La verdad es que ojalá que él no se hubiera retrasado en la universidad.",
+      "back": "I really wish he hadn't fallen behind at uni.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Él no se habría retrasado si no se hubiera mezclado con ese grupo.",
+      "back": "He wouldn't have fallen behind if he hadn't fallen in with that crowd.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "No caigas en esa trampa. ¡Espero que no seas tan confiado!",
+      "back": "Don't fall for that trick. I hope you aren't that gullible!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "¡Te tragaste el truco más viejo del mundo! ¡Ojalá no hubieras sido tan confiado!",
+      "back": "You fell for the oldest trick in the book! I wish you hadn't been so gullible!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Si no hubiera sido tan confiada, no se habría tragado sus mentiras de él.",
+      "back": "If she hadn't been so gullible, she wouldn't have fallen for his lies.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Espero que no me toque a mí darle la mala noticia a él.",
+      "back": "I hope it doesn't fall to me to break the bad news to him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Ojalá no me hubiera tocado darle la mala noticia a él.",
+      "back": "I wish it hadn't fallen to me to break the bad news to him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Le habría dado la mala noticia con tacto, si me hubiera tocado a mí.",
+      "back": "I would've broken the bad news to him gently, if it had fallen to me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Me temo que James no puede venir; ha caído enfermo por una intoxicación alimenticia.",
+      "back": "I'm afraid James can't make it; he's fallen ill with food poisoning.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Finalmente no pudo ir al viaje de negocios porque cayó enfermo de gripe.",
+      "back": "In the end, he couldn't go on the business trip as he fell ill with flu.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Cayó enfermo el día del examen.",
+      "back": "He fell sick on the day of the exam.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Tras la Segunda Guerra Mundial, muchos países del este de Europa se encontraron bajo el control de los rusos.",
+      "back": "In the aftermath of the Second World War, many eastern European countries fell under the control of the Russians.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Tras la Guerra de Vietnam, el país se encontró bajo el control del Viet Cong.",
+      "back": "In the aftermath of the Vietnam War, the country fell under the control of the Viet Cong.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Después de que se fueran los romanos, Bretaña se encontró bajo el control de los sajones.",
+      "back": "After the Romans left, Britain fell under the control of the Saxons.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Si infringes la ley, tienes que aceptar las consecuencias.",
+      "back": "If you fall foul of the law, you have to accept the consequences.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Si un tenista infringe las reglas, se arriesga a ser descalificado.",
+      "back": "If a tennis player falls foul of the regulations, he risks being disqualified.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Cuando una empresa infringe las normas del comercio, se arriesga a ser multada.",
+      "back": "When a company falls foul of the trade regulations, it risks being fined.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Después de perder su trabajo, él pasó una mala racha.",
+      "back": "After losing his job, he fell on hard times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Tenemos que apretarnos el cinturón ahora que estamos pasando una mala racha.",
+      "back": "We have to tighten our belts now that we've fallen on hard times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Ahorra dinero mientras puedas; nunca sabes cuándo vas a pasar una mala racha.",
+      "back": "Save money while you can; you never know when you're going to fall on hard times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Tras fallar el penalti en la final de la copa, perdió popularidad entre la afición.",
+      "back": "After missing the penalty in the cup final, he fell out of favour with the fans.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "La música jazz está perdiendo popularidad entre los jóvenes.",
+      "back": "Jazz music is falling out of favour with young people.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "El partido conservador está perdiendo popularidad entre los votantes.",
+      "back": "The Conservative Party is falling out of favour with voters.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "¡Él estaba tan borracho que ni siquiera pudo volver a casa a tropezones! Terminó perdiendo el conocimiento en la acera antes de llegar a la entrada de su casa.",
+      "back": "He was so drunk that he couldn't even stumble home! He ended up passing out on the pavement before he got to his front door.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Siempre que empiezo a tropezarme, sé que es hora de volver a casa. Ahora que soy más mayor, siento que tengo que ser más responsable.",
+      "back": "Whenever I start stumbling, I know that it's time for me to go home. Now that I'm older, I feel I have to be more responsible.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Me tropecé y me caí. ¡Habría estado bien si no me hubiera caído en las ortigas!",
+      "back": "I stumbled and then I fell. I would have been fine if I hadn't fallen straight into the stinging nettles!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Si te tropiezas con algo y estás en un sitio abarrotado de gente, intenta caerte con dignidad, o mejor aún, intenta mantener el equilibrio.",
+      "back": "If you trip over something and you're in a crowded place, try and fall with dignity, or better still, try and maintain your balance.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "La próxima vez que te tropieces, intenta caerte con la gracia de una bailarina. De ese modo, puede que la gente te aplauda en lugar de reírse de ti.",
+      "back": "Next time you trip, try and fall with the grace of a ballet dancer. Then, perhaps, everyone will applaud you instead of laughing at you!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Entré en la casa sigilosamente a las tantas, fui de puntillas a la cama intentando no hacer ruido y entonces me tropecé con un cable y me caí. ¡Cómo no!",
+      "back": "I crept back into the house during the early hours, crept up to bed as quietly as I could, then I tripped over a wire and fell! Typical!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Siempre que nieva debes tener mucho cuidado. Obviamente podría resultar muy grave si te resbalaras sobre el hielo.",
+      "back": "Whenever it snows, you have to be very careful. Obviously, it could be disastrous if you slipped on the ice.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Resbalé y me caí porque el limpiador había pasado la fregona sin haber puesto la señal de advertencia de que el suelo estaba resbaladizo.",
+      "back": "I slipped and fell over because the cleaner had mopped the floor without having put up a warning sign saying that it was slippery.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Si resbalas y te caes, intenta detener la caída de alguna manera. No querrás golpearte la cabeza contra la acera. ¡Eso dolería!",
+      "back": "If you slip over and fall, try to break your fall somehow. You don't want to hit your head on the pavement. That would hurt!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Antes era un tipo bastante racional, pero no ha sido el mismo desde que se enamoró locamente de ella.",
+      "back": "He always used to be quite a rational fellow, but he's not been the same since he fell head over heels for her.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "No existe ninguna sensación en el mundo que pueda igualarse a la felicidad de enamorarse locamente de alguien.",
+      "back": "There is no feeling in the world that could match the bliss of falling head over heels for someone.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Ella está enamorándose locamente de él, pero se acercan sus exámenes finales y tiene que concentrarse en eso.",
+      "back": "She's falling head over heels for him, but her finals are coming up and she needs to focus on that.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Si los cimientos hubieran sido más fuertes, el edificio no se habría derrumbado.",
+      "back": "If the foundations had been stronger, the building wouldn't have collapsed.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Cuanto más débiles sean los cimientos del edificio, más probable es que algún día se derrumbe.",
+      "back": "The weaker the foundations of the building are, the more likely it is that it'll collapse one day.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Por muy fuertes que sean los cimientos, ese edificio se va a derrumbar un día.",
+      "back": "No matter how strong the foundations are, that building is going to collapse one day.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Desde la primera vez que él la miró fijamente a los ojos, supo que se había enamorado de ella.",
+      "back": "From the first time he gazed into her eyes, he knew that he had fallen in love with her.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Desde la primera vez que ella atrajo su mirada de él, ella también supo que él se había enamorado de ella.",
+      "back": "From the first time she caught his glance, she also knew that he had fallen in love with her.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Cuando él atrajo su mirada de ella, él pensó que se habían enamorado el uno del otro.",
+      "back": "When he caught her glance, he thought that they had fallen in love with each other.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Ella se quedó mirando fijamente al techo hasta que él se quedó dormido.",
+      "back": "She stared at the ceiling until he fell asleep.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Él miró a la luna fijamente hasta que se sumió en un sueño profundo.",
+      "back": "He gazed at the moon until he fell into a deep sleep.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Él se había sumido en un sueño tan profundo que ella pensó que había caído en un coma.",
+      "back": "He had fallen into such a deep sleep that she thought he had fallen into a coma.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "A la mañana siguiente se dio cuenta de que había caído en una trampa.",
+      "back": "The next morning, it dawned upon him that he had fallen into a trap.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Se dio cuenta de que había caído en la trampa cuando vio que ella se había ido con todo su dinero.",
+      "back": "It dawned upon him that he had fallen into the trap when he saw that she had left with all of his money.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Siempre cae en trampas, pero nunca se da cuenta hasta que es demasiado tarde.",
+      "back": "He always falls into traps, but it never dawns upon him until it's too late.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Él se dio cuenta de que la situación había acabado siendo un desastre total.",
+      "back": "It hit him that the situation had fallen into disarray.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Las cosas nunca se hubieran derrumbado si él nunca hubiera intentado atraer su mirada de ella.",
+      "back": "Things never would have fallen into disarray if he had never tried to catch her glance.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Las cosas siempre se derrumban cuando te enamoras demasiado fácilmente.",
+      "back": "Things always fall into disarray when you fall in love too easily.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Su vida de él empezó a deteriorarse después de caer en su trampa de ella.",
+      "back": "His life began to fall into decay after he fell into her trap.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Se quedó mirando el edificio al otro lado de la calle, que se estaba deteriorando.",
+      "back": "He stared at the building across the street, which was falling into decay.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Si no se hubiera enamorado tan fácilmente, las cosas nunca se habrían deteriorado.",
+      "back": "If he hadn't fallen in love so easily, things would have never fallen into decay.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Las hojas naranjas se caen del árbol y revolotean hasta llegar al suelo.",
+      "back": "The orange leaves fall off the tree and flutter to the ground.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Las hojas amarillas se caen del árbol y se amontonan en el suelo.",
+      "back": "The yellow leaves fall off the tree and form a pile on the ground.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Las hojas granates se están cayendo del árbol y están revoloteando hasta llegar al montón naranja y amarillo del suelo.",
+      "back": "The maroon leaves are falling off of the trees and are fluttering to the orange and yellow pile on the ground.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "A ese roble sólo le quedan unas pocas hojas por caer.",
+      "back": "That oak's only got a few leaves left to fall off.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Sólo quedan unas pocas hojas por caer de ese arce antes del invierno.",
+      "back": "There are only a few leaves left to fall off that maple before winter.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "¡A este árbol de hoja perenne le quedan muchas hojas por caer!",
+      "back": "This evergreen's got a lot of leaves left to fall off!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Normalmente, las hojas se caen de los álamos para mediados de diciembre.",
+      "back": "The leaves usually fall off poplar trees by mid-December.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Normalmente, las hojas se caen de los olmos para finales de diciembre.",
+      "back": "The leaves normally fall off elm trees by late December.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Normalmente, las hojas se caen de los sauces llorones para principios de enero.",
+      "back": "The leaves normally fall off weeping willow trees by early January.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "En otoño, los vientos fuertes hacen caer las ramas de los álamos a menudo.",
+      "back": "In the fall, strong winds often blow the branches off the poplars.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Para principios de diciembre, los vientos fuertes habían hecho caer las hojas amarillas del sauce llorón.",
+      "back": "By early December, the strong winds had blown the yellow leaves off the weeping willow.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Para mediados de diciembre, los vientos fuertes todavía no habían hecho caer muchas hojas del plátano.",
+      "back": "By mid-December, the strong winds still hadn't blown many leaves off the plane tree.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "El otoño pasado un vendaval derribó cinco olmos en el parque.",
+      "back": "Last fall, a gale blew down five elms in the park.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "El otoño pasado muchos robles fueron derribados en un huracán.",
+      "back": "Last fall, a lot of oaks were blown down in a hurricane.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "El otoño pasado cientos de arces fueron derribados en una tormenta.",
+      "back": "Last fall, hundreds of maples were blown down in a storm.",
+      "sourcePage": 41
+    }
+  ]
+}
