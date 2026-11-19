@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-39",
+  "bookTitle": "Libro 39",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Estoy intentando recordar algo.",
+      "back": "I'm trying to remember something.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Qué estás intentando recordar?",
+      "back": "What are you trying to remember?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Estoy intentando recordar lo que quiero explicar.",
+      "back": "I'm trying to remember what I want to explain.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "¿A quién se lo quieres explicar?",
+      "back": "Who are you trying to explain it to?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Estoy intentando explicártelo a ti.",
+      "back": "I'm trying to explain it to you.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Estoy intentando explicarte algo importante.",
+      "back": "I'm trying to explain something important to you.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Intenta escuchar, para variar.",
+      "back": "Try to listen for a change.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Intenta escucharme.",
+      "back": "Try to listen to me.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Intenta escuchar lo que estoy diciendo.",
+      "back": "Try to listen to what I'm saying.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Intenta ser agradable, para variar.",
+      "back": "Try to be nice for a change.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Intenta ser agradable con la gente que tienes a tu alrededor.",
+      "back": "Try to be nice to the people around you.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Intenta ser agradable con la gente en general.",
+      "back": "Try to be nice to people in general.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Algunos de nosotros estamos intentando escuchar la explicación.",
+      "back": "Some of us are trying to listen to the explanation.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Algunos de nosotros estamos intentando trabajar.",
+      "back": "Some of us are trying to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Algunos de nosotros estamos intentando dormir.",
+      "back": "Some of us are trying to sleep.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Estoy intentando no llorar, pero esta película es muy triste.",
+      "back": "I'm trying not to cry, but this film is very sad.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Estoy intentando no llorar, pero esta canción es muy romántica.",
+      "back": "I'm trying not to cry, but this song is very romantic.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Estoy intentando no llorar otra vez, pero estoy muy sensible hoy.",
+      "back": "I'm trying not to cry again, but I'm feeling very sensitive today.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Jane, procura no pensar en las partes tristes.",
+      "back": "Jane, try not to think about the sad parts.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Nick, procura no pensar en la letra y disfruta de la canción.",
+      "back": "Nick, try not to think about the lyrics and just enjoy the song.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Beth, procura no pensar demasiado.",
+      "back": "Beth, try not to think too much.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Intentaré no olvidar el champán para la fiesta.",
+      "back": "I'll try not to forget the champagne for the party.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Yo intentaré no olvidar las copas de champán.",
+      "back": "I'll try not to forget the champagne glasses.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Y yo intentaré no olvidar el dinero para pagarlo.",
+      "back": "And I'll try not to forget the money to pay for it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Intenta no preocuparte por eso; tenemos mucho alcohol.",
+      "back": "Try not to worry about it; we have lots of alcohol.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Intenta no preocuparte por las copas tampoco.",
+      "back": "Try not to worry about the glasses either.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Intenta no preocuparte por nada, ¿vale?",
+      "back": "Try not to worry about anything, ok?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "No te rías, pero me voy a probar el esmoquin naranja.",
+      "back": "Try not to laugh, but I'm going to try on the orange tuxedo.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "No te rías cuando me lo veas puesto.",
+      "back": "Try not to laugh when you see me in it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "No te rías, ¡pero es que el mío es exactamente igual!",
+      "back": "Try not to laugh but mine's exactly the same!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Sé que es difícil, pero intenta entenderlo.",
+      "back": "I know it's difficult but try and understand.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Sé que estás ocupado, pero intenta llamarme.",
+      "back": "I know you're busy but try and call me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Intenta estar en casa a la hora de la cena, ¿vale?",
+      "back": "Try and be home for dinner, ok?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Hoy en día, la gente intenta gastar menos dinero.",
+      "back": "Nowadays, people try and spend less money.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "¿La gente intenta gastar menos dinero en estos días?",
+      "back": "Do people try and spend less money these days?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "¿La gente debería intentar gastar menos dinero hoy en día?",
+      "back": "Should people try and spend less money nowadays?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Algún día intentaré aprender un tercer idioma.",
+      "back": "Someday I'll try and learn a third language.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Intentarás aprender un tercer idioma algún día?",
+      "back": "Will you try and learn a third language someday?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Quiero intentar aprender un tercer idioma algún día.",
+      "back": "I want to try and learn a third language someday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "No intentaré aprender un tercer idioma hasta que no domine éste.",
+      "back": "I won't try and learn a third language till I master this one.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "No intentaré llamarte hasta mañana.",
+      "back": "I won't try and call you till tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "No intentes comer hasta que tengas hambre.",
+      "back": "Don't try and eat till you're hungry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Intentaré visitarte en un mes.",
+      "back": "I'll try and visit you in a month's time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Intentarás visitarme en un año?",
+      "back": "Will you try and visit me in a year's time?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Intentaré estar allí en dos semanas.",
+      "back": "I'll try and be there in two weeks' time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Prueba a leer un libro.",
+      "back": "Try reading a book.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Prueba a escuchar música.",
+      "back": "Try listening to music.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Prueba a contar ovejas.",
+      "back": "Try counting sheep.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Por qué no pruebas a leer un libro?",
+      "back": "Why don't you try reading a book?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Por qué no pruebas a escuchar música?",
+      "back": "Why don't you try listening to music?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Por qué no pruebas a contar ovejas?",
+      "back": "Why don't you try counting sheep?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Por qué no pruebas a leer un libro sobre pesca?",
+      "back": "Why not try reading a book on fishing?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Por qué no pruebas a leer un libro sobre jardinería?",
+      "back": "Why not try reading a book on gardening?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Por qué no pruebas a leer un libro sobre Sudáfrica?",
+      "back": "Why not try reading a book on South Africa?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Cuando no puedo dormir, pruebo a leer un libro sobre algo aburrido.",
+      "back": "When I can't sleep, I try reading a book on something dull.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Cuando no puedo dormir, pruebo a escuchar música relajante.",
+      "back": "When I can't sleep, I try listening to relaxing music.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Cuando no puedo dormir, pruebo a contar ovejas.",
+      "back": "When I can't sleep, I try counting sheep.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Cuando ella tiene problemas para dormir, prueba a leer un libro sobre jardinería.",
+      "back": "When she has trouble sleeping, she tries reading a book on gardening.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Cuando ella tiene problemas para dormir, prueba a escuchar música relajante.",
+      "back": "When she has trouble sleeping, she tries listening to relaxing music.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Cuando ella tiene problemas para dormir, prueba a contar ovejas.",
+      "back": "When she has trouble sleeping, she tries counting sheep.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Me gustaría probarme este vestido rosa, por favor.",
+      "back": "I'd like to try on this pink dress, please.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Me gustaría probarme este pantalón, por favor.",
+      "back": "I'd like to try on these trousers, please.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Me gustaría probarme este abrigo, por favor.",
+      "back": "I'd like to try on this coat, please.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "Por favor, ¿me puedo probar esta camisa?",
+      "back": "Please, can I try this shirt on?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Por favor, ¿me puedo probar esas gafas de sol?",
+      "back": "Please, can I try those sunglasses on?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Por favor, ¿me puedo probar esta chaqueta de cuero?",
+      "back": "Please, can I try the leather jacket on?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Quiero probarme esto, pero en rojo.",
+      "back": "I want to try this on, but in red.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Quiero probarme éstos, pero en una talla más.",
+      "back": "I want to try these on, but the next size up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Quiero probarme ése, pero en una talla menos.",
+      "back": "I want to try that on, but the next size down.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Disculpa, ¿dónde puedo probarme esta blusa?",
+      "back": "Excuse me, where can I try on this blouse?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Disculpa, ¿dónde puedo probarme este pantalón corto?",
+      "back": "Excuse me, where can I try on these shorts?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Disculpa, ¿dónde puedo probarme esta falda?",
+      "back": "Excuse me, where can I try on this skirt?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Por qué no te pruebas el jersey azul?",
+      "back": "Why don't you try on the blue jumper?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Por qué no te pruebas este cinturón?",
+      "back": "Why don't you try on this belt?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Por qué no te pruebas estos zapatos también?",
+      "back": "Why don't you try on these shoes too?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Prueba esta pasta de dientes. ¡Mi dentista lo recomienda a todo el mundo!",
+      "back": "Try this toothpaste. My dentist recommends it to everyone!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Prueba este enjuague bucal. ¡Mi dentista lo recomienda a todo el mundo!",
+      "back": "Try this mouthwash. My dentist recommends it to everyone!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Prueba este hilo dental. ¡Mi dentista lo recomienda a todo el mundo!",
+      "back": "Try this dental floss. My dentist recommends it to everyone!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Prueba esta sopa. Pica un poco, ¡pero es deliciosa!",
+      "back": "Try this soup. It's a little bit hot, but it's delicious!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Prueba este estofado. Llena un poco, ¡pero es delicioso!",
+      "back": "Try this stew. It's a little bit filling, but it's delicious!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Prueba esta hamburguesa. La carne está un poco hecha, ¡pero es deliciosa!",
+      "back": "Try this hamburger. The meat's a little well done, but it's delicious!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Prueba estas gambas. ¡Se acompañan muy bien con esta ensalada!",
+      "back": "Try these prawns. They go very well with this salad!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Prueba estos mejillones. ¡Se acompañan muy bien con este vino!",
+      "back": "Try these mussels. They go very well with this wine!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Prueba estas sardinas. ¡Se acompañan muy bien con estas patatas!",
+      "back": "Try these sardines. They go very well with these potatoes!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Sé que el pulpo tiene un aspecto raro, pero pruébalo. ¡Puede que te guste!",
+      "back": "I know the octopus looks weird, but try it. You might like it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Sé que ese estofado no tiene buena pinta, pero pruébalo. ¡Puede que te guste!",
+      "back": "I know that stew doesn't look appetizing, but try it. You might like it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Sé que la hamburguesa parece un poco hecha, pero pruébala. ¡Puede que te guste!",
+      "back": "I know the hamburger looks a little well done, but try it. You might like it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Prueba un poquito de este pulpo delicioso. ¡Te enganchará!",
+      "back": "Try some of this delicious octopus. You'll be hooked!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Prueba un poquito de este estofado delicioso. ¡Te enganchará!",
+      "back": "Try some of this delicious stew. You'll be hooked!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Prueba un poquito de esta sopa deliciosa. ¡Te enganchará!",
+      "back": "Try some of this delicious soup. You'll be hooked!",
+      "sourcePage": 12
+    }
+  ]
+}

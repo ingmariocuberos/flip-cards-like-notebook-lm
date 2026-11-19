@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-39",
+  "bookTitle": "Libro 39",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Ha sido un día difícil en la oficina; todo empezó con problemas en la red y acabó con un apagón.",
+      "back": "It's been a trying day at the office, things kicked off with network problems and finished up with a power cut.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "Ésta ha sido una experiencia muy dura y desgarradora.",
+      "back": "This has been a very trying and heart-wrenching ordeal.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "Llevan a cabo su trabajo bajo las circunstancias más duras. Son muy buena gente.",
+      "back": "They carry out their work under the most trying of circumstances. They're the salt of the earth.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "¡Por el amor de Dios, estás poniendo a prueba mi paciencia! ¡Baja esa música tan horrorosa!",
+      "back": "For crying out loud, you're really trying my patience! Turn that racket down!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "Esto de nadar entre dos aguas está poniendo a prueba mi paciencia. ¿Cuándo vamos a tomar una decisión?",
+      "back": "All this sitting on the fence is trying my patience. When are we going to make a decision?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "Él es un buen jefe de departamento, pero su costumbre de jugar con las palabras constantemente pone a prueba mi paciencia.",
+      "back": "He's a good head of department, but his constant playing on words really tries my patience.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "El jefe de fusiones y adquisiciones pondría a prueba la paciencia de un santo. Riza el rizo a otro nivel.",
+      "back": "The head of M&A (mergers and acquisitions) could try the patience of a saint. He takes splitting hairs to another level.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "Pondrías a prueba la paciencia de un santo. ¡Como saques el tema de los resultados de los exámenes de tu hijo de nuevo me vuelvo loco!",
+      "back": "You could try the patience of a saint. If you bring up your son's exam results one more time I'm going to lose it!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Bueno, hablando de gente cabezota, Justin pondría a prueba la paciencia de un santo. ¡El otro día hizo que incluso Brian levantara la voz!",
+      "back": "Well, speaking of stubborn people, Justin could try the patience of a saint. The other day he even made Brian raise his voice!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "Estos son verdaderamente tiempos difíciles; los que tienen la suerte de tener un trabajo tienen que trabajar aún más horas.",
+      "back": "These are indeed trying times, those lucky enough to have a job are having to work even longer hours.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Vivir tiempos tan difíciles me dio una nueva perspectiva de las cosas.",
+      "back": "Living through such trying times gave me a fresh perspective on things.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Fueron tiempos muy difíciles; la gente tenía que hacer cola durante horas sólo para hacerse con un trocito de pan.",
+      "back": "They were trying times; people had to line up for hours just to grab a morsel of bread.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "El caso había sido difícil para el detective Murtagh, quizás el más difícil de toda su vida profesional.",
+      "back": "The case had been a trying one for detective Murtagh, possibly the most trying of his entire career.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "La temporada pasada fue difícil. ¡Casi bajamos a segunda!",
+      "back": "Last season was a trying one, we nearly got relegated to the second division!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "Este año ha sido muy difícil hasta el momento, pero, si las ventas mejoran, quizás lleguemos hasta el próximo trimestre.",
+      "back": "This year has been a really trying one so far, but, if sales pick up, we might make it through to the next quarter.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "Seguro que probaría a hacer tiro con arco si tuviera la más mínima oportunidad.",
+      "back": "I'd definitely try my hand at archery, given half a chance.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "Seguro que probaría la esgrima si tuviera la más mínima oportunidad.",
+      "back": "I'd definitely try my hand at fencing, given half a chance.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "Si hubiera tenido la más mínima oportunidad, seguro que habría probado la justa.",
+      "back": "Given half a chance, I definitely would've tried my hand at jousting.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "¿Te has enterado de que él fue a hacer puenting? ¡Está chiflado! Se atrevería con cualquier cosa.",
+      "back": "Did you hear he went bungee jumping? He's bonkers! He'll try anything once.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "¿Te has enterado de que él fue a hacer caída libre? ¡Está como una cabra! Se atrevería con cualquier cosa.",
+      "back": "Did you hear he went skydiving? He's stark raving mad! He'll try anything once.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "¿Te has enterado de que él fue a hacer parapente? ¡Está loco! Se atrevería con cualquier cosa.",
+      "back": "Did you hear he went paragliding? He's demented! He'll try anything once.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "No importa cuánto lo intente, ella nunca superará los veinte minutos en la cinta de correr.",
+      "back": "Try as she might, she'll never go beyond twenty minutes on the treadmill.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "No importa cuánto lo intente, yo nunca superaré las diez repeticiones en el banco de pesas.",
+      "back": "Try as I may, I'll never go beyond 10 bench presses.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "No importa cuánto lo intente, él nunca superará los cuarenta abdominales.",
+      "back": "He'll never go beyond forty sit-ups, try as he might.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "No importa cuánto lo intente, él no puede dejar el hábito. Pero por lo menos sabemos que no es por falta de esfuerzo.",
+      "back": "Try as he might, he can't kick the habit. But at least we know it isn't for want of trying.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "Si ella no puede dejar el hábito, no será por falta de esfuerzo.",
+      "back": "If she can't kick the habit, it won't be for want of trying.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "Ella se quedó deshecha cuando no pudo dejar el hábito. De verdad que no fue por falta de esfuerzo.",
+      "back": "She was absolutely devastated when she couldn't kick the habit. It really wasn't for want of trying.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "Su madre quedó encantada cuando a ella se le escapó que estaban intentando tener un niño.",
+      "back": "Her mother was thrilled to bits when she let slip that they were trying for a baby.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Me quedé realmente encantado con la noticia de que están intentando tener un niño.",
+      "back": "I was truly gladdened by the news that they are trying for a baby.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Con una sonrisa de oreja a oreja, ella le dijo a su marido: «¡Intentemos tener un niño!»",
+      "back": "Beaming from ear to ear, she said to her husband: \"Let's try for a baby!\"",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Te gusta la tarjeta que hice para Julia? ¡No me gusta! Bueno, tú no la podrías hacer ni queriendo.",
+      "back": "Do you like this card I made for Julia? No, I don't! Well, you couldn't do it if you tried!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "¡Las mujeres no podrían ignorarme ni queriendo! ¡Mira lo guapo que soy! Si tú lo dices...",
+      "back": "Ladies couldn't ignore me if they tried! Look at me! I'm gorgeous, aren't I? If you say so...",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "Andrew Karel es mi futbolista favorito. Pero no podría marcar un gol ni queriendo.",
+      "back": "Andrew Karel is my favourite player. But he couldn't score a goal if he tried!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Cómo puedes vivir sin chorizo? Mira, ser vegetariana no es difícil. No lo descartes hasta probarlo.",
+      "back": "How do you survive without chorizo? Look! Being a vegetarian isn't that bad, don't knock it till you've tried it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "¡No puedo creer que bailes salsa! Bailar salsa es divertido, no lo descartes hasta probarlo.",
+      "back": "I can't believe you dance salsa! Dancing salsa is a lot of fun! Don't knock it till you've tried it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "¡Qué asco! ¿Cómo puedes comer eso? De verdad que la pasta y el kétchup saben bien, no lo descartes hasta probarlo.",
+      "back": "That's foul! How can you eat that? Pasta and ketchup is actually quite tasty, don't knock it until you've tried it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "Les compro a las chicas flores, bombones, les escribo poemas, ¡pero sigo soltero! Hombre, creo que te estás esforzando demasiado.",
+      "back": "I buy girls flowers, chocolates and I write them poems, but I'm still single! Mate, I think you're trying too hard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Esta gorra hace juego con las botas? ¿No crees que te estás esforzando un pelín demasiado en ir a la moda?",
+      "back": "Does this cap match my boots? Don't you think you're trying a little too hard to be stylish?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "Cuando el agua se congela, se expande un 10% de su volumen. Otra vez te estás esforzando demasiado en parecer inteligente. ¡Para ya!",
+      "back": "When water freezes it expands by 10%. You're trying too hard to sound intelligent again. Stop!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Hagáis lo que hagáis, niños, no intentéis esto en casa; es demasiado peligroso.",
+      "back": "Whatever you do, kids, don't try this at home; it's far too dangerous.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "Voy a saltar este río en mi moto. Un movimiento equivocado puede ser mortal. ¡No lo intentéis en casa!",
+      "back": "I'm going to jump this river on my motorbike. One wrong move could be fatal. Don't try this at home!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "Estoy a punto de intentar romper el récord mundial de pasar más tiempo subido a la espalda de un cocodrilo. ¡No lo intentéis en casa!",
+      "back": "I'm about to have a go at breaking the record for the longest time on a crocodile's back. Don't try this at home!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "No podrías hacer un risotto de setas ni queriendo.",
+      "back": "You couldn't make mushroom risotto if you tried.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "No descartes ser profesor hasta probarlo. La verdad es que es muy divertido.",
+      "back": "Don't knock being a teacher till you've tried it - it's actually a lot of fun.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Nuestro siguiente reto es conducir este coche con los ojos vendados y seguir las instrucciones. ¡No lo intentéis en casa!",
+      "back": "Our next challenge is to drive this car blindfolded and follow the instructions. Don't try this at home!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "Intentaré hacerle entrar en razón.",
+      "back": "I'll attempt to make him see reason.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "La verdad es que fue un intento muy valiente.",
+      "back": "You made a really brave attempt.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "Ella aprobó su examen de conducir al primer intento.",
+      "back": "She passed her driving test on the first attempt.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "Procuraré hacerlo lo mejor que pueda.",
+      "back": "I shall endeavour to do my best.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "Desafortunadamente, todos sus esfuerzos de él fueron en vano.",
+      "back": "Unfortunately, all his endeavours were in vain.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "A pesar de todos sus esfuerzos, no tuvieron éxito en renegociar el contrato.",
+      "back": "In spite of their best endeavours they were unsuccessful in renegotiating the contract.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "Me esfuerzo siempre por alcanzar la perfección.",
+      "back": "I always strive for perfection.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Después del accidente él se esforzó en recuperar el uso de las piernas.",
+      "back": "After the accident he strove to recover use of his legs.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "El ejército del rey luchó en vano para aplastar el levantamiento.",
+      "back": "The king's army strived in vain to quell the uprising.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "Por lo menos podrías hacer un esfuerzo.",
+      "back": "You could at least make an effort!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "Él no ha hecho ni un solo esfuerzo por conocer a mi familia.",
+      "back": "He's made absolutely no effort to get to know my family.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Me emocioné. Todo el mundo hizo un gran esfuerzo.",
+      "back": "I was touched. They all made such an effort.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Has probado este caviar? Es verdaderamente sensacional.",
+      "back": "Have you sampled this caviar? It really is quite sublime.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "Usted realmente debería probar este Bordeaux divino.",
+      "back": "You really must sample this divine Bordeaux.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Me gustaría mucho probar el champán. He oído que es de una cosecha exquisita.",
+      "back": "I would very much like to sample the champagne. I've heard it's an exquisite vintage.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "Ella pasó por las vicisitudes de conseguir un visado para viajar a Australia, y al final se dio cuenta de que no se lo podía permitir.",
+      "back": "She went through the trials and tribulations of getting an Australian travel visa, only to realize that she couldn't afford to go.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "Podría contarte todas las vicisitudes que supuso trasladar a toda la familia a Buenos Aires, ¡pero me niego a revivir esa pesadilla!",
+      "back": "I could tell you all about the trials and tribulations of relocating the whole family to Buenos Aires, but I refuse to relive that nightmare!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "Se han escrito muchos libros acerca de las vicisitudes de ser adolescente.",
+      "back": "Many books have been written about the trials and tribulations of being a teenager.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "A veces la mejor manera de aprender a cocinar es por ensayo y error. ¡Nadie nace chef de categoría mundial!",
+      "back": "Sometimes, the best way to learn how to cook is by trial and error. Nobody is born a world-class chef!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Existen ciertos oficios en el mercado laboral que no se pueden aprender por ensayo y error, por motivos de seguridad.",
+      "back": "There are certain trades in the labour market that cannot be learned by trial and error, for safety reasons.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "Aprender por ensayo y error te ayuda a llegar a ser una persona capaz de aportar soluciones. También te ayuda a enfrentarte al fracaso.",
+      "back": "Learning by trial and error helps you to become a good problem solver. It also helps you to cope with failure.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "Menos mal que le dimos a él un periodo de prueba de seis meses, ¡porque ahora veo que este trabajo simplemente no es lo suyo!",
+      "back": "It's a good thing we gave him a 6-month trial period, because now I see that he's just not cut out for this job!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Dar un periodo de prueba de seis meses a todo el mundo es una forma fantástica de cribar a los empleados incompetentes.",
+      "back": "Giving everybody a 6-month trial period is a fantastic way of weeding out incompetent recruits.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "¡Nos vamos de cócteles para celebrar que acabo de terminar con éxito mi periodo de prueba de seis meses!",
+      "back": "Let's go out for cocktails to celebrate the fact that I've just successfully finished my 6-month trial period!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Sin yo saberlo, me dieron un placebo en el ensayo clínico. Yo esperaba algún tipo de reacción y no pasó nada.",
+      "back": "Unbeknown to me, they gave me a placebo in the medical trial. I was expecting some kind of reaction, and nothing happened.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "Por desgracia, uno de los participantes en el ensayo clínico tuvo una reacción adversa al medicamento y tuvo que pasar la noche en el hospital.",
+      "back": "Unfortunately, one of the participants in the medical trial had an adverse reaction to the drug and needed to stay in hospital overnight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Me voy a presentar para participar en algunos ensayos clínicos para poder financiar mi viaje a Europa.",
+      "back": "I'm going to volunteer to participate in some clinical trials so that I can afford to fund my trip to Europe.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Me ofrecieron el producto gratis durante un mes.",
+      "back": "They offered me the product on a free one-month trial basis.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Use nuestros servicios de consultoría gratis durante tres meses.",
+      "back": "Use our consultancy services on a three-month trial basis.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "Voy a dejar de fumar como un experimento. Si no me siento mejor después de dos meses, ¡volveré a fumar y listo!",
+      "back": "I'm going to quit smoking on a trial basis. If I don't feel better after two months, I'll just start smoking again!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "Paul ha sido acusado de intento de robo.",
+      "back": "Paul's been charged with attempted robbery.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Cogieron a John con las manos en la masa y lo acusaron de intento de incendio.",
+      "back": "John was caught red-handed and is being charged with attempted arson.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "La policía no tenía pruebas suficientes para presentar cargos de homicidio contra Nick, así que fue acusado de intento de homicidio.",
+      "back": "The police didn't have sufficient evidence to charge Nick with murder, so he was charged with attempted murder.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "David ha sido acusado de fraude. Está preocupado por si no le hacen un juicio justo.",
+      "back": "David's been charged with fraud. He's worried he won't get a fair trial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Paul no será puesto en libertad bajo fianza pendiente de juicio.",
+      "back": "Paul won't be released on bail pending trial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "El acusado fue absuelto debido a una anulación del juicio.",
+      "back": "The defendant was acquitted due to a mistrial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "El caso del acusado se juzgará ante un juez.",
+      "back": "The defendant's case will be tried before a judge.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "La banda será juzgada por un juez y un jurado por intento de secuestro. Estarán detenidos pendientes de juicio.",
+      "back": "The gang will be tried by judge and jury for attempted kidnap. They'll be held in custody pending trial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "El hombre fue juzgado y condenado ante un juez y un jurado por homicidio involuntario.",
+      "back": "The man was tried and convicted before judge and jury for manslaughter.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Habrá un retraso considerable antes de que el caso pueda ser llevado a juicio.",
+      "back": "There will be a substantial delay before the case can be brought to trial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "El acusado tiene un cargo por intento de homicidio y permanecerá en prisión hasta que el caso sea llevado a juicio.",
+      "back": "The defendant is charged with attempted murder and will be held in prison until the case goes to trial.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "David no será procesado hasta el año que viene.",
+      "back": "David won't be brought to trial until next year.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "John está siendo procesado por una tentativa de incendio.",
+      "back": "John is standing trial for attempted arson.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "El acusado está siendo procesado por robo. Si es condenado, se enfrentará a una pena de cárcel.",
+      "back": "The defendant is on trial for robbery. If convicted, he faces a prison sentence.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "Nick fue procesado y condenado por hurto. Cumplirá hasta dos años en la cárcel.",
+      "back": "Nick stood trial for theft and was convicted. He'll serve up to two years in prison.",
+      "sourcePage": 40
+    }
+  ]
+}
