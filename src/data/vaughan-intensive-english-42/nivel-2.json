@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-42",
+  "bookTitle": "Libro 42",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¡Me acabas de adivinar el pensamiento! Un café era exactamente lo que quería.",
+      "back": "You just read my mind! A coffee was just what I wanted!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "¿Cómo puedes esperar que yo sepa lo que quieres en todo momento? ¡No soy adivino!",
+      "back": "How can you expect me to know what you want at every moment? I'm not a mind-reader!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "¿Cómo sabías lo que yo pensaba? ¿Eres una especie de adivino?",
+      "back": "How did you know what I was thinking? Are you some kind of mind-reader?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "¡Ella me leyó las líneas de la palma de la mano y dijo que iba a disfrutar de una vida profesional próspera!",
+      "back": "She read my palm and said that I was going to enjoy a prosperous career!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Bueno, ¡la misma quiromántica me leyó las líneas de la palma de la mano y me dijo que iba a conocer a un hombre rico!",
+      "back": "Well, the same palm reader read my palm and she told me that I was going to meet a rich man!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Esa misma quiromántica me leyó las líneas de la palma de la mano y me dijo que iba a vivir en el extranjero algún día.",
+      "back": "That same palm reader read my palms and she told me that I was going to live abroad one day.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Él lleva toda la vida siendo sordo y ha aprendido a leer los labios.",
+      "back": "He's been deaf his whole life, and he's learned how to lipread.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Su capacidad para leer los labios le ha ayudado a conseguir un trabajo fantástico leyendo los labios de la gente en voz alta en vídeos de cámaras de seguridad.",
+      "back": "Being able to lipread has helped him to secure a fantastic job reading people's lips out loud on security videos.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Como sabe leer los labios, entiende a la gente incluso en los sitios más ruidosos. ¡Ser sordo no le ha supuesto ningún lastre en absoluto!",
+      "back": "Since he can lipread, he can understand people even in loud places. Being deaf hasn't held him back at all!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¡Me lo has pedido tres veces! Léeme los labios: ¡he dicho que NO!",
+      "back": "You've asked me three times! Read my lips: I said NO!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Si vuelves a pedírmelo, ¡sólo obtendrás la misma respuesta! Léeme los labios: ¡he dicho que NO!",
+      "back": "If you ask me again, you'll only get the same answer! Read my lips: I said NO!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¡De verdad! ¡Estoy empezando a perder la paciencia contigo! Léeme los labios: ¡he dicho que NO!",
+      "back": "Honestly! I'm starting to lose my patience with you! Read my lips: I said NO!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Es muy importante que la gente ciega aprenda a leer braille en el colegio.",
+      "back": "It's very important for blind people to learn how to read braille at school.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Hola, señor, he venido para leer el contador del gas.",
+      "back": "Hello Sir, I've come to read the gas meter.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Su hermano es sordo, así que ella está aprendiendo a leer con la lengua de signos en una escuela los sábados.",
+      "back": "Her brother is deaf, so she's learning to read with sign language at a Saturday school.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Le escribo en respuesta a su carta del 8 de marzo.",
+      "back": "I'm writing in response to your letter of March 8.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Me dirijo a usted en referencia a los cambios recientes que se hicieron sobre nuestro acuerdo.",
+      "back": "I'm writing in response to the recent changes that were made to our agreement.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Le escribo con referencia a la oferta de trabajo que está anunciada en su página web.",
+      "back": "I'm writing in response to the job offer advertised on your website.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Le escribo porque quisiera expresar mi más profundo agradecimiento.",
+      "back": "I'm writing to you because I'd like to express my deepest gratitude.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Le escribo porque ha habido problemas serios con la línea de producción.",
+      "back": "I'm writing to you because there have been serious problems with the production line.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Le escribo porque nuestra empresa no está dispuesta a continuar con la estrategia de marketing.",
+      "back": "I'm writing to you because our company is not willing to go ahead with the marketing strategy.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Le escribo en referencia a la línea de crédito de tres meses que he solicitado.",
+      "back": "I'm writing with regard to the 3-month credit line that I requested.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Le escribo en referencia a los problemas que surgieron al contactar con su proveedor.",
+      "back": "I'm writing with regard to the problems that arose upon contacting your supplier.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Le escribo en referencia al lugar de la reunión de accionistas de la semana que viene.",
+      "back": "I'm writing with regard to the location of the shareholder meeting next week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Le escribo para hacerle una oferta que no podrá rechazar.",
+      "back": "I'm writing to make you an offer that you won't be able to turn down.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Le escribo para preguntar sobre las posibilidades de posponer la sesión de formación.",
+      "back": "I'm writing to enquire about the possibilities of postponing the training session.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Le escribo para quejarme del terrible servicio de habitaciones de su hotel.",
+      "back": "I'm writing to complain about the terrible room service in your hotel.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "La razón por la que le escribo es que hemos lanzado el nuevo producto con éxito.",
+      "back": "The reason I'm writing to you is that we have successfully launched the new product.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "La razón por la que le escribo es que no hay fondos suficientes en su cuenta bancaria.",
+      "back": "The reason I'm writing to you is that there aren't sufficient funds in your bank account.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "La razón por la que le escribo es que creo que necesitamos abordar el tema de los proveedores.",
+      "back": "The reason I'm writing to you is that I believe that we need to address the issue of the suppliers.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Tengo muchas ganas de escuchar tus novedades. ¡Contéstame pronto!",
+      "back": "I can't wait to hear your news. Write back soon!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Ana escribe a Paulo en castellano y él le contesta en italiano.",
+      "back": "Ana writes to Paulo in Spanish and he writes back in Italian.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "John se enfada con su amiga porque siempre tarda mucho en contestar.",
+      "back": "John is annoyed with his friend because it always takes her ages to write back.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Muchos lectores habían escrito para quejarse del artículo.",
+      "back": "Lots of readers had written in to complain about the article.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Cientos de telespectadores escriben todas las semanas.",
+      "back": "Hundreds of viewers write in every week.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "María está siempre escribiendo o llamando para quejarse sobre algo.",
+      "back": "Maria is always writing in or ringing up to complain about something.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Más te vale escribirlo, si no lo olvidarás.",
+      "back": "You'd better write it down or you'll forget it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Ella nunca apunta nada. ¡O tiene una memoria fotográfica o es muy perezosa!",
+      "back": "She never writes anything down. Either she's got a photographic memory or she's very lazy!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "En clase intento apuntar todo el vocabulario útil.",
+      "back": "In class I try to write down all the useful vocabulary.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Pasa todos sus apuntes a limpio después de la clase porque su letra es espantosa.",
+      "back": "He writes all his notes out after class because his handwriting's dreadful.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Siempre he aconsejado a los alumnos que copien el vocabulario nuevo varias veces para ayudarles a recordarlo.",
+      "back": "I've always advised students to write out new vocabulary several times to help them remember it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Antes del invento de la imprenta, cada libro tenía que ser copiado a mano.",
+      "back": "Before the invention of the printing press, every book had to be written out by hand.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Su puesto incluye redactar el acta de la reunión y enviarla al equipo.",
+      "back": "His role includes writing up the minutes from the meeting and forwarding them to the team.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Su letra es malísima. Siempre tiene que pasar a limpio sus apuntes después de las clases.",
+      "back": "His handwriting is terrible. He always has to write his notes up after lectures.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Cuando termine el experimento todavía tendrá que redactarlo.",
+      "back": "After the experiment's finished, he'll still have to write it up.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "No tienes que leer el libro entero detenidamente, léetelo por encima.",
+      "back": "You don't need to read the whole book in detail, just skim read it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Leyó el artículo por encima, sólo para comprender lo esencial.",
+      "back": "She gave the article a skim read, just to get the gist of it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Leí el artículo por encima, creo que he captado lo esencial.",
+      "back": "I gave the article a skim read; I think I got the gist of it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Te recomiendo ese libro, es muy ameno.",
+      "back": "I recommend that book, it's a good read.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Ése era uno de mis libros preferidos, es muy ameno.",
+      "back": "That was one of my favorite books, it's a fantastic read.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Si yo fuese tú, no me molestaría en leer ese libro, no es muy ameno.",
+      "back": "I wouldn't bother reading that book if I were you, it's not a very good read.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Adoro este libro, lo leí de cabo a rabo.",
+      "back": "I absolutely love this book, I read it from cover to cover.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Joseph siempre está al tanto de lo que pasa en el mundo, lee un par de periódicos de cabo a rabo cada día.",
+      "back": "Joseph is always really up-to-date with what's going on in the world, he reads a couple of newspapers from cover to cover every day.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Leyeron el informe de cabo a rabo dos veces, y aún así no lo entendían.",
+      "back": "They read the report from cover to cover twice, and still didn't understand it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Oye, acabo de terminar un artículo del próximo ejemplar. ¿Le puedes echar un vistazo rápido?",
+      "back": "Hey, I've just finished an article for the next issue, can you give it a quick read?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Le eché un vistazo rápido a tu artículo y me parece bueno, pero si yo fuese tú, acortaría algunas de las frases.",
+      "back": "I gave your article a quick read and it looks good, but I'd shorten some of the sentences if I were you.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Echó un vistazo rápido al manual de instrucciones, sólo para captar lo esencial.",
+      "back": "He gave the instruction manual a quick read, just to get the gist of it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Es aconsejable que los alumnos lean sus apuntes después de cada clase.",
+      "back": "It's good advice for students to read over their notes after each class.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Repasa las cifras del trimestre pasado antes de la reunión, tienes que estar al día.",
+      "back": "Read through the figures for last quarter before the meeting; you need to be up-to-date.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Puedes repasar mi informe y decirme si encuentras errores?",
+      "back": "Could you read through my report and tell me if you see any mistakes?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Este manuscrito es horrible. Está lleno de erratas y es de muy mal gusto. ¡Vuelve a escribirlo ahora mismo!",
+      "back": "This manuscript is terrible. It's full of typos and it's extremely distasteful. Re-write it immediately!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Él me pidió que volviera a escribir mi manuscrito porque estaba lleno de erratas y creía que era de mal gusto.",
+      "back": "He asked me to re-write my manuscript because it was full of typos and he thought it was distasteful.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Por qué narices deberías volver a escribir el manuscrito? ¡El contenido está bien!",
+      "back": "Why on earth should you re-write the manuscript? The content is fine!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Si el primer párrafo de tu libro no engancha al lector, ¿cómo esperas entonces que siga leyendo?",
+      "back": "If the first paragraph of your book doesn't hook the reader, then how do you expect them to read on?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Estaba enganchada después del primer párrafo, seguí leyendo y después me aburrí justo antes del final.",
+      "back": "I was hooked after the first paragraph, I read on and then I got bored just before the ending.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Puede que no hayas aprendido nada interesante todavía, pero sigue leyendo. Para cuando termines, habrás aprendido mucho.",
+      "back": "You may not have learned anything interesting yet, but read on. By the time you finish, you'll have learned a lot.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Voy a leer toda esta lista para que todos podáis apuntarla, ¡pero no la voy a repetir, así que prestad mucha atención!",
+      "back": "I'm going to read off this list so that all of you can write it down, but I will not repeat it, so pay attention!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Ahora leeré los nombres de todos los aspirantes que han pasado la primera criba. Si no oyes tu nombre, por favor, vete a casa.",
+      "back": "Now I'll read off the names of all of the applicants that have passed the first round. If you do not hear your name, please go home.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Ella leyó todos los números del bingo uno tras otro, y cuando leyó el último, grité «¡Bingo!».",
+      "back": "She read off the bingo numbers one by one, and when she read out the last number, I shouted out \"Bingo!\".",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Le importaría repetirme la dirección que le acabo de dar, por favor?",
+      "back": "Would you mind reading the address back to me please?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Podría repetirme ese número de teléfono? Es sólo para asegurarme.",
+      "back": "Could you read that phone number back to me please? Just to be on the safe side.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Sería tan amable de repetirme esa dirección de correo electrónico? Quiero asegurarme de que lo tiene apuntado correctamente.",
+      "back": "Would you be so kind as to read that e-mail address back to me? I want to make sure you have it written down correctly.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¡Leí en el boletín que te habían elegido presidente del club de golf! Te deseo lo mejor en tu nuevo puesto.",
+      "back": "I read in the newsletter that you had been elected president of the golf club! I wish you all the best in your new appointment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Leí que lo habían detenido en la frontera francesa después de intentar huir de las autoridades españolas.",
+      "back": "I read that he'd been arrested at the French border after trying to escape from the Spanish authorities.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Leí que los rehenes habían logrado huir de los secuestradores. Ahora se han reunido con sus familias.",
+      "back": "I read that the hostages had managed to flee from the kidnappers. Now they've been reunited with their families.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Me han pedido que me presente para un papel en Hamlet, pero no estoy seguro de tener tiempo para hacerlo si me aceptan.",
+      "back": "I've been asked to read for a part in Hamlet, but I'm not sure whether I have the time to do it if I get accepted.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Sigo con ganas de presentarme para un papel en el teatro, pero siempre tengo demasiado miedo de asistir a las audiciones.",
+      "back": "I still feel like reading for a part in the theatre, but I always get too scared to go to the auditions.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Si pudieras elegir, ¿para qué papel de la obra te gustaría presentarte?",
+      "back": "If you could choose, which part from the play would you like to read for?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Lee por encima el guion antes del ensayo de la semana que viene.",
+      "back": "Have a read through the script ready for next week's rehearsal.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "No estoy seguro de si tengo el tiempo para repasar todo esto. ¡Son 62 páginas!",
+      "back": "I'm not sure whether I've got time to read through all of this. It's 62 pages!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Echemos un primer vistazo al guion antes de empezar a practicar nuestra interpretación.",
+      "back": "Let's just read through the script before we start working on our acting skills.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Phillip y Sophie, quiero que leáis vuestras partes en voz alta.",
+      "back": "Phillip and Sophie, I want you to read your parts out loud.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Para memorizar las líneas es muy importante que las leas en voz alta una y otra vez.",
+      "back": "To memorize your lines it's really important that you read them aloud over and over again.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Natasha, ¿te importaría leer el texto que tienes delante?",
+      "back": "Natasha, would you mind reading out the text you have in front of you?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Anne, nos gustaría mucho que hicieras una lectura para presentar la obra de la semana que viene.",
+      "back": "Anne, we'd like you to give a reading to introduce next week's play.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Hizo una lectura conmovedora la semana pasada; la mitad del público estaba llorando.",
+      "back": "She gave a heartwarming reading last week; half of the audience was in tears.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Quieren que haga una lectura la semana que viene, pero no me apetece nada.",
+      "back": "They want me to give a reading next week, but I don't feel like doing it at all.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Acabo de leer una crítica acerca del espectáculo de la semana pasada y es muy positiva.",
+      "back": "I just read a write-up on last week's show and it was very positive.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Echa un vistazo a la crítica sobre Lucy Lewis en el último número del Theatre Times Magazine.",
+      "back": "Check out the write-up on Lucy Lewis in the latest issue of Theatre Times Magazine.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Qué opinas de la crítica del Times acerca de nuestra representación?",
+      "back": "What's your opinion of the Times' write-up on our performance?",
+      "sourcePage": 27
+    }
+  ]
+}

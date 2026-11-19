@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-42",
+  "bookTitle": "Libro 42",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Estoy leyendo un libro fascinante sobre los zorros.",
+      "back": "I'm reading a fascinating book about foxes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Philip está leyendo un libro fascinante sobre la historia de Inglaterra.",
+      "back": "Philip's reading a fascinating book about English history.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Están leyendo un libro fascinante sobre los lobos.",
+      "back": "They're reading a fascinating book about wolves.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Tardo menos de cinco minutos en leer un artículo del periódico.",
+      "back": "It takes me less than five minutes to read a newspaper article.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Enrique tarda tres minutos en leer un artículo en una revista.",
+      "back": "It takes Enrique three minutes to read a magazine article.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "María tarda cuatro minutos en leer un artículo de la enciclopedia.",
+      "back": "It takes María four minutes to read an encyclopedia article.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Leer partituras parece difícil, pero en realidad es bastante fácil.",
+      "back": "Reading music looks complicated but in fact it's quite easy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Leer partituras sólo es fácil si sabes hacerlo.",
+      "back": "Reading music is only easy if you know how to.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Por lo visto, aprender a leer partituras te ayuda a mejorar tu rendimiento escolar.",
+      "back": "Apparently, learning to read music helps you to perform better at school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Leer en italiano me resulta fácil porque las reglas me resultan sencillas.",
+      "back": "Reading in Italian is easy for me because I find the rules simple.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Leer en ruso me resulta difícil porque las reglas me resultan complejas.",
+      "back": "Reading in Russian is difficult for me because I find the rules complicated.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Leer en alemán me resulta fácil, pero la gramática alemana me resulta complicada.",
+      "back": "Reading in German is easy for me but I find German grammar complicated.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Ella le lee un cuento a su hija antes de la hora de acostarse todas las noches.",
+      "back": "She reads her daughter a story before bedtime every night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Él le lee un cuento a su hijo una noche sí y otra noche no antes de la hora de acostarse.",
+      "back": "He reads his son a story every other night before bedtime.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Ellos leen un cuento a sus dos hijos antes de la hora de acostarse todas las noches.",
+      "back": "They read both their kids a story before bedtime every night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Qué libro estás leyendo ahora?",
+      "back": "What book are you reading at the moment?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Qué estás leyendo ahora?",
+      "back": "What are you reading at the moment?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Estás leyendo algo interesante ahora?",
+      "back": "Are you reading anything interesting at the moment?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Ahora estoy leyendo sobre la Segunda Guerra Mundial en los libros de historia de mi biblioteca.",
+      "back": "At the moment I'm reading about World War Two in the history books at my library.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Ahora estoy leyendo sobre varios filósofos en el libro El mundo de Sofía.",
+      "back": "At the moment I'm reading about different philosophers in the book Sophie's World.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Ahora estoy leyendo sobre el progreso científico en The Science Magazine.",
+      "back": "At the moment I'm reading about scientific progress in The Science Magazine.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Tienes que leer sobre lo que está pasando esta semana en la Premier League. ¡Vaya semana!",
+      "back": "You have to read about what's happening this week in the Premier League. What a week!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Deberías leer sobre el nuevo presidente francés y los cambios que va a hacer.",
+      "back": "You should read about the new French president and the changes he's going to make.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Debes leer sobre el medioambiente en Environment Magazine. ¡Es muy interesante!",
+      "back": "You must read about the environment in Environment Magazine. It's so interesting!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Leíste sobre lo que está sucediendo en la Premier League esta semana?",
+      "back": "Did you read about what's happening in the Premier League this week?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Leíste sobre el nuevo presidente francés y los cambios que va a hacer?",
+      "back": "Did you read about the new French president and the changes he's going to make?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Leíste sobre el medioambiente en Environment Magazine?",
+      "back": "Did you read about the environment in Environment Magazine?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Sí, leí sobre eso esta mañana.",
+      "back": "Yes, I read about it this morning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Sí, leí sobre eso ayer.",
+      "back": "Yes, I read about it yesterday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Sí, leí sobre eso hace dos días.",
+      "back": "Yes, I read about it two days ago.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Escribo a mis padres cada mes.",
+      "back": "I write to my parents every month.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Mi jefe escribe a nuestro equipo de vendedores cada semana.",
+      "back": "My manager writes to our sales team every week.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Escribo a mis primos cada Navidad.",
+      "back": "I write to my cousins every Christmas.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Estoy escribiendo a nuestro proveedor.",
+      "back": "I'm writing to our supplier.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "El director del proyecto está escribiendo a su jefe.",
+      "back": "The project manager's writing to his boss.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "John está escribiendo a todos sus clientes.",
+      "back": "John's writing to all of his customers.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Estoy escribiendo una carta a nuestro proveedor.",
+      "back": "I'm writing a letter to our supplier.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "El director del proyecto está escribiendo un mensaje a su jefe.",
+      "back": "The project manager's writing a text to his boss.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "John está escribiendo un correo a todos sus clientes.",
+      "back": "John's writing an e-mail to all of his customers.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Mi hermana escribe a su novio todos los días.",
+      "back": "My sister writes her boyfriend every day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Estoy escribiendo a mis padres.",
+      "back": "I'm writing my parents.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Estoy escribiendo a la empresa de seguros del coche sobre mi problema.",
+      "back": "I'm writing my car insurance company about my problem.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Cuando Hacienda me escribe una carta, ¡me preocupo!",
+      "back": "When the IRS writes me a letter, I worry!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Escribo un correo electrónico a mi tía cuando puedo.",
+      "back": "I write my auntie an e-mail when I can.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Escribo recetas a mi hijo porque no sabe cocinar.",
+      "back": "I write my son recipes because he can't cook.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Escribí un correo electrónico la semana pasada.",
+      "back": "I wrote an e-mail last week.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Ella escribió el correo electrónico el mes pasado.",
+      "back": "She wrote the e-mail last month.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Escribieron cientos de correos electrónicos el año pasado.",
+      "back": "They wrote hundreds of e-mails last year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Escribimos un mensaje hace dos horas.",
+      "back": "We wrote a text message two hours ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Él escribió el mensaje hace un año.",
+      "back": "He wrote the text message a year ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Creo que escribí los mensajes hace tres días.",
+      "back": "I think I wrote the text messages three days ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Ella escribió una carta hace un momento.",
+      "back": "She wrote a letter a moment ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Escribieron una carta de queja hace un tiempo.",
+      "back": "They wrote a letter of complaint a while ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Escribí una carta de amor hace mucho tiempo.",
+      "back": "I wrote a love letter a long time ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Escribí un artículo divertido para el periódico local el mes pasado.",
+      "back": "I wrote a funny article for the local newspaper last month.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "El economista escribió un artículo aburrido hace cinco días.",
+      "back": "The economist wrote a boring article five days ago.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "La periodista escribió un artículo interesante la semana pasada.",
+      "back": "The journalist wrote an interesting article last week.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Miguel de Cervantes escribió un libro muy importante llamado Don Quijote de la Mancha.",
+      "back": "Miguel de Cervantes wrote a very important book called Don Quixote.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "J. K. Rowling escribió siete novelas populares sobre Harry Potter.",
+      "back": "J. K. Rowling wrote seven popular novels about Harry Potter.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Anton Chéjov escribió un relato llamado La dama del perrito.",
+      "back": "Anton Chekhov wrote a short story called The lady with the little dog.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Paul: No sé sobre lo que voy a escribir. ¿Alguna sugerencia?",
+      "back": "Paul: I don't know what I'm going to write about. Any suggestions?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Elaine: No estoy segura sobre lo que voy a escribir. ¿Alguna idea?",
+      "back": "Elaine: I'm not sure what I'm going to write about. Any ideas?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Elizabeth: No sé sobre qué voy a escribir. ¿Algún comentario?",
+      "back": "Elizabeth: I don't know what I'm going to write about. Any thoughts?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Paul, ¿por qué no escribes sobre las relaciones entre los hombres y las mujeres?",
+      "back": "Paul, why don't you write about relationships between men and women?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Elaine, ¿por qué no escribes sobre películas?",
+      "back": "Elaine, why don't you write about films?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Elizabeth, ¿por qué no escribes sobre el crimen en Londres?",
+      "back": "Elizabeth, why don't you write about crime in London?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Paul: ¡Qué sugerencia más buena! Voy a escribir sobre las relaciones entre los hombres y las mujeres.",
+      "back": "Paul: What a great suggestion! I'm going to write about relationships between men and women.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Elaine: ¡Qué idea más fantástica! Voy a escribir sobre películas.",
+      "back": "Elaine: What a fantastic idea! I'm going to write about films.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Elizabeth: ¡Qué idea más interesante! Voy a escribir sobre el crimen en Londres.",
+      "back": "Elizabeth: What an interesting thought! I'm going to write about crime in London.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Paul: Perdona, ¿tienes un minuto para contestar unas preguntas? Estoy escribiendo un artículo sobre las relaciones.",
+      "back": "Paul: Excuse me; do you have a minute to answer some questions? I'm writing an article about relationships.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Elaine: Perdona, ¿tienes un minuto para contestar unas preguntas? Estoy escribiendo una crítica para el periódico.",
+      "back": "Elaine: Excuse me; do you have a minute to answer some questions? I'm writing a review about it for the newspaper.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Elizabeth: Perdona, ¿tienes un minuto para contestar unas preguntas? Estoy escribiendo un artículo sobre el crimen.",
+      "back": "Elizabeth: Excuse me; do you have a minute to answer some questions? I'm writing a story about crime.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Al final sobre qué escribió Paul? Al final escribió sobre las relaciones entre los hombres y las mujeres.",
+      "back": "What did Paul write about in the end? In the end he wrote about relationships between men and women.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Al final sobre qué escribió Elaine? Al final escribió sobre películas.",
+      "back": "What did Elaine write about in the end? In the end she wrote about films.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Al final sobre qué escribió Elizabeth? Al final escribió sobre el crimen.",
+      "back": "What did Elizabeth write about in the end? In the end she wrote about crime.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Mi nombre es Seán O'Connor. ¿Cómo se escribe?",
+      "back": "My name's Seán O'Connor. How do you write that?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Cómo se escribe tu apellido, por favor?",
+      "back": "How do you write your surname, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Cómo se escribe el apellido del presidente, por favor?",
+      "back": "How do you write the president's surname, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Lo siento mucho, pero no entiendo tu letra.",
+      "back": "I'm really sorry, but I can't read your writing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Tengo la dirección, pero no entiendo su letra de él.",
+      "back": "I have the address, but I can't read his writing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "No serás capaz de entender mi letra.",
+      "back": "You won't be able to read my writing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Mi madre es periodista. Escribe en El Mundo.",
+      "back": "My mum is a journalist. She writes for El Mundo.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Mi madre quiere escribir en una revista.",
+      "back": "My mum wants to write for a magazine.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Su madre de ellos escribió un artículo para el periódico local.",
+      "back": "Their mum wrote an article for the local newspaper.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Siempre leo a mis nietos.",
+      "back": "I always read to my grandchildren.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Mi madre me leía todas las noches cuando era pequeño.",
+      "back": "My mum read to me every night when I was a child.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Él está leyendo el periódico a su abuelo.",
+      "back": "He's reading the newspaper to his granddad.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Lucía no sabe escribir a máquina.",
+      "back": "Lucia can't type.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Escribo a máquina a una velocidad de cincuenta palabras por minuto.",
+      "back": "I can type fifty words a minute.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Escribiré a máquina el informe esta tarde.",
+      "back": "I'll type the report this afternoon.",
+      "sourcePage": 13
+    }
+  ]
+}

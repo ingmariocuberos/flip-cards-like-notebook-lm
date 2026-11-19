@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-42",
+  "bookTitle": "Libro 42",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Quiero que pongas eso por escrito, por favor.",
+      "back": "I'd like you to put that in writing for me, please.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Él tenía mucho que decir, pero se negó a ponerlo por escrito.",
+      "back": "He had a lot to say, but he refused to put any of it in writing.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Mi jefe cambia mis responsabilidades de un día para otro, pero siempre le pido que lo ponga todo por escrito.",
+      "back": "My boss changes my responsibilities from one day to the next, but I always ask him to put all of it in writing.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Te importaría revisar y corregir este correo electrónico antes de que se lo mande al CEO? Tengo que justificar las decisiones que he tomado.",
+      "back": "Would you mind proofreading this email before I send it to the CEO? I have to justify the decisions I made.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Él debería encontrar a alguien que le revisara y corrigiera los correos electrónicos que envía a los empleados; siempre comete errores.",
+      "back": "He really ought to find someone to proofread his emails to the employees; he's always making mistakes.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¿Podrías revisar y corregir este correo electrónico para el cliente para asegurarnos de que legalmente hablando es correcto escribir todo esto?",
+      "back": "Could you proofread this email to the client and make sure that legally speaking we're ok to write all of this?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Los expertos dicen que siempre deberías leer la letra pequeña cuando compras en internet, ya que a lo mejor hay obligaciones de las que no tienes constancia.",
+      "back": "Experts say that you should always read the small print whenever you shop online, as there might be obligations that you're not aware of.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Él se enfadó mucho cuando le dije que nunca me molesto en leer la letra pequeña.",
+      "back": "He was very cross when I told him that I never bother to read the small print.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Ella no leyó la letra pequeña con respecto a la política de reembolsos antes de hacer la compra.",
+      "back": "She didn't read the small print regarding the refund policy before she made the purchase.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "La carta dice lo siguiente: «Estimada Claudia, le escribo para poner una reclamación sobre los problemas de calefacción en la tienda».",
+      "back": "The letter reads as follows: \"Dear Claudia, I'm writing to complain about the central heating problems in the shop\".",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Él quería quejarse de un error en un letrero del zoo, que decía: «No alimentes los animales».",
+      "back": "He wanted to complain about the mistake on the sign at the zoo; it read: \"don't feed to the animals\".",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "El letrero dice lo siguiente: «Prohibido el paso al jardín».",
+      "back": "The sign reads as follows, \"please keep out of the garden\".",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "La policía detuvo ayer al vecino de al lado, incluso escuché al policía leerle sus derechos.",
+      "back": "The police arrested the next-door neighbour yesterday, I even heard the officer reading his rights to him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Si la policía no le lee a un sospechoso sus derechos cuando lo detiene, el fiscal no puede utilizar lo que diga como prueba en el juicio.",
+      "back": "If the police fail to read a suspect their rights when they make an arrest, the prosecutor cannot use what they say as evidence in court.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Cuando te leen tus derechos, te dicen que tienes derecho a consultar con un abogado.",
+      "back": "When they read you your rights, they state that you have the right to consult with a lawyer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Estudié Química en la universidad.",
+      "back": "I read chemistry at university.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "¡Fuiste a Cambridge también! ¿Qué estudiaste?",
+      "back": "You went to Cambridge too! What did you read?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Mi sobrina piensa estudiar Derecho en la universidad el año que viene.",
+      "back": "My niece plans to read law at university next year.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "¿Cómo que no has leído a Shakespeare? ¡Es uno de los escritores más leídos en lengua inglesa!",
+      "back": "What do you mean you haven't read Shakespeare? He's one of the most widely read writers in the English language!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Su primera novela de ella fue muy leída, pero la segunda fue un poco decepcionante.",
+      "back": "Her first novel was widely read, but the second one was something of a disappointment.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "El libro ha sido aclamado por la crítica, aunque no esperan que se lea mucho.",
+      "back": "The book has been critically acclaimed, though they don't expect it to be very widely read.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "No puedes considerarte una persona leída si nunca has leído los clásicos.",
+      "back": "You can't consider yourself well-read if you've never read the classics.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Aunque él nunca fue a la universidad, es una persona muy leída.",
+      "back": "Although he never went to university, he's incredibly well-read.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella debería ser muy leída en francés: estudió Literatura francesa en la universidad de Oxford.",
+      "back": "She should be well-read in French: she read French literature at Oxford.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Me encanta su estilo de ella. Está muy bien escrito.",
+      "back": "I love her style. It reads so well.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "El artículo es informativo, pero no está muy bien escrito.",
+      "back": "The article's informative, but it doesn't read particularly well.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Qué te parece cambiar esta palabra? Creo que quedaría mejor.",
+      "back": "How about changing this word? I think it would read better.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Es fascinante! ¡Tengo que investigarlo por mí misma!",
+      "back": "That's fascinating! I really must read up on it myself!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Él está investigando a la empresa para su entrevista.",
+      "back": "He's reading up on the company for his interview.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Ella investigará sobre los mejores restaurantes de la zona antes de ir de vacaciones.",
+      "back": "She'll read up on the best restaurants in the area before she goes on holiday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Aunque los expertos lo habían dado por perdido, logró conseguir el apoyo del público.",
+      "back": "Even though the experts had written him off, he managed to win public support.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Después de suspender el examen, los profesores lo dieron por perdido.",
+      "back": "After he failed the exam, the teachers wrote him off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "No lo descartes nunca, siempre acaba ganando.",
+      "back": "Never write him off, he always comes out on top.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Con lo rápido que conduce, no me sorprende nada que se haya cargado el coche.",
+      "back": "With the speed that he drives, it doesn't surprise me at all that he's written off his car.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Yo esperaba que pudieran repararlo, pero según el mecánico el coche está para el desguace.",
+      "back": "I was hoping to get it fixed but the mechanic says the car has to be written off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Es el tercer coche que ella se ha cargado este año.",
+      "back": "That's the third car she's written off this year!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Después de que su último sencillo fracasara, los productores musicales la dieron por perdida.",
+      "back": "After her previous single flopped, the record producers considered her a write-off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Ese ordenador está para tirarlo, ni siquiera la pantalla funciona bien.",
+      "back": "That computer is a total write-off, not even the monitor works properly.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Me gustaría quedar pronto, pero esta semana va a ser imposible.",
+      "back": "I'd like to meet up soon, but this week is a write-off.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "¿Has visto que regalan DVDs con el periódico? ¡Sólo tienes que escribir para solicitar el cupón!",
+      "back": "Have you seen the newspaper is giving away free DVDs? All you have to do is write off for the coupon!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Cualquiera se puede hacer socio; basta con escribir para solicitar el carné de socio.",
+      "back": "Anyone can become a member; you just have to write off for a membership card.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Si de verdad quieres el trabajo, deberías escribir para pedir un impreso de solicitud cuanto antes.",
+      "back": "If you really want the job you should write off for an application form as soon as possible.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Cuando se hizo cargo de la empresa, canceló todas sus deudas.",
+      "back": "When he took over the company, he wrote off all of its debts.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "¿Debería Occidente condonar la deuda de los países en vías de desarrollo?",
+      "back": "Should the West write off third-world debt?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Como las deudas no se cancelen antes de fin de año, la empresa quebrará.",
+      "back": "If the debts aren't written off by the end of the year, the company will go bankrupt.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Leeremos detenidamente los contratos y os comunicaremos cualquier corrección.",
+      "back": "We'll peruse the contracts and advise you of any amendments.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Examina la colección cuando te venga bien.",
+      "back": "Peruse the collection at your leisure.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "El historiador pasó varios días en el Museo Británico examinando los catálogos.",
+      "back": "The historian spent days in the British Museum perusing the catalogues.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "El abogado redactará los documentos pertinentes para tu examen.",
+      "back": "The lawyer will draft the relevant documents for your perusal.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Él redactó algunos de los discursos más memorables del Presidente.",
+      "back": "He drafted some of the President's most memorable speeches.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Tengo que redactar un contrato para primera hora de mañana.",
+      "back": "I've got a contract to draft for first thing tomorrow morning.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Mozart compuso su primera sinfonía con ocho años.",
+      "back": "Mozart composed his first symphony at the age of eight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Compuso algunas de sus mejores obras durante esa época.",
+      "back": "He composed some of his finest work during that period.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "El ayudante redacta las cartas para que las firme el director.",
+      "back": "The assistant composes letters for the managing director to sign.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Acabo de apuntar rápidamente unas ideas.",
+      "back": "I've just scribbled down a few ideas.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Garabateó un mensaje en un trocito de papel para su mujer.",
+      "back": "He quickly scribbled a message on a scrap of paper for his wife.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "No entiendo su letra. Todo lo que veo es un garabato.",
+      "back": "I can't read his writing. All I see is a scribble.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Espérate un segundo a que coja un boli para apuntar el número.",
+      "back": "Hang on a second; I'll just get a pen so I can jot the number down.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Si tienes un segundo, apunta tus ideas y las comentamos después.",
+      "back": "If you've got a second, jot your ideas down and we'll discuss them later.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Dame un segundo, estoy anotándolo.",
+      "back": "Give me a second; I'm just jotting it down.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Podían ver la señal de advertencia; si no actuaban pronto, se enfrentarían a problemas graves en las elecciones.",
+      "back": "They could see the writing on the wall; if they didn't act soon, they would face serious problems in the elections.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Acaban de decirnos que probablemente perderemos el contrato; es una señal de advertencia.",
+      "back": "We've just been told that we'll likely lose the contract; the writing's on the wall.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¿No ves la señal de advertencia? ¡Ya han despedido a cuatro personas!",
+      "back": "Can't you see the writing on the wall? They've already laid off four people!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¡Sólo llegué veinte minutos tarde y Jeff me leyó la cartilla!",
+      "back": "I was only twenty minutes late and Jeff read me the riot act!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¡Me leyeron la cartilla por no seguir el procedimiento! Creo que es un poco exagerado, ya que conseguí mucho dinero para la empresa con ese trato.",
+      "back": "I got read the riot act for not following procedure! I think it's a bit over the top since I did make us a load of cash on that deal.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Linda le leyó la cartilla a Dave, ¡no creo que vuelva a hacer eso!",
+      "back": "Linda read Dave the riot act, I don't think he'll be doing that again!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "El glaseado de la tarta no estuvo mal, pero no fue nada fuera de lo común.",
+      "back": "The icing on the cake was alright, but nothing to write home about.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "¿La película? Bueno, nada fuera de lo común, los efectos eran bastante cutres y el argumento hacía aguas constantemente.",
+      "back": "The film? Oh, nothing to write home about, the effects were pretty tacky and there were massive holes in the plot.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Eché un vistazo al nuevo salón de eventos de la segunda planta, y no es nada fuera de lo común.",
+      "back": "I checked out the new event room on the second floor, it's alright but nothing to write home about.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Ganamos cuatro a cero. ¡Chúpate ésa!",
+      "back": "We won four-nil! Read it and weep!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "¡Chúpate ésa! Gané la porra de la oficina.",
+      "back": "Read it and weep! I won the sweepstake at work!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "¡Chúpate ésa! ¡Te toca hacer una hora en la máquina elíptica para quemar todas las calorías de esa comida!",
+      "back": "Read it and weep! You've got to do an hour on the cross-trainer to burn off all the calories from that meal!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Dimos por sentado que se había seguido el procedimiento.",
+      "back": "We took it as read that the procedure had been followed.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Di por sentado que Sally había organizado la porra.",
+      "back": "I took it as read that the sweepstake had been organized by Sally.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Ella dio por sentado que estaba invitada y acabó colándose sin querer!",
+      "back": "She took it as read that she was invited and ended up gatecrashing unintentionally!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Sólo tienes que escuchar su tono de voz de ella. Después, puedes leer entre líneas y sabrás lo que está diciendo realmente.",
+      "back": "You just need to listen to her tone of voice. Then, you can read between the lines and you'll know what she's really saying.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Cuanto más estudio el arte abstracto, más aprendo a leer entre líneas.",
+      "back": "The more I study abstract art, the more I learn how to read between the lines.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Él parece ser totalmente incapaz de leer entre líneas y se toma en serio todo lo que ella dice.",
+      "back": "He seems to be completely incapable of reading between the lines and takes everything that she says seriously.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Los comentarios que hago en esta sesión de feedback son todos críticas constructivas. Te pido que no las analices demasiado.",
+      "back": "The comments that I make in this feedback session are purely constructive criticism. I ask you not to read into them too much.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Cuando te dije que estabas guapa hoy, no quería decir que estuvieras fea otros días. ¡Analizas demasiado las cosas! ¡Hasta los cumplidos!",
+      "back": "When I told you that you looked nice today, I didn't mean that you looked ugly on other days. You read into things so much! Even compliments!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "¡Le dije que estaba guapa con ese vestido y creyó que quería decir que parecía hortera! Ella analiza demasiado las cosas.",
+      "back": "I told her that she looked beautiful in that dress and she thought I meant she looked tacky! She reads into things too much.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Cuando un hombre te engaña, fíjate en las señales. Cambios de comportamiento, explicaciones inconsistentes sobre dónde está...",
+      "back": "When a man is cheating on you, read the signs. A change of behavior, inconsistent explanations as to where he is...",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Fíjate en las señales. Ella ya no es feliz. Está muy descorazonada. Creo que te quiere dejar.",
+      "back": "Read the signs. She's not happy anymore. She's very despondent. I think she wants to leave you.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Yo no tenía ni idea de que él no estaba contento. Si hubiera visto las señales antes, podría haberle frenado antes de que dejase el trabajo.",
+      "back": "I had no idea that he was unhappy. If I'd read the signs earlier, I could have stopped him from leaving his job.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Llevamos tanto tiempo juntos ya que él es como un libro abierto para mí.",
+      "back": "We've been together for such a long time now that I can read him like a book.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Finge que soy como un libro abierto para él, pero en realidad nunca tiene ni idea de lo que me pasa por la cabeza.",
+      "back": "He makes out that he can read me like a book, but actually, he never has a clue what's going through my mind.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Es un jefe muy astuto. La gente es como un libro abierto para él.",
+      "back": "He's such a shrewd boss. He knows how to read people like a book.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Se le notaba la decepción. La llevaba escrita en la cara. ¡Espero que consiga animarse pronto!",
+      "back": "I could tell he was disappointed. It was written all over his face. I hope that he manages to pick himself up again soon!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Ella puede hacerse la fuerte, pero lo lleva escrito en la cara. Se quedó deshecha después de lo que pasó.",
+      "back": "She can play strong, but it's written all over her face. She was devastated after it happened.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Ella era muy vanidosa, pero había que bajarle los humos. Ahora está avergonzada. Lo lleva escrito en la cara.",
+      "back": "She was so vain but she needed to be taken down a peg or two. Now she's ashamed. It's written all over her face.",
+      "sourcePage": 41
+    }
+  ]
+}
