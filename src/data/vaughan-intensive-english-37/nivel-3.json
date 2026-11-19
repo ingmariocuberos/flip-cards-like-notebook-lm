@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-37",
+  "bookTitle": "Libro 37",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Las relaciones entre las dos superpotencias se volvieron agrias justo después de la cumbre del G-8.",
+      "back": "Relations between the two superpowers turned sour shortly after the G8 summit.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "La reunión se volvió agria cuando sacaron el tema de los presupuestos.",
+      "back": "The meeting turned sour when the topic of budgets was brought up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "El matrimonio se volvió agrio un par de meses después de la boda.",
+      "back": "The marriage turned sour only a couple of months after the wedding.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Qué demonios te pasa? Te has puesto blanco.",
+      "back": "What on earth's the matter? You've turned white.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "No te preocupes; él siempre se pone blanco cuando le ponen una inyección.",
+      "back": "Don't worry; he always turns white when he has an injection.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¡Deberías haberlo visto! Se quedó blanco como la pared cuando vio a su novia actual entrar con su ex.",
+      "back": "You should've seen it! He turned white as a sheet when he saw his current girlfriend walk in with his ex.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Si hablas con alguien de esto, soltaré a los Rottweilers.",
+      "back": "If you talk to anyone about this, I'll turn the Rottweilers loose.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "¡Socorro! Alguien ha soltado a los leones de circo.",
+      "back": "Help! Someone's turned the lions loose from the circus.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Activistas por los derechos de los animales soltaron 15.000 ratones de laboratorio anoche para deleite de los gatos del barrio.",
+      "back": "Animal rights activists turned 15,000 laboratory mice loose last night much to the delight of all the cats in the neighborhood.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Ha sido una buena semana, pero es cierto que el miércoles empezó a hacer frío.",
+      "back": "It's been a nice week, but it did turn cold on Wednesday.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Normalmente hace frío por las tardes; así que, si fuera tú, traería una rebeca.",
+      "back": "It normally turns cold in the evenings; so I'd bring a cardigan if I were you.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "El tiempo parece bueno para principios de semana, pero probablemente se enfriará hacia finales de la semana.",
+      "back": "The weather looks good for the beginning of the week, but it'll probably turn cold towards the end of the week.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "La conversación se volvió desagradable cuando salió el tema de los abogados.",
+      "back": "The conversation turned nasty when the topic of lawyers came up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Estoy bastante seguro de que él se pondrá desagradable si le provocas de cualquier manera.",
+      "back": "I'm pretty sure that he'll turn nasty if you provoke him in any way.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Las cosas se pondrán desagradables si no lo cortas de raíz ya.",
+      "back": "Things will turn nasty if you don't nip it in the bud right away.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Me preguntaba a quién acudirías si te rechazan.",
+      "back": "I was wondering who you'd turn to if they turn you away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Tendrá que recurrir Ted a los ahorros de toda una vida si rechazan su oferta?",
+      "back": "Will Ted have to resort to his life savings if they turn down his offer?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "No serás admitida a menos que pagues un soborno para entrar.",
+      "back": "You'll be turned away unless you bribe your way in.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Si fuera por mí, los semáforos se pondrían en verde cada vez que se les acercara un coche.",
+      "back": "If it were up to me, the lights would turn green every time a car got near them.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Yo ya estaría poniéndome rosa si estuviera tumbada al sol sin protector solar.",
+      "back": "I'd already be turning pink if I were lying in the sun with no sunblock on.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "No creo que sea tan viejo. Si lo fuera, se le habría puesto el pelo blanco hace tiempo.",
+      "back": "I don't think he's that old. If he were, his hair would've turned gray long ago.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Él probablemente no te habría dado la espalda si no lo hubieras entregado a la policía.",
+      "back": "He probably wouldn't have turned his back on you if you hadn't turned him in to the police.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Bueno, no le habría entregado si no hubiera resultado ser un timador.",
+      "back": "Well, I wouldn't have turned him in if he hadn't turned out to be a swindler.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Así que probablemente no me habría dado la espalda si no hubiera resultado ser un timador, ¿no?",
+      "back": "So he probably wouldn't have turned his back on me if he hadn't turned out to be a swindler, right?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "No me habría pasado la noche dando vueltas en la cama si aquel perro rabioso no me hubiera atacado.",
+      "back": "I wouldn't have spent the whole night tossing and turning if that rabid dog hadn't turned on me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Probablemente no se habría puesto agresiva contigo si no se hubiera pasado la noche dando vueltas en la cama.",
+      "back": "She probably wouldn't have turned on you if she hadn't spent the night tossing and turning.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Mi compañera de habitación se puso agresiva conmigo por haber estado dando vueltas en la cama y no dejarla dormir en toda la noche.",
+      "back": "My roommate turned on me for tossing and turning and keeping her up all night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "El argumento de la obra de teatro tuvo tantos giros y vueltas que me perdí antes del intermedio.",
+      "back": "The plot of the play had so many twists and turns that I got lost before the interval.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "La piraña tuvo que hacer varios giros y vueltas para evitar enredarse en las huevas de rana.",
+      "back": "The piranha had to do a number of twists and turns to avoid getting caught up in the frogspawn.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Ten cuidado al conducir por ese camino de noche; tiene más giros y vueltas que un cuento de Agatha Christie.",
+      "back": "Be careful driving down that lane at night; it has more twists and turns than an Agatha Christie story.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Siempre que hay una escena sangrienta en una película, tengo que apartar la mirada.",
+      "back": "Whenever there's a gory scene in a film, I have to turn my eyes away.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Aparten la mirada de la pantalla si no quieren ver los resultados.",
+      "back": "Turn your eyes away from the screen if you don't want to see the results.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "No quería mirarle a los ojos, así que apartó la vista.",
+      "back": "He didn't want to make eye contact so he turned his eyes away.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Nunca rechazo un buen chollo; sobre todo cuando se trata de ropa de diseño.",
+      "back": "I never turn my nose up at a good deal; especially when it involves designer clothes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Ella rechazó con desprecio venir al cine con nosotras; las superproducciones de Hollywood no son de su gusto, por lo visto.",
+      "back": "She turned her nose up at coming to the cinema with us; Hollywood blockbusters aren't her cup of tea, apparently.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Rechazaron con desprecio mi sugerencia de ir a un restaurante de comida rápida por mi cumpleaños.",
+      "back": "They turned their noses up at my suggestion to go to a fast-food restaurant for my birthday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Ella se dio media vuelta y salió corriendo por la puerta en cuanto oyó a los perros ladrar.",
+      "back": "She turned on her heel and bolted out the door as soon as she heard the dogs barking.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Él se dio media vuelta y se fue encolerizado.",
+      "back": "He turned on his heel and left in a rage.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Ella se dio media vuelta y volvió al trastero para coger más plástico de burbuja.",
+      "back": "She turned on her heel and went back into the storage room to fetch more bubblewrap.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Ella hizo oídos sordos a su súplica.",
+      "back": "She turned a deaf ear to his pleading.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Por muchas ideas que se nos ocurrieran, la junta directiva hacía oídos sordos a nuestras sugerencias.",
+      "back": "No matter what we came up with, the board turned a deaf ear to our suggestions.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Mis problemas cayeron en saco roto.",
+      "back": "My problems fell on deaf ears.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Aquella salsa grasienta y cremosa le revolvió el estómago a ella.",
+      "back": "That rich, creamy sauce turned her stomach.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Las turbulencias me revuelven el estómago de verdad.",
+      "back": "Turbulence really turns my stomach.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Se me revuelve el estómago cuando él habla a la gente así.",
+      "back": "It really turns my stomach when he talks to people like that.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Yo no acudiría a él si te hace falta dinero. ¡Lleva arruinado los últimos quince años!",
+      "back": "I wouldn't turn to him if you need money. He's been broke for the past fifteen years!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "¿A quién crees que acudirá España si la UE no puede con todo?",
+      "back": "Who do you think Spain will turn to if the EU can't handle it all?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Desde que se divorciaron, ninguno de los dos sabe a quién acudir siempre que están en apuros.",
+      "back": "Ever since they got divorced, neither of them knows who to turn to whenever they're in trouble.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "¿De verdad que el guarda de la puerta no te dejó entrar por llevar calcetines desparejados?",
+      "back": "Did the bouncer really turn you away for wearing odd socks?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Sue intentó ingresar en la Marina, pero no fue admitida debido a sus problemas con la vista.",
+      "back": "Sue tried to join the navy but was turned away due to her poor eyesight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Acudí a ellos en busca de ayuda, pero me la denegaron porque me faltaba uno de los documentos.",
+      "back": "I turned to them for help, but they turned me away as I was missing one of the documents.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Es verdad que a veces a los dóberman se les puede ir la pinza y atacar a sus dueños?",
+      "back": "Is it true that dobermans can sometimes lose it and turn on their owners?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "¿Se encaraban los adolescentes con sus padres antes tanto como lo hacen hoy en día?",
+      "back": "Did teenagers use to turn on their parents as much as they do nowadays?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Parece ser que la echaron del apartamento porque se enfrentó a su casero por subirle el alquiler.",
+      "back": "Apparently she got kicked out of the flat because she turned on her landlord for raising her rent.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¿De verdad que te ponen los pantalones de cuero? ¿No crees que son un poco horteras?",
+      "back": "Do leather pants really turn you on? Don't you think they're a bit tacky?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Lo siento, pero el mal aliento no me atrae en absoluto.",
+      "back": "I'm sorry, but bad breath doesn't turn me on at all.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Estás equivocado si crees que tu barba de tres días la encenderá.",
+      "back": "You're wrong if you think that your five o'clock shadow will turn her on.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Él no tendría que haber eructado; con eso se me bajó todo de golpe.",
+      "back": "He shouldn't have burped; that turned me off completely.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "No es que me repugne su barba de tres días, es que tengo la piel muy sensible.",
+      "back": "It's not that his five o'clock shadow turns me off, it's just that I have very sensitive skin.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Me moría de hambre hasta que abrí la nevera y me echó para atrás una peste horrible.",
+      "back": "I was starving until I opened the fridge and got turned off by an awful stink.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "El inglés no siempre fue tan importante. ¡Cómo han cambiado las cosas!",
+      "back": "English wasn't always so important. How the tides have turned!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Hace unos años no se hablaba inglés en las reuniones. ¡Cómo ha cambiado la historia!",
+      "back": "English wasn't spoken in meetings a few years ago. How the tides have turned!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "El inglés no era una prioridad hasta hace poco. ¡Cómo han cambiado las cosas!",
+      "back": "English wasn't a priority until recently. How the tides have turned!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¿Te has enterado de que John tiene novia? ¡No me digas! ¡Vaya sorpresa!",
+      "back": "Did you hear that John's got a girlfriend? Really? That's a turn up for the books!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Te has enterado de que ganamos al tenis el fin de semana pasado? ¡No me digas! ¡Vaya sorpresa!",
+      "back": "Did you hear that we won at tennis last weekend? Really? That's a turn up for the books!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "¿Te has enterado de que llovió de nuevo en Semana Santa? ¡No me digas! ¡Vaya sorpresa!",
+      "back": "Did you hear that it rained at Easter again? Really? That's a turn up for the books!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "A cada paso, te pedimos que practiques y repases.",
+      "back": "At every turn, we ask you to practice and review.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Hay sorpresas a cada momento cuando estás aprendiendo un idioma.",
+      "back": "There are surprises at every turn when you're learning a language.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Tienes que concentrarte constantemente en la pronunciación cuando hables inglés.",
+      "back": "You need to concentrate on pronunciation at every turn when speaking English.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Es probable que ya puedas hacer cualquier cosa que requiera inglés.",
+      "back": "By now, you can probably turn your hand to anything that requires English.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Es un buen empleado porque se atreve con cualquier cosa.",
+      "back": "He's a good employee because he can turn his hand to anything.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Sally suele atreverse con cualquier tarea. Vamos a pedirle que lo haga.",
+      "back": "Sally can usually turn her hand to anything. We're going to ask her to do it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "No pasará mucho hasta que puedas invertir la situación con tus compañeros anglófonos en las reuniones.",
+      "back": "It won't be long before you will be able to turn the tables on your English speaking colleagues at meetings.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Ella pensaba que iba a ganar. Pero en el segundo tiempo él le dio la vuelta al marcador.",
+      "back": "She thought she was going to win. But he turned the tables on her in the second half.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "El ejército ruso invirtió la situación con los alemanes en Stalingrado.",
+      "back": "The Russian army turned the tables on the Germans at Stalingrad.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Pon los vaqueros al revés antes de meterlos en la lavadora.",
+      "back": "Turn your jeans inside out before you put them in the washing machine.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Crees que se puso la camiseta al revés a propósito o crees que lo hizo sin querer?",
+      "back": "Did he turn his t-shirt inside out on purpose, or do you think he did it by accident?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Toda la ropa estaba puesta al revés en el tendedero.",
+      "back": "All the clothes on the line were turned inside out.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Vaya broma más buena! Alguien ha puesto todas las pertenencias del profesor boca abajo en su mesa.",
+      "back": "What a great prank! Someone's turned all the teacher's belongings upside down on his desk.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "John, no pongas la taza boca abajo; todavía tiene un poco de té dentro y acabarás manchando la moqueta.",
+      "back": "John, don't turn your cup upside down, you still have some tea in it and you'll end up staining the carpet.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Niños, por favor, poned vuestras sillas patas arriba encima de las mesas antes de iros.",
+      "back": "Children, please leave your chairs turned upside down on the tables before you leave.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Cristian Renald transformó el partido con su velocidad y habilidades impresionantes.",
+      "back": "Cristian Renald turned the game on its head with his impressive pace and skills.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "El nuevo jefe vino y transformó el sistema anterior, y ahora trabajamos de una forma mucho más eficaz.",
+      "back": "The new manager came along and turned the former system on its head and now we're working much more efficiently.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "El abogado revolucionó el caso cuando presentó nuevas pruebas.",
+      "back": "The lawyer turned the case on its head when he presented the new evidence.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Si pudiera volver atrás, no cambiaría ni un solo minuto de los que hemos compartido.",
+      "back": "If I could turn back the clock, I wouldn't change a single minute of our time together.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Ojalá pudiera volver atrás; le habría contado lo que ella significaba para mí, pero ya es demasiado tarde.",
+      "back": "I wish I could turn back the clock; I'd have told her what she meant to me, but now it's too late.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Mi marido me dijo que, si pudiera volver atrás, se habría casado conmigo diez años antes.",
+      "back": "My husband told me that if he could turn back the clock, he'd marry me ten years earlier.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Tuve que poner mi casa patas arriba para encontrar el pasaporte.",
+      "back": "I had to turn my house upside down looking for the passport.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Los ladrones lo pusieron todo patas arriba buscando dinero, pero no pudieron encontrar nada.",
+      "back": "The thieves turned the place upside down looking for money, but they couldn't find anything.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "La policía decidió poner la mesa de Lucía patas arriba para buscar pruebas que la relacionaran con el asesinato.",
+      "back": "The police decided to turn Lucia's desk upside down looking for evidence that would tie her to the murder.",
+      "sourcePage": 41
+    }
+  ]
+}

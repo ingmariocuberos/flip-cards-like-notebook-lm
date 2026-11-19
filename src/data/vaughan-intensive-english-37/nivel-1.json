@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-37",
+  "bookTitle": "Libro 37",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡John, gira a la derecha!",
+      "back": "John, turn right!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Después de cruzar el puente, gira a la izquierda.",
+      "back": "After you cross the bridge, turn left.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Antes de girar a la derecha, tienes que girar a la izquierda.",
+      "back": "Before you turn right, you need to turn left.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Gira a la izquierda cuando llegues al asta de la bandera.",
+      "back": "Turn left at the flagpole.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Gira al sur cuando llegues a la calle Main.",
+      "back": "Turn south at Main St.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Cuando llegues a las vías del tren, conduce otros 500 metros y entonces gira al oeste.",
+      "back": "At the railroad, drive another 500 meters and then turn west.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "John gira a la izquierda cuando llega al estadio.",
+      "back": "John turns left at the stadium.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Para llegar a casa, Jane gira a la derecha cuando llega al semáforo.",
+      "back": "To get home, Jane turns right at the light.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "En el parking, Jerome siempre gira a la izquierda hasta que llega a la última planta.",
+      "back": "In the parking lot, Jerome always turns left until he gets to the top floor.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Jane pasa las páginas de la partitura mientras yo toco el piano.",
+      "back": "Jane turns the pages of the score while I play the piano.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Gira la llave; a ver si funciona.",
+      "back": "Turn the key; let's see if it works.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "No puedo entrar porque no puedo girar el pomo.",
+      "back": "I can't get in because I can't turn the knob.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Mi hijo cumple ocho años la semana que viene!",
+      "back": "My son is turning 8 next week!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Él no cumple treinta y cinco! ¡Cumple cuarenta!",
+      "back": "He's not turning 35! He's turning 40!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¡El mes que viene cumplo 50 años!",
+      "back": "I'm turning 50 next month!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Cada mañana enciendo mi ordenador.",
+      "back": "Every morning I turn on my computer.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Pulsa este botón para encender el lector de DVD.",
+      "back": "Press this button here to turn on the DVD player.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Él abre el grifo cuando se lava los dientes.",
+      "back": "He turns on the tap/faucet when he brushes his teeth.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Tienes que apagar el horno.",
+      "back": "You need to turn off the oven.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Las luces del coche se apagan automáticamente.",
+      "back": "The car headlamps turn off automatically.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¡No puedo apagar este smartphone!",
+      "back": "I can't turn off this smartphone!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Cómo se enciende esta máquina?",
+      "back": "How do you turn on this machine?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Cómo se apaga la calefacción central?",
+      "back": "How do you turn off the central heating?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Cómo se enciende esta tableta? ¡No encuentro el botón!",
+      "back": "How do you turn on this tablet? I can't find the button!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Lo puedes encender, por favor?",
+      "back": "Can you turn it on, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Lo puedes apagar, por favor?",
+      "back": "Can you turn it off, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Cómo se enciende?",
+      "back": "How do you turn it on?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Necesitamos las luces. Enciéndelas.",
+      "back": "We need the lights; turn them on.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "No se pueden utilizar los móviles en este vuelo. Por favor, apáguenlos.",
+      "back": "You can't use mobile phones on this flight, please turn them off.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Me encantan mis nuevos altavoces, pero ¿cómo se encienden?",
+      "back": "I love my new speakers, but how do you turn them on?!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Julia, ¿puedes subir la música? Me gusta esta canción.",
+      "back": "Julia, can you turn up the music? I like this song.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Sarah, ¿puedes subir el volumen de la canción? Es mi preferida.",
+      "back": "Sarah, can you turn the song up? It's my favourite.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Carmen, por favor, sube el volumen de la televisión. No la oigo bien.",
+      "back": "Carmen, please turn the volume up on the TV. I can't hear it very well.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Julia, ahora está demasiado alta. Por favor, bájala.",
+      "back": "Julia, that's too loud now. Please turn it down.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Sarah, eso es demasiado. ¡Bájala ya!",
+      "back": "Sarah, that's too much. Turn it down now!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Pero Carmen, no queremos que los vecinos oigan la tele. Baja el volumen.",
+      "back": "But Carmen, we don't want the neighbours to hear the TV. Turn the volume down.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Lucía, está empezando a hacer frío aquí; voy a subir la calefacción.",
+      "back": "Lucía, it's getting cold in here; I'll turn the heating up.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Paul, creo que voy a subir el aire acondicionado; hace demasiado calor en este cuarto.",
+      "back": "Paul, I think I'll turn up the air-conditioning; it's too warm in this room.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Elizabeth, subo el fuego, que la pasta se hace más rápido así.",
+      "back": "Elizabeth, I'll turn up the heat on the stove, the pasta will cook faster that way.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Lo siento, pero creo que hace calor en este cuarto. Creo que voy a bajar la calefacción.",
+      "back": "Sorry, but I think that it's warm in this room. I think I'll turn the heating down.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Bueno, creo que deberíamos bajarlo, hace frío donde estoy sentado.",
+      "back": "Well, I think we should turn it down, it's cold where I'm sitting.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Pero creo que deberíamos bajarlo para que absorba más sabor.",
+      "back": "But I think we should turn it down, so that it absorbs more flavor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Lo siento, Lucía, pero yo estaba aquí antes y voy a volver a subirlo.",
+      "back": "Sorry, Lucía, but I was here first and I'm going to turn it back up again.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¡Como quieras! Lo volveré a bajar.",
+      "back": "Fine then! I'll turn it back down again.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¡Bueno, lo volveré a bajar!",
+      "back": "Well, I'll turn it back down again!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Puedes darle la vuelta a la tortilla, por favor?",
+      "back": "Can you please turn the omelet over?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Puedes darle la vuelta a la hamburguesa también?",
+      "back": "Can you please turn the hamburger over too?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "No hay problema, les daré la vuelta.",
+      "back": "No problem, I'll turn them over.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Lisa nunca se da la vuelta en su toalla!",
+      "back": "Lisa never turns over on her towel!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Yo me doy la vuelta en mi toalla cada cinco minutos. ¿Y tú?",
+      "back": "I turn over on my towel every five minutes. What about you?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Yo soy una tortuga. No me gusta darme la vuelta, y no tengo toalla.",
+      "back": "I'm a turtle. I don't like turning over, and I don't have a towel.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Cada cuánto le das la vuelta a tu colchón?",
+      "back": "How often do you turn your mattress over?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Le doy la vuelta tres veces al año.",
+      "back": "I turn it over three times per year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¡Sam se pasa toda la noche dando vueltas!",
+      "back": "Sam keeps turning over all night long!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Date la vuelta, ¡no te veo el vestido!",
+      "back": "Turn around, I can't see your dress!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Date la vuelta y déjame ver la parte de delante.",
+      "back": "Turn around and let me see the front.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Ahora date la vuelta y déjame ver la parte de atrás.",
+      "back": "Now turn around and let me see the back, please.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Dale la vuelta a ese cuadro. ¡Es horrible!",
+      "back": "Turn that painting around. It's horrible!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Estás loco/a? ¡No podemos darle la vuelta a los cuadros!",
+      "back": "Are you crazy? We can't turn the paintings around!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Pues le daré yo la vuelta.",
+      "back": "I'll turn it around then.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "La casa está hecha un desastre. ¿Te toca a ti ordenarla?",
+      "back": "The house is a mess! Is it your turn to tidy up?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "No, le toca a él ordenarla.",
+      "back": "No, it's his turn to tidy up.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "No me toca a mí ordenarla, a mí me toca pasar la aspiradora.",
+      "back": "It's not my turn to tidy up, it's my turn to hoover.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿A quién le toca regar las plantas? No me toca a mí, le toca a ella.",
+      "back": "Whose turn is it to water the plants? It's not mine, it's hers.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿A quién le toca ordenar? A mí me toca mañana, hoy te toca a ti.",
+      "back": "Whose turn is it to tidy up? It's my turn tomorrow, it's yours today.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "No nos toca a nosotros. ¿A quién le toca? Le toca a él.",
+      "back": "It's not our turn. Whose turn is it? It's his.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi compañero de piso y yo nos turnamos para lavar los platos.",
+      "back": "My flatmate and I take it in turns to do the washing up.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Tenemos que turnarnos para ordenar.",
+      "back": "We have to take it in turns to tidy up.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Siempre se turnan para limpiar el baño.",
+      "back": "They always take it in turns to clean the bathroom.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Espera a que te toque! ¡Yo soy el próximo!",
+      "back": "Wait your turn! I'm next!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Ella no es la próxima, soy yo! ¡Tendrá que esperar a que le toque!",
+      "back": "She's not next, I am! She'll have to wait her turn!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Mi compañera de piso nunca espera su turno para entrar en el baño por la mañana.",
+      "back": "My flatmate never waits her turn for the bathroom in the morning.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¡La casa está hecha un desastre! ¿A quién le toca ordenar? ¿Te toca a ti?",
+      "back": "The house is a mess! Whose turn is it to tidy up? Is it yours?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No me toca a mí regar las plantas. ¡Te toca a ti! Nos turnamos, ¿recuerdas?",
+      "back": "It's not my turn to water the plants. It's yours! We take it in turns, remember?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Espera a que te toque usar el baño. ¡Yo soy la próxima!",
+      "back": "Wait your turn for the bathroom! I'm next!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "El pelo de mi primo se pone rubio al sol.",
+      "back": "My cousin's hair turns blonde in the sun.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "La cara de mi hija se pone roja cuando está avergonzada.",
+      "back": "My daughter's face turns red when she's embarrassed.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "A mi padre se le está poniendo canoso el pelo.",
+      "back": "My dad's hair's turning grey.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "El tiempo se está poniendo fresquito.",
+      "back": "The weather's turning chilly.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Las hojas se están poniendo rojas y doradas.",
+      "back": "The leaves are turning red and gold.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "La tormenta está empeorando.",
+      "back": "The storm's turning bad.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Tu hijo se está convirtiendo en su padre.",
+      "back": "Your son's turning into his father.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Su sobrina (de ella) se está convirtiendo en una chica bonita.",
+      "back": "Her niece is turning into a beautiful girl.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Mi sobrino se está convirtiendo en un niñato.",
+      "back": "My nephew's turning into a brat.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "El agua se convierte en hielo.",
+      "back": "Water turns into ice.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿El agua se convierte en vapor también?",
+      "back": "Does water turn into steam too?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Sí, el agua también se convierte en vapor.",
+      "back": "Yes, water turns into steam too.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Clark Kent se convierte en Superman o en Spiderman?",
+      "back": "Does Clark Kent turn into Superman or Spiderman?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Una oruga se convierte en una mosca o en una mariposa?",
+      "back": "Does a caterpillar turn into a fly or a butterfly?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Todo lo que toca el Rey Midas se convierte en oro o en plata?",
+      "back": "Does King Midas turn everything that he touches into gold or silver?",
+      "sourcePage": 13
+    }
+  ]
+}
