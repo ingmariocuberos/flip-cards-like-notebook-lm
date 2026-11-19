@@ -41,7 +41,7 @@ Fuente local: `sources/english/Libro NN.pdf`. Los PDF 1–20 proceden del primer
 | 35 | 47 | Publicado | 90 / 90 / 91 | `Add Vaughan English book 35 flashcards by level` |
 | 36 | 47 | Publicado | 90 / 90 / 87 | `Add Vaughan English book 36 flashcards by level` |
 | 37 | 47 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 37 flashcards by level` |
-| 38 | 87 | Pendiente | — | — |
+| 38 | 87 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 38 flashcards by level` |
 | 39 | 46 | Pendiente | — | — |
 | 40 | 47 | Pendiente | — | — |
 

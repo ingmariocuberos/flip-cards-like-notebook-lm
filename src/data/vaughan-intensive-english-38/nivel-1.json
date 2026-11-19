@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-38",
+  "bookTitle": "Libro 38",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Jugamos al veo-veo?",
+      "back": "Shall we play I-spy?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Jugamos a las cartas?",
+      "back": "Shall we play cards?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿O juego al solitario?",
+      "back": "Or shall I play solitaire?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Jugamos al tenis?",
+      "back": "Shall we play tennis?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Jugamos al hockey sobre hielo?",
+      "back": "Shall we play ice hockey?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿O juego a la pelota con el perro?",
+      "back": "Or shall I play ball with the dog?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Tengo que jugar o puedo mirar?",
+      "back": "Do I have to play or can I just watch?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Tengo que jugar? Estoy taaaan cansado/a…",
+      "back": "Do I have to play? I'm soooo tired...",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Tengo que jugar? ¡Soy alérgico/a!",
+      "back": "Do I have to play? I'm allergic!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-010",
+      "front": "No deberías estar jugando a las muñecas.",
+      "back": "You shouldn't be playing with dolls.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Y por qué no debería estar jugando a las muñecas?",
+      "back": "And why shouldn't I be playing with dolls?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-012",
+      "front": "¡No deberías estar jugando a las muñecas porque deberías estar trabajando!",
+      "back": "You shouldn't be playing with dolls because you should be working!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Me puedes avisar cuando se acabe el juego?",
+      "back": "Can you please let me know when the game's over?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-014",
+      "front": "El juego se acabará pronto.",
+      "back": "The game will be over soon.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Fantástico! Entonces podemos comer cuando se acabe el juego.",
+      "back": "Fantastic! We can eat when the game's over then.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-016",
+      "front": "Toco el piano porque me gusta.",
+      "back": "I play the piano because I like to.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-017",
+      "front": "Ella toca el piano todos los días porque le gusta.",
+      "back": "She plays the piano every day because she likes to.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-018",
+      "front": "Tocan el piano porque les gusta.",
+      "back": "They play the piano because they like to.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-019",
+      "front": "Me gusta tocar la guitarra en mi garaje.",
+      "back": "I like to play the guitar in my garage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-020",
+      "front": "A ella le gusta tocar la guitarra en el sótano.",
+      "back": "She likes playing the guitar in the basement.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-021",
+      "front": "A ellos les gusta tocar la guitarra en sus cuartos.",
+      "back": "They like to play the guitar in their bedrooms.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-022",
+      "front": "John toca la trompeta en su tiempo libre.",
+      "back": "John plays the trumpet in his spare time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-023",
+      "front": "Sonia toca el trombón en su tiempo libre.",
+      "back": "Sonia plays the trombone in her spare time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-024",
+      "front": "Sandra toca la flauta en recitales y en su tiempo libre.",
+      "back": "Sandra plays the flute in recitals and in her spare time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-025",
+      "front": "No te unas a una banda, toca en un grupo después del colegio.",
+      "back": "Don't join a gang; play in a band after school.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-026",
+      "front": "No me uniré a esa banda. Tocaré en un grupo después del colegio.",
+      "back": "I won't join that gang; I'll play in a band after school.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-027",
+      "front": "Quiero unirme a esa banda. No quiero tocar en ningún grupo después del colegio.",
+      "back": "I want to join that gang. I don't want to play in a band after school.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-028",
+      "front": "John no toca la batería, toca la trompeta.",
+      "back": "John doesn't play the drums, he plays the trumpet.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-029",
+      "front": "Sonia no toca la pandereta, toca el trombón.",
+      "back": "Sonia doesn't play the tambourine, she plays the trombone.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-030",
+      "front": "Sandra no toca el triángulo, toca la flauta.",
+      "back": "Sandra doesn't play the triangle, she plays the flute.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-031",
+      "front": "Pon esa canción que le gusta a ella.",
+      "back": "Play that song she likes.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-032",
+      "front": "Pon esa pista que me gusta.",
+      "back": "Play that track I like.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-033",
+      "front": "Pon esa canción que les gusta.",
+      "back": "Play that song they like.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-034",
+      "front": "Pon ese álbum de los Beatles que le gusta a ella.",
+      "back": "Play that Beatles album she likes.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-035",
+      "front": "Pon ese álbum de los Rolling Stones que me gusta.",
+      "back": "Play that Rolling Stones album I like.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-036",
+      "front": "Pon ese álbum de los Doors que les gusta.",
+      "back": "Play that Doors album they like.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-037",
+      "front": "Ella pone la música alta cuando los vecinos están fuera.",
+      "back": "She plays it loud when the neighbours are out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-038",
+      "front": "Él no pone la música alta cuando los vecinos están en casa.",
+      "back": "He doesn't play it loud when the neighbours are at home.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-039",
+      "front": "Los vecinos ponen la música alta cuando estamos fuera.",
+      "back": "The neighbours play it loud when we are out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-040",
+      "front": "Ella pone la música tan alta como quiere cuando los vecinos están fuera.",
+      "back": "She plays it as loud as she wants when the neighbours are out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-041",
+      "front": "Él no pone la música tan alta como quiere cuando los vecinos están en casa.",
+      "back": "He doesn't play it as loud as he wants when the neighbours are at home.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-042",
+      "front": "Los vecinos ponen la música tan alta como quieren cuando estamos fuera.",
+      "back": "The neighbours play it as loud as they want when we are out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Qué tipo de música ponen en el club en Highbury Road?",
+      "back": "What kind of music do they play at the nightclub on Highbury Road?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Qué tipo de música ponen en el bar en Leman Street?",
+      "back": "What kind of music do they play at the bar on Leman Street?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Qué tipo de música ponen en las bodas en Inglaterra?",
+      "back": "What kind of music do they play at weddings in England?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-046",
+      "front": "Que suene la música, por favor, estoy un poco triste.",
+      "back": "Let the music play, please, I'm feeling a little sad.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Que suene la música y a bailar!",
+      "back": "Let the music play and let's dance!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Que suene la música toda la noche!",
+      "back": "Let the music play all night!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Cómo te sientes cuando la música empieza a sonar?",
+      "back": "How do you feel when the music starts to play?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-050",
+      "front": "Me siento genial cada vez que la música empieza a sonar.",
+      "back": "I feel great every time the music starts to play.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Y cómo se sienten tus vecinos cuando empieza a sonar la música?",
+      "back": "And how do your neighbours feel when the music starts to play?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Qué tal un poco de música de fondo entonces?",
+      "back": "How about some background music then?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-053",
+      "front": "Perdona, no te oigo. Suena una música de fondo.",
+      "back": "Sorry, I can't hear you. There's some music playing in the background.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Sí? ¿Qué tipo de música de fondo está sonando?",
+      "back": "Really? What kind of background music is playing?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Qué canción está sonando, por favor?",
+      "back": "What song's playing, please?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Me puede decir qué canción está sonando, por favor?",
+      "back": "Can you please tell me what song's playing?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Me podría decir qué canción está sonando, por favor?",
+      "back": "Could you please tell me what song's playing?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-058",
+      "front": "Esto es perfecto, George. La música está sonando, los pájaros cantando...",
+      "back": "This is perfect, George. The music's playing, the birds are singing...",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-059",
+      "front": "¿No te encanta cuando suena música de fondo?",
+      "back": "Don't you love it when there's music playing in the background?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Puedes callarte, por favor, Mildred? ¡Hay música sonando!",
+      "back": "Can you please be quiet, Mildred? There's some music playing!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-061",
+      "front": "Antonio Resines interpreta a Diego Serrano en Los Serrano.",
+      "back": "Antonio Resines plays Diego Serrano in Los Serrano.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-062",
+      "front": "Leonardo di Caprio interpreta el papel protagonista en Origen.",
+      "back": "Leonardo di Caprio plays the main character in Inception.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-063",
+      "front": "Mi amigo interpreta el papel principal en una obra de teatro.",
+      "back": "My friend is playing the lead role in a theatre play.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-064",
+      "front": "Javier Bardem interpretará al malo en la próxima película de James Bond.",
+      "back": "Javier Bardem will play the bad guy in the next James Bond film.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-065",
+      "front": "Cameron Diaz interpreta a uno de los buenos.",
+      "back": "Cameron Diaz plays one of the good guys.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-066",
+      "front": "A Christopher Lee se le da bien hacer de malo.",
+      "back": "Christopher Lee is good at playing bad guys.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Quién interpreta al protagonista en esta película?",
+      "back": "Who plays the main character in this film?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Quién interpreta el papel secundario más importante en esa película?",
+      "back": "Who plays the main support role in that film?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Quién interpreta al malo en esa película?",
+      "back": "Who plays the bad guy in that film?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-070",
+      "front": "Los médicos desempeñan un papel importante en la sociedad.",
+      "back": "Doctors play an important role in society.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-071",
+      "front": "Los medios desempeñan un papel importante en las elecciones a la presidencia de Estados Unidos.",
+      "back": "The media plays an important role in the American presidential elections.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-072",
+      "front": "Los ordenadores desempeñan un papel importante en nuestra vida cotidiana.",
+      "back": "Computers play an important role in our everyday lives.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Desempeña la inversión un papel importante en el desarrollo tecnológico?",
+      "back": "Does investment play an important role in technological development?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Desempeña la cooperación un papel importante en las relaciones?",
+      "back": "Does cooperation play an important role in relationships?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Desempeñan las organizaciones benéficas un papel importante en el desarrollo del tercer mundo?",
+      "back": "Do charities play an important role in third world development?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-076",
+      "front": "¿A quién le toca? No le toca a ella.",
+      "back": "Whose go is it? It's not hers.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-077",
+      "front": "¿A quién le toca? ¿Te toca a ti?",
+      "back": "Whose go is it? Is it yours?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-078",
+      "front": "¿A quién le toca? ¡Ah! ¡Me toca a mí!",
+      "back": "Whose go is it? Oh! It's mine!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-079",
+      "front": "Te toca.",
+      "back": "It's your go.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Le toca a ella, no a ti!",
+      "back": "It's her go, not yours!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-081",
+      "front": "¿A quién le toca? ¿Me toca a mí?",
+      "back": "Whose go is it? Is it my go?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s1-082",
+      "front": "¿A quién le toca? ¿A ti? ¡Pues tira los dados!",
+      "back": "Whose go is it? Yours? Roll the dice then!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-083",
+      "front": "Te toca a ti. Tira el dado.",
+      "back": "It's your go. Roll the dice.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-084",
+      "front": "¡No tires el dado! ¡No te toca a ti!",
+      "back": "Don't roll the dice! It's not your go!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-085",
+      "front": "¡Bien! ¡Saqué un seis!",
+      "back": "Yes! I got a six!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-086",
+      "front": "¡Bien! ¡Saqué otro seis!",
+      "back": "Hooray! I got another six!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Ay! Sólo saqué un uno.",
+      "back": "Oh no! I only got a one.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-088",
+      "front": "¡No hagas trampas! ¡No te toca a ti!",
+      "back": "Don't cheat! It's not your go!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Estás haciendo trampas! ¡Sólo sacaste un dos!",
+      "back": "You're cheating! You only got a two!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s1-090",
+      "front": "No quiero jugar con él. Es un tramposo.",
+      "back": "I don't want to play with him. He's a cheater.",
+      "sourcePage": 21
+    }
+  ]
+}

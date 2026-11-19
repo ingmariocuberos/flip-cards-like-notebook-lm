@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-38",
+  "bookTitle": "Libro 38",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Si la policía te pregunta por lo que pasó, hazte el sueco.",
+      "back": "If the police ask you what happened, just play stupid.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-002",
+      "front": "Es mucho más inteligente de lo que aparenta; sólo que a veces le gusta hacerse la tonta.",
+      "back": "She's much more intelligent than she acts; she just likes to play stupid at times.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-003",
+      "front": "No te hagas el sueco conmigo, dime la verdad.",
+      "back": "Don't play dumb with me, just tell me the truth.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-004",
+      "front": "Ni se te ocurra decir que eres inocente; tenemos tres testigos que aseguran que te vieron en la escena del crimen.",
+      "back": "Don't even think about playing the innocent; we have three witnesses who say they saw you at the scene of the crime.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-005",
+      "front": "Si tus padres nos dicen algo, simplemente nos hacemos los inocentes.",
+      "back": "If your parents say anything to us, let's just play the innocent.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-006",
+      "front": "Me encanta cuando te haces el inocente; ¡estás tan mona!",
+      "back": "I love it when you play the innocent; you look so cute!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-007",
+      "front": "A él le gustan las chicas que se hacen las interesantes.",
+      "back": "He likes girls who play hard to get.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-008",
+      "front": "Venga, Johnson; no te hagas el interesante, ya te hemos dicho que te vamos a ofrecer el doble que nuestros competidores.",
+      "back": "Come on, Johnson; don't play hard to get, we've already said that we'll offer you twice as much as our competitors.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Por qué te estás haciendo el interesante? ¡Sabes que lo estás pidiendo a gritos!",
+      "back": "Why are you playing so hard to get? You know you're dying for it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-010",
+      "front": "Ni el gobierno, ni la sociedad, ni nadie tiene el derecho a jugar a ser Dios.",
+      "back": "It's not the government or society's or anyone's right to play God.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-011",
+      "front": "¡¿Quién demonios te has creído jugando a ser Dios de esta manera?!",
+      "back": "Who the hell do you think you are playing God like this?!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-012",
+      "front": "El poder se le ha subido a la cabeza; no deja de jugar a ser Dios últimamente.",
+      "back": "Power has gone totally to his head; he never stops playing God these days.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-013",
+      "front": "No... los niños no están durmiendo de verdad; se están haciendo los muertos como de costumbre.",
+      "back": "No... the kids aren't really sleeping; they're just playing dead like they usually do.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-014",
+      "front": "Si fuera soldado en el campo de batalla, me haría el muerto.",
+      "back": "If I were a soldier on a battlefield I would play dead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-015",
+      "front": "Menos mal que te hiciste el muerto; de otro modo, estoy convencido de que te habrían matado.",
+      "back": "It's a good thing you played dead; otherwise I'm convinced they would have killed you.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-016",
+      "front": "Tú finge que sabes lo que haces. Haz como si nada, ¿sabes?",
+      "back": "Just pretend you know what you're doing. Play it cool, you know?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-017",
+      "front": "Nadie se dará cuenta si hacemos como si nada.",
+      "back": "No one will notice if we play it cool.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Estás segura de que el tigre pasará de largo andando si hago como si nada?",
+      "back": "Are you sure the tiger will walk right past me if I play it cool?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-019",
+      "front": "Haz como si nada, papá. No te conviene parecer enfadado delante del policía.",
+      "back": "Play it cool, dad. You don't want to look angry in front of the police officer.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-020",
+      "front": "Sé que tienes razón, pero haz como si nada. No te conviene perder este trabajo.",
+      "back": "I know you're right, but play it cool. You don't want to lose this job.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Que haga como si nada? ¡Es la quinta vez que me pierde ella las llaves!",
+      "back": "Play it cool? It's the fifth time she loses my keys!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-022",
+      "front": "Deberíamos ir sobre seguro y reservar una mesa por adelantado.",
+      "back": "We should play it safe and book a table beforehand.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-023",
+      "front": "A Emma no le gusta arriesgarse. Siempre va sobre seguro.",
+      "back": "Emma doesn't like running risks. She always plays it safe.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-024",
+      "front": "Iré sobre seguro y me tomaré un analgésico ahora, por si acaso me empieza a doler luego.",
+      "back": "I'll play it safe and take a painkiller now, just in case it starts hurting later.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-025",
+      "front": "Creo que él te respetaría más si fueras honesto con él.",
+      "back": "I think he'd respect you more if you played it straight with him.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-026",
+      "front": "No tengas miedo de ser sincera. Es lo mejor que puedes hacer a largo plazo.",
+      "back": "Don't be afraid to play it straight. It's the best you can do in the long term.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-027",
+      "front": "Puede que obrar honestamente no sea fácil a veces, pero siempre es recomendable.",
+      "back": "Playing it straight might not be easy sometimes, but it's always advisable.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-028",
+      "front": "¡Te dije que no corrieras riesgos y acabas de pasar de largo conduciendo a ese agente que te estaba haciendo señas!",
+      "back": "I told you to play it safe and you just drove right past that police officer, who was waving at you!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Cómo puedes confiar en él? Nunca ha actuado honestamente antes.",
+      "back": "How can you trust him? He's never played straight before!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-030",
+      "front": "Puede que hacer como si nada no sea fácil cuando estás enfadado, pero es siempre recomendable.",
+      "back": "Playing it cool might not be easy when you're mad, but it's always advisable.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-031",
+      "front": "Deja de llamarlo a mis espaldas. ¿A qué estás jugando?",
+      "back": "Stop calling him behind my back. What are you playing at?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Por qué hiciste estos comentarios en la reunión? ¿A qué estabas jugando?",
+      "back": "Why did you make these comments in the meeting? What were you playing at?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-033",
+      "front": "Ella siempre es muy amable conmigo, aunque sé que le caigo mal. Me pregunto a qué está jugando.",
+      "back": "She's always so nice to me even though I know she doesn't like me. I wonder what she's playing at.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-034",
+      "front": "Jugaba con ella continuamente hasta que se hartó y lo dejó.",
+      "back": "He kept playing with her until she had enough and broke up with him.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Primero me dejas y ahora quieres volver conmigo? ¡Deja de jugar con mis sentimientos!",
+      "back": "First you break up with me and now you want me back? Stop playing with my feelings!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Por qué me dejó? No es cierto que jugara con ella.",
+      "back": "Why did she break up with me? It's not true that I was playing with her.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s2-037",
+      "front": "Ella decidió ignorar su extraña conducta porque sabía que él sólo estaba jugando con ella.",
+      "back": "She decided to ignore his strange behaviour because she knew he was only playing games with her.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-038",
+      "front": "Estoy tratando de ser honesto contigo. No me interesan los jueguecitos.",
+      "back": "I'm trying to be honest with you. I'm not interested in playing games.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Por qué ha estado ella jugando conmigo? No entiendo su verdadero motivo.",
+      "back": "Why has she been playing games with me? I don't know what her game is.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-040",
+      "front": "Durante el secuestro, el negociador trataba de ganar tiempo hasta que el dinero estuviera listo.",
+      "back": "During the kidnapping, the negotiator played for time until the money was ready.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-041",
+      "front": "No podemos firmar el acuerdo todavía, así que tendremos que tratar de ganar tiempo.",
+      "back": "We can't sign the agreement yet, so we'll have to play for time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-042",
+      "front": "La defensa ha estado tratando de ganar tiempo porque todavía están buscando un testigo.",
+      "back": "The defense has been playing for time because they're still looking for a witness.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-043",
+      "front": "La mayoría de los jóvenes no se dan cuenta de que tomar drogas es jugar con fuego.",
+      "back": "Most young people don't realise that taking drugs is to play with fire.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-044",
+      "front": "Aunque sabía que estaba jugando con fuego, continuaba investigando.",
+      "back": "Even though she knew she was playing with fire, she continued investigating.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-045",
+      "front": "No deberías hablar de tu suegra a sus espaldas. ¡Sabes que eso es jugar con fuego!",
+      "back": "You shouldn't talk about your mother-in-law behind her back. You know that's playing with fire!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s2-046",
+      "front": "Antes había muchos árboles en el patio de recreo.",
+      "back": "There used to be lots of trees in the playground.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-047",
+      "front": "Antes había muchos toboganes en el patio de recreo.",
+      "back": "There used to be a lot of slides in the playground.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-048",
+      "front": "Antes había muchos columpios en el patio de recreo.",
+      "back": "There used to be a lot of swings in the playground.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Estoy tardando siglos en montar este maldito parque!",
+      "back": "It's taking me ages to put this damn playpen together!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-050",
+      "front": "¡He tardado siglos en montar este maldito parque!",
+      "back": "It's taken me ages to put this damn playpen together!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Tardé siglos en montar este maldito parque!",
+      "back": "It took me ages to put this damn playpen together!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-052",
+      "front": "Los amiguitos de Graham han estado ayudándole a jugar mejor al fútbol.",
+      "back": "Graham's playmates have been helping him to play football better.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Han estado tus amiguitos compartiendo sus juguetes contigo?",
+      "back": "Have your playmates been sharing their toys with you?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-054",
+      "front": "Los amiguitos de mi hijo han estado enseñándole palabrotas últimamente.",
+      "back": "My son's playmates have been teaching him a lot of swearwords lately.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-055",
+      "front": "El recreo era la mejor parte del día en el cole cuando era pequeño.",
+      "back": "Playtime was the best part of my school day when I was a child.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-056",
+      "front": "Antes jugaba en el tobogán durante el recreo.",
+      "back": "I used to play on the slide during playtime.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-057",
+      "front": "Los niños tienen que quemar la energía que les sobra durante el recreo.",
+      "back": "The children need to burn off their excess energy during playtime.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Oye! ¡Sr. DJ! ¿Puedo echar un vistazo a tu lista de reproducción?",
+      "back": "Hey Mr. DJ! Can I take a look at your playlist?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Esta lista de reproducción no es tan buena como la del otro DJ!",
+      "back": "This playlist isn't as good as the other DJ's one!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-060",
+      "front": "La lista de reproducción de tu MP3 está llena de baladas cursis.",
+      "back": "The playlist on your MP3 player is full of soppy ballads.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-061",
+      "front": "Los niños están dando guerra otra vez. ¡Estoy harta!",
+      "back": "The children are playing up again. I'm sick of it!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-062",
+      "front": "Sus niños están siempre dando guerra. ¡Qué mocosos son!",
+      "back": "Her children are always playing up. They're such brats!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-063",
+      "front": "Los niños darán guerra si piensan que pueden salirse con la suya.",
+      "back": "Children will play up if they think they can get away with it.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-064",
+      "front": "Está muy triste porque el tobillo le da problemas.",
+      "back": "She's very upset because her ankle's playing up.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-065",
+      "front": "Nick no puede jugar porque la rodilla todavía está dándole problemas.",
+      "back": "Nick can't play because his knee's still playing up.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-066",
+      "front": "Mi marido dice que no puede cortar el césped porque la espalda le está dando otra vez problemas.",
+      "back": "My husband says he can't mow the lawn because his back's playing up again.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-067",
+      "front": "David llegará tarde. Su coche está funcionando mal otra vez.",
+      "back": "David will be late. His car's playing up again.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-068",
+      "front": "Tendremos que llevar el coche al taller. El motor ha estado funcionando mal.",
+      "back": "We'll have to take the car to the garage. The engine's been playing up.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-069",
+      "front": "No soporto cuando el cortacésped funciona mal.",
+      "back": "I can't stand it when the lawn mower plays up.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-070",
+      "front": "Estoy más que harto de que la tele funcione mal.",
+      "back": "I'm so fed up of the T.V. playing up!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-071",
+      "front": "Si mi móvil no para de funcionar mal, tendré que comprar uno nuevo.",
+      "back": "If my mobile doesn't stop playing up, I'll have to buy a new one.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-072",
+      "front": "Mi portátil funciona mal últimamente. ¡Estoy harto de perder documentos!",
+      "back": "My laptop's been playing up lately. I'm fed up of losing documents!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-073",
+      "front": "¡No soporto cuando los niños dan guerra! No debería dejarlos salirse con la suya.",
+      "back": "I can't stand it when the children play up. I shouldn't let them get away with it.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-074",
+      "front": "Estoy harto de que la espalda me dé problemas todo el tiempo.",
+      "back": "I'm sick of my back playing up all the time.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-075",
+      "front": "Estoy más que harto. Mi móvil ha estado funcionando mal, así que tendré que comprar uno nuevo.",
+      "back": "I'm so fed up. My mobile's been playing up so I'll have to buy a new one.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-076",
+      "front": "No aguanto a ese equipo, casi todos juegan sucio.",
+      "back": "I can't stand that team, almost all of them play dirty.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-077",
+      "front": "Sólo consiguieron el contrato jugando sucio.",
+      "back": "They only got that contract by playing dirty.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-078",
+      "front": "Di lo que quieras acerca de John, pero creo que nunca ha jugado sucio.",
+      "back": "Say what you want about John, but I don't think he's ever played dirty.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-079",
+      "front": "Intentamos promover el juego limpio en nuestro torneo.",
+      "back": "We aim to promote fair play in our tournament.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-080",
+      "front": "La policía sospecha que se trata de un crimen.",
+      "back": "Police suspect foul play.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-081",
+      "front": "Tratamos de traer más transparencia y juego limpio a la industria.",
+      "back": "We're trying to bring more transparency and fair play into this industry.",
+      "sourcePage": 48
+    },
+    {
+      "id": "s2-082",
+      "front": "Le encanta jugar con las palabras. ¡A su esposa la saca de quicio!",
+      "back": "He loves to play on words, it drives his wife crazy!",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-083",
+      "front": "Hay muchos juegos de palabras en este libro, cuesta entenderlo.",
+      "back": "There are too many plays on words in this book, it's hard to understand.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-084",
+      "front": "Cuando juegas con las palabras bien en inglés, sabes que tienes un buen nivel.",
+      "back": "When you can play on words properly in English, you know you've got a good level.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-085",
+      "front": "Juega bien tus cartas, y algún día todo esto podría ser tuyo.",
+      "back": "Play your cards right, and one day all this could be yours.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-086",
+      "front": "Creo que hay tema entre Laura y tú; si juegas bien tus cartas, creo que podríais acabar juntos.",
+      "back": "I think Laura is interested, and, if you play your cards right I think you two could end up together.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-087",
+      "front": "Si él juega bien sus cartas, este ascenso podría ser suyo.",
+      "back": "If he plays his cards right, this promotion could be his!",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-088",
+      "front": "Soy capaz de hacer esto solo, es pan comido.",
+      "back": "I can do this on my own, it's child's play.",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-089",
+      "front": "No hay excusa por no haberlo terminado aún. ¡Esta tarea es pan comido!",
+      "back": "There's no excuse for not having finished yet, this task is child's play!",
+      "sourcePage": 49
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Esa canción? La aprendí en un día, es pan comido.",
+      "back": "That song? I learned it in a day, it's pure child's play!",
+      "sourcePage": 49
+    }
+  ]
+}
