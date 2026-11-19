@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-44",
+  "bookTitle": "Libro 44",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "¿Te importa sujetar mi copa un momento mientras voy al baño?",
+      "back": "Do you mind holding my drink for a second while I go to the toilet?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "No te estoy pidiendo que me la sujetes toda la noche.",
+      "back": "I'm not asking you to hold it all night.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "No te la sujetaré a no ser que me lo pidas de manera amable.",
+      "back": "I won't hold it for you unless you ask me nicely.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¿No se supone que me estabas sujetando la copa?",
+      "back": "Weren't you supposed to be holding my drink for me?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "La sujeté durante un tiempo, pero estuviste mucho tiempo en el baño.",
+      "back": "I held it for a while but you were in the toilet for a long time.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Me aburrí de sujetarla, así que la dejé en alguna parte del suelo.",
+      "back": "I got bored of holding it so I left it on the floor somewhere.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Llevas mucho tiempo sujetando su copa?",
+      "back": "Have you been holding his glass for long?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Es como si hubiera estado sujetándola toda la noche.",
+      "back": "It feels like I've been holding it all night.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Nunca antes he sujetado un vaso tan pesado como éste.",
+      "back": "I haven't ever held a glass as heavy as this before.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Yo que tú no le sujetaría nada a ese imbécil.",
+      "back": "If I were you, I wouldn't hold anything for that imbecile.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Se lo habrías sujetado si fuera más guapo?",
+      "back": "Would you have held it for him if he were better looking?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Bueno, si me lo hubiera pedido de manera agradable, lo habría sujetado... ¡y si fuera Brad Pitt, lo habría sujetado también!",
+      "back": "Well, if he had asked me nicely, I would have held it... and if he were Brad Pitt, I would have held it too!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Ojalá no se lo hubiera sujetado.",
+      "back": "I wish I hadn't held it for him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Podrías haberte acostumbrado a sujetárselo?",
+      "back": "Could you have got used to holding it for him?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Puede que yo se lo hubiera sujetado si no hubiera habido aquella pelea en el bar.",
+      "back": "I might have held it for him if there hadn't been that fight in the bar.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Tendré que sujetar estas gafas con cinta hasta que tenga dinero suficiente para ir a la óptica.",
+      "back": "I'll have to tape these glasses together until I have enough money to go to the optician's.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "No puedes dejar los cables colgando allí; por lo menos sujétalos al techo con un poco de cinta por el momento.",
+      "back": "You can't leave those cables hanging there; at least tape them to the ceiling for the time being.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "No se permite a los estudiantes sujetar sus pósteres a las paredes con cinta adhesiva.",
+      "back": "Students are not allowed to tape their posters to the wall.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Colgamos todos los menús de comida para llevar en el corcho que hay en la cocina.",
+      "back": "We pin all the takeaway menus to the cork board in the kitchen.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Esta moqueta se está soltando; tendremos que sujetarla otra vez al suelo.",
+      "back": "This carpet is coming loose; we need to pin it back to the floor.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Vas a perder esos papeles; ¿por qué no los sujetas con un alfiler?",
+      "back": "You're going to lose those papers; why don't you pin them together?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Abróchense los cinturones de seguridad.",
+      "back": "Fasten your seatbelts.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Cariño, ¿me puedes echar una mano para abrocharme el sujetador, por favor?",
+      "back": "Darling, can you lend me a hand to fasten my bra please?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "El velcro es un invento maravilloso para abrochar la ropa.",
+      "back": "Velcro is a fantastic invention for fastening clothes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Deberías sujetar esa bolsa de cereales con una pinza; si no los cereales se pondrán duros.",
+      "back": "You should peg that cereal bag; otherwise the cereal will go stale.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Tenemos que sujetar la tienda al suelo antes de que empiece a llover.",
+      "back": "We need to peg this tent to the ground before it starts raining.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Cómo puedo sujetar la ropa a la cuerda de tender si no tengo pinzas?",
+      "back": "How can I peg these clothes to the washing line if I don't have any pegs?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Antes de empezar a operar al perro, tendremos que sujetarlo a la mesa con una correa.",
+      "back": "Before we begin to operate on the dog we will have to strap him to this table.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "¿Qué vamos a utilizar para atar las bicis al techo del coche?",
+      "back": "What are we going to use to strap the bikes to the car roof?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "No podrá escapar si le atamos a la silla con correas.",
+      "back": "He won't be able to escape if we strap him to the chair.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Puede que parezca muy despistado, pero no se lo puedes reprochar.",
+      "back": "He may seem very absent-minded, but you can't hold that against him.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Cuanto más tiempo le guardes rencor, más sufrirás, y eso no cambiará su vida de ninguna manera.",
+      "back": "The longer you hold it against him, the more you'll suffer, and it won't make any difference to his life.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Ella se casó con él debido a tu envidia inútil; llevas años reprochándoselo.",
+      "back": "She got married to him because of your pointless jealousy; you've held it against her for years.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Permítame recordarle que está usted ante un tribunal de justicia. Si está ocultando algo, es igual que mentir.",
+      "back": "Let me remind you that you are in a court of law. If you're holding back any information, it's as good as lying.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Ella contuvo las lágrimas mientras estaba en la oficina, y nada más llegar a su casa, se echó a llorar.",
+      "back": "She held back her tears while she was in the office, and as soon as she got home, she burst out crying.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Si hubieras ocultado esa información en el tribunal, los culpables habrían salido impunes.",
+      "back": "If you'd held back that information in court, then the culprits would have gotten off scot-free.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Él es totalmente incapaz de desempeñar un trabajo. Pero ahora que va a ser padre, más vale que empiece a hacer lo que le corresponde.",
+      "back": "He's totally incapable of holding down a job. But now that he's going to become a father, he'd better start pulling his weight!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "¡Espero que valores que yo esté desempeñando tres trabajos para llevar algo de comer a la mesa, chaval!",
+      "back": "I hope you appreciate the fact that I'm holding down three jobs in order to put food on this table, young man!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Ella hizo lo que podía por detenerle hasta que llegara la policía, pero huyó. ¡Menos mal que tropezó!",
+      "back": "She tried as hard as she could to hold him down until the police arrived, but he got away. It's a good thing he tripped!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Él preferiría pasar el resto de su vida solo a estar mal acompañado. Por eso lleva años esperando a que llegue la buena.",
+      "back": "He'd rather spend the rest of his life alone than be with the wrong woman, so he's been holding out for the right one for years.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Desde que me gradué en la facultad, las ofertas de trabajo han estado entrando a raudales, pero estoy reservándome para el trabajo de mis sueños.",
+      "back": "Since I graduated from University, the job offers have been flooding in, but I'm holding out for my dream job.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Estoy esperando a un héroe hasta la luz de la mañana. Tiene que ser fuerte y tiene que ser rápido.",
+      "back": "I'm holding out for a hero until the morning light. He's got to be strong and he's got to be fast.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Yo que tú esperaría un poco antes de invertir en propiedades. Es que no es el momento adecuado.",
+      "back": "If I were you, I'd hold off investing any of my money in property for now. It's just not the right time.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Debido a la recesión, mucha gente ha pospuesto hacer el tipo de inversión que podría volver a encarrilar la economía.",
+      "back": "Due to the recession, many people have held off making the type of investments that could really get the economy back on track.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Pensaba que aguantaría sin llover al menos hasta que regresáramos al coche.",
+      "back": "I thought that the rain would hold off at least until we got back to the car.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Agárrate a mi brazo o si no te caerás.",
+      "back": "Grab hold of my arm; you'll fall over otherwise.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "¿Me puedes coger el volante un segundo?",
+      "back": "Can you take hold of the steering wheel for me?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Sabes que cuando la jefa te coja te va a leer la cartilla.",
+      "back": "You know when the boss catches hold of you she's going to give you what for.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "No sueltes mi cartera y mis llaves mientras estamos en la montaña rusa.",
+      "back": "Keep hold of my wallet and keys while we're on the rollercoaster.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "No sé qué le pasa a mi hijo Dick, no parece capaz de mantener a ninguna de las chicas con las que sale.",
+      "back": "I don't know what's wrong with my little Dick; he never seems to be able to keep hold of any girls he goes out with.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Él es un buen partido; asegúrate de que no se te escape.",
+      "back": "He's a good catch; make sure you keep hold of him.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Dónde conseguiste estos altavoces? Son geniales.",
+      "back": "Where did you get hold of these speakers? They're great!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "¿Alguien sabe dónde podría conseguir un esmoquin antes de la fiesta de esta noche?",
+      "back": "Does anyone know where I could get hold of a dinner suit before this evening's party?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "No sé de dónde sacaste la idea de que nos iban a despedir por reducción de plantilla.",
+      "back": "I don't know where you got hold of the idea that we were going to be made redundant.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Todavía no has logrado localizar a Bertie? De verdad, necesito hablar con él cuanto antes.",
+      "back": "Haven't you managed to get hold of Bertie yet? I really need to speak to him as soon as possible.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Cuando localice a los niños que pintaron con spray mi coche, los voy a matar.",
+      "back": "When I get hold of the kids who spray-painted my car, I'm going to kill them.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Sabes dónde podría localizar a un buen fontanero que además sea honrado?",
+      "back": "Do you know where I could get hold of a decent plumber who is honest too?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Ella tiene que aprender a controlarse, de lo contrario va a perder su trabajo.",
+      "back": "She has to learn to get a hold of herself or she's going to lose her job.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Intenta calmarte un poco porque no he entendido ni una palabra de lo que has dicho hasta el momento.",
+      "back": "Try and get a hold of yourself because I haven't understood a word you've said so far.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "¿Logró controlarse anoche después de que nos fuéramos de la fiesta? Se estaba comportando como un auténtico loco.",
+      "back": "Did he manage to get a hold of himself last night after we left the party? He was acting like a total lunatic.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Cuando se encontraron se abrazaron apasionadamente.",
+      "back": "When they met they embraced each other passionately.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "No podemos tener miedo de estos cambios; tenemos que abrazarlos.",
+      "back": "We can't be frightened of these changes; we need to embrace them.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Fue un poco raro ver a esos dos rivales políticos abrazarse así.",
+      "back": "It was a little strange to see those two political rivals embrace each other like that.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "No necesito que te disculpes; sólo quiero que me abraces.",
+      "back": "I don't need you to apologise; I just want you to hug me.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Fuiste tú a quien vi anoche abrazando a Sally en la estación de trenes?",
+      "back": "Was that you I saw hugging Sally at the train station last night?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Cuando dije que eras un «abrazador de árboles», me refería a que te preocupa mucho el medioambiente; ¡no lo quería decir en el sentido literal!",
+      "back": "When I said that you're a \"tree hugger\" it meant that you are worried about the environment; I didn't mean it literally!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "La policía ha detenido a tres sospechosos en relación con el robo de Dalston.",
+      "back": "Police have detained three suspects in relation to the Dalston robbery.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "¿Durante cuánto tiempo te detuvieron?",
+      "back": "How long did they detain you for?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Te estamos arrestando por presunto asesinato.",
+      "back": "We're detaining you on a charge of murder.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Agárrate a mi brazo y no te caerás.",
+      "back": "Cling on to my arm and you won't fall!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "A pesar de las manifestaciones violentas y las huelgas, el dictador brutal sigue aferrado al poder.",
+      "back": "Despite the violent protests and the strikes, the brutal dictator is still clinging on to power.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Ella sigue aferrada a la esperanza de que su marido vuelva con ella.",
+      "back": "She still clings to the hope that her husband will come back to her.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Siempre que se pone nervioso aprieta los puños.",
+      "back": "Whenever he gets nervous, he clenches his fists.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Cuando él me da la mano la aprieta tanto que me duele.",
+      "back": "When he shakes my hand, he clenches it so hard that it hurts.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "¡La gente aprieta las nalgas cuando miente!",
+      "back": "People clench their buttocks when they lie!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Su razonamiento no se sostiene. Si lo piensas, sus argumentos no se mantienen a flote.",
+      "back": "His reasoning is based on shaky premises. If you think about it, his arguments don't hold water.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Has explorado todos los distintos resultados posibles? Tienes que asegurarte de que tu teoría se mantiene a flote.",
+      "back": "Did you explore all the different potential outcomes? You need to make sure your theory holds water.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Las razones que ella daba para apoyar esta política no se mantenían a flote porque no tenían sustento.",
+      "back": "The reasons she gave for supporting this policy didn't hold water because they were based on shaky premises.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Aunque sabía que podría ir a la cárcel, se defendió a sí mismo en el interrogatorio.",
+      "back": "Even though he knew he might go to prison, he held his own in the interrogation.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Sus competidores tenían experiencia, pero ella se defendió a pesar de no ser favorita.",
+      "back": "Her competitors were experienced, but she held her own despite being an underdog.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "El candidato menos favorito se defendió y acabó siendo el ganador.",
+      "back": "The underdog held his own and eventually came out as the winner.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "¿Por qué le sigues teniendo en gran estima? Tuvo que ir a la cárcel porque sus declaraciones en el juicio no se sostenían.",
+      "back": "Why do you still hold him in high regard? He had to go to prison because his declarations in court didn't hold water.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Sabes que valoro mucho tu opinión, pero, con todo el respeto, no puedo permitir que eso ocurra.",
+      "back": "You know that I hold your opinion in high regard, but with all due respect, I can't let that happen.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Nelson Mandela goza de una alta estima en todo el mundo por su papel en la derrota del Apartheid.",
+      "back": "Nelson Mandela is held in high regard all over the world for his role in bringing Apartheid to an end.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Ella guardaba rencor a su compañera de trabajo, a la que ascendieron sólo por su atractivo.",
+      "back": "She held a grudge against her co-worker who got promoted only because of her good looks.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "¡No me puedo creer que todavía le guardes rencor a ella! ¡La ascendieron hace muchísimo!",
+      "back": "I can't believe you're still holding a grudge against her! She got promoted ages ago!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "La ascendieron por la investigación que hizo sobre el tema, así que no le deberías haber guardado rencor.",
+      "back": "She got promoted because of the research she had done on the subject, so you shouldn't have held a grudge against her.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Le dijeron a ella que podía decir lo que quisiera, sin ninguna limitación.",
+      "back": "She was told that she could say anything she liked, no holds barred.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "En el DVD hay una entrevista con Kurt Cobain en la que habla de todo y grabaciones entre bambalinas.",
+      "back": "On the DVD there's a no-holds-barred interview with Kurt Cobain and backstage footage.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Este documental es una película educativa contundente, sin restricciones sobre las drogas que más se consumen.",
+      "back": "This documentary is a hard-hitting, no-holds-barred educational film about the most commonly abused drugs.",
+      "sourcePage": 41
+    }
+  ]
+}

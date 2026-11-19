@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-44",
+  "bookTitle": "Libro 44",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Sujeta esto!",
+      "back": "Hold this!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Sujétame esto!",
+      "back": "Hold this for me!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Sujétame esto, ¿quieres?",
+      "back": "Hold this for me, will you?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Me sujetas el paraguas un segundo?",
+      "back": "Can you hold my umbrella a second?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Me sujetas el móvil?",
+      "back": "Can you hold my mobile for me?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Me sujetas el bolso un segundo?",
+      "back": "Can you hold my handbag for me a second?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Me sujetas el paraguas mientras saco las llaves de mi coche?",
+      "back": "Can you hold my umbrella for me while I get my car keys out?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Me sujetas mis cosas mientras saco mi paraguas de mi bolso?",
+      "back": "Can you hold my things for me while I get my umbrella out of my handbag?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Me sujetas las llaves del coche mientras saco las llaves de mi casa de mi bolsillo?",
+      "back": "Can you hold the car keys for me while I get my house keys out of my pocket?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Quieres que te sujete las llaves del coche mientras sacas las llaves de tu casa?",
+      "back": "Do you want me to hold your car keys for you while you get your house keys out?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Quieres que te sujete el paraguas mientras sacas las llaves de tu coche de tu bolso?",
+      "back": "Do you want me to hold your umbrella while you get your car keys out of your handbag?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Quieres que sujete tus cosas mientras sacas las llaves de tu casa de tu bolsillo?",
+      "back": "Do you want me to hold your things while you get your house keys out of your pocket?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "No puedo sujetar esta escalera durante mucho más tiempo. ¡Pesa demasiado!",
+      "back": "I can't hold this ladder for much longer. It's too heavy!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No puedo sujetar tus bolsas de la compra durante mucho más tiempo. ¡Pesan demasiado!",
+      "back": "I can't hold your shopping bags for much longer. They're too heavy!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "No puedo sujetar tus cosas durante mucho más tiempo. ¡Pesan demasiado!",
+      "back": "I can't hold your things for much longer. They're too heavy!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "No pierdas tu cartera, agárrala bien.",
+      "back": "Don't lose your wallet, hold on to it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "No pierdas tu monedero, agárralo bien.",
+      "back": "Don't lose your purse, hold on to it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "No pierdas tu móvil, agárralo bien.",
+      "back": "Don't lose your mobile, hold on to it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Por su seguridad, por favor, agárrense a las barras.",
+      "back": "For your own safety, please hold on to the bars.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Cuando empiece la atracción, por favor, agárrense a las barras.",
+      "back": "When the ride starts, please hold on to the bars.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Si no tienen asiento, por favor, agárrense a las barras.",
+      "back": "If you do not have a seat, please hold on to the bars.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Él siempre se agarra al asiento cuando despega el avión.",
+      "back": "He always holds on to his seat when the plane takes off.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Siempre me agarro al asiento cuando veo películas de acción.",
+      "back": "I always hold on to my seat when I watch action films.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Siempre te agarras al asiento cuando despega el avión?",
+      "back": "Do you always hold on to your seat when the plane takes off?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Tienes que sujetarte a mi brazo.",
+      "back": "You need to hold on to my arm.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Por qué me tengo que sujetar fuertemente a tu brazo?",
+      "back": "Why do I need to hold on to your arm tightly?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Tienes que sujetarte fuertemente a mi brazo porque si no, te caerás.",
+      "back": "You need to hold on to my arm tightly because otherwise you'll fall.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Agárrate bien a la cuerda, porque si no, te caerás!",
+      "back": "Hold on to the rope, or else you'll fall!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Agárrate bien a la cuerda, porque si no, suspenderás la clase de gimnasia.",
+      "back": "Hold on to the rope, or else you'll fail gym class.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Agárrate bien a la cuerda! ¿Quieres suspender la clase de gimnasia?",
+      "back": "Hold on to the rope! Do you want to fail gym class?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Por favor, manténgase a la espera.",
+      "back": "Please hold the line.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Por favor, manténgase a la espera un momento.",
+      "back": "Please hold the line one moment.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Puede mantenerse a la espera, por favor?",
+      "back": "Can you hold the line, please?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Espere un segundo, por favor.",
+      "back": "Hold on one second, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Espera un segundito, por favor.",
+      "back": "Hold on a sec, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Puede esperar un segundo, por favor?",
+      "back": "Can you hold on a second, please?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Espere un segundo, por favor. Tengo que comprobar sus datos en el sistema.",
+      "back": "Hang on one second, please, I need to check your details in the system.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Espera un segundito, por favor. Tengo que comprobar tu dirección en el sistema.",
+      "back": "Hang on a sec, please, I need to check your address in the system.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Puede esperar un segundo, por favor? Tengo que comprobar su número en el sistema.",
+      "back": "Can you hang on a second, please? I need to check your number in the system.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Le pongo en espera.",
+      "back": "I'm going to put you on hold.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Le pongo en espera un momento.",
+      "back": "I'm going to put you on hold for one moment.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Le pongo en espera un segundo.",
+      "back": "I'm going to put you on hold for one second.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Es imposible tener una conversación telefónica con vuestro personal.",
+      "back": "It's impossible to hold a telephone conversation with your staff.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Siempre es imposible tener una conversación telefónica con el departamento de ventas.",
+      "back": "It's always impossible to hold a telephone conversation with the sales department.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Casi siempre es imposible tener una conversación telefónica con el jefe.",
+      "back": "It's almost always impossible to hold a telephone conversation with the boss.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Celebraremos una reunión sobre los objetivos de venta esta misma tarde.",
+      "back": "We'll hold a meeting about sales objectives later this afternoon.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Celebraremos una reunión sobre el servicio al cliente esta semana más adelante.",
+      "back": "We'll hold a meeting about customer care later this week.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Celebraremos una reunión sobre la estrategia de marketing este mes más adelante?",
+      "back": "Will we hold a meeting about our marketing strategy later this month?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Qué país celebra elecciones la semana que viene y quién se presenta a la presidencia?",
+      "back": "What country is holding elections next week and who is running for president?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Creo que Italia celebra elecciones el domingo que viene y Paolo Frucci se presenta a la presidencia.",
+      "back": "I think Italy is holding elections next Sunday and Paolo Frucci is running for president.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Estás seguro de que Italia celebra elecciones la semana que viene y que sólo Paolo Frucci se presenta a la presidencia?",
+      "back": "Are you sure that Italy is holding elections next week and that only Paolo Frucci is running for president?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "La sede celebra una conferencia con los jefes de departamento una vez al mes.",
+      "back": "Head Office holds a conference with heads of department once a month.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "La sede no celebrará una conferencia con los jefes de departamento.",
+      "back": "Head Office won't hold a conference with the heads of department.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "El mes que viene la sede probablemente celebrará una videoconferencia con los jefes de departamento.",
+      "back": "Next month Head Office will probably hold a video-conference with the heads of department.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿El gobierno va a celebrar una rueda de prensa sobre esta cuestión?",
+      "back": "Is the government going to hold a press conference about this issue?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Sí, va a celebrar una rueda de prensa sobre la cuestión con 500 periodistas.",
+      "back": "Yes, it's going to hold a press conference about the issue with 500 journalists.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "No, no va a celebrar una rueda de prensa sobre la cuestión con tantos periodistas.",
+      "back": "No, it's not going to hold a press conference about the issue with so many journalists.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "El G-20 suele celebrar una cumbre una o dos veces al año.",
+      "back": "The G-20 usually holds a summit once or twice a year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "El año que viene el G-20 va a celebrar tres cumbres.",
+      "back": "Next year the G-20 is going to hold three summits.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "El año que viene el G-20 va a celebrar las cumbres dos veces en Washington y una vez en París.",
+      "back": "Next year the G-20 is going to hold a summit twice in Washington and once in Paris.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Cuánta gente cabe en el estadio?",
+      "back": "How many people does the stadium hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Cuántos litros caben en esta jarra?",
+      "back": "How many litres does this jug hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Cuántos libros caben en esta caja?",
+      "back": "How many books does this box hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "En este estadio caben ocho mil doscientas cincuenta personas.",
+      "back": "This stadium holds eight thousand two hundred and fifty people.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "En esta jarra caben doscientos cincuenta mililitros.",
+      "back": "This jug holds two hundred and fifty millilitres.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "En esta caja caben ciento veinte libros.",
+      "back": "This box holds one hundred and twenty books.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Cuánta agua cabe en esta botella?",
+      "back": "How much water does this bottle hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Cuánto peso aguanta esta caja?",
+      "back": "How much weight does this box hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Cuánta memoria tiene tu mp3?",
+      "back": "How much memory does your mp3 player hold?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "En esta botella cabe medio litro de agua.",
+      "back": "This bottle holds half a litre of water.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "La caja aguanta medio kilo.",
+      "back": "The box holds half a kilo.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Mi mp3 tiene una memoria de trescientos cincuenta megabytes.",
+      "back": "My mp3 player holds three hundred and fifty megabytes of memory.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "En este coche no cabe mucha gente.",
+      "back": "This car doesn't hold very many people.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "El ascensor no aguanta mucha gente.",
+      "back": "The lift doesn't hold very many people.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "El ordenador no tiene mucha memoria.",
+      "back": "The computer doesn't hold much memory.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Él tiene su móvil en la mano derecha.",
+      "back": "He's holding his mobile in his right hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "No coges el lápiz con la mano derecha.",
+      "back": "You don't hold your pencil in your right hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Los diestros cogen el boli con la mano derecha.",
+      "back": "Right-handed people hold their pen in their right hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Tengo una taza en la mano izquierda.",
+      "back": "I'm holding a cup with my left hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Los zurdos cogen el boli con la mano izquierda.",
+      "back": "Left-handed people hold their pen with their left hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Él es zurdo, pero sostiene su tazón con la mano derecha.",
+      "back": "He's left-handed but he holds his mug with his right hand.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Los niños pequeños tienen que coger sus tazas con ambas manos.",
+      "back": "Little children have to hold their cups with both hands.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¡Ten cuidado! Coge el vaso con ambas manos.",
+      "back": "Be careful! Hold the glass with both hands.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Asegúrate de tener el tazón cogido con las dos manos.",
+      "back": "Make sure you hold the mug with both hands.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Tus padres van siempre cogidos de la mano.",
+      "back": "Your parents always hold hands.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Mi hijo y mi hija van cogidos de la mano.",
+      "back": "My son and daughter are holding hands.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Qué tierno! Ir cogidos de la mano a su edad…",
+      "back": "It's so sweet! Holding hands at their age.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Mi hijo no me coge la mano en público.",
+      "back": "My son doesn't hold my hand in public.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Asegúrate de que ella te coja de la mano por la calle!",
+      "back": "Make sure she holds your hand in the street!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Él está cogiendo la mano de su hija con su mano derecha y cogiendo la mano de su hijo con su mano izquierda.",
+      "back": "He's holding his daughter's hand with his right hand and he's holding his son's hand with his left hand.",
+      "sourcePage": 13
+    }
+  ]
+}

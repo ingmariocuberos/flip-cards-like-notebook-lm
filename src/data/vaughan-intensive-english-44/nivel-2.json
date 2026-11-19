@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-44",
+  "bookTitle": "Libro 44",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Yo llevaba al bebé en brazos cuando se despertó.",
+      "back": "I was holding the baby when she woke up.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Estaban celebrando una reunión cuando la alarma de incendios sonó.",
+      "back": "They were holding a meeting when the fire alarm went off.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Iban cogidos de la mano cuando les vi.",
+      "back": "They were holding hands when I saw them.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Él no estaba agarrado a la barra cuando se resbaló.",
+      "back": "He wasn't holding onto the rail when he slipped.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "No se celebraban elecciones cuando fui allí.",
+      "back": "They weren't holding elections when I went there.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Yo no sostenía bien el móvil; ¡se cayó al suelo y se rompió!",
+      "back": "I wasn't holding the phone properly; it fell on the floor and broke!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Estabais teniendo una llamada por conferencia ayer a las 17:00?",
+      "back": "Were you holding a conference call yesterday at 17:00?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Llevaban pistolas cuando atracaron la tienda?",
+      "back": "Were they holding guns when they robbed the shop?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Tenía él al bebé en brazos mientras fumaba?",
+      "back": "Was he holding the baby while he was smoking?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Por qué te agarrabas a la barra con tanta fuerza?",
+      "back": "Why were you holding on to the rail so tightly?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Por qué sostenía él al bebé tan alto?",
+      "back": "Why was he holding the baby so high?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Por qué daban una reunión tan temprano por la mañana?",
+      "back": "Why were they holding a meeting so early in the morning?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Por qué no sujetabas la correa?",
+      "back": "Why weren't you holding the leash?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Por qué no cogía ella el volante?",
+      "back": "Why wasn't she holding the steering wheel?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Por qué no llevaban ellos las bebidas en la mano derecha?",
+      "back": "Why weren't they holding their drinks in their right hand?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Guillermo ocupó el cargo de Director General durante mucho tiempo.",
+      "back": "Guillermo held the position of General Manager for a long while.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Ocupó Giuseppe el cargo de Director General durante mucho tiempo?",
+      "back": "Did Giuseppe hold the position of General Manager for a long while?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "No, Giuseppe no ocupó el cargo de Director General durante mucho tiempo.",
+      "back": "No, Giuseppe didn't hold the position of general manager for a long while.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Llevamos desde que se fundó la empresa celebrando ferias comerciales anualmente en el Palacio de Congresos.",
+      "back": "We've held trade fairs in the Congress Palace every year since the company was founded.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Habéis celebrado ferias comerciales todos los años desde que se fundó la empresa?",
+      "back": "Have you held trade fairs every year since the company was founded?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "No, no hemos celebrado ferias todos los años desde que se fundó la empresa.",
+      "back": "No, we haven't held trade fairs every year since the company was founded.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Me mantuve en espera y pasé diez minutos escuchando música enlatada.",
+      "back": "I held the line and spent ten minutes listening to hold music.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Tuviste que mantenerte en espera durante mucho tiempo?",
+      "back": "Did you have to hold the line for a long while?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "No, no tuve que mantenerme en espera durante mucho tiempo.",
+      "back": "No, I didn't have to hold the line for a long while.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Llevo cinco años seguidos ostentando el título de campeón del boxeo.",
+      "back": "I've held the title of boxing champion for five years in a row.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Lleva Andreas mucho tiempo ostentando el título de campeón del boxeo?",
+      "back": "Has Andreas held the title of boxing champion for a long while?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "No, Andreas no lleva mucho tiempo ostentando el título de campeón del boxeo.",
+      "back": "No, Andreas hasn't held the title of boxing champion for a long while.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "El año pasado mantuvimos muchas negociaciones prolongadas con el comité de paz.",
+      "back": "Last year, we held a lot of lengthy negotiations with the Peace Committee.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Mantuvisteis muchas negociaciones prolongadas con el comité de paz el año pasado?",
+      "back": "Did you hold many lengthy negotiations with the Peace Committee last year?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "No, el año pasado no mantuvimos muchas negociaciones prolongadas con el comité de paz.",
+      "back": "No, last year we didn't hold many lengthy negotiations with the Peace Committee.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "El capitán del equipo levantó el trofeo triunfalmente.",
+      "back": "The team captain held the trophy up in triumph.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Los manifestantes levantaron sus pancartas fuera del Parlamento británico.",
+      "back": "The protesters held their banners up outside the Houses of Parliament.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Él levantó su bebida mientras la camarera pasaba un trapo por la mesa.",
+      "back": "He held his drink up while the waitress wiped the table.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Si pones la tela a contraluz es bastante transparente.",
+      "back": "If you hold the cloth up to the light it's quite see-through.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "El empleado de la tienda está poniendo un billete de 50 euros a contraluz para comprobar que no es falso.",
+      "back": "The shop assistant is holding a €50 note up to the light to check it's not fake.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Ella lo puso a contraluz para verlo bien.",
+      "back": "She held it up to the light to see it properly.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¡Venga, corre! ¡Estás retrasando a todo el mundo!",
+      "back": "Come on, quickly! You're holding everyone up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Siento llegar tarde. Me retrasé por el tráfico.",
+      "back": "Sorry I'm late. I was held up in traffic.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Te retrasas frecuentemente en el trabajo?",
+      "back": "Do you often get held up at work?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Están ideando un plan para atracar un banco.",
+      "back": "They're coming up with a plan to hold up a bank.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Él atracó la gasolinera porque necesitaba el dinero.",
+      "back": "He held up the petrol station because he needed the money.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Tres bancos han sido atracados en los últimos quince días.",
+      "back": "Three banks have been held up in the last fortnight.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Esta pared sostiene el techo.",
+      "back": "This wall holds up the roof.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Él siempre usa cinturón para sujetarse los pantalones.",
+      "back": "He always uses a belt to hold his trousers up.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "En la mitología griega, Atlas sostenía el mundo.",
+      "back": "In Greek mythology Atlas held up the world.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Los Juegos Olímpicos de 2008 se celebraron en China.",
+      "back": "The 2008 Olympic Games were held in China.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "La cumbre de 2011 sobre la paz mundial se celebró en Londres.",
+      "back": "The 2011 summit on world peace was held in London.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Los conciertos Live Aid de 1985 se celebraron de forma simultánea en Londres y en Filadelfia.",
+      "back": "The 1985 live aid concerts were held simultaneously in London and in Philadelphia.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "La reunión no se celebró el martes porque el presidente estaba de vacaciones.",
+      "back": "The meeting wasn't held on Tuesday because the chairman was on holiday.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Las elecciones no se celebraron debido a un golpe militar.",
+      "back": "The elections weren't held due to a military coup.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Su fiesta de cumpleaños no se celebró en su casa porque no era suficientemente grande para todos los invitados.",
+      "back": "His birthday party wasn't held at his house because it wasn't big enough for all his guests.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Por qué el concierto se celebró en un estadio al aire libre? Siempre llueve en abril.",
+      "back": "Why was the concert held in an open-air stadium? It always rains in April.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Dónde se celebraron los Juegos Olímpicos de 2008?",
+      "back": "Where were the 2008 Olympic Games held?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "¿Cuándo se celebraron las elecciones?",
+      "back": "When were the elections held?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Por qué el concierto no se celebró en un local más grande?",
+      "back": "Why wasn't the concert held at a bigger venue?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Por qué las elecciones no se celebraron en noviembre según lo planeado?",
+      "back": "Why weren't the elections held in November as planned?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Por qué la reunión no se celebró el martes según lo planeado?",
+      "back": "Why wasn't the meeting held on Tuesday as planned?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "James, ¿dónde se celebraron los Juegos Olímpicos de 2004? Pensaba que era Sídney, pero no estoy seguro.",
+      "back": "James, where were the 2004 Olympic Games held? I thought it was Sydney, but I'm not sure.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Pues no se celebraron en Sídney, porque eso fue en 2000. ¿Se celebraron en Atenas?",
+      "back": "Well they weren't held in Sydney because that was in 2000. Were they held in Athens?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Sí, eso es! Ahora me acuerdo, se celebraron en Atenas. Gracias, James.",
+      "back": "Yes that's it! I remember now, they were held in Athens. Thanks, James.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Los juegos olímpicos de 2012 se llevarán a cabo en Londres.",
+      "back": "The 2012 Olympics will be held in London.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Se llevarán a cabo durante julio y agosto.",
+      "back": "They'll be held through July and August.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Se llevarán a cabo durante un periodo de dos semanas.",
+      "back": "They'll be held over a two-week period.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¿La copa del mundo se celebrará este año?",
+      "back": "Will the world cup be held this year?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Se celebrará en Europa?",
+      "back": "Will it be held in Europe?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Se celebrará en el mismo país que la última vez?",
+      "back": "Will it be held in the same country as last time?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "La conferencia no se llevará a cabo este mes.",
+      "back": "The conference won't be held this month.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "La reunión no se llevará a cabo hasta la semana que viene.",
+      "back": "The meeting won't be held until next week.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "La feria no se llevará a cabo hasta dentro de dos semanas.",
+      "back": "The fair won't be held for another two weeks.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Dónde se celebrará el partido?",
+      "back": "Where will the match be held?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Por qué se celebrará allí?",
+      "back": "Why will it be held there?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Cuándo se celebrará?",
+      "back": "When will it be held?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Por qué no se llevará a cabo la reunión?",
+      "back": "Why won't the meeting be held?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Por qué no se llevará a cabo en la oficina?",
+      "back": "Why won't it be held in the office?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Por qué no se llevará a cabo hasta fin de mes?",
+      "back": "Why won't it be held until the end of the month?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¡Quieto ahí! Tienes que hacer la tarea antes de salir. (Usa «have got to».)",
+      "back": "Hold your horses! You've got to do your homework before you go out.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¡Quieto ahí! Tienes que hacer la tarea antes de salir. (Usa «have to».)",
+      "back": "Hold your horses! You have to do your homework before you go out.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¡Quieto ahí! Necesitas hacer la tarea antes de salir.",
+      "back": "Hold your horses! You need to do your homework before you go out.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Mi compañero de trabajo está de vacaciones, así que me quedo a cargo de la recepción.",
+      "back": "My colleague's on holiday, so I'm holding the fort at reception.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Mi compañero de trabajo no está, así que me quedo a cargo de la tienda.",
+      "back": "My colleague's away, so I'm holding the fort at the shop.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Mi compañero de trabajo acaba de salir un momento, así que me quedo a cargo en el despacho.",
+      "back": "My colleague's just popped out, so I'm holding the fort in the office.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "La tuvieron de rehén en Irán durante un año y medio.",
+      "back": "She was held hostage in Iran for a year and a half.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Le tuvieron de rehén en el Líbano durante cuatro años y medio.",
+      "back": "He was held hostage in Lebanon for four and a half years.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Le tuvieron de rehén en Colombia durante seis años y medio.",
+      "back": "He was held hostage in Colombia for six and a half years.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "El director dice que no será chantajeado por las amenazas de los accionistas.",
+      "back": "The Managing Director says he won't be held to ransom by the shareholders' threats.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "La Primera Ministra dice que no será chantajeada por la opinión pública.",
+      "back": "The Prime Minister says she won't be held to ransom by public opinion.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "El Presidente dice que no será chantajeado por la prensa.",
+      "back": "The President says he won't be held to ransom by the press.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "La motivación es la clave del éxito.",
+      "back": "Motivation holds the key to success.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "El trabajo duro es la clave del éxito.",
+      "back": "Hard work holds the key to success.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "La determinación es la clave del éxito.",
+      "back": "Determination holds the key to success.",
+      "sourcePage": 27
+    }
+  ]
+}
