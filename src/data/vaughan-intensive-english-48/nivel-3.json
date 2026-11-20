@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-48",
+  "bookTitle": "Libro 48",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "No soy capaz de darle la noticia.",
+      "back": "I can't bring myself to break the news to her.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "¿Por qué no te puedes armar de valor para darle la noticia?",
+      "back": "Why can't you bring yourself to break the news to her?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "No soy capaz de darle la noticia porque no paro de pensar en cómo reaccionará.",
+      "back": "I can't bring myself to break the news to her because I keep on thinking how she'll react.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "No me podía armar de valor para despedirla.",
+      "back": "I couldn't bring myself to let her go.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "¿Por qué no fuiste capaz de despedirla?",
+      "back": "Why couldn't you bring yourself to let her go?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "No me pude armar de valor para despedirla porque no paraba de pensar en qué les pasaría a sus hijos.",
+      "back": "I couldn't bring myself to let her go because I kept on thinking of what would happen to her children.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "No fui capaz de cortarle la cabeza a la gallina.",
+      "back": "I couldn't bring myself to cut the chicken's head off.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "¿Por qué no pudiste cortarle la cabeza a la gallina?",
+      "back": "Why couldn't you bring yourself to cut the chicken's head off?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "No pude armarme de valor para cortarle la cabeza a la gallina porque no dejaba de pensar en cuánto le dolería.",
+      "back": "I couldn't bring myself to cut the chicken's head off because I kept on thinking how much it would hurt.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Ella no fue capaz de quitarse la tirita.",
+      "back": "She couldn't bring herself to pull her plaster off.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Por qué no fue capaz de quitarse la tirita?",
+      "back": "Why couldn't she bring herself to pull her plaster off?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "No fue capaz de quitarse la tirita porque no dejaba de pensar en cuánto le dolería.",
+      "back": "She couldn't bring herself to pull her plaster off because she kept on thinking how much it would hurt.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Fred no fue capaz de disculparse ante ella.",
+      "back": "Fred couldn't bring himself to say sorry to her.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "¿Por qué él no fue capaz de disculparse ante ella?",
+      "back": "Why couldn't he bring himself to say sorry to her?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "No pudo disculparse ante ella porque no dejaba de pensar en cómo reaccionaría.",
+      "back": "He couldn't bring himself to say sorry to her because he kept on thinking how she would react.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "La revolución industrial provocó cambios en la sociedad a gran escala.",
+      "back": "The industrial revolution brought about large-scale change in society.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Los movimientos de derechos civiles del siglo XX provocaron cambios a gran escala en la sociedad.",
+      "back": "The civil rights movements in the 20th century brought about large-scale change in society.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Se podría sostener que nada ha provocado tanto cambio a gran escala en la sociedad como el desarrollo de la agricultura.",
+      "back": "It could be argued that nothing has brought about as much large-scale change in society as the development of agriculture.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "El nacimiento del hijo de Jack le ha provocado un cambio en su perspectiva vital que echaba mucho en falta.",
+      "back": "The birth of Jack's son has brought about a much-needed change in his outlook on life.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Todas estas nuevas responsabilidades han provocado un cambio muy necesario en el comportamiento de Tom.",
+      "back": "All these new responsibilities have brought about a much-needed change in Tom's behaviour.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Los acontecimientos recientes han provocado un cambio muy necesario en la actitud de Rhys acerca de su trabajo.",
+      "back": "Recent events have brought about a much-needed change in Rhys' attitude towards his work.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "La última ronda de recortes ha provocado una reacción fuerte por parte de la población.",
+      "back": "The latest round of cuts has brought about a strong reaction on the part of the general population.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "La visita del presidente provocó reacciones inesperadas por parte de los ciudadanos.",
+      "back": "The president's visit brought about some unexpected reactions on the part of the citizens.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "La extraña reacción por parte de los aficionados ante el nuevo fichaje preocupa a la dirección del equipo.",
+      "back": "The strange reaction on the part of the fans brought about by the new signing is troubling the team's management.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "La introducción de una hora de descuentos ha provocado un aumento en el número de clientes los jueves por la tarde.",
+      "back": "The introduction of a happy hour has brought about a rise in the number of punters on Thursday evenings.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Una disminución en la demanda ha provocado un descenso en la producción.",
+      "back": "Decreased demand has brought about a drop in output.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Las temperaturas inusualmente bajas han provocado un descenso del volumen de ventas de helado, pero un aumento de ventas de bufandas.",
+      "back": "The unusually low temperatures have brought about a drop in the volume of ice cream sales but a rise in scarf sales.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Un extraño giro de los acontecimientos provocó finalmente la ruina de la empresa.",
+      "back": "A strange turn of events eventually brought about the downfall of the company.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Al final, su propia arrogancia lo llevó a la ruina.",
+      "back": "His downfall was eventually brought about by his own arrogance.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Las epidemias, los problemas económicos y las pérdidas de las cosechas acabaron por provocar la caída de la dinastía Ming.",
+      "back": "Health epidemics, economic problems and crop failures eventually brought about the downfall of the Ming Dynasty.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Al final, todas esas bromas le hicieron sonreír. (joking)",
+      "back": "All that joking around eventually brought a smile to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Al final, todas esas bromas le hicieron sonreír. (kidding)",
+      "back": "All that kidding around eventually brought a smile to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Al final, todas esas tonterías le hicieron sonreír.",
+      "back": "All that clowning around eventually brought a smile to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Al final, todos esos chistes comunes le hicieron sonreír abiertamente.",
+      "back": "All those running jokes eventually brought a grin to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Al final, todo ese toma y daca le hizo sonreír abiertamente.",
+      "back": "All that back and forth eventually brought a grin to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Al final, todo ese bromear le hizo sonreír abiertamente.",
+      "back": "All that banter eventually brought a grin to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "La idea de vengarse le provocó una sonrisa picarona.",
+      "back": "The idea of getting his own back brought a smirk to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "La idea de ponerles en evidencia ante sus amigos le provocó una sonrisa picarona.",
+      "back": "The idea of showing them up in front of their friends brought a smirk to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "La idea de hacer probar su propia medicina a esos idiotas le provocó una sonrisa picarona.",
+      "back": "The thought of giving those fools a taste of their own medicine brought a smirk to his face.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Al final, todos esos chistes verdes le hicieron enrojecer.",
+      "back": "All those rude jokes eventually brought a blush to his cheeks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Al final, todos esos chistes guarros le hicieron enrojecer.",
+      "back": "All those dirty jokes eventually brought a blush to his cheeks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Al final, todo ese lenguaje obsceno le hizo enrojecer.",
+      "back": "All that foul language eventually brought a blush to his cheeks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Al final, tanto rememorar le hizo llorar.",
+      "back": "All that reminiscing eventually brought a tear to his eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Al final, pensar en todas esas noches geniales de fiesta le hizo llorar.",
+      "back": "The thought of all those awesome nights out on the town eventually brought a tear to his eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Al final, recordar todas las maldades que solían hacer le hizo llorar profundamente.",
+      "back": "Looking back on all the mischief they used to get up to eventually brought tears to his eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Es imprescindible que el gobierno haga bajar la tasa de desempleo.",
+      "back": "It's essential that the government bring down unemployment figures.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Los funcionarios de salud tienen que tomar medidas para hacer bajar la tasa de infección en los hospitales públicos.",
+      "back": "Health officials need to take action in order to bring down infection rates in public hospitals.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Si los supermercados no bajan el precio de los alimentos básicos, a la gente le costará cada vez más dar de comer a sus familias.",
+      "back": "If supermarkets don't bring down the price of staple foods, people will find it harder and harder to feed their families.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Cientos de miles de manifestantes tomaron las calles con el fin de derrocar al gobierno.",
+      "back": "Hundreds of thousands of protestors took to the streets with the aim of bringing down the government.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Los manifestantes en Serbia tomaron las calles para derrocar al dictador Slobodan Milosevic en octubre de 2000.",
+      "back": "Protestors in Serbia took to the streets to bring down the dictator Slobodan Milosevic in October 2000.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Tomar las calles y protestar es una forma pacífica de intentar derrocar regímenes brutales.",
+      "back": "Taking to the streets and protesting is a non-violent way to try and bring down brutal regimes.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Y una vez más, el equipo local derriba a otro jugador tras un duro placaje de rugby.",
+      "back": "And yet again the home team brings down another player after a rough rugby tackle.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Y una vez más el equipo visitante derriba a otro jugador estrella con una falta muy fea.",
+      "back": "And yet again, the away team brings down another star player with a nasty foul.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Y una vez más, el equipo local derriba a un jugador estrella de baloncesto de forma táctica.",
+      "back": "And yet again, the home team brings down a star basketball player using pure tactics.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Menos mal que el caza fue derribado en medio de la nada.",
+      "back": "It's a good thing that the fighter plane was brought down in the middle of nowhere.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "El helicóptero volaba fuera del radar en medio de la nada cuando fue derribado.",
+      "back": "The helicopter was flying off the radar in the middle of nowhere when it was brought down.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "El avión de pasajeros fue derribado por terroristas en medio de la nada.",
+      "back": "The passenger plane was brought down by terrorists in the middle of nowhere.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Si derribas la puerta, ¡se te acusará de allanamiento!",
+      "back": "If you knock down the door, you'll be charged with breaking and entering!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Se le acusó a él de allanamiento después de que le pillaran derribando la puerta.",
+      "back": "He was charged with breaking and entering after he was caught knocking down the door.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Alguien debe de haber derribado la puerta. Hay señales claras de allanamiento.",
+      "back": "Someone must have knocked the door down. There are clear signs of breaking and entering.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Si yo fuera tú, esperaría a que sacaran la versión 2.0 de ese software para instalarlo.",
+      "back": "If I were you, I'd wait until they brought out version 2.0 of that software to install it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "A la hora de comprar un coche, siempre es más barato comprar el modelo del año anterior que el que acaban de sacar.",
+      "back": "When shopping for cars, it's always cheaper to buy the previous year's model than the one they've just brought out.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Te has enterado de que van a sacar algo llamado Agua Seca? ¡No es más que aire embotellado!",
+      "back": "Have you heard they're bringing out something called Dry Water? It's nothing but bottled air!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "John Crisham va a sacar una nueva novela de suspense este otoño. ¡Qué ganas tengo de leerla!",
+      "back": "John Crisham is bringing out a new thriller this fall. I can't wait!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Voy a sacar un álbum con Virgo Records esta primavera. ¡Estate al loro!",
+      "back": "I'm bringing out an album with Virgo Records this spring. Watch out for it!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Mi tía soltera va a sacar una guía matrimonial. Qué irónico, ¿no?",
+      "back": "My unmarried aunt is bringing out a marriage guidance book. How ironic, right?!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "¡Cuando se trata de chocolate no me puedo resistir ni aunque me salgan granos!",
+      "back": "I can't help myself when it comes to chocolate even though it brings me out in spots!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "John ha estado enamorado en secreto de Julia durante años, pero la sola idea de hablar con ella le da sudores fríos.",
+      "back": "John has been secretly in love with Julia for years but the very thought of talking to her brings him out in a cold sweat.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "¡Estoy seguro de que había marisco en esa sopa! Me provocó un sarpullido terrible.",
+      "back": "I'm sure there was seafood in that soup! It brought me out in a terrible rash.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Soy tan insolente e infantil cuando está él... ¡Es como si sacara lo peor de mí!",
+      "back": "I'm so snippy and childish around him. He just seems to bring out the worst in me!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Según como lo mires, la presión saca lo peor o lo mejor de la gente.",
+      "back": "Depending on how you look at it, pressure brings out either the worst or the best in people.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "El debate sacó lo peor de los diputados.",
+      "back": "The debate brought out the worst in the members of congress.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "¡El voluntariado realmente saca lo mejor que tienes dentro!",
+      "back": "Volunteer work really seems to bring out the best in you!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Me caso con él porque saca lo mejor que hay en mí. Me gusto más a mí misma cuando estoy con él.",
+      "back": "I'm marrying him because he brings out the best in me. I like myself more when I'm around him.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "El judo saca de dentro lo mejor que tienen los niños hiperactivos. Les ayuda a controlar su agresividad.",
+      "back": "Judo brings out the best in hyperactive children. It helps them control their aggression.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Nuevas oportunidades han provocado un cambio considerable en las perspectivas que tiene esta generación en la vida.",
+      "back": "New opportunities have brought forth a considerable change in this generation's outlook on life.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "El director del colegio pidió a la clase que se graduaba que provocara el cambio que deseaba ver en el mundo y en sí mismos.",
+      "back": "The headmaster called upon the graduating class to bring forth the change they wished to see in the world and in themselves.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Las declaraciones del ministro provocaron muchísimas críticas.",
+      "back": "The minister's statement brought forth a lot of criticism.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "La conferencia no puede esperar tanto. Vamos a tener que adelantarla.",
+      "back": "The conference can't wait that long. We're going to have to bring it forward.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "La boda se adelantó de fecha por la mala salud de mi abuelita.",
+      "back": "The wedding was brought forward due to my granny's poor health.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Quisiera adelantar la fecha de salida y dejar la vuelta tal cual, por favor.",
+      "back": "I'd like to bring forward the departure date and leave the return as it is, please.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "¿A qué se debe eso?",
+      "back": "What brought that on?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "No sé a qué se debe eso.",
+      "back": "I don't know what brought that on.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Sabes a qué se debe eso?",
+      "back": "Do you know what brought that on?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "¡Nadie te ha dicho que fueras irrespetuoso con tu jefa! Si te ha despedido, ¡tú te lo has buscado!",
+      "back": "Nobody told you to be disrespectful to your boss! If she fired you, you brought it on yourself!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Me temo que nos hemos buscado este problema nosotros mismos al no estar atentos a las señales de advertencia.",
+      "back": "I'm afraid we've brought this problem on ourselves by not being on the lookout for warning signs.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Todo el mundo cree que él está siendo injusto con ella, pero lo cierto es que ella se lo ha buscado.",
+      "back": "Everyone thinks he's being unfair to her, but the truth is she brought it on herself.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Entrenador, ¿por qué no sacas a Jack? ¡Es de lejos el mejor jugador del equipo!",
+      "back": "Coach, why won't you bring on Jack? He's the best player on the team by far!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Sacaron a Sarah de delantera después de que Jenny se lesionara.",
+      "back": "Sarah was brought on as forward after Jenny injured herself.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Entrenador, ¿no crees que ya es hora de que me saques a jugar?",
+      "back": "Coach, don't you think it's time you brought me on to play?",
+      "sourcePage": 41
+    }
+  ]
+}

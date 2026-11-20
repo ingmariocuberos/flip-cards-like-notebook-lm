@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-48",
+  "bookTitle": "Libro 48",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Puedo llevar a un amigo?",
+      "back": "Can I bring a friend?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Puedo llevar a mi hermano conmigo?",
+      "back": "Can I bring my brother with me?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Puedo llevar a mi hermana conmigo a la fiesta?",
+      "back": "Can I bring my sister with me to the party?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Isa quiere saber si puede traer a una amiga con ella.",
+      "back": "Isa wants to know if she can bring a friend with her.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Pablo quiere saber si puede traer a un amigo con él.",
+      "back": "Pablo wants to know if he can bring a friend with him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Mónica quiere saber si puede traer a un amigo con ella a la fiesta.",
+      "back": "Monica wants to know if she can bring a friend with her to the party.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Vienes solo? No, voy a traer a un amigo conmigo.",
+      "back": "Are you coming by yourself? No, I'm bringing a friend with me.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Viene él solo? No, va a traer a una amiga con él.",
+      "back": "Is he coming by himself? No, he's bringing a friend with him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Viene ella sola a la fiesta? No, va a traer a un amigo con ella a la fiesta.",
+      "back": "Is she coming to the party by herself? No, she's bringing a friend with her to the party.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Venís solos? No, vamos a traer a unos amigos con nosotros.",
+      "back": "Are you coming by yourselves? No, we're bringing some friends with us.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Vienen ellos solos? No, van a traer a unos amigos con ellos.",
+      "back": "Are they coming by themselves? No, they're bringing some friends with them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Vienen ellas solas a la fiesta? No, van a traer a unas amigas con ellas a la fiesta.",
+      "back": "Are they coming to the party by themselves? No, they're bringing some friends with them to the party.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Espero que ella no lleve a nadie con ella.",
+      "back": "I hope she doesn't bring anyone with her.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Espero que él no lleve a nadie con él.",
+      "back": "I hope he doesn't bring anyone with him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Espero que ellos no lleven a nadie con ellos.",
+      "back": "I hope they don't bring anyone with them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Trae el pasaporte contigo.",
+      "back": "Bring your passport with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Trae los documentos contigo.",
+      "back": "Bring your documents with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Trae el carné de conducir contigo.",
+      "back": "Bring your driving license with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No olvides traer las llaves.",
+      "back": "Don't forget to bring your keys.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "No olvides traer la cartera.",
+      "back": "Don't forget to bring your wallet.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No olvides traer el cargador del móvil.",
+      "back": "Don't forget to bring your mobile charger.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Acuérdate de traer tu bañador contigo.",
+      "back": "Remember to bring your swimming costume with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Acuérdate de traer protección solar contigo.",
+      "back": "Remember to bring sun cream with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Acuérdate de traer una toalla contigo.",
+      "back": "Remember to bring a towel with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Asegúrate de traer contigo un par de chanclas de sobra.",
+      "back": "Make sure you bring a spare pair of flip-flops with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Asegúrate de traer contigo un par de calcetines de sobra.",
+      "back": "Make sure you bring a spare pair of socks with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Asegúrate de traer contigo un par de pantalones de sobra.",
+      "back": "Make sure you bring a spare pair of trousers with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Hagas lo que hagas, asegúrate de traer contigo un par de chanclas de sobra.",
+      "back": "Whatever you do, make sure you bring a spare pair of flip-flops with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Hagas lo que hagas, no te olvides de traer el pasaporte contigo.",
+      "back": "Whatever you do, don't forget to bring your passport with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Hagas lo que hagas, acuérdate de traer protección solar contigo.",
+      "back": "Whatever you do, remember to bring sun cream with you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Les contaremos más noticias después de la publicidad. (more)",
+      "back": "We'll bring you more news after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Les contaremos más noticias después de la publicidad. (further)",
+      "back": "We'll bring you further news after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Les pondremos al día después de la publicidad.",
+      "back": "We'll bring you an update after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Les contaremos más sobre esta historia después de la publicidad.",
+      "back": "We'll bring you more on this story after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Les daremos más noticias sobre esta historia después de la publicidad.",
+      "back": "We'll bring you further news on this story after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Les pondremos al día sobre esta historia después de la publicidad.",
+      "back": "We'll bring you an update on this story after the break.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Les contaremos más sobre esta historia después de los deportes.",
+      "back": "We'll bring you more on this story after the sport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Les daremos más noticias después de los deportes.",
+      "back": "We'll bring you further news after the sport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Les pondremos al día sobre esta historia después de los deportes.",
+      "back": "We'll bring you an update on this story after the sport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Más sobre esto después de los deportes.",
+      "back": "More on this after the sport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Más noticias después de los deportes.",
+      "back": "More news after the sport.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Más deportes después de las noticias.",
+      "back": "More sport after the news.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Les contaremos más sobre esta historia después de la pausa. ¡No se vayan!",
+      "back": "We'll bring you more on this story after the break. Don't go away!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Más noticias después de la pausa. ¡No se vayan!",
+      "back": "More news after the break. Don't go away!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Les pondremos al día después de la pausa. ¡No se vayan!",
+      "back": "We'll bring you an update after the break. Don't go away!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Siempre llevo sándwiches al trabajo.",
+      "back": "I always take sandwiches to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "A veces llevo mi portátil al trabajo.",
+      "back": "I sometimes take my laptop to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Cuando llevo mi portátil al trabajo, siempre llevo mi cargador.",
+      "back": "When I take my laptop to work, I always take my charger.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Siempre traigo sándwiches al trabajo.",
+      "back": "I always bring sandwiches to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "A veces traigo mi portátil conmigo.",
+      "back": "I sometimes bring my laptop with me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Cuando traigo mi portátil al trabajo, siempre traigo mi cargador.",
+      "back": "When I bring my laptop to work, I always bring my charger.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Llevemos nuestros cepillos de dientes con nosotros, por si acaso.",
+      "back": "Let's take our toothbrushes with us, just in case.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Llevemos un bolígrafo y papel con nosotros, por si acaso.",
+      "back": "Let's take a pen and some paper with us, just in case.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Llevemos unos sándwiches con nosotros, por si las moscas.",
+      "back": "Let's take some sandwiches with us, just in case.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Llevamos nuestros cepillos de dientes con nosotros, por si acaso?",
+      "back": "Shall we take our toothbrushes with us, just in case?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Llevo un bolígrafo y papel conmigo, por si acaso?",
+      "back": "Shall I take a pen and some paper with me, just in case?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Llevo unos sándwiches conmigo, por si acaso?",
+      "back": "Shall I take some sandwiches with me, just in case?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Tráemelo y se lo llevaré a él.",
+      "back": "Bring it to me and I'll take it to him.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "No lo lleves allí; tráelo aquí.",
+      "back": "Don't take it over there; bring it here!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Tráelo a nuestra oficina; no lo lleves a su oficina de ellos.",
+      "back": "Bring it to our office; don't take it to their office.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Me puedes traer un té?",
+      "back": "Can you bring me a cuppa?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Me puedes traer un café?",
+      "back": "Can you bring me a coffee?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Me puedes traer un vaso de agua, por favor?",
+      "back": "Can you bring me a glass of water, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Me puedes traer algo de beber?",
+      "back": "Can you bring me something to drink?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Me puedes traer algo de comer?",
+      "back": "Can you bring me something to eat?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Me puedes traer algo de leer?",
+      "back": "Can you bring me something to read?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Me puedes traer mis gafas? No veo nada de nada. (specs)",
+      "back": "Can you bring me my specs? I can't see a thing.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Me puedes traer mis gafas? No veo nada de nada. (glasses)",
+      "back": "Can you bring me my glasses? I can't see a thing.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Me puedes traer mis gafas de sol? No veo nada de nada.",
+      "back": "Can you bring me my shades? I can't see a thing.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Me puedes traer mi libro del salón?",
+      "back": "Can you bring me my book from the living room?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Me puedes traer un té de la cocina?",
+      "back": "Can you bring me a cuppa from the kitchen?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Me puedes traer el cortaúñas del cuarto de baño?",
+      "back": "Can you bring me the nail clippers from the bathroom?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Te traeré tus cosas, si quieres.",
+      "back": "I'll bring you your stuff, if you like.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Te traeré tu cortaúñas, si quieres.",
+      "back": "I'll bring you your nail clippers, if you like.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Te traeré tu portátil, si quieres.",
+      "back": "I'll bring you your laptop, if you like.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Voy a ir a por mis gafas de sol.",
+      "back": "I'm just going to go and fetch my shades.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Voy a ir a por mis cosas de la habitación.",
+      "back": "I'm just going to go and fetch my things from the bedroom.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Voy a ir a por mi cortaúñas del cuarto de baño.",
+      "back": "I'm just going to go and fetch my nail clippers from the bathroom.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Cógelo, ¿quieres?",
+      "back": "Go and fetch it, will you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Me lo coges?",
+      "back": "Go and fetch it for me, will you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Me los coges?",
+      "back": "Go and fetch them for me, will you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Me cogerías mis cosas, por favor?",
+      "back": "Can you fetch me my stuff, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Me cogerías mis gafas de sol del vestíbulo, por favor?",
+      "back": "Can you fetch me my shades from the hall, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Me cogerías agua, por favor?",
+      "back": "Can you fetch me some water, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Tengo que ir a buscar a mi hijo a la estación mañana.",
+      "back": "I have to fetch my son from the station tomorrow.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Mi madre viene a recogernos.",
+      "back": "My mum's coming to fetch us.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Nos recoge a las cinco.",
+      "back": "She'll fetch us at five o'clock.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Quieres que te vaya a buscar al aeropuerto?",
+      "back": "Do you want me to fetch you from the airport?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Entonces quieres que te recoja en la estación?",
+      "back": "Do you want me to fetch you from the station then?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿A qué hora quieres que te recoja?",
+      "back": "What time do you want me to fetch you?",
+      "sourcePage": 13
+    }
+  ]
+}

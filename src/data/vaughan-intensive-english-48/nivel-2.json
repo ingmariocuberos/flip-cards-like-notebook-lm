@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-48",
+  "bookTitle": "Libro 48",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Te he traído unas chuches.",
+      "back": "I've brought you some sweets.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Te he traído unos pasteles.",
+      "back": "I've brought you some cakes.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Te he traído unas uvas.",
+      "back": "I've brought you some grapes.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "¡Mira esas chuches que nos ha regalado Brian! ¡Qué bonito!",
+      "back": "Look at those sweets Brian's brought! Isn't that lovely?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "¡Mira estas flores que nos ha regalado Harriet! ¡Qué bonitas son!",
+      "back": "Look at these flowers Harriet's brought, aren't they lovely?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Mira los pasteles que nos ha regalado Elizabeth. ¡Qué bonito!",
+      "back": "Look at those cakes Elizabeth's brought, isn't that lovely?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¡Mira lo que ha traído Brian!",
+      "back": "Look what Brian's brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "¡Ven a echar un vistazo a lo que ha traído Susan!",
+      "back": "Come and have a look at what Susan's brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¡Echa un vistazo a lo que ha traído Ivy!",
+      "back": "Check out what Ivy's brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¡No te puedes imaginar lo que ha traído Helen!",
+      "back": "You'll never guess what Helen's brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "¡No te puedes imaginar lo que he traído!",
+      "back": "You'll never guess what I've brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¡No te puedes imaginar lo que hemos traído!",
+      "back": "You'll never guess what we've brought!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "No puedo creer que Henry no le haya regalado nada a Sally. ¡Es su cumpleaños!",
+      "back": "I can't believe Henry hasn't brought anything for Sally. It's her birthday!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "No puedo creer que Jessica no haya traído vino a la fiesta.",
+      "back": "I can't believe Jessica hasn't brought any wine to the party.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "No puedo creer que Michael no haya traído a su novia a la fiesta de cumpleaños de Sally. Todavía no la hemos conocido.",
+      "back": "I can't believe Michael hasn't brought his girlfriend to Sally's birthday party. We still haven't met her yet.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Tú te criaste en Galicia, en el noroeste de España.",
+      "back": "You were brought up in Galicia in the northwest of Spain.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Nosotros nos criamos en Blackpool, en el noroeste de Inglaterra.",
+      "back": "We were brought up in Blackpool in the northwest of England.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Ellos se criaron en Brest, en el noroeste de Francia.",
+      "back": "They were brought up in Brest in the northwest of France.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Ella se crió en un barrio de clase alta en Girona, en el noreste de España.",
+      "back": "She was brought up in an upper-class neighbourhood in Girona in the northeast of Spain.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Él se crió en un barrio de clase trabajadora en Hull, en el noreste de Inglaterra.",
+      "back": "He was brought up in a working-class neighbourhood in Hull in the northeast of England.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Ellos se criaron en un barrio de clase media en Reims, en el noreste de Francia.",
+      "back": "They were brought up in a middle-class neighbourhood in Reims in the northeast of France.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Me crié en Cádiz, en el suroeste de España, en los años cincuenta.",
+      "back": "I was brought up in Cádiz in the southwest of Spain in the fifties.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Se crió ella en Exeter, en el suroeste de Inglaterra, en los años setenta?",
+      "back": "Was she brought up in Exeter in the southwest of England in the seventies?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Se criaron ellos en Toulouse, en el suroeste de Francia, en los años noventa?",
+      "back": "Were they brought up in Toulouse in the southwest of France in the nineties?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Él se crió en un barrio de clase alta en el sureste en los años cincuenta.",
+      "back": "He was brought up in an upper-class neighbourhood in the southeast in the fifties.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Ella se crió en un barrio de clase trabajadora en el sureste en los setenta.",
+      "back": "She was brought up in a working-class neighbourhood in the southeast in the seventies.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Ellos se criaron en un barrio de clase media en el sureste en los años noventa.",
+      "back": "They were brought up in a middle-class neighbourhood in the southeast in the nineties.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Él se crió en la costa sureste.",
+      "back": "He was brought up on the southeast coast.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Ella se crió en la costa noroeste?",
+      "back": "Was she brought up on the northwest coast?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Este escritor se crió en un barrio de clase media en la costa suroeste de Irlanda en los años ochenta.",
+      "back": "This writer was brought up in a middle-class neighbourhood on the southwest coast of Ireland in the eighties.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Quieres que yo lleve algo a la barbacoa?",
+      "back": "Do you want me to bring anything to the barbecue?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "No, no necesito que traigas nada a la barbacoa. ¡Ven y ya está!",
+      "back": "No, I don't need you to bring anything to the barbecue. Just bring yourself!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Sí, necesito que traigas unos filetes a la barbacoa.",
+      "back": "Yes, I need you to bring some steaks to the barbecue.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Les pedí que me trajeran postre, pero en vez de eso me trajeron un chupito de brandy.",
+      "back": "I asked them to bring me a dessert, but they brought me a shot of brandy instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Les pedí que me trajeran postre, pero en vez de eso me trajeron la cuenta.",
+      "back": "I asked them to bring me a dessert, but they brought me the bill instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Les pedí que me trajeran un postre, pero en vez de eso me trajeron un café con leche.",
+      "back": "I asked them to bring me a dessert, but they brought me a white coffee instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Les dije que me trajeran un postre, pero en vez de eso me trajeron un chupito de guisqui.",
+      "back": "I told them to bring me a dessert, but they brought me a shot of whiskey instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Les dije que me trajeran un postre, pero en vez de eso me trajeron una copa de champán.",
+      "back": "I told them to bring me a dessert, but they brought me a glass of champagne instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Les dije que me trajeran un postre, pero en vez de eso me trajeron la cuenta.",
+      "back": "I told them to bring me a dessert, but they brought me the bill instead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "No les dije que trajeran nada, pero trajeron vino de todas formas.",
+      "back": "I didn't tell them to bring anything, but they brought some wine anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "No les dije que trajeran nada, pero trajeron unos filetes de todas formas.",
+      "back": "I didn't tell them to bring anything, but they brought some steaks anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "No les dije que trajeran nada, pero trajeron champán de todas formas.",
+      "back": "I didn't tell them to bring anything, but they brought some champagne anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Les dije que no trajeran nada, pero trajeron vino de todas formas.",
+      "back": "I told them not to bring anything, but they brought some wine anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Les dije que no trajeran nada, pero trajeron unos filetes de todas formas.",
+      "back": "I told them not to bring anything, but they brought some steaks anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Les dije que no trajeran nada, pero trajeron champán de todas formas.",
+      "back": "I told them not to bring anything, but they brought some champagne anyway.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Puedes devolverme esos CD que te presté?",
+      "back": "Can you bring back those CDs I lent you?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Claro que sí. Te los devolveré mañana.",
+      "back": "Yeah, definitely. I'll bring them back tomorrow.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Devuélvemelos cuanto antes porque mi otro amigo quiere que se los preste.",
+      "back": "Bring them back ASAP because my other friend wants to borrow them.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Qué le traigo a mi madre de Aruba?",
+      "back": "What should I bring my mother back from Aruba?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Debes traerle una botella de ron bueno.",
+      "back": "You should bring her back a nice bottle of rum.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Le traje a mi madre una botella de ron bueno de Aruba.",
+      "back": "I brought my mother back a nice bottle of rum from Aruba.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Esta canción no te trae recuerdos de nuestros días universitarios?",
+      "back": "Doesn't this song bring back memories of our college days?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Sí, esta canción me trae recuerdos de los buenos viejos tiempos.",
+      "back": "Yeah, this song brings back memories of the good old days.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Esta canción me trae recuerdos de aquella vez que hicimos un picnic en el parque.",
+      "back": "This song brings back memories of that time we had a picnic in the park.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Pensé que se había desmayado. ¿Cómo la resucitaron?",
+      "back": "I thought she had fainted. How did they bring her back to life?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "La resucitaron con la respiración boca a boca.",
+      "back": "They brought her back to life through mouth-to-mouth resuscitation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Antiguamente solían resucitar a la gente echándoles agua en la cara.",
+      "back": "In the old days they used to bring people back to life by pouring water on their face.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Qué asqueroso! Él devolvió el desayuno por toda la mesa de la cocina.",
+      "back": "That's so gross! He brought up his breakfast all over the kitchen table.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Qué repugnante! Él devolvió el almuerzo por todo el suelo.",
+      "back": "That's so nasty! He brought up his lunch all over the floor.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Eso realmente me revuelve el estómago! Ella devolvió la cena encima de él.",
+      "back": "That really turns my stomach! She brought up her dinner all over him.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Me gustaría mencionar un asunto sobre ese punto en el orden del día.",
+      "back": "I'd like to bring up a point about that item on the agenda.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Alguien ha sacado el asunto sobre ese punto en el orden del día?",
+      "back": "Has anyone brought up the issue about that item on the agenda?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Por qué sacaste ese asunto sobre ese punto en el orden del día?",
+      "back": "Why did you bring up that issue about that item on the agenda?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Eso me lleva a mi siguiente punto: los objetivos de ventas de este año.",
+      "back": "That brings me to my next point: this year's sales objectives.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Esto nos lleva al tema de la cantidad de trabajo de nuestros comerciales.",
+      "back": "This brings us to the subject of the workload of our salespeople.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Esto me lleva a la razón por la que esta empresa debería contratar a más comerciales.",
+      "back": "This brings me to why this company should hire more salespeople.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Tenemos que captar más clientes.",
+      "back": "We need to bring in more customers.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "La última campaña que dirigimos captó más clientes.",
+      "back": "The last campaign that we ran brought in more customers.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Cuántos clientes captamos en la última campaña que dirigimos?",
+      "back": "How many customers did we bring in in the last campaign that we ran?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Necesitamos bajar los costes de producción.",
+      "back": "We need to bring down production costs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Cómo conseguimos bajar los costes de producción el año pasado?",
+      "back": "How did we manage to bring down production costs last year?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "En realidad, no conseguimos bajar los costes el año pasado.",
+      "back": "Actually, we didn't manage to bring them down last year.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Llevamos a cabo el trato.",
+      "back": "We brought off the deal.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "¡Genial! ¿Cómo conseguisteis llevarlo a cabo?",
+      "back": "Great! How did you manage to bring it off?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Conseguimos llevarlo a cabo porque mencioné el hecho de que captaremos más clientes y reduciremos los costes.",
+      "back": "We managed to bring it off because I brought up the fact that we'll bring in more customers and bring down the costs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Los padres de Katie están muy preocupados por que el viaje no le traiga más que problemas.",
+      "back": "Katie's parents are worried that the trip will bring nothing but trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Están preocupados por el hecho de que viajar sola no le traiga a Katie más que problemas.",
+      "back": "They are concerned that travelling alone will bring Katie nothing but trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Tienen miedo de que tomarse un año sabático en el extranjero no le traiga más que problemas.",
+      "back": "They are scared that taking a gap year abroad will bring her nothing but trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Los padres de Katie le han advertido de todos los peligros de ir al extranjero para hacerle ver su punto de vista.",
+      "back": "Katie's parents have warned her of all the dangers of going abroad to bring her round to their way of thinking.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Han enumerado todos los peligros de tomarse un año sabático en el extranjero para hacerle ver su punto de vista.",
+      "back": "They've listed all the dangers of taking a gap year abroad to bring her round to their way of thinking.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Han resumido todos los peligros de ir de viaje sola para hacerle ver su punto de vista.",
+      "back": "They've outlined all the dangers of going travelling alone to bring her round to their way of thinking.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "«¿Qué te trae por aquí?», le preguntó Mark a Katie.",
+      "back": "“What brings you here?”, Mark asked Katie.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Mark le preguntó a ella qué la había traído por allá.",
+      "back": "Mark asked her what had brought her there.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Katie preguntó a Mark qué le había traído a la India.",
+      "back": "Katie asked Mark what had brought him to India.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¡Mark es tan aburrido! Siempre lleva la conversación a su terreno.",
+      "back": "Mark's so dull! He always brings the conversation round to himself.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "¡Él es tan aburrido! Siempre lleva la conversación a su trabajo de voluntario.",
+      "back": "He's so boring! He always brings the conversation round to his volunteering work.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "¡Él es un pesado! Siempre lleva la conversación a sus viajes.",
+      "back": "He's such a bore! He always brings the conversation round to his travels.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Trabajar como voluntaria en un orfanato le ha dejado claro lo afortunada que es.",
+      "back": "Volunteering in an orphanage has brought home how lucky she is.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Trabajar como voluntaria con niños desfavorecidos le ha dejado claro lo afortunada que es.",
+      "back": "Volunteering with underprivileged children has brought home how fortunate she is.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Trabajar como voluntaria en los barrios marginales de Calcuta le ha dejado claro lo privilegiada que es.",
+      "back": "Volunteering in the slums of Calcutta has brought home how privileged she is.",
+      "sourcePage": 27
+    }
+  ]
+}
