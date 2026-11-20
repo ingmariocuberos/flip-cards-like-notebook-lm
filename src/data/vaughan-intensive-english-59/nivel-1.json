@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-59",
+  "bookTitle": "Libro 59",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Normalmente voy al supermercado en coche.",
+      "back": "I usually drive to the supermarket.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Normalmente voy a la estación en coche.",
+      "back": "I normally drive to the station.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "A menudo voy al aeropuerto en coche.",
+      "back": "I often drive to the airport.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Max casi nunca va a la universidad en coche.",
+      "back": "Max hardly ever drives to college.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Mi hijo raramente va a la universidad en coche.",
+      "back": "My son rarely drives to uni.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Bart nunca va al trabajo en coche.",
+      "back": "Bart never drives to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Voy a casa en coche casi todos los días.",
+      "back": "I drive home nearly every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Joe va a casa en coche una o dos veces por semana.",
+      "back": "Joe drives home once or twice a week.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Mi amigo va del trabajo a casa en coche tres veces por semana.",
+      "back": "My friend drives home from work three times a week.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Siempre me pierdo cuando voy en coche a algún sitio nuevo.",
+      "back": "I always get lost when I drive somewhere new.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¡No pienso ir a ninguna parte en coche con este tiempo!",
+      "back": "I'm not driving anywhere in this weather!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¡Tú no vas a conducir a ninguna parte en ese estado!",
+      "back": "You're driving nowhere in that state.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "No voy al trabajo en coche porque no sé conducir.",
+      "back": "I don't drive to work because I can't drive.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Rebecca no va del trabajo a casa en coche porque no sabe conducir.",
+      "back": "Rebecca doesn't drive home from work because she can't drive.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Thomas no va en coche a ninguna parte porque no sabe conducir.",
+      "back": "Thomas doesn't drive anywhere because he can't drive.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Llevo a May a la parada del autobús en coche todas las mañanas.",
+      "back": "I drive May to the bus stop every morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Le llevo a él a la estación en coche casi todas las mañanas.",
+      "back": "I drive him to the station almost every morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Llevo a mi madre a las tiendas en coche casi todas las tardes.",
+      "back": "I drive my mum to the shops almost every afternoon.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Mi amigo me lleva al trabajo en coche unas cuantas veces al mes.",
+      "back": "My friend drives me to work a few times a month.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Anne les lleva a ellos a la escuela en coche un par de veces a la semana.",
+      "back": "Anne drives them to school a couple of times a week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Mi marido lleva a nuestra hija a la universidad en coche de vez en cuando.",
+      "back": "My husband drives our daughter to college every now and then.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Llevo a mi amigo a casa en coche de vez en cuando.",
+      "back": "I drive my friend home every now and then.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "James lleva a Kate a casa desde el aeropuerto algunas veces al mes.",
+      "back": "James drives Kate home from the airport a few times a month.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Mi padre lleva a mi madre a casa desde el trabajo un par de veces a la semana.",
+      "back": "My dad drives my mum home from work a couple of times a week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Puedes llevarme a casa en coche, por favor?",
+      "back": "Can you drive me home, please?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Puedes llevarme en coche al aeropuerto mañana, por favor?",
+      "back": "Can you drive me to the airport tomorrow, please?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Puedes llevarme de la escuela a casa en coche, por favor?",
+      "back": "Can you drive me home from school, please?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Quieres que te lleve en coche a las tiendas?",
+      "back": "Do you want me to drive you to the shops?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Quieres que te lleve de las tiendas a casa en coche?",
+      "back": "Do you want me to drive you home from the shops?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Quieres que mi padre te lleve en coche a las tiendas?",
+      "back": "Do you want my dad to drive you to the shops?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Lucía pasa por nuestra casa en coche todas las mañanas.",
+      "back": "Lucy drives past our house every morning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Pasa Andrew por vuestra casa en coche todas las mañanas?",
+      "back": "Does Andrew drive past your house every morning?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Va a pasar en coche en cualquier momento.",
+      "back": "He's going to drive past any moment.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Recorramos la Costa Oeste en coche.",
+      "back": "Let's drive along the West Coast.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Recorramos la Costa de Amalfi en coche.",
+      "back": "Let's drive along the Amalfi Coast.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Recorramos la Costa Azul en coche.",
+      "back": "Let's drive along the French Riviera.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Vamos a preguntar cómo se va. No quiero pasar horas dando vueltas con el coche.",
+      "back": "Let's ask for directions. I don't want to spend hours driving around.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "No quiero pasar horas dando vueltas buscando un supermercado.",
+      "back": "I don't want to spend hours driving around looking for a supermarket.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "En las Fallas, odio dar vueltas con el coche buscando un sitio donde aparcar.",
+      "back": "During Las Fallas, I hate driving around looking for a parking space.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Este verano, pienso cruzar Estados Unidos en coche.",
+      "back": "This summer I plan to drive across the United States.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Este otoño, pienso cruzar Europa en coche.",
+      "back": "This autumn I plan to drive across Europe.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "El año que viene, pienso cruzar Escandinavia en coche.",
+      "back": "Next year, I plan to drive across Scandinavia.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "No podemos volver esta noche en coche porque están rotos los faros delanteros.",
+      "back": "We can't drive back tonight because the headlights are broken.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "No puedo volver en coche esta noche porque estoy demasiado cansado.",
+      "back": "I can't drive back tonight because I'm too tired.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella no puede volver en coche esta noche porque no se encuentra bien.",
+      "back": "She can't drive back tonight because she doesn't feel well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Es un viaje en coche corto!",
+      "back": "It's a short drive!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Es un viaje corto de Glasgow a Edimburgo.",
+      "back": "It's a short drive from Glasgow to Edinburgh.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "De Glasgow a Edimburgo es un viaje corto.",
+      "back": "Glasgow to Edinburgh is a short drive.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Es un viaje en coche tan largo!",
+      "back": "It's such a long drive!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Es un viaje tan largo de Londres a Edimburgo!",
+      "back": "It's such a long drive from London to Edinburgh.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "De Londres a Edimburgo es un viaje tan largo.",
+      "back": "London to Edinburgh is such a long drive.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "Él tiene un viaje de dos horas al trabajo.",
+      "back": "He has a two-hour drive to work.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Ella tiene un viaje de una hora al trabajo.",
+      "back": "She has a one-hour drive to work.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "¡Él tiene un viaje de tres horas al trabajo!",
+      "back": "He has a three-hour drive to work!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Es un viaje de media hora a casa.",
+      "back": "It's a half-hour drive home.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella tiene un viaje de media hora a casa.",
+      "back": "She has a half-hour drive home.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Es un viaje de media hora del trabajo a casa.",
+      "back": "It's a half-hour drive from work home.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Demos una vuelta en coche!",
+      "back": "Let's go for a drive!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Damos una vuelta larga o corta en coche?",
+      "back": "Shall we go for a long drive or a short drive?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Demos una vuelta en coche de media hora.",
+      "back": "Let's go for a half-hour drive.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Sabes conducir?",
+      "back": "Do you know how to drive?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "No, no sé conducir.",
+      "back": "No, I don't know how to drive.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "¡Entonces deberías aprender a conducir!",
+      "back": "Then you should learn how to drive!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Sabes cambiar de marchas?",
+      "back": "Do you know how to change gears?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "No, no sé cambiar de marchas.",
+      "back": "No, I don't know how to change gears.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Es fácil, para cambiar de marchas sólo tienes que poner el pie en el embrague y mover la palanca de cambios.",
+      "back": "It's easy, to change gears you just have to put your foot on the clutch and move the gear stick.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Sabes aparcar?",
+      "back": "Do you know how to park?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "No, no sé aparcar.",
+      "back": "No, I don't know how to park.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Es fácil. Para aparcar sólo tienes que poner la palanca de cambios en punto muerto y levantar el freno de mano.",
+      "back": "It's easy. To park you just put the gear stick in neutral and lift the handbrake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Cómo se da marcha atrás?",
+      "back": "How do you reverse?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Se da marcha atrás poniendo el pie en el embrague y seleccionando la marcha atrás.",
+      "back": "You reverse by putting your foot on the clutch and selecting reverse gear.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Todavía no sé dar marcha atrás!",
+      "back": "I still don't know how to reverse!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Cómo se adelanta?",
+      "back": "How do you overtake?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Se adelanta cambiando al carril de adelantamiento y pasando al coche que hay a tu lado.",
+      "back": "You overtake by changing to the fast lane and going past the car beside you.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "No creo que todavía esté listo para adelantar.",
+      "back": "I don't think I'm ready to overtake yet!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Necesitan conducir durante largas horas los camioneros?",
+      "back": "Do truck drivers need to drive long hours?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Saben conducir durante largas horas los camioneros?",
+      "back": "Do truck drivers know how to drive long hours?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Les gusta conducir durante largas horas a los camioneros?",
+      "back": "Do truck drivers like to drive long hours?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Se acuerda el conductor del autobús de todas las paradas de su ruta?",
+      "back": "Does the bus driver remember all the stops on his route?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "No, el conductor del autobús se olvida de algunas de las paradas de su ruta.",
+      "back": "No, the bus driver forgets some of the stops on his route.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Le recordaré al conductor del autobús las paradas de la ruta.",
+      "back": "I'll remind the bus driver of the stops on the route.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Mi tío Roy trabaja de taxista. Conduce un taxi amarillo.",
+      "back": "My uncle Roy works as a taxi driver. He drives a yellow cab.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Mi primo Bob trabaja de taxista. Conduce un taxi negro.",
+      "back": "My cousin Bob works as a taxi driver. He drives a black cab.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Mi sobrino Steve trabaja de taxista. Conduce un taxi con cuadros.",
+      "back": "My nephew Steve works as a taxi driver. He drives a checkered cab.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Puede conducir un piloto de carreras por encima del límite de velocidad?",
+      "back": "Can a rally driver drive over the speed limit?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Debería conducir con seguridad un piloto de carreras?",
+      "back": "Should a rally driver drive safely?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Debe conducir rápido un piloto de carreras para ganar la carrera?",
+      "back": "Must a rally driver drive fast to win the race?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Tu tío trabaja de conductor? Sí, conduce un monovolumen.",
+      "back": "Is your uncle a driver? Yes, he drives a minivan.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Tu primo trabaja de conductor? Sí, conduce una limusina.",
+      "back": "Is your cousin a driver? Yes, he drives a limousine.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Tu sobrino trabaja de conductor? Sí, pero no tiene su propio coche.",
+      "back": "Is your nephew a driver? Yes, but he doesn't have his own car.",
+      "sourcePage": 12
+    }
+  ]
+}

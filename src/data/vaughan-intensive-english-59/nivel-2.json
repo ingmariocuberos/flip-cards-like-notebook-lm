@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-59",
+  "bookTitle": "Libro 59",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Volví en coche tarde anoche.",
+      "back": "I drove back late last night.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Ella volvió en coche tarde anoche.",
+      "back": "She drove back late last night.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Ella le llevó a él de regreso en coche tarde anoche.",
+      "back": "She drove him back late last night.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Volvimos a casa en coche temprano por la tarde-noche.",
+      "back": "We drove home in the early evening.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Volvieron a casa en coche temprano por la tarde-noche.",
+      "back": "They drove home in the early evening.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Llevé en coche a mi marido a casa temprano por la tarde-noche.",
+      "back": "I drove my husband home in the early evening.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Fueron allí en coche más o menos a media tarde.",
+      "back": "They drove there mid-afternoonish.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Fuimos allí en coche más o menos a media tarde.",
+      "back": "We drove there mid-afternoonish.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "La llevamos allí en coche más o menos a media tarde.",
+      "back": "We drove her there mid-afternoonish.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Él fue a la oficina en coche a primera hora de la mañana.",
+      "back": "He drove to the office first thing in the morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Fui a la oficina en coche a primera hora de la mañana.",
+      "back": "I drove to the office first thing in the morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "Ella llevó en coche a sus compañeros a la oficina a primera hora de la mañana.",
+      "back": "She drove her colleagues to the office first thing in the morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Conduje durante mucho tiempo hasta que encontré una gasolinera.",
+      "back": "I drove and drove and drove until I found a petrol station.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Ella condujo durante mucho tiempo hasta que encontró una estación de servicio.",
+      "back": "She drove and drove and drove until she found a service station.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Él condujo durante mucho tiempo hasta que encontró un pueblo.",
+      "back": "He drove and drove and drove until he found a village.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Alguna vez has conducido un Ford Escort?",
+      "back": "Have you ever driven a Ford Escort?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Alguna vez has conducido un BMW?",
+      "back": "Have you ever driven a BMW?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Alguna vez has conducido una limusina?",
+      "back": "Have you ever driven a limousine?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Alguna vez has hecho todo el camino a Manchester conduciendo tú?",
+      "back": "Have you ever driven all the way to Manchester?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Alguna vez has hecho todo el camino de ida y vuelta a Liverpool conduciendo tú?",
+      "back": "Have you ever driven all the way to Liverpool and back?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Alguna vez has hecho todo el camino a Glasgow conduciendo sin parar?",
+      "back": "Have you ever driven all the way to Glasgow without stopping?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Nunca he hecho todo el camino hasta llegar a Manchester conduciendo yo.",
+      "back": "I've never driven all the way to Manchester.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Nunca he hecho todo el camino de ida y vuelta a Liverpool conduciendo yo.",
+      "back": "I've never driven all the way to Liverpool and back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Nunca he conducido hasta Glasgow sin parar.",
+      "back": "I've never driven to Glasgow without stopping.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Alguna vez has conducido un vehículo pesado?",
+      "back": "Have you ever driven an HGV?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Alguna vez ella ha conducido una carretilla?",
+      "back": "Has she ever driven a fork-lift truck?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Alguna vez han conducido un coche de carreras?",
+      "back": "Have they ever driven a race car?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Nunca he conducido un vehículo pesado, pero mi padre sí.",
+      "back": "I've never driven an HGV but my dad has.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "Nunca he conducido una carretilla, pero mi hermano y mi hermana sí.",
+      "back": "I've never driven a fork-lift truck but my brother and sister have.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Nunca he conducido un coche de carreras, pero mi abuela sí.",
+      "back": "I've never driven a race car but my granny has.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "No es difícil conducir con cuidado en todo momento. Simplemente, estate atento y obedece las señales de tráfico.",
+      "back": "It's not hard to drive safely at all times. Just be alert and obey the road signs.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Si no conduces con cuidado en todo momento, pones en riesgo tu propia vida.",
+      "back": "If you don't drive safely at all times, you put your own life at risk.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Si no conduces con cuidado en todo momento, pones en riesgo las vidas de otras personas también.",
+      "back": "If you don't drive safely at all times, you put other people's lives at risk too.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "No conduzcas de manera temeraria a no ser que quieras causar un accidente.",
+      "back": "Don't drive recklessly unless you want to cause an accident.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "No conduzcas de manera temeraria a no ser que quieras que te quiten más puntos del carné.",
+      "back": "Don't drive recklessly unless you want to get more points off your license.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "No conduzcas de manera temeraria a no ser que quieras perder tu carné.",
+      "back": "Don't drive recklessly unless you want to lose your license.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "No hace falta decir que no deberías beber nunca cuando conduces.",
+      "back": "It goes without saying that you should never drink and drive.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "No hace falta que yo te diga que no deberías beber nunca cuando conduces.",
+      "back": "You don't need me to tell you that you should never drink and drive.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Dame las llaves! ¡No vas a conducir después de beber!",
+      "back": "Give me the keys! You're not going to drink and drive!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Si conduces bajo los efectos del alcohol, puede que nunca llegues a tu destino.",
+      "back": "If you drive under the influence of alcohol, you may never reach your destination.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Si conduces bajo los efectos de las drogas, vas a poner en riesgo tanto tu vida como las de los demás.",
+      "back": "If you drive under the influence of drugs, you'll put both your life and those of others at risk.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "No conduzcas bajo los efectos de las drogas. Puede que nunca llegues a tu destino.",
+      "back": "Don't drive under the influence of drugs. You may never reach your destination.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Una vez me pillaron yendo a mucha velocidad y me quitaron tres puntos del carné. Iba a 130 millas por hora.",
+      "back": "Once I got caught speeding and I lost three points on my license. I was driving at 130 mph.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Me multaron por ir a mucha velocidad y desde entonces siempre he tenido cuidado.",
+      "back": "I got fined for speeding and since then, I've always been careful.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Que no te pillen yendo a mucha velocidad. Mejor aún, ¡obedece el límite de velocidad en todo momento!",
+      "back": "Don't get caught speeding. Better still, obey the speed limit at all times!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "¡Todo ese ruido de fuera me saca de quicio!",
+      "back": "All that noise outside is driving me crazy!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Hay un patio de recreo al lado de mi piso, ¡y todo ese griterío me saca de quicio!",
+      "back": "There's a playground next to my flat, and all the screaming drives me crazy!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "¡Todos estos anuncios en la tele me sacan de quicio!",
+      "back": "All these adverts on TV drive me crazy!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Todo ese ruido que están haciendo esos niños me está sacando de quicio!",
+      "back": "All that noise that those kids are making is driving me nuts!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "¡Todas estas mentiras que me estás contando me están sacando de quicio!",
+      "back": "All these lies that you're telling me are driving me nuts!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Todas estas moscas me están sacando de quicio!",
+      "back": "All these flies are driving me nuts!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Su manera de tratar a sus hijos me saca de quicio.",
+      "back": "The way she treats her kids drives me insane!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Su manera de comer me saca de quicio.",
+      "back": "The way he eats drives me insane!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Su manera de escribir los correos electrónicos vuelve loco a todo el mundo.",
+      "back": "The way he writes emails drives everyone insane!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "¿No te saca de quicio todo el ruido de la calle?",
+      "back": "Doesn't all the noise from the street drive you mad?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "¿No te sacan de quicio tantos anuncios en la tele?",
+      "back": "Don't all these adverts on the TV drive you mad?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "¿No te sacan de quicio tantos niños gritando?",
+      "back": "Don't all those screaming kids drive you mad?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Tener que hacer la declaración de la renta cada año me saca de quicio!",
+      "back": "Having to do my tax return every year drives me bonkers!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Escuchar a mis vecinos discutiendo cada noche me saca realmente de quicio!",
+      "back": "Hearing my neighbours argue every night drives me absolutely bonkers!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Perder las cosas me saca realmente de quicio!",
+      "back": "Losing things really drives me bonkers!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Quieres que te lleve? Hay sitio en mi coche y voy a pasar por tu casa de todas maneras.",
+      "back": "Do you want a lift? There's room in my car and I'm going past your house anyway.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Quieres que te lleve? No es ninguna molestia. Y tengo sitio en mi coche de todas maneras.",
+      "back": "Do you want a lift? It's no bother. And I have room in my car anyway.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Necesitas que te lleve? Hay sitio para uno más en mi coche.",
+      "back": "Do you need a lift? There's room for one more in my car.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Necesitas que te lleve? No, gracias David. Me lleva John.",
+      "back": "Do you need a lift? No thanks, David. John's giving me a lift.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Si me das dinero para gasolina, te llevaré.",
+      "back": "If you give me petrol money, I'll give you a lift.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Te llevaré esta vez, ¡pero me debes una!",
+      "back": "I'll give you a lift this time, but you owe me one!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Acabo de comprar un coche nuevo. ¿Quieres dar una vuelta?",
+      "back": "I've just bought a new car. Do you want to go for a ride?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "Me encantaría dar una vuelta. ¡Pero no vayas demasiado rápido, por favor!",
+      "back": "I'd love to go for a ride. But please don't go too fast!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "¡John! Tu coche no está. ¡Espero que ningún menor lo haya robado para dar una vuelta!",
+      "back": "John, your car's not there! I hope no one's gone for a joyride in it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "Estoy aburrido. Demos una vuelta en el coche.",
+      "back": "I'm bored. Let's take the car for a spin.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Acabo de comprar un coche nuevo. ¿Quieres acompañarme a dar una vuelta?",
+      "back": "I've just bought a new motor, do you want to come with me to take it for a spin?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "Sí, ¿por qué no? Demos una vuelta.",
+      "back": "Yeah, why not? Let's take it for a spin.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Mamá, ¿me puedes recoger en la estación de tren sobre las seis?",
+      "back": "Mum, can you pick me up from the train station around 6.00?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Vale. Supongo que quieres que recoja a tus colegas también.",
+      "back": "Alright then, I suppose you want me to pick your mates up as well.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "Sí, si pudieras recogerles a ellos también, sería genial.",
+      "back": "Yeah, if you could pick them up too that would be great.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Si no llegas al volante, intenta mover el asiento del conductor hacia delante.",
+      "back": "If you can't reach the steering wheel, try moving the driver's seat forward.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Si no llegas al acelerador, intenta mover el asiento del conductor hacia delante.",
+      "back": "If you can't reach the accelerator, try moving the driver's seat forward.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Si no puedes mover las piernas cómodamente, intenta mover el asiento del conductor hacia atrás.",
+      "back": "If you can't move your legs comfortably, try moving the driver's seat back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Sal del camino de entrada y coge la primera salida a la izquierda después del stop.",
+      "back": "Pull out of the driveway and take the first left after the stop sign.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Asegúrate de comprobar tu espejo retrovisor antes de salir del camino de entrada.",
+      "back": "Make sure to check your rearview mirror before you pull out of the driveway.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "Asegúrate de señalizar la maniobra cuando salgas del camino de entrada.",
+      "back": "Make sure to signal when you pull out of the driveway.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Mi profesor de autoescuela no me deja ir a más de 50 kilómetros por hora.",
+      "back": "My driving instructor doesn't let me go over 50 kilometres per hour.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "Su profesor de autoescuela no la deja ir a menos de 80 kilómetros por hora en la autopista.",
+      "back": "Her driving instructor doesn't let her go under 80 kilometres per hour on the motorway.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Su profesor de autoescuela no le deja ir a más de 80 kilómetros por hora a menos que esté en la autopista.",
+      "back": "His driving instructor doesn't let him go over 80 kilometres per hour unless he's on the motorway.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Dan tardó un poco más de dos años en sacarse el carné.",
+      "back": "It took Dan just over two years to get his driver's license.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Sally tardó un poco menos de tres años en sacarse el carné.",
+      "back": "It took Sally just under three years to get her driver's license.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "¡Mi amigo Spencer tardó más de seis años en sacarse el carné!",
+      "back": "It took my friend Spencer over six years to get his driver's license!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "A menos que coja un destornillador, no voy a poder arreglar el retrovisor lateral.",
+      "back": "Unless I get a screwdriver, I won't be able to fix the side view mirror.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "A menos que mi profesor de autoescuela me dé un destornillador, no voy a poder arreglar el retrovisor lateral.",
+      "back": "Unless my driving instructor gives me a screwdriver, I won't be able to fix the side view mirror.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Mi profesor de autoescuela tardó más de dos horas en encontrar el destornillador.",
+      "back": "It took my driving instructor over two hours to find the screwdriver.",
+      "sourcePage": 26
+    }
+  ]
+}
