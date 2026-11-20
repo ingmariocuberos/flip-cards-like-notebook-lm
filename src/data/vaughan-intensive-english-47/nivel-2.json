@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-47",
+  "bookTitle": "Libro 47",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Abrí la puerta y entré.",
+      "back": "I opened the door and went in.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Ella abrió la puerta principal y entró.",
+      "back": "She opened the front door and went inside.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Él abrió la puerta trasera y salió.",
+      "back": "He opened the back door and went outside.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "La puerta se abrió y... ¡vi un paquete en la mesa!",
+      "back": "The door opened and I saw a package on the table!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "La puerta principal se abrió y... ¡ella vio un sobre en la mesa!",
+      "back": "The front door opened and she saw an envelope on the table!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "La puerta trasera se abrió y... ¡él salió!",
+      "back": "The back door opened and he went outside!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "En cuanto la puerta se abrió, ella vio el paquete.",
+      "back": "As soon as the door opened, she saw the package.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Vi el sobre en cuanto se abrió la puerta principal.",
+      "back": "I saw the envelope as soon as the front door opened.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "En cuanto la puerta trasera se abrió y él salió, él vio una caja en el suelo.",
+      "back": "As soon as the back door opened and he went outside, he saw a box on the ground.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Ya ha abierto ella el paquete?",
+      "back": "Has she opened the package yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Sí, ya lo ha abierto ella.",
+      "back": "Yes, she's already opened it.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "No, ella no lo ha abierto todavía.",
+      "back": "No, she hasn't opened it yet.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Por qué narices ha abierto él ese paquete?",
+      "back": "Why on earth has he opened that package?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Por qué narices ha abierto mi mujer ese sobre?",
+      "back": "Why on earth has my wife opened that envelope?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Por qué narices ha abierto él esa caja?",
+      "back": "Why on earth has he opened that box?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Cerraron la puerta y encendieron la luz.",
+      "back": "They closed the door and turned on the light.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Él cerró la puerta principal y se quitó la chaqueta.",
+      "back": "He closed the front door and took off his jacket.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Cerraron la puerta trasera y se dirigieron hacia el cobertizo.",
+      "back": "They closed the back door and headed towards the shed.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Él por lo menos cerró la puerta detrás de él.",
+      "back": "At least he closed the door behind him.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Ella cerró la puerta principal detrás de ella pero olvidó cerrarla con llave.",
+      "back": "She closed the front door behind her but she forgot to lock it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Cerraron la puerta trasera detrás de ellos y entraron en el jardín.",
+      "back": "They closed the back door behind them and went into the garden.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Él cerró la puerta al entrar.",
+      "back": "He closed the door on his way in.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Cerraron todas las puertas al entrar.",
+      "back": "They closed all the doors on their way in.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella cerró la puerta principal detrás de ella al entrar.",
+      "back": "She closed the front door behind her on her way in.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Él ya ha cerrado la ventana?",
+      "back": "Has he closed the window yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Sí, él ya la ha cerrado.",
+      "back": "Yes, he's already closed it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Él la cerró en cuanto entró.",
+      "back": "He closed it as soon as he went inside.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Por qué él ha cerrado las ventanas? ¡Hace un calor espantoso!",
+      "back": "Why has he closed the windows? It's boiling!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Por qué han cerrado todas las puertas? ¡Hace un calor que te asas!",
+      "back": "Why have they closed all the doors? It's roasting!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Por qué demonios no han cerrado las ventanas? ¡Hace un frío que pela!",
+      "back": "Why on earth haven't they closed the windows? It's freezing!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Cierra la puerta detrás de ti cuando entres.",
+      "back": "Shut the door behind you when you go in.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Por qué quieres que cierre la puerta detrás de mí cuando entre?",
+      "back": "Why do you want me to shut the door behind me when I go in?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Quiero que cierres la puerta detrás de ti porque quiero conservar el calor.",
+      "back": "I want you to shut the door behind you because I want to keep the heat in.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Puedes cerrar la puerta detrás de ti al salir?",
+      "back": "Can you shut the door behind you on your way out?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella cerró la puerta al salir porque quería conservar el calor.",
+      "back": "She shut the door behind her on her way out because she wanted to keep the heat in.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Ella cerró la puerta al salir porque quería que el perro se quedara dentro.",
+      "back": "She shut the door behind her on her way out because she wanted to keep the dog in.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "No tienes que cerrar la puerta detrás de ti porque se cierra sola.",
+      "back": "You don't have to shut the door behind you because it swings shut by itself.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Si no sostienes la puerta al entrar, se va a cerrar sola.",
+      "back": "If you don't hold the door on your way in, it will swing shut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "La puerta se cerró sola e hizo un gran ruido.",
+      "back": "The door swung shut and made a loud noise.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Ella cerró la puerta de un portazo porque quería mostrar a todos lo enfadada que estaba.",
+      "back": "She slammed the door shut because she wanted to show everybody how angry she was.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Él estaba tan enfadado que cerró la puerta de un portazo al entrar en la habitación.",
+      "back": "He was so angry that he slammed the door shut behind him on his way into the room.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "La puerta batiente hizo un gran estrépito cuando los fuertes vientos la cerraron de un portazo.",
+      "back": "The swing door made a loud bang when the strong winds slammed it shut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "La boca del cocodrilo se cerró bruscamente sobre el pez.",
+      "back": "The crocodile's mouth snapped shut on the fish.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "La ratonera se cerró bruscamente.",
+      "back": "The mousetrap snapped shut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "El joyero se me cerró bruscamente en el dedo.",
+      "back": "The jewelry case snapped shut on my finger.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "No sé hacer el nudo de la corbata, pero sí sé deshacerlo.",
+      "back": "I don't know how to do up a tie, but I do know how to undo one.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Me cuesta respirar cuando me abrocho el botón superior de la camisa. Siempre lo desabrocho cuando nadie me está mirando.",
+      "back": "I find it hard to breathe when I do up the top button of my shirt. I always undo it when nobody's looking.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Aún no sé hacer el nudo de la corbata. Por eso siempre me compro corbatas con clip.",
+      "back": "I still don't know how to do up a tie. That's why I always buy clip-ons.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Puedes cerrar la cremallera de mi vestido? Yo no llego.",
+      "back": "Can you do up the zip on my dress? I can't reach it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "No me puedo desabrochar la cremallera. ¿Cómo demonios voy a poder quitarme los vaqueros?",
+      "back": "I can't undo my zip. How on earth am I going to be able to take off my jeans?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Tienes la bragueta bajada! ¡Súbetela antes de que empiece la reunión de ventas! ¡Tienes que hacer una presentación!",
+      "back": "Your flies are undone! Do them up before the sales meeting starts! You have to give a presentation!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Abróchate el cinturón y no te lo desabroches hasta que lleguemos.",
+      "back": "Buckle up and don't unfasten your seatbelt until we arrive.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Por su seguridad, no se desabrochen el cinturón de seguridad durante las turbulencias.",
+      "back": "For your own safety, do not unfasten your seatbelts during turbulence.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Por favor, no se desabrochen el cinturón de seguridad hasta que la luz del cinturón esté apagada.",
+      "back": "Please do not unfasten your seat belts until the seatbelt sign has been switched off.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Corre las cortinas, Mauricio. Ya sabes que tenemos muchos vecinos cotillas.",
+      "back": "Draw the curtains, Mauricio. You know we have a lot of nosy neighbours.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Normalmente no corro las cortinas antes de ir a la cama, ¡pero son las 22.30 horas y todavía hay luz afuera!",
+      "back": "Normally I don't draw the curtains before going to bed, but it's 22:30 and it's still light outside!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Ella estaba muy cansada, pero todavía había luz afuera. Así que corrió las cortinas y se fue pronto a la cama.",
+      "back": "She was very tired but it was still light outside. So, she drew the curtains and had an early night.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Trató de desplegar las velas, pero se cayeron al agua. Su padre estaba furioso.",
+      "back": "He tried to unfurl the sails but they fell into the water. His father was furious.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Despliega las velas porque no creo que este viento dure mucho más tiempo!",
+      "back": "Unfurl the sails now because I don't think this wind is going to last much longer!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Le pedí a Jim que desplegara las velas porque era la primera vez que yo navegaba.",
+      "back": "I asked Jim to unfurl the sails because it was my first time sailing.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Te has enterado? Van a abrir una cafetería nueva arriba en la calle.",
+      "back": "Have you heard? A new café's opening up at the top of the road.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¡Genial! ¡Ya era hora de que abrieran una cafetería por aquí!",
+      "back": "Great! It's about time a café opened up around here.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Por lo que parece, la van a abrir el viernes.",
+      "back": "Apparently it's opening up on Friday.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Acabo de oír que la cafetería que hay abajo en la calle va a cerrar.",
+      "back": "I've just heard that the café down the road is closing down.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Por qué va a cerrar? Si abrió hace poco.",
+      "back": "Why is it closing down? It only opened up recently.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Va a cerrar porque el dueño va a mudarse a Italia, por lo que parece.",
+      "back": "It's closing down because the owner is moving to Italy, apparently.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Te has enterado de que van a cerrar la cafetería que hay calle abajo?",
+      "back": "Have you heard about the café at the bottom of the road being closed down?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¡No! ¿Por qué la van a cerrar? ¡Si la acaban de abrir!",
+      "back": "No! Why is it being closed down? It's only just opened up!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "La van a cerrar porque no pasó la inspección de sanidad. ¡Ya era hora!",
+      "back": "It's being closed down for health and safety reasons, apparently. It's about time!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Él siempre reprime las emociones. ¡Ya era hora de que se abriera!",
+      "back": "He always bottles up his emotions. It's about time he opened up!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "No es bueno reprimir las emociones. Realmente necesitas abrirte más.",
+      "back": "It's not good to bottle up your emotions. You really need to open up more.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "A menudo los hombres reprimen las emociones, pero se sienten mejor después de abrirse.",
+      "back": "Men often bottle up their emotions but feel better after opening up.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Desplegaron el mapa en la mesa.",
+      "back": "They opened out the map on the table.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Cuando el valle se ensanchó, la vista era impresionante.",
+      "back": "When the valley opened out, the view was stunning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Desplegamos su mapa mientras la carretera empezaba a ensancharse.",
+      "back": "We opened out their map as the road started to open out.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¡Los conciertos al aire libre siempre se celebran al aire libre!",
+      "back": "Open-air concerts are always held in the open air!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "El otro día fui a una fiesta al aire libre genial con una piscina al aire libre.",
+      "back": "I went to an amazing open-air party with an open-air swimming pool the other day.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¿En qué época del año abren los cines al aire libre?",
+      "back": "What time of the year do they open open-air cinemas?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Llevé calzado abierto al concierto al aire libre el fin de semana pasado.",
+      "back": "I wore open-toed shoes at the open-air concert last weekend.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "La norma de vestir es elegante e informal, así que no se permiten vaqueros, zapatillas o calzado abierto.",
+      "back": "The dress code is smart casual, so no jeans, trainers or open-toed shoes are allowed.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "¡Pero es que sólo llevo vaqueros con zapatillas o con calzado abierto!",
+      "back": "But I only wear jeans with trainers or open-toed shoes!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Al principio pensé que querían algo de mí, pero luego me di cuenta de que simplemente es que son muy abiertos.",
+      "back": "At first, I thought they wanted something from me, but then I realised they're just very open-minded.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Te diste cuenta de que la gente en el concierto al aire libre era abierta?",
+      "back": "Did you realise that the people at the open-air concert were open-minded?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Al principio no me di cuenta de que era gente muy abierta, pero luego me di cuenta de que eran extremadamente abiertos.",
+      "back": "At first I didn't realise that they were very open-minded, but then I realised they were extremely open-minded.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Cuando les estaba escuchando, pensé que parecían un poco cerrados de mente.",
+      "back": "As I was listening to them, I thought that they seemed a bit closed-minded.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Sabías que eran cerrados de mente o sólo parecían ser cerrados de mente?",
+      "back": "Did you know that they were closed-minded or did they only seem to be closed-minded?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Bueno, ¡con toda seguridad eran más cerrados de mente que los hippies tan abiertos que conocí en el concierto al aire libre!",
+      "back": "Well, they were certainly more closed-minded than the open-minded hippies I met at the open-air concert!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "No me gustan las oficinas diáfanas porque son muy ruidosas.",
+      "back": "I don't like open-plan offices because they're very noisy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Pero las oficinas diáfanas hacen la comunicación mucho más fácil.",
+      "back": "But open-plan offices make communication much easier.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Las oficinas diáfanas también son mucho más económicas.",
+      "back": "Open-plan offices are also much more economical.",
+      "sourcePage": 27
+    }
+  ]
+}

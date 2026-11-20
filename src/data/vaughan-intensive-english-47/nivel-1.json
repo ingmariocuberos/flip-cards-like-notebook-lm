@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-47",
+  "bookTitle": "Libro 47",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Abre la puerta de embarque.",
+      "back": "Open the gate.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Abre la puerta del jardín.",
+      "back": "Open the gate to the garden.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Abre la tranquera.",
+      "back": "Open the gate to the field.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Me abres la puerta?",
+      "back": "Can you open the door?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Me abres la ventana?",
+      "back": "Can you open the window?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Me abres, por favor, la puerta del jardín?",
+      "back": "Can you please open the garden gate?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Me puedes abrir la entrada principal?",
+      "back": "Can you open the front door for me?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Me puedes abrir, por favor, la entrada principal un poco más?",
+      "back": "Can you please open the front door a bit more for me?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Nos puedes abrir la puerta de la cocina un poco más?",
+      "back": "Can you open the kitchen door a bit more for us?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Abro la ventana?",
+      "back": "Shall I open the window?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Así está bien o la abro un poco más?",
+      "back": "Is that enough or shall I open it a bit more?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Así está bien o la abro del todo?",
+      "back": "Is that enough or shall I open it all the way?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Abre la puerta de embarque!",
+      "back": "Open up the gate!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Abre la entrada principal!",
+      "back": "Open up the front door!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Abre la puerta del jardín!",
+      "back": "Open up the garden gate!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¡Cierra la puerta de embarque!",
+      "back": "Close the gate!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Cierras la puerta, por favor?",
+      "back": "Can you close the door, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Cierro la ventana?",
+      "back": "Shall I close the window?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "«To close» la puerta significa lo mismo que «to shut» la puerta.",
+      "back": "To close the door means the same as \"to shut\" the door.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "«To close» la ventana significa lo mismo que «to shut» la ventana.",
+      "back": "To close the window means the same as \"to shut\" the window.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "«To close» la puerta del coche significa lo mismo que «to shut» la puerta del coche.",
+      "back": "To close the car door means the same as \"to shut\" the car door.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "En inglés se puede decir «close» los ojos o «shut» los ojos.",
+      "back": "In English you can say \"close your eyes\" or \"shut your eyes\".",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "En inglés se puede decir «close» los libros o «shut» los libros.",
+      "back": "In English you can say \"close your books\" or \"shut your books\".",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "En inglés se puede decir «close» la puerta o «shut» la puerta.",
+      "back": "In English you can say \"close the door\" or \"shut the door\".",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Cierro la puerta con llave?",
+      "back": "Shall I lock the door?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Me cierras la puerta del coche con llave, por favor?",
+      "back": "Can you lock the car door, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Quiero que cierres la puerta con llave.",
+      "back": "I want you to lock the door.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Cállate! ¡Estoy intentando cerrar la puerta con llave!",
+      "back": "Shut up! I'm trying to lock the door!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Te estoy diciendo que te calles.",
+      "back": "I'm telling you to shut up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Quiero que te calles.",
+      "back": "I want you to shut up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿A qué hora abre la papelería?",
+      "back": "What time does the stationery shop open?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿A qué hora abre la tienda de ropa?",
+      "back": "What time does the clothes shop open?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿A qué hora cierra la tienda de golosinas?",
+      "back": "What time does the sweet shop close?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Perdona, ¿a qué hora abre el puesto del mercado?",
+      "back": "Excuse me, what time does the market stall open?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Perdona, ¿a qué hora abre la librería?",
+      "back": "Excuse me, what time does the book shop open?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Perdona, ¿a qué hora cierra la biblioteca pública?",
+      "back": "Excuse me, what time does the public library close?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Me puedes decir a qué hora cierra la panadería?",
+      "back": "Can you tell me what time the bakery closes?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Me puedes decir a qué hora cierra la verdulería?",
+      "back": "Can you tell me what time the greengrocer closes?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Me puedes decir a qué hora cierra la carnicería?",
+      "back": "Can you tell me what time the butcher closes?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Cierra el banco durante el verano?",
+      "back": "Does the bank close for the summer?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Cierra el gimnasio para el almuerzo?",
+      "back": "Does the gym close for lunch?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Cierra el museo para Navidad?",
+      "back": "Does the museum close for Christmas?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "La puerta del coche no abre.",
+      "back": "The car door won't open!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "La puerta principal no abre bien.",
+      "back": "The front door won't open properly!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "La puerta trasera no abre bien.",
+      "back": "The back door won't open properly!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¿La caja está abierta o cerrada?",
+      "back": "Is the box open or closed?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "La caja está abierta.",
+      "back": "The box is open.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "La caja está cerrada.",
+      "back": "The box is closed.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "En los días laborales, el museo está abierto desde las 10 de la mañana hasta las 6 de la tarde.",
+      "back": "On weekdays, the museum's open from 10am until 6pm.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Los fines de semana, el museo está abierto desde las 10 de la mañana hasta las 4 de la tarde.",
+      "back": "On weekends, the museum's open from 10am until 4pm.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "En festivos, el museo está abierto desde el mediodía hasta las 4 de la tarde.",
+      "back": "On public holidays, the museum's open from midday until 4pm.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿La carnicería está abierta los sábados?",
+      "back": "Is the butcher's open on Saturdays?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "No, la carnicería no está abierta los sábados.",
+      "back": "No, the butcher's isn't open on Saturdays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "A veces, la carnicería está abierta los sábados.",
+      "back": "Sometimes the butcher's is open on Saturdays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿El parque está abierto después de caer el sol?",
+      "back": "Is the park open after dark?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "No, el parque no está abierto después de caer el sol.",
+      "back": "No, the park isn't open after dark.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "A veces, el parque está abierto después de caer el sol.",
+      "back": "Sometimes the park is open after dark.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿El colegio está abierto durante las vacaciones de Navidad?",
+      "back": "Is the school open over the Christmas holidays?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "No, el colegio no está abierto durante las vacaciones de Navidad.",
+      "back": "No, the school isn't open over the Christmas holidays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "A veces, el colegio está abierto durante las vacaciones de Navidad.",
+      "back": "Sometimes, the school is open over the Christmas holidays.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Un abrelatas sirve para abrir latas o para abrir botellas?",
+      "back": "Is a tin opener for opening tins or for opening bottles?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Un cascanueces sirve para abrir puertas o para abrir nueces?",
+      "back": "Is a nutcracker for opening doors or for opening walnuts?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Un sacacorchos sirve para abrir botellas de vino o para abrir latas?",
+      "back": "Is a corkscrew for opening bottles of wine or for opening cans?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Un abrelatas sirve para abrir latas.",
+      "back": "A tin opener is for opening tins.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Un cascanueces sirve para abrir nueces.",
+      "back": "A nutcracker is for opening walnuts.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Un abrecartas sirve para abrir cartas. ¡No es cierto, sirve para abrir sobres!",
+      "back": "A letter opener is for opening letters. No it's not, it's for opening envelopes!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Para qué sirve un abrelatas?",
+      "back": "What's a tin opener for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Para qué sirve un abrecartas?",
+      "back": "What's a letter opener for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Para qué sirve un cascanueces?",
+      "back": "What's a nutcracker for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Sabes para qué sirve un abrelatas?",
+      "back": "Do you know what a tin opener's for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Sabes para qué sirve un abrecartas?",
+      "back": "Do you know what a letter opener's for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Sabes para qué sirve un cascanueces?",
+      "back": "Do you know what a nutcracker's for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "No sé para qué sirve un abrelatas. ¿Sirve para abrir latas?",
+      "back": "I don't know what a tin opener's for. Is it for opening tins?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No sé para qué sirve un sacacorchos. ¿Sirve para abrir botellas de vino?",
+      "back": "I don't know what a corkscrew's for. Is it for opening bottles of wine?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "No sé para qué sirve un abrebotellas. ¿Sirve para abrir botellas?",
+      "back": "I don't know what a bottle opener's for. Is it for opening bottles?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Puedes abrir el grifo?",
+      "back": "Can you turn the tap on?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Perdona, no te escucho. ¿Quieres que abra el grifo o quieres que lo cierre?",
+      "back": "Sorry, I can't hear you. Do you want me to turn on the tap or do you want me to turn it off?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Quiero que lo abras!",
+      "back": "I want you to turn it on!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Puedes cerrar el grifo?",
+      "back": "Can you turn the tap off?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Perdona, no te escucho. ¿Quieres que cierre el grifo o quieres que lo abra?",
+      "back": "Sorry I can't hear you. Do you want me to turn off the tap or do you want me to turn it on?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Quiero que lo cierres!",
+      "back": "I want you to turn it off!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Enciende la manguera para que pueda regar el jardín.",
+      "back": "Turn the hose on so I can water the garden.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Encenderé la manguera para que puedas regar el jardín.",
+      "back": "I'll turn the hose on so you can water the garden.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Enciendo la manguera para que puedas regar el jardín?",
+      "back": "Shall I turn the hose on so you can water the garden?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Apaga la ducha mientras te lavas.",
+      "back": "Turn the shower off while you wash yourself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Siempre apago el grifo mientras me lavo.",
+      "back": "I always turn the tap off while I wash myself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Pero mi hermano nunca apaga el grifo mientras se lava.",
+      "back": "But my brother never turns the tap off while he washes himself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Apaga el grifo mientras te cepillas los dientes.",
+      "back": "Turn the tap off while you brush your teeth.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Siempre apago el grifo mientras me cepillo los dientes.",
+      "back": "I always turn the tap off while I brush my teeth.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Mi hermana nunca apaga el grifo mientras se cepilla los dientes.",
+      "back": "My sister never turns the tap off while she brushes her teeth.",
+      "sourcePage": 13
+    }
+  ]
+}
