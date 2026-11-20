@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-61",
+  "bookTitle": "Libro 61",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "No se toca la jaula.",
+      "back": "Don't touch the cage.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "No se toca la pecera.",
+      "back": "Don't touch the fish tank.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "No se tocan los animales.",
+      "back": "Don't touch the animals.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "No toques las cosas que hay encima de la mesa.",
+      "back": "Don't touch the stuff on the table.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "No toques las cosas que hay encima del escritorio.",
+      "back": "Don't touch the things on the desk.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "No toques nada en esta habitación.",
+      "back": "Don't touch anything in this room.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "No toques el plato; está ardiendo.",
+      "back": "Don't touch the plate; it's hot.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "No toques ese cuchillo; es peligroso.",
+      "back": "Don't touch that knife; it's dangerous.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "No toques ese cuenco; está sucio.",
+      "back": "Don't touch that bowl; it's dirty.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Por favor, hagas lo que hagas, no toques los cuadros.",
+      "back": "Whatever you do, please don't touch the paintings.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Por favor, hagas lo que hagas, no toques el escaparate.",
+      "back": "Whatever you do, please don't touch the window display.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Por favor, hijo, hagas lo que hagas, no toques las esculturas.",
+      "back": "Whatever you do, son, please don't touch the sculptures.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "No está permitido tocar los collares.",
+      "back": "You're not allowed to touch the necklaces.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "No está permitido tocar las pulseras.",
+      "back": "You're not allowed to touch the bracelets.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No está permitido tocar los anillos.",
+      "back": "You're not allowed to touch the rings.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Mi hermano pequeño siempre toca mis cosas.",
+      "back": "My little brother always touches my stuff.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Mi hermana pequeña siempre toca mis cosas.",
+      "back": "My little sister always touches my things.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Mi primo pequeño siempre toca las cosas de mi habitación.",
+      "back": "My little cousin always touches the things in my room.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Odio cuando mi hermano pequeño toca mis cosas.",
+      "back": "I hate it when my little brother touches my stuff.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Él odia cuando su hermana pequeña toca sus cosas.",
+      "back": "He hates it when his little sister touches his things.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Él odia cuando ella toca las cosas de su habitación.",
+      "back": "He hates it when she touches the stuff in his room.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No aguanto cuando mi compañero de piso toca mis libros.",
+      "back": "I can't stand it when my flatmate touches my books.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella no aguanta cuando su compañero de piso toca su ordenador.",
+      "back": "She can't stand it when her flatmate touches her computer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Ella no aguanta cuando su compañero de piso toca sus cosas.",
+      "back": "She can't stand it when her flatmate touches her stuff.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Me molesta mucho cuando mi hermano pequeño toca mi MP3.",
+      "back": "It's so annoying when my little brother touches my MP3 player.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Me molesta mucho cuando mi hermana pequeña toca mis CD.",
+      "back": "It's so annoying when my little sister touches my CDs.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Realmente me molesta mucho cuando mi primo pequeño toca mis DVD.",
+      "back": "It's really annoying when my little cousin touches my DVDs.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Es muy irritante cuando mi compañero de piso toca las cosas de mi habitación.",
+      "back": "It's really irritating when my flatmate touches the stuff in my room.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Es muy irritante cuando mi compañero de piso toca mi colección de CD.",
+      "back": "It's really irritating when my flatmate touches my CD collection.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Es muy irritante cuando mi primo pequeño toca mi colección de DVD.",
+      "back": "It's really irritating when my little cousin touches my DVD collection.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Un café me parece genial, ¡estamos en contacto!",
+      "back": "Coffee sounds great, I'll be in touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Una cena me parece genial, ¡estamos en contacto!",
+      "back": "Dinner sounds great, I'll be in touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Una comida me parece genial, ¡estamos en contacto!",
+      "back": "Lunch sounds great, I'll be in touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Cómo puedo ponerme en contacto contigo?",
+      "back": "How can I get in touch with you?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Puedes ponerte en contacto conmigo por correo electrónico.",
+      "back": "You can get in touch with me by email.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Puedes ponerte en contacto conmigo por teléfono.",
+      "back": "You can get in touch with me by phone.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Puedo ponerte en contacto con el operador.",
+      "back": "I can put you in touch with the operator.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Puedo ponerte en contacto con la recepcionista.",
+      "back": "I can put you in touch with the receptionist.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Puedo ponerte en contacto con alguien que te pueda ayudar.",
+      "back": "I can put you in touch with somebody that can help.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Me gustaría mantener el contacto.",
+      "back": "I'd like to stay in touch.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Mantengamos el contacto! (stay)",
+      "back": "Let's stay in touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Mantengamos el contacto! (keep)",
+      "back": "Let's keep in touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "No quiero perder el contacto.",
+      "back": "I don't want to lose touch.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "¡No vamos a perder el contacto!",
+      "back": "We're not going to lose touch!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Creo que vamos a perder el contacto.",
+      "back": "I think we are going to lose touch.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "¿A qué botón le doy?",
+      "back": "Which button do I press?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "¿A qué botón debería darle?",
+      "back": "Which button should I press?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Sabes a qué botón le doy?",
+      "back": "Do you know which button I press?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¿A qué botón le doy para encenderlo?",
+      "back": "Which button do I press to turn it on?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "¿A qué botón debería darle para apagarlo?",
+      "back": "Which button should I press to turn it off?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Sabes a qué botón le doy para subir el volumen?",
+      "back": "Do you know which button I press to turn the volume up?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "No sé a qué botón se le da para encenderlo.",
+      "back": "I don't know which button you press to turn it on.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Ella no sabe a qué botón se le da para apagarlo.",
+      "back": "She doesn't know which button you press to turn it off.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Ellos no saben a qué botón se le da para subir el volumen.",
+      "back": "They don't know which button you press to turn the volume up.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Se le da a este botón.",
+      "back": "You press this button.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Se le da a éste.",
+      "back": "You press this one.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Se le da a éste de aquí.",
+      "back": "You press this one here.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "No le des a ese botón, ¡dale a éste!",
+      "back": "Don't press that button, press this one!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "No le des a ése, ¡dale a éste!",
+      "back": "Don't press that one, press this one!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "No le des a ése de ahí, ¡dale a éste de aquí!",
+      "back": "Don't press that one there, press this one here!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Mi hija acaricia ratones, pero no acaricia ratas.",
+      "back": "My daughter will stroke mice but she won't stroke rats.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Mi hijo acaricia conejos, pero no acaricia hámsters.",
+      "back": "My son will stroke rabbits but he won't stroke hamsters.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Mis hijos acarician ratones y conejos, pero no acarician ratas o hámsters.",
+      "back": "My children will stroke mice and rabbits but they won't stroke rats or hamsters.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "Mi hija mayor acaricia caballos, pero no burros.",
+      "back": "My oldest daughter will stroke horses but not donkeys.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Mi hija menor acaricia cabras, pero no ovejas.",
+      "back": "My youngest daughter will stroke goats but not sheep.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Mis hijas acarician caballos y cabras, pero no burros y ovejas.",
+      "back": "My daughters will stroke horses and goats but not donkeys and sheep.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi hijo mayor acaricia a todos los animales, menos a las serpientes.",
+      "back": "My oldest son will stroke all animals except snakes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Mi hijo menor acaricia a todos los animales, menos a las aves.",
+      "back": "My youngest son will stroke all animals except birds.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Mis hijos acarician a todos los animales, menos a las serpientes y a las aves.",
+      "back": "My children will stroke all animals except snakes and birds.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Una de mis hijas no acaricia a los perros porque les tiene miedo.",
+      "back": "One of my daughters won't stroke dogs because she's scared of them.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Uno de mis hijos no acaricia a las ovejas porque les tiene miedo.",
+      "back": "One of my sons won't stroke sheep because he's scared of them.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Algunos de mis hijos no acarician a las cabras porque también les tienen miedo.",
+      "back": "Some of my children won't stroke goats because they're scared of them too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Otra hija no acaricia al ratón porque le tiene miedo.",
+      "back": "Another daughter won't stroke the mouse because she's afraid of it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Otro hijo no acaricia al burro porque le tiene miedo.",
+      "back": "Another son won't stroke the donkey because he's afraid of it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Algunos de mis hijos no acarician a la oveja porque le tienen miedo.",
+      "back": "Some of my children won't stroke the sheep because they're scared of it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Tocas algún instrumento?",
+      "back": "Do you play an instrument?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Sí, toco el banjo y el trombón. ¿Y tú?",
+      "back": "Yes, I play the banjo and the trombone. What about you?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "No toco ningún instrumento, no tengo oído musical.",
+      "back": "I don't play any instruments, I'm tone deaf.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Recuerda darme un toque cuando llegues.",
+      "back": "Remember to give me a ring when you get there.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Vale, mamá, te daré un toque cuando llegue y después te daré otro toque antes de acostarme.",
+      "back": "Okay, mum, I'll give you a ring when I get there and then I'll give you another ring before I go to bed.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Perfecto! Y luego dame otro toque por la mañana, por favor.",
+      "back": "Perfect! And then give me another ring in the morning, please.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Por favor, deja de tocar el claxon. Tendrás que tener paciencia.",
+      "back": "Please stop hooting your horn. You'll have to be patient.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Dejaré de tocar el claxon cuando dejen de bloquear la calle.",
+      "back": "I'll stop hooting my horn when they stop blocking the road!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Odio cuando la gente no deja de tocar el claxon.",
+      "back": "I hate it when people don't stop hooting their horn.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Cuándo suelen tocar las campanas de la iglesia?",
+      "back": "When do they usually ring the church bells?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Por qué están tocando las campanas de la iglesia?",
+      "back": "Why are they ringing the church bells?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Alguien se está casando, por eso están tocando las campanas de la iglesia.",
+      "back": "Someone is getting married, that's why they're ringing the church bells.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Ahora que las vacaciones han terminado, toca estudiar.",
+      "back": "Now that the holidays are over, it's time to study.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Ahora que la fiesta ha terminado, toca recoger la casa.",
+      "back": "Now that the party's over, it's time to tidy up the house.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Ahora que la comida ha terminado, toca volver al trabajo.",
+      "back": "Now that lunch is over, it's time to go back to work.",
+      "sourcePage": 12
+    }
+  ]
+}

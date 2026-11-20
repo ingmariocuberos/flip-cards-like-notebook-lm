@@ -123,3 +123,6 @@ El libro 59 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 59__h
 
 
 El libro 60 tiene 44 pliegos PDF y OCR selectivo en `sources/english/Libro 60__halves.ocr.txt`. Tiene cuatro bloques Focus Points por nivel: mitades 9–10, 15–20 (PDF 5 y 8–10, básico), 37–38, 43–48 (PDF 19 y 22–24, intermedio), 65–66, 71–76 (PDF 33 y 36–38, avanzado). Se transcribieron 60 tarjetas por nivel y se corrigieron erratas y discrepancias evidentes.
+
+
+El libro 61 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 61__halves.ocr.txt`. Focus Points: mitades 9–14 y 19–24 (PDF 5–7 y 10–12, básico), 37–42 y 47–52 (PDF 19–21 y 24–26, intermedio), 65–70 y 75–80 (PDF 33–35 y 38–40, avanzado). Se transcribieron 90 tarjetas por nivel; se corrigieron erratas y se distinguieron variantes.
