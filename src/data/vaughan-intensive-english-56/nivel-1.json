@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-56",
+  "bookTitle": "Libro 56",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Cuando uno está dentro de un edificio, empuja la puerta para salir.",
+      "back": "When you're inside a building, you push the door to get outside.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Se empuja una puerta para entrar o para salir?",
+      "back": "Do you push a door to get inside or outside?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "En mi edificio también se empuja la puerta para salir.",
+      "back": "In my building you also push the door to get outside.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Ella no le deja al niño empujar el carrito.",
+      "back": "She doesn't let the boy push the baby buggy.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Por qué ella no le deja empujar el carrito?",
+      "back": "Why doesn't she let him push the baby buggy?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Ella no le deja empujar el carrito porque es muy pequeño.",
+      "back": "She doesn't let him push the buggy because he's very little.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella a menudo empuja al señor Wilson en su silla de ruedas por el pueblo.",
+      "back": "She often pushes Mr. Wilson in his wheelchair around the village.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Él a menudo empuja a la señora Baker en su silla de ruedas por el barrio.",
+      "back": "He often pushes Mrs. Baker in her wheelchair around the neighbourhood.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Él a menudo empuja al señor Collins en su silla de ruedas por la ciudad.",
+      "back": "He often pushes Mr. Collins in his wheelchair around the city.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "No es fácil empujar un carrito por un supermercado lleno.",
+      "back": "It's not easy to push a trolley through a full supermarket.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Es difícil empujar un carrito por pasillos estrechos.",
+      "back": "It's difficult to push a trolley through narrow aisles.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No es difícil empujar un carrito por pasillos anchos.",
+      "back": "It's not difficult to push a trolley through wide aisles.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Puedo pulsar el botón ahora?",
+      "back": "Can I push the button now?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Cuándo puedo pulsar el botón?",
+      "back": "When can I push the button?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Puedes pulsar el botón en la próxima parada.",
+      "back": "You can push the button at the next stop.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Tira del pomo de la puerta.",
+      "back": "Pull the doorknob.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Tira del pomo de la puerta más fuerte.",
+      "back": "Pull the doorknob harder.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Tira del pomo de la puerta aún más fuerte.",
+      "back": "Pull the doorknob even harder.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Gira el picaporte hacia ti y tira.",
+      "back": "Turn the handle towards you and pull.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Gira el picaporte hacia fuera y tira.",
+      "back": "Turn the handle away from you and pull.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Gira el picaporte hacia fuera y tira fuerte.",
+      "back": "Turn the handle away from you and pull hard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Tira del cajón para abrirlo.",
+      "back": "Pull the drawer open.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Tira del cajón hasta abrirlo del todo.",
+      "back": "Pull the drawer all the way open.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Tira del cajón hasta abrirlo del todo, pero no tires del cajón demasiado fuerte.",
+      "back": "Pull the drawer all the way open but don't pull the drawer too hard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Puedes correr las cortinas?",
+      "back": "Can you pull the curtains?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Puedes correr las cortinas hacia la izquierda?",
+      "back": "Can you pull the curtains to the left?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Puedes correr las cortinas hacia la derecha?",
+      "back": "Can you pull the curtains to the right?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "El niño pequeño siempre le tira del pelo a su hermana.",
+      "back": "The little boy always pulls his sister's hair.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "El niño pequeño siempre le tira de la coleta a su hermana.",
+      "back": "The little boy always pulls his sister's ponytail.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "El niño pequeño siempre le tira de la trenza a su hermana.",
+      "back": "The little boy always pulls his sister's braid.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Creo que mi perro odia ir sujeto con correa. Está tirando de ella otra vez.",
+      "back": "I think my dog hates being on a lead. He's pulling on it again.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Mi niño pequeño va a estropear mi vestido. Está tirando de él otra vez.",
+      "back": "My little boy is going to ruin my dress. He's pulling on it again.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "No me sorprende que él nunca pesque nada con esa caña. Está tirando de ella demasiado fuerte.",
+      "back": "I'm not surprised he never catches anything with that fishing rod. He's pulling on it too hard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Esa camisa es demasiado grande para él, sobre todo las mangas. Está subiéndoselas otra vez.",
+      "back": "That shirt is too big for him, especially the sleeves. He's pulling them up again.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Él necesita comprar unos calcetines que le queden mejor que los que lleva puestos ahora. Siempre se los está subiendo.",
+      "back": "He needs to buy some socks that fit him better than the ones he's wearing now. He's always pulling them up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Sus profesores le regañan por su falda, porque se la sube siempre.",
+      "back": "Her teachers tell her off about her skirt because she's always pulling it up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Estoy bajando las persianas porque me voy a echar una siesta.",
+      "back": "I'm pulling the blinds down because I'm going to have a nap.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "El futbolista se está bajando los calcetines porque le parece más cómodo así.",
+      "back": "The footballer's pulling his socks down because he finds it more comfortable that way.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Nadie sabe por qué están tirando abajo esa torre.",
+      "back": "No one knows why they're pulling down that tower.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Ella está sacando a su marido de la cama para tener más sitio.",
+      "back": "She's pulling her husband out of bed to have more room.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Estoy quitando el enchufe porque supone un peligro de incendio.",
+      "back": "I'm pulling the plug out because it's a fire hazard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Por qué él se está arrancando el diente? Se lo está arrancando porque está desesperado por el dolor.",
+      "back": "Why's he pulling his tooth out? He's pulling it out because he's in agony.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Qué hace ella con el pelo? Se lo está recogiendo en una coleta.",
+      "back": "What's she doing with her hair? She's pulling it back in a ponytail.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Qué se va a hacer ella en el pelo para el baile del sábado? Va a recogérselo en un moño.",
+      "back": "What's she doing with her hair for the ball on Saturday? She's pulling it back in a bun.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Por qué se recoge ella el pelo en trenzas? Siempre se lo recoge así en verano.",
+      "back": "Why's she pulling her hair back in braids? She always pulls it back like that in the summer.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "No puedo empujar el cochecito cuesta arriba por esta colina.",
+      "back": "I can't push the buggy up this hill.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Él no puede empujar el carro calle arriba. ¡Es demasiado empinada!",
+      "back": "He can't push the trolley up the street. It's too steep!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "No lo pueden empujar cuesta arriba por ese camino. ¡Es demasiado empinado!",
+      "back": "They can't push it up that road. It's too steep!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Puedes empujar el carro calle abajo. No es una calle empinada.",
+      "back": "You can push the trolley down the street. It isn't steep.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Ella lo está empujando cuesta abajo por la colina.",
+      "back": "She's pushing it down the hill.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "¡No me empujes escaleras abajo!",
+      "back": "Don't push me down the stairs!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Qué hace él empujando un televisor hasta el otro lado de la calle?",
+      "back": "Why is he pushing a TV across the street?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Sabes qué hace él empujando un elefante hasta el otro lado de la calle?",
+      "back": "Do you know why he's pushing an elephant across the street?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "No sé qué hace él empujándolo hasta el otro lado de la calle.",
+      "back": "I don't know why he's pushing it across the street.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Mira! ¡Él está tirando su coche por el precipicio!",
+      "back": "Look! He's pushing his car off the cliff!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Mira! ¡Él está tirando las plantas por el balcón!",
+      "back": "Look! He's pushing his plants off the balcony!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Mira! Él está tirándolas por el balcón.",
+      "back": "Look! He's pushing them off the balcony.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Apartas el plato cuando no tienes hambre?",
+      "back": "Do you push your plate away when you aren't hungry?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Ella aparta su plato cuando no tiene hambre.",
+      "back": "She pushes her plate away when she isn't hungry.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "¡No apartes tu comida! ¡Cométela!",
+      "back": "Don't push your food away! Eat it!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Quiero que empujéis vuestras sillas hacia mí.",
+      "back": "I want you to push your chairs towards me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Quiero que empujéis vuestras sillas más hacia mí.",
+      "back": "I want you to push your chairs further towards me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Quiero que empujéis vuestras sillas aún más hacia mí.",
+      "back": "I want you to push your chairs even further towards me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "Más vale que apartes la mano de la vela.",
+      "back": "You'd better pull your hand away from the candle.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Más vale que él aparte la mano de la vela o le va a quemar.",
+      "back": "He'd better pull his hand away from the candle or it will burn him.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Más vale que ella aparte la mano de la vela o se va a quemar.",
+      "back": "She'd better pull her hand away from the candle or she'll burn herself.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Hay que empujar la puerta con el hombro para abrirla.",
+      "back": "You need to push the door open with your shoulder.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Hay que empujar la puerta fuerte con el hombro para abrirla.",
+      "back": "You need to push the door open hard with your shoulder.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Hay que girar el picaporte y empujar la puerta con el hombro para abrirla.",
+      "back": "You need to turn the handle and push the door open with your shoulder.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Me vas a tirar una caña, o qué?",
+      "back": "Are you going to pull a pint for me, or what?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Sabes tirar una caña, o qué?",
+      "back": "Do you know how to pull a pint, or what?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Se tiran cañas en este bar, o qué?",
+      "back": "Do they pull pints in this bar, or what?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Ayúdame a darle un empujón a esta puerta.",
+      "back": "Help me give this door a push.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Ayúdame a darle un empujón fuerte a esta puerta.",
+      "back": "Help me give this door a strong push.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Ayúdale a ella a darle un empujón a ese coche.",
+      "back": "Help her give that car a push.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Voy a tirarte el bolígrafo. Vale, ¡tíramelo!",
+      "back": "I'm going to throw you the pen. OK, throw it to me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Ella le está tirando a su compañera el balón de baloncesto.",
+      "back": "She's throwing her teammate the basketball.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Tírame la pelota! Venga, ¡tíramela!",
+      "back": "Throw me the ball! Come on, throw it to me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Cuidado! ¡Él te va a tirar una bola de nieve!",
+      "back": "Careful! He's going to throw a snowball at you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Qué le están tirando a la policía?",
+      "back": "What are they throwing at the police?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Le están tirando piedras a la policía.",
+      "back": "They're throwing stones at the police.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Cuidado con no tirar esa botella.",
+      "back": "Mind you don't knock over that bottle.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Cuidado con no tirar tu copa de vino.",
+      "back": "Mind you don't knock over your glass of wine.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "¡Lo vas a tirar si no tienes cuidado!",
+      "back": "You'll knock it over if you're not careful!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Ten cuidado con no tirar la botella de la mesa.",
+      "back": "Be careful not to knock the bottle off the table.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Ten cuidado con no tirarlo de la mesita de café.",
+      "back": "Be careful not to knock it off the coffee table.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Ten cuidado con no tirar el calendario de la pared.",
+      "back": "Be careful not to knock the calendar off the wall.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Siempre se me caen las cosas cuando tengo prisa.",
+      "back": "I always drop things when I'm in a hurry.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "A él siempre se le caen sus papeles cuando tiene prisa.",
+      "back": "He always drops his papers when he's in a hurry.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "A ella siempre se le caen sus carpetas cuando tiene prisa.",
+      "back": "She always drops her folders when she's in a hurry.",
+      "sourcePage": 12
+    }
+  ]
+}

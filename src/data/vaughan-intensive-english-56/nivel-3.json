@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-56",
+  "bookTitle": "Libro 56",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Las apuestas estaban muy en su contra, pero al final logró una victoria.",
+      "back": "The odds were stacked against him but in the end he pulled off a victory.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "Las apuestas estaban muy en su contra, pero al final logró una victoria inesperada.",
+      "back": "The odds were stacked against him but in the end he pulled off an upset.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "Las apuestas estaban muy en su contra para ganar, pero al final lo logró.",
+      "back": "The odds were stacked against him to win but in the end he pulled it off.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "Las tropas se retiraron del país después de que quedara claro que la guerra no iba a ninguna parte.",
+      "back": "The troops pulled out of the country after it became clear that the war was going nowhere.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "El atleta se retiró de las negociaciones contractuales después de que el equipo le ofreciera mucho menos de lo que esperaba.",
+      "back": "The athlete pulled out of contract negotiations after the team offered him much less than he expected.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "Nuestra empresa se retiró de las discusiones porque la otra parte estaba pidiendo demasiado.",
+      "back": "Our company pulled out of discussions because the other side was asking for too much.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "No parecía que la ballena varada fuera a sobrevivir, pero al volver al agua, pudo hacerlo.",
+      "back": "The stranded whale didn't look like it was going to pull through, but once it was back in the water, it was able to.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "El atleta sufrió una lesión terrible, pero después de pasar meses en rehabilitación, se recuperó y pudo jugar de nuevo.",
+      "back": "The athlete suffered a terrible injury but after months of rehab, he pulled through and was able to play again.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Nuestra empresa sufrió un revés en febrero, pero después de reestructurar las operaciones pudimos recuperarnos y terminar fuertes en el segundo trimestre.",
+      "back": "Our company took a big hit in February but after restructuring operations we were able to pull through and finish strong in the second quarter.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "Mi editor despedazó mi borrador porque dijo que no era pasable.",
+      "back": "My editor pulled my draft apart because he said it wasn't up to scratch.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Mi directora de la tesis despedazó mi idea porque dijo que no era pasable.",
+      "back": "My thesis advisor pulled my idea apart because she said it wasn't up to snuff.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Lo despedazó porque dijo que no era pasable.",
+      "back": "He pulled it apart because he said it wasn't up to par.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "Gracias en buena parte a nuestro equipo de I+D, hemos podido tomar la delantera a nuestros competidores este trimestre.",
+      "back": "Thanks in large part to our R & D team, we've been able to pull ahead of our competitors this quarter.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "Gracias en buena parte a su zancada grande, el corredor ha podido escaparse del pelotón.",
+      "back": "Thanks in large part to his long stride, the runner's been able to pull ahead of the pack.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "Gracias en buena parte a su ética de trabajo, ella ha podido tomar la delantera en su curso de inglés.",
+      "back": "Thanks in large part to her work ethic, she's been able to pull ahead in her English course.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "No me puedo creer que ese hombre se acabe de colar. ¡Qué cara!",
+      "back": "I can't believe that man's just pushed in the queue. What a cheek!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Te puedes creer que esa mujer se acabe de colar? ¡Qué cara!",
+      "back": "Can you believe that woman's just pushed in the queue? What a cheek!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "No me puedo creer que esos chavales se acaben de colar. ¡Qué cara!",
+      "back": "I can't believe those lads have just pushed in the queue. What a cheek!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "¿No está él harto de que le zarandeen? La gente debe pensar que es un pusilánime.",
+      "back": "Isn't he sick of being pushed around? People must think he's a pushover.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "¿No estás harto de que te zarandeen? La gente debe pensar que eres un pusilánime.",
+      "back": "Aren't you sick of being pushed around? People must think you're a pushover.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "¿No está ella harta de que la zarandeen? La gente debe pensar que es una pusilánime.",
+      "back": "Isn't she sick of being pushed around? People must think she's a pushover.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "Él me dijo que siguiera adelante con el plan. La fecha límite es la semana que viene.",
+      "back": "He told me to push on with the plan. The deadline is next week.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "¿Cuándo te dijo él que siguieras adelante con el plan? ¡La fecha límite es en dos semanas!",
+      "back": "When did he tell you to push on with the plan? The deadline is in two weeks!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "Él me dijo que siguiera adelante con el plan ayer, porque la fecha límite ha sido adelantada.",
+      "back": "He told me to push on with the plan yesterday because the deadline has been brought forward.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "¿Vamos a avanzar con el plan? ¡Nos estamos retrasando!",
+      "back": "Are we going to push the plan forward? We are falling behind!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "¿Vas a avanzar con el plan? ¡Te estás retrasando!",
+      "back": "Are you going to push the plan forward? You're falling behind!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Va ella a avanzar con el plan? ¡Se está retrasando!",
+      "back": "Is she going to push the plan forward? She's falling behind!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "Estamos esperando la luz verde de la sede antes de seguir adelante con todo.",
+      "back": "We're waiting for the green light from head office before we push ahead with everything.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Están esperando la luz verde de la sede antes de seguir adelante con todo.",
+      "back": "They're waiting for the green light from head office before they push ahead with everything.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Él está esperando la luz verde de la sede antes de seguir adelante con todo.",
+      "back": "He's waiting for the green light from head office before he pushes ahead with everything.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "Debido al éxito de su último proyecto, los trabajadores están ejerciendo presión por un incremento salarial.",
+      "back": "Due to the success of their latest project, the workers are pushing for a pay rise.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "El grupo que defiende los derechos de los animales está ejerciendo presión por una ley que prohíbe las pruebas a animales.",
+      "back": "The animal rights group are pushing for a law prohibiting testing on animals.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "El partido liberal está ejerciendo presión por la legalización de las drogas.",
+      "back": "The liberal party are pushing for the legalization of drugs.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "La verdad es que nunca quise estudiar Derecho, pero mis padres me presionaron para hacerlo.",
+      "back": "I never really wanted to study law, but my parents pushed me into doing it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "Sus padres de ella no deberían presionarla para que vaya a la universidad si no es lo que quiere hacer.",
+      "back": "Her parents shouldn't push her into going to university if it isn't what she wants to do.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "El presidente no quería vender sus intereses en la compañía, pero su mujer le presionó para que aceptara la oferta.",
+      "back": "The chairman didn't want to sell his stake in the company but his wife pushed him into accepting the offer.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "No estoy seguro de si puedo llegar a la reunión de hoy. Ando muy corto de tiempo.",
+      "back": "I'm not sure if I can make it to the meeting today. I'm really pushed for time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Ando un poco corto de tiempo en estos momentos. ¿Podrías volver a llamar más tarde?",
+      "back": "I'm a bit pushed for time at the moment. Could you call back later?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "No me puedo encargar de más proyectos en estos momentos. Ya ando corto de tiempo con las cosas que tengo que hacer ahora.",
+      "back": "I can't take on any extra projects at the moment. I'm already pushed for time as it is.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Siento no poder ayudarte con tu factura del móvil, hijo. Andamos muy cortos de dinero este mes.",
+      "back": "I'm sorry I can't help you out with your phone bill son. We're really pushed for money this month.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "Me gustaría concederos un capricho, chicos, pero vuestra madre y yo andamos un poco cortos de dinero este mes.",
+      "back": "I'd like to treat you kids but your mother and I are a bit pushed for money this month.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "Aunque él iba corto de dinero, acabó invitando a sus hijos a comer.",
+      "back": "Even though he was pushed for money, he ended up treating his kids to lunch.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Como jefa me cae bien, aunque sea un poco avasalladora a veces.",
+      "back": "As a boss I like her, even if she is a bit pushy sometimes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "No quiero ser mandón, pero si quieres el piso necesitas pagar la fianza mañana como muy tarde.",
+      "back": "I don't mean to be pushy but if you want the flat then you need to pay the deposit by tomorrow at the latest.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Es un gran vendedor de coches de segunda mano, pero es un poco agresivo para mi gusto.",
+      "back": "He's a great second hand car salesman but a bit pushy for my liking.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "Me he estado tirando de los pelos porque no sé si aceptar el nuevo puesto o no.",
+      "back": "I've been pulling my hair out over whether or not to take the new position.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "Ella se ha estado tirando de los pelos porque no sabe si aceptar la oferta de trabajo o no.",
+      "back": "She's been pulling her hair out over whether or not to accept the job offer.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "¡No te preocupes por el nuevo puesto! ¡No es como para tirarte de los pelos!",
+      "back": "Don't worry about the new position! It's nothing to pull your hair out over!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "He estado intentando recobrar la compostura, pero es tan difícil cuando estás de bajón.",
+      "back": "I've been trying to pull myself together but it's so hard when you're down in the dumps.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "Ella ha estado intentando recobrar la compostura, pero es realmente difícil cuando estás tan rendido.",
+      "back": "She's been trying to pull herself together but it's really difficult when you're so frazzled.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "Él ha estado intentando recobrar la compostura, pero es realmente duro cuando estás tan privado de sueño.",
+      "back": "He's been trying to pull himself together but it's really tough when you're so sleep deprived.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Tienes idea de por qué ellos no han estado haciendo lo que tienen que hacer en el trabajo últimamente?",
+      "back": "Do you have any idea as to why they haven't been pulling their weight at work lately?",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "No tengo ni idea de por qué no han estado haciendo lo que tienen que hacer en el trabajo últimamente.",
+      "back": "I'm at a loss as to why they haven't been pulling their weight at work lately.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "Más les vale empezar a hacer lo que tienen que hacer si quieren conservar sus trabajos.",
+      "back": "They'd better start pulling their weight if they want to keep their jobs.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "Si yo hubiera recurrido a algún enchufe, probablemente me habrían dado ese ascenso.",
+      "back": "If I had pulled some strings, I probably would have gotten that promotion.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "Si él hubiera recurrido a algún enchufe, seguro que podría haber conseguido ese puesto.",
+      "back": "If he had pulled a few strings, I bet he could have gotten that position.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Si ella no hubiera tenido tanto miedo de recurrir a un enchufe, estoy seguro de que podía haber conseguido el trabajo.",
+      "back": "If she hadn't been afraid to pull some strings, I'm sure she could have gotten the job.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "Él ha estado tomándole el pelo a ella toda la tarde sobre aquella vez en la que ella tropezó en el escenario.",
+      "back": "He's been pulling her leg all evening about that one time she tripped on stage.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "Ella ha estado tomándole el pelo a su tío durante toda la tarde sobre aquella vez en la que él se resbaló en el pub.",
+      "back": "She's been pulling her uncle's leg all evening about that one time he slipped at the pub.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Han estado tomándole el pelo a su madre durante toda la tarde sobre aquella vez en la que se le quemó la cena de Navidad.",
+      "back": "They've been pulling their mother's leg all evening about that one time she burnt the Christmas dinner.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "Sandra lleva tentando a la suerte con su marido, Ramón, desde que se casaron.",
+      "back": "Sandra has been pushing her luck with her husband, Ramón, ever since they got married.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "Ella tienta a la suerte con frecuencia pidiendo el plato más caro cuando él la lleva a un restaurante.",
+      "back": "She frequently pushes her luck by ordering the most expensive dish when he takes her to a restaurant.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "Ella esperó hasta el día en que se casaron antes de empezar a tentar a la suerte con él.",
+      "back": "She waited until they were married before she started pushing her luck with him.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "¡No tientes a la suerte, Sandra! ¡Sabes perfectamente que no te puedo comprar ese abrigo de pieles también!",
+      "back": "Don't push it Sandra! You know full well that I can't buy you that fur coat too!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "¡No tientes a la suerte, Sandra! ¡Sabes perfectamente que no tengo dinero suficiente en mi tarjeta de crédito!",
+      "back": "Don't push it Sandra! You know perfectly well that I don't have enough money on my credit card!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "¡No tientes a la suerte, Sandra! ¡Sabes tan bien como yo que no nos podemos permitir pasar a primera clase!",
+      "back": "Don't push it Sandra! You know as well as I do that we can't afford to upgrade to first class!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "Si Sandra sigue provocándole, él se hartará de ella a largo plazo.",
+      "back": "If Sandra keeps pushing his buttons, he'll get fed up of her eventually.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Ella le provoca pretendiendo ponerle celoso cuando salen juntos.",
+      "back": "She pushes his buttons by trying to make him jealous when they're out together.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "Si Sandra no deja de provocarle intentando reventarle, él la dejará con el tiempo.",
+      "back": "If Sandra doesn't stop pushing his buttons by trying to wind him up, he'll leave her eventually.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Ramón es un ingeniero de renombre y su esposa siempre le ha animado a que crezca profesionalmente.",
+      "back": "Ramón is an established engineer and his wife has always pushed him to grow professionally.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "A veces, sin embargo, ella le fuerza muchísimo y él se siente un poco presionado por ella.",
+      "back": "Sometimes however, she pushes him very hard and he feels a little pressured by her.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "¡El año pasado, ella le forzó demasiado intentando obligarle a hacer un doctorado mientras trabajaba a jornada completa también!",
+      "back": "Last year, she pushed him too much by trying to get him to do a PhD whilst working full-time as well!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Ramón sabe que tiene una esposa dominante, pero trata de no pensarlo.",
+      "back": "Ramón knows that he has a domineering wife, but he pushes the issue to the back of his mind.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Él no debería tratar de no pensarlo, porque eso no lo solucionará.",
+      "back": "He shouldn't push it to the back of his mind, because it won't solve it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "Él tiene que hacerle frente al tema y dejar de tratar de no pensarlo.",
+      "back": "He needs to confront this issue and stop pushing it to the back of his mind.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "Le sacamos a rastras para celebrar su cumpleaños.",
+      "back": "We dragged him out to celebrate his birthday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Llevaron a su padre al médico a rastras a pesar de sus protestas.",
+      "back": "They dragged their father to the doctor against his protests.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Ella no le llevó a rastras a ver la última comedia romántica! ¡La verdad es que él quería ir!",
+      "back": "She didn't drag him to the latest rom-com! He actually wanted to go!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Te depilas las cejas con pinzas, o te haces la cera?",
+      "back": "Do you pluck your eyebrows or wax them?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Es una alumna tan inteligente y con tanto talento que el sector financiero la sacó de la universidad de golpe sin haberse graduado.",
+      "back": "She's such a smart and talented student that Wall St. plucked her out of college before she graduated.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "¡No se lo di! ¡Ella me lo arrancó de las manos!",
+      "back": "I didn't give it to her! She just plucked it out of my hands!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "La clase que se graduaba lanzó sus birretes al cielo azul del verano.",
+      "back": "The graduating class thrust their caps into the blue summer sky.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "Ella me tiró un jarrón chino cuando le dije la verdad.",
+      "back": "She thrust a Chinese vase at me when I told her the truth.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "Ganamos la batalla cuando atravesamos la línea enemiga de forma inesperada.",
+      "back": "We won the battle when we thrust through enemy lines unexpectedly.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Si vuelves a darle empujones a esa niña, ¡te arrepentirás!",
+      "back": "If you shove that little girl again, you'll be sorry!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "¡No me des empujones! Me moveré cuando esté lista.",
+      "back": "Don't shove me! I'll move when I'm good and ready.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "En último caso, siempre puedo empeñar el anillo de mi abuelo.",
+      "back": "If push comes to shove, I can always pawn my grandfather's ring.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "Había cientos de personas, pero conseguí abrirme camino a través de la multitud empujando con el hombro.",
+      "back": "There were hundreds of people but I managed to shoulder my way through the crowd.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "No me gusta abrirme camino a codazos a través de una multitud, pero a veces hay que hacerlo.",
+      "back": "I don't like to elbow my way through a crowd but sometimes I have to.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "Cuando se es tan bajito como lo soy yo, a veces tienes que abrirte camino a codazos a través de una multitud.",
+      "back": "When you're as short as I am, sometimes you just have to elbow your way through a crowd.",
+      "sourcePage": 40
+    }
+  ]
+}
