@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-55",
+  "bookTitle": "Libro 55",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No salí anoche. Simplemente me quedé en casa.",
+      "back": "I didn't go out last night. I just stayed at home.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-002",
+      "front": "¡Ella se quedó en casa y vio el partido en vez de salir con nosotras!",
+      "back": "She stayed at home and watched the game instead of coming out with us!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-003",
+      "front": "¡No me puedo creer que te quedaras en casa anoche en vez de salir con nosotras!",
+      "back": "I can't believe you stayed at home last night instead of coming out with us!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-004",
+      "front": "Nos alojamos en un hotel de lujo cuando fuimos a Austin.",
+      "back": "We stayed at a ritzy hotel when we went to Austin.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-005",
+      "front": "Nos alojamos en casa de un amigo cuando fuimos a San Francisco.",
+      "back": "We stayed at a friend's house when we went to San Francisco.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-006",
+      "front": "Nos alojamos en un hostal de mochileros cuando fuimos a Nueva York.",
+      "back": "We stayed at a backpacker's hostel when we went to New York.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Con quién te alojaste durante las vacaciones?",
+      "back": "Who did you stay with over the holidays?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-008",
+      "front": "Me alojé con mi hermano durante las vacaciones. No me alojé con mis padres.",
+      "back": "I stayed with my brother over the holidays. I didn't stay with my parents.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-009",
+      "front": "¡Me alojé con mis padres durante todas las vacaciones de verano!",
+      "back": "I stayed with my parents over the entire summer break!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-010",
+      "front": "Salí el último para asegurarme de que todas las luces se habían apagado.",
+      "back": "I stayed behind to make sure all the lights had been turned out.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-011",
+      "front": "Salió la última para asegurarse de que todos los platos se habían puesto en el lavavajillas.",
+      "back": "She stayed behind to make sure all the dishes had been put in the dishwasher.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-012",
+      "front": "Salieron los últimos para asegurarse de que todos los niños habían sido recogidos.",
+      "back": "They stayed behind to make sure all the kids had been picked up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-013",
+      "front": "Algunos de nosotros nos quedamos después de la fiesta de despedida.",
+      "back": "Some of us stayed around after the leaving do.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Cuántos de vosotros os quedasteis después de la fiesta de despedida?",
+      "back": "How many of you stayed around after the leaving do?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-015",
+      "front": "No me quedé después de la fiesta de despedida.",
+      "back": "I didn't stay around after the leaving do.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-016",
+      "front": "Él vino a devolverme unos DVD, así que le invité a quedarse a cenar.",
+      "back": "He came over to return some DVDs so I asked him to stay for dinner.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Quieres quedarte a cenar?",
+      "back": "Do you want to stay for dinner?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-018",
+      "front": "Cuando él se acercó a su casa de ella, ella le invitó a quedarse a cenar.",
+      "back": "When he came over, she asked him to stay for dinner.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-019",
+      "front": "Él terminó pasando la noche en su casa.",
+      "back": "He ended up staying the night.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-020",
+      "front": "Él solo se iba a quedar a cenar, pero terminó pasando la noche en su casa.",
+      "back": "He was only going to stay for dinner but he ended up staying the night.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-021",
+      "front": "Él terminó pasando la noche en su casa después de una rica cena y una botella de vino.",
+      "back": "He ended up staying the night after a nice dinner and a bottle of wine.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-022",
+      "front": "Estuvieron juntos durante un par de meses pero, al final, no funcionó.",
+      "back": "They stayed together for a couple of months but, in the end, it didn't work out.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-023",
+      "front": "Él quiso que siguieran juntos pero, al final, no funcionó.",
+      "back": "He wanted to stay together but, in the end, it didn't work out.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-024",
+      "front": "Estuvimos juntos durante algún tiempo pero, al final, no funcionó.",
+      "back": "We stayed together for some time but, in the end, it didn't work out.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Crees que podemos seguir siendo amigos? ¡Lo digo de veras!",
+      "back": "Do you think we can stay friends? I really mean it!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-026",
+      "front": "Para mí es muy importante que sigamos siendo amigos. ¡Lo digo de veras!",
+      "back": "It's very important to me for us to stay friends. I really mean it!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-027",
+      "front": "Quise seguir siendo amiga de él. ¡Lo dije de veras!",
+      "back": "I wanted to stay friends with him. I really meant it!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Habéis mantenido el contacto entre vosotros desde entonces?",
+      "back": "Have you stayed in touch with each other since then?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-029",
+      "front": "Hemos mantenido el contacto cada pocos meses desde entonces.",
+      "back": "We've been staying in touch every few months since then.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-030",
+      "front": "Mantuve el contacto con sus amigos de él, pero él se niega a mantenerse en contacto conmigo.",
+      "back": "I stayed in touch with his friends but he refuses to stay in contact with me.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-031",
+      "front": "Estoy buscando dónde alojarme, pero no encuentro nada.",
+      "back": "I'm looking for somewhere to stay but I can't find anything.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-032",
+      "front": "El mochilero estuvo buscando dónde alojarse, pero no podía encontrar nada.",
+      "back": "The backpacker was looking for somewhere to stay but couldn't find anything.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-033",
+      "front": "Ella estuvo buscando dónde alojarse, pero todos los hostales estaban completos.",
+      "back": "She was looking for somewhere to stay but all the hostels were fully booked.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Por qué no vienes y te quedas con nosotros?",
+      "back": "Why don't you come and stay with us?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-035",
+      "front": "Tenemos una habitación libre, así que puedes venir y quedarte con nosotros.",
+      "back": "We have a spare bedroom, so you can come and stay with us.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-036",
+      "front": "Sería genial si yo pudiera ir y quedarme con vosotros.",
+      "back": "It would be great if I could come and stay with you.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Tienes un invitado?",
+      "back": "Are you having somebody over to stay?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-038",
+      "front": "Tenemos a un mochilero de invitado.",
+      "back": "We're having a backpacker over to stay.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-039",
+      "front": "Tenemos al amigo de nuestro hijo de invitado para el fin de semana.",
+      "back": "We're having our son's friend over to stay for the weekend.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-040",
+      "front": "Supongo que es hora de decir adiós. Ha estado genial tenerte en casa.",
+      "back": "I guess it's time to say goodbye. It was great having you.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-041",
+      "front": "Supongo que es hora de irte. Ha estado genial tenerte en casa.",
+      "back": "I guess it's time for you to go. It was great having you.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-042",
+      "front": "Supongo que es hora de irme. Muchas gracias por haberme invitado.",
+      "back": "I guess it's time for me to go. Thank you so much for having me.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-043",
+      "front": "Sabes que aquí tienes donde quedarte si algún día decides regresar.",
+      "back": "You know that you have a place to stay if you ever decide to come back.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-044",
+      "front": "Está bien saber que si algún día decido regresar tendré un sitio donde quedarme.",
+      "back": "It's nice to know that if I ever decide to come back, I'll have a place to stay.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-045",
+      "front": "Y si algún día decidís visitarme a mí, sabéis que siempre tendréis donde quedaros también.",
+      "back": "And if you ever decide to visit me, you know that you'll always have a place to stay too.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-046",
+      "front": "Después de un parto difícil, se recomienda pasar la noche en el hospital.",
+      "back": "After a difficult delivery, an overnight stay at the hospital is recommended.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-047",
+      "front": "Después de un parto difícil, se aconseja encarecidamente pasar la noche en el hospital.",
+      "back": "After a difficult delivery, an overnight stay at the hospital is strongly advised.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-048",
+      "front": "Después de un parto fácil, no es necesario pasar la noche en el hospital.",
+      "back": "After an easy delivery, an overnight stay at the hospital isn't necessary.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Bienvenidos al Plaza! ¡Esperamos que disfrute de su estancia!",
+      "back": "Welcome to the Plaza! We hope you enjoy your stay!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-050",
+      "front": "Esta casa de campo es el entorno perfecto para un fin de semana romántico. ¡Disfrutad de vuestra estancia!",
+      "back": "This country house is the perfect setting for a romantic weekend. Enjoy your stay!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-051",
+      "front": "Realmente disfrutamos de nuestra estancia en la casa de campo. Era el entorno perfecto para un fin de semana romántico.",
+      "back": "We really enjoyed our stay at the country house. It was the perfect setting for a romantic weekend.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-052",
+      "front": "Al regresar de una estancia larga en Sudamérica, a ella le resultó difícil adaptarse a su vida normal.",
+      "back": "On returning from a long stay in South America, she found it difficult to adapt to life back home.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-053",
+      "front": "Al regresar de una estancia larga en el norte de África, a él le resultó difícil reajustarse a su vida normal.",
+      "back": "On returning from a long stay in North Africa, he found it difficult to readjust to life back home.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-054",
+      "front": "Al regresar de una estancia corta en el sudeste de Asia, les resultó fácil reajustarse a su vida normal.",
+      "back": "On returning from a short stay in South East Asia, they found it easy to readjust to life back home.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-055",
+      "front": "Los descuentos varían dependiendo de la duración de tu estancia.",
+      "back": "Discounts vary depending on the length of your stay.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-056",
+      "front": "Los beneficios del viaje varían dependiendo de la duración de tu estancia.",
+      "back": "Travel perks vary depending on the length of your stay.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-057",
+      "front": "Los precios varían dependiendo de la duración de tu estancia.",
+      "back": "Prices vary depending on the length of your stay.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-058",
+      "front": "Durante mi estancia en Sudamérica, participé en varios talleres.",
+      "back": "During my stay in South America, I took part in various workshops.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-059",
+      "front": "Durante su estancia en el norte de África, ella participó en varios proyectos.",
+      "back": "During her stay in North Africa, she took part in various projects.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-060",
+      "front": "Durante nuestra estancia en el sudeste de Asia, participamos en varias visitas guiadas.",
+      "back": "During our stay in South East Asia, we took part in various guided tours.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-061",
+      "front": "Como jefe de marketing, mantenerse al tanto de las últimas tendencias no es siempre una tarea fácil.",
+      "back": "As a marketing manager, staying alert to the latest trends is not always an easy task.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-062",
+      "front": "Como padre, mantenerse atento al comportamiento de un adolescente no es siempre una tarea fácil.",
+      "back": "As a parent, staying alert to a teenager's behaviour is not always an easy task.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-063",
+      "front": "Como policía, mantenerse atento a los cambios en la ley no es siempre una tarea fácil.",
+      "back": "As a policeman, staying alert to changes in the law is not always an easy task.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-064",
+      "front": "Me cuesta mantener la concentración al trabajar bajo presión.",
+      "back": "I have trouble staying focused when working under pressure.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Te cuesta mantener la concentración al trabajar bajo presión?",
+      "back": "Do you have trouble staying focused when working under pressure?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-066",
+      "front": "No, no me cuesta nada mantener la concentración al trabajar bajo presión.",
+      "back": "No, I don't have any trouble staying focused when working under pressure.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Cómo mantuviste el ánimo cuando perdiste tu trabajo?",
+      "back": "How did you stay positive when you lost your job?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-068",
+      "front": "Cuando perdí mi trabajo mantuve el ánimo trabajando como voluntario.",
+      "back": "When I lost my job, I stayed positive through volunteer work.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-069",
+      "front": "Es muy importante mantener el ánimo cuando pasas un período difícil.",
+      "back": "It's really important to stay positive when you're going through a difficult period.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-070",
+      "front": "El ejercicio me ayudó a mantenerme fuerte y en forma.",
+      "back": "Exercise helped me stay strong and in shape.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-071",
+      "front": "Los mensajes la ayudaron a mantenerse fuerte durante el período más difícil.",
+      "back": "The messages helped her stay strong during the most difficult period.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-072",
+      "front": "Cuando su madre estaba en el hospital, ella tuvo que mantenerse fuerte para ayudar a sus hermanos y hermanas.",
+      "back": "When their mother was in hospital she had to stay strong for her brothers and sisters.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-073",
+      "front": "Estad atentos para escuchar más noticias sobre las próximas Olimpiadas.",
+      "back": "Stay tuned for more information about the upcoming Olympics!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-074",
+      "front": "Suscríbete a nuestro boletín de noticias para estar al tanto de los próximos eventos.",
+      "back": "Subscribe to our newsletter in order to stay tuned for any upcoming events!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-075",
+      "front": "Mantente en este canal para enterarte de las novedades sobre la situación económica.",
+      "back": "Stay tuned for updates on the economic situation.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-076",
+      "front": "Vámonos. ¡No nos queda mucho tiempo!",
+      "back": "Let's get going. We don't have much time left!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-077",
+      "front": "Tuvieron que irse porque no les quedaba mucho tiempo.",
+      "back": "They had to get going because they didn't have much time left.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-078",
+      "front": "Deberíamos irnos. No nos queda mucho tiempo para coger el tren.",
+      "back": "We should get going. We don't have much time left to catch the train.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-079",
+      "front": "Ella se quedó de piedra cuando se enteró de que iba a ser mamá.",
+      "back": "She was stunned when she found out that she was going to be a mum.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-080",
+      "front": "Él se quedó de piedra cuando se enteró de que había ganado mil libras en la lotería.",
+      "back": "He was stunned when he found out that he'd won a thousand pounds on the lottery.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-081",
+      "front": "Nos quedamos de piedra cuando nos enteramos de que se iban a divorciar. Parecían tan felices.",
+      "back": "We were stunned when we found out that they were getting a divorce. They seemed so happy.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-082",
+      "front": "Si ella sigue cotilleando sobre su jefe, podría quedarse sin trabajo.",
+      "back": "If she keeps gossiping about her boss, she might lose her job.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-083",
+      "front": "Si sigues llegando tarde al trabajo, te quedarás sin trabajo.",
+      "back": "If you keep getting to work late, you'll lose your job.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-084",
+      "front": "Si él sigue hablando así, seguramente se quedará sin trabajo.",
+      "back": "If he keeps talking like that, he's definitely going to lose his job.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-085",
+      "front": "Nos hemos quedado otra vez sin papel higiénico. ¿Puedes ir a por más?",
+      "back": "We've run out of toilet paper again. Can you get some more?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Nos hemos quedado sin papel de cocina también?",
+      "back": "Have we run out of kitchen roll too?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-087",
+      "front": "No, no nos hemos quedado sin papel de cocina, nos hemos quedado sin papel higiénico.",
+      "back": "No, we haven't run out of kitchen roll, we've run out of toilet paper.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-088",
+      "front": "La voy a llamar porque no me quedé con lo que me dijo.",
+      "back": "I'm going to call her because I can't remember what she said.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Cómo se llamaba ella? La conocí en esa fiesta la semana pasada, pero no me quedé con su nombre.",
+      "back": "What was she called? I met her at that party last week but I can't remember her name.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Sabes llegar a la casa de Daniel? No me quedé con su dirección.",
+      "back": "Do you know how to get to Daniel's house? I can't remember his address.",
+      "sourcePage": 28
+    }
+  ]
+}

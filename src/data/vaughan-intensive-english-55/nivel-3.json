@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-55",
+  "bookTitle": "Libro 55",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Si Sarah se hubiera quedado en casa el sábado pasado, no estaría castigada ahora.",
+      "back": "If Sarah had stayed in last Saturday, she wouldn't be grounded now.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-002",
+      "front": "Si Sarah no hubiera sido castigada, no tendría que quedarse en casa el fin de semana que viene.",
+      "back": "If Sarah hadn't been grounded, she wouldn't have to stay in next weekend.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Por qué debería haberse quedado en casa el sábado pasado y por qué está castigada?",
+      "back": "Why should she have stayed in last Saturday and why is she grounded?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-004",
+      "front": "La castigaron a quedarse en casa porque pasó toda la noche fuera y no cogió el teléfono.",
+      "back": "She got grounded because she stayed out all night and didn't answer her phone.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-005",
+      "front": "No te dejaré quedarte hasta tarde por ahí más si no coges el teléfono.",
+      "back": "I won't let you stay out late anymore if you don't even answer your phone.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-006",
+      "front": "No nos importa que te quedes por ahí hasta tarde siempre que cojas el teléfono.",
+      "back": "We don't mind that you stay out late as long as you answer your phone.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-007",
+      "front": "No te puedes ni imaginar lo mucho que me preocupé por ti. ¡Me quedé despierto toda la noche! ¡Pues no me esperes despierto!",
+      "back": "You can't begin to imagine how much I worried about you. I stayed up all night! Well, don't wait up for me then!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-008",
+      "front": "No te puedes ni imaginar lo enfadado que estoy. ¡Me quedé despierto toda la noche!",
+      "back": "You can't begin to imagine how angry I am. I stayed up all night!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-009",
+      "front": "Cuando castigaron a Sarah, se quedaba despierta hasta tarde charlando con sus amigos.",
+      "back": "When Sarah got grounded, she stayed up late chatting with her friends.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Dónde demonios estabas? Me quedé a dormir en casa de Kylie porque perdí el último autobús para volver a casa.",
+      "back": "Where the hell were you? I stayed over at Kylie's house because I missed the last bus home.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-011",
+      "front": "¿Dónde demonios estaba ella? Dijo que se quedaba a dormir en casa de Kylie, pero no la creo.",
+      "back": "Where the hell was she? She said she stayed over at Kylie's house but I don't believe her.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-012",
+      "front": "¿Por qué no me dijiste que ibas a quedarte a dormir en casa de Kylie? Te esperé despierto. No sabía dónde demonios estabas.",
+      "back": "Why didn't you tell me you were going to stay over at Kylie's house? I waited up for you. I didn't know where the hell you were.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-013",
+      "front": "¡Mantente alejado de Kylie y sus amigos! No quiero que te mezcles con la gente equivocada.",
+      "back": "Stay away from Kylie and her friends! I don't want you to fall in with the wrong crowd.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-014",
+      "front": "Su madre estaba tan preocupada porque Sarah se mezclara con la gente equivocada que le dijo que se mantuviera alejada de ellos.",
+      "back": "Her mum was so worried about Sarah falling in with the wrong crowd that she told her to stay away from them.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-015",
+      "front": "Ella se va a mezclar con la gente equivocada si no se mantiene alejada de esa chica.",
+      "back": "She's going to fall in with the wrong crowd if she doesn't stay away from that girl.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-016",
+      "front": "Estoy al tanto de lo que pasa mirando mi correo electrónico cada diez minutos.",
+      "back": "I stay on top of things by checking my email every ten minutes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-017",
+      "front": "Estoy al tanto de lo que pasa pidiéndole a mi equipo que me dé feedback.",
+      "back": "I stay on top of things by asking my team for feedback.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-018",
+      "front": "Estoy al tanto de lo que pasa manteniéndome al corriente de los cotilleos de la oficina.",
+      "back": "I stay on top of things by staying on top of office gossip.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-019",
+      "front": "Más te vale mantenerte enterado si quieres salir con éxito.",
+      "back": "You'd better stay in the loop if you want to come out on top.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-020",
+      "front": "Más te vale mantenerte enterado si quieres conseguir ese ascenso.",
+      "back": "You'd better stay in the loop if you want to get that promotion.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-021",
+      "front": "Más te vale mantenerte enterado si no quieres perder ninguna gran oportunidad.",
+      "back": "You'd better stay in the loop if you don't want to miss out on any great opportunities.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-022",
+      "front": "A ella no le gustan los requisitos respecto a la vestimenta, pero acatará las normas.",
+      "back": "She doesn't like the dress requirements, but she'll stay in line.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-023",
+      "front": "Él no está de acuerdo con la dirección nueva, pero acatará lo que ellos digan.",
+      "back": "He doesn't agree with the new management, but he'll stay in line.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-024",
+      "front": "No estamos de acuerdo con las prácticas de contratación, pero acataremos las normas.",
+      "back": "The new hiring practices don't sit well with us, but we'll stay in line.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-025",
+      "front": "En este proyecto, tu primera prioridad debería ser ajustarte al presupuesto.",
+      "back": "On this project, your first priority should be to stay within budget.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-026",
+      "front": "Puede que él no sea un gerente brillante, pero siempre se ajusta al presupuesto.",
+      "back": "He may not be a brilliant manager but he always stays within budget.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-027",
+      "front": "Un gran gerente entrega resultados de primera calidad al mismo tiempo que se ajusta al presupuesto.",
+      "back": "A great manager delivers top-notch quality results while staying within budget.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-028",
+      "front": "Por aquí has de mantenerte alerta en todo momento.",
+      "back": "Around here you've got to stay on your toes at all times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-029",
+      "front": "Cuando se trata de control de calidad, hemos de mantenernos alerta en todo momento.",
+      "back": "When it comes to quality control, we've got to stay on our toes at all times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-030",
+      "front": "¡No te duermas en los laureles! ¡Si no te mantienes alerta en todo momento te despedirán antes de que te puedas dar cuenta!",
+      "back": "Never rest on your laurels! If you don't stay on your toes at all times you'll be sacked before you know it!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-031",
+      "front": "No le iban a dar el subsidio a él a menos que no se metiera en líos.",
+      "back": "They weren't going to give him the grant unless he stayed out of trouble.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-032",
+      "front": "No le iban a dar la beca de investigación a ella a menos que no se metiera en líos.",
+      "back": "They weren't going to give her the fellowship unless she stayed out of trouble.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-033",
+      "front": "A menos que no se metiera en líos, no le iban a dar la beca a él.",
+      "back": "Unless he stayed out of trouble, they weren't going to give him the scholarship.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-034",
+      "front": "Ella siempre intentaba no cruzarse con su jefe cuando él estaba de mal humor.",
+      "back": "She always tried to stay out of her boss' way whenever he was in a bad mood.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-035",
+      "front": "Él siempre intentaba no cruzarse con su jefa cuando ella estaba de un humor de perros.",
+      "back": "He always tried to stay out of his manager's way whenever she was in a foul mood.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-036",
+      "front": "Ellos siempre intentaban no cruzarse con su director cuando estaba de un humor de perros.",
+      "back": "They always tried to stay out of their director's way whenever he was in a foul mood.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-037",
+      "front": "Más vale que él no se deje ver hasta que la situación se calme.",
+      "back": "He'd better stay out of sight until the situation calms down.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-038",
+      "front": "Más vale que no te dejes ver hasta que las aguas se calmen.",
+      "back": "You'd better stay out of sight until the dust settles.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-039",
+      "front": "Más vale que ella no se deje ver hasta que los ánimos se enfríen.",
+      "back": "She'd better stay out of sight until they clear the air.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-040",
+      "front": "Yo que tú evitaría esta zona de la ciudad. No te conviene mezclarte con esta gente.",
+      "back": "If I were you I'd stay clear of this part of town. You don't want to get mixed up with these people.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-041",
+      "front": "Yo que tú evitaría este barrio. No te conviene mezclarte con los lugareños de por aquí.",
+      "back": "If I were you I'd stay clear of this neighborhood. You don't want to get mixed up with the locals here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-042",
+      "front": "Yo que tú evitaría a esa gente. No te conviene mezclarte con la gente equivocada.",
+      "back": "If I were you I'd stay clear of those people. You don't want to get mixed up with the wrong crowd.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-043",
+      "front": "Pienso que ella tiene razón. No te metas, cuida de tus propios asuntos.",
+      "back": "I think she has a point. Stay out of it, mind your own business.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-044",
+      "front": "Pienso que él tiene razón. No es asunto tuyo, así que no te metas.",
+      "back": "I think he has a point. It's not your business so stay out of it.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-045",
+      "front": "Pienso que él tiene razón. No es asunto suyo, así que más vale que no se metan.",
+      "back": "I think he has a point. It's none of their business so they'd better stay out of it.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Seguirá el gobierno con el plan previsto respecto a los recortes presupuestarios a pesar de los retos que presenta la agitación social?",
+      "back": "Will the government stay the course with the budget cuts despite the challenges posed by the social upheaval?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-047",
+      "front": "El gobierno siguió con el plan previsto con respecto a los recortes presupuestarios a pesar de los retos que presentaba la agitación social.",
+      "back": "The government stayed the course with its budget cuts despite the challenges posed by the social upheaval.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-048",
+      "front": "A pesar de haber seguido con el plan previsto con respecto a los recortes presupuestarios, se espera que el gobierno se enfrente a mucha más oposición ante sus nuevas propuestas.",
+      "back": "Despite having stayed the course with its budget cuts, the government is expected to face much stronger opposition to their new proposals.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-049",
+      "front": "Necesitaba ser constante con su dieta desesperadamente si quería caber en su vestido de novia.",
+      "back": "She badly needed to stay on track with her diet in order to fit into her wedding dress.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-050",
+      "front": "Citas motivadoras le ayudaron a ella a ser constante con sus objetivos.",
+      "back": "Motivating quotes helped her to stay on track with her goals.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-051",
+      "front": "Fue difícil para ella ser constante con su programa de entrenamiento cuando su jefe le pidió que trabajara más horas.",
+      "back": "It was difficult for her to stay on track with her training schedule when her boss asked her to work more hours.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-052",
+      "front": "No bajes la guardia si quieres mantenerte un paso por delante de los demás.",
+      "back": "Don't lower your guard if you want to stay ahead of the game.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-053",
+      "front": "Dentro del mundo de los negocios, es imprescindible hacer lo que sea necesario para mantenerse un paso por delante de los competidores.",
+      "back": "In the world of business it's vital to do whatever it takes to stay ahead of the game.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-054",
+      "front": "Los directores están dispuestos a hacer lo que sea necesario para mantenerse un paso por delante de los competidores.",
+      "back": "The directors are willing to do whatever it takes to stay ahead of the game.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-055",
+      "front": "Está claro que los molinos eólicos no van a desaparecer, ya que son un elemento clave para abordar el cambio climático.",
+      "back": "Wind turbines are clearly here to stay as they are a key part of tackling climate change.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-056",
+      "front": "Está claro que las cámaras de seguridad no van a desaparecer, ya que son un elemento clave para abordar el crimen.",
+      "back": "Security cameras are here to stay as they are a key part of tackling crime.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-057",
+      "front": "El reciclaje no va a desaparecer, ya que es un elemento clave para ayudar al medioambiente.",
+      "back": "Recycling is here to stay as it is a key part of helping the environment.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-058",
+      "front": "Es importante tener una buena relación con tu jefe si quieres ascender.",
+      "back": "It's important to stay on the right side of your boss if you want to be promoted.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-059",
+      "front": "Te tendrás que llevar bien con tu padre si quieres que te deje ir al viaje a París.",
+      "back": "You'll have to stay on the right side of your father if you want him to let you go on the trip to Paris.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-060",
+      "front": "Le tendrás que resultar simpático a Paula para tener posibilidades con Andrea. ¡Son mejores amigas!",
+      "back": "You'll have to stay on the right side of Paula in order to stand a chance with Andrea. They're best friends!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-061",
+      "front": "Él le dio una pulsera a ella y le dijo que se la quedara en señal de su amor.",
+      "back": "He gave her a bracelet and told her to keep it as a sign of his love.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-062",
+      "front": "Ella le dio un anillo a él y le dijo que se lo quedara como símbolo de su amistad.",
+      "back": "She gave him a ring and told him to keep it as a symbol of their friendship.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-063",
+      "front": "Su madre le dio un collar a ella y le dijo que se lo quedara como una reliquia familiar.",
+      "back": "Her mother gave her a necklace and told her to keep it as a family heirloom.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-064",
+      "front": "Mi cita no apareció, pero me quedé esperando toda la tarde por el centro comercial a que ella viniera.",
+      "back": "My date didn't show up, but I spent the whole afternoon hanging around the mall waiting for her to come.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-065",
+      "front": "El restaurante estaba cerrado, así que nos quedamos toda la tarde por allí esperando a que abriera.",
+      "back": "The restaurant was closed, so we spent the whole evening hanging around waiting for it to open.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-066",
+      "front": "El partido fue retrasado a causa de lluvias fuertes, así que el público se quedó toda la tarde por allí esperando a que empezara.",
+      "back": "The game was delayed due to heavy rain, so the crowd spent the whole evening hanging around waiting for it to start.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-067",
+      "front": "El invitado se quedó en la fiesta hablando con los anfitriones mucho después de que salieran todos los demás.",
+      "back": "The guest lingered at the party speaking with the hosts long after everyone else left.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-068",
+      "front": "La pareja decidió quedarse en la estación diez minutos más, porque ninguno de los dos estaba dispuesto a decir adiós.",
+      "back": "The couple decided to linger at the station for ten more minutes because neither of them was willing to say goodbye.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-069",
+      "front": "Él olía tan mal que aún después de salir de su escritorio, su peste permaneció en el cubículo.",
+      "back": "He smelled so bad that even after he left his desk, his stink lingered in the cubicle.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-070",
+      "front": "Mi amigo me llamó a las tres de la mañana, preguntándome si podría quedarse en mi casa.",
+      "back": "My friend called me at 3 A.M., asking me if it would be OK if he crashed at mine.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-071",
+      "front": "Le dije a él que podía quedarse en mi casa, siempre que no le importara dormir en el sofá.",
+      "back": "I told him that he could crash at mine, as long as he didn't mind sleeping on the sofa.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-072",
+      "front": "Me dijo que siempre que a mí no me molestara, a él no le importaría dormir en el sofá.",
+      "back": "He said that as long as it didn't bother me, he wouldn't mind crashing on the sofa.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-073",
+      "front": "Aunque lleva viuda los últimos cuatro años, gracias a sus amigos ha podido aguantar.",
+      "back": "Even though she's been widowed for the last four years, thanks to her friends, she's been able to cope.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-074",
+      "front": "Aunque lleva viuda los últimos cinco años, gracias a sus amigos ha podido aguantar.",
+      "back": "Even though she's been widowed for the last five years, thanks to her friends, she's been able to deal.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-075",
+      "front": "Aunque quedó huérfano a la edad de seis años, gracias a su familia adoptiva, ha podido vivir una vida normal.",
+      "back": "Even though he was orphaned at the age of six, thanks to his adoptive family, he's been able to live a normal life.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-076",
+      "front": "El acusado se quedó en la cárcel hasta que se programó de nuevo su juicio.",
+      "back": "The defendant remained in prison until his trial was rescheduled.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-077",
+      "front": "El acusado conservó la calma mientras que el jurado leyó el veredicto.",
+      "back": "The defendant remained calm as the jury read the verdict.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-078",
+      "front": "El acusado tuvo que permanecer esposado mientras que el juez anunció el veredicto.",
+      "back": "The accused had to remain in handcuffs as the judge announced the verdict.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-079",
+      "front": "El estado de los refugiados sigue siendo crítico porque los enfrentamientos en la región continúan.",
+      "back": "The state of the refugees remains critical as the fighting continues in the region.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-080",
+      "front": "Sigue habiendo preocupación sobre la seguridad de los refugiados cuyas casas fueron destruidas durante los enfrentamientos.",
+      "back": "Concerns remain about the safety of the refugees whose homes were destroyed during the fighting.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-081",
+      "front": "El asunto de la seguridad de los refugiados sigue siendo un problema grave.",
+      "back": "The issue of the refugees' safety remains a huge problem.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-082",
+      "front": "La única opción que queda es que ambas partes acepten el alto el fuego.",
+      "back": "The only option that remains is that both sides accept a ceasefire.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-083",
+      "front": "Queda por ver si el alto el fuego será violado o no.",
+      "back": "It remains to be seen whether or not the ceasefire will be violated.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Qué es lo que queda por hacer ahora que los enfrentamientos han terminado?",
+      "back": "What remains to be done now that the fighting has ceased?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-085",
+      "front": "Esperamos que los enfrentamientos en todas las regiones cesen pronto para que los refugiados que quedan puedan volver a sus casas.",
+      "back": "We hope the fighting in all the regions will cease soon so that the remaining refugees can return to their homes.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Cuándo pudieron volver a sus casas los refugiados que quedaban?",
+      "back": "When were the remaining refugees able to return to their homes?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-087",
+      "front": "Los refugiados restantes pudieron volver a sus casas una vez que los enfrentamientos habían cesado.",
+      "back": "The remaining refugees were able to return to their homes once the fighting had ceased.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-088",
+      "front": "Estos son los restos del muro de la ciudad que data del siglo XII.",
+      "back": "These are the remains of the city wall dating back to the 12th century.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-089",
+      "front": "Estos restos humanos que se encontraron en un yacimiento arqueológico datan del año 1000 a. C.",
+      "back": "These human remains found at an archaeological site date back to 1000 BC.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s3-090",
+      "front": "Todavía se pueden ver los restos de un templo que data del comienzo del siglo XV.",
+      "back": "You can still see the remains of a temple dating back to the early 15th century.",
+      "sourcePage": 42
+    }
+  ]
+}

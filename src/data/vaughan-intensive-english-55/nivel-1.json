@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-55",
+  "bookTitle": "Libro 55",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Normalmente me quedo en casa por las tardes.",
+      "back": "I usually stay at home in the evening.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-002",
+      "front": "Mis padres siempre se quedan en casa por las tardes.",
+      "back": "My parents always stay at home in the evening.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-003",
+      "front": "Normalmente mi hermano mayor no se queda en casa los fines de semana.",
+      "back": "My older brother doesn't usually stay at home at the weekend.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Quién se queda dentro cuando llueve?",
+      "back": "Who stays inside when it's raining?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-005",
+      "front": "Nuestro gato siempre se queda dentro cuando llueve.",
+      "back": "Our cat always stays inside when it's raining.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-006",
+      "front": "Todo el mundo se queda dentro cuando llueve.",
+      "back": "Everybody stays inside when it's raining.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Hasta qué hora te quedas en el trabajo los viernes?",
+      "back": "How late do you stay at work on Fridays?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-008",
+      "front": "Normalmente los viernes me quedo en el trabajo hasta las cuatro.",
+      "back": "I usually stay at work until four on Fridays.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-009",
+      "front": "Pero normalmente entre semana me quedo en el trabajo hasta las siete o las ocho.",
+      "back": "But I normally stay at work until seven or eight during the week.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-010",
+      "front": "¡Venga! ¿Por qué no te quedas a tomar algo?",
+      "back": "Come on, why don't you stay for a drink?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-011",
+      "front": "No puedo quedarme a tomar algo.",
+      "back": "I can't stay for a drink.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-012",
+      "front": "Vale, pero ¡solo puedo quedarme a tomar una!",
+      "back": "OK, but I can only stay for one!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-013",
+      "front": "Kate siempre se queda en las fiestas hasta tarde.",
+      "back": "Kate always stays at parties until late.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-014",
+      "front": "Pero a ella no le gusta quedarse en las fiestas de la oficina hasta tarde.",
+      "back": "But she doesn't like to stay at office parties until late.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-015",
+      "front": "Normalmente ella solo se queda en las fiestas de la oficina a tomar una o dos copas.",
+      "back": "She usually only stays at office parties for one or two drinks.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-016",
+      "front": "Nos estamos alojando en un hotel de cinco estrellas por nuestra luna de miel.",
+      "back": "We're staying at a five-star hotel for our honeymoon.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-017",
+      "front": "¿En qué hotel de cinco estrellas os alojáis?",
+      "back": "What five-star hotel are you staying at?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-018",
+      "front": "Nos alojamos en el Pitz, en la suite nupcial.",
+      "back": "We're staying at the Pitz, in the bridal suite.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-019",
+      "front": "Los obreros se alojan en una posada ahí al lado.",
+      "back": "The builders are staying at an inn down the road.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Tú también te alojas en la posada de ahí al lado?",
+      "back": "Are you staying at the inn down the road too?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-021",
+      "front": "Nos alojamos en el Crown Inn ahí al lado.",
+      "back": "We're staying at the Crown Inn up the road.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-022",
+      "front": "La pareja se aloja en una casa de huéspedes porque el hotel está completo.",
+      "back": "The couple is staying at a guest house because the hotel is fully booked.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "Me alojo en la posada porque la casa de huéspedes está llena.",
+      "back": "I'm staying at the inn because the guest house is fully booked.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "Los albañiles se alojan en esta casa de huéspedes porque la otra casa de huéspedes que hay ahí al lado está llena.",
+      "back": "The builders are staying at this guest house because the guest house down the road is fully booked.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "Los mochileros se alojan en el albergue de ahí al lado.",
+      "back": "The backpackers are staying at the hostel down the road.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Por qué se alojan los mochileros en el albergue de ahí al lado?",
+      "back": "Why are the backpackers staying at the hostel down the road?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "Los mochileros se alojan en ese albergue juvenil porque es muy barato.",
+      "back": "The backpackers are staying at that youth hostel because it's very cheap.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Por qué no se alojan en un apartamento?",
+      "back": "Why aren't they staying at an apartment?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "No se alojan en un apartamento porque prefieren pensión completa.",
+      "back": "They're not staying at an apartment because they prefer full board.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella no se aloja en un apartamento porque prefiere media pensión.",
+      "back": "She's not staying at an apartment because she prefers half board.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "Mi hermana se va a alojar conmigo durante el puente.",
+      "back": "My sister's going to stay with me over the long weekend.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "Me voy a alojar con mis padres durante las vacaciones de Navidad.",
+      "back": "I'm going to stay with my parents over the Christmas break.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "Mis sobrinos se van a alojar conmigo durante las vacaciones de Semana Santa.",
+      "back": "My nieces and nephews are going to stay with me over the Easter break.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "Mi hermano se va a alojar en mi casa.",
+      "back": "My brother's going to stay at mine.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Te vas a alojar en la casa de él o en la de ella?",
+      "back": "Are you going to stay at his or at hers?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "No me voy a alojar en tu casa ni en la de ella; me voy a alojar en el hotel de ahí al lado.",
+      "back": "I'm not going to stay at yours or hers; I'm going to stay at the hotel down the road.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "Me voy a alojar en casa de Andy, aunque su piso está mugriento.",
+      "back": "I'm going to stay at Andy's even though his flat is filthy.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Ella se va a alojar en casa de Tom, aunque sabe que su piso está mugriento.",
+      "back": "She's going to stay at Tom's even though she knows his flat is filthy.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Él se va a alojar en casa de Rachel, aunque sabe que su piso está mugriento.",
+      "back": "He's going to stay at Rachel's even though he knows her flat is filthy.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Ella se alojará en casa de sus padres hasta que encuentre trabajo.",
+      "back": "She'll stay at her parents' house until she finds a job.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Él se alojará en casa de su amigo hasta que su mujer se mude.",
+      "back": "He'll stay at his friend's house until his wife moves out.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Me alojaré en casa de mi hermana hasta que mi compañero de piso se mude.",
+      "back": "I'll stay at my sister's house until my flat mate moves out.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Si me alojo en casa de mi novio, mis padres se enfadarán.",
+      "back": "If I stay at my boyfriend's place, my parents will get angry.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Si me alojo en casa de Edward, mi novio se enfadará.",
+      "back": "If I stay at Edward's place, my boyfriend will get angry.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Si no me alojo en casa de mi novio, él se enfadará.",
+      "back": "If I don't stay at my boyfriend's place, he'll get angry.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Quédate aquí! ¡Ahora mismo vuelvo!",
+      "back": "Stay here! I'll be right back!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Quédate aquí! ¡Vuelvo en un minuto!",
+      "back": "Stay here! I'll be back in a minute!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Quédate aquí! ¡Vuelvo en un momento!",
+      "back": "Stay here! I'll be back in a moment!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Quédate allí! ¡Ahora mismo voy!",
+      "back": "Stay there! I'll be right there!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Quédate allí! ¡Iré a buscarte!",
+      "back": "Stay there! I'll come and get you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "¡Quédate allí! ¡Alguien irá a buscarte!",
+      "back": "Stay there! Somebody will come and get you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Quédate en la cama. Tienes que descansar. (need some rest)",
+      "back": "Stay in bed. You need some rest.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-053",
+      "front": "Quédate en la cama. Tienes que descansar. (need to get)",
+      "back": "Stay in bed! You need to get some rest!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-054",
+      "front": "Quédate en la cama. Tienes que dormir.",
+      "back": "Stay in bed! You need to get some sleep!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Quédate conmigo! ¡Le tengo miedo a la oscuridad!",
+      "back": "Stay with me! I'm scared of the dark!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Quédate con ella! ¡Le dan miedo los truenos!",
+      "back": "Stay with her! She's scared of thunder!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Quédate con ellos! ¡Les da miedo estar solos!",
+      "back": "Stay with them! They're scared of being alone!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Arriba las manos! ¡Quédate donde estás!",
+      "back": "Hands up! Stay where you are!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-059",
+      "front": "¡Quédate donde estás o disparamos!",
+      "back": "Stay where you are or we'll shoot!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-060",
+      "front": "¡Quédate donde estás! ¡Mamá vendrá a buscarte!",
+      "back": "Stay where you are! Mummy will come and get you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-061",
+      "front": "Necesito que te quedes quieto mientras te corto el pelo.",
+      "back": "I need you to stay still while I'm cutting your hair.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-062",
+      "front": "Él necesita que ella se quede quieta mientras le corta el pelo.",
+      "back": "He needs her to stay still while he's cutting her hair.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella necesita que ella se quede quieta mientras le corta las uñas.",
+      "back": "She needs her to stay still while she's cutting her nails.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Cómo sobreviven los camellos en el desierto?",
+      "back": "How do camels stay alive in the desert?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Cómo sobreviven los árboles en el invierno?",
+      "back": "How do trees stay alive in the winter?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Cómo sobreviven los caballos en su hábitat natural?",
+      "back": "How do horses stay alive in the wild?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-067",
+      "front": "Deberías seguir comiendo fruta si quieres mantenerte sano.",
+      "back": "You should keep eating fruit if you want to stay healthy.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-068",
+      "front": "Él debería seguir haciendo ejercicio si quiere mantenerse sano.",
+      "back": "He should keep doing exercise if he wants to stay healthy.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-069",
+      "front": "Ella debería seguir yendo al trabajo a pie si quiere mantenerse sana.",
+      "back": "She should keep walking to work if she wants to stay healthy.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-070",
+      "front": "Necesitaré mucho café para mantenerme despierto toda la noche.",
+      "back": "I'll need a lot of coffee to stay awake all night.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Por qué necesitas mantenerte despierto toda la noche?",
+      "back": "Why do you need to stay awake all night?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-072",
+      "front": "Me resulta imposible mantenerme despierto toda la noche.",
+      "back": "It's impossible for me to stay awake all night.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Que todo el mundo mantenga la calma! ¡Que no cunda el pánico!",
+      "back": "Everybody please stay calm! Don't panic!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-074",
+      "front": "En caso de incendio, mantengan la calma y salgan del edificio lo antes posible.",
+      "back": "In case of fire, stay calm and leave the building as soon as possible.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-075",
+      "front": "Mantén la calma, ¡ahora mismo voy!",
+      "back": "Stay calm, I'll be right there!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-076",
+      "front": "Puedes alojarte conmigo, pero no tengo un edredón de sobra.",
+      "back": "You can stay with me but I don't have a spare duvet.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Me puedo alojar en tu casa si llevo mi propio edredón?",
+      "back": "Can I stay at yours if I bring my own duvet?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-078",
+      "front": "Por supuesto que te puedes alojar en mi casa si traes tu propio edredón.",
+      "back": "Of course you can stay at my place if you bring your own duvet.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-079",
+      "front": "Si quieres, puedes alojarte en mi casa siempre que no traigas a tu perro.",
+      "back": "You're welcome to stay at mine as long as you don't bring your dog.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-080",
+      "front": "Si quieres, puedes alojarte en mi casa siempre que no traigas al pesado de tu perro.",
+      "back": "You're welcome to stay at my place as long as you don't bring your annoying dog.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-081",
+      "front": "Si quieres, puedes alojarte en mi casa siempre que no traigas al pesado de tu amigo.",
+      "back": "You're welcome to stay at my house as long as you don't bring your annoying friend.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-082",
+      "front": "¡No dudes en quedarte en mi casa cuando estés en la ciudad!",
+      "back": "Feel free to stay at mine whenever you're in the city!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-083",
+      "front": "¡No dudes en quedarte en mi casa cuando quieras visitar Madrid!",
+      "back": "Feel free to stay at my place whenever you want to visit Madrid!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-084",
+      "front": "¡No dudes en quedarte en casa de mis padres cuando vayas a Sevilla!",
+      "back": "Feel free to stay at my parents' place whenever you go to Seville!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Dónde crees que debería alojarme?",
+      "back": "Where do you think I should stay?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-086",
+      "front": "Deberías alojarte en el Crown Inn aquí al lado; tienen un bufé de desayuno estupendo.",
+      "back": "You should stay at the Crown Inn just down the road; they have a great breakfast buffet.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-087",
+      "front": "No deberías alojarte en el Hilcon; su bufé de desayuno no es muy bueno.",
+      "back": "You shouldn't stay at the Hilcon; their breakfast buffet isn't that good.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-088",
+      "front": "Mi hermana se queda en mi casa la semana que viene.",
+      "back": "I'm having my sister over next week.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-089",
+      "front": "Mis padres se van a quedar en mi casa un par de días.",
+      "back": "I'm going to have my parents over for a couple of days.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-090",
+      "front": "Mi amiga se va a quedar en mi casa unos días.",
+      "back": "I'm going to have my friend over for a few days.",
+      "sourcePage": 14
+    }
+  ]
+}
