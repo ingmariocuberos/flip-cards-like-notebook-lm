@@ -1,0 +1,544 @@
+{
+  "bookId": "vaughan-intensive-english-52",
+  "bookTitle": "Libro 52",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Los vegetarianos comen fruta y verdura.",
+      "back": "Vegetarians eat fruit and vegetables.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Los carnívoros comen carne.",
+      "back": "Carnivores eat meat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Los omnívoros comen de todo!",
+      "back": "Omnivores eat everything!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Los vegetarianos no comen carne roja.",
+      "back": "Vegetarians don't eat red meat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Algunos vegetarianos no comen pescado.",
+      "back": "Some vegetarians don't eat fish.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Algunos omnívoros no comen coles de Bruselas.",
+      "back": "Some omnivores don't eat sprouts!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Las vacas comen hierba? Sí, las vacas comen hierba.",
+      "back": "Do cows eat grass? Yes, cows eat grass.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Los osos hormigueros comen hormigas? Sí, los osos hormigueros comen hormigas.",
+      "back": "Do anteaters eat ants? Yes, anteaters eat ants.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Los gatos comen vacas? No, los gatos no comen vacas.",
+      "back": "Do cats eat cows? No, cats don't eat cows.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Los caballos beben cerveza? No, no beben cerveza.",
+      "back": "Do horses drink beer? No, they don't drink beer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Por qué no beben cerveza? Porque beben agua.",
+      "back": "Why don't they drink beer? Because they drink water.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Bebes agua rápidamente?",
+      "back": "Do you drink water quickly?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Sí, bebo agua rápidamente.",
+      "back": "Yes, I drink water quickly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Por qué bebes agua tan rápidamente?",
+      "back": "Why do you drink water so quickly?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Él siempre come algo entre horas.",
+      "back": "He always has something to eat between meals.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-016",
+      "front": "Ella de vez en cuando come algo entre horas.",
+      "back": "She sometimes has something to eat between meals.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Ellos comen algo entre horas a menudo.",
+      "back": "They often have something to eat between meals.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Yo siempre desayuno sobre las 08:00.",
+      "back": "I always have breakfast at around 8 a.m.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Nosotros almorzamos sobre las 15:00 de vez en cuando.",
+      "back": "We sometimes have lunch at around 3 p.m.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tú cenas sobre las 21:00 a menudo.",
+      "back": "You often have dinner at around 9 p.m.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Yo siempre tomo algo para beber después del trabajo.",
+      "back": "I always have something to drink after work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "James toma un café antes del trabajo a menudo.",
+      "back": "James often has a coffee before work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Caroline toma un café en el trabajo de vez en cuando.",
+      "back": "Caroline sometimes has a coffee at work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Vamos a algún sitio bueno a coger algo para comer.",
+      "back": "Let's go grab something to eat from somewhere nice.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Vamos a algún sitio barato a coger algo para comer.",
+      "back": "Let's go grab some food from somewhere cheap.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Vamos a algún sitio donde haga calorcito a coger algo para comer.",
+      "back": "Let's go grab some food from somewhere warm.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Vamos a coger algo para comer en algún sitio bueno.",
+      "back": "Let's grab a bite to eat somewhere nice.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Vamos a coger algo para comer en algún sitio barato.",
+      "back": "Let's grab a bite to eat somewhere cheap.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Vamos a coger algo para comer en algún sitio donde haga calorcito.",
+      "back": "Let's grab a bite to eat somewhere warm.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Hoy comemos en casa.",
+      "back": "We're eating in today.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Por qué coméis en casa hoy?",
+      "back": "Why are you eating in today?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Comemos en casa hoy para ahorrar dinero.",
+      "back": "We're eating in today to save money.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Solo como fuera de casa en ocasiones especiales.",
+      "back": "I only eat out on special occasions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Es una ocasión especial! ¡Cenemos fuera esta noche!",
+      "back": "It's a special occasion! Let's eat out tonight!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "No quiero comer fuera. No es una ocasión especial.",
+      "back": "I don't want to eat out. It's not a special occasion.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Siempre salimos a cenar en las grandes ocasiones.",
+      "back": "We always go out for dinner on special occasions.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Es una gran ocasión. ¡Salgamos a cenar!",
+      "back": "It's a special occasion. Let's go out for dinner!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "No quiero salir a cenar. No es una gran ocasión.",
+      "back": "I don't want to go out for dinner. It's not a special occasion.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Por qué no salimos a tomar algo? (a drink)",
+      "back": "Why don't we go out for a drink?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Por qué no salimos a tomar algo? (drinks)",
+      "back": "Why don't we go out for some drinks?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Por qué no salimos a tomar un café?",
+      "back": "Why don't we go out for a coffee?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Vamos a por comida para llevar!",
+      "back": "Let's grab a takeaway!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Por qué vas a por comida para llevar?",
+      "back": "Why are you grabbing a takeaway?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Voy a por comida para llevar porque no quiero cocinar.",
+      "back": "I'm grabbing a takeaway because I don't want to cook.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Las bebidas con gas me dan acidez.",
+      "back": "Fizzy drinks give me heartburn.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-046",
+      "front": "Las bebidas con gas me producen indigestión.",
+      "back": "Fizzy drinks give me indigestion.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Las bebidas con gas me dan dolores de cabeza.",
+      "back": "Fizzy drinks give me headaches.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Te dan acidez los refrescos?",
+      "back": "Do soft drinks give you heartburn?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Te dan indigestión los refrescos?",
+      "back": "Do soft drinks give you indigestion?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Te dan dolores de cabeza los refrescos?",
+      "back": "Do soft drinks give you headaches?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Sale cara la comida en aquel restaurante?",
+      "back": "Is the food in that restaurant overpriced?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Sí, la comida en aquel restaurante sale cara.",
+      "back": "Yes, the food in that restaurant is overpriced.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "No, la comida en aquel restaurante no sale cara.",
+      "back": "No, the food in that restaurant isn't overpriced.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Él come tres comidas completas al día.",
+      "back": "He eats three square meals a day.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Comes tres comidas completas al día?",
+      "back": "Do you eat three square meals a day?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "No, no como tres comidas completas al día.",
+      "back": "No, I don't eat three square meals a day.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Cuál es el plato del día?",
+      "back": "What's the dish of the day?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "El plato del día es pollo al horno.",
+      "back": "The dish of the day is roast chicken.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Yo tomaré el plato del día entonces, por favor.",
+      "back": "I'll have the dish of the day then, please.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Camarero, este plato lleva demasiada sal.",
+      "back": "Waiter, this dish is too salty.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-061",
+      "front": "¿De verdad está demasiado salado?",
+      "back": "Is it really too salty?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Sí. Seguro que está demasiado salado.",
+      "back": "Yes. It's definitely too salty.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Le gusta su café amargo a usted?",
+      "back": "Do you like your coffee bitter?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Sí, me gusta el café bastante amargo.",
+      "back": "Yes, I like it quite bitter.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Bastante amargo, pero no demasiado amargo.",
+      "back": "Quite bitter but not too bitter.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Este pomelo está demasiado agrio.",
+      "back": "This grapefruit is too sour!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Qué espera usted? El pomelo es una fruta agria.",
+      "back": "What do you expect? Grapefruit is a sour fruit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Sí, pero este pomelo está verdaderamente agrio.",
+      "back": "Yes, but this grapefruit is really sour!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "La comida picante me pone malo o mala.",
+      "back": "Spicy food makes me ill.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "La comida picante me hace sudar.",
+      "back": "Spicy food makes me sweat.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "La comida picante me hace toser.",
+      "back": "Spicy food makes me cough.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Está el vino demasiado dulce?",
+      "back": "Is the wine too sweet?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Sí, el vino está demasiado dulce.",
+      "back": "Yes, the wine's too sweet.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No me gusta el vino dulce, prefiero el seco.",
+      "back": "I don't like sweet wine, I prefer dry.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Alguna vez te muerdes el labio al comer?",
+      "back": "Do you ever bite your lip when you're eating?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-076",
+      "front": "Mi hijo siempre se muerde el labio al comer.",
+      "back": "My son always bites his lip when he's eating.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Yo nunca me muerdo el labio al comer.",
+      "back": "I never bite my lip when I'm eating.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¡No mastiques tan ruidosamente!",
+      "back": "Don't chew so loudly!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Mastica con la boca cerrada!",
+      "back": "Chew with your mouth closed!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Mastica bien!",
+      "back": "Chew properly!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Prueba este estofado, está delicioso.",
+      "back": "Taste this stew, it's amazing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Prueba esta tarta, está deliciosa.",
+      "back": "Taste this pie, it's amazing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Prueba este postre, está delicioso.",
+      "back": "Taste this dessert, it's amazing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "No te tragues un hueso.",
+      "back": "Don't swallow a bone.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "No te tragues tus chicles.",
+      "back": "Don't swallow your chewing gum.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "No te tragues tu enjuague bucal.",
+      "back": "Don't swallow your mouthwash.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Él se está atragantando con el estofado!",
+      "back": "He's choking on his stew!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¡Ella se está atragantando con el chicle!",
+      "back": "She's choking on her chewing gum!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¡Él se está atragantando con la tarta!",
+      "back": "He's choking on his pie!",
+      "sourcePage": 13
+    }
+  ]
+}

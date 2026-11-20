@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-52",
+  "bookTitle": "Libro 52",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿No fuiste tú la que se bebió todo el vino?",
+      "back": "Wasn't it you who drank all the wine?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Sí, lo siento; fui yo la que se bebió todo el vino en el fin de semana.",
+      "back": "Yeah, sorry; it was me who drank all the wine on the weekend.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "¡No puedo creer que te bebieras tanto vino!",
+      "back": "I can't believe you drank so much wine!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Carla se bebió todo el zumo de arándanos. Se lo bebió todo antes de la cena.",
+      "back": "Carla drank up all the cranberry juice. She drank it all up before dinner.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Creo que Carla se bebió toda la leche ayer. Se la bebió toda antes del desayuno.",
+      "back": "I think Carla drank up all the milk yesterday. She drank it all up before breakfast.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "¿Te bebiste todo ese zumo de naranja? Sí, lo siento, me lo bebí yo.",
+      "back": "Did you drink up all that orange juice? Yeah, sorry, I drank it all up!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Por qué está vacía la botella de leche? Ernesto se la bebió toda.",
+      "back": "How come the milk bottle's empty? Ernesto drank it all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Por qué la botella de ginebra está vacía? Silvia se la bebió toda.",
+      "back": "How come the gin bottle is empty? Sylvia drank it all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Por qué está vacía la botella de vino? Enrique se lo bebió todo.",
+      "back": "How come the wine bottle is empty? Enrique drank it all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¡No queda leche porque Richard se la bebió toda!",
+      "back": "There's no milk left because Richard drank the lot!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "¡No queda zumo porque María se lo bebió todo!",
+      "back": "There's no juice left because María drank the lot!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¡No queda cerveza porque Aindrias se la bebió toda!",
+      "back": "There's no beer left because Aindrias drank the lot!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¡La botella de leche está vacía! ¡No me puedo creer que te la bebieras toda!",
+      "back": "The milk bottle is empty! I can't believe you drank the whole thing!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¡La botella de ginebra está vacía! ¡No me puedo creer que te la bebieras toda!",
+      "back": "The gin bottle is empty! I can't believe you drank the whole thing!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¡La botella de vino está vacía! ¡No me puedo creer que te lo bebieras todo!",
+      "back": "The wine bottle is empty! I can't believe you drank the whole thing!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Has probado todos los cócteles de la carta? Sí, he probado todos los cócteles de la carta.",
+      "back": "Have you tried every cocktail on the menu? Yes, I've tried every cocktail on the menu.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Has probado cada tipo de café en Buckstars? Sí, he probado cada tipo de café de Buckstars.",
+      "back": "Have you tried every type of coffee in Buckstars? Yes, I've tried every type of coffee in Buckstars.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Has probado todos los batidos del planeta? Sí, ¡he probado todos los batidos del planeta!",
+      "back": "Have you tried every milkshake on the planet? Yes, I've tried every milkshake on the planet!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Ha bebido Edmund brandy últimamente? No bebe brandy desde Navidad.",
+      "back": "Has Edmund drunk any brandy recently? Edmund hasn't drunk any brandy since Christmas.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Ha bebido sangría esta semana? No bebe sangría desde el verano.",
+      "back": "Has he drunk any sangria this week? He hasn't drunk any sangria since the summer.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Ha bebido café hoy? ¡No bebe café desde enero!",
+      "back": "Has he drunk any coffee today? He hasn't drunk any coffee since January!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Se ha vuelto a beber toda la leche? Sí, parece que se ha bebido toda la leche.",
+      "back": "Has she gone and drunk all the milk again? Yeah, it looks like she's gone and drunk all the milk.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Se ha vuelto a beber toda el agua con gas? Sí, parece que se ha bebido toda el agua con gas.",
+      "back": "Has she gone and drunk all the sparkling water again? Yeah, it looks like she's gone and drunk all the sparkling water.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Se ha bebido todo el zumo también? ¡Sí, parece que se ha bebido todo el zumo también!",
+      "back": "Has she gone and drunk all the juice as well? Yeah, it looks like she's gone and drunk all the juice as well!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿De verdad te has vuelto a beber toda la leche? Sí, lo siento, ¡me he bebido toda la leche!",
+      "back": "Have you really gone and drunk all the milk again? Yeah, sorry, I've drunk all the milk!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿De verdad te has vuelto a beber todo el agua con gas? Sí, lo siento, ¡me he bebido todo el agua con gas!",
+      "back": "Have you really gone and drunk all the sparkling water again? Yeah, sorry, I've drunk all the sparkling water!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿De verdad has vuelto a beberte todo el zumo? ¡No! ¡No me he bebido nada de zumo!",
+      "back": "Have you really gone and drunk all the juice again? No! I haven't drunk any juice!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Alguna vez has bebido cerveza con sabor a chocolate? No, nunca he bebido cerveza con sabor a chocolate.",
+      "back": "Have you ever drunk chocolate flavor beer? No, I've never drunk chocolate flavor beer.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Alguna vez has bebido café turco? No, nunca he bebido café turco, ¡pero me gustaría!",
+      "back": "Have you ever drunk Turkish coffee? Nope, I've never drunk Turkish coffee, but I'd like to!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Alguna vez has bebido té de jengibre? No, nunca he bebido té de jengibre.",
+      "back": "Have you ever drunk ginger tea? Nope, I've never drunk ginger tea.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Quién se ha comido todas las tartas?",
+      "back": "Who ate all the pies?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Frank se ha comido todas las tartas.",
+      "back": "Frank ate all the pies.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "¿No fue Frank el que se comió todas las tartas la última vez?",
+      "back": "Wasn't it Frank who ate all the pies last time?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "¡Buen chico! Te has comido todas las verduras.",
+      "back": "Good boy! You ate up all your vegetables.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "¡Buen chico! Te has comido toda la cena.",
+      "back": "Good lad! You ate up all your dinner.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¡Muy bien! Te has comido todo el repollo.",
+      "back": "Well done! You ate up all your cabbage.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¡Las galletas han desaparecido! ¡No me puedo creer que te las hayas comido todas!",
+      "back": "The biscuits are all gone! I can't believe you ate them all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¡Los pasteles han desaparecido! ¡No me puedo creer que te los hayas comido todos!",
+      "back": "The cakes are all gone! I can't believe you ate them all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Las cerezas han desaparecido! ¡No me puedo creer que te las hayas comido todas!",
+      "back": "The cherries are all gone! I can't believe you ate them all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¡El chocolate ha desaparecido! ¡No me puedo creer que te lo hayas comido todo!",
+      "back": "The chocolate is all gone! I can't believe you ate it all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "¡El queso ha desaparecido! ¡No me puedo creer que te lo hayas comido todo!",
+      "back": "The cheese is all gone! I can't believe you ate it all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¡El pan ha desaparecido! ¡No me puedo creer que te lo hayas comido todo!",
+      "back": "The bread is all gone! I can't believe you ate it all up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "¡Comí y comí hasta que estuve lleno!",
+      "back": "I ate and ate until I was full!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "¡Él comió y comió hasta que no pudo comer más!",
+      "back": "He ate and ate until he couldn't eat any more!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "¡Ella comió y comió hasta que explotó!",
+      "back": "She ate and ate until she burst!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Cuando te hayas comido todas las verduras, puedes comer un postre.",
+      "back": "When you've eaten all your greens, you can have some dessert.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¡Mamá! ¡Me he comido todas las verduras! ¿Ahora puedo comer un postre?",
+      "back": "Mum! I've eaten all my greens! Can I have some dessert now?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¡No, no puedes! No te has comido todas las verduras, ¡están en la basura!",
+      "back": "No, you can't! You haven't eaten your greens, they're in the bin!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Cuando te hayas comido todas las verduras, puedes salir a jugar fuera.",
+      "back": "When you've eaten your greens, you can go out and play.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "¡Me he comido las verduras, mamá! ¿Ahora puedo salir a jugar fuera?",
+      "back": "I've eaten my greens mum! Can I go out and play now?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Tienes que esperar hasta cerca de media hora después de comer antes de que puedas salir a jugar fuera.",
+      "back": "You have to wait until about half an hour after you've eaten before you can go out and play.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Por qué no te has comido las verduras, Josh?",
+      "back": "Why haven't you eaten your greens Josh?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "¡No me he comido las verduras porque no me gustan!",
+      "back": "I haven't eaten my greens because I don't like them!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "¡Pues no te vas a levantar de la mesa de la cocina hasta que te las hayas comido todas!",
+      "back": "Well, you're not leaving the dinner table until you've eaten them all!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Te has comido todas las tartas, Luke?",
+      "back": "Have you eaten all the cakes Luke?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "No, mamá, ¡te prometo que no me he comido todas las tartas!",
+      "back": "No, mum, I promise I haven't eaten all the cakes!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Si no te has comido todas las tartas, ¿por qué tienes chocolate por toda la cara?",
+      "back": "If you haven't eaten all the cakes, why do you have chocolate all over your face?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Elliot, ¿ya has comido?",
+      "back": "Elliot, have you eaten yet?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Sí mamá, ya he comido.",
+      "back": "Yes mum, I've already eaten.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "No, todavía no he comido.",
+      "back": "No, I haven't eaten yet.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Cómetelo todo o no recibirás postre.",
+      "back": "Eat up or else you won't get any dessert.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Cómetelo todo o no recibirás tu paga esta semana.",
+      "back": "Eat up or else you won't get any pocket money this week.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Cómetelo todo o no hay tele esta noche.",
+      "back": "Eat up or else no TV tonight.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Bebe, ¿quieres?! ¡Necesitas tu vitamina C!",
+      "back": "Drink up, will you! You need your vitamin C!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¡Bebe, ¿quieres?! ¡La leche hace que los huesos sean fuertes!",
+      "back": "Drink up, will you! Milk makes your bones strong!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Bebe, ¿quieres?! ¡Ese zumo fue caro!",
+      "back": "Drink up, will you! That juice was expensive!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Deja de jugar con las lentejas, ¡o vas a ver!",
+      "back": "Stop picking at your lentils, or else!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Deja de jugar con el hígado con cebolla, ¡o vas a ver!",
+      "back": "Stop picking at your liver and onions, or else!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Deja de jugar con la ensalada, ¡o vas a ver!",
+      "back": "Stop picking at your salad, or else!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "No comas con la boca abierta, se me están quitando las ganas de comer.",
+      "back": "Don't eat with your mouth open, it's putting me off my dinner.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "No comas con la boca abierta, se le están quitando las ganas de comer a tu padre.",
+      "back": "Don't eat with your mouth open, it's putting your father off his dinner.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "No comas con la boca abierta, nos está quitando las ganas de comer a todos.",
+      "back": "Don't eat with your mouth open, it's putting us all off our dinner.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Deja de jugar con el hígado encebollado y come.",
+      "back": "Stop playing about with your liver and onions and eat up.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Deja de jugar con las lentejas y come.",
+      "back": "Stop playing about with your lentils and eat up.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Deja de jugar con la tortilla y come.",
+      "back": "Stop playing about with your omelette and eat up.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "El agua por aquí no es potable, te convendría más el agua embotellada.",
+      "back": "The water around here isn't drinkable, you'd be better off with bottled water.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "El agua en este hotel no es potable, te convendría más ir a un bar.",
+      "back": "The water in this hotel isn't drinkable, you'd be better off going to a bar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "El agua de aquí no es potable, te convendría más comprar un filtro.",
+      "back": "The water here isn't drinkable, you'd be better off buying a filter.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Esas bayas no son comestibles, no se te ocurra comerlas.",
+      "back": "Those berries aren't edible, don't even think about eating them.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Esas setas no son comestibles, no se te ocurra tocarlas.",
+      "back": "Those mushrooms aren't edible, don't even think about touching them.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Esa parte no es comestible, no se te ocurra comerla.",
+      "back": "That part isn't edible, don't even think about eating it.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "El pollo que comimos anoche estaba riquísimo.",
+      "back": "The chicken we ate last night was delicious.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "La comida india que comimos ayer estaba muy rica.",
+      "back": "The Indian we had yesterday was really tasty.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Ese curry estaba absolutamente riquísimo.",
+      "back": "That curry was absolutely delicious!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¡Ese restaurante tiene una carta que se te hace la boca agua!",
+      "back": "That restaurant has the most mouthwatering menu!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "El olor a pan recién hecho te hace la boca agua.",
+      "back": "The smell of freshly baked bread is mouthwatering.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Hay una selección de postres aquí que se te hace la boca agua.",
+      "back": "There's a mouthwatering selection of desserts here.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Estas trufas son una maravilla.",
+      "back": "These truffles are out of this world.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Estos entremeses son una maravilla.",
+      "back": "These hors d'oeuvres are out of this world.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Estas ostras son simplemente una maravilla.",
+      "back": "These oysters are simply out of this world.",
+      "sourcePage": 27
+    }
+  ]
+}

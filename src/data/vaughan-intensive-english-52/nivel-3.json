@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-52",
+  "bookTitle": "Libro 52",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "¡Qué ganas tengo de atacar esta hamburguesa, tiene una pinta tan jugosa!",
+      "back": "I can't wait to dig into this burger, it just looks so juicy!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "¿A qué esperas? ¡Ataca!",
+      "back": "What are you waiting for? Dig in!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Mira a John devorando ese filete! ¡Estará muerto de hambre!",
+      "back": "Look at John digging into that steak! He must be starving!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¡Atacad! ¡Los chuletones son especialmente jugosos!",
+      "back": "Tuck in everybody! The T-bones are especially juicy!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Aunque mis amigos no estén acostumbrados a comer la comida principal a las dos, están devorando el guiso que he preparado.",
+      "back": "Even though my friends aren't used to having their main meal of the day at two o'clock, they're all tucking into the stew I made.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Charlie está devorando esa pizza que he hecho; ¡ni siquiera ha notado la ensalada que hay justo al lado!",
+      "back": "Charlie's really tucking into that pizza I made; he hasn't even noticed the salad right next to him!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Me encanta comer comida basura mientras veo la tele.",
+      "back": "I love to munch on junk food when I'm watching TV.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Me estoy muriendo de hambre; ¿tienes algo para comer?",
+      "back": "I'm starved; have you got anything to munch on?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "¡Mira qué pinta tiene él! Acaba de comerse un kebab o algo así y se le ha caído todo por la camisa.",
+      "back": "Look at the state of him! He's been munching on a kebab or something and it's gone all down his shirt.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Al parecer, picar entre comidas es uno de los factores más importantes que contribuyen a engordar.",
+      "back": "Apparently, snacking between meals is one of the biggest contributing factors towards putting on weight.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Estoy a dieta y lo más difícil para mí es no picar entre comidas.",
+      "back": "I'm on a diet, and the hardest thing for me is not snacking between meals.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "No puedo esperar hasta la cena, ¿tienes algo ligero para picar?",
+      "back": "I can't wait until dinner, have you got anything light to snack on?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "¿Tienes algo que pueda picar?",
+      "back": "Do you have anything I can nibble on?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "¡Deja de picar! ¡No serás capaz de comerte la cena!",
+      "back": "Stop nibbling! You won't be able to eat your dinner!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "¡Deja de mordisquear esa manzana y cométela de una vez!",
+      "back": "Stop nibbling away at that apple and just eat it!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Me acabo de beber un litro de sidra de un trago y me siento un poco mareado.",
+      "back": "I've just gulped down a litre of cider and I feel a little queasy.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Él acaba de beberse un litro de agua de un trago y se siente un poco hinchado.",
+      "back": "He's just gulped down a litre of water and he feels a little bloated.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Acaban de beberse cinco cervezas de un trago y están pidiendo otra ronda.",
+      "back": "They've just gulped down five beers and they're ordering another round.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "¡No te bebas el vino de un trago, tómatelo a sorbos! Si no, no vas a paladear los sabores.",
+      "back": "Don't gulp your wine down, sip it! Otherwise you won't savor the flavours.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Después de estar enfermo, tienes que tomar el agua a sorbos y no beberla de un trago.",
+      "back": "When you've been ill, you need to sip water, not gulp it down.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Después de vomitar, tienes que tomar el líquido a sorbos, beberlo de un trago probablemente te revuelva el estómago.",
+      "back": "When you've been vomiting, you need to sip liquid, gulping it down will probably upset your stomach.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Cuando sorbes el café con ese ruido se me quitan las ganas del mío.",
+      "back": "When you slurp your coffee it puts me off mine!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "¡No sorbas tu sopa, me estás quitando las ganas de comer!",
+      "back": "Don't slurp your soup, you're putting me off my food!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Cuando la gente sorbe, se me quitan las ganas de comer.",
+      "back": "When people slurp, it puts me off my food.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Cuando te duela la garganta, coge un poco de agua salada y haz gárgaras.",
+      "back": "When your throat hurts, get some salt water and gargle.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "¡Da lo mismo si haces gárgaras o no, lo que necesitas es un antibiótico fuerte!",
+      "back": "It makes no difference whether or not you gargle, what you need is a strong antibiotic!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Bueno, pues, quizás deberías hacer gárgaras con una aspirina soluble.",
+      "back": "Well then, maybe you should gargle some soluble aspirin.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Mátala! ¡Mátala! ¡Mátala!",
+      "back": "Down it! Down it! Down it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Nos tomamos las copas rápidamente y salimos de allí cuando la pelea empezó.",
+      "back": "We downed our drinks and got out of there when the fight started.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Ella se enfadó tanto conmigo en el restaurante, que se tomó su vino rápidamente y salió furiosa.",
+      "back": "She got so angry at me in the restaurant that she downed her wine and stormed out.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Si él sigue bebiendo mucho, va a causarle un daño irreversible a su hígado.",
+      "back": "If he keeps drinking heavily, he's going to cause irreversible damage to his liver.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Cuanto más bebes, más probable es que te dañes la memoria de forma permanente.",
+      "back": "The more heavily you drink, the more likely you'll permanently damage your memory.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Empezó a beber mucho después de romper con Casey.",
+      "back": "He started drinking heavily after he split up with Casey.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "¡Brian bebe como una esponja! ¡No puedo seguir su ritmo!",
+      "back": "Brian drinks like a fish! I can't keep up with that guy!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Está bebiendo como una esponja, se estará desahogando.",
+      "back": "He's drinking like a fish, he must be letting off some steam.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Desde que le echaron de la universidad, bebe como una esponja.",
+      "back": "Ever since they kicked him out of uni he's been drinking like a fish.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "No sabes beber; quédate con el agua con gas.",
+      "back": "You can't handle your drink; stick to sparkling water.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Siempre acaba vomitando en una noche de marcha: no sabe beber.",
+      "back": "He always ends up throwing up on a night out: he just can't handle his drink.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Tienes que beber más despacio, ¡sabes bien que no sabes beber!",
+      "back": "You need to pace yourself, you know you can't handle your drink!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Él se dio a la bebida justo después de su divorcio.",
+      "back": "He turned to drink shortly after his divorce.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Él se dio a la bebida en un intento vano de resolver sus problemas.",
+      "back": "He turned to drink in a vain attempt to solve his problems.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Mucha gente se da a la bebida cuando atraviesa tiempos difíciles.",
+      "back": "A lot of people turn to drink when they're going through difficult times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Creo que tal vez tengas un problema con la bebida. ¿Has pensado en buscar ayuda?",
+      "back": "I think you might have a drinking problem. Have you thought about seeking help?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Buscó ayuda después de darse cuenta de que tenía un problema con la bebida.",
+      "back": "He sought help after he realized he had a drinking problem.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Parece que siempre está tomando un trago para desahogarse, creo que quizá tenga un problema con la bebida.",
+      "back": "He always seems to be having a drink to let off some steam, I think he might have a drinking problem.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Muchas estrellas del rock recurren a los atracones en lugar de a las drogas.",
+      "back": "A lot of rock stars turn to binge-eating instead of drugs.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Has adquirido el hábito de atiborrarte; tienes que salir de ese círculo vicioso.",
+      "back": "You've got into the habit of binge-eating; you need to break that vicious cycle.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Salir de borrachera es común entre la gente de entre 20 a 25 años en el Reino Unido y EE. UU.",
+      "back": "Binge-drinking is common among people in their early twenties in the UK and the US.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Algunas personas comen en exceso cuando tienen problemas, mientras que otras simplemente dejan de comer por completo.",
+      "back": "Some people overeat when they have problems, whereas others just stop eating altogether.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Si comes en exceso en Navidades, tendrás que quemarlo en enero.",
+      "back": "If you overeat over Christmas, you have to work it off in January.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Cogí el hábito de comer en exceso y tardé meses en perder el peso que había ganado.",
+      "back": "I got into the habit of overeating and it took me months to shift the weight I'd put on.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Me di un atracón que te mueres anoche y hoy me encuentro fatal.",
+      "back": "I stuffed myself silly last night and today I'm suffering big-time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Él siempre se da un atracón que te mueres en las fiestas y después se suele poner enfermo.",
+      "back": "He always stuffs himself silly at parties, and then he normally ends up feeling ill.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Mucha gente se da un atracón que te mueres con todo tipo de comida basura simplemente por mero aburrimiento.",
+      "back": "A lot of people stuff their faces with all kinds of junk food just out of sheer boredom.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Se nos han agotado los tentempiés? Sip, los engullimos todos durante el fin de semana.",
+      "back": "Are we out of snacks? Yup, we gobbled them all up over the weekend.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Él engulló toda la empanada. ¡Debía de estar buena!",
+      "back": "He gobbled the whole pie up. It must've been good!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "¡Tu primo lo engulló todo en cinco minutos! ¡Date prisa o no podrás tomar postre!",
+      "back": "Your cousin gobbled it all down in five minutes! Hurry up or you'll not get any dessert.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Después de tres meses haciendo régimen, ella se rindió y engulló una tarta entera. Pobrecilla, ahora se siente fatal.",
+      "back": "After three months of dieting, she caved in and wolfed down a whole cake. Poor thing, she feels awful now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Soy muy estricto con mi dieta, pero una vez a la semana me permito engullir una pizza entera.",
+      "back": "I'm really strict with my diet, but once a week I allow myself to wolf down a whole pizza.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Él engulló su comida y se fue sin pagar.",
+      "back": "He wolfed down his food and left without paying.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Esto es algo en lo que pensar: si se cae un árbol y no hay nadie para oírlo, ¿hace ruido?",
+      "back": "Here's some food for thought: if a tree falls and no one is around to hear it, does it make a sound?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Tartas en forma de políticos famosos... ¡eso sí que es algo en lo que pensar!",
+      "back": "Cakes in the shape of famous politicians... now there's some food for thought!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Esto es algo en lo que pensar: ¿es mejor haber amado y perdido, o no haber amado nunca?",
+      "back": "Here's some food for thought: is it better to have loved and lost or to never have loved at all?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Me estoy muriendo de hambre, ¡me comería un buey!",
+      "back": "I'm starving, I could eat a horse!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Me comería un buey ahora mismo, entremos en el primer sitio que encontremos.",
+      "back": "I could eat a horse right now. Let's just go into the first place we find.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Si tienes tanta hambre que te comerías un buey, entonces pidamos el plato de carne a la parrilla, ¡es enorme!",
+      "back": "If you're so hungry that you could eat a horse, then let's order the mixed grill, it's absolutely massive!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Guarda la cartera, majo, invito yo.",
+      "back": "Put your wallet away sunshine, the drinks are on me!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "No, no, guarda tu dinero, invita la casa.",
+      "back": "No, no, put your money away. It's on the house.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Sé que estás pelado, así que invito yo.",
+      "back": "I know you're broke so this one's my treat.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Su discurso fue un éxito rotundo; tenía al público comiendo de la palma de su mano.",
+      "back": "His speech was a resounding success; he had the whole audience eating out of the palm of his hand.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Mírala, ¡él la tiene comiendo de la palma de su mano!",
+      "back": "Look at her. He's got her eating out of the palm of his hand!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Mientras que el profesor de alemán no inspira respeto alguno, la profesora de ruso tiene a todos sus alumnos comiendo de la palma de su mano.",
+      "back": "Whereas the German teacher commands no respect whatsoever, the Russian teacher has all her students eating out of the palm of her hand.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Está feliz en su matrimonio, pero también quiere ir de flor en flor; no puede tenerlo todo.",
+      "back": "He's happily married but he also wants to play the field; he can't have his cake and eat it!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Quiero perder peso, pero no quiero cambiar mi dieta en nada. Bueno, no puedes tenerlo todo.",
+      "back": "I want to lose weight, but I don't want to change my diet at all. Well, you can't have your cake and eat it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Ella cree que merece el ascenso, pero no está dispuesta a dedicarle más horas al trabajo. No puede tenerlo todo.",
+      "back": "She thinks she deserves the promotion but she's not prepared to put in more hours. She can't have her cake and eat it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Cuando nadaba en el río Amazonas su herida se abrió y unas pirañas se lo comieron vivo.",
+      "back": "Whilst swimming in the Amazon his wound opened up and some piranhas ate him alive.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¡Él cree que puede ganar el caso! ¡Está fuera de su dominio! ¡El otro abogado se lo comerá vivo!",
+      "back": "He thinks he can win the case! He's out of his depth! The other lawyer will eat him alive!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Los mosquitos se lo comieron vivo durante la acampada.",
+      "back": "The mosquitoes ate him alive during the camping trip.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Escuchad niños, me estáis arruinando con todo lo que coméis.",
+      "back": "Listen kids, you're eating me out of house and home!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "No quiero que vengan tus amigos y se coman todo lo que tenemos.",
+      "back": "I don't want your friends coming over and eating us out of house and home!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "No me puedo creer lo de ese huésped. ¡Nos está arruinando con todo lo que come!",
+      "back": "I can't believe that lodger! He's eating us out of house and home!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "¡Que me maten si ganas la carrera!",
+      "back": "I'll eat my hat if you win the race!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "¡Si resulta que tienes razón, soy Napoleón!",
+      "back": "If it turns out you're right, I'll eat my hat!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¡Si el contrato va a KMPJ Ltd, te juro que me tiro por la ventana!",
+      "back": "If the contract goes to KMPJ Ltd, I swear I'll eat my hat!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Dije que nunca volvería a fumar, pero supongo que voy a tener que comerme mis propias palabras.",
+      "back": "I said I'd never smoke again, but I guess I'll have to eat my words now.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Él dijo que nunca volvería con ella, pero se ha comido sus propias palabras, ¿no?",
+      "back": "He said he'd never go back to her, but he's eaten his words, hasn't he?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Craig nos dijo que obtendría el puesto. ¡Ahora tiene que comerse sus propias palabras!",
+      "back": "Craig told us he'd get the job. He has to eat his words now!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "No dejaba de alardear de lo bueno que era, pero al final, cuando le ganaron, tuvo que comerse sus palabras.",
+      "back": "He kept on boasting about how good he was, but in the end, when he was defeated, he had to eat humble pie.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "¡Ahora él va a tener que comerse sus propias palabras! Saben amargas, ¿no?",
+      "back": "He's going to have to eat humble pie now! It tastes bitter, doesn't it?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Cuando todos se declararon en huelga, él tuvo que comerse sus propias palabras y admitir que no era el jefe perfecto.",
+      "back": "When everyone went on strike, he had to eat humble pie and admit he wasn't a perfect boss.",
+      "sourcePage": 41
+    }
+  ]
+}
