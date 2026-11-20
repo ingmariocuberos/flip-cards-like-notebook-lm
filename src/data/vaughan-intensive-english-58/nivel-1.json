@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-58",
+  "bookTitle": "Libro 58",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Siempre te lavas la cara en el cuarto de baño de arriba?",
+      "back": "Do you always wash your face in the upstairs bathroom?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Siempre me lavo la cara en el cuarto de baño de arriba también.",
+      "back": "I always wash my face in the upstairs bathroom too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Los niños nunca se lavan la cara en el cuarto de baño de arriba.",
+      "back": "The children never wash their faces in the bathroom upstairs.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Normalmente me lavo las manos en el cuarto de baño de abajo.",
+      "back": "I usually wash my hands in the downstairs bathroom.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Los invitados siempre se lavan las manos en el cuarto de baño de abajo.",
+      "back": "Guests always wash their hands in the bathroom downstairs.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Normalmente te lavas las tuyas en el cuarto de baño de abajo también?",
+      "back": "Do you usually wash yours in the downstairs bathroom too?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella se lava el pelo una vez al día.",
+      "back": "She washes her hair once a day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Su hermano pequeño también se lava el pelo una vez al día.",
+      "back": "Her little brother washes his hair once a day too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Ella se lava el pelo una vez al día porque está graso.",
+      "back": "She washes her hair once a day because it's greasy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Lavo la ropa los miércoles.",
+      "back": "I wash my clothes on Wednesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Lavas la ropa los miércoles también?",
+      "back": "Do you wash your clothes on Wednesdays too?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Él lava la ropa una vez a la semana, los miércoles.",
+      "back": "He washes his clothes once a week, on Wednesdays.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Me lavo los dientes en el cuarto de baño de arriba.",
+      "back": "I brush my teeth in the upstairs bathroom.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Me lavo los dientes con un cepillo de dientes eléctrico.",
+      "back": "I brush my teeth with an electric toothbrush.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Se lava los dientes con un cepillo de dientes eléctrico también.",
+      "back": "He brushes his teeth with an electric toothbrush too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Voy a lavarme antes del desayuno.",
+      "back": "I'm going to have a wash before breakfast.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Ella va a lavarse antes de la comida.",
+      "back": "She's going to have a wash before lunch.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Él va a lavarse antes de la cena.",
+      "back": "He's going to have a wash before dinner.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¡Ve y lávate, estás mugriento!",
+      "back": "Go and have a wash, you're filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¡Ve y lávate antes de la comida, estás mugriento!",
+      "back": "Go and have a wash before lunch, you're filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¡Ve y lávate antes de la cena, estás mugriento!",
+      "back": "Go and have a wash before dinner, you're filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Voy a darle un buen lavado al coche el fin de semana.",
+      "back": "I'm going to give the car a good wash at the weekend.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Él va a darle un buen lavado al camión el fin de semana.",
+      "back": "He's going to give the truck a good wash at the weekend.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Cuándo le va a dar ella un buen lavado a la camioneta?",
+      "back": "When is she going to give the van a good wash?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Le hace falta un buen lavado al coche. ¡Está mugriento!",
+      "back": "The car needs a good wash, it's filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "De verdad que le hace falta un buen lavado a la camioneta. ¡Está mugrienta!",
+      "back": "The van really needs a good wash, it's filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Le hace falta un buen lavado al camión. ¡Está mugriento!",
+      "back": "The truck needs a good wash, it's filthy!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Dónde está mi camisa roja de rayas? No te la puedes poner, se ha echado a lavar.",
+      "back": "Where's my stripy red shirt? You can't wear it, it's in the wash.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Dónde está mi vestido de rayas? No te lo puedes poner, se ha echado a lavar.",
+      "back": "Where's my stripy dress? You can't wear it, it's in the wash.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Dónde están mis vaqueros de rayas? No los puedes llevar, se han echado a lavar.",
+      "back": "Where are my stripy jeans? You can't wear them, they're in the wash.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¡Tenemos que limpiar la casa!",
+      "back": "We need to clean the house!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Tengo que limpiar la casa esta semana!",
+      "back": "I need to clean the house this week!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡De verdad tenemos que limpiar la casa pronto!",
+      "back": "We really need to clean the house soon!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Tengo que fregar los suelos.",
+      "back": "I need to clean the floors.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Tienes que fregar el suelo de la cocina.",
+      "back": "You need to clean the kitchen floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Danny tiene que fregar el suelo del baño.",
+      "back": "Danny needs to clean the bathroom floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Vete a limpiar la cocina, ¡está hecha un desastre!",
+      "back": "Go and clean the kitchen, it's a mess!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Vete a limpiar la cocina, ¡está mugrienta!",
+      "back": "Go and clean the kitchen, it's filthy!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Vete a limpiar la cocina, ¡te toca! No, ¡le toca a él!",
+      "back": "Go and clean the kitchen, it's your turn! No, it's his turn!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Tenemos que limpiar el sótano pronto, ¡está muy sucio!",
+      "back": "We have to clean the basement soon, it's really dirty!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Tenemos que limpiar el sótano pronto, ¡está mugriento!",
+      "back": "We have to clean the basement soon, it's filthy!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Tenemos que limpiar el sótano pronto, ¡está hecho un lío!",
+      "back": "We have to clean the basement soon, it's a mess!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Las ventanas están hechas un desastre. ¡Que alguien las limpie, por favor!",
+      "back": "The windows are a mess. Somebody please clean them!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Las ventanas están mugrientas. ¿Quién las va a limpiar?",
+      "back": "The windows are filthy. Who's going to clean them?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Las ventanas están sucias. ¿Alguien va a limpiarlas?",
+      "back": "The windows are dirty. Is somebody going to clean them?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Qué limpias están las ventanas de tu habitación! ¡Espero que se queden así!",
+      "back": "Your bedroom windows are nice and clean, I hope they stay that way!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Qué limpio está el baño de abajo! ¡Espero que se quede así!",
+      "back": "The downstairs bathroom is nice and clean, I hope it stays that way!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Qué limpias están las ventanas de arriba! ¡Espero que sigan así!",
+      "back": "The upstairs windows are nice and clean, I hope they stay that way!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Sarah siempre mantiene su escritorio ordenadito.",
+      "back": "Sarah always keeps her desk nice and tidy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Yo siempre intento mantener el mío ordenadito también.",
+      "back": "I try to keep mine nice and tidy too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Ben no mantiene su escritorio ordenadito.",
+      "back": "Ben doesn't keep his desk nice and tidy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Vámonos a ese pub, se estará calentito allí dentro.",
+      "back": "Let's go into that pub, it'll be nice and warm in there.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Vámonos al pub de ahí al lado, se estará calentito allí dentro.",
+      "back": "Let's go to the pub down the road, it'll be nice and warm in there.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Por qué no vamos al pub de ahí al lado? Se estará calentito allí dentro.",
+      "back": "Why don't we go to the pub up the road? It'll be nice and warm in there.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Me encantan las chimeneas porque hacen que un salón sea muy acogedor.",
+      "back": "I love fireplaces because they make a living room nice and cosy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "A ella le encanta la chimenea en su salón porque hace que sea muy acogedor.",
+      "back": "She loves the fireplace in her living room because it makes it nice and cosy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "A él le encanta la chimenea en su comedor porque hace que sea muy acogedor.",
+      "back": "He loves the fireplace in his dining room because it makes it nice and cosy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Ella se queda en la casita de campo de su tía este fin de semana porque es muy tranquilita.",
+      "back": "She's staying at her aunt's cottage this weekend because it's nice and quiet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Ella se quedará en la casita de campo de su tío este verano porque es muy tranquilita.",
+      "back": "She'll stay at her uncle's cottage this summer because it's nice and quiet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Ella se va a quedar en la casita de campo de mis padres el fin de semana que viene porque es muy tranquilita.",
+      "back": "She's going to stay at my parents' cottage next weekend because it's nice and quiet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Esteban, asegúrate de fregar los platos antes de que veas la tele.",
+      "back": "Esteban, make sure you wash up before you watch any telly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Asegúrate de fregar los platos antes de que salgas esta noche.",
+      "back": "Make sure you wash up before you go out tonight.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Asegúrate de fregar los platos antes de que vayas a la cama.",
+      "back": "Make sure you wash up before you go to bed.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Cuando laves los platos, asegúrate de usar suficiente líquido lavavajillas.",
+      "back": "When you do the washing-up, make sure you use enough washing-up liquid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Cuando laves los platos, asegúrate de usar solo un poco de líquido lavavajillas.",
+      "back": "When you do the washing-up, make sure you use just a little washing-up liquid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Cuando laves los platos, asegúrate de no usar demasiado líquido lavavajillas.",
+      "back": "When you do the washing-up, make sure you don't use too much washing-up liquid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Venga, Esteban. Necesito tu ayuda. ¡Lava los platos!",
+      "back": "Come on, Esteban. I need your help. Do the dishes!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Venga, Esteban. No puedo hacer todo por aquí. ¡Lava los platos!",
+      "back": "Come on, Esteban. I can't do everything around here. Do the dishes!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Venga, Esteban. Necesito que me ayudes. ¡Lava los platos!",
+      "back": "Come on, Esteban. I need you to help me. Do the dishes!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Asegúrate de enjuagar bien los platos.",
+      "back": "Make sure you rinse the plates properly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Asegúrate de enjuagar con esmero los cubiertos.",
+      "back": "Make sure you rinse the cutlery thoroughly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Asegúrate de enjuagar bien los platos. No quiero tener que volver a enjuagarlos.",
+      "back": "Make sure you rinse the plates properly. I don't want to have to rinse them again.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Seca los platos con un paño de cocina y después mételos en el armario de cocina.",
+      "back": "Dry the dishes with a kitchen towel and then put them away in the kitchen cupboard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Seca los cubiertos con un trapo de cocina y después mételos en el armario de cocina.",
+      "back": "Dry the cutlery with a tea towel and then put it away in the kitchen cupboard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Seca las cazuelas con un paño de cocina y después mételas en el armario de cocina.",
+      "back": "Dry the saucepans with a drying-up cloth and then put them away in the kitchen cupboard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Lo tengo que lavar con agua fría?",
+      "back": "Do I have to wash it in cold water?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Sí, lo tienes que lavar con agua fría.",
+      "back": "Yes, you have to wash it in cold water.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "No, no lo tienes que lavar con agua fría.",
+      "back": "No, you don't have to wash it in cold water.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¡No laves mis vaqueros con agua fría! ¡Lávalos con agua caliente!",
+      "back": "Don't wash my jeans in cold water! Wash them in hot water!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡No los lavaré con agua fría. Los lavaré con agua caliente!",
+      "back": "I won't wash them in cold water. I'll wash them in hot water!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Los lavaré con agua caliente y luego los secaré.",
+      "back": "I'll wash them in hot water and then I'll dry them.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Por qué lavas tu ropa al revés?",
+      "back": "Why do you wash your clothes inside out?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Lavo mi ropa al revés para que no se destiña.",
+      "back": "I wash my clothes inside out so they don't fade.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "No lavo mi ropa al revés.",
+      "back": "I don't wash my clothes inside out.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Necesitas lavar tu ropa a 30 grados.",
+      "back": "You need to wash your clothes at 30 degrees.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Por qué necesito lavar mi ropa a 30 grados?",
+      "back": "Why do I need to wash your clothes at 30 degrees?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Necesitas lavar tu ropa a 30 grados para que no se destiña.",
+      "back": "You need to wash your clothes at 30 degrees so they don't fade.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Solamente lavar a mano. No secar esta camisa en la secadora, si no se desteñirá.",
+      "back": "Hand-wash only. Do not tumble dry this shirt or else it will fade.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Solamente lavar a mano. No secar esta camiseta en la secadora, si no se desteñirá.",
+      "back": "Hand-wash only. Do not tumble dry this T-shirt or else it will fade.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Solamente lavar a mano. No secar estos vaqueros en la secadora, si no se desteñirán.",
+      "back": "Hand-wash only. Do not tumble dry these jeans or else they will fade.",
+      "sourcePage": 13
+    }
+  ]
+}

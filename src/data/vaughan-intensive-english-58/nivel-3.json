@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-58",
+  "bookTitle": "Libro 58",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "¡Tengo que limpiar la cocina antes de que lleguen mis padres a casa!",
+      "back": "I've got to clean up the kitchen before my parents get home!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "¡Tengo que limpiar mi cuarto antes de que llegue mi madre a casa!",
+      "back": "I've got to clean up my room before my mother gets home!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Tengo que limpiar la casa antes de que llegue mi mujer a casa!",
+      "back": "I've got to clean up the house before my wife gets home!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Por qué siempre limpias el desorden que dejan? ¡Que limpien ellos lo que han ensuciado!",
+      "back": "Why are you always cleaning up after them? Let them clean up their own mess!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "¿Por qué siempre limpias el desorden que deja ella? ¡Que limpie ella lo que ha ensuciado!",
+      "back": "Why are you always cleaning up after her? Let her clean up her own mess!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¿Por qué ella siempre está limpiando el desorden que dejas? ¿Por qué no deja que limpies tú lo que has ensuciado?",
+      "back": "Why is she always cleaning up after you? Why doesn't she let you clean up your own mess?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Arréglate antes de bajar a cenar, ¿quieres?",
+      "back": "Clean yourself up before coming down to dinner, will you?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Arréglate antes de que te vea tu madre, ¿quieres?",
+      "back": "Clean yourself up before your mother sees you, will you?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "¡Tienes muy mala pinta! Arréglate, ¿quieres?",
+      "back": "You look like hell! Clean yourself up, will you?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "¡Deja de hacer el vago y sienta la cabeza!",
+      "back": "Stop faffing around and clean up your act!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Si no te pones serio y empiezas a estudiar más, nunca entrarás en una buena universidad.",
+      "back": "If you don't clean up your act and start studying more, you'll never get into a good college.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Leanne está intentando reformarse en lo que concierne al papeleo.",
+      "back": "Leanne is trying to clean up her act when it comes to paperwork.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "El cielo por fin se despejó después de horas de lluvia.",
+      "back": "The sky finally cleared up after hours of rain.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Tuve que recoger la encimera antes de empezar a cocinar.",
+      "back": "I had to clear up the counter before I could start cooking.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Despejé mi horario para poder verte hoy.",
+      "back": "I cleared up my schedule so that I could see you today.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Una ola gigante cayó encima del barco y se llevó a Jerry por la borda.",
+      "back": "A huge wave crashed down on the boat and Jerry was washed overboard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Ola tras ola fue cayendo encima del barco hasta que el oleaje se llevó a todos por la borda.",
+      "back": "Wave after wave crashed down on the boat until everyone was washed overboard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "No hubo ningún superviviente del Viajero Valiente. El oleaje se llevó a todos por la borda.",
+      "back": "There were no survivors from the Valiant Voyager. They were all washed overboard.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Al despertarse él se dio cuenta de que había sido arrastrado hasta la orilla de una isla.",
+      "back": "He awoke to discover he'd been washed up on the shore of an island.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Los restos del naufragio también habían sido arrastrados hasta la orilla.",
+      "back": "The debris from the shipwreck had been washed ashore too.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Empezó a recoger los restos que habían sido arrastrados hasta la orilla. Iba a construir una choza y una balsa.",
+      "back": "He began to collect the debris that had been washed ashore. He was going to build a hut and a raft.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "La choza se mantuvo en pie tras tres monzones hasta que finalmente fue arrastrada por el agua.",
+      "back": "The hut survived three monsoons until eventually, it was washed away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Durante su cuarta temporada de lluvias en la isla, la balsa de Jerry fue arrastrada por el agua.",
+      "back": "During his fourth rainy season on the island, Jerry's raft was washed away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Todo lo que había recogido del naufragio había sido arrastrado por el agua.",
+      "back": "Everything he'd collected from the shipwreck had been washed away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Con la balsa desaparecida, empezó a pensar que se quedaría varado para siempre.",
+      "back": "With the raft gone, he began to think he'd be stranded for good.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "No pudo recordar cuánto tiempo se había quedado varado.",
+      "back": "He couldn't remember how long he'd been stranded.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "A menudo se preguntó si había otros como él, varados para siempre en alguna isla.",
+      "back": "He often wondered if there were others like him, stranded for good on some island.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Buscó más restos para construir otra choza. Empezaba a pensar que tras haber naufragado se quedaría en la isla para siempre.",
+      "back": "He looked for more debris to build another hut. He was beginning to think he'd be cast away for good.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Cuando llegó la quinta temporada de lluvias, Jerry estaba seguro de que tras haber naufragado se quedaría en la isla para siempre.",
+      "back": "When the fifth rainy season came, Jerry was sure he'd be cast away for good.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Se despertó una noche con el sonido de un motor. Puede que, después de todo, no se quedara en la isla para siempre.",
+      "back": "He awoke one night to the sound of an engine. Maybe he wouldn't be cast away for good after all.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Necesitamos que la superficie de la cocina esté sin bacterias. ¡Déjate las uñas!",
+      "back": "We need the kitchen surfaces to be germ-free. Put some elbow grease into it!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Necesitamos que el suelo esté sin bacterias. Coge la fregona y el cubo y ¡déjate las uñas!",
+      "back": "We need the floor to be germ-free. Get the mop and bucket! Put some elbow grease into it!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Necesitamos que la cocina esté sin bacterias. ¡Déjate las uñas!",
+      "back": "We need the kitchen to be germ-free. Put some welly into it!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Dejemos el baño como los chorros del oro.",
+      "back": "Let's get the bathroom looking spick and span!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Dejemos la ducha como los chorros del oro.",
+      "back": "Let's get the shower looking spick and span!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Dejemos el váter como los chorros del oro.",
+      "back": "Let's get the toilet looking spick and span!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Él ha hecho maravillas con la habitación. ¡Está inmaculada!",
+      "back": "He's done wonders on the bedroom. It's immaculate!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Ella se ha lucido con la habitación. ¡Está inmaculada!",
+      "back": "She's done herself proud on the bedroom. It's immaculate!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Nos hemos lucido con la limpieza de la habitación. ¡Está inmaculada!",
+      "back": "We did ourselves proud cleaning the bedroom. It's immaculate!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Se dejó las uñas cuando limpiaba las ventanas y ahora están relucientes.",
+      "back": "He put some welly into it when he cleaned the windows and now they're sparkling.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Él se lució cuando limpió las ventanas; están relucientes ahora.",
+      "back": "He did himself proud when he cleaned the windows; they're sparkling now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Hicimos un trabajo asombroso cuando limpiamos las ventanas; están relucientes ahora.",
+      "back": "We did an amazing job cleaning the windows; they're sparkling now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Dejemos la casa inmaculada.",
+      "back": "Let's get the house looking spotless.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "La casa está inmaculada. ¿Has visto las ventanas? ¡Están relucientes!",
+      "back": "The house is spotless. Have you seen the windows? They're sparkling!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Dejó la casa inmaculada. Sobre todo el cuarto de baño estaba como los chorros del oro.",
+      "back": "He got the house looking spotless. The bathroom especially was spick and span!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Cómo puedes vivir así? ¡Tu habitación está totalmente mugrienta!",
+      "back": "How can you live like this? Your room is absolutely filthy!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Tienes la habitación hecha una pocilga. Hasta las paredes están totalmente mugrientas.",
+      "back": "Your room is a pigsty. Even the walls are absolutely filthy.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "No queremos oír más chistes verdes como ése en esta casa. No te pases. ¿Entendido?",
+      "back": "We don't want to hear any more filthy jokes like that in this house. Keep it clean. Understood?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "No puedo creer que todavía no hayas fregado esos platos. ¡Qué asco!",
+      "back": "I can't believe you still haven't washed those plates up. That's disgusting!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Te he visto arrancarte las costras y me parece totalmente asqueroso.",
+      "back": "I've seen you picking your scabs and I think it's utterly disgusting.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "La forma en que los prisioneros fueron tratados fue completamente repugnante.",
+      "back": "The way in which the prisoners were treated was utterly disgusting.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Has visto cómo está el baño de señoras? Es totalmente asqueroso. Prefiero esperar hasta que llegue a casa.",
+      "back": "Have you seen the state of the ladies'? It's absolutely gross. I'd rather wait 'til I get home.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "No puede estar tan mal como el baño de caballeros. Eso sí que es asqueroso.",
+      "back": "It can't be as bad as the gents'. Now that really is gross.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Esas nectarinas parecen asquerosas. ¿Por qué guardas fruta mohosa en la cocina y no la tiras?",
+      "back": "Those nectarines look gross. Why would you keep mouldy fruit in the kitchen and not throw it away?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "No estoy segura del último piso que vimos. La cocina parecía muy mugrienta. ¡Claramente no se ha limpiado en meses!",
+      "back": "I'm not sure about that last flat we saw. The kitchen looked really grimy. It clearly hasn't been cleaned in months!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Siento no poder darte la mano ahora mismo. He estado arreglando el coche y tengo las manos muy grasientas.",
+      "back": "Sorry I can't shake your hand right now. I've been fixing the car and my hands are really greasy.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "No aguanto preparar el pescado fresco. Es tan viscoso que me hace temblar.",
+      "back": "I can't stand preparing fresh fish. It's so slimy it makes me shiver.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Ese fregadero parece muy asqueroso. Creo que necesitaré un desatascador para limpiarlo.",
+      "back": "That sink looks really scummy. I think I'll need a plunger to clean that out.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Esas naranjas saben repugnantes. ¿Estás seguro de que no se han enmohecido?",
+      "back": "Those oranges taste rank. Are you sure they've not gone mouldy?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Espero que ella no nos dé sándwiches de vinagre y cebolla como la última vez. ¡Eran espantosos!",
+      "back": "I hope she doesn't give us vinegar and onion sandwiches like last time. They were minging!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Yo podría sufrir recordando el pasado, pero disfrutaría más de la vida si hiciera borrón y cuenta nueva.",
+      "back": "I could agonize over the past, but I'd enjoy life much more if I wiped the slate clean.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "No puedes simplemente martirizarte recordando el pasado. Tienes que hacer borrón y cuenta nueva. ¡Es muy refrescante!",
+      "back": "You just can't agonize over the past. You have to wipe the slate clean. It's so refreshing!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Ojalá pudiese simplemente olvidarme del pasado y hacer borrón y cuenta nueva, ¡pero sigo agonizando sobre ello!",
+      "back": "I wish I could just forget about the past and wipe the slate clean, but I still agonize over it!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Sé que tu negocio se fue a pique, pero ahora ya vas a empezar desde cero, ¡y se pueden abrir muchas puertas!",
+      "back": "I know your business went under, but now you have a clean slate, and many doors can open for you!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Lo que él de verdad necesitaba era empezar desde cero, así que se mudó a un nuevo Estado donde nadie le conocía.",
+      "back": "What he really needed was a clean slate, so he moved to a different state where nobody knew him.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Si yo quisiera empezar desde cero, vendería mi casa y viviría donde no hubiera recuerdos dolorosos.",
+      "back": "If I wanted a clean slate, I'd sell my house and live where there were no painful memories.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Para romper con el pasado, es una buena idea aprender a perdonar y olvidar.",
+      "back": "In order to make a clean break with the past, it's a good idea to learn to forgive and forget.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Pablo de verdad tenía que romper con el pasado, así que le dijo a su ex que no podían seguir siendo amigos.",
+      "back": "Pablo really needed to make a clean break, so he told his ex that they couldn't stay friends.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Yo no habría roto con el pasado si no me hubieras aconsejado que lo hiciera.",
+      "back": "I wouldn't have made that clean break if you hadn't advised me to do so.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Yo sabía que no podía pasar mi vida entera huyendo, así que fui a la policía y lo confesé todo.",
+      "back": "I knew that I couldn't spend my entire life on the run, so I went to the police and came clean.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Si yo no hubiese confesado, aún estaría huyendo hoy.",
+      "back": "If I hadn't come clean, I'd still be on the run today.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "El problema de no confesar es que la mentira siempre te va a atormentar.",
+      "back": "The problem with not coming clean is that the lie is always going to haunt you.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Igual soy adicto ahora, pero ya llegaré a estar limpio. Te lo prometo.",
+      "back": "I may be addicted now, but I'll get clean. I promise you.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Pasé setenta días en rehabilitación intentando llegar a estar limpio, pero ahora estoy limpio, y sé que nunca volveré a caer en las drogas.",
+      "back": "I spent seventy days in rehab trying to get clean, but I'm clean now, and I know I'll never fall off the wagon.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Llegar a estar limpio sólo es la mitad del camino. Permanecer limpio es un esfuerzo que dura toda la vida.",
+      "back": "Getting clean is only half the journey. Staying clean is a lifelong effort.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Maureen, diría que esa novia de él le ha lavado completamente el cerebro.",
+      "back": "Maureen, I'd say that that girlfriend of his has completely brainwashed him.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¡No! ¡Margaret! ¿En serio? ¿Dices que esa chica le ha lavado el cerebro?",
+      "back": "No! Margaret! Really? He's been brainwashed by that girl, you say?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Sí, Maureen, ¡lavado el cerebro! Ella le ha lavado el cerebro para que corte con su familia. Y para que se vaya de casa, ¡de verdad!",
+      "back": "Yes, Maureen, brainwashed! She's brainwashed him into cutting off his family. Moving away from home, indeed!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Según parece, Maureen, es adulto ya y tiene su propia vida, dice Eileen. Pues eso no me sirve.",
+      "back": "Apparently, Maureen, he's an adult now and has his own life, Eileen says. Well, that wouldn't wash with me!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Bueno, Eileen siempre ha dejado que ese chico sea demasiado independiente, Margaret. ¡Irse de casa no me pegaría de él!",
+      "back": "Well, Eileen's always let that boy be too independent, Margaret. Moving away from home wouldn't wash with me!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "No, absolutamente, Maureen. Quiere vivir su propia vida, ¡de verdad! ¡Y el chico tiene sólo 25 años! No, ¡no me parece normal!",
+      "back": "No, absolutely, Maureen. Own life indeed! And the boy's only 25! No, that wouldn't wash with me!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Pero eso es propio de Eileen, Maureen, es todo un encubrimiento.",
+      "back": "But that's just like Eileen, Maureen, it's all a whitewash.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Sí. Pero no puede encubrirlo con la excusa de que es un adulto. ¡Tiene que manejar la situación!",
+      "back": "Yes. But she can't whitewash it with the \"he's an adult\" excuse. She needs to deal with the situation!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¡Efectivamente, Maureen! Pero tú conoces a Eileen, intenta encubrirlo todo.",
+      "back": "Absolutely, Maureen! But you know Eileen, she tries to whitewash everything.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Y, Maureen, la verdad es que si fuera Eileen, ¡me lavaría las manos respecto a él!",
+      "back": "And if truth be told, Maureen, if I were Eileen, I'd wash my hands of him!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "¡Vaya, Margaret! ¡No lo dirás en serio! ¿Te lavarías las manos respecto a tu propio hijo?",
+      "back": "Oh Margaret! You can't be serious! You'd wash your hands of your own son!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "¡Sí, Maureen! ¡Me lavaría las manos respecto a él hasta que empezase a portarse como un hijo verdadero y volviera a casa de nuevo!",
+      "back": "I would, Maureen! I would wash my hands of him until he started behaving like a proper son and moved back home again!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Bueno, ¡aquella familia O'Malley ha sido siempre una desgracia! No lavan la ropa sucia en casa.",
+      "back": "Well, that O'Malley family has always been a disgrace! They're always washing their dirty laundry in public.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Ya, lo sé, Margaret. No tienen vergüenza, resolviendo sus problemas íntimos delante de todos de esa manera.",
+      "back": "Oh, I know, Margaret. They have no shame, washing their dirty laundry in public like that.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "¡Absolutamente, Maureen! ¡Me moriría de vergüenza si mi familia no lavase la ropa sucia en casa!",
+      "back": "Absolutely, Maureen! I'd be mortified if my family washed its dirty laundry in public!",
+      "sourcePage": 41
+    }
+  ]
+}

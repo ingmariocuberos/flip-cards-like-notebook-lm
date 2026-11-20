@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-58",
+  "bookTitle": "Libro 58",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Aileen limpió los hornillos antes de limpiar las encimeras.",
+      "back": "Aileen cleaned the cooker before she cleaned the worktops.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Limpió las encimeras antes de limpiar el microondas.",
+      "back": "She cleaned the worktops before she cleaned the microwave.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Y limpió el microondas antes de limpiar la nevera.",
+      "back": "And she cleaned the microwave before she cleaned the fridge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Antes de fregar los cubiertos, Aileen fregó los boles.",
+      "back": "Before Aileen washed the cutlery, she washed the bowls.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Pero antes de fregar los boles, fregó los platos.",
+      "back": "But before she washed the bowls, she washed the plates.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Y antes de fregar los platos, fregó los vasos.",
+      "back": "And before she washed the plates, she washed the glasses.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Después de limpiar el lavabo, Aileen limpió la bañera.",
+      "back": "After Aileen cleaned the sink, she cleaned the bath.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Después de limpiar la bañera, limpió el espejo.",
+      "back": "After she cleaned the bath, she cleaned the mirror.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Y después de limpiar el espejo, limpió el inodoro.",
+      "back": "And after she cleaned the mirror, she cleaned the toilet.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Aileen fregó el suelo del salón después de fregar el suelo del dormitorio.",
+      "back": "Aileen washed the living room floor after she washed the bedroom floor.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Fregó el suelo de la cocina después de fregar el suelo del salón.",
+      "back": "She washed the kitchen floor after she washed the living room floor.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Y fregó el suelo del cuarto de baño después de fregar el suelo de la cocina.",
+      "back": "And she washed the bathroom floor after she washed the kitchen floor.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Aileen limpió las encimeras después de limpiar el hornillo y los fuegos.",
+      "back": "Aileen cleaned the worktops after cleaning the cooker.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Fregó los vasos antes de fregar los cubiertos.",
+      "back": "She washed the glasses before washing the cutlery.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Y fregó el suelo del salón después de limpiar la cocina y el cuarto de baño.",
+      "back": "And she washed the living room floor after cleaning the kitchen and bathroom.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Si lavas la ropa ahora, no tendrás que preocuparte por ello más tarde.",
+      "back": "If you do the washing now, you won't have to worry about it later.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "He lavado la ropa esta mañana para que no tenga que preocuparme por lavarla más tarde.",
+      "back": "I did the washing this morning so I don't have to worry about doing it later.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Has lavado ya la ropa? No querrás tener que preocuparte por lavarla más tarde.",
+      "back": "Have you done the washing yet? You don't want to have to worry about doing it later.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Te queda ropa por lavar. ¡Más vale que la laves ahora antes de que se acumule!",
+      "back": "You have some washing to do. You'd better do it now before it starts piling up!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¡A él le queda un montón de ropa por lavar! ¡Más vale que la lave ahora porque yo no la voy a lavar!",
+      "back": "He has loads of washing to do! He'd better do it now because I'm not doing it!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¡A ella le queda un montón de ropa por lavar! ¡Más vale que la lave ahora porque, de lo contrario, no le quedará ropa limpia!",
+      "back": "She has loads of washing to do! She'd better do it now because otherwise she'll have no clean clothes left!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Es eso una mancha de vino tinto en tu camisa? No te preocupes; ya se quitará en la lavadora.",
+      "back": "Is that a red wine stain on your shirt? Don't worry; it'll come out in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¡Tu abrigo está totalmente cubierto de barro! No te preocupes, ya saldrá en la lavadora.",
+      "back": "You've got mud all over your coat! Don't worry; it'll come out in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Es eso una mancha de grasa en tus pantalones? No te preocupes; con este quitamanchas ya se quitará en la lavadora.",
+      "back": "Is that a grease stain on your trousers? Don't worry; with this stain remover, it'll come out in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "No hay forma de que se encoja si lo lavas con agua fría.",
+      "back": "There's no way it'll shrink if you wash it in cold water.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¡Por supuesto que encogió! ¿Qué esperabas? ¡Lo lavaste a 60 grados!",
+      "back": "Of course it shrank! What did you expect? You washed it at 60 degrees!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¡Estos jerséis nunca se han encogido en la lavadora!",
+      "back": "These jumpers have never shrunk in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Deberías lavar esa bufanda a mano. Los colores se destiñen un poco en la lavadora.",
+      "back": "You should hand wash that scarf. Colours run in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¡No se te ocurra mezclar esos jerséis nuevos! Ya sabes que los colores se destiñen un poco en la lavadora.",
+      "back": "Don't you dare mix those new jumpers! You know that colours run in the wash.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Los colores sólo se destiñen en el primer par de lavados.",
+      "back": "Colours only run in the first couple of washes.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Mis hijos siempre se ensucian cuando juegan fuera.",
+      "back": "My children always get dirty when they play outside.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Mira! ¿Ya te has ensuciado tu camisa nueva?",
+      "back": "Look! You've gotten your new shirt dirty already!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "¡No me puedo creer que ya haya ensuciado el coche nuevo!",
+      "back": "I can't believe I've already gotten my new car dirty!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Asegúrate de que no se te manche la camisa nueva.",
+      "back": "Make sure you don't get your new shirt stained.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Se me manchó la camisa nueva ayer.",
+      "back": "My new shirt got stained yesterday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Cómo se te manchó la camisa nueva?",
+      "back": "How did your new shirt get stained?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "El vino ha manchado la moqueta bastante.",
+      "back": "The wine has stained the carpet pretty badly.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Estas camisetas se manchan fácilmente.",
+      "back": "These T-shirts stain easily.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Por qué se manchan con tanta facilidad estas camisetas?",
+      "back": "Why do these T-shirts stain so easily?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¡Me he manchado la corbata con ketchup!",
+      "back": "I've got a ketchup stain on my tie!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Cómo te ensuciaste el puño de la camisa con café?",
+      "back": "How did you get a coffee stain on your cuff?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¡No sé cómo me he manchado el puño de la camisa con café!",
+      "back": "I don't know how I got a coffee stain on my cuff!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Se me ensuciaron mucho los zapatos en aquel campo. ¡Mira lo mugrientos que están!",
+      "back": "My shoes got filthy in that field. Look how filthy they are!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Se me ensuciaron los vaqueros en aquel partido. ¡Mira lo mugrientos que están!",
+      "back": "My jeans got filthy in that game. Look how filthy they are!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Se le ensucian las manos cuando repara el coche.",
+      "back": "His hands get filthy when he works on the car.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¡Es hora de hacer una limpieza a fondo!",
+      "back": "It's time to spring-clean!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¡Es hora de que hagamos una limpieza a fondo!",
+      "back": "It's about time we spring-cleaned!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¡Es hora de que hagamos la limpieza a fondo otra vez!",
+      "back": "It's about time we did the spring-cleaning again!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Es hora de que lleves el traje a la lavandería en seco.",
+      "back": "It's about time you dry-cleaned your suit.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Por favor, lleva esa chaqueta a la lavandería en seco.",
+      "back": "Please, dry-clean that jacket.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Es hora de que ella lleve esas cortinas a la lavandería en seco.",
+      "back": "It's about time she dry-cleaned those curtains.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Mi cocina está limpia como una patena.",
+      "back": "My kitchen is as clean as a whistle.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Mis cortinas están limpias como una patena.",
+      "back": "My curtains are as clean as a whistle.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Mi baño también está limpio como una patena.",
+      "back": "My bathroom is as clean as a whistle too.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "El suelo está muy limpio. ¡Podrías comer de él!",
+      "back": "The floor is very clean. You could eat off it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "El suelo está limpio como una patena. ¡Podrías comer de él!",
+      "back": "The floor is as clean as a whistle. You could eat off it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "El suelo está tan limpio que se puede comer encima.",
+      "back": "The floor is so clean that you could eat off it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Es hora de limpiar el garaje a fondo!",
+      "back": "It's time to clean out the garage!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Es hora de que limpies el garaje a fondo.",
+      "back": "It's about time you cleaned out the garage.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Es hora de limpiar a fondo! Limpiemos ese armario a fondo.",
+      "back": "It's time to spring-clean! Let's clean out that cupboard.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Vamos a barrer el suelo de la cocina. ¿Dónde está la escoba?",
+      "back": "We're going to sweep the kitchen floor. Where's the broom?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Hemos barrido el suelo de la cocina, pero no pudimos encontrar el recogedor y el cepillo.",
+      "back": "We've swept the kitchen floor but we couldn't find the dustpan and brush.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Habéis barrido el suelo de la cocina? ¿Necesitáis un recogedor y un cepillo?",
+      "back": "Have you swept the kitchen floor? Do you need a dustpan and brush?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Vamos a limpiar las superficies ahora. ¿Dónde está el espray y el trapo?",
+      "back": "We're going to wipe the surfaces now. Where's the spray and cloth?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Ellos pasaron las superficies con un trapo, pero no encontraron el espray.",
+      "back": "They wiped the surfaces but couldn't find the spray.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Ya habéis limpiado todas las superficies? ¿Necesitáis más trapos o espray?",
+      "back": "Have you wiped all the surfaces yet? Do you need more cloths or spray?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Vamos a pasar la aspiradora ahora. ¿Dónde está la aspiradora?",
+      "back": "We're going to do the hoovering now. Where's the hoover?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Íbamos a pasar la aspiradora por el salón, pero no encontramos la aspiradora.",
+      "back": "We were going to vacuum the living room but couldn't find the vacuum cleaner.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Ya has pasado la aspiradora por el salón? ¿Has encontrado la aspiradora?",
+      "back": "Have you vacuumed the living room yet? Did you find the vacuum cleaner?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Vamos a quitar el polvo. ¿Empezamos a quitar el polvo en la planta de arriba o de abajo?",
+      "back": "We're going to do the dusting now. Should we start dusting upstairs or downstairs?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Quitaron el polvo de todos los estantes de la planta de arriba y de la de abajo.",
+      "back": "They dusted all the shelves upstairs and downstairs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Ya habéis quitado el polvo de todos los estantes de la planta de arriba y la de abajo?",
+      "back": "Have you dusted all the shelves upstairs and downstairs?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¡Incluso vamos a pulirte las cosas!",
+      "back": "We're even going to do the polishing for you!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Ya que estáis, ¿podríais pulir los pomos?",
+      "back": "While you're at it, could you polish the doorknobs?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Ya que estáis, ¿podríais pulirme los zapatos? Mi amigo polaco siempre me pule los zapatos.",
+      "back": "While you're at it, could you polish my shoes? My Polish friend always polishes my shoes.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Puedes pasar tus apuntes de la clase a limpio y hacerme una fotocopia?",
+      "back": "Can you write up your lecture notes in neat and photocopy them for me?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Sarah pasó sus apuntes a limpio y me hizo una fotocopia.",
+      "back": "Sarah wrote up her notes in neat and photocopied them for me.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Te importaría pasar a limpio tus apuntes de la reunión y mandarlos en un correo electrónico a todos los que han estado presentes?",
+      "back": "Would you mind typing up your notes from the meeting and emailing them to everyone who was present?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Antes ganaba 1000 € limpios al mes y ahora gano 1500 € limpios.",
+      "back": "I used to make €1000 a month after tax and now I make €1500 after tax.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Antes él sacaba 870 € limpios y ahora saca el doble en limpio.",
+      "back": "He used to make €870 after tax and now he makes double that after tax.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Antes sacaba 50 € durante el fin de semana y ahora saco el triple.",
+      "back": "I used to make €50 a weekend after tax and now I make triple that.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "El aire se limpió con la lluvia.",
+      "back": "The air was cleared by the rain.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "La lluvia limpió el aire.",
+      "back": "The rain cleared the air.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Dijo que la lluvia limpió el aire.",
+      "back": "He said the rain cleared the air.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "A lo mejor ganarán el premio de juego limpio, pero dudo que ganen la copa.",
+      "back": "They might win the fair play award, but I doubt they'll win the cup.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Dudo que haya mucho juego limpio entre estos dos rivales.",
+      "back": "I doubt there'll be much fair play between these two rivals.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Dudan que haya mucho juego limpio en su próximo encuentro.",
+      "back": "They doubt there'll be much fair play in their next encounter.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Hagas lo que hagas, no juegues al póker con Robert; siempre juega sucio.",
+      "back": "Whatever you do, don't play poker with Robert; he always plays dirty.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Hagas lo que hagas, cuidado con el número 7, tiene el hábito de no jugar limpio.",
+      "back": "Whatever you do, watch out for the number 7, he has a habit of playing dirty.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Hagas lo que hagas, evita jugar sucio, dudo que el árbitro sea tan indulgente hoy.",
+      "back": "Whatever you do, avoid playing dirty; I doubt the referee will be as lenient today.",
+      "sourcePage": 27
+    }
+  ]
+}
