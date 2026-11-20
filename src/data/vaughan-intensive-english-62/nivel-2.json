@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-62",
+  "bookTitle": "Libro 62",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Kate me vendió su microondas.",
+      "back": "Kate sold me her microwave.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Yo le vendí a Natalie mi nevera.",
+      "back": "I sold Natalie my fridge.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Paula le vendió a Casey su lavadora.",
+      "back": "Paula sold Casey her washing machine.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Kate me vendió su microondas a mí.",
+      "back": "Kate sold her microwave to me.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Yo le vendí mi nevera a Natalie.",
+      "back": "I sold my fridge to Natalie.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Paula le vendió su lavadora a Casey.",
+      "back": "Paula sold her washing machine to Casey.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "¿A quién vendió su microondas Kate?",
+      "back": "Who did Kate sell her microwave to?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "¿A quién le vendiste tu nevera?",
+      "back": "Who did you sell your fridge to?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "¿A quién le vendió Paula su lavadora?",
+      "back": "Who did Paula sell her washing machine to?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Quién te vendió ese microondas?",
+      "back": "Who sold you that microwave?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Quién le vendió esa nevera a Natalie?",
+      "back": "Who sold Natalie that fridge?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Quién le vendió esa lavadora a Casey?",
+      "back": "Who sold Casey that washing machine?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "¡Ese microondas que ella me vendió no funciona!",
+      "back": "That microwave she sold me doesn't work!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "¡Oops! ¡Esa nevera que yo le vendí a ella no funciona tampoco!",
+      "back": "Oops! That fridge I sold her doesn't work either!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "¡Y esa lavadora que le vendió Paula a Casey no funciona tampoco!",
+      "back": "And that washing machine Paula sold Casey doesn't work either!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "¡Hemos vendido un montón en lo que va de mes!",
+      "back": "We've sold loads so far this month!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "¡Han vendido un millón de unidades en lo que va de año!",
+      "back": "They've sold a million units so far this year!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "¡Él ha vendido quince pólizas en lo que va de mañana!",
+      "back": "He's sold 15 policies so far this morning!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Han vendido todas las entradas ya?",
+      "back": "Have they sold all the tickets yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Hemos vendido todos los portátiles ya?",
+      "back": "Have we sold all the laptops yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Habéis vendido todas las biografías políticas ya?",
+      "back": "Have you sold all the political biographies yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Por qué no han vendido aún todas las entradas?",
+      "back": "Why haven't they sold all the tickets yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Por qué no hemos vendido aún todos los portátiles?",
+      "back": "Why haven't we sold all the laptops yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Por qué no habéis vendido aún todas las biografías políticas?",
+      "back": "Why haven't you sold all the political biographies yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Por qué no se ha vendido bien el libro nuevo de ese político?",
+      "back": "How come that politician's new book hasn't sold well?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Por qué no se ha vendido bien esta biografía política nueva?",
+      "back": "How come this new political biography hasn't sold well?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Por qué no se ha vendido bien nuestra póliza de seguro de vida?",
+      "back": "How come our life insurance policy hasn't sold well?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Qué queréis decir con eso de que no hemos vendido nada?",
+      "back": "What do you mean \"we haven't sold anything\"?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Qué quieres decir con eso de que las biografías políticas no se han vendido?",
+      "back": "What do you mean \"the political biographies haven't sold\"?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Qué quieres decir con eso de que no he vendido ninguna póliza hoy?",
+      "back": "What do you mean \"I haven't sold any policies today\"?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "Hemos vendido más de cuarenta millones de unidades esta semana. ¡Las ventas están disparadas en esta empresa!",
+      "back": "We've sold over forty million units this week; sales are way up in this company!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Hemos vendido más de cinco mil unidades esta semana en Alemania. ¡Las ventas están disparadas!",
+      "back": "We've sold over five thousand units this week in Germany; sales are way up!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Hemos vendido tres mil unidades en Nueva Zelanda. ¡Las ventas se han disparado ahí también!",
+      "back": "We've sold three thousand units in New Zealand; sales are way up there too!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Hemos vendido mucho más que cualquier otra empresa del sector.",
+      "back": "We've sold way more than anyone else in the industry.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Hemos vendido mucho más que nuestra competencia.",
+      "back": "We've sold way more than any of our competitors.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Hemos vendido mucho más que todas las demás empresas.",
+      "back": "We've sold way more than everyone else.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Estamos vendiendo más que nunca; ¡las ventas van muy fuertes ahora mismo!",
+      "back": "We're selling more than ever; sales are really strong right now!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Hemos vendido más que nunca este mes. ¡Las ventas van muy fuertes en estos momentos!",
+      "back": "We've sold more than ever this month! Sales are really strong at the moment!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Esta semana estamos vendiendo más que nunca! ¡Las ventas van bien fuertes ahora mismo!",
+      "back": "This week we're selling more than ever! Sales are really strong right now!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Vendemos cada vez más.",
+      "back": "We're selling more and more.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "El futuro de esta empresa parece positivo; estamos vendiendo cada vez más Wacbook Pros.",
+      "back": "The future of this company looks bright; we're selling more and more Wacbook Pros.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Estamos emocionados por la dirección de esta empresa; estamos vendiendo cada vez más Wacbook Pros.",
+      "back": "We're excited about the direction of this company; we're selling more and more Wacbook Pros.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Estamos vendiendo muy por encima de la media. (way)",
+      "back": "We're selling way above the average.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Estamos vendiendo bien por encima de la media. (well)",
+      "back": "We're selling well above average.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Estamos vendiendo muy por encima de la media de este sector.",
+      "back": "We're selling way above the industry average.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Si no empezamos a vender más, no alcanzaremos nuestras ventas objetivas.",
+      "back": "If we don't start selling more, we won't hit our target.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Si no empiezan a vender más, no alcanzarán sus ventas objetivas para el mes.",
+      "back": "If they don't start selling more, they won't hit their target for the month.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Si no empezamos a vender más, nunca alcanzaremos nuestras ventas objetivas para este trimestre.",
+      "back": "If we don't start selling more, we'll never hit our target for this quarter.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "¡No estás ni siquiera cerca de tus ventas objetivas! ¡Nunca vas a alcanzar tus ventas objetivas!",
+      "back": "You're not selling anywhere near enough! You'll never hit your target!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "¡No estamos ni siquiera cerca de nuestras ventas objetivas! ¡Nunca vamos a alcanzar nuestras ventas objetivas para este mes!",
+      "back": "We're selling nowhere near enough! We'll never meet our target for this month!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Sé que no estamos ni siquiera cerca de nuestras ventas objetivas! ¡Nunca vamos a alcanzar nuestras ventas objetivas para este trimestre!",
+      "back": "I know we're not selling anywhere near enough! We'll never make our target for this quarter!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Las cifras de venta han caído mucho, ha sido un mal trimestre.",
+      "back": "Sales figures are way down, it's been a bad quarter.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Sé que las cifras de venta han caído mucho, ¿qué podemos hacer?",
+      "back": "I know sales figures are way down, what can we do?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Las cifras de venta han caído mucho, ¡estamos fritos!",
+      "back": "Sales figures are way down, we're done for!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Estamos vendiendo cada vez menos. Las cosas están yendo de mal en peor.",
+      "back": "We're selling less and less. Things are going from bad to worse.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "Están vendiendo cada vez menos. Necesitan tirar la toalla.",
+      "back": "They're selling less and less. They need to throw in the towel.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Estás vendiendo cada vez menos. ¡Estás acabado!",
+      "back": "You're selling less and less. You're done for!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Estamos vendiendo menos que nunca. No estamos alcanzando nuestras ventas objetivas. ¡Estamos acabados!",
+      "back": "We're selling less than ever. We're not making our target. We're done for!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Sé que estamos vendiendo menos que nunca, pero no podemos tirar la toalla!",
+      "back": "I know we're selling less than ever but we can't throw in the towel!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "¡Pero las cosas han ido de mal en peor! ¡Estás vendiendo menos que nunca y ni siquiera estás alcanzando tus ventas objetivas para este trimestre!",
+      "back": "But things have gone from bad to worse! You're selling less than ever and you're not even hitting your target for this quarter!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Él me vendió una bicicleta de segunda mano por 200 dólares.",
+      "back": "He sold me a second-hand bike for two hundred bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Ella me vendió un sofá por 50 dólares.",
+      "back": "She sold me a sofa for fifty bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Él me vendió un sombrero de diseño por 100 dólares.",
+      "back": "He sold a designer hat to me for one hundred bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "Venden trajes por menos de 100 dólares.",
+      "back": "They sell suits for less than one hundred bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "La tienda vende portátiles por menos de 200 dólares.",
+      "back": "The shop sells laptops for less than two hundred bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Vendemos guitarras por menos de 100 dólares.",
+      "back": "We sell guitars for less than a hundred bucks.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Ese supermercado vende libros por menos de 3 libras.",
+      "back": "That supermarket sells books for less than 3 quid.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "La sastrería vende corbatas por menos de 5 libras.",
+      "back": "The tailor's sells ties for less than 5 quid.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "El garaje vende coches por menos de 1.500 libras.",
+      "back": "The garage sells cars for less than 1,500 quid.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "El petróleo se está vendiendo a 100 dólares el barril.",
+      "back": "Oil is selling at 100 dollars a barrel.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "El arroz se está vendiendo a 50 céntimos la libra.",
+      "back": "Rice is selling at 50 cents a pound.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "El oro se está vendiendo a 1.500 dólares la onza.",
+      "back": "Gold is selling at 1,500 dollars an ounce.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Estos teclados se están vendiendo a mitad de precio.",
+      "back": "These keyboards are selling at half-price.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Todas las bicicletas de montaña aquí se están vendiendo a mitad de precio.",
+      "back": "All the mountain bikes here are selling at half price.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "Los portátiles se están vendiendo a mitad de precio.",
+      "back": "The laptops are selling at half price.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "El señor Jacobson vendió todas sus acciones de Boldman Jacks antes de irse.",
+      "back": "Mr Jacobson sold off all his shares in Boldman Jacks before leaving.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "La empresa planea vender acciones con el fin de recaudar capital.",
+      "back": "The company plans to sell off shares in order to raise capital.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Con el fin de recaudar capital, la empresa está planeando vender muchas acciones.",
+      "back": "In order to raise capital, the company is planning to sell a lot of shares off.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Tenemos que vender el stock del verano antes de finales de septiembre.",
+      "back": "We need to sell off the summer stock before the end of September.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Después de declararse en quiebra, la empresa tuvo que vender todo su stock.",
+      "back": "After filing for bankruptcy, the company had to sell off all its stock.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "La empresa ha tenido que vender todo el stock que queda.",
+      "back": "The company has had to sell off all its remaining stock.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Después de declararse en quiebra, vendieron todos sus activos.",
+      "back": "After filing for bankruptcy they sold off all their assets.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "ABCD está contemplando vender sus activos en Oriente Medio.",
+      "back": "ABCD is contemplating selling off their assets in the Middle East.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Vender activos durante los tiempos difíciles es muy común.",
+      "back": "Selling off assets during hard times is very common.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Es probable que el gobierno venda algunas de sus empresas de servicios para recaudar capital.",
+      "back": "The government will probably sell off some of its utility companies to raise capital.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Feymann Brothers Ltd está vendiendo su división de banca de inversión.",
+      "back": "Feymann Brothers Ltd is selling off its investment banking arm.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "El gobierno planea vender algunas de sus empresas de transporte.",
+      "back": "The government plans to sell off some of its transport companies.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "Un granjero local ha vendido tierras para ayudar a pagar los gastos médicos de su hija.",
+      "back": "A local farmer has sold off land to help pay his daughter's medical bills.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "Una empresa inmobiliaria americana se vio obligada a vender todas sus propiedades en Massachusetts.",
+      "back": "An American real estate company was forced to sell off all their properties in Massachusetts.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "El gobierno está planeando vender tierras en el norte a promotores locales.",
+      "back": "The government is planning to sell off land in the north to local developers.",
+      "sourcePage": 26
+    }
+  ]
+}

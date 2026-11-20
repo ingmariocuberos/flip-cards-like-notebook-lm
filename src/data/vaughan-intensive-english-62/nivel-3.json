@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-62",
+  "bookTitle": "Libro 62",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me temo que el último disco está completamente agotado, pero deberíamos recibir más el jueves.",
+      "back": "I'm afraid their latest album is completely sold out, but we should have new stock in on Thursday.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "Me temo que la última temporada ya estaba agotada ayer, pero deberíamos recibir más en breve.",
+      "back": "I'm afraid the latest season was already sold out yesterday, but the new stock should be coming in soon.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "¡No me puedo creer que esté agotado!",
+      "back": "I can't believe it's sold out!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "Las entradas se agotaron en un tiempo récord de cuatro minutos. La web casi se vino abajo.",
+      "back": "The tickets sold out in a record-breaking four minutes. The website almost crashed.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "Las entradas para el partido se agotaron inmediatamente. Podríamos probar suerte en la reventa.",
+      "back": "Tickets for the game sold out straight away. We could go and try our luck with the touts.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "Tendremos que probar suerte en la reventa. ¡Las entradas se agotaron en un abrir y cerrar de ojos!",
+      "back": "We'll have to go and try our luck with the touts. The tickets sold out in the blink of an eye!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "Se nos han agotado las patatas de vinagre y sal. Tenemos cacahuetes salados si le parece bien.",
+      "back": "We've sold out of salt and vinegar crisps. We've got salted peanuts if that's any use.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "Se nos agotaron las entradas en un abrir y cerrar de ojos. Le puedo enseñar dónde está la reventa por si le sirve.",
+      "back": "We sold out of the tickets in the blink of an eye. I can show you where the touts are if that's any use.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Se nos ha agotado completamente su último disco. Deberíamos recibir más el jueves, por si le sirve de algo.",
+      "back": "We've completely sold out of their latest album. We should have new stock in on Thursday if that's any use.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "La mayoría de los fans del grupo piensa que se vendieron cuando sacaron su nuevo disco.",
+      "back": "Most of the group's fans think they sold out when they released their new album.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Odio cuando los grupos se venden; les debería importar la música y nada más.",
+      "back": "I hate it when bands sell out, they should be about the music and nothing else.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Mi padre piensa que la mayoría de los políticos se venden cuando llegan al poder porque todo gira en torno al dinero.",
+      "back": "My dad thinks most politicians sell out when they come into power because it's all about the money.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "Es un vendido. Antes era un activista, pero cuando llegó al poder se vendió al lobby del petróleo.",
+      "back": "He's a sellout. He used to be an activist, but when he came to power he sold out to the oil lobby.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "La gente dice que el grupo se ha vendido, pero a mí me gusta mucho su nuevo material.",
+      "back": "People call the band sellouts, but I really like their new stuff.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "¡El musical fue un éxito en Australia! Seguramente sea un éxito de taquilla en Europa también.",
+      "back": "The musical was a hit in Australia! It's sure to be a sellout in Europe too.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "No te subestimes. Acabarás arrepintiéndote.",
+      "back": "Don't sell yourself short. You'll end up regretting it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "Creo que deberías coger el toro por los cuernos. No te subestimes.",
+      "back": "I reckon you should go for it. Don't sell yourself short.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "Si te subestimas, nunca llegarás a ningún lado.",
+      "back": "If you sell yourself short, you'll never get anywhere.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "No vendas tu alma al diablo. Acabarás arrepintiéndote.",
+      "back": "Don't sell your soul to the devil! You'll end up regretting it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "Hagas lo que hagas, no vendas tu alma al diablo.",
+      "back": "Whatever you do, don't sell your soul to the devil.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "Si vendes tu alma al diablo, nunca llegarás a ningún lado.",
+      "back": "If you sell your soul to the devil, you'll never get anywhere.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "Esas cosas siempre se venden como churros. Creo que deberías coger el toro por los cuernos.",
+      "back": "Those things always sell like hot cakes. I reckon you should go for it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "Te acabarás arrepintiendo si no compras algunos. Se venden como churros en verano.",
+      "back": "You'll end up regretting it if you don't get some. They sell like hot cakes in summer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "Nunca llegarás a ningún lado en este sector a no ser que inviertas en el producto líder. Esas cosas se venden como churros.",
+      "back": "You'll never get anywhere in this industry unless you invest in the leading product. Those things sell like hot cakes.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "Tu hermano te ha traicionado. Yo que tú, me vengaría de él.",
+      "back": "Your brother sold you down the river. If I were in your shoes, I'd get revenge on him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "¡Te traicionó! Yo que tú, ajustaría cuentas.",
+      "back": "He sold you down the river! If I were in your shoes, I'd get even.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "Yo en tu lugar, le traicionaría. ¡El placer de la venganza!",
+      "back": "If I were in your shoes, I'd sell him down the river. Revenge is sweet!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "Hagas lo que hagas, no vendas la empresa por cuatro perras. Te acabarás arrepintiendo.",
+      "back": "Whatever you do, don't sell the business for a song. You'll end up regretting it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Creo que deberías venderla por cuatro perras. Nunca llegarás a ningún lado si no la vendes.",
+      "back": "I reckon you should sell it for a song. You'll never get anywhere if you don't sell it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Yo en tu lugar, vendería la empresa por cuatro perras.",
+      "back": "If I were in your shoes, I'd sell the business for a song.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Pensaste que te saldrías con la tuya disfrazándote como un monje en una celda monástica?",
+      "back": "Did you think you would get away with it by disguising yourself as a monk in a monastic cell?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Pensaste que tu pareja se saldría con la suya disfrazándose como una monja en una celda monástica?",
+      "back": "Did you think your partner would get away with it by disguising herself as a nun in a monastic cell?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Pensaste que no te cogerían si te disfrazabas como un monje en una celda monástica?",
+      "back": "Did you think you wouldn't be caught if you disguised yourself as a monk in a monastic cell?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "Si no hubieras intentado desbloquear el móvil robado, no te habrían cogido.",
+      "back": "Had you not tried to unblock the stolen cell phone, you wouldn't have been caught.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "Si no hubieras intentado usar el móvil robado, no te habrían cogido.",
+      "back": "Had you not tried to use the stolen cell phone, you wouldn't have been caught.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "Si no hubieras intentado vender el móvil robado, no te habrían cogido.",
+      "back": "Had you not tried to sell the stolen cell phone, you wouldn't have been caught.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "El equipo forense ha encontrado células de piel en el lugar del crimen.",
+      "back": "The forensics team has found skin cells at the scene of the crime.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Ya no puedes negar el crimen; las células encontradas en el lugar del crimen coinciden con tu ADN.",
+      "back": "You can no longer deny the crime; the cells found at the scene of the crime match your DNA.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "Tus células coinciden con una muestra previa de ADN tuyo.",
+      "back": "Your cells match a previous DNA record that we have of you.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Las acusaciones sugieren que el ladrón del móvil está involucrado en una red terrorista que opera dentro del país.",
+      "back": "Allegations suggest that the 'cell phone thief' is involved with a terrorist cell operating within the country.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "El ladrón del móvil está presuntamente vinculado a una red terrorista.",
+      "back": "The 'cell phone thief' is allegedly linked to a terrorist cell.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "El ladrón del móvil niega las acusaciones de estar vinculado a una red terrorista que opera dentro del país.",
+      "back": "The 'cell phone thief' denies allegations he is linked to a terrorist cell operating within the country.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Condenado a diez años de prisión, el ladrón del móvil se prepara para pasar sus días en la celda estudiando.",
+      "back": "Sentenced to ten years in prison, the 'cell phone thief' prepares to spend his days in the cell studying.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "El ladrón del móvil dice que pasará su tiempo en la celda aprendiendo idiomas.",
+      "back": "The 'cell phone thief' says he will spend his time in the cell learning languages.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "«Pienso utilizar la celda como una escuela», dice el ladrón del móvil, quien está preparándose para pasar los próximos veinte años entre rejas.",
+      "back": "I plan to use the prison cell as a school, says the 'cell phone thief', who is preparing to spend the next twenty years behind bars.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "El verdulero me ha vuelto a timar. ¡Esta vez me ha cobrado de más por las verduras!",
+      "back": "I've been ripped off again by the greengrocer. This time he's overcharged me for the vegetables!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "Primero te tima con las verduras y luego realmente te clava con la fruta fresca.",
+      "back": "First he rips you off on the vegetables, and then he really takes you to the cleaners with the fresh fruit.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "Ese sitio es un timo. Si me vuelven a cobrar de más por las verduras, voy a boicotearlo e ir al de al lado.",
+      "back": "That place is such a rip-off. If they overcharge me again for vegetables, I'm going to boycott them and go to the place next door.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "No puedo creer que me hayan timado para comprar ese portátil inútil. ¡No sólo costó un ojo de la cara sino que además es imposible de usar!",
+      "back": "I can't believe I've been conned into buying that useless laptop. Not only did it cost an arm and a leg but it's also impossible to use!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "Siempre te timan para comprar el último modelo, y luego encima te timan para comprar todos los accesorios que lo acompañan.",
+      "back": "They always con you into buying the latest model, and then on top of that, they con you into buying all the accessories that go with it.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "La gente de esa tienda son unos timadores. Y realmente te clavan con sus accesorios digitales.",
+      "back": "The people at that shop are total conmen. And they really take you to the cleaners with their digital accessories.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "La han timado para comprar un segundo par de zapatillas sin rebaja.",
+      "back": "She's been swindled into getting a second pair of shoes without a discount.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Esa tienda siempre te tima para comprar un segundo par, y encima, las zapatillas se suelen descuajaringar en cuestión de días.",
+      "back": "That shop always swindles you into getting a second pair, and on top of that, their shoes usually fall apart within days.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "El hombre que trabaja en la tienda de zapatillas es un timador. No sólo te cobra un ojo de la cara por el primer par, ¡sino que también te tima!",
+      "back": "The man who works at the shoe shop is such a swindler. Not only does he charge you an arm and a leg for the first pair, but he also swindles you!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "No pueden creer que les hayan timado para comprar una cocina que no necesitan.",
+      "back": "They can't believe they've been duped into buying a cooker they don't need.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "Ese hombre tima a la gente todo el tiempo, y realmente te clava con su política de devolución.",
+      "back": "That man dupes people all the time, and he really takes you to the cleaners with his return policy.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Me siento como un verdadero primo. El hombre de la tienda es todo sonrisas cuando te vende electrodomésticos, pero luego si intentas devolver algo, se vuelve frío como el hielo.",
+      "back": "I feel like a total dupe. The man at the shop is all smiles when he sells you electrical appliances, but then if you try and return something, he turns ice cold.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "Me siento como un primo total. ¡Esos timadores me han vuelto a tomar el pelo!",
+      "back": "I feel like a total dupe. Those conmen took me for a ride again!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "¡Es la última vez que me toman el pelo! ¡Voy a boicotear esa tienda para siempre!",
+      "back": "This is the last time I get taken for a ride! I'm boycotting that shop forever!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "No sólo voy a boicotear su tienda, ¡sino que nunca voy a dejar que me vuelvan a tomar el pelo!",
+      "back": "Not only am I boycotting their shop, but I'm never going to let anyone take me for a ride again!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "Si vendemos nuestra casa ahora, estaremos perdiendo dinero; pero si esperamos más, podemos acabar perdiendo más.",
+      "back": "If we sell our house now, we'll be selling it at a loss; but if we hang on, we could end up losing more.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "La empresa ha anunciado que, gracias a la nueva campaña de marketing, ya no está perdiendo dinero al vender su último producto.",
+      "back": "The company has announced that, thanks to the new marketing campaign, it is no longer selling its latest product at a loss.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "La inversión en el producto significa que empezaremos vendiendo con pérdidas, pero después de unos meses deberíamos ver algún rendimiento.",
+      "back": "The investment into the product means that we'll start off selling at a loss, but after a few months we should start seeing some return.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "Cuando lanzamos el producto al mercado, empezó a venderse con pérdidas, pero las ventas han mejorado y estamos vendiendo con ganancias ahora.",
+      "back": "When we released the product on the market, it started to sell at a loss, but sales have improved and we're selling it at a profit now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Tuve suerte; conseguí vender mis acciones con ganancias la semana antes de que quebrara la empresa.",
+      "back": "I was fortunate; I managed to sell my shares at a profit a week before the company went bust.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "Si hubieran programado mejor el lanzamiento de su producto, habrían podido venderlo con ganancias.",
+      "back": "If they had timed the launch of their product better, they would have been able to sell it at a profit.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "La empresa en la que trabajaba antes mi cuñado vendía juguetes al por mayor a las tiendas.",
+      "back": "The company my brother-in-law used to work for sold toys wholesale to shops.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Si no vendieran ruedas de coche al por mayor, probablemente venderían otras partes de coche al por mayor.",
+      "back": "If they didn't sell car wheels wholesale, they'd probably sell other car parts wholesale.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "Mi tía disfruta de verdad con su nuevo trabajo en los mayoristas vendiendo complementos de fiesta al por mayor.",
+      "back": "My aunty really enjoys her new job working in the wholesalers, selling party accessories wholesale.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Merece la pena reducir el precio de cada unidad para que puedas vender al por mayor.",
+      "back": "It's worth reducing the individual unit price so that you can sell in bulk.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "Al vender stock es importante deshacerte de él tan rápido como puedas; por tanto, es una buena estrategia vender stock al por mayor más barato.",
+      "back": "When selling stock it's important to shift it as quickly as possible; therefore a good strategy is to sell stock in bulk at a cheaper rate.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Los supermercados grandes a menudo venden su stock con ganancia porque venden la mayor parte al por mayor.",
+      "back": "Large supermarkets often sell their stock at a profit because they sell most of it in bulk.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Debido al reciente aumento del fraude de tarjetas de crédito, la tienda ha decidido dejar de vender sus productos a crédito.",
+      "back": "Due to the recent increase in credit card fraud, the store has decided to stop selling its products on credit.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Lo siento, señor, pero su tarjeta para la compra de este móvil ha sido denegada. No podemos vendérselo a crédito.",
+      "back": "I'm sorry, sir, but your card for this phone purchase has been declined. We're unable to sell it to you on credit.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "¡No puedo creer que no vendan sus productos a crédito! ¿Ahora qué voy a hacer? No hay cajeros por aquí cerca.",
+      "back": "I can't believe they don't sell their goods on credit! What am I supposed to do now? There aren't any ATMs nearby.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "Me vendo poniendo ejemplos de la vida real para demostrar que tengo las habilidades que aparecen en mi currículum.",
+      "back": "I sell myself by using real-life examples to prove that I possess the skills listed on my CV.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "¡La mejor forma de venderte es prometer que eres la solución a cualquier problema!",
+      "back": "The best way to sell yourself is by promising to be the solution to any possible problems!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "Cuando ofreces a una empresa tus habilidades, te tienes que vender demostrando pasión por tu línea de trabajo.",
+      "back": "When you offer your skills to a company, you have to sell yourself by showing passion for your line of work.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "Están intentando persuadir a los republicanos de la idea de un gobierno grande.",
+      "back": "They're trying to sell the republicans on the idea of big government.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Estamos intentando persuadir a nuestro jefe de la idea de comprar hamacas ejecutivas.",
+      "back": "We're trying to sell our boss on the idea of buying some executive hammocks.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "Mara está intentando persuadir al alcalde de la idea de construir un sistema de tranvías en la ciudad.",
+      "back": "Mara's trying to sell the mayor on the idea of building a tram system in the city.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "Tienes el trabajo asegurado. Te estamos vendiendo como la octava maravilla del mundo.",
+      "back": "You're a shoo-in. We're selling you as the best thing since sliced bread.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "Cuando entres, tienes que vender tu invento como la octava maravilla del mundo.",
+      "back": "When you go in there, you have to sell your invention as the best thing since sliced bread.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "No te vendas como la octava maravilla del mundo. No querrás parecer arrogante.",
+      "back": "Don't sell yourself as the best thing since sliced bread. You don't want to come across as arrogant.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Si quieres que él esté en tu equipo, más vale que se lo vendas a tu jefe. Es un gran negociador.",
+      "back": "If you want him on your team, you'd better sell him to your boss. He's a great negotiator.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "¿Qué tengo que hacer para vendérselo al jefe?",
+      "back": "How would I go about selling him to the boss?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "Si quieres vendérselo al jefe, deja caer su nombre en las conversaciones cuando puedas.",
+      "back": "If you want to sell him to the boss, drop his name in conversation whenever you can.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "A pesar de sus convincentes argumentos, no estoy convencido de su enfoque hacia la concienciación ambiental.",
+      "back": "Despite his convincing arguments, I'm not sold on his approach toward environmental awareness.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "Por muy bien que presentes tus argumentos, ella no estará convencida de tu estrategia de crecimiento.",
+      "back": "No matter how well presented your arguments are, she won't be sold on your growth strategy.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "Lo siento, pero no estoy convencido de la idea de contratar más administrativos. ¡Ya tenemos exceso de plantilla!",
+      "back": "I'm sorry but I'm not sold on the idea of hiring more administrators. We're already over-staffed!",
+      "sourcePage": 40
+    }
+  ]
+}

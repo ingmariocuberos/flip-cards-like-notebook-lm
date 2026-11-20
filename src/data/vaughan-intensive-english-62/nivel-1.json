@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-62",
+  "bookTitle": "Libro 62",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "En una ferretería se venden herramientas.",
+      "back": "A hardware store sells tools.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "En una carnicería se vende carne.",
+      "back": "A butcher's sells meat.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "En una panadería se vende pan.",
+      "back": "A bakery sells bread.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Se venden muchas cosas en los supermercados.",
+      "back": "Supermarkets sell lots of things.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Se venden muchas cosas en las tiendas de barrio.",
+      "back": "Corner shops sell lots of things.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Se venden muchas cosas en los grandes almacenes.",
+      "back": "Department stores sell lots of things.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Tiene usted herramientas?",
+      "back": "Do you sell tools here?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Tiene usted canela?",
+      "back": "Do you sell cinnamon here?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Tiene usted candados?",
+      "back": "Do you sell padlocks here?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Se vende ternera en esta carnicería? No, no se vende.",
+      "back": "Does this butcher's sell beef? No, it doesn't.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Se venden planchas de ropa en este gran almacén? No, no se venden.",
+      "back": "Does this department store sell irons? No, it doesn't.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Se venden tartas en esta panadería? No, no se venden.",
+      "back": "Does this bakery sell cakes? No, it doesn't.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Por qué no se venden artículos eléctricos en esta tienda?",
+      "back": "Why doesn't this shop sell electrical goods?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Por qué no se venden herramientas en esta tienda?",
+      "back": "Why doesn't this shop sell tools?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Por qué no se vende ternera en esta tienda?",
+      "back": "Why doesn't this shop sell beef?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Esta empresa vende seguros en la Red.",
+      "back": "This company sells insurance online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Esta empresa vende programas de formación en la Red.",
+      "back": "This company sells training programs online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Esta empresa vende espacios publicitarios en la Red.",
+      "back": "This company sells advertising space online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "La empresa para la que trabajo vende seguros en la Red.",
+      "back": "The company that I work for sells insurance online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "La empresa para la que trabaja mi hermano vende espacios publicitarios en la Red.",
+      "back": "The company that my brother works for sells advertising space online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "La empresa para la que trabajamos vende artículos en la Red.",
+      "back": "The company that we work for sells goods online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Quiero saber vender cosas en la Red.",
+      "back": "I want to know how to sell things online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Quiero saber vender coches de segunda mano en la Red.",
+      "back": "I want to know how to sell second-hand cars online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Quiero saber vender servicios en la Red.",
+      "back": "I want to know how to sell services online.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Vender cosas en internet es fácil.",
+      "back": "Selling things on the internet is easy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Vender artículos en internet es el futuro.",
+      "back": "Selling goods on the internet is the future.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Vender servicios en internet es más barato.",
+      "back": "Selling services on the internet is cheaper.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Nunca venderé en la Red; no confío en internet.",
+      "back": "I'll never sell online; I don't trust the internet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Nunca venderé en internet; hay demasiada competencia.",
+      "back": "I'll never sell on the internet; there's too much competition.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Nunca venderé en internet; prefiero atender a los clientes cara a cara.",
+      "back": "I'll never sell on the internet; I prefer serving customers face to face.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Es usted muy buen vendedor, ¡pero deje de intentar venderme un coche!",
+      "back": "You're quite a salesman, but stop trying to sell me a car!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Es usted muy buena vendedora, ¡pero deje de intentar venderme un seguro!",
+      "back": "You're quite a saleswoman, but stop trying to sell me insurance!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Es usted muy buen vendedor, ¡pero deje de intentar venderme una tarjeta de crédito!",
+      "back": "You're quite a salesman, but stop trying to sell me a credit card!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Ya le dije que no estoy interesada en ese coche. ¡Deje de intentar vendérmelo!",
+      "back": "I told you that I'm not interested in that car. Stop trying to sell it to me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Ya le dije que no estoy interesada en hacer ese curso de inglés. ¡Deje de intentar vendérmelo!",
+      "back": "I told you that I'm not interested in doing that English course. Stop trying to sell it to me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Ya le dije que no estoy interesada. ¡Deje de intentar vendérmelo!",
+      "back": "I told you that I'm not interested. Stop trying to sell it to me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Soy la mejor comercial de todo el equipo de ventas.",
+      "back": "I'm the best salesperson on the whole sales force.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Es el peor comercial de todo el equipo de ventas.",
+      "back": "He's the worst salesman on the whole sales team.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Ella es la mejor comercial de su división y también de toda la empresa.",
+      "back": "She's the best saleswoman in her division and the best in the whole company as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Odio cuando los vendedores ambulantes intentan venderte cachivaches por la calle.",
+      "back": "I hate it when vendors try to sell you knick-knacks on the street.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Odio cuando los vendedores ambulantes intentan venderte flores por la calle.",
+      "back": "I hate it when vendors try to sell you flowers on the street.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Odio cuando los vendedores ambulantes intentan venderte DVD piratas por la calle.",
+      "back": "I hate it when vendors try to sell you illegal DVDs on the street.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "No hay nada que yo no pueda vender.",
+      "back": "There's nothing I can't sell.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "No hay nada que no podamos vender.",
+      "back": "There's nothing we can't sell.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "No hay nada que ella no pueda vender.",
+      "back": "There's nothing she can't sell.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Este suéter está rebajado!",
+      "back": "This jumper is on sale!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Estos calcetines están rebajados!",
+      "back": "These socks are on sale!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Ese cortaúñas de pies está rebajado!",
+      "back": "Those toenail clippers are on sale!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Este suéter es un poco caro. Voy a esperar a que esté rebajado.",
+      "back": "This jumper's a little expensive. I'll wait 'til it's on sale.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Estos calcetines son un poco caros. Voy a esperar a que estén rebajados.",
+      "back": "These socks are a little dear. I'll wait 'til they're on sale.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Ese cortaúñas de pies es un poco caro. Voy a esperar a que esté rebajado.",
+      "back": "Those toenail clippers are a little pricey. I'll wait 'til they're on sale.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¡El gran almacén está de rebajas!",
+      "back": "There's a sale on in the department store!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¡La ferretería está de rebajas!",
+      "back": "There's a sale on in the hardware store!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "¡La zapatería está de rebajas!",
+      "back": "There's a sale on in the shoe shop!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Las rebajas de enero son geniales!",
+      "back": "The January sales are great!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Las rebajas de verano son mucho mejores que las de enero!",
+      "back": "The summer sales are much better than the January sales!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Las mejores rebajas sin duda alguna son las rebajas de pretemporada!",
+      "back": "The best sales are definitely the pre-season sales!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Esta camiseta está a diez libras. ¡Qué ganga!",
+      "back": "This T-shirt is on sale for ten pounds. What a bargain!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Este coche está a 2.000 libras. ¡Qué ganga!",
+      "back": "This car is on sale for 2,000 pounds. What a bargain!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Este reproductor de MP3 está a cincuenta libras. ¡Qué ganga!",
+      "back": "This MP3 player is on sale for 50 pounds. What a bargain!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Los grandes almacenes venden todo tipo de cosas!",
+      "back": "Department stores sell all kinds of things!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "¡Este gran almacén vende todo tipo de cosas!",
+      "back": "This department store sells all kinds of things!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "¡Ese gran almacén vende todo tipo de cosas!",
+      "back": "That department store sells all kinds of things!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "¡La tienda del barrio vende todo tipo de cosas!",
+      "back": "The convenience store sells all kinds of stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "¡Las tiendas de barrio venden todo tipo de cosas!",
+      "back": "Convenience stores sell all kinds of stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "¡Ese sitio vende todo tipo de cosas!",
+      "back": "That place sells all kinds of stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "¡La tienda de abajo vende todo tipo de cosas geniales!",
+      "back": "The shop downstairs sells all kinds of cool stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "¡Esta tienda vende todo tipo de cosas geniales!",
+      "back": "This shop sells all kinds of cool stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Este sitio vende todo tipo de cosas geniales!",
+      "back": "This place sells all kinds of cool stuff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Ese gran almacén vende una amplia gama de bebidas.",
+      "back": "That department store sells a wide range of beverages.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Esta tienda del barrio vende una amplia gama de bebidas.",
+      "back": "This convenience store sells a wide range of beverages.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "La tienda de abajo vende una amplia gama de bebidas.",
+      "back": "The shop downstairs sells a wide range of beverages.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "La tienda de abajo vende una amplia variedad de accesorios para fiestas.",
+      "back": "The shop downstairs sells a wide variety of party accessories.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Ese sitio vende una amplia variedad de accesorios para fiestas.",
+      "back": "That place sells a wide variety of party accessories.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "La tienda del barrio vende una amplia variedad de accesorios para fiestas.",
+      "back": "The convenience store sells a wide variety of party accessories.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Vendo coches a chatarreros.",
+      "back": "I sell cars to scrap merchants.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Vendo coches a empresas de taxis.",
+      "back": "I sell cars to taxi firms.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Vendemos seguros a propietarios de casas.",
+      "back": "We sell insurance to homeowners.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Te venderé mi reloj por 20 pavos.",
+      "back": "I'll sell you my watch for 20 bucks.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Él me venderá su casa por 250.000.",
+      "back": "He'll sell me his house for 250,000.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Él le venderá a ella su coche por 2.000.",
+      "back": "He'll sell her his car for 2,000.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Por qué no le vendes a él tu coche?",
+      "back": "Why don't you sell him your car?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Por qué no le vendemos a ella nuestro yate?",
+      "back": "Why don't we sell her our yacht?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Por qué ella no les vende su cortacésped?",
+      "back": "Why doesn't she sell them her lawnmower?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "John le está vendiendo a Nick su reloj.",
+      "back": "John's selling Nick his watch.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Bob le está vendiendo a Jack su colección de sellos.",
+      "back": "Bob's selling Jack his stamp collection.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Julie le está vendiendo a Mei Ping su pulsera.",
+      "back": "Julie's selling Mei Ping her bracelet.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "No te puedo vender alcohol; tienes menos de 18 años.",
+      "back": "I can't sell you alcohol; you're under 18.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "No te podemos vender estos medicamentos sin una receta médica; es ilegal.",
+      "back": "We can't sell you these drugs without a prescription; it's illegal.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Él no me puede vender su antiguo coche porque no ha pasado la ITV.",
+      "back": "He can't sell me his old car as it didn't pass its MOT test.",
+      "sourcePage": 12
+    }
+  ]
+}
