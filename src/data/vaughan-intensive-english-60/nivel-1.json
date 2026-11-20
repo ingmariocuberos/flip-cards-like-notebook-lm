@@ -1,0 +1,370 @@
+{
+  "bookId": "vaughan-intensive-english-60",
+  "bookTitle": "Libro 60",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Enséñeme dónde está la sección de literatura inglesa.",
+      "back": "Please show me where the English literature section is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Enséñele dónde está la sección de literatura inglesa.",
+      "back": "Please show him where the English literature section is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Enséñenos dónde está.",
+      "back": "Please show us where it is.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Puede enseñarme dónde está la sección BV13_30?",
+      "back": "Can you show me where section BV13_30 is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Puede enseñarles dónde está la sección BV30_13?",
+      "back": "Can you show them where section BV30_13 is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Puede enseñarle dónde están las secciones BV13_30 y BV30_13?",
+      "back": "Can you show her where sections BV13_30 and BV30_13 are?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Me podría enseñar dónde está la sección de colecciones especiales?",
+      "back": "Could you show me where the special collections section is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Por favor, ¿nos podría enseñar dónde está la sección de colecciones especiales?",
+      "back": "Please, could you show us where the special collections section is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Les podría usted enseñar dónde está?",
+      "back": "Could you show them where it is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Le enseño dónde está la sección de libros raros y curiosos?",
+      "back": "Shall I show you where the rare books section is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Le enseño dónde están los libros raros y curiosos?",
+      "back": "Shall I show you where the rare books are?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Le enseño dónde están?",
+      "back": "Shall I show you where they are?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Por qué no me enseña dónde está la biblioteca pública?",
+      "back": "Why don't you show me where the public library is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Por qué no les enseña dónde está la biblioteca pública más cercana?",
+      "back": "Why don't you show them where the nearest public library is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Por qué no me enseña dónde está?",
+      "back": "Why don't you show me where it is?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Me enseñas cómo llegar a la estación? ¡Estoy completamente perdido!",
+      "back": "Can you show me how to get to the station? I'm completely lost!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Me enseñas cómo llegar a la estación de tren? ¡No conozco este pueblo!",
+      "back": "Can you show me how to get to the train station? I don't know this town!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Me enseñas cómo llegar a la estación de tren? ¡Este mapa está mal!",
+      "back": "Can you show me how to get to the railway station? This map is wrong!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Me enseñas a utilizar este teléfono? ¡Es complicado!",
+      "back": "Can you show me how to use this phone? It's complicated!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Me enseñas a utilizar este horno? ¡No tengo ni idea!",
+      "back": "Can you show me how to use this oven? I haven't got a clue!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Me enseñas a utilizar esta tableta? ¡No tengo ni idea!",
+      "back": "Can you show me how to use this tablet? I haven't got a clue!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Me enseñas a dibujar un erizo? ¡Se me da fatal dibujar!",
+      "back": "Can you show me how to draw a hedgehog? I'm terrible at drawing!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Me enseñas a dibujar un erizo? ¡Es muy difícil!",
+      "back": "Can you show me how to draw a hedgehog? It's really hard!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Me enseñas a dibujar un erizo? ¡No sé dibujar!",
+      "back": "Can you show me how to draw a hedgehog? I don't know how to draw!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Me enseñas a cambiar una rueda? ¡No tengo ni idea!",
+      "back": "Can you show me how to change a tyre? I haven't got a clue!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Me enseñas a cambiar una rueda? ¡Tengo un pinchazo! (inglés americano)",
+      "back": "Can you show me how to change a tire? I've got a flat!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Me enseñas a cambiar una rueda? ¡Tengo un pinchazo! (inglés británico)",
+      "back": "Can you show me how to change a tyre? I've got a puncture!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Me enseñas a hacer una tarta? ¡Tus tartas son las mejores!",
+      "back": "Can you show me how to bake a cake? Your cakes are the best!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Me enseñas a hacer una tarta? ¡No tengo ni idea!",
+      "back": "Can you show me how to bake a cake? I haven't got a clue!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Me enseñas a hacer una tarta, porfaaaa?",
+      "back": "Can you show me how to bake a cake, pleeeeeease?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "¿A qué hora va a llegar Simon? ¡Va a dar un discurso!",
+      "back": "What time is Simon going to show up? He's giving a speech!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-032",
+      "front": "¿A qué hora va a llegar Simon? ¡Es su cumpleaños!",
+      "back": "What time is Simon going to show up? It's his birthday!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-033",
+      "front": "¿A qué hora va a llegar Simon? ¡Son las nueve y media!",
+      "back": "What time is Simon going to show up? It's nine thirty!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-034",
+      "front": "Él siempre llega tarde, ¡me da una rabia!",
+      "back": "He always shows up late, it's really annoying!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Por qué él siempre llega tarde? ¡Es de muy mala educación!",
+      "back": "Why does he always show up late? It's really rude!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Por qué él siempre llega tarde? ¡No me lo puedo creer!",
+      "back": "Why does he always show up late? I can't believe it!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-037",
+      "front": "¡Él siempre está presumiendo!",
+      "back": "He's always showing off!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Él presume todo el tiempo.",
+      "back": "He shows off all the time.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Mira cómo él está presumiendo, ¡le encanta llamar la atención!",
+      "back": "Look at him showing off, he loves the attention!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Mírale, ya está presumiendo de su reloj nuevo.",
+      "back": "Look at him, he's already showing off his new watch!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Mírale, ¡está presumiendo de su coche nuevo!",
+      "back": "Look at him, he's showing off his new car!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "¡No me puedo creer que esté presumiendo de sus cosas nuevas! ¿Es que tiene ocho años?",
+      "back": "I can't believe he's showing off his new things! Is he eight years old?",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Genial, ahora él está presumiendo de lo bien que habla francés.",
+      "back": "Oh great, now he's showing off how well he speaks French.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "¡No me lo puedo creer! ¡Ahora está presumiendo de lo bien que canta!",
+      "back": "I can't believe it! Now he's showing off how well he can sing!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "¡Ahora está presumiendo del dinero que gana! ¡Ya basta, no voy a su próximo cumpleaños!",
+      "back": "Now he's showing off how much money he earns! That's it, I'm not going to his next birthday!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Cuál es tu programa de televisión favorito?",
+      "back": "What's your favourite TV show?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "No tengo un programa favorito, pero normalmente veo series de risa.",
+      "back": "I don't have a favourite show but I usually watch sitcoms.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Para gustos, los colores. Mis programas de televisión favoritos son los documentales.",
+      "back": "Each to their own. My favourite TV shows are documentaries.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Qué piensas de los programas de entrevistas?",
+      "back": "What do you think of talk shows?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "No aguanto los programas de entrevistas.",
+      "back": "I can't stand talk shows.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Para gustos, los colores. Yo veo programas de entrevistas todos los días.",
+      "back": "Each to their own. I watch chat shows every day!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "Puede pasar cualquier cosa durante un programa en directo.",
+      "back": "Anything can happen during a live show.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Ya lo sé, es por eso que odio los programas en directo.",
+      "back": "I know. That's why I hate live shows.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Para gustos, los colores. ¡A mí me encantan los programas en directo!",
+      "back": "Each to their own. I love live shows!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Crees que mi caballo tiene posibilidades de ganar el concurso hípico?",
+      "back": "Do you think my horse has a chance of winning the horse show?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Por supuesto que tu caballo tiene posibilidades de ganar el concurso hípico.",
+      "back": "Of course your horse has a chance of winning the horse show.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Pues si mi caballo no gana, presentaré mi perro al concurso canino.",
+      "back": "Well if my horse doesn't win, I'll enter my dog in the dog show.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Vas al desfile de moda la semana que viene?",
+      "back": "Are you going to the fashion show next week?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Claro que no, ya sabes que odio a ese diseñador de moda.",
+      "back": "Of course not, you know I hate that fashion designer.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Para gustos, los colores. Yo siempre voy a sus desfiles de moda.",
+      "back": "Each to their own. I always go to his fashion shows.",
+      "sourcePage": 10
+    }
+  ]
+}
