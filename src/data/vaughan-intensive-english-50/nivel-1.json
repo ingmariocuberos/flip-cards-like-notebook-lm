@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-50",
+  "bookTitle": "Libro 50",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Mi papá se cortó con una cuchilla esta mañana.",
+      "back": "My dad cut himself with a razor this morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Mi mamá se cortó con un cuchillo afilado la semana pasada.",
+      "back": "My mum cut herself with a sharp knife last week.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Mi mamá se cortó con un cuchillo oxidado el año pasado.",
+      "back": "My mum cut herself with a rusty knife last year.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "A menudo me corto afeitándome.",
+      "back": "I often cut myself shaving.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Mi hermano a menudo se corta afeitándose.",
+      "back": "My brother often cuts himself shaving.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¡Mi hermana pequeña nunca se corta afeitándose porque nunca se afeita!",
+      "back": "My little sister never cuts herself shaving, because she never shaves!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Me corté el dedo ayer.",
+      "back": "I cut my finger yesterday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Me lo corté con un cuchillo.",
+      "back": "I cut it with a knife.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Ella se cortó el pulgar ayer.",
+      "back": "She cut her thumb yesterday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Me corto las uñas una vez cada dos semanas.",
+      "back": "I cut my nails once a fortnight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Mi mujer se corta las uñas una vez cada dos semanas también.",
+      "back": "My wife cuts her nails once a fortnight too.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Odio cortarme las uñas de los dedos del pie.",
+      "back": "I hate cutting my toenails.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Tengo que cortarme el pelo. ¿Tienes que cortarte el pelo?",
+      "back": "I need to cut my hair. Do you need to get your hair cut?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No, no tengo que cortarme el pelo, pero voy a cortármelo de todas formas.",
+      "back": "No, I don't need to get my hair cut but I'm going to get it cut anyway.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Deberías cortarte el pelo.",
+      "back": "You should get your hair cut.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Córtalo en dos con un cuchillo.",
+      "back": "Cut it in two with a knife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Córtalo por la mitad con un cuchillo.",
+      "back": "Cut it in half with a knife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Corta la manzana en cuatro con un cuchillo.",
+      "back": "Cut the apple in four with a knife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Córtalo en cuadrados con unas tijeras.",
+      "back": "Cut it into squares with some scissors.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Corta el papel en triángulos pequeños con unas tijeras.",
+      "back": "Cut the paper into small triangles with some scissors.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Corta el papel en triángulos grandes con unas tijeras.",
+      "back": "Cut the paper into large triangles with a pair of scissors.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Corta la manzana en cuatro trozos con tu navaja.",
+      "back": "Cut the apple into four pieces with your penknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Corta la naranja en tres trozos iguales con tu navaja.",
+      "back": "Cut the orange into three equal pieces with your penknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Corta la pera en cuatro trozos iguales con tu navaja.",
+      "back": "Cut the pear into four equal pieces with your penknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Corta el pan en rebanadas con el cuchillo para el pan.",
+      "back": "Cut the loaf of bread into slices with the breadknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Corta el pan en trozos cuadrados con el cuchillo para el pan.",
+      "back": "Cut the bread into squares with a breadknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Corta el pan en rebanadas finas con el cuchillo para el pan.",
+      "back": "Cut the bread into thin slices with the breadknife.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Corta la pizza en porciones iguales con el cortador.",
+      "back": "Cut the pizza into equal slices with the pizza cutter.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Cortaré la pizza en cuatro porciones con el cortador.",
+      "back": "I'll cut the pizza into four slices with the pizza cutter.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Usa el cortador para cortar el trozo de cartón.",
+      "back": "Use the cutter to cut the piece of cardboard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "A mis hijos les encanta recortar cosas de su cuaderno de actividades.",
+      "back": "My children love cutting things out from their activity book.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Charles! Cuidado cuando recortes esa imagen de un coche de esa revista.",
+      "back": "Charles! Be careful when you cut out that picture of a car from that magazine.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡Cuidado! Ojo con no recortar la parte equivocada.",
+      "back": "Be careful! Mind you don't cut out the wrong bit.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Corta la parte final de la hoja de papel.",
+      "back": "Cut the end off the piece of paper.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Ojo con no cortar el lado equivocado.",
+      "back": "Mind you don't cut off the wrong end.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Cuidado, no querrás cortarla mal, ¿no?",
+      "back": "Be careful, you don't want to cut it off wrong, do you?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Recorta por el borde cuidadosamente.",
+      "back": "Cut round the edge carefully.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Necesitas recortarlo cuidadosamente.",
+      "back": "You need to cut round it carefully.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Cuidado con no cortarte el dedo cuando recortes el borde de tu dibujo.",
+      "back": "Mind you don't cut your finger when you cut round the edge of your drawing.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Mi hijo tiene unas tijeras escolares y a él le encanta cortar las cosas en pedazos.",
+      "back": "My child has a pair of safety scissors and he loves cutting things up.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "A él le encanta cortar sus dibujos en pedacitos.",
+      "back": "He loves cutting his drawings up into tiny pieces.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Papá! ¿Te puedo cortar la corbata en pedacitos?",
+      "back": "Dad! Can I cut your tie up into tiny pieces?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Ojo con no cortarte el dedo de un tajo.",
+      "back": "Mind you don't chop off your finger.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Ojo con no cortarle el dedo de un tajo a alguien con ese cuchillo.",
+      "back": "Mind you don't chop off somebody's finger with that knife.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Cuidado; no querrás cortarle el dedo de un tajo a nadie con eso, ¿no?",
+      "back": "Be careful; you don't want to chop anyone's finger off with that, do you?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Para empezar, pela las patatas y mételas en agua.",
+      "back": "First of all, peel the potatoes and put them in water.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Para empezar, pela las zanahorias y resérvalas.",
+      "back": "First of all, peel the carrots and put them to one side.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Para empezar, pela los calabacines y ponlos a un lado.",
+      "back": "First of all, peel the zucchinis and put them aside.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Segundo, pica las patatas.",
+      "back": "Second, chop up the potatoes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Segundo, pica las zanahorias en trozos pequeños.",
+      "back": "Second, chop up the carrots into small pieces.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Segundo, pica el plátano en trozos pequeños.",
+      "back": "Second, chop up the banana into small pieces.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Tercero, corta las patatas en dados.",
+      "back": "Third, dice the spuds.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Tercero, corta el calabacín en dados.",
+      "back": "Third, dice the courgettes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Tercero, corta las berenjenas en dados.",
+      "back": "Third, dice the aubergines.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Luego, corta los tomates en rodajas finas.",
+      "back": "Then, thinly slice the tomatoes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Luego, corta las berenjenas en rodajas y ponlas a un lado.",
+      "back": "Then slice the eggplants and put on one side.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Luego, corta los calabacines en rodajas y ponlos a un lado.",
+      "back": "Then, slice the zucchinis and put aside.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Y, para terminar, ralla el queso sobre la pasta.",
+      "back": "And last of all, grate the cheese over the pasta.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Y, para terminar, ralla las zanahorias sobre la ensalada.",
+      "back": "And last of all, grate the carrots over the salad.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Y, para terminar, ralla el parmesano sobre los espaguetis.",
+      "back": "And last of all, grate the parmesan over the spaghetti.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Ese corte que tienes es muy feo.",
+      "back": "That's a nasty cut you have there.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¡Qué corte más feo!",
+      "back": "What a nasty cut!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Tienes un corte en el brazo. ¡Tiene mala pinta!",
+      "back": "You have a cut on your arm. It looks nasty!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Tengo un corte con un papel con mala pinta en el dedo. Es muy doloroso.",
+      "back": "I have a nasty paper cut on my finger. It's really painful.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¡Odio los cortes con un papel! Duelen mucho.",
+      "back": "I hate paper cuts! They're really painful.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Eso parece un corte feo con un papel. Parece muy doloroso.",
+      "back": "That looks like a nasty paper cut. It looks really painful.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Dick está en el hospital. Tiene un corte profundo en la pierna.",
+      "back": "Dick's in hospital. He has a deep cut on his leg.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Mi primo está en el hospital con un corte profundo en el tobillo.",
+      "back": "My cousin's in hospital with a deep cut on his ankle.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Mi prima está en el hospital porque tiene un corte profundo en la pierna.",
+      "back": "My cousin's in hospital because she has a deep cut on her leg.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Menuda herida más fea que tienes ahí. Parece muy dolorosa.",
+      "back": "That's a nasty wound you have there. It looks really painful.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Mi perro tiene una herida fea en una de sus patas delanteras.",
+      "back": "My dog has a nasty wound on one of his front paws.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¡No, no quiero ver tu herida de guerra otra vez, abuelo!",
+      "back": "No, I don't want to see your war wound again, grandpa!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Menuda costra más fea que tienes ahí.",
+      "back": "That's a nasty scab you have there.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Eso parece una costra fea en tu pierna.",
+      "back": "That looks like a nasty scab on your leg.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Qué costra más fea tienes!",
+      "back": "What a nasty scab you have there!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Perdona, se nos cortó.",
+      "back": "Sorry, we got cut off.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Creo que se nos cortó.",
+      "back": "I think we got cut off.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "No sé por qué se nos cortó.",
+      "back": "I don't know why we got cut off.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Si juegas al fútbol justo después de comer, se te va a cortar la digestión.",
+      "back": "If you play football straight after lunch, you'll get indigestion.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Si juegas al baloncesto justo después de comer, se te va a cortar la digestión.",
+      "back": "If you play basketball straight after lunch, you'll get indigestion.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Si vas a correr justo después de cenar, se te va a cortar la digestión.",
+      "back": "If you go running straight after dinner, you'll get indigestion.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Me da corte cada vez que tengo que hablar en inglés por teléfono.",
+      "back": "I get embarrassed whenever I have to speak in English by phone.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "A mi hermano José le da corte cada vez que tiene que hablar en inglés por teléfono.",
+      "back": "My brother José gets embarrassed whenever he has to speak in English by phone.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "A mi hermana Marta, por otro lado, nunca le da corte cuando tiene que hablar en inglés por teléfono.",
+      "back": "My sister Marta, on the other hand, never gets embarrassed whenever she has to speak in English by phone.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "El amigo de Jack, Danny, se corta cada vez que tiene que hablar en público.",
+      "back": "Jack's friend Danny goes all shy whenever he has to speak in public.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Por qué se corta el amigo de Jack, Danny, cada vez que tiene que hablar en público?",
+      "back": "Why does Jack's friend Danny go all shy whenever he has to speak in public?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "No sé por qué se corta el amigo de Jack, Danny, cada vez que tiene que hablar en público.",
+      "back": "I don't know why Jack's friend Danny goes all shy whenever he has to speak in public.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Glenda suele cortarse cada vez que tiene que hacer presentaciones.",
+      "back": "Glenda tends to come over all shy whenever she has to give presentations.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Por qué se corta Glenda cada vez que tiene que hacer presentaciones?",
+      "back": "Why does Glenda come over all shy whenever she has to give presentations?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "No sé por qué se corta Glenda cada vez que tiene que hacer presentaciones.",
+      "back": "I don't know why Glenda comes over all shy whenever she has to give presentations.",
+      "sourcePage": 13
+    }
+  ]
+}

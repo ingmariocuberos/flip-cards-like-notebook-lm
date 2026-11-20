@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-50",
+  "bookTitle": "Libro 50",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "La junta decidió que Ben no estaba a la altura del puesto. No tenía lo que hace falta para dirigir un equipo entero.",
+      "back": "The board decided that Ben didn't cut the mustard. He didn't have what it takes to manage a whole team.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Sophie, por el otro lado, daba la talla puesto que tenía todo lo que hace falta para dirigir un equipo entero.",
+      "back": "Sophie, on the other hand, cut the mustard as she had all it takes to lead a whole team.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Crees que yo tengo todo lo que hace falta para estar a la altura del puesto?",
+      "back": "Do you think I have what it takes to cut the mustard?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Ben no estaba a la altura del puesto porque no era lo suficientemente firme.",
+      "back": "Ben didn't quite cut it because he wasn't assertive enough.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Claire no estaba a la altura del puesto porque no era lo suficientemente fiable.",
+      "back": "Claire didn't quite cut it because she wasn't reliable enough.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Helen no estaba a la altura del puesto porque no era lo suficientemente creativa.",
+      "back": "Helen didn't quite cut it because she wasn't creative enough.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Cinco de los candidatos no fueron seleccionados y no pasaron a la selección siguiente.",
+      "back": "Five of the candidates didn't make the cut and didn't go through to the next round.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "¡Felicidades! Fuiste seleccionado y pasarás a la selección siguiente.",
+      "back": "Congratulations! You made the cut and you're through to the next round.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Lo siento, pero no fuiste seleccionado y no pasarás a la selección siguiente.",
+      "back": "I'm sorry, but you haven't made the cut and you won't be going through to the next round.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Sam sería un candidato excelente. Si buscas a alguien que está un nivel por encima del resto, ¡no busques más!",
+      "back": "Sam would be an excellent choice. If you're looking for someone who's a cut above the rest, look no further!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "¡No busques más! Estoy seguro de que Holly es la mejor candidata. Está un nivel por encima del resto.",
+      "back": "Look no further! I'm sure that Holly is the best choice. She really is a cut above the rest.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "El jefe cree que no hace falta buscar más, pero no estoy convencida de que Dorothy sea una buena candidata. Necesitamos a alguien que esté un nivel por encima del resto.",
+      "back": "The boss thinks we need look no further but I'm not convinced that Dorothy is a good choice. We need someone who's a cut above the rest.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Después de un año o así en su nuevo trabajo, todo el mundo se dio cuenta de que ella estaba hecha para el puesto.",
+      "back": "After a year or so in her new job, everyone realized she was cut out for it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Se hizo evidente, después de un mes o así, que él no estaba hecho para el puesto.",
+      "back": "It became clear, after a month or so, that he wasn't cut out for the job.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Después de seis meses o algo así, nos dimos cuenta de que no estaba hecho para dar malas noticias a la gente, así que le despedimos.",
+      "back": "After six months or so, we realized he wasn't cut out for giving people bad news, so we fired him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Menudo arañazo feo que tienes en la rodilla. No, solo es un rasguño.",
+      "back": "That's a nasty scratch you have on your knee. Nah, it's just a graze.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Puede que solo sea un rasguño, pero aun así deberías echarte crema y ponerte una tirita.",
+      "back": "It may only be a graze but even so, you should put some cream and a plaster on it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Felipe se cayó jugando al tenis y se hizo un rasguño en la rodilla.",
+      "back": "Philip fell over playing tennis and grazed his knee.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "La banda rajó los neumáticos de docenas de coches en el barrio.",
+      "back": "The gang slashed the tires of dozens of cars in the neighbourhood.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Si no hubieran rebajado drásticamente el presupuesto para este año, no habríamos hecho recortes en áreas tan importantes.",
+      "back": "If they hadn't slashed the budget for this year, we wouldn't have cut corners in such important areas.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "En un ataque de ira, rajó los cuadros de ayer.",
+      "back": "In a moment of rage, he slashed yesterday's paintings.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "La encontraron inconsciente en la bañera; se había cortado las venas.",
+      "back": "They found her unconscious in the bathtub; she had slit her wrists.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Se acercó al guardia y rápidamente le degolló.",
+      "back": "He approached the guard and swiftly slit his throat.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "El cirujano cortó cuidadosamente un agujero pequeño en el pecho del paciente.",
+      "back": "The surgeon carefully slit a small hole in the patient's chest.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Los científicos creen que los miembros fueron amputados con un objeto afilado, como un cuchillo de caza.",
+      "back": "Scientists believe the limbs were severed with a sharp object such as a hunting knife.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Después de las acusaciones, Indonesia rompió sus relaciones económicas con Turquía.",
+      "back": "Following the allegations, Indonesia severed its economic ties with Turkey.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Después del divorcio, rompió relaciones con la familia de su exmarido.",
+      "back": "Following the divorce, she severed all ties with her ex-husband's family.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "El villano debería ser decapitado.",
+      "back": "The villain should have his head chopped off.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Ordeno que el hombre sea decapitado al despuntar el día.",
+      "back": "I order the man to be beheaded at the crack of dawn.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Durante la Revolución Francesa, muchos fueron decapitados con la guillotina.",
+      "back": "During the French revolution, many were decapitated by guillotine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "El plato especial de hoy son las chuletas de cerdo asadas, con verduras a la parrilla y puré de patatas.",
+      "back": "Today's special is roast pork cutlets with grilled vegetables and mashed potatoes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Tomaré las chuletas de ternera asadas con verduras a la parrilla, pero sin el puré de patatas, por favor.",
+      "back": "I'll have the roast veal cutlets with grilled vegetables, but without the mashed potatoes, please.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Tomaré las chuletas de carne de añojo asadas con verduras a la parrilla y con extra de puré de patatas, por favor.",
+      "back": "I'll have the roast mutton cutlets with grilled vegetables and extra mashed potatoes, please.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Para empezar tomaré la ensalada con queso de cabra y como plato principal tomaré el solomillo con cebolla caramelizada por encima.",
+      "back": "For starters I'll have the salad with goat cheese and as a main I'll have the sirloin steak topped with caramelized onion.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Para empezar tomaré la ensalada, pero ¿puede ser sin queso de cabra? Como plato principal tomaré el solomillo con cebolla caramelizada por encima.",
+      "back": "For starters I'll have the salad but can you leave out the goat's cheese? As a main I'll have the sirloin steak topped with caramelized onion.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Para empezar tomaré la ensalada, pero sin el aliño, por favor. Como plato principal tomaré el solomillo, pero ¿puede ser sin la cebolla caramelizada?",
+      "back": "I'll have the salad as a starter, but without the dressing, please. As a main I'll have the sirloin steak but can you leave out the caramelized onion?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Tomaré el churrasco con el puré de patatas para acompañar.",
+      "back": "I'll have the rump steak and mashed potatoes on the side.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Cómo querrías tu churrasco? ¿Poco hecho, al punto o bien hecho?",
+      "back": "How would you like your rump steak? Rare, medium-rare or well done?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Querría el churrasco al punto, por favor. ¿Y me podrías cambiar la guarnición por patatas asadas?",
+      "back": "I'd like my rump steak medium-rare, please. And can I have roast potatoes on the side instead?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Tomaré las chuletas de cordero con alcachofas para acompañar. ¿Las chuletas de cordero vienen con salsa?",
+      "back": "I'll have the lamb chops with artichokes on the side. Do the lamb chops come with gravy?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Tomaré las chuletas de cordero también. ¿Vienen con ensalada para acompañar?",
+      "back": "I'll have the lamb chops, too. Do they come with salad on the side?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Tomaré las chuletas de cerdo con salsa para acompañar.",
+      "back": "I'll have the pork chops with gravy on the side.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "¡Los medallones a la parrilla con puerros y queso de cabra por encima me volvieron loco!",
+      "back": "The grilled medallions topped with leek and goat cheese were out of this world!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "¡Los medallones salteados con puerros y queso de cabra por encima me volvieron loco!",
+      "back": "The sautéed medallions topped with leek and goat cheese knocked my socks off!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "¡Los medallones envueltos en beicon con alcachofas y queso de cabra por encima me volvieron loco! ¿Qué tenéis de postre?",
+      "back": "The bacon wrapped medallions topped with artichokes and goat cheese blew me away. What do you have for dessert?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Cubro mis paredes de cartones de huevos para aislar el ruido de mi guitarra; de lo contrario el ruido saca de quicio a mis vecinos.",
+      "back": "I cover my walls with empty egg cartons to cut out the noise of my guitar; otherwise the noise gets on my neighbors' nerves.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Utilizo unas cortinas gruesas para aislar tanta luz como sea posible; la luz me saca de quicio mientras intento dormir.",
+      "back": "I use thick curtains to cut out as much light as possible; light gets on my nerves when I'm trying to sleep.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Cuando mi pareja ronca, me saca de quicio; tengo que llevar tapones para evitar escuchar el sonido.",
+      "back": "When my partner snores, it really gets on my nerves; I have to wear earplugs to cut out the sound!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "La gente que vive bajo una dictadura está completamente aislada del mundo y está a merced del régimen que está en el poder.",
+      "back": "People living under dictatorships are completely cut off from the outside world and are at the mercy of the ruling regime.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Después de las inundaciones, la aldea estaba aislada casi por completo del resto del mundo y estaba a merced del lanzamiento de paquetes de comida de organizaciones benéficas.",
+      "back": "After the floods, the village was almost entirely cut off from the rest of the world and was at the mercy of food parcel drops from charities.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "En su nuevo puesto John se sentía un poco aislado del resto de sus compañeros, básicamente a merced de su tiránico director.",
+      "back": "In his new position John felt a bit cut off from the rest of his colleagues, basically at the mercy of his tyrannical manager.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "A ver, vamos a cortar el rollo. Si no hacemos un trato hoy vamos a salir perdiendo a la larga.",
+      "back": "Look, let's cut the crap. If we don't strike a deal today we're going to lose out in the long run.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Corta el rollo, Charles, hemos perdido posiciones por tardar demasiado en tomar una decisión y lo sabes.",
+      "back": "Cut the crap Charles, we've lost out by taking too long to make a decision and you know it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Nos arriesgamos a perder una de las mejores oportunidades de inversión en años, así que corta el rollo y dime qué es lo que pasa aquí de verdad.",
+      "back": "We risk losing out on one of the best investment opportunities in years, just cut the crap and tell me what's really going on here.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Estaba tan disgustado por su traición que nunca lo superó de verdad.",
+      "back": "He was so cut up about her betrayal that he never really got over it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Creo que Tom está bastante disgustado por lo que le pasó a su padre, va a tardar un tiempo en superarlo.",
+      "back": "I think Tom's pretty cut up about what happened to his dad, it's going to take him a while to get over it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "No te disgustes por haber perdido el contrato, necesitamos que lo superes cuanto antes.",
+      "back": "Don't get so cut up about losing out on the contract, we need you to get over it ASAP.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "El único inconveniente del trabajo es que llegar a la oficina me quita mucho tiempo libre.",
+      "back": "The only drawback to the job is that my commute to the office is really cutting into my spare time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "El inconveniente de este proyecto es que me quita muchas horas de trabajo.",
+      "back": "The drawback of this project is that it's really cutting into my working hours.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "¡El inconveniente de irnos a otro bar es que nos quita tiempo para beber!",
+      "back": "The drawback to moving on to another bar is that it'll cut into our drinking time!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Un cirujano de corazón opera a sus pacientes abriéndoles el pecho.",
+      "back": "A heart surgeon operates on patients by cutting their chest open.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "El cirujano abrió el torso de su paciente para operarle el estómago.",
+      "back": "The surgeon cut his patient's torso open to operate on his stomach.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Los cirujanos de corazón siempre tienen que abrir el pecho para operar a pacientes?",
+      "back": "Do heart surgeons always have to cut the chest open to operate on patients?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¿Qué talan los leñadores para ganarse la vida?",
+      "back": "What do lumberjacks and woodcutters chop down for a living?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Los leñadores talan árboles para ganarse la vida.",
+      "back": "Lumberjacks and woodcutters chop down trees for a living.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Entonces, los leñadores cortan la madera en troncos para ganarse la vida.",
+      "back": "Then, lumberjacks and woodcutters chop up the wood into logs for a living.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Quería el vestido de novia perfecto, así que me lo hizo a medida el mejor modisto del pueblo.",
+      "back": "I wanted the perfect wedding dress, so I got it tailored by the best dressmaker in town.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "El mejor sastre del pueblo me hizo el traje perfectamente a medida.",
+      "back": "I got my suit tailored perfectly by the best tailor in town.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Si quieres que los pantalones te queden perfectamente, ¡que te los haga a medida el mejor sastre del pueblo!",
+      "back": "If you want your trousers to fit perfectly, get them tailored by the best tailor in town!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Has visto el montaje del director?",
+      "back": "Have you seen the director's cut?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Sí, lo vi ayer. ¡Él está un nivel por encima del resto!",
+      "back": "Yes I saw it yesterday; he is a cut above the rest!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Sin embargo, mi escena favorita no llegó al montaje final.",
+      "back": "However, my favorite scene didn't make the final cut.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Me cortaré el pelo en la peluquería nueva. Creo que me haré un corte corto con reflejos.",
+      "back": "I'll get my hair cut at that new hairdresser. I think I'll get a crop cut with highlights.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Me quería cortar el pelo ayer, pero no sabían lo que era un corte bob.",
+      "back": "I wanted to get my hair cut yesterday, but they didn't know what a bob cut was.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Ven conmigo, y nos lo cortamos en la misma peluquería. Creo que te quedaría bien un cardado.",
+      "back": "Come with me, we'll get it cut at the same hairdresser. I think you would suit a beehive.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Estaría bien si pudieras empezar por podar los setos.",
+      "back": "If you could start by pruning the hedges, that would be great.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Sería maravilloso si pudieras empezar por podar los setos.",
+      "back": "If you could start by pruning the hedges, that would be wonderful.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Sería fantástico si pudieras empezar por podar los setos.",
+      "back": "If you could start by pruning the hedges, that would be fantastic.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Realmente hay que podar los árboles bastante. ¿No te molesta coger la escalera?",
+      "back": "The trees really need to be cut back quite a bit. You don't mind getting the ladder out, do you?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Realmente hay que podar las hojas más que cualquier otra cosa. ¿No te molesta coger la escalera?",
+      "back": "The leaves really need to be cut back more than anything. You don't mind getting the ladder out, do you?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Realmente hay que podar las ramas del todo. ¿No te molestaría coger la escalera?",
+      "back": "The branches really need to be cut back all the way. You wouldn't mind getting the ladder out, would you?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Ahora hay que cortar las flores marchitas del parterre.",
+      "back": "Now the flowers in the flowerbed need deadheading.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Ahora hay que cortar las flores marchitas de las rosas y de las azucenas, pero ¡ten cuidado con no cortar las petunias!",
+      "back": "Now the roses and lilies need deadheading, but be careful not to deadhead the petunias!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Hay que cortar un poco más las flores marchitas de las azucenas, pero ¡ten cuidado con no cortarlas todas!",
+      "back": "The lilies need a bit more deadheading, but be careful not to deadhead all of them!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Querido, creo que no podaste bien el roble. Tienes que cortar de un hachazo más ramas por la parte de atrás.",
+      "back": "Dear, I don't think you cut back the oak tree properly. You need to lop off more branches at the back.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Mi vida, creo que no podaste bien el olmo. Tienes que cortar de un hachazo más ramas por la parte de delante.",
+      "back": "Sweetie, I don't think you cut back the elm tree properly. You need to lop off more branches at the front.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Cariño, creo que no podaste bien el arce. Tienes que cortar de un hachazo más ramas por la parte de arriba.",
+      "back": "Honey, I don't think you cut back the maple tree properly. You need to lop off more branches at the top.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Una cosa más: ¿me podrías cortar el césped?",
+      "back": "One more thing: could you mow the lawn for me?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Una cosa más: ¿podrías cortar el césped de mi vecino? El cortacésped está en su cobertizo.",
+      "back": "One more thing: could you mow the lawn for my neighbour? The lawnmower is in his shed.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Una cosa más: ¿podrías cortar el césped de mi hermana?",
+      "back": "One more thing: could you mow the lawn for my sister?",
+      "sourcePage": 41
+    }
+  ]
+}

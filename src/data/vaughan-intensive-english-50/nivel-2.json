@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-50",
+  "bookTitle": "Libro 50",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Mi tío Tony vino para mi graduación, pero llegó justo a tiempo.",
+      "back": "My uncle Tony made it to my graduation, but he cut it fine.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Vino para la boda, pero llegó por los pelos.",
+      "back": "He made it to the wedding, but he cut it a bit fine.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "El novio vino para la boda, pero llegó por los pelos.",
+      "back": "The groom made it to the wedding, but he cut it a bit fine.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Siempre cortaba las cartas antes de repartirlas.",
+      "back": "He always cut the pack before dealing the cards.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Siempre veía las cartas después de cortarlas.",
+      "back": "He always looked at the cards after cutting them.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Siempre cortaba las cartas antes de barajarlas.",
+      "back": "He always cut the deck before shuffling the cards.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Por qué le excluyó su padre del negocio familiar?",
+      "back": "Why did his father cut him loose from the family business?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Fue excluido después de perder la fortuna familiar.",
+      "back": "He was cut loose after losing the family fortune.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Él realmente se desinhibió después de salir de su pueblo.",
+      "back": "He really cut loose after leaving his hometown.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Los rehenes tenían las manos amarradas, pero uno de ellos consiguió liberarse.",
+      "back": "The hostages had their hands bound but one of them managed to cut himself free.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Estaba amarrado a un árbol, pero consiguió liberarse.",
+      "back": "He was bound to a tree but he managed to cut himself free.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Estaba amarrado a la vía férrea, pero consiguió liberarse.",
+      "back": "He was bound to the railroad tracks, but he managed to cut himself free.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Por qué hizo Tony un trato con los carceleros?",
+      "back": "Why did Tony cut a deal with the prison guards?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Hizo un trato con ellos para salir de la cárcel.",
+      "back": "He cut a deal with them to get out of jail.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Hizo un trato con ellos después de negociar durante horas.",
+      "back": "He cut a deal with them after negotiating for hours.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "No hay ni pizca de duda de que una trituradora de papel es para triturar papel.",
+      "back": "There's not a shred of doubt that a paper shredder is for shredding paper.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Por qué necesitamos trituradoras de papel?",
+      "back": "Why do we need paper shredders?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "No hay ni pizca de duda de que necesitamos trituradoras de papel para fines de protección de datos.",
+      "back": "There's not a shred of doubt that we need paper shredders for data protection purposes.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Una batidora de mano viene muy bien cuando quieres batir algo en una sartén.",
+      "back": "A hand-held blender comes in handy when you want to blend something in a pan.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Viene bien una batidora de mano para hacer gazpacho?",
+      "back": "Does a hand-held blender come in handy to make gazpacho?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Las batidoras de mano vienen bien cuando quieres triturar fruta y verdura.",
+      "back": "Hand-held blenders come in handy when you want to liquidize fruit and vegetables.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "No puedo usar el rallador con este queso; ¡se ha estropeado!",
+      "back": "I can't use the grater with this cheese; it's gone stale!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Me corté la mano con el rallador cuando estaba rallando la mozzarella.",
+      "back": "I cut my hand with the grater when I was grating the mozzarella.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Rallé las zanahorias con el rallador, pero no podía rallar el tomate.",
+      "back": "I grated the carrots with the grater but I couldn't grate the tomato.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Cuántos dientes de ajo caben en una prensa de ajo?",
+      "back": "How many cloves of garlic fit into a garlic crusher?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Puedes meter tres dientes de ajo en una prensa de ajo.",
+      "back": "You can fit three cloves of garlic into a garlic crusher.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Yo no podía meter más dientes de ajo en la prensa de ajo.",
+      "back": "I couldn't fit more cloves of garlic into the garlic crusher.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Un molinillo de café se usa para moler café. (you use)",
+      "back": "You use a coffee grinder to grind coffee.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Un molinillo de café sirve para moler café. (is for)",
+      "back": "A coffee grinder is for grinding coffee.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Molí el café con mi nuevo molinillo de café.",
+      "back": "I ground the coffee with my new coffee grinder.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Los trabajadores se enfrentan a un recorte salarial del 10 % debido a la recesión.",
+      "back": "The workers face a 10% wage cut due to the recession.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Aunque nadie quiere un recorte salarial, ser despedido sería mucho peor.",
+      "back": "Although nobody wants a wage cut, redundancy would be much worse.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Los trabajadores van a protestar contra su recorte salarial del 10 %.",
+      "back": "The workers are going to protest against their 10% wage cut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Considerarías aceptar un recorte salarial para mantener tu trabajo?",
+      "back": "Would you consider taking a cut in your salary in order to keep your job?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Considerarías aceptar un recorte salarial si no tuvieras que trabajar tantas horas?",
+      "back": "Would you consider taking a cut in your salary if you didn't have to work such long hours?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Considerarías aceptar un recorte salarial si tuvieras que trabajar aún más horas?",
+      "back": "Would you consider taking a cut in your salary if you had to work even longer hours?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "El gobierno piensa hacer recortes de impuestos importantes para estimular el crecimiento económico.",
+      "back": "The government are planning to make significant tax cuts in order to encourage economic growth.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Se cree que los nuevos recortes de impuestos del gobierno aumentarán su popularidad.",
+      "back": "It is thought that the government's new tax cuts will increase their popularity.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Ha habido recortes de impuestos importantes para estimular el gasto de los consumidores.",
+      "back": "There have been significant tax cuts in order to stimulate consumer spending.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "El gobierno ha declarado que va a hacer recortes importantes en el gasto público.",
+      "back": "The government have announced that they are going to make significant cuts in public spending.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Tenemos que hacer recortes en el gasto público debido al déficit.",
+      "back": "We need to make cuts in public spending due to the deficit.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Tienen que hacer recortes en el gasto público para disminuir el déficit?",
+      "back": "Do they need to make cuts in public spending in order to decrease the deficit?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Una linterna y pilas de repuesto resultan útiles cuando hay un apagón.",
+      "back": "A flashlight and spare batteries come in handy when there's a power cut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Siempre guardo algunas velas de repuesto en el armario por si hay un apagón.",
+      "back": "I always keep some spare candles in the cupboard in case there's a power cut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Me aburro con facilidad cuando hay un apagón.",
+      "back": "I get bored easily when there's a power cut.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Como sigamos escatimando, va a haber un accidente.",
+      "back": "If we keep cutting corners, there's going to be an accident.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "No te puedes permitir el lujo de escatimar en lo que se refiere a procedimientos de seguridad.",
+      "back": "You can't afford to cut corners when it comes to safety procedures.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Ya no nos podemos permitir el lujo de escatimar; el accidente de la semana pasada fue un desastre en materia de relaciones públicas.",
+      "back": "We can't afford to cut corners any more; the accident last week was a PR disaster.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Atajemos por este parque; creo que será más rápido.",
+      "back": "Let's cut across this park; I reckon it'll be quicker.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Si atajamos por el campo, nos ahorraremos una media hora.",
+      "back": "If we cut across the field, we'll save about half an hour.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Creo que coger un atajo por este pueblo fue un error; ¡fíjate en todo ese tráfico!",
+      "back": "I think cutting across this town was a mistake; look at all the traffic!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "La junta directiva ha decidido recortar los gastos de viaje.",
+      "back": "The board has agreed to cut back on travel expenses.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "De nuevo, el gobierno ha anunciado que va a hacer recortes en el gasto público.",
+      "back": "Once again, the government has announced it's going to cut back on public spending.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Estoy ahorrando para ir de vacaciones así que tengo que reducir mis gastos diarios.",
+      "back": "I'm saving up for a holiday so I need to cut back on my day-to-day spending.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Estoy intentando beber menos alcohol.",
+      "back": "I'm trying to cut down on drinking alcohol.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Quieres un cigarrillo? No, gracias, estoy intentando fumar menos.",
+      "back": "Would you like a cigarette? No thanks, I'm trying to cut down.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Quieres chocolate? No, gracias, estoy comiendo menos azúcar.",
+      "back": "Would you like some chocolate? No, thanks, I'm cutting down on sugar.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "El otro día alguien me cerró en la autopista.",
+      "back": "The other day someone cut me off on the highway.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Odio cuando alguien te cierra en la autopista!",
+      "back": "I hate it when someone cuts you off on the highway!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Este tío me está mosqueando; ¡no para de cerrarme!",
+      "back": "This guy is really annoying me; he keeps cutting me off!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Mi padre antes tenía un hacha en el sótano. Me daba demasiado miedo tocarla.",
+      "back": "My father used to have an axe in the basement. I used to be too scared to touch it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Mi padre antes también tenía un hacha en el ático. ¡Me daba demasiado miedo incluso mirarla!",
+      "back": "My father used to have an axe in the attic too. I used to be too scared to even look at it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Antes teníamos un hacha en nuestra casa de campo. ¡Yo era demasiado pequeño para levantarla!",
+      "back": "We used to have an axe in our country house. I used to be too small to lift it!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "No estamos llegando a nada con este cuchillo. Necesitamos una sierra.",
+      "back": "We're not getting anywhere with this knife. We need a saw.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "No estamos llegando a nada con esta sierra. Necesitamos una sierra más grande.",
+      "back": "We're not getting anywhere with this saw. We need a bigger saw.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "No estamos llegando a nada con esta sierra. Necesitamos un hacha.",
+      "back": "We're not getting anywhere with this saw. We need an axe.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "El ruido de una sierra mecánica solía darle un susto de muerte a nuestro perro.",
+      "back": "The sound of a chainsaw used to freak out our dog.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "El ruido de una sierra mecánica solía darme un susto de muerte.",
+      "back": "The sound of a chainsaw used to freak me out.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "El ruido de una sierra mecánica solía hacerme saltar.",
+      "back": "The sound of a chainsaw used to make me jump.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Mi vecino estaba en su jardín con su podadora, podando setos durante toda la noche anoche.",
+      "back": "My neighbour was in his garden with his hedge trimmer trimming hedges all night last night.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Estaba en su jardín con su podadora, podando setos durante todo el día el día siguiente también.",
+      "back": "He was in his garden with his hedge trimmer trimming hedges all day the next day as well.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Estaba demasiado cansado anoche como para quejarme de su podadora.",
+      "back": "I was too tired to complain to him about his hedge trimmer last night.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "El caballero desenvainó su espada cuando vio a un hombre acercándose.",
+      "back": "The knight drew his sword when he saw a man approaching.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "El ninja desenvainó su espada cuando vio a su enemigo acercándose.",
+      "back": "The ninja drew his sword when he saw his enemy approaching.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "El pirata desenvainó su espada cuando vio al barco acercándose.",
+      "back": "The pirate drew his sword when he saw the boat approaching.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¡No te arranques la costra! ¡No se curará bien!",
+      "back": "Don't pick your scab! It won't heal properly!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "No puedo evitarlo, ¡siempre me arranco las costras!",
+      "back": "I can't help it, I always pick my scabs!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Pues no me eches la culpa a mí cuando te quites la costra y vuelva a sangrar.",
+      "back": "Well don't blame me when your scab comes off and it starts bleeding again.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Deja de arrancarte la costra, acabarás con una cicatriz fea.",
+      "back": "Stop picking your scab, you'll end up with a nasty scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Si sigues arrancándote la costra, acabarás con una cicatriz fea.",
+      "back": "If you keep picking your scab, you'll end up with a nasty scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Si te arrancas la costra demasiado pronto, no se curará bien y acabarás con una cicatriz fea.",
+      "back": "If you pick your scab too early, it won't heal properly and you'll end up with a nasty scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Tengo un arañazo en la cara. Espero que se convierta en una costra pronto.",
+      "back": "I have a scratch on my face. I hope it turns into a scab soon.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Ella tiene un arañazo feo en la mejilla; espera que no se convierta en una cicatriz.",
+      "back": "She has a nasty scratch on her cheek; she hopes it won't turn into a scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Tengo un arañazo en el brazo; espero que no acabe con una cicatriz.",
+      "back": "I have a scratch on my arm; I hope I don't end up with a scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Fue gravemente herido y tenía varios cortes profundos en las piernas.",
+      "back": "He was badly wounded and had several deep gashes on his legs.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Sally, tienes ahí un corte muy profundo. Yo de ti iría al médico.",
+      "back": "That's a very deep gash you've got there, Sally; I'd go to the doctor's if I were you.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "El corte profundo de Sally no paraba de sangrar, así que fue al médico.",
+      "back": "Sally's gash wouldn't stop bleeding so she went to the doctor's.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Yo estaba cubierto de moretones después de probar el snowboard.",
+      "back": "I was covered in bruises after I gave snowboarding a try.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Creo que James podría haberse metido en una pelea anoche. Volvió a casa cubierto de moretones.",
+      "back": "I think James might have been in a fight last night. He came home covered in bruises.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Pero a James le salen moretones con facilidad, probablemente se cayó. ¡Ya sabes lo torpe que es!",
+      "back": "But James bruises very easily, he probably just fell over. You know how clumsy he is!",
+      "sourcePage": 27
+    }
+  ]
+}
