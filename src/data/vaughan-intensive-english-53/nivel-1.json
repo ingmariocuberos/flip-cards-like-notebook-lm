@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-53",
+  "bookTitle": "Libro 53",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Dale a la pelota de tenis!",
+      "back": "Hit the tennis ball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Dale a la pelota de béisbol!",
+      "back": "Hit the baseball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Dale a la pelota de vóleibol!",
+      "back": "Hit the volleyball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¡Intenta darle más fuerte!",
+      "back": "Try to hit it harder!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¡Intenta darle más suave!",
+      "back": "Try to hit it softer!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¡Intenta darle más alto!",
+      "back": "Try to hit it higher!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Ahora dale con la mano izquierda!",
+      "back": "Now hit it with your left hand!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Ahora dale con la mano derecha!",
+      "back": "Now hit it with your right hand!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Ahora dale con ambas manos!",
+      "back": "Now hit it with both hands!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Ahora quiero que le des de nuevo, pero más fuerte.",
+      "back": "Now I want you to hit it again, but harder.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Ahora quiero que le des de nuevo, pero más suave.",
+      "back": "Now I want you to hit it again, but softer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Ahora quiero que le des de nuevo, pero más alto.",
+      "back": "Now I want you to hit it again, but higher.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Esta vez dale con la mano izquierda, pero apunta hacia la derecha.",
+      "back": "This time hit it with your left hand, but aim to the right.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Esta vez dale con la mano derecha, pero apunta hacia la izquierda.",
+      "back": "This time hit it with your right hand, but aim to the left.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Esta vez dale con ambas manos, pero apunta hacia el centro.",
+      "back": "This time hit it with both hands, but aim straight ahead.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¡No pegues a tu hermano!",
+      "back": "Don't hit your brother!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¡No pegues a tu hermana!",
+      "back": "Don't hit your sister!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¡No me pegues!",
+      "back": "Don't hit me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¡Por favor, no le des al larguero!",
+      "back": "Please, don't hit the crossbar!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¡Por favor, no le des al poste!",
+      "back": "Please, don't hit the post!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¡Por favor, no le des al árbitro!",
+      "back": "Please, don't hit the referee!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¡Ten cuidado de no darte en la rodilla con la mesa!",
+      "back": "Mind you don't hit your knee on the table!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¡Ojo, no te des en la cabeza con el techo!",
+      "back": "Mind you don't hit your head on the ceiling!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¡Ten cuidado de no darte con el codo en el apoyabrazos!",
+      "back": "Mind you don't hit your elbow on the armrest!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Ten cuidado de no dar contra el bordillo!",
+      "back": "Careful not to hit the curb!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¡Ten cuidado de no dar contra la señal de stop!",
+      "back": "Careful not to hit the stop sign!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Ten cuidado de no chocarte contra los otros coches en la carretera!",
+      "back": "Careful not to hit the other cars on the road!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡No le des hasta que él toque el silbato!",
+      "back": "Don't hit it until he blows the whistle!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡No le des hasta que ella toque el silbato!",
+      "back": "Don't hit it until she blows the whistle!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡No le des hasta que yo toque el silbato!",
+      "back": "Don't hit it until I blow the whistle!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Puedes darle a una pelota de tenis y mandarla tan lejos como yo?",
+      "back": "Can you hit the tennis ball as far as me?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Sí, puedo darle a una pelota de tenis y mandarla tan lejos como tú.",
+      "back": "Yes, I can hit a tennis ball as far as you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "No, no puedo darle a una pelota de tenis y mandarla tan lejos como tú.",
+      "back": "No, I can't hit a tennis ball as far as you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Sabes darle a una pelota de golf correctamente?",
+      "back": "Do you know how to hit a golf ball properly?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Sí, sé darle a una pelota de golf correctamente.",
+      "back": "Yes, I know how to hit a golf ball properly.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "No, no sé darle a una pelota de golf correctamente.",
+      "back": "No, I don't know how to hit a golf ball properly.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Cómo se le da a una pelota de béisbol?",
+      "back": "How do you hit a baseball?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "A una pelota de béisbol se le da así.",
+      "back": "You hit a baseball like this.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "No sé cómo se le da a una pelota de béisbol.",
+      "back": "I don't know how to hit a baseball.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Es cierto que él puede darle a una pelota de ping pong y ponerla a cien millas por hora?",
+      "back": "Is it true that he can hit a ping pong ball one hundred miles per hour?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Sí, es cierto que él puede darle a una pelota de ping pong y ponerla a cien millas por hora.",
+      "back": "Yes, it's true that he can hit a ping pong ball one hundred miles per hour.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "No, no es cierto que él pueda darle a una pelota de ping pong y ponerla a cien millas por hora.",
+      "back": "No, it's not true that he can hit a ping pong ball one hundred miles per hour.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿En serio crees que él puede darle a una pelota de squash y ponerla a cien millas por hora?",
+      "back": "Do you really believe he can hit a squash ball one hundred miles per hour?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Sí, creo que él puede darle a una pelota de squash y ponerla a cien millas por hora.",
+      "back": "Yes, I believe he can hit a squash ball one hundred miles per hour.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "No, creo que él no puede darle a una pelota de squash y ponerla a cien millas por hora.",
+      "back": "No, I don't believe he can hit a squash ball one hundred miles per hour.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "El matón de la clase siempre me da algún golpe.",
+      "back": "The class bully always hits me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "El matón de la clase nunca le da golpes a mi amigo.",
+      "back": "The class bully never hits my friend.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "El matón de la clase le da un golpe a mi amiga Caroline de vez en cuando.",
+      "back": "The class bully sometimes hits my friend Caroline.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Mi hijo es muy buen conductor! Nunca atropella a ningún peatón en la calle.",
+      "back": "My son is a great driver! He never hits any pedestrians on the road.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Mi hija es muy buena conductora! Nunca atropella a ningún peatón en la calle.",
+      "back": "My daughter is a great driver! She never hits any pedestrians on the road.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¡Nuestro hijo es muy buen conductor! Nunca atropella a ningún animal en la calle.",
+      "back": "Our son is a great driver! He never hits any animals on the road.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Él siempre se da con el pomo cuando abre la puerta.",
+      "back": "He always hits himself on the door knob when he opens the door.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Ella siempre se da con la mesa de la cocina cuando se sienta.",
+      "back": "She always hits herself on the kitchen table when she sits down.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Él de vez en cuando se da con el techo cuando se pone de pie.",
+      "back": "He sometimes hits himself on the ceiling when he stands up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Cuando yo golpeo la pelota hacia él, él me la devuelve.",
+      "back": "When I hit the ball to him, he hits it back to me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Cuando ella golpea la pelota hacia mí, yo se la devuelvo.",
+      "back": "When she hits the ball to me, I hit it back to her.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Cuando ella golpea la pelota hacia él, él se la devuelve.",
+      "back": "When she hits the ball to him, he hits it back to her.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Cuando el matón de la clase le da un golpe, ella le devuelve el golpe de vez en cuando.",
+      "back": "When the class bully hits her, she sometimes hits him back.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Él nunca le da a ningún otro coche en la calle.",
+      "back": "He never hits any other cars on the road.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Cuando él golpea la pelota hacia ella, ella siempre se la devuelve.",
+      "back": "When he hits the ball to her, she always hits it back.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Deja de golpear a tu hermano, ¡ahora mismo!",
+      "back": "Stop hitting your brother, right now!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Deja de golpear a tu hermana, ¡ahora mismo!",
+      "back": "Stop hitting your sister, right now!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Deja de golpearla, ¡ahora mismo!",
+      "back": "Stop hitting her right now!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¡Dejad de golpearos!",
+      "back": "Stop hitting each other!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¡Dejad de golpearos con los juguetes!",
+      "back": "Stop hitting each other with your toys!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¡Dejad de golpearos con almohadas!",
+      "back": "Stop hitting each other with pillows!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¡Deja de golpearle o no te dejaremos salir!",
+      "back": "Stop hitting him or else we'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¡Deja de darle con la pelota o no te dejaremos salir!",
+      "back": "Stop hitting him with the ball or else we'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Dejad de daros con el mando o no os dejaremos salir!",
+      "back": "Stop hitting each other with the remote, or else we'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Si no dejas de golpear a tu hermano, ¡habrá problemas!",
+      "back": "If you don't stop hitting your brother, there'll be trouble!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Si no dejas de golpear a tu hermana, ¡habrá problemas!",
+      "back": "If you don't stop hitting your sister, there'll be trouble!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Si no dejáis de golpearos, ¡habrá problemas!",
+      "back": "If you don't stop hitting each other, there'll be trouble!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Si no dejas de golpear a tu hermano, ¡no te dejaré salir!",
+      "back": "If you don't stop hitting your brother, I'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Si no dejas de golpear a tu hermana ahora mismo, ¡no te dejaremos salir!",
+      "back": "If you don't stop hitting your sister right now, we'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Si no dejas de golpearme, ¡no te dejaremos salir!",
+      "back": "If you don't stop hitting me, we'll ground you!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Acaba de golpearme algo en la cabeza.",
+      "back": "Something just hit me on the head.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Acaba de golpearme algo en el brazo.",
+      "back": "Something just hit me on the arm.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Acaba de golpearme algo en el hombro.",
+      "back": "Something just hit me on the shoulder.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Ay! ¡Me acabo de dar con el codo en la mesa y me duele!",
+      "back": "Ouch! I just hit my elbow on the table and it hurts!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Ay! ¡Me acabo de dar con la rodilla en la mesa y me duele mucho!",
+      "back": "Ouch! I just hit my knee on the table and it really hurts!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Ay! ¡Me acabo de dar con la cabeza en la puerta y me duele mucho!",
+      "back": "Ouch! I just hit my head on the door and it really hurts!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Ella acaba de golpearle a él en la cara con el control remoto.",
+      "back": "She just hit him in the face with the remote.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Él acaba de golpearle a ella en la espalda con su juguete.",
+      "back": "He just hit her in the back with his toy.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Ella acaba de golpearle a él en el estómago con el periódico.",
+      "back": "She just hit him in the stomach with the newspaper.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Le golpeaste a él en la cara?",
+      "back": "Did you hit him in the face?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Por qué le golpeaste en la cara?",
+      "back": "Why did you hit him in the face?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Te dolió cuando él te golpeó en la cara?",
+      "back": "Did it hurt when he hit you in the face?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¡Yo no le golpeé en el brazo!",
+      "back": "I didn't hit him on the arm!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Yo no le golpeé en la cara, ¡solo le golpeé en el pecho!",
+      "back": "I didn't hit him in the face; I only hit him in the chest!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Yo no le golpeé en la espalda, ¡solo le golpeé en el hombro!",
+      "back": "I didn't hit him in the back; I only hit him on the shoulder!",
+      "sourcePage": 13
+    }
+  ]
+}
