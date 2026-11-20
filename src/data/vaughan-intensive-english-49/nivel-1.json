@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-49",
+  "bookTitle": "Libro 49",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Utiliza este armario de cocina.",
+      "back": "Use this cupboard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Utiliza ese estante.",
+      "back": "Use that shelf.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Utiliza esa taza.",
+      "back": "Use that mug.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "No utilices esta taza, utiliza ésa.",
+      "back": "Don't use this mug, use that one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "No utilices este estante, utiliza ése.",
+      "back": "Don't use this shelf, use that one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "No utilices ese armario de cocina, utiliza este.",
+      "back": "Don't use that cupboard, use this one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Utiliza el verde, no el azul.",
+      "back": "Use the green one, not the blue one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Utiliza la nueva, no la vieja.",
+      "back": "Use the new one, not the old one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Utiliza este, no ese.",
+      "back": "Use this one, not that one.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¡Utiliza tu propia cuchilla!",
+      "back": "Use your own razor!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¡Utiliza tu propia taza!",
+      "back": "Use your own mug!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¡Utiliza tu propia pasta de dientes!",
+      "back": "Use your own toothpaste!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Deja de utilizar mi cuchilla! ¡Utiliza la tuya!",
+      "back": "Stop using my razor! Use your own!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Deja de utilizar mi taza! ¡Utiliza la tuya!",
+      "back": "Stop using my mug! Use your own!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Deja de utilizar mi estante! ¡Utiliza el tuyo!",
+      "back": "Stop using my shelf! Use your own!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Él usa espuma.",
+      "back": "He uses mousse.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Él usa gomina.",
+      "back": "He uses hair gel.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Él usa laca.",
+      "back": "He uses hairspray.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Él casi nunca usa desodorante.",
+      "back": "He hardly ever uses deodorant.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Él casi siempre usa gomina.",
+      "back": "He almost always uses hair gel.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Tu compañero de piso casi nunca usa desodorante, pero casi siempre usa perfume.",
+      "back": "Your flat mate hardly ever uses deodorant but almost always uses cologne.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Él usa acondicionador. Ella también usa acondicionador.",
+      "back": "He uses conditioner. She uses conditioner as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Él usa desodorante. Su hermano también usa desodorante.",
+      "back": "He uses deodorant. His brother uses deodorant as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Ella usa champú. Su hermana también usa champú.",
+      "back": "She uses shampoo. Her sister uses shampoo as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Él usa jabón como espuma de afeitar.",
+      "back": "He uses soap as shaving cream.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Él usa acondicionador como crema de afeitar.",
+      "back": "He uses conditioner as shaving cream.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Él usa jabón como champú.",
+      "back": "He uses soap as shampoo.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Él usa su camiseta como toalla y ella usa su camiseta como toalla también.",
+      "back": "He uses his t-shirt as a towel and she uses her t-shirt as a towel as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Mi compañero de piso usa su dedo como cepillo de dientes y su novia usa su dedo como cepillo de dientes también.",
+      "back": "My flat mate uses his finger as a toothbrush and his girlfriend uses her finger as a toothbrush as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Él casi siempre usa acondicionador como crema de afeitar y ella casi siempre usa acondicionador como crema de afeitar también.",
+      "back": "He almost always uses conditioner as shaving cream and she almost always uses conditioner as shaving cream as well.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Puedo usar tu bolígrafo?",
+      "back": "Can I use your pen?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Puedo usar tu cuaderno?",
+      "back": "Can I use your notebook?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Puedo usar tu teléfono?",
+      "back": "Can I use your phone?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Está bien si uso tu móvil? (británico)",
+      "back": "Is it okay if I use your mobile?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Está bien si uso tu móvil? (estadounidense)",
+      "back": "Is it okay if I use your cell?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Está bien si uso tu ordenador?",
+      "back": "Is it okay if I use your computer?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Te molesta si uso tu coche?",
+      "back": "Do you mind if I use your car?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Te molesta si él usa tu portátil?",
+      "back": "Do you mind if he uses your laptop?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Te molesta si él usa tu paraguas?",
+      "back": "Do you mind if he uses your umbrella?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Por qué no usas el bolígrafo de tu novio?",
+      "back": "Why don't you use your boyfriend's pen?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Por qué no usas el móvil de tu novio?",
+      "back": "Why don't you use your boyfriend's mobile?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Por qué no usas el de tu novio?",
+      "back": "Why don't you use your boyfriend's?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Sabes usar el horno?",
+      "back": "Do you know how to use the oven?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Sabes usar el lavaplatos?",
+      "back": "Do you know how to use the dishwasher?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Sabes usar la lavadora?",
+      "back": "Do you know how to use the washing machine?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "El champú se utiliza para lavarse el pelo.",
+      "back": "You use shampoo to wash your hair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "El cepillo de dientes se usa para lavarse los dientes.",
+      "back": "You use a toothbrush to brush your teeth.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "El cepillo se utiliza para cepillarse el pelo.",
+      "back": "You use a hairbrush to brush your hair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Se utiliza la lavadora para lavar las zapatillas de deporte?",
+      "back": "Do you use a washing machine to wash your trainers?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Se utiliza el secador de pelo para secar la ropa?",
+      "back": "Do you use a hairdryer to dry your clothes?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Se utiliza crema hidratante para lavarse el pelo?",
+      "back": "Do you use moisturizer to wash your hair?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¡No, no se utiliza la lavadora para lavar las zapatillas de deporte! Se utilizan las manos para lavar las zapatillas de deporte.",
+      "back": "No, you don't use a washing machine to wash your trainers! You use your hands to wash your trainers.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¡No, no se utiliza el secador de pelo para secar la ropa! Se utiliza una secadora para secar la ropa.",
+      "back": "No, you don't use a hairdryer to dry your clothes. You use a tumble dryer to dry your clothes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¡No, no se utiliza crema hidratante para lavarse el pelo! Se utiliza champú para lavarse el pelo.",
+      "back": "No, you don't use moisturizer to wash your hair! You use shampoo to wash your hair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Se puede utilizar una secadora para secarse el pelo?",
+      "back": "Can you use a dryer to dry your hair?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Se puede utilizar un mechero para abrir una botella de cerveza?",
+      "back": "Can you use a lighter to open a beer bottle?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Se puede utilizar una lavadora para lavar las zapatillas de deporte?",
+      "back": "Can you use a washing machine to wash your trainers?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "No, no se puede utilizar una secadora para secarse el pelo.",
+      "back": "No, you can't use a dryer to dry your hair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Sí, se puede utilizar un mechero para abrir una botella de cerveza.",
+      "back": "Yes, you can use a lighter to open a beer bottle.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¡No, no se puede utilizar una lavadora para lavar las zapatillas de deporte!",
+      "back": "No, you can't use a washing machine to wash your trainers!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Para qué se usa un bol?",
+      "back": "What do you use a bowl for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Para qué se usa un cuchillo?",
+      "back": "What do you use a knife for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Para qué se usa una cuchara?",
+      "back": "What do you use a spoon for?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Se usa un sacacorchos para abrir una botella?",
+      "back": "Do you use a corkscrew for opening a bottle?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Se usa un cuchillo para cortar la comida?",
+      "back": "Do you use a knife for cutting food?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Se usa un tenedor para comer?",
+      "back": "Do you use a fork for eating?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Usamos cuchillos para cortar.",
+      "back": "We use knives for cutting.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Usamos tenedores para comer.",
+      "back": "We use forks for eating.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Usan cucharas para comer cereales.",
+      "back": "They use spoons for eating cereal.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Él usa un bolígrafo para escribir.",
+      "back": "He uses a pen for writing.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Él usa tijeras para cortar.",
+      "back": "He uses scissors for cutting.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Él usa un sacacorchos para abrir botellas.",
+      "back": "He uses a corkscrew for opening bottles.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "No se usa una cuchara para cortar la comida.",
+      "back": "You don't use a spoon for cutting food.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No se usa un tenedor para comer cereales.",
+      "back": "You don't use a fork for eating cereal.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "No se usa un cuchillo para abrir botellas.",
+      "back": "You don't use a knife for opening bottles.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Este software es difícil de usar.",
+      "back": "This software is hard to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Este sistema operativo es difícil de usar.",
+      "back": "This operating system is difficult to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Esta impresora es imposible de usar.",
+      "back": "This printer is impossible to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Este ordenador es realmente difícil de usar.",
+      "back": "This computer is really hard to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Esta máquina es muy difícil de usar.",
+      "back": "This machine is very difficult to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Este cacharro es tan difícil de usar.",
+      "back": "This gadget is so tough to use.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Te resulta este portátil fácil de usar?",
+      "back": "Do you find this laptop easy to use?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Te resulta este smartphone fácil de usar?",
+      "back": "Do you find this smartphone easy to use?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Te resulta este fácil de usar?",
+      "back": "Do you find this one easy to use?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Este nuevo software es más fácil de usar que el viejo software.",
+      "back": "This new software is easier to use than the old software.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Este nuevo sistema operativo es más difícil de usar que el viejo.",
+      "back": "This new operating system is more difficult to use than the old one.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Este es más fácil de usar que ese.",
+      "back": "This one is easier to use than that one.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "El nuevo navegador de internet no es tan fácil de usar como el viejo.",
+      "back": "The new internet browser isn't as easy to use as the old one.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "El nuevo programa no es tan fácil de usar como el viejo.",
+      "back": "The new program isn't as easy to use as the old one.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "El nuevo no es tan fácil de usar como el viejo.",
+      "back": "The new one isn't as easy to use as the old one.",
+      "sourcePage": 13
+    }
+  ]
+}

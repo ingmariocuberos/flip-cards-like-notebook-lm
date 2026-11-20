@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-49",
+  "bookTitle": "Libro 49",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Suelo ir al gimnasio dos veces a la semana.",
+      "back": "I usually go to the gym twice a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Mi novio suele correr tres veces a la semana.",
+      "back": "My boyfriend usually goes running three times a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Mi madre suele salir a andar una vez al mes.",
+      "back": "My mother usually goes walking once a month.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Antes yo iba al gimnasio tres veces a la semana.",
+      "back": "I used to go to the gym three times a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Mi novio antes corría cinco veces a la semana.",
+      "back": "My boyfriend used to go running five times a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Mi madre solía salir a pasear una vez a la semana.",
+      "back": "My mother used to go walking once a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Suelo ir al gimnasio dos veces a la semana, pero solía ir tres veces a la semana.",
+      "back": "I usually go to the gym twice a week, but I used to go three times a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Mi novio suele ir a correr cuatro veces a la semana, pero solía ir cinco veces a la semana.",
+      "back": "My boyfriend usually goes running four times a week, but he used to go five times a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Mi madre suele salir a caminar una vez al mes, pero antes solía ir dos veces a la semana.",
+      "back": "My mother usually goes walking once a month, but she used to go twice a week.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Antes yo estaba más en forma.",
+      "back": "I used to be fitter.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Mi novio antes estaba más en forma.",
+      "back": "My boyfriend used to be in better shape.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Mi madre antes estaba más sana.",
+      "back": "My mother used to be healthier.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Antes era entrenador personal, pero ya no lo soy.",
+      "back": "I used to be a fitness instructor but I'm not any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Mi novio antes salía a correr cinco veces a la semana. Ya no lo hace.",
+      "back": "My boyfriend used to go running five times a week. He doesn't any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Mi madre antes salía a caminar dos veces a la semana. Ya no lo hace.",
+      "back": "My mother used to go walking twice a week. She doesn't any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Sueles salir los sábados?",
+      "back": "Do you usually go out on Saturdays?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Tu madre suele tomar té los domingos?",
+      "back": "Does your mother usually have tea on Sundays?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Tu departamento suele salir a comer los viernes?",
+      "back": "Does your department usually go out for lunch on Fridays?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Solías salir los sábados antes de tener tu bebé?",
+      "back": "Did you use to go out on Saturdays before you had a baby?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Tu madre solía tomar té los domingos antes de mudarse a España?",
+      "back": "Did your mother use to have tea on Sundays before she moved to Spain?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Tu departamento solía comer fuera los viernes antes de que el nuevo jefe empezara?",
+      "back": "Did your department use to go out for lunch on Fridays before the new boss started?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "No solía salir los sábados incluso antes de tener un bebé.",
+      "back": "I didn't use to go out on Saturdays, even before I had a baby.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Mi madre no solía tomar té los domingos incluso antes de mudarse a España.",
+      "back": "My mother didn't use to have tea on Sundays, even before she moved to Spain.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Nuestro departamento no solía comer fuera incluso antes de que llegara el nuevo jefe.",
+      "back": "Our department didn't use to go out for lunch, even before the new boss started.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Hoy en día la gente no suele escribir cartas, pero antes sí lo hacía.",
+      "back": "Nowadays, people don't usually write letters, but they used to.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Hoy en día la gente no suele comprar el periódico, pero antes sí lo hacía.",
+      "back": "Nowadays, people don't usually buy the newspaper, but they used to.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Hoy en día la gente no suele llevar pelucas, pero antes sí lo hacía.",
+      "back": "Nowadays, people don't usually wear wigs, but they used to.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "No solía cocinar los fines de semana, pero ahora sí lo hago.",
+      "back": "I didn't use to cook at the weekend, but I usually do now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "No solía llevar corbata, pero ahora sí suelo llevar.",
+      "back": "I didn't use to wear a tie, but I usually do now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "No solía llevar maquillaje, pero ahora sí suelo llevar.",
+      "back": "I didn't use to wear makeup, but I usually do now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Estoy acostumbrada al mal tiempo en Inglaterra.",
+      "back": "I'm used to the bad weather in England.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Está acostumbrada Clara al mal tiempo en Inglaterra?",
+      "back": "Is Clara used to the bad weather in England?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "No, no está acostumbrada a ello todavía.",
+      "back": "No, she isn't used to it yet.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Clara no puede acostumbrarse a la comida inglesa.",
+      "back": "Clara can't get used to English food.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Crees que se acostumbrará algún día?",
+      "back": "Do you think she'll ever get used to it?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Creo que nunca se acostumbrará.",
+      "back": "I don't think she'll ever get used to it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Clara está acostumbrada a conducir por la izquierda?",
+      "back": "Is Clara used to driving on the left-hand side?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Sí, ya está acostumbrada a conducir por la izquierda.",
+      "back": "Yes, she's already used to driving on the left-hand side.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Está acostumbrada a ponerse el impermeable todos los días?",
+      "back": "Is she used to wearing a raincoat every day?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Clara se está acostumbrando a vivir en Inglaterra?",
+      "back": "Is Clara getting used to living in England?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Claro que sí, se está acostumbrando a ello.",
+      "back": "Of course, she's getting used to it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Se está acostumbrando a hablar en inglés todos los días.",
+      "back": "She's getting used to speaking English every day.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Cuesta mucho acostumbrarse a vivir en Inglaterra?",
+      "back": "Does living in England take much getting-used-to?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Sí, cuesta bastante acostumbrarse a vivir en Inglaterra.",
+      "back": "Yes, living in England takes some getting-used-to.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "No cuesta mucho acostumbrarse a conducir por la izquierda.",
+      "back": "Driving on the left-hand side doesn't take much getting-used-to.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Es inútil discutir por cosas pequeñas. ¡Olvídalo!",
+      "back": "It's no use arguing about small things. Get over it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "No sirve de nada quejarse. ¡Olvídalo!",
+      "back": "It's no use complaining. Get over it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¡A lo hecho, pecho! ¡Olvídalo!",
+      "back": "It's no use crying over spilt milk. Get over it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¿De qué sirve discutir por cosas pequeñas?",
+      "back": "What's the use in arguing about small things?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "¿De qué sirve quejarse? ¡Olvídalo!",
+      "back": "What's the use in complaining? Get over it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "¡De qué sirve!",
+      "back": "What's the use!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "¿De qué sirve decirle la verdad?",
+      "back": "What's the point in telling him the truth?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "¿De qué sirve fingir que nunca ocurrió?",
+      "back": "What's the point in pretending it never happened?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "¿De qué sirve tratar de convencerle?",
+      "back": "What's the point in trying to convince him?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¡A lo hecho, pecho!",
+      "back": "There's no point in crying over spilt milk.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "No sirve de nada negarlo.",
+      "back": "There's no point in denying it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Es inútil fingir que nunca ocurrió. ¡Olvídalo!",
+      "back": "There's no point in pretending it never happened. Get over it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Sirve de algo quejarse por ello?",
+      "back": "Is there any point in complaining about it?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Sirve de algo llamarle?",
+      "back": "Is there any point in calling him?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Crees que sirve de algo esperarle?",
+      "back": "Do you think there's any point in waiting for him?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "El consumo de energía es muy alto en EE. UU.",
+      "back": "Energy use is really high in the US.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Es más alto el consumo de energía en EE. UU. que en el Reino Unido?",
+      "back": "Is energy use higher in the US than in the UK?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "El gobierno de EE. UU. está promoviendo el consumo de energía limpia.",
+      "back": "The US government is promoting clean energy use.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Sube el consumo de agua en invierno?",
+      "back": "Does water use go up in the winter?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Baja el consumo de agua en verano?",
+      "back": "Does water use go down in the summer?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "El consumo de agua descendió debido a la sequía.",
+      "back": "Water use went down because of the drought.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "El consumo de drogas es un problema serio en los barrios urbanos de Londres.",
+      "back": "Drug use is a serious problem in inner-city London.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¿El consumo de drogas es un problema aún más serio en los barrios urbanos de Nueva York que a las afueras?",
+      "back": "Is drug use more of a serious problem in inner-city New York than in the suburbs?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "El consumo de drogas es un problema aún más serio en los barrios urbanos que en las afueras.",
+      "back": "Drug use is more of a serious problem in the inner cities than in the suburbs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Esa fotocopiadora es de uso público.",
+      "back": "That photocopier is for public use.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Sabes si la piscina es de uso público?",
+      "back": "Do you know if the swimming pool is for public use?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Creo que la fotocopiadora es de uso público, pero no creo que la piscina sea de uso público.",
+      "back": "I think the photocopier is for public use but I don't think the swimming pool is for public use.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Esa piscina es solo de uso privado.",
+      "back": "That swimming pool is for private use only.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Esa fotocopiadora es solo de uso privado.",
+      "back": "That photocopier is for private use only.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "No sé si la impresora es de uso privado o de uso público.",
+      "back": "I don't know if the printer is for private use or for public use.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Una linterna es útil cuando te vas de camping.",
+      "back": "A torch is useful when you go camping.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Unos tacones no son muy útiles cuando te vas de camping.",
+      "back": "High heels aren't very useful when you go camping.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Por qué unos tacones no son útiles cuando te vas de camping?",
+      "back": "Why aren't high heels useful when you go camping?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Ese mapa del metro que me diste fue muy útil.",
+      "back": "That underground map you gave me was very handy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Ese mapa callejero que me dio la Oficina de Turismo me resultó muy útil.",
+      "back": "The street map Tourist Information gave me came in very handy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "La guía de Madrid que me dieron mis padres por Navidad me resultó útil.",
+      "back": "The Madrid guide my parents gave me for Christmas came in handy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Los tacones altos son completamente inútiles para irse de camping.",
+      "back": "High heels are completely useless for camping.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Ese mapa del metro que me diste es totalmente inútil.",
+      "back": "That underground map you gave me is totally useless.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Se me olvidó hacerle un regalo de cumpleaños. ¡Soy un desastre!",
+      "back": "I forgot to get him a birthday present. I'm useless!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Nuestro equipo era inútil. Perdimos por tres goles.",
+      "back": "Our team was hopeless. We lost by three goals.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "La entrevista fue un desastre. No conseguí el trabajo.",
+      "back": "The interview was hopeless. I didn't get the job.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Fue una situación desesperada. No sobrevivieron.",
+      "back": "It was a hopeless situation. They didn't survive.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Llevar tacones cuando vas de camping no tiene sentido.",
+      "back": "Wearing high heels when you go camping is pointless.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Fingir que nunca pasó no tiene sentido.",
+      "back": "Pretending it never happened is pointless.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Intentar convencerle a él no tiene sentido.",
+      "back": "Trying to convince him is pointless.",
+      "sourcePage": 27
+    }
+  ]
+}

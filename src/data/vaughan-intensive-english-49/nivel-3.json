@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-49",
+  "bookTitle": "Libro 49",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "He gastado todo mi saldo. ¿Me prestas tu teléfono?",
+      "back": "I've used up all my credit. Can I borrow your phone?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "He gastado todos mis minutos gratis. ¿Puedo usar tu teléfono fijo?",
+      "back": "I've used up all my free minutes. Can I use your landline?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "He gastado todos mis mensajes gratis, pero todavía me quedan algunos minutos. La llamaré.",
+      "back": "I've used up all my free texts but I've still got some free minutes left. I'll give her a ring.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Una vez que hayas usado toda el agua caliente, te tendrás que conformar con el agua fría.",
+      "back": "Once you've used up all the hot water, you'll have to make do with cold water.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Una vez que hayas usado todo el aceite de oliva, te tendrás que conformar con mantequilla en su lugar.",
+      "back": "Once you've used up all the olive oil, you'll have to make do with butter instead.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Una vez que hayas usado toda la miel, tendremos que conformarnos con el azúcar.",
+      "back": "Once you've used up all the honey, we'll have to make do with sugar.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Puedo usar un poco de tu gel? He acabado el mío.",
+      "back": "Can I borrow some of your hair gel? I've used all of mine up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Puedes usar un poquito, pero ni se te ocurra agotarlo.",
+      "back": "You can use a little bit, but don't you dare use it all up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "No me puedo creer que lo hayas agotado, ¡sabes lo caro que es!",
+      "back": "I can't believe you've used it all up, you know how expensive that stuff is!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Puedes usar mi coche, pero más te vale que no agotes la gasolina.",
+      "back": "You can borrow my car but you'd better not use up all the petrol.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Más te vale que no agotes toda el agua caliente de nuevo. No puedo soportar la idea de otra ducha fría.",
+      "back": "You'd better not use up all the hot water again. I can't bear the thought of another cold shower.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Más te vale que no uses todo el café. No puedo empezar el día sin uno.",
+      "back": "You'd better not use up all the coffee. I can't start the day without one.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Si usas toda la gasolina, te cobrarán.",
+      "back": "If you use up all the petrol, they'll charge you.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Si usaras toda la gasolina, te cobrarían.",
+      "back": "If you used up all the petrol, they'd charge you.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Si hubieras usado toda la gasolina, te habrían cobrado.",
+      "back": "If you'd used up all the petrol, they'd have charged you.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "La estación de metro de Chamberí está fuera de uso desde hace décadas.",
+      "back": "Chamberí metro station has been out of use for decades.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Algunas de las palabras que se encuentran en los libros de Cervantes no se usan desde hace siglos.",
+      "back": "Some of the words found in Cervantes' books have been out of use for centuries.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "El aseo está fuera de uso desde la inundación del viernes pasado.",
+      "back": "The restroom has been out of use since last Friday's flood.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Si estás pagando una fortuna para ser socio de tu gimnasio, ¡por lo menos deberías hacer buen uso de ello!",
+      "back": "If you're paying a fortune for your gym membership, you should at least make good use of it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Si vas a gastar tanto dinero en un ordenador, ¡por lo menos deberías hacer un buen uso de ello!",
+      "back": "If you're going to spend so much money on a computer, you should at least make good use of it!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "¡Ella habría logrado mucho más en su vida si hubiera hecho un mejor uso de su tiempo libre!",
+      "back": "She would have achieved much more in her life if she'd made better use of her free time!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "¡No puedo creer que él nunca haya hecho un buen uso de sus habilidades con los idiomas! ¡Qué despilfarro de talento!",
+      "back": "I can't believe he's never put his language skills to good use! What a waste of talent!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Espero que una vez que termine su carrera, haga buen uso de sus habilidades en su vida profesional.",
+      "back": "I hope that once he finishes his degree, he puts his skills to good use in his career.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Es alentador ver que se hace un buen uso de los residuos reciclados.",
+      "back": "It's encouraging to see recycled waste being put to good use.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Mi abuela no tiene necesidad de ese ordenador. Más vale que yo lo devuelva en la tienda por ella.",
+      "back": "My grandmother has no use for that computer. I may as well take it back to the store for her.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Tengo la sensación de que mi jefe ya no me necesita. Más vale que yo no esté aquí.",
+      "back": "I feel like my boss has no use for me anymore. I may as well not be here.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Estas cintas de vídeo ya no me valen. Más vale que las tire.",
+      "back": "I have no use for these videocassettes anymore. I may as well just throw them away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "El radar pasó a ser de uso común a nivel global durante la Segunda Guerra Mundial.",
+      "back": "Radar came into use on a worldwide scale during WW2.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Internet pasó a ser de uso común a nivel global a finales de los años noventa.",
+      "back": "The internet came into use on a worldwide scale in the late nineties.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Aún está por ver si los aerogeneradores pasarán a ser de uso común a nivel global o no.",
+      "back": "It is yet to be seen whether or not wind turbines will come into use on a worldwide scale.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Cuantas más bolsas reutilizables tiras, más daño haces al medio ambiente.",
+      "back": "The more reusable bags you throw away, the more damage you do to the environment.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Los pañales reutilizables te pueden salvar la vida. ¿Sabes cuánto cuestan los pañales desechables hoy en día?",
+      "back": "Reusable nappies are a life saver. Do you know how much disposable nappies cost these days?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Las pilas reutilizables tienen mejor relación calidad-precio que las desechables.",
+      "back": "Reusable batteries are so much better value for money than disposable ones.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Me quedan suficientes millas aéreas sin usar para hacer un viaje de ida y vuelta en primera clase a Nueva Zelanda.",
+      "back": "I've got enough unused air miles left to fly first class to New Zealand and back.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Me quedan suficientes puntos sin usar en mi tarjeta de fidelidad para conseguir un DVD gratis.",
+      "back": "I have enough unused points on my loyalty card left to get a free DVD.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "El viejo cine sigue sin usar debido a un litigio sobre su propiedad.",
+      "back": "The old cinema remains unused due to an ownership dispute.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Qué lástima que el viejo cine haya caído en desuso.",
+      "back": "It's such a shame that the old cinema has fallen into disuse.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Con la popularidad creciente de los reproductores de DVD, las cintas de vídeo están cayendo en desuso.",
+      "back": "With the growing popularity of DVD players, videocassettes are falling into disuse.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Con la amplia popularidad del e-mail, los faxes están cayendo en desuso.",
+      "back": "With the widespread popularity of e-mail, fax machines are falling into disuse.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Yo que tú no me comería ese yogur; ha pasado la fecha de caducidad.",
+      "back": "I wouldn't eat that yogurt if I were you; it's passed its use-by date.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Yo opino que está bien comerlo. La fecha de caducidad es solo una guía.",
+      "back": "I reckon it's fine to eat. The use-by date is just a guide.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "¡Bueno! Si quieres correr el riesgo, adelante, pero la fecha de caducidad está ahí por alguna razón.",
+      "back": "Well! If you want to risk it, go ahead, but the use-by date is there for a reason.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Los teléfonos de pantalla táctil se comercializan como fáciles de usar, pero yo soy un negado a la hora de usarlos.",
+      "back": "Touch-screen phones are marketed as user-friendly, but I'm hopeless when it comes to using them.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Una vez empieces a usar los ordenadores de Azur, nunca volverás a los viejos. ¡Son tan fáciles de usar!",
+      "back": "Once you start using Azur computers, you never go back to the old ones. They're just so user-friendly!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Las taquillas automáticas en el metro serían inútiles si no fuesen tan fáciles de usar.",
+      "back": "The ticket machines in the metro would be useless if they weren't so user-friendly.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Cuánto tardaste en acostumbrarte a conducir en España?",
+      "back": "How long did it take you to get used to driving in Spain?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Tardé dos años en acostumbrarme a conducir en España.",
+      "back": "It took me two years to get used to driving in Spain.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Me dijo que tardó dos años en acostumbrarse a conducir en España.",
+      "back": "He told me that it took him two years to get used to driving in Spain.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "¿Te llevó mucho tiempo acostumbrarte a trabajar a tiempo completo?",
+      "back": "Did working full time take a lot of getting-used-to?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Sí, me llevó mucho tiempo acostumbrarme a trabajar a tiempo completo, especialmente después de estudiar cuatro años.",
+      "back": "Yes, working full time took a lot of getting-used-to, especially after studying for four years.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Bueno, lleva mucho tiempo acostumbrarse a cualquier trabajo nuevo.",
+      "back": "Well, all new jobs take a lot of getting-used-to.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Solías salir de marcha antes de sentar la cabeza?",
+      "back": "Did you use to paint the town red before you settled down?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "¿Solías ir de flor en flor antes de sentar la cabeza?",
+      "back": "Before you settled down, did you use to play the field?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "¿Solías gastar dinero a troche y moche antes de sentar la cabeza?",
+      "back": "Before you settled down, did you use to spend money like there was no tomorrow?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Te acostumbraste rápidamente a conducir por el otro lado de la carretera?",
+      "back": "Did you get used to driving on the other side of the road quickly?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Sí, me acostumbré a conducir por el otro lado de la carretera en un santiamén.",
+      "back": "Yes, I got used to driving on the other side of the road in no time.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Mi hermano, por otro lado, no se acostumbró tan rápidamente.",
+      "back": "My brother, on the other hand, didn't get used to it so quickly.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Al principio, me sentía incómodo vistiendo un traje con corbata, pero ya estoy acostumbrado a ello.",
+      "back": "At first I found it uncomfortable wearing a suit and tie, but I'm used to it now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Al principio, me costaba mucho levantarme al romper el alba todas las mañanas, pero ahora estoy acostumbrado.",
+      "back": "At first, I found it tough to get up at the crack of dawn every morning but I'm used to it now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Al principio, me costaba mucho trabajar muchas horas todos los días, pero ahora estoy acostumbrado.",
+      "back": "At first, I found it difficult to work long hours every day but I'm used to it now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Se usan ratas desde hace muchos años en los laboratorios para probar los productos farmacéuticos.",
+      "back": "Rats have been used for many years in laboratories to test pharmaceutical products.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Las ratas seguirán usándose en los laboratorios por parte de las empresas farmacéuticas para hacer pruebas.",
+      "back": "Rats will continue to be used in laboratories by pharmaceutical companies for testing purposes.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Los tubos de ensayo son utilizados a menudo por los científicos para observar las reacciones que se producen al mezclar dos elementos químicos.",
+      "back": "Test tubes are often used by scientists in order to observe the reactions caused by mixing two chemicals.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "La palabra «usually» está frecuentemente mal usada por los hispanohablantes cuando quieren traducir «soler».",
+      "back": "The word “usually” is often misused by Spanish speakers when they want to translate “soler”.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "La palabra «before» está frecuentemente mal usada por los hispanohablantes cuando quieren decir «yo antes» en inglés.",
+      "back": "The word “before” is often misused by Spanish speakers when they mean to say “yo antes” in English.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "La palabra «finally» está frecuentemente mal usada por los hispanohablantes cuando tratan de decir «finalmente» en inglés.",
+      "back": "The word “finally” is often misused by Spanish speakers when they try to say “finalmente” in English.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Los cuchillos deberían usarse para cortar las verduras, pero mucha gente los utiliza como destornilladores.",
+      "back": "Knives should be used for cutting vegetables but lots of people use them as screwdrivers.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Los antibióticos deberían usarse para curar infecciones, pero mucha gente los usa mal.",
+      "back": "Antibiotics should be used for treating infections, but a lot of people misuse them.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Las gomas elásticas deberían usarse para atar cosas, pero algunas personas se las tiran a sus compañeros.",
+      "back": "Rubber bands should be used for tying things together but some people flick them at their colleagues.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Antes se usaba el carbón para calentar los hogares, pero ahora, en vez de eso, usamos la electricidad.",
+      "back": "Coal used to be used to heat homes, but now we use electricity instead.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Antes se usaba el amianto para aislar los hogares, pero ahora que sabemos que es tóxico, ya no se usa.",
+      "back": "Asbestos used to be used to insulate homes, but now we know it's toxic, it's no longer used.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Antes se usaban los bueyes para arar los campos, ¡pero ahora se usan para hacer sopa de rabo de buey!",
+      "back": "Oxen used to be used to plough fields but now they're used to make oxtail soup!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "¡Toda la gasolina que teníamos en el depósito se ha gastado! ¡Estamos acabados!",
+      "back": "All the petrol we had in the tank has been used up! We're done for!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Tenemos que empezar a fomentar el uso de energías renovables antes de que se gasten todas las fuentes de energías naturales.",
+      "back": "We need to start promoting the use of renewable energy before all the world's natural resources are used up.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Se han gastado todos los cartuchos de tinta y ahora nadie puede imprimir nada.",
+      "back": "All the ink cartridges have been used up and now nobody can print anything.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Sé que no puedes soportar a Bob, pero no puedes negar que sirve para algunas cosas.",
+      "back": "I know you can't stand Bob, but you can't deny he has his uses.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Sé que Sarah es una pesada, pero no puedes negar que sirve para algunas cosas.",
+      "back": "I know Sarah is a pain in the neck, but you have to admit she has her uses.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Sé que Robert es un desastre total, pero no puedes negar que sirve para algunas cosas.",
+      "back": "I know Robert is a total disaster, but you know as well as I do he has his uses.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "La palabra «guay» se ha empleado desde hace mucho tiempo.",
+      "back": "The word “cool” has been in use for a long while.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "A no ser que inventemos algo más guay que el USB, se usará durante mucho tiempo.",
+      "back": "Unless we invent something cooler than the USB, it'll be in use for a long while.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "El amianto no se ha usado en Europa desde hace mucho tiempo.",
+      "back": "Asbestos hasn't been in use in Europe for a long while.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Después del día que he tenido, no me vendría mal un trago fuerte.",
+      "back": "After the day I've had, I could really use a stiff drink.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Ha sido un día duro. ¡No me vendría mal un abrazo!",
+      "back": "It's been a hard day. I could really use a hug!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "¡No me vendría mal algo de ayuda con todo mi trabajo!",
+      "back": "I could really use a hand with all my work.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Un coche de segunda mano normalmente huele al dueño anterior.",
+      "back": "A used car normally smells of the previous owner.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Un ordenador de segunda mano normalmente está lleno de la basura del dueño anterior.",
+      "back": "A used computer is normally full of the previous owner's junk.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Una guitarra de segunda mano normalmente necesita volver a ser afinada.",
+      "back": "A used guitar normally needs re-tuning.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "¡No me vendría mal un abrazo! Vi a María con su nuevo novio hoy.",
+      "back": "I could really use a hug! I saw Maria with her new boyfriend today.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "No sirve de nada enfadarse por eso. Tú rompiste con ella hace un tiempo.",
+      "back": "There's no use getting upset over that. You broke up with her a while ago.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Lo sé, pero es muy difícil acostumbrarme a la idea de que María esté con otro chico.",
+      "back": "I know, but it's really hard to get used to the idea of Maria with another boy.",
+      "sourcePage": 41
+    }
+  ]
+}
