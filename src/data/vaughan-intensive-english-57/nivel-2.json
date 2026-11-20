@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-57",
+  "bookTitle": "Libro 57",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "La galería colgó el trabajo del artista en orden cronológico.",
+      "back": "The gallery hung the artist's work in chronological order.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Colgaron su trabajo primerizo a la izquierda.",
+      "back": "They hung his early work on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Y colgaron su trabajo posterior a la derecha.",
+      "back": "And they hung his later work on the right.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Maxine colgó su abrigo en el gancho.",
+      "back": "Maxine hung her coat on the hook.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Gabriela colgó su chaqueta en el respaldo de su silla.",
+      "back": "Gabriela hung her jacket on the back of her chair.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Ed colgó su toalla en el gancho de la parte de atrás de la puerta.",
+      "back": "Ed hung his towel on the hook on the back of the door.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Steve colgó su abrigo en la percha.",
+      "back": "Steve hung up his coat on the hanger.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Pauline colgó su chaqueta en el perchero.",
+      "back": "Pauline hung up her jacket on the coat stand.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Mary colgó su toalla en el gancho.",
+      "back": "Mary hung up her towel on the hook.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Mi amiga se agarró a la barra cuando empezó la atracción.",
+      "back": "My friend hung on to the bar when the ride started.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Me agarré a mi amiga cuando empezó la atracción.",
+      "back": "I hung on to my friend when the ride started.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Mi novio me cogió de la mano cuando empezó la atracción.",
+      "back": "My boyfriend hung on to my hand when the ride started.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "El criminal fue ahorcado por asesinato.",
+      "back": "The criminal was hanged for murder.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Le ahorcaron en 1964.",
+      "back": "He was hanged in 1964.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Fue la última persona en ser ahorcada en Gran Bretaña.",
+      "back": "He was the last person to be hanged in Britain.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Cuando Batman se despertó el lunes, una capa de contaminación cubría la ciudad.",
+      "back": "When Batman woke up on Monday, smog was hanging over the city.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Cuando se despertó el martes, había mucha neblina cubriendo la ciudad.",
+      "back": "When he woke up on Tuesday, there was a lot of mist hanging over the city.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Cuando se despertó el miércoles, había mucha niebla cubriendo la ciudad.",
+      "back": "When he woke up on Wednesday, there was a lot of fog hanging over the city.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Batman está preocupado desde que vio el sarpullido el lunes por la mañana.",
+      "back": "Batman's had a worry hanging over his head since he saw the rash on Monday morning.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Lleva casi toda la semana preocupándose sobre este tema.",
+      "back": "He's had this worry hanging over his head for most of the week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Va a seguir preocupándose sobre este tema hasta que vaya al médico.",
+      "back": "He's going to have this worry hanging over his head until he goes to the doctor.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Batman está bajo de ánimo, porque el estrés le está pasando factura.",
+      "back": "Batman has a cloud hanging over his head because stress is taking its toll.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Está bajo de ánimo, porque Batwoman se está divorciando de él.",
+      "back": "He has a cloud hanging over his head because Batwoman is divorcing him.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Está bajo de ánimo desde hace un par de semanas ya.",
+      "back": "He's had a cloud hanging over him for a few weeks now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Batman tiene la ITV de su Batmóvil pendiente.",
+      "back": "Batman has his Batmobile's MOT hanging over him.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Tiene la ITV pendiente desde la semana pasada.",
+      "back": "He's had the MOT hanging over him since last week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Si lo resuelve esta semana, no la tendrá pendiente por mucho más tiempo.",
+      "back": "If he sorts it out this week, it won't be hanging over him for much longer.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Batman se ha despertado esta mañana con resaca.",
+      "back": "Batman woke up hung-over this morning.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "No puede ir al trabajo porque tiene resaca.",
+      "back": "He can't go to work because he's hung-over.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¡Batman nunca ha tenido una resaca tan horrible en toda su vida!",
+      "back": "Batman's never been so hung-over in his life!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Quedan dudas sobre el futuro de la democracia en Oriente Medio.",
+      "back": "There are doubts hanging over the future of democracy in the Middle East.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Quedaban dudas sobre la legitimidad de las elecciones en Oriente Medio.",
+      "back": "There were doubts hanging over the legitimacy of the elections in the Middle East.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Siempre quedarán dudas sobre la legitimidad del presidente.",
+      "back": "There will always be doubts hanging over the legitimacy of the president.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "El banco no tomó una decisión acerca de si la familia podría recibir el préstamo.",
+      "back": "The bank left it hanging as to whether the family could get the loan.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "La compañía no se decidió acerca de si el empleado podría recibir un aumento de sueldo.",
+      "back": "The company left it hanging as to whether the employee could get a pay rise.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "La compañía de seguros no se decidió acerca de si la pareja podría contratar un seguro completo.",
+      "back": "The insurance company left it hanging as to whether the couple could be fully insured.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Su dimisión repentina de él dejó algunas preguntas en el aire.",
+      "back": "His sudden resignation left questions hanging in the air.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Su despido repentino de ella dejará algunas preguntas en el aire.",
+      "back": "Her sudden dismissal will leave questions hanging in the air.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Su repentina partida de ellas va a dejar muchas preguntas en el aire.",
+      "back": "Their sudden departure is going to leave many questions hanging in the air.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "No me dejes colgada de esta manera, ¡quiero una respuesta!",
+      "back": "Don't leave me hanging like this; I want an answer!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Él la dejó colgada durante semanas hasta que le dio una respuesta.",
+      "back": "He left her hanging for weeks until he gave her an answer.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "La empresa le dejó colgado durante dos semanas hasta que recibió una respuesta.",
+      "back": "The company left him hanging for two weeks until he got an answer.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Eh, tío, ¿qué tal?",
+      "back": "Hey dude, how's it hanging?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Eh, tío, ¿qué pasa? ¿Qué tal?",
+      "back": "Hey dude, what's up? How's it hanging?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Qué pasa? ¿Qué tal?",
+      "back": "What's going on? How's it hanging?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¡Le cogerás el tranquillo!",
+      "back": "You'll get the hang of it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Melinda le cogerá el tranquillo con el tiempo.",
+      "back": "Melinda will get the hang of it eventually.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "A la larga, le cogerán el tranquillo.",
+      "back": "They'll get the hang of it eventually.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Se tarda bastante en cogerle el tranquillo.",
+      "back": "It takes a while to get the hang of it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Se tarda bastante en cogerle el tranquillo a hacer tortitas.",
+      "back": "It takes a while to get the hang of cooking pancakes.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Llevó un tiempo cogerle el tranquillo a cocinar tortillas.",
+      "back": "It took a while to get the hang of cooking omelets.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Shelly le cogió el tranquillo a preparar cócteles muy rápidamente.",
+      "back": "Shelly got the hang of making cocktails really quickly.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella le cogió el tranquillo a preparar mojitos muy rápidamente.",
+      "back": "She got the hang of making mojitos really quickly.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Lleva un tiempo cogerle el tranquillo a preparar cócteles.",
+      "back": "It takes a while to get the hang of making cocktails.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¡Me estoy acostumbrando!",
+      "back": "I'm getting used to it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Ella se está acostumbrando a estar sola.",
+      "back": "She's getting used to being alone.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Te estás acostumbrando a estar aquí?",
+      "back": "Are you getting used to being here?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Le cogerás el truco!",
+      "back": "You'll get the knack of it!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Se tarda un tiempo en cogerle el truco a darle la vuelta a las tortitas.",
+      "back": "It takes a while to get the knack of flipping pancakes.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Le cogí el truco a darle la vuelta a las hamburguesas con el tiempo.",
+      "back": "I got the knack of flipping burgers eventually.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Katie tendió la ropa fuera ayer.",
+      "back": "Katie hung the clothes out to dry yesterday.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Ella tendió su camisa de trabajo fuera ayer.",
+      "back": "She hung her work shirt out to dry yesterday.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Todavía ella no ha tendido su falda fuera.",
+      "back": "She hasn't hung her skirt out to dry yet.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¡No tienes la camisa bien metida!",
+      "back": "Your shirt is hanging out!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¡Mike! ¡No tienes la camisa bien metida en tus pantalones!",
+      "back": "Mike! Your shirt is hanging out of your trousers!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Katie no tiene la camisa bien metida en su falda.",
+      "back": "Katie's shirt is hanging out of her skirt.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Katie suele estar con Mike después del trabajo.",
+      "back": "Katie usually hangs out with Mike after work.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Dónde se juntan?",
+      "back": "Where do they hang out?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Se juntan en el bar de abajo.",
+      "back": "They hang out at the bar downstairs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Cuando voy a la playa, me relajo totalmente.",
+      "back": "When I go to the beach, I let it all hang out.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Cuando van al bar de abajo, se relajan totalmente.",
+      "back": "When they go to the bar downstairs, they let it all hang out.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Cuando Katie se junta con Mike, se relaja totalmente. Se siente muy cómoda con él.",
+      "back": "When Katie hangs out with Mike, she lets it all hang out. She feels really comfortable around him.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Viste el vestido de Katie en la fiesta de Navidad? ¡Se le veía todo!",
+      "back": "Did you see Katie's dress at the Christmas party? She was letting it all hang out!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Su camisa le quedaba muy apretada. ¡Se le salía todo!",
+      "back": "Her shirt was very tight. She was letting it all hang out!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Cuando Katie se junta con Mike, se le ve todo. ¡Creo que le gusta tener su atención!",
+      "back": "When Katie hangs out with Mike, she lets it all hang out. I think she likes the attention!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Las pistas de skate son lugares frecuentados por adolescentes.",
+      "back": "Skate parks are popular hangouts for teenagers.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Los almacenes vacíos son lugares frecuentados por consumidores de drogas.",
+      "back": "Empty warehouses are popular hangouts for drug users.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Los bares irlandeses son lugares frecuentados por turistas.",
+      "back": "Irish bars are popular hangouts for tourists.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Tienes resaca? ¡Te veo fatal!",
+      "back": "Do you have a hangover? You look terrible!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "No, no tengo resaca. Estoy cansado, nada más.",
+      "back": "No, I don't have a hangover! I'm just tired.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Pues a mí me parece que tienes resaca.",
+      "back": "Well you look like you have a hangover to me.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Ella no quiere llevarse un bikini cuando se vaya de vacaciones porque tiene complejos con respecto a su peso.",
+      "back": "She doesn't want to take a bikini when she goes on holiday because she has hangups over her weight.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Él no quiere comprometerse en la relación porque tiene complejos con respecto a su ex.",
+      "back": "He doesn't want to commit to the relationship because he has hangups over his ex.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "A él no le gusta hablar inglés con nativos porque tiene complejos con respecto a su acento.",
+      "back": "He doesn't like to speak English with native speakers because he has hangups over his accent.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Tienes una percha para prestarme? Si no, tendré que doblar mi ropa.",
+      "back": "Do you have a hanger I could borrow? I'll have to fold my clothes otherwise.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Solo tengo una percha, lo siento, ¿está bien?",
+      "back": "I only have one hanger, sorry, is that okay?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Sí, está bien. ¡Una percha es mejor que ninguna! Tendré que doblar el resto.",
+      "back": "Yeah that's fine, one hanger is better than none! I'll have to fold the rest.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Un salto de tres pies tiene un tiempo de permanencia en el aire de 0,87 segundos.",
+      "back": "A three-foot high jump has a hang time of 0.87 seconds.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Michael Jordan tenía un tiempo de permanencia en el aire de un segundo.",
+      "back": "Michael Jordan had a hang time of one second.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Normalmente, el mejor jugador del equipo tiene el mejor tiempo de permanencia en el aire.",
+      "back": "Normally the best player in the team has the best hang time.",
+      "sourcePage": 27
+    }
+  ]
+}

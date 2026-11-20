@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-57",
+  "bookTitle": "Libro 57",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Te cuelgo el abrigo?",
+      "back": "Shall I hang up your coat?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Te cuelgo el abrigo? (for you)",
+      "back": "Shall I hang up your coat for you?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Dónde te cuelgo el abrigo?",
+      "back": "Where shall I hang up your coat?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Dónde cuelgo el espejo?",
+      "back": "Where shall I hang up the mirror?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Cuelgo el espejo al lado de la ventana?",
+      "back": "Shall I hang up the mirror by the window?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Cuelgo el espejo al lado de la ventana o al lado del cuadro?",
+      "back": "Shall I hang up the mirror by the window or by the picture?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Dónde sueles tender la ropa?",
+      "back": "Where do you usually hang up your washing?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Normalmente tiendo la ropa en la cocina.",
+      "back": "I usually hang up my washing in the kitchen.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Normalmente tiendes la ropa en la cocina?",
+      "back": "Do you usually hang up your washing in the kitchen?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Él cuelga muchos cuadros en su casa.",
+      "back": "He hangs up lots of pictures in his house.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella cuelga pocos cuadros en su casa.",
+      "back": "She hangs up few pictures in her house.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Ella cuelga muy pocos cuadros en nuestra casa.",
+      "back": "She hangs up very few pictures in our house.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Suele colgar ella luces de Navidad?",
+      "back": "Does she usually hang up Christmas lights?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No, ella no suele colgar luces de Navidad.",
+      "back": "No, she doesn't usually hang up Christmas lights.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Le suele colgar luces de Navidad él a ella?",
+      "back": "Does he usually hang up Christmas lights for her?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Puedes colgar el espejo de este gancho?",
+      "back": "Can you hang up the mirror on this hook?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Puedes colgar el espejo de ese gancho?",
+      "back": "Can you hang up the mirror on that hook?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Puedes colgarlo de estos dos ganchos?",
+      "back": "Can you hang it up on these two hooks?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Por qué no cuelgas tu toalla en la puerta?",
+      "back": "Why don't you hang up your towel on the door?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Por qué no colgamos nuestras toallas en la puerta?",
+      "back": "Why don't we hang up our towels on the door?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Por qué no quiere él colgarlos en la puerta?",
+      "back": "Why doesn't he want to hang them up on the door?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Más te vale usar un clavo para colgar el cuadro.",
+      "back": "You'd better use a nail to hang up the picture.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Más os vale usar esos clavos para colgar los cuadros.",
+      "back": "You'd better use those nails to hang up the pictures.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Más le vale a él usar estos clavos para colgarlos.",
+      "back": "He'd better use these nails to hang them up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Voy a tender la ropa con esas pinzas.",
+      "back": "I'm going to hang up the washing with those clothes pegs.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Él va a tender la ropa con estas pinzas.",
+      "back": "He's going to hang up the washing with these clothes pegs.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella va a tenderla con estas pinzas.",
+      "back": "She's going to hang it up with these clothes pegs.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Si me pasas las chinchetas, las usaré para colgar las luces de Navidad.",
+      "back": "If you pass me the thumbtacks I'll use them to hang up the Christmas lights.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Si le pasas a él las chinchetas, las usará para colgar estas luces de Navidad.",
+      "back": "If you pass him the thumbtacks he'll use them to hang up these Christmas lights.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Si me pasas las chinchetas, las usaré para colgar estas.",
+      "back": "If you pass me the thumbtacks I'll use them to hang these up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¡Cuelga el calendario más a la izquierda!",
+      "back": "Hang the calendar more to the left!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Cuelga el cuadro más a la izquierda!",
+      "back": "Hang the picture more to the left!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡Cuelga el póster más a la izquierda!",
+      "back": "Hang the poster more to the left!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Cuelga el cuadro más a la derecha!",
+      "back": "Hang the painting more to the right!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡Cuelga mi diploma más a la derecha!",
+      "back": "Hang my diploma more to the right!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Trae algunas chinchetas y cuelga el póster más a la derecha!",
+      "back": "Get some thumbtacks and hang the poster more to the right!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¡Cuelga el espejo más arriba!",
+      "back": "Hang the mirror higher!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¡Cuelga el calendario un poco más arriba!",
+      "back": "Hang the calendar a bit higher!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¡Cuelga el póster un poco más arriba!",
+      "back": "Hang the poster a bit higher!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Cuelga el marco para cuadros un poco más abajo!",
+      "back": "Hang the picture frame a bit lower!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Cuelga el espejo un poco más abajo!",
+      "back": "Hang the mirror a bit lower!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Trae algunos clavos y cuelga el marco para fotos más abajo!",
+      "back": "Get some nails and hang the photo frame lower!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¡Descuélgalo todo!",
+      "back": "Take it all down!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¡No me gusta! ¡Descuélgalo todo!",
+      "back": "I don't like it! Take it all down!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Cuélgalo un poco más a la izquierda. Un poco más a la derecha. ¡No, un poco más abajo! ¡Descuélgalo todo!",
+      "back": "Hang it a little more to the left. A bit more to the right. No, a little bit lower! Take it all down!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Las manzanas cuelgan del manzano.",
+      "back": "The apples are hanging from the apple tree.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Las naranjas cuelgan del naranjo.",
+      "back": "The oranges are hanging from the orange tree.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "La luz cuelga del techo.",
+      "back": "The light is hanging from the ceiling.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "El cuadro está colgado en la pared.",
+      "back": "The painting is hanging on the wall.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "La foto está colgada en la pared.",
+      "back": "The photo is hanging on the wall.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Los cuadros están colgados en la pared.",
+      "back": "The pictures are hanging on the wall.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "La araña está colgada de un hilo.",
+      "back": "The spider is hanging by a thread.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "El adorno de Navidad está colgado de una cuerda delgada.",
+      "back": "The bauble is hanging by a string.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "El alpinista está colgado de una cuerda gruesa.",
+      "back": "The climber is hanging by a rope.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Él es tan bajo, que le cuelgan los pies del sofá.",
+      "back": "He's so short that his feet are hanging over the edge of the sofa.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¡El capítulo no puede acabarse ahora! ¡El autobús está colgando sobre el borde de un acantilado!",
+      "back": "The episode can't end now! The bus is hanging over the edge of a cliff!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Creo que soy demasiado alto para esta cama. Me cuelgan los pies.",
+      "back": "I think I'm too tall for this bed. My feet are hanging over the edge.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "La pera cuelga del peral.",
+      "back": "The pear is hanging from the pear tree.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "El espejo está colgado en la pared.",
+      "back": "The mirror is hanging on the wall.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "El espejo está colgado de una cuerda delgada.",
+      "back": "The mirror is hanging by a string.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Espera! ¡Espérame!",
+      "back": "Hang on! Wait for me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¡Espera! ¡No vayas sin mí!",
+      "back": "Hang on! Don't go without me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¡Espera! ¡No te vayas sin mí!",
+      "back": "Hang on! Don't leave without me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¡Espera un minuto!",
+      "back": "Hang on a minute!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Espera un segundo.",
+      "back": "Hang on a second.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Espera un segundito, ¡no cuelgues!",
+      "back": "Hang on a sec, don't hang up!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Agárrate a mi mano.",
+      "back": "Hang on to my hand.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Agárrate a la mano de tu hermanita.",
+      "back": "Hang on to your little sister's hand.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Agárrate a mi mano y no te sueltes!",
+      "back": "Hang on to my hand and don't let go!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Agárrate fuerte!",
+      "back": "Hang on tight!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Agárrate fuerte a la barra!",
+      "back": "Hang on tight to the bar!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Agárrate fuerte y no te sueltes!",
+      "back": "Hang on tight and don't let go!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Por favor, no cuelgue.",
+      "back": "Please hold.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Por favor, no cuelgue mientras le paso.",
+      "back": "Please hold while I put you through.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Por favor, no cuelgue mientras intento pasarle.",
+      "back": "Please hold while I try to connect you.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Por dónde sales normalmente hoy en día, Alicia?",
+      "back": "Where do you normally hang out these days Alicia?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Sales normalmente por el centro del pueblo?",
+      "back": "Do you normally hang out in the town centre?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Sueles pasar el rato en el parque últimamente?",
+      "back": "Do you normally hang out in the park these days?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Me gusta pasar el rato en el centro comercial a veces.",
+      "back": "I like to hang out at the shopping centre sometimes.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Por qué te gusta pasar el rato en el centro comercial?",
+      "back": "Why do you like to hang out at the shopping centre?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Me gusta salir por el centro comercial porque hay un montón de cosas que hacer ahí.",
+      "back": "I like to hang out at the shopping centre because there are lots of things to do there.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Con quién sueles pasar el rato los fines de semana?",
+      "back": "Who do you normally hang out with on the weekends?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Suelo pasar el rato con mis amigos Robert y Victoria los fines de semana.",
+      "back": "I normally hang out with my friends Robert and Victoria on the weekends.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Suelo pasar el rato con mis primos durante las vacaciones.",
+      "back": "I normally hang out with my cousins during the holidays.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Quieres que hagamos algo juntos en algún sitio este fin de semana?",
+      "back": "Do you want to hang out together somewhere this weekend?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¡Claro! Podemos hacer algo el sábado por la tarde si quieres.",
+      "back": "Sure! We can hang out together on Saturday afternoon if you want.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Guay! Podemos hacer algo después de comer si quieres.",
+      "back": "Cool! We can hang out together after lunch if you want.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Vais a volver a salir juntos alguna vez?",
+      "back": "Are you guys going to hang out again some time?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "No creo que vayamos a volver a salir juntos, si te digo la verdad.",
+      "back": "I don't think we're going to hang out again if I'm honest with you.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Por qué no vas a volver a salir con él? Tiene mal aliento.",
+      "back": "Why aren't you going to hang out with him again? He has bad breath.",
+      "sourcePage": 13
+    }
+  ]
+}
