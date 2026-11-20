@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-51",
+  "bookTitle": "Libro 51",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Me mudo de un piso de dos habitaciones a un piso de tres habitaciones.",
+      "back": "I'm moving from a two-bedroom flat to a three-bedroom flat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Por qué te mudas de un piso de dos habitaciones a un piso de tres habitaciones?",
+      "back": "Why are you moving from a two-bedroom flat to a three-bedroom flat?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Me mudo a un piso más grande porque necesito más espacio.",
+      "back": "I'm moving into a bigger flat because I need more space.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Las cosas van fenomenal con John. Me voy a vivir con él a principios del mes que viene.",
+      "back": "Things are going great with John. I'm moving in with him at the beginning of next month.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿No crees que es un poco pronto para iros a vivir juntos?",
+      "back": "Don't you think it's a bit early to be moving in together?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Creemos que después de cuatro años juntos, ahora es el momento apropiado para irnos a vivir juntos.",
+      "back": "We think after four years, now is the right time to move in together.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Me mudo de casa porque las cosas ya no van tan fenomenal con él.",
+      "back": "I'm moving out because things aren't going so great with him any more.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella se muda porque ya no necesita mucho espacio.",
+      "back": "She's moving out because she doesn't need a lot of space any more.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Se muda ella a principios del mes que viene o a finales del mes que viene?",
+      "back": "Is she moving out at the beginning of next month or at the end of next month?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Él se marcha de la zona porque quiere empezar de nuevo.",
+      "back": "He's moving away from the area because he wants to make a fresh start.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Creo que él va a volver pronto porque echa de menos a sus amigos.",
+      "back": "I think he's going to move back soon because he misses his friends.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Él va a volver y a empezar en un nuevo trabajo.",
+      "back": "He's going to move back and make a fresh start in a new job.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Mi padre trabaja en una embajada, así que cambiamos constantemente de domicilio.",
+      "back": "My dad works in an embassy so we move around a lot.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Tuve que cambiar de colegio mucho porque mi familia cambiaba constantemente de domicilio.",
+      "back": "I had to change school a lot because my family moved around a lot.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Es difícil hacer amigos cuando cambias constantemente de domicilio.",
+      "back": "It's difficult to make friends when you move around a lot.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Mi padre está de camino, así que quita tus cosas de en medio.",
+      "back": "My father's on his way so move your stuff out of the way.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Mi madre está de camino, así que quita tus cosas de en medio.",
+      "back": "My mother's on her way so move your stuff out of the way.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Están de camino, así que quita tus cosas de en medio.",
+      "back": "They're on their way so move your stuff out of the way.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Mueve el sofá hasta allí.",
+      "back": "Move the couch over there.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "No muevas el sofá hasta allí. ¡Muévelo por aquí!",
+      "back": "Don't move the settee over there, move it over here!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No muevas el sofá hasta aquí. ¡Muévelo hasta allí!",
+      "back": "Don't move the sofa over here, move it over there!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Mueve la mesa hasta allí, cerca de la ventana.",
+      "back": "Move the table over there, near the window.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Mueve el sofá hasta aquí, cerca de tus cosas.",
+      "back": "Move the sofa over here, near your stuff.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No muevas tus cosas hasta allí, muévelas hasta aquí, cerca del escritorio.",
+      "back": "Don't move your stuff over there, move it over here, near the desk.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Mueve el cuadro un poco hacia la derecha.",
+      "back": "Move the painting a bit to the right.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Mueve el cuadro un poco más hacia la derecha.",
+      "back": "Move the painting a bit more to the right.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Mueve el cuadro un poquito más hacia la derecha.",
+      "back": "Move the painting a wee bit more to the right.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Quítate de en medio! ¡Mis padres vienen con la butaca!",
+      "back": "Move out of the way! My parents are coming through with the armchair!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Quítate de en medio! ¡Mi madre viene con el sillón!",
+      "back": "Move out of the way! My mother is coming through with the easy chair!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Quítate de en medio! ¡Mi padre viene con el sofá cama!",
+      "back": "Move out of the way! My father is coming through with the sofa bed!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Los científicos están moviéndose de un lado para otro por los preparativos de última hora.",
+      "back": "The scientists are moving back and forth for some last minute preparations.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Todavía están los científicos moviéndose de un lado para otro?",
+      "back": "Are the scientists still moving back and forth?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Los científicos ya no están moviéndose de un lado para otro; están a punto de lanzar el trasbordador espacial.",
+      "back": "The scientists aren't moving back and forth any more; they're about to launch the space shuttle.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Ahora el trasbordador espacial está yendo hacia el espacio exterior.",
+      "back": "The space shuttle is now moving toward outer space.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Está el trasbordador espacial yendo hacia el sol?",
+      "back": "Is the space shuttle moving toward the sun?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "El trasbordador espacial está yendo hacia Marte.",
+      "back": "The space shuttle is moving toward Mars.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "El trasbordador espacial está acercándose a Marte.",
+      "back": "The space shuttle is moving closer to Mars.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Está el trasbordador espacial acercándose o alejándose de la Tierra?",
+      "back": "Is the space shuttle moving closer or further away from Earth?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "El trasbordador espacial está alejándose de la Tierra.",
+      "back": "The space shuttle is moving further away from Earth.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Estamos avanzando o reculando?",
+      "back": "Are we moving forward or backward?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "No noto si estamos avanzando o reculando.",
+      "back": "I can't tell whether we are moving forward or backward.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Creo que estamos avanzando.",
+      "back": "I think we are moving forward.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Por qué están todos los científicos moviéndose de un lado para otro en el lugar del lanzamiento?",
+      "back": "Why are all the scientists moving about on the launch site?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Todos los científicos están moviéndose de un lado para otro en el lugar del lanzamiento porque lo están celebrando.",
+      "back": "All the scientists are moving about on the launch site because they are celebrating.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Están todos los científicos moviéndose de un lado para otro en el trasbordador espacial también?",
+      "back": "Are all the scientists moving about in the space shuttle as well?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Mira lo rápido que se mueve el erizo!",
+      "back": "Look how fast the hedgehog is moving!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "No tenía ni idea de que los erizos se pudieran mover tan rápido.",
+      "back": "I had no idea that hedgehogs could move so fast.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Mira lo rápido que pasa el tren de alta velocidad!",
+      "back": "Look how fast the high speed train is moving past!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Sabes por qué se mueven lentamente los perezosos?",
+      "back": "Do you know why sloths move slowly?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "No tengo ni idea de por qué se mueven lentamente los perezosos.",
+      "back": "I have no idea why sloths move slowly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¡Los perezosos se mueven lentamente para que no se les vea!",
+      "back": "Sloths move slowly so no one can see them!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Está muerto el pájaro? No, se está moviendo un poquito.",
+      "back": "Is the bird dead? No, it's moving slightly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Está muerto el erizo? No, se está moviendo un poquito.",
+      "back": "Is the hedgehog dead? No, it's moving slightly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Mira, se está moviendo un poco. Vamos a llevarlo al veterinario.",
+      "back": "Look, it's moving slightly. Let's take it to the vet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "El erizo apenas se mueve. ¿Estás seguro de que está vivo?",
+      "back": "The hedgehog is barely moving. Are you sure it's alive?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Ese pájaro apenas se mueve! ¿Estás seguro de que está vivo?",
+      "back": "That bird is barely moving! Are you sure it's alive?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Este perezoso apenas se mueve, llevémoslo al veterinario.",
+      "back": "This sloth is barely moving, let's take it to the vet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¡El pobre apenas se mueve! Movámoslo a un lugar más seguro.",
+      "back": "The poor thing is hardly moving at all. Let's move it to a safer place.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¡El pobre erizo apenas se mueve! Movámoslo a un lugar seguro.",
+      "back": "The poor hedgehog is hardly moving at all! Let's move him to a safe place.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¡Ese pobre pájaro apenas se mueve! Llevémoslo al veterinario.",
+      "back": "That poor bird is hardly moving at all! Let's take it to the vet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Hazle sitio para que él quepa en el banco.",
+      "back": "Move up so he can fit on the bench.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Puedes hacerle sitio para que quepa?",
+      "back": "Can you move up so he can fit?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Dile a ella que le haga sitio para que quepa en el banco.",
+      "back": "Tell her to move up so he can fit on the bench.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Échate a un lado para que yo pueda subir al autobús.",
+      "back": "Move over so I can get on the bus.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Dile a ella que se eche a un lado para que yo pueda subir al autobús.",
+      "back": "Tell her to move over so I can get on the bus.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Si no te echas a un lado, tendré que bajar del autobús.",
+      "back": "If you don't move over, I'll have to get off the bus.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Avancen para que pueda pasar el tráfico.",
+      "back": "Move along so the traffic can pass.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "¡El policía nos está diciendo que avancemos!",
+      "back": "The policeman is telling us to move along!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Si no avanzas, te va a atropellar un coche.",
+      "back": "If you don't move along, you'll get hit by a car.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Podrías hacernos sitio para que podamos caber todos en el ascensor?",
+      "back": "Could you make room so we can all fit in the lift?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Si nos haces sitio, cabremos todos en el ascensor.",
+      "back": "If you make some room, we'll all fit in the lift.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Cojo el próximo ascensor porque no nos están dejando nada de espacio.",
+      "back": "I'll take the next lift because they're not making any room.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Puedes hacernos sitio para que quepamos todos en el banco?",
+      "back": "Can you move up so we can all fit on the bench?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Podrías decirle a ella que avance para que yo pueda pasar?",
+      "back": "Could you tell her to move along so I can pass?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Si ella no me deja sitio, voy a decirle a la policía que le diga que se eche a un lado para que yo pueda subir al autobús.",
+      "back": "If she doesn't make any room, I'm going to tell the police to tell her to move over so I can get on the bus.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¡Me estás agobiando! Échate un poco a un lado, colega.",
+      "back": "You're almost on top of me! Budge up a bit, mate.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Échate a un lado! ¡Estás muy pegado a mí!",
+      "back": "Budge up! You're nearly on top of me!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Me estás agobiando! Échate a un lado, ¿quieres?",
+      "back": "You're practically on top of me! Budge up, will you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Muévete a un lado! De lo contrario, tendré que sentarme en tu regazo.",
+      "back": "Budge along! Otherwise I'll have to sit on your lap.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Apártate un poco, colega! De lo contrario, ella se va a sentar en tu regazo.",
+      "back": "Budge along a bit mate! Otherwise she's going to sit on your lap.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Échate a un lado! De lo contrario, tendré que sentarme en su regazo de él.",
+      "back": "Budge along! Otherwise, I'll have to sit on his lap.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Dile a él que se mueva; ¡no me hace caso!",
+      "back": "Tell him to budge over; he won't listen to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Por qué no me escucha ella? ¿Le puedes decir que se eche a un lado?",
+      "back": "Why won't she listen to me? Can you tell her to budge over?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Diles que se echen a un lado, ¿quieres? No me hacen caso.",
+      "back": "Tell them to budge over, will you? They won't listen to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Estoy intentando abrir este maldito cajón pero no se mueve ni una pizca.",
+      "back": "I'm trying to open this damn drawer but it won't budge.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Estoy intentando abrir esta maldita puerta pero no se mueve ni una pizca.",
+      "back": "I'm trying to open this damn door but it won't budge.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Estoy intentando abrir esta maldita botella de vino pero el corcho no se mueve ni una pizca.",
+      "back": "I'm trying to open this damn wine bottle but the cork won't budge.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Quieren que trabaje más horas, pero no pienso hacerlo.",
+      "back": "They're trying to make me work more hours, but I won't budge.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Quieren que trabaje los sábados, pero no pienso hacerlo.",
+      "back": "They're trying to make me work on Saturdays but I won't budge.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Quieren que me mude a Londres, pero no pienso hacerlo.",
+      "back": "They're trying to make me move to London but I won't budge.",
+      "sourcePage": 13
+    }
+  ]
+}

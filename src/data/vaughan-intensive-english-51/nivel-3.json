@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-51",
+  "bookTitle": "Libro 51",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Ahora voy a continuar con mi próximo punto, porque pienso que es bastante pertinente en la charla que nos ocupa.",
+      "back": "I'm now going to move on to my next point, as I think it's quite pertinent to the discussion at hand.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Sigamos, porque todavía nos queda mucho material que repasar.",
+      "back": "Let's move on, as we still have a lot of material to cover.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Pienso que realmente deberíamos pasar al próximo tema, porque se nos está acabando el tiempo.",
+      "back": "I really think we should move on to the next topic as we're running out of time.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Después de pasar por una pelea fea e innecesariamente prolongada con su jefe, finalmente pudo hacer borrón y cuenta nueva.",
+      "back": "After going through a dragged-out, nasty fight with his boss, he was finally able to move on.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Después de pasar por aquellas negociaciones dolorosas e innecesariamente prolongadas, finalmente pudo hacer borrón y cuenta nueva.",
+      "back": "After going through those dragged-out, painful negotiations, he was finally able to move on.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "No habría podido hacer borrón y cuenta nueva si no hubiera pasado por este tipo de experiencia innecesariamente prolongada y cargada de emoción en el pasado.",
+      "back": "He wouldn't have been able to move on if he hadn't been through that kind of dragged-out, emotionally charged experience in the past.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Su ingenio y creatividad le posibilitaron ascender rápido en el mundo de la publicidad.",
+      "back": "His wit and creativeness enabled him to quickly move up in the world of advertising.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Su encanto y buen aspecto le posibilitaron ascender rápido en el mundo de la moda.",
+      "back": "His charm and good looks enabled him to quickly move up in the world of fashion.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Su trabajo duro y diligencia le posibilitaron ascender rápido en el mundo editorial.",
+      "back": "His hard work and diligence enabled him to quickly move up in the world of publishing.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Phil no habría avanzado con su agenda si antes no hubiera aprendido de sus errores previos.",
+      "back": "Phil wouldn't have moved ahead with his agenda if he hadn't learned from his previous mistakes first.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "El político habría avanzado con su agenda incluso si sus asesores le hubieran dicho que no.",
+      "back": "The politician would have moved ahead with his agenda even if his advisors had told him not to.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Si hubiera pensado un poco más sobre las consecuencias, no habría avanzado con su plan.",
+      "back": "If he had thought a little bit harder about the consequences, he wouldn't have moved ahead with his plan.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "De un salto rápido, el guepardo se acercó a su presa.",
+      "back": "With a quick pounce the cheetah moved in on its prey.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "En un contraataque ingenioso, las tropas se acercaron al enemigo.",
+      "back": "In an ingenious counter-move, the troops moved in on the enemy.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Con una acción ingeniosa que salvó el negocio, la empresa de Phil jugó duro con sus competidores.",
+      "back": "In an ingenious business-saving move, Phil's company moved in on its competitors.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Los activistas de Bluepeace planificaron dar un paso para ocupar la plataforma petrolífera mar adentro.",
+      "back": "The Bluepeace activists planned to make a move to occupy the offshore oil platform.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Dieron el paso de ocupar la plataforma petrolífera mar adentro por la noche.",
+      "back": "They made their move to take over the offshore oil platform at night.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "La compañía de petróleo no había esperado que los activistas dieran el primer paso.",
+      "back": "The oil company hadn't expected the activists to make the first move.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "La compañía de petróleo ha cerrado las calles que van hacia la costa. ¿Cuál es nuestro próximo paso?",
+      "back": "The oil company has cut off the streets leading to the shore. What's our next move?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Los activistas han cortado la electricidad que corre hacia nuestra sede central. ¿Cuál es nuestro próximo paso?",
+      "back": "The activists have cut off the electricity running to our HQ. What's our next move?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "La compañía ha cerrado la carretera que va hacia el puerto. ¿Cuál es nuestro próximo paso?",
+      "back": "The company has cut off the road leading to the port. What's our next move?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Las autoridades locales tomaron medidas inmediatas para evitar un posible derrame de petróleo.",
+      "back": "The local authorities moved quickly to avoid a possible oil spill.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Las autoridades públicas de sanidad no tomaron medidas lo suficientemente inmediatas para respaldar a los activistas.",
+      "back": "Public health authorities didn't move quickly enough to back up the activists.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Si hubiera habido un derrame de petróleo, las autoridades habrían tomado medidas inmediatas para respaldar a los activistas.",
+      "back": "If there had been an oil spill, the authorities would have moved quickly to back up the activists.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Parece que las cosas marchan rápidamente en el puerto mientras que los activistas y los lugareños unen fuerzas para no dejar pasar a las compañías de petróleo.",
+      "back": "Things seem to be moving rapidly at the port as activists and locals join forces to keep the oil companies away.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Los acontecimientos se desarrollaron rápidamente cuando los activistas y los lugareños unieron fuerzas.",
+      "back": "Events moved rapidly when activists and locals joined forces.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Las cosas se desarrollaron rápidamente una vez que los lugareños participaron en la manifestación de los activistas.",
+      "back": "Things moved rapidly once the locals got involved in the activists' protest.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Mientras el lobby del petróleo presiona al gobierno para que les respalde, la disputa entra en una nueva fase.",
+      "back": "As the oil lobby pushes the government to back them up, the dispute moves into a new phase.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "La manifestación entrará en una nueva fase si las autoridades no respaldan a los activistas.",
+      "back": "The protest will move into a new phase if the authorities don't back the activists up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "La disputa entró en una nueva fase cuando el gobierno se negó a dejarse coaccionar para respaldar al grupo de presión medioambiental.",
+      "back": "The dispute moved into a new phase when the government refused to be pushed into backing up the environmental lobby.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Aunque vivía lejos de su madre, removió cielo y tierra para llegar a la fiesta de su 80 cumpleaños.",
+      "back": "Even though he lived far away from his mother, he moved heaven and earth to make it to her 80th birthday party.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Aunque la fecha de entrega se aproximaba rápidamente, removió cielo y tierra para terminar el proyecto a tiempo.",
+      "back": "Even though the deadline was quickly approaching, he moved heaven and earth to finish the project on time.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Aunque él ya estaba condenado, ella removió cielo y tierra para demostrar su inocencia.",
+      "back": "Even though he was already convicted, she moved heaven and earth to prove his innocence.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Si crees en ti mismo, puedes hacer cualquier cosa realidad. La fe puede mover montañas.",
+      "back": "If you believe in yourself, you can make anything happen. Faith can move mountains.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "El equipo con menos posibilidades sabía que sería difícil ganar el partido, pero al final lo hizo realidad. El trabajo duro puede mover montañas.",
+      "back": "The underdogs knew it would be difficult to win the match, but in the end they made it happen. Hard work can move mountains.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Ella movió montañas para demostrar la inocencia de él.",
+      "back": "She moved mountains to prove his innocence.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Los profesores mayores eran reacios a enseñar el nuevo currículo, pero tenían que avanzar con los tiempos.",
+      "back": "The older teachers were reluctant to teach the new curriculum but they had to move with the times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "El escritor mayor se resistía a transferir su manuscrito al ordenador, pero tenía que avanzar con los tiempos.",
+      "back": "The older writer was reluctant to transfer his manuscript to the computer, but he had to move with the times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "El político mayor se resistía a hacer campaña a través de las redes sociales, pero tenía que avanzar con los tiempos.",
+      "back": "The older politician was reluctant to campaign via social networks, but he had to move with the times.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Cuando el ladrón vio que venía la policía, no se movió ni un pelo.",
+      "back": "When the thief saw that the police were coming, he didn't move a muscle.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Cuando la gacela sintió que el guepardo estaba cerca, no se movió ni un pelo.",
+      "back": "When the gazelle sensed that the cheetah was nearby, it didn't move a muscle.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Cuando vio la enorme jeringa estaba tan aterrorizado que no se movió ni un pelo.",
+      "back": "When he saw the huge syringe he was so terrified that he didn't move a muscle.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Cuando el guepardo vio que la gacela no estaba prestando atención, se abalanzó sobre ella.",
+      "back": "When the cheetah sensed that the gazelle wasn't paying attention, it moved in for the kill.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Cuando se dieron cuenta de la debilidad del otro equipo, se abalanzaron sobre él y marcaron otro gol.",
+      "back": "When they figured out the other team's weakness, they moved in for the kill and scored another goal.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Cuando hicieron ojitos, el atractivo joven decidió ir a saco a por ella.",
+      "back": "When they made eye contact, the handsome young man decided to move in for the kill.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Sabes lo que desató el movimiento por los derechos civiles en EE. UU.?",
+      "back": "Do you know what sparked the Civil Rights Movement in the US?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "No sé lo que desató el movimiento por los derechos civiles en EE. UU.",
+      "back": "I don't know what sparked the Civil Rights Movement in the US.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Una mujer negra que se negó a ceder su asiento a un pasajero blanco desató el movimiento americano por los derechos civiles.",
+      "back": "A black woman who refused to give up her seat to a white passenger sparked the American Civil Rights Movement.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Hacia el final del primer movimiento hay un crescendo que lleva a un clímax gigantesco.",
+      "back": "Towards the end of the first movement, there is a crescendo that leads up to a huge climax.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "El segundo movimiento del concierto de piano es un pequeño anticlímax después del primer movimiento.",
+      "back": "The second movement of the piano concerto is a bit of an anti-climax after the first movement.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "El movimiento final del concierto de cuerno asciende gradualmente hasta un crescendo enorme.",
+      "back": "The final movement of the horn concerto builds up into a huge crescendo.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Vamos a explorar los géneros, temas y autores de los movimientos literarios del siglo dieciocho.",
+      "back": "We're going to explore the genres, themes and authors of the literary movements of the 18th century.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Primero, vamos a explorar los temas y autores del movimiento romántico.",
+      "back": "First, we are going to explore the themes and authors of the romantic movement.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Luego, vamos a explorar los temas y autores del movimiento realista.",
+      "back": "Then, we are going to explore the themes and authors of the realist movement.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Ahora, continuemos con los movimientos de arte del siglo diecinueve.",
+      "back": "Now, let's move on to the art movements of the 19th century.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Me puedes decir algunos movimientos de arte así a bote pronto?",
+      "back": "Can you tell me some art movements off the top of your head?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "El único movimiento de arte que se me ocurre a bote pronto es el movimiento impresionista.",
+      "back": "The only art movement I can think of off the top of my head is the Impressionist Movement.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Una vez que tus deposiciones se hagan regulares, puedes parar de tomar las pastillas.",
+      "back": "Once your bowel movements become regular, you can stop taking the pills.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "He hecho un par de deposiciones hoy.",
+      "back": "I've had a couple of bowel movements today.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "No quiero saber nada de tus deposiciones, ¡muchas gracias!",
+      "back": "I don't want to know about your bowel movements, thank you very much!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "El otro día vi una película muy conmovedora sobre una pareja desgarrada por la Guerra Civil.",
+      "back": "The other day I saw a very moving film about a couple torn apart by the Civil War.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Era una historia de amor muy conmovedora con un telón de fondo histórico fascinante.",
+      "back": "It was an extremely moving love story with a fascinating historical backdrop.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Fue increíblemente conmovedora, aunque sutil.",
+      "back": "It was incredibly moving, yet understated.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "No pensé que fuera una película muy conmovedora. La trama era tan lenta que me quedé dormido a la mitad.",
+      "back": "I didn't think it was a very moving film. The plot was so slow-moving I fell asleep halfway through.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "El crítico calificó la película como una pérdida de tiempo, pomposa y lenta.",
+      "back": "The critic called the film a turgid and slow-moving waste of time.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "La trama del libro era lenta, pero la prosa lo compensó con creces.",
+      "back": "The book's plot was slow-moving, but the prose more than made up for it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "La tecnología es un campo que cambia muy rápidamente, así que es difícil mantenerse al corriente de todos los aparatos nuevos.",
+      "back": "Technology is an incredibly fast-moving field, so it's difficult to keep track of all the new gadgets.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "La película estaba llena de acción y se desarrolló rápidamente.",
+      "back": "The film was action-packed and fast-moving.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "La película era cualquier cosa menos rápida, pero la sensacional cinematografía lo compensó.",
+      "back": "The film was anything but fast-moving, but the stunning cinematography made up for it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "En mi antiguo trabajo solía estar todo el tiempo de aquí para allá así que ahora estoy contento de aflojar un poco el ritmo.",
+      "back": "In my old job I used to be on the move all the time so now I'm happy to slow down a bit.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Ella está siempre de aquí para allá, así que es difícil mantenerse al corriente de lo que hace.",
+      "back": "She's always on the move so it's difficult to keep track of what she's up to.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Estoy siempre de aquí para allá, pero las vacaciones largas lo compensan.",
+      "back": "I'm always on the move, but my long holidays make up for it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "¿Tu abuela puede moverse de nuevo después de su caída?",
+      "back": "Is your grandmother mobile again after her fall?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Se puede mover por completo, pero la caída la ha ralentizado un poco.",
+      "back": "She's fully mobile, but the fall has slowed her down a bit.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Ahora tiene que moverse con más cuidado y lleva una alarma portátil alrededor del cuello.",
+      "back": "She has to move more carefully now and wears a portable alarm around her neck.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Más vale que te quedes quieto! ¡Si la aguja de tatuaje se desliza te arrepentirás durante el resto de tu vida!",
+      "back": "You'd better be still! If the tattoo needle slips you'll regret it for the rest of your life!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¡Más vale que te quedes quieto de pie o el sargento instructor te echará una bronca de las fuertes!",
+      "back": "You'd better stand still or the drill sergeant will give you a real dressing-down!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Más vale que te quedes quieta, si no quizás nos escuchen!",
+      "back": "You'd better stay still, otherwise they might hear us!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "El ruido del primer disparo le dejó completamente inmóvil.",
+      "back": "The sound of the first gunshot rendered him completely immobile.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Justo antes de abalanzarse sobre su presa, el león se queda completamente inmóvil.",
+      "back": "Just prior to pouncing on its prey, the lion remains completely immobile.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Después del accidente su cuñada se quedó inmovilizada por completo.",
+      "back": "After the accident, his sister-in-law was rendered completely immobile.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "John se quedó sin moverse con actitud desafiante mientras su encargado le echó una buena bronca.",
+      "back": "John remained defiantly motionless while his line manager gave him a real dressing-down.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Después de escuchar la noticia, Alice dejó el teléfono y se quedó totalmente sin moverse durante un buen rato.",
+      "back": "After hearing the news, Alice put down the phone and remained completely motionless for a good while.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Se quedó sin moverse en su escondite hasta que no hubo moros en la costa.",
+      "back": "He remained motionless in his hiding place until the coast was clear.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "El agua en este lago ya no fluye a un río y, por eso, se ha vuelto estancada.",
+      "back": "The water in this lake no longer flows into a river and has therefore become stagnant.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "El crecimiento de esta empresa ya lleva demasiado tiempo estancado. Tenemos que arreglar las cosas, rápidamente.",
+      "back": "This company's growth has been stagnant for far too long now. We need to turn things around, quickly.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "El mercado de los derivados se ha vuelto estancado durante los últimos meses.",
+      "back": "The derivatives market has become stagnant over the last few months.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Estamos pagando una hipoteca con tasa fija.",
+      "back": "We're paying a fixed-rate mortgage.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Aunque ese tío solo esté trabajando con un contrato a plazo fijo, tiene los mismos derechos que cualquier otro empleado.",
+      "back": "Although that guy's only working on a fixed-term contract, he has the same rights as any other employee.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Su mirada quedó fija en el plato durante un buen rato; ¿podría atreverse a comer la última gamba?",
+      "back": "His gaze remained fixed on the plate for some time; could he bring himself to eat the last prawn?",
+      "sourcePage": 41
+    }
+  ]
+}
