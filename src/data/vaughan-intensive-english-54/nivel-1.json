@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-54",
+  "bookTitle": "Libro 54",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Yo me siento al lado de Lucía en el trabajo.",
+      "back": "I sit next to Lucía at work.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Ellos se sientan al lado de la ventana.",
+      "back": "They sit next to the window.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Nosotros nos sentamos al lado de la fotocopiadora.",
+      "back": "We sit next to the photocopier.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Tom se sienta detrás de Eva en el cole.",
+      "back": "Tom sits behind Eva at school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Amy se sienta detrás de él.",
+      "back": "Amy sits behind him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Mike se sienta detrás de ella y al lado de Sarah.",
+      "back": "Mike sits behind her and next to Sarah.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "El profesor se pasa el día sentado delante de la clase.",
+      "back": "The teacher just sits in front of the class all day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Él se pasa el día sentado delante de la tele.",
+      "back": "He just sits in front of the TV all day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Nuestro gato se pasa el día sentado delante de la ventana.",
+      "back": "Our cat just sits in front of the window all day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Normalmente me siento mirando hacia Max a la hora de comer.",
+      "back": "I usually sit facing Max at lunch.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Él siempre se sienta de cara a la puerta.",
+      "back": "He always sits facing the door.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "A veces Sue se sienta a mi lado, de cara a la ventana.",
+      "back": "Sue sometimes sits beside me, facing the window.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "No quiero sentarme cerca de la ventana.",
+      "back": "I don't want to sit near the window.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Ella no quiere sentarse cerca de la fotocopiadora.",
+      "back": "She doesn't want to sit near the photocopier.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Ellos no quieren sentarse cerca de la puerta ni al lado de la impresora.",
+      "back": "They don't want to sit near the door or beside the printer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Suelo tener que estar de pie en el metro de camino al trabajo.",
+      "back": "I usually have to stand on the metro on the way to work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Sueles tener que estar de pie en el metro de camino al trabajo?",
+      "back": "Do you usually have to stand on the metro on the way to work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "No, nunca tengo que estar de pie en el metro de camino al trabajo.",
+      "back": "No, I never have to stand on the metro on the way to work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No quiero estar de pie en el trabajo todo el día.",
+      "back": "I don't want to stand all day at work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tampoco quiero estar de pie en el tren.",
+      "back": "I don't want to stand on the train either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Por qué no quieres estar de pie en el trabajo todo el día?",
+      "back": "Why don't you want to stand all day at work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¡No te pongas tan cerca de mí!",
+      "back": "Don't stand so close to me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¡No te pongas tan cerca del bordillo!",
+      "back": "Don't stand so close to the curb!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¡No te pongas tan cerca del fuego!",
+      "back": "Don't stand so close to the fire!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Pongámonos aquí, al lado de los altavoces.",
+      "back": "Let's stand here, beside the speakers.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Pongámonos ahí, delante del escenario.",
+      "back": "Let's stand there, in front of the stage.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Pongámonos allí, cerca del bar.",
+      "back": "Let's stand over there, near the bar.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Él siempre me pisa los dedos del pie cuando bailamos juntos.",
+      "back": "He always stands on my toes when we dance together.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Ella siempre se sube a una silla para cambiar la bombilla.",
+      "back": "She always stands on a chair to change the light bulb.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella siempre me pisa los dedos de los pies cuando estamos en un ascensor abarrotado de gente.",
+      "back": "She always stands on my toes when we're in a crowded lift.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Por favor, sentaos todos.",
+      "back": "Please, sit down everyone.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Por favor, sentaos en silencio.",
+      "back": "Please, sit down quietly.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Jack, siéntate al lado de Sarah, por favor.",
+      "back": "Jack, sit down next to Sarah, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Jack! Incorpórate y escucha, por favor.",
+      "back": "Jack! Sit up and listen, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡Sarah! Incorpórate, por favor.",
+      "back": "Sarah! Sit up straight, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Jack y Sarah! Incorporaos y cruzad los brazos, por favor.",
+      "back": "Jack and Sarah! Sit up straight and fold your arms, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "La maestra quiere que los niños se queden quietos en sus asientos.",
+      "back": "The teacher wants the children to sit still.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "La maestra quiere que los niños se queden quietos en sus asientos y que escuchen.",
+      "back": "The teacher wants the children to sit still and listen.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "La maestra quiere que los niños se queden quietos en sus asientos y que presten atención.",
+      "back": "The teacher wants the children to sit quietly and pay attention.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Por favor, podéis poneros todos de pie?",
+      "back": "Can everyone please stand up?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Por favor, podéis poneros todos de pie en silencio?",
+      "back": "Can everyone please stand up quietly?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "¿Por favor, podéis poneros todos de pie rápido y en silencio?",
+      "back": "Can everyone stand up quickly and quietly please?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "La maestra quiere que un niño se ponga al lado de la pizarra.",
+      "back": "The teacher wants one child to stand next to the blackboard.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "La maestra quiere que otro niño se ponga cerca de la puerta.",
+      "back": "The teacher wants another child to stand near the door.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Y quiere que un tercer niño se ponga delante de la ventana.",
+      "back": "And she wants a third child to stand in front of the window.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Estoy sentado en una silla.",
+      "back": "I'm sitting on a chair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "No estoy sentado en una silla giratoria.",
+      "back": "I'm not sitting on a swivel chair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Estás sentado en un sillón o en una tumbona?",
+      "back": "Are you sitting in an armchair or a deck chair?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Él está sentado en el sofá, viendo la tele.",
+      "back": "He's sitting on the couch, watching TV.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Ellos están sentados en el sofá, viendo las noticias.",
+      "back": "They're sitting on the sofa, watching the news.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Estamos sentados en el sofá, viendo una película.",
+      "back": "We're sitting on the settee, watching a film.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Mi hija está sentada en el suelo y mi hijo está sentado en el suelo también.",
+      "back": "My daughter's sitting on the floor and my son's sitting on the floor too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Mi sobrina está sentada en el banco jugando y mi sobrino está sentado en el banco jugando también.",
+      "back": "My niece is sitting on the bench playing and my nephew's sitting on the bench playing too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Mi hijo está sentado en el suelo cerca de la ventana y mi sobrina y sobrino están sentados en el suelo cerca de la ventana también.",
+      "back": "My son's sitting on the floor near the window and my niece and nephew are sitting on the floor near the window too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "No me gusta sentarme en el suelo. A ella no le gusta sentarse en el suelo tampoco.",
+      "back": "I don't like sitting on the floor. She doesn't like sitting on the floor either.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "No me gusta sentarme en el suelo fuera. A ellos no les gusta sentarse en el suelo fuera tampoco.",
+      "back": "I don't like sitting on the ground. They don't like sitting on the ground either.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "A ella no le gusta sentarse en la hierba. A mí no me gusta sentarme en la hierba tampoco.",
+      "back": "She doesn't like sitting on the grass. I don't like sitting on the grass either.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "No me gusta sentarme en este taburete, me gusta sentarme en esa silla.",
+      "back": "I don't like sitting on this stool, I like sitting on that chair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "A ella no le gusta sentarse en la mecedora, le gusta sentarse en el sillón reclinable.",
+      "back": "She doesn't like sitting on the rocking chair, she likes sitting on the easy chair.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "A mi sobrina no le gusta sentarse al lado de la puerta, le gusta sentarse al lado de la ventana.",
+      "back": "My niece doesn't like sitting next to the door, she likes sitting next to the window.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Mark está de pie junto a la ventana.",
+      "back": "Mark's standing at the window.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Jane está de pie cerca de la puerta.",
+      "back": "Jane's standing near the door.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Ed está de pie delante de la tienda.",
+      "back": "Ed's standing in front of the shop.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Él está de pie en la parada del autobús, leyendo un libro.",
+      "back": "He's standing at the bus stop, reading a book.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Estoy de pie frente a la puerta, buscándote.",
+      "back": "I'm standing facing the door, looking for you.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Estamos de pie en la barra, esperando para pedir.",
+      "back": "We're standing at the bar, waiting to order.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Estoy de pie fuera.",
+      "back": "I'm standing outside.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Ella está de pie fuera del restaurante.",
+      "back": "She's standing outside the restaurant.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Estoy de pie fuera del restaurante, esperando un taxi.",
+      "back": "I'm standing outside the restaurant, waiting for a taxi.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Es tu hermana la que está ahí de pie junto a la oficina de correos?",
+      "back": "Is that your sister standing over there by the post office?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "No, mi hermana no es la que está ahí de pie junto a la oficina de correos.",
+      "back": "No, that's not my sister, standing over there by the post office.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Mi hermana es la que está ahí de pie junto al cine.",
+      "back": "My sister is the one standing over there by the cinema.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿No es ese tu padre, el que está de pie junto a la parada del autobús? No, no es él.",
+      "back": "Isn't that your dad, standing next to the bus stop? No, that's not him standing next to the bus stop.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿No es ese tu hermano, el que está de pie delante del cine? No, no es él.",
+      "back": "Isn't that your brother standing in front of the cinema? No, that's not him standing in front of the cinema.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿No es ese tu novio, el que está de pie junto a esa chica de ahí? No, no es él.",
+      "back": "Isn't that your boyfriend standing next to that girl over there? No, that's not him standing next to that girl over there.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "No aguanto a mi jefe.",
+      "back": "I can't stand my boss.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "No aguanto a mi vecino.",
+      "back": "I can't stand my neighbour.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "No aguanto al novio de mi hermana.",
+      "back": "I can't stand my sister's boyfriend.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¡Odio el queso!",
+      "back": "I can't stand cheese!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Odio ese programa!",
+      "back": "I can't stand that programme!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Odio ese color!",
+      "back": "I can't stand that colour!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Odio limpiar.",
+      "back": "I can't stand cleaning.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Odio cocinar.",
+      "back": "I can't stand cooking.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Odio lavar los platos.",
+      "back": "I can't stand washing up.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Mi marido no soporta a nuestro vecino. Yo no le soporto tampoco.",
+      "back": "My husband can't stand our neighbour. I can't stand him either.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Mi amigo no soporta a la novia de su hermano. Sus padres tampoco la soportan.",
+      "back": "My friend can't stand his brother's girlfriend. His parents can't stand her either.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Mi madre odia ese programa. Mi padre también lo odia.",
+      "back": "My mum can't stand that programme. My dad can't stand it either.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "A mi colega le cae bien nuestro jefe, ¡pero yo no le aguanto!",
+      "back": "My colleague likes our boss, but I can't stand him!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "A mi mujer le gusta ese programa, ¡pero yo lo odio!",
+      "back": "My wife likes that programme, but I can't stand it!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "A mí me gusta cocinar, ¡pero a mi hermana no le gusta nada!",
+      "back": "I like cooking, but my sister can't stand it!",
+      "sourcePage": 13
+    }
+  ]
+}
