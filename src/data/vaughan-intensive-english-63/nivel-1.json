@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-63",
+  "bookTitle": "Libro 63",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Me voy a las cinco y media.",
+      "back": "I'm leaving at half past five.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "John se va a las seis y media.",
+      "back": "John's leaving at half six.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Se van a las siete y media.",
+      "back": "They're leaving at half seven.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Te vas?",
+      "back": "Are you leaving?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿A qué hora te vas?",
+      "back": "What time are you leaving?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿A qué hora nos vamos?",
+      "back": "What time are we leaving?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿A qué hora se suelen ir?",
+      "back": "What time do they usually leave?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿A qué hora te sueles ir?",
+      "back": "What time do you usually leave?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿A qué hora se suele ir Alex? Se suele ir a las ocho y media.",
+      "back": "What time does Alex usually leave? He usually leaves at half eight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Por qué siempre te vas tan tarde?",
+      "back": "Why do you always leave so late?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Por qué siempre ella se va tan tarde?",
+      "back": "Why does she always leave so late?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Por qué siempre se van tan pronto?",
+      "back": "Why do they always leave so early?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "No me suelo ir tan tarde.",
+      "back": "I don't usually leave that late.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "John no se suele ir tan tarde.",
+      "back": "John doesn't usually leave that late.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Hoy nos vamos sobre las nueve y media, pero no nos solemos ir tan tarde.",
+      "back": "Today we're leaving at half nine but we don't usually leave that late.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Quiere usted dejar un mensaje?",
+      "back": "Would you like to leave a message?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Por favor, deje su mensaje después del tono.",
+      "back": "Please, leave a message after the tone.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Por favor, deja tu mensaje después de la señal.",
+      "back": "Please, leave a message after the beep.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Si no contesto, déjame un mensaje de voz.",
+      "back": "If I don't answer, leave me a voicemail.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Si ella no contesta, déjale un mensaje de voz.",
+      "back": "If she doesn't answer, leave her a voicemail.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Si él no contesta, déjale un mensaje de voz.",
+      "back": "If he doesn't answer, leave him a voicemail.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Si no estoy, deja una nota debajo de la puerta.",
+      "back": "If I'm not in, leave a note under the door.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Si no está él, deja una nota en su mesa de trabajo.",
+      "back": "If he's not in, leave a note on his desk.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Si no está ella, deja una nota a su secretaria.",
+      "back": "If she's not in, leave a note with her secretary.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Si el servicio es genial, deja una propina del 20 %.",
+      "back": "If the service is great, leave a 20% tip.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Si el servicio es regular, deja una propina del 10 %.",
+      "back": "If the service is average, leave a 10% tip.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Si el servicio es malo, ¡no dejes propina!",
+      "back": "If the service is bad, don't leave a tip!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "En EE. UU. es tradición dejar regalos bajo el árbol de Navidad en Nochebuena.",
+      "back": "In the United States, it's tradition to leave presents under the Christmas tree on Christmas Eve.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "También es tradición dejar un regalo en un calcetín navideño.",
+      "back": "It's also tradition to leave a present in a stocking.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "En una boda, ¡es de mala educación no dejar un regalo!",
+      "back": "At weddings, it's rude not to leave a present!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¡No te dejes los deberes en casa esta vez, Jon!",
+      "back": "Don't leave your homework at home this time, Jon!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Esta vez no te dejes la redacción en casa, Lucy!",
+      "back": "Don't leave your essay at home this time, Lucy!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡No te dejes el proyecto en casa esta vez, Jimmy!",
+      "back": "Don't leave your project at home this time, Jimmy!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Asegúrate de no dejarte las llaves en el coche otra vez!",
+      "back": "Make sure you don't leave your keys in the car again!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡Asegúrate de no dejarte el bolso en el maletero otra vez!",
+      "back": "Make sure you don't leave your bag in the trunk again!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Asegúrate de no dejarte la chaqueta en el guardarropa otra vez!",
+      "back": "Make sure you don't leave your jacket in the cloakroom again!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¡Ten cuidado de no dejarte la cartera en el autobús como la última vez!",
+      "back": "Be careful not to leave your wallet on the bus like last time!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¡Ten cuidado de no dejarte el monedero en la mesa como la última vez!",
+      "back": "Be careful not to leave your purse on the table like last time!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¡Ten cuidado de no dejarte el cambio en la barra como la última vez!",
+      "back": "Be careful not to leave your change on the bar like last time!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Puedes dejar la compra en casa de John esta tarde.",
+      "back": "You can leave your shopping at John's this afternoon.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Puedes dejar el abrigo en casa de Lucy; no le va a importar.",
+      "back": "You can leave your coat at Lucy's; she won't mind.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Puedes dejar la mochila en casa de Paula; no le va a importar.",
+      "back": "You can leave your rucksack at Paula's; she won't mind.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "No te dejes el horno encendido otra vez; ¡es peligroso!",
+      "back": "Don't leave the oven on again; it's dangerous!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "No te dejes la plancha encendida otra vez; ¡es peligroso!",
+      "back": "Don't leave the iron on again; it's dangerous!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "No te dejes las luces encendidas otra vez; ¡es peligroso!",
+      "back": "Don't leave the lights on again; it's dangerous!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "En Inglaterra, la mayoría de la gente se independiza a los veinte.",
+      "back": "In England, most people leave home in their twenties.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "En España, la mayoría de la gente se independiza a los treinta.",
+      "back": "In Spain, most people leave home in their thirties.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Alguna gente se independiza a los cuarenta.",
+      "back": "Some people leave home in their forties.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Mi Jonny termina la escuela el año que viene.",
+      "back": "My Jonny leaves school next year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Mi Suzie termina la escuela en dos años.",
+      "back": "My Suzie leaves school in two years.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Cuándo termina tu Jamie la escuela?",
+      "back": "When does your Jamie leave school?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Jonny va a terminar la universidad con el título de Biología.",
+      "back": "Jonny's going to leave university with a degree in biology.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Sally va a terminar la universidad con el título de Físicas.",
+      "back": "Sally's going to leave university with a degree in physics.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Jamie va a terminar la universidad con el título de Económicas.",
+      "back": "Jamie's going to leave university with a degree in economics.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Él quiere dejar la empresa y volver a la universidad.",
+      "back": "He wants to leave the company and go back to university.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella quiere dejar la empresa y viajar.",
+      "back": "She wants to leave the company and go travelling.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Él quiere dejar la empresa y ser artista.",
+      "back": "He wants to leave the company and become an artist.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Él quiere dejar el país por razones laborales.",
+      "back": "He wants to leave the country for work reasons.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Ella quiere dejar el país por razones familiares.",
+      "back": "She wants to leave the country for family reasons.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Ellos quieren dejar el país por razones fiscales.",
+      "back": "They want to leave the country for tax reasons.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Déjale en paz! Tiene trabajo que hacer.",
+      "back": "Leave him alone! He has work to do.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¡Déjanos en paz! ¡Tenemos mucho trabajo que hacer!",
+      "back": "Leave us alone! We have a lot of work to do.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¡Déjame en paz! Tengo mucho trabajo pendiente.",
+      "back": "Leave me alone! I have a lot of work to do.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Por favor, sal por la puerta principal.",
+      "back": "Please, leave through the front door.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Por favor, sal por la puerta lateral.",
+      "back": "Please, leave through the side door.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¡Márchate por la puerta trasera! ¡Ya!",
+      "back": "Leave through the back door! Now!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Por favor, sal por la escalera.",
+      "back": "Please, leave via the staircase.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Por favor, sal por la entrada principal.",
+      "back": "Please, leave via the main entrance.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Márchate por la salida trasera!",
+      "back": "Leave via the back exit!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "No te vayas sin despedirte.",
+      "back": "Don't leave without saying goodbye.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "No te vayas sin probar las fresas.",
+      "back": "Don't leave without trying the strawberries.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "No te vayas sin pagar por la bebida.",
+      "back": "Don't leave without paying for the drink.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "No olvides despedirte antes de irte.",
+      "back": "Don't forget to say goodbye before you leave.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No olvides probar las fresas antes de irte.",
+      "back": "Don't forget to try the strawberries before you leave.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "No olvides pagar la bebida antes de irte.",
+      "back": "Don't forget to pay for the drink before you leave.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Volveré en media hora, ¡no dejes la casa hecha un desastre!",
+      "back": "I'll be back in half an hour, don't leave a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Volveré en una hora, ¡no dejes la casa hecha un desastre!",
+      "back": "I'll be back in an hour, don't leave a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Volveré en un par de horas, ¡no dejes la casa hecha un desastre!",
+      "back": "I'll be back in a couple of hours, don't leave a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Volveré en media hora; ¡no dejes la cocina hecha un desastre!",
+      "back": "I'll be back in half an hour; don't leave the kitchen in a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Volveré en una hora y media; ¡no dejes el baño hecho un desastre!",
+      "back": "I'll be back in an hour and a half; don't leave the bathroom in a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Él volverá en dos horas y media; ¡no dejes el salón hecho un desastre!",
+      "back": "He'll be back in two and a half hours; don't leave the living room in a mess!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Ella volverá en media hora; asegúrate de que no dejas la cocina hecha un desastre.",
+      "back": "She'll be back in half an hour; make sure you don't leave the kitchen in a mess.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Ella volverá en un par de horas; asegúrate de que tus amigos no dejan el baño hecho un desastre.",
+      "back": "She'll be back in a couple of hours; make sure your friends don't leave the bathroom in a mess.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Volveré en tres horas y media; asegúrate de que tu amigo no deja el salón hecho un desastre.",
+      "back": "I'll be back in three and a half hours; make sure your friend doesn't leave the living room in a mess.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Si dejas la casa hecha un desastre, te cortaré la mensualidad.",
+      "back": "If you leave a mess, I'll stop your allowance.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Si ella deja la casa hecha un desastre, él le cortará la mensualidad.",
+      "back": "If she leaves a mess, he'll stop her allowance.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Si ella deja la casa hecha un desastre, él le cortará la paga.",
+      "back": "If she leaves a mess, he'll stop her pocket money.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Volveré en cuatro horas y media. ¡Ni se te ocurra dejar la cocina hecha un desastre!",
+      "back": "I'll be back in four and a half hours. Don't you dare leave a mess in the kitchen!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Él volverá en una hora y media. ¡Ni se te ocurra dejar el baño hecho un desastre!",
+      "back": "He'll be back in an hour and a half. Don't you dare leave a mess in the bathroom!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Ella volverá en media hora. ¡Ni se te ocurra dejar el salón hecho un desastre!",
+      "back": "She'll be back in half an hour. Don't you dare leave a mess in the living room!",
+      "sourcePage": 13
+    }
+  ]
+}

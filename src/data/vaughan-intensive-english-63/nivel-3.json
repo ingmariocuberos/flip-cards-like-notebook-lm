@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-63",
+  "bookTitle": "Libro 63",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Lo siento, señor; ¿no cree que ha bebido demasiado? Creo que ya es hora de irse.",
+      "back": "I'm sorry, sir; don't you think you've had enough? I think it's about time you left.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "¡Llevas trece horas encadenado a tu escritorio! Creo que ya es hora de irse.",
+      "back": "You've been chained to that desk for thirteen hours! I think it's about time you left.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Darren! Te estás cabreando un poco. Creo que es hora de que te vayas.",
+      "back": "Darren! You're getting a little wound up. I think it's about time you left.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Creo que ya es hora de que te cojas vacaciones. Llevas diez meses sin vacaciones.",
+      "back": "I think it's about time you took your leave. You haven't had a holiday in ten months!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Creo que es hora de que cojas tu baja por maternidad. ¡El bebé nace en dos semanas!",
+      "back": "I think it's about time you took your maternity leave. The baby's due in two weeks!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Creo que ya es hora de que cojas vacaciones. Estás muy desgastado.",
+      "back": "I think it's about time you took your leave. You're burnt out.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Les importaría dirigirse hacia la puerta de embarque, por favor?",
+      "back": "Would you mind making your way towards the departure gate, please?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "¿Les importaría dirigirse hacia la plaza? Estas calles han sido cortadas.",
+      "back": "Would you mind making your way towards the square? These roads have been blocked off.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Les importaría dirigirse hacia la otra salida, por favor? Esta está cerrada.",
+      "back": "Would you mind making your way towards the other exit, please? This one's closed.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "¿Quién demonios eres tú? ¡Lárgate de aquí o llamaré a la policía!",
+      "back": "Who the hell are you? Get out of here or I'll call the police!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Estoy harta de que me des problemas. ¡Lárgate de aquí!",
+      "back": "I'm sick of you giving me grief. Get out of here!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Esto es una gasolinera, no una biblioteca. ¡Deja de leer las revistas y lárgate de aquí!",
+      "back": "This is a petrol station, not a library. Stop reading the magazines and get out of here!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Lamentamos informarte de que vamos a tener que despedirte.",
+      "back": "We regret to inform you that we're going to have to let you go.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Estamos muy agradecidos por tus años de leal servicio, pero me temo que vamos a tener que despedirte.",
+      "back": "We're very grateful for your years of loyal service, but I'm afraid we're going to have to let you go.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Me temo que debido a circunstancias que escapan a nuestro control, vamos a tener que despedirte.",
+      "back": "I'm afraid that due to circumstances beyond our control, we're going to have to let you go.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Herlock y Dotson no querían dejar ningún rincón sin revisar mientras consideraban todos los posibles sospechosos del crimen.",
+      "back": "Herlock and Dotson didn't want to leave any stone unturned as they considered all possible suspects in the crime.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Se aseguraron de no dejar ningún rincón sin revisar mientras examinaban todas las pruebas.",
+      "back": "They made sure not to leave any stone unturned as they sorted through all the evidence.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Sabían que si se dejaban un solo rincón sin revisar, eso podría volver a remorderles la conciencia en el caso más adelante.",
+      "back": "They knew that if they left a single stone unturned it could come back to haunt them later on in the case.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Su primera pista importante fue que alguien había dejado un rastro cerca de la escena del crimen.",
+      "back": "Their first big clue was that someone had left a trail near the crime scene.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "No era sólo que alguien hubiera dejado un rastro cerca de la escena del crimen, sino que además el rastro les llevó a la propiedad de uno de los posibles sospechosos.",
+      "back": "Not only had someone left a trail near the crime scene, but in addition, the trail led to the estate of one of the possible suspects.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Dejar un rastro tan obvio como ése podría volver a atormentar al sospechoso.",
+      "back": "Leaving such an obvious trail like this could come back to haunt the suspect.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "El presunto sospechoso había dejado huellas que llevaban a la propiedad.",
+      "back": "The potential suspect had left footprints leading to the estate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "La investigación se topó con problemas cuando se descubrió que las huellas que habían aparecido en el rastro no coincidían con las del sospechoso.",
+      "back": "The investigation hit a snag when it was discovered that the footprints left along the trail didn't match those of the suspect.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "A Herlock le pareció tan raro que alguien dejara unas huellas tan definidas que empezó a pensar en un posible encubrimiento.",
+      "back": "Herlock found it so strange that someone should leave such clearly defined footprints that he began to suspect a cover-up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Herlock volvió a empezar desde cero para averiguar si algún sospechoso había dejado algún rastro de pruebas en algún otro sitio.",
+      "back": "Herlock went back to square one to find out if any suspect had left any traces of evidence anywhere else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Herlock no dejó ningún rincón sin revisar mientras examinaba las pruebas para ver si algunos de los sospechosos habían dejado algún rastro en algún otro sitio.",
+      "back": "Herlock left no stone unturned as he sorted through the evidence to see if any suspects had left any traces anywhere else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Quienquiera que fuera el culpable, había abandonado la escena del crimen sin dejar rastro.",
+      "back": "Whoever the guilty party was, he had left the crime scene without a trace.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "El sospechoso había dejado una pista que sugería que Dotson podría haber estado involucrado en el crimen.",
+      "back": "The suspect had left a clue that suggested Dotson may have been involved in the crime.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "El sospechoso había dejado una pista y parecía que Dotson la estaba intentando ocultar.",
+      "back": "The suspect had left a clue and Dotson seemed to be trying to cover it up.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Dejar una pista así era algo que luego volvería a remorder la conciencia de Dotson en el caso.",
+      "back": "Leaving a clue like this was something that would come back to haunt Dotson later on in the case.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Más vale que me vaya. Se me está pasando la hora de acostarme.",
+      "back": "I'd better head off. It's getting past my bedtime.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Más vale que nos vayamos. Es un largo viaje a casa y tenemos que sacar al perro antes de dormir.",
+      "back": "We'd better head off. It's a long journey home and we have to take the dog out for a walk before bed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Tenemos que marcharnos. Nos vamos a Leeds a primera hora de la mañana y queremos tener un buen descanso.",
+      "back": "We have to head off. We're off to Leeds first thing in the morning and we want to get a good night's sleep.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "¡Lárgate, tío! Me estás empezando a sacar de quicio.",
+      "back": "Clear off, mate! You're starting to get on my nerves.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "¡Lárgate! ¡Estoy harto de tus tonterías!",
+      "back": "Clear off! I've had enough of your nonsense!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "¡Si no te largas ahora mismo, voy a llamar a la policía!",
+      "back": "If you don't clear off right this minute, I'm going to call the police on you!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Después de un buen descanso, salieron hacia Leeds a primera hora de la mañana.",
+      "back": "After a good night's sleep, they set off for Leeds first thing in the morning.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Salieron tempranito, listos para la aventura que les esperaba.",
+      "back": "They set off bright and early, ready for the adventure ahead.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Estoy harto de este pueblo, así que me voy a Australia mañana a empezar una nueva vida.",
+      "back": "I've had enough of this town, so I'm setting off for Australia tomorrow to start a new life.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Más vale que nos vayamos antes de que alguien llame a la policía.",
+      "back": "We'd better make a move before someone calls the police on us.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Más vale que nos vayamos. Se está haciendo tarde y tenemos que acostar a los niños.",
+      "back": "We'd better make a move; it's getting late and we've got to put the kids to bed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Los niños tienen que despertarse tempranito mañana, así que más vale que nos vayamos.",
+      "back": "The kids have to be up bright and early tomorrow, so we'd better make a move.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Voy a pasear al perro; nos vemos en media hora.",
+      "back": "I'm off to take the dog out for a walk; see you in half an hour.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Me voy. Se está haciendo tarde y tengo que acostar a los niños.",
+      "back": "I'm off; it's getting late and I've got to put the kids to bed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Vale. Me voy. Esta música cursi me está sacando de quicio.",
+      "back": "Right. I'm off. This cheesy music is getting on my nerves.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Me gustaría haber cocinado una carne al horno con verduras, pero no puse el pollo a descongelar.",
+      "back": "I would like to have cooked a roast dinner but I didn't leave the chicken to defrost.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Me gustaría haber horneado un pastel de carne con patatas, pero no puse la carne a descongelar el tiempo suficiente.",
+      "back": "I would like to have baked a shepherd's pie but I didn't leave the mincemeat to defrost long enough.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "¿Por qué no pusiste el postre a descongelar? Les gustaría haber tomado uno después de la carne al horno con verduras.",
+      "back": "Why didn't you leave the dessert to defrost? They would like to have had one after the roast.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "No he dejado que la mezcla cuaje en la nevera. ¡Se me pasó por completo!",
+      "back": "I've not left the mixture in the fridge to set. It completely slipped my mind!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Recordaste dejar la gelatina en la nevera para que cuaje? ¡No podemos permitirnos perder más tiempo!",
+      "back": "Did you remember to leave the jelly in the fridge to set? We can't afford to waste any more time!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "¡Se me pasó por completo! Sin embargo, he dejado el flan en la nevera para que cuaje. ¡Vamos bien de tiempo!",
+      "back": "It completely slipped my mind! I've left the flan in the fridge to set though. We're ok for time!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Qué te dije? ¡Si lo hubieras dejado enfriarse en una rejilla, no te habrías quemado los dedos!",
+      "back": "What did I tell you? If you'd left it to cool down on a cooling rack, you wouldn't have burnt your fingers!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "No te habrías quemado la muñeca si lo hubieras dejado enfriarse en el módulo de la cocina. ¡Ya te lo dije!",
+      "back": "You wouldn't have burnt your wrist if you'd left it to cool down on the kitchen unit. I told you so!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Si hubieras hecho lo que te dije y lo hubieras dejado enfriarse en la encimera, no te habrías quemado el pulgar.",
+      "back": "If you'd done what I told you and left it to cool down on the kitchen worktop, you wouldn't have burnt your thumb!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¡Se suponía que sólo ibas a dejar las patatas en remojo en agua fría durante unas horas! ¡Ahora estarán empapadas!",
+      "back": "You were only supposed to leave the potatoes to soak in cold water for a few hours! They'll be soggy now!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Por qué está tan empapado? ¿Se suponía que lo tenía que dejar en remojo en el jugo durante toda la noche o sólo unas horas?",
+      "back": "Why is it so soggy? Was I supposed to leave it to soak in the juice overnight or just for a few hours?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "¡Ay! ¡Se suponía que lo tenía que dejar en salmuera sólo durante unas horas, no durante toda la noche! ¡Mira lo empapado que está!",
+      "back": "Oops! I was only supposed to leave it to soak in brine for a few hours, not overnight! Look how soggy it is!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Lo debería haber dejado hervir a fuego lento un rato más antes de quitarlo del fuego.",
+      "back": "I should've left it to simmer for a while longer before I took it off the heat.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Antes de quitarlo del fuego, lo podrías haber dejado hervir a fuego lento un rato más para asegurarte de que estaba bien cocido.",
+      "back": "Before you took it off the heat, you could've left it to simmer for a bit longer to make sure it was thoroughly cooked.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Yo de ti, lo habría removido un rato y luego lo habría puesto a hervir a fuego lento antes de quitarlo del fuego.",
+      "back": "If I were you, I would've stirred it for a while and then left it to simmer before I took it off the heat.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "La forma en que las autoridades trataron al pueblo indígena dejó un mal sabor de boca.",
+      "back": "The treatment of the indigenous people at the hands of the authorities left a bad taste in the mouth.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Oír a mi jefe regañando a Janice me dejó mal sabor de boca.",
+      "back": "Hearing my boss scolding Janice left a bad taste in my mouth.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Ese tipo de cosas deja mal sabor de boca, independientemente de tu inclinación política.",
+      "back": "That sort of thing leaves a bad taste in your mouth, no matter what your political leaning is.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Montó una fundación porque quería dejar un legado.",
+      "back": "He set up a foundation because he wanted to leave a legacy.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Al rondar los setenta empezó a preocuparse cada vez más por el legado que dejaría cuando muriera.",
+      "back": "As he approached his seventies, he started to worry more and more about the legacy he would leave behind after he died.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "La invasión ha dejado un legado de ruina económica y desconfianza hacia los extranjeros.",
+      "back": "The invasion has left a legacy of economic ruin and distrust of foreigners.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Decidieron dejar esa cláusula fuera del contrato.",
+      "back": "They decided to leave that clause out of the contract.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Debido a sus inclinaciones políticas, ella no quería excluir a nadie.",
+      "back": "Due to her political leanings, she didn't want to leave anyone out.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "¡Contaste esa historia mal! ¡Omitiste la parte en la que se averió el coche!",
+      "back": "You told that story all wrong! You left out the part where the car broke down!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Su salsa de arándanos rojos deja mucho que desear; es demasiado líquida.",
+      "back": "His cranberry sauce leaves a lot to be desired; it's far too runny.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Su hospitalidad dejó mucho que desear.",
+      "back": "His hospitality left a lot to be desired.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Mi francés deja mucho que desear; ¡a la gente le cuesta entenderme!",
+      "back": "My French leaves a lot to be desired; people have a hard time understanding me!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Esa es mi oferta final, ¡o lo tomas o lo dejas!",
+      "back": "That's my final offer, take it or leave it!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "El enfoque de «o lo tomas o lo dejas» de la junta echó para atrás a la otra parte.",
+      "back": "The board's take-it-or-leave-it approach put the other party off.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "¿El jazz? No me vuelve loco, me da igual.",
+      "back": "Jazz? I'm not really into it; I can take it or leave it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Por favor, salgan por la puerta trasera para no activar la alarma.",
+      "back": "Please, exit through the rear door so as not to set off the alarm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Se ruega no salir por las puertas de emergencia a no ser que sea una emergencia.",
+      "back": "Please, do not exit through the fire doors unless it is an emergency.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "En el caso poco probable de aterrizaje en el agua, por favor, salgan por las puertas más cercanas.",
+      "back": "In the unlikely event of a water landing, please exit through the doors nearest to you.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Atención, señores pasajeros. El tren de las 10:47 hacia Cardiff Central del servicio Midlands partirá del andén cuatro.",
+      "back": "Attention all passengers: the 10:47 Midlands service train to Cardiff Central will now depart from platform four.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "El tren directo de las 14:15 hacia Glasgow Central partirá en 20 minutos.",
+      "back": "The 14:15 Express Train to Glasgow Central will depart in 20 minutes.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Atención, señores pasajeros. Este tren está a punto de partir. Por favor, tengan cuidado mientras se cierran las puertas.",
+      "back": "Attention all passengers. This train is about to depart. Please mind the closing doors.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "La habitación debe desalojarse a las 11 en punto. El incumplimiento de esta norma acarreará la pérdida de su fianza.",
+      "back": "You must vacate the room by 11 am sharp. Failure to do so will result in you losing your deposit.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Le pido que acepte esta carta como un aviso de cuatro semanas acerca de nuestra intención de desalojar su propiedad en 450 Bridge Street, Leeds.",
+      "back": "Please accept this letter as four weeks' notice of our intention to vacate your property at 450 Bridge Street, Leeds.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Debido a circunstancias imprevistas, nos vemos obligados a pedirles que desalojen esta propiedad en los próximos dos meses.",
+      "back": "Due to unforeseen circumstances, we are obliged to request that you vacate these premises within the next two months.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Este vehículo parece haber sido abandonado y será remolcado el día 16.",
+      "back": "This vehicle appears to have been abandoned and will be towed away on the 16th.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Esta propiedad parece haber sido abandonada por los inquilinos.",
+      "back": "These premises appear to have been abandoned by the tenants.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Los residentes de un pueblo cercano están intentando localizar al dueño de una furgoneta abandonada.",
+      "back": "Residents of a nearby village are attempting to locate the owner of an abandoned van.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Le escribo esta carta para informarle de que tengo intención de dimitir como ayudante del jefe de ventas.",
+      "back": "I am writing this letter to inform you that I plan to resign as assistant sales manager.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Me gustaría informarle de que tengo intención de dimitir dado que acabo de aceptar un puesto en Praga.",
+      "back": "I would like to inform you that I plan to resign as I have just accepted a post in Prague.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Me gustaría anunciar oficialmente mis planes de dimitir de mi puesto actual por razones familiares.",
+      "back": "I would like to officially announce my plans to resign from my current post for family reasons.",
+      "sourcePage": 41
+    }
+  ]
+}

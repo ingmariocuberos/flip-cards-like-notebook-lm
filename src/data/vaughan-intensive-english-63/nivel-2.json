@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-63",
+  "bookTitle": "Libro 63",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No te olvides el pasaporte. ¡No tendremos tiempo de volver!",
+      "back": "Don't leave the passport behind. We won't have time to come back!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "No te olvides los billetes. No tendremos tiempo de volver con el coche.",
+      "back": "Don't leave the tickets behind. We won't have time to drive back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "No te olvides las tarjetas de crédito. No tendremos oportunidad de volver luego.",
+      "back": "Don't leave the credit cards behind. We won't have the chance to go back later on.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Cuando te vayas, procura no olvidar nada.",
+      "back": "When you go, try not to leave anything behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Cuando te vayas, procura no olvidar nada importante.",
+      "back": "When you go, try not to leave anything important behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Cuando te vayas, procura no olvidar tus pertenencias.",
+      "back": "When you go, try not to leave any belongings behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¡No me puedo creer que se te olvidara el pasaporte, David!",
+      "back": "I can't believe you left your passport behind, David!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "¡No me puedo creer que se te olvidaran los billetes, David!",
+      "back": "I can't believe you left the tickets behind, David!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¡No me puedo creer que se te olvidaran las tarjetas de crédito, David!",
+      "back": "I can't believe you left the credit cards behind, David!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Los que no corren riesgos suelen quedarse atrás.",
+      "back": "Those who don't take risks often get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Los que no actualizan sus destrezas informáticas suelen quedarse atrás.",
+      "back": "Those who don't update their IT skills often get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Los que no aprenden nuevas habilidades suelen quedarse atrás.",
+      "back": "Those who don't learn new skills often get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Si no asistes a la clase, te quedarás atrás.",
+      "back": "If you don't come to class, you'll get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Si no prestas atención en clase, te quedarás atrás.",
+      "back": "If you don't pay attention in class, you'll get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Si no haces tus deberes, te quedarás atrás.",
+      "back": "If you don't do your homework, you'll get left behind.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Cuánto efectivo te queda?",
+      "back": "How much cash have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Cuánta agua te queda?",
+      "back": "How much water have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Cuánto hielo te queda?",
+      "back": "How much ice have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Cuántos cigarrillos te quedan?",
+      "back": "How many cigarettes have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Cuántos cupones te quedan?",
+      "back": "How many vouchers have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Cuántas manzanas te quedan?",
+      "back": "How many apples have you got left?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Me queda sólo un billete de cinco. ¿Podrías pagar esta ronda?",
+      "back": "I've only got a fiver left. Could you get this round?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Me quedan sólo cinco libras. ¿Me podrías pagar la comida?",
+      "back": "I've only got five quid left. Could you get me lunch?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Me quedan sólo cinco libras. ¿Me podrías comprar un sándwich?",
+      "back": "I've only got five pound left. Could you get me a sandwich?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Cuánto dinero te quedará antes de que acabe el día?",
+      "back": "How much money will you have left by the end of the day?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Cuántas redacciones te quedarán antes de que acabe la semana?",
+      "back": "How many essays will you have left by the end of the week?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Cuánto crédito te quedará antes de que acabe el mes?",
+      "back": "How much credit will you have left by the end of the month?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Cuánto te falta por hacer?",
+      "back": "How much do you have left to do?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Me faltan dos informes por hacer antes de que acabe la semana.",
+      "back": "I've two reports left to do by the end of the week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¡No te falta mucho por hacer entonces!",
+      "back": "You don't have much left to do then!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¡Ya está! Esta vez, te dejo para siempre.",
+      "back": "That's it! I'm leaving you for good this time.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Esto es el colmo! Esta vez, te dejo para siempre.",
+      "back": "That's the last straw. I'm leaving you for good this time.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Ella dice que le va a dejar para siempre, pero lo creeré cuando lo vea.",
+      "back": "She says she's leaving him for good but I'll believe it when I see it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Ella le ha dejado por su mejor amigo.",
+      "back": "She's left him for his best friend.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Dicen que ella le ha dejado por otro hombre, pero lo creeré cuando lo vea.",
+      "back": "They say she's left him for another man, but I'll believe it when I see it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Ella dice que le ha dejado por un hombre más joven, pero lo creeré cuando lo vea.",
+      "back": "She says she's left him for a younger man but I'll believe it when I see it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Dicen que ella no va a aparecer en la iglesia y que le va a dejar plantado.",
+      "back": "They say she's not going to show up to the church, and that she's going to leave him high and dry.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Ella nunca apareció en la iglesia y le dejó plantado.",
+      "back": "She never showed up to the church and left him high and dry.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Ella nunca apareció en la cita y le dejó plantado.",
+      "back": "She never showed up to the date and left him high and dry.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Ella le ha robado todo el dinero y le ha dejado arruinado.",
+      "back": "She's taken all his money and left him penniless.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Ella le robó todo el dinero y le dejó arruinado.",
+      "back": "She took all his money and left him broke.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Ella le robó todo el dinero a su mejor amigo y le dejó arruinado también.",
+      "back": "She took all his best friend's money and left him broke as well!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "¡Le ha atropellado con el coche y lo ha dado por muerto!",
+      "back": "She's hit him with her car and left him for dead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "La gente dice que le atropelló y le dio por muerto.",
+      "back": "People say she ran him over and left him for dead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "No puedo creer que ella le atropellara y le diera por muerto.",
+      "back": "I can't believe she ran him over and left him for dead.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Johnny, ¿por qué eres siempre el primero en marcharse?",
+      "back": "Johnny, why are you always the first to leave?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¡No soy siempre el primero en marcharse!",
+      "back": "I'm not always the first to leave!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Ayer fuiste el primero en marcharte y anteayer fuiste el primero en marcharte.",
+      "back": "You were the first to leave yesterday and you were the first to leave the day before yesterday.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Johnny se marchó la semana pasada y ahora Liz se ha marchado también. ¿Quién va a ser el próximo en marcharse?",
+      "back": "Johnny left last week and now Liz has left too. Who's going to be the next to leave?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "El rumor es que vas a ser el próximo en marcharte.",
+      "back": "The rumour is that you're going to be the next to leave.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "El rumor es que el ministro de educación va a ser el próximo en marcharse.",
+      "back": "The rumour is that the education minister is going to be the next to leave.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Lo más probable es que el delantero Carlos Pateador se marche del club.",
+      "back": "Striker Carlos Kicker is the most likely to leave the club.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Los fans creen que lo más probable es que el centrocampista David Peckham se marche del club después del descenso a Segunda División.",
+      "back": "Fans believe midfielder David Peckham is the most likely to leave the club after their relegation to the second division.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Los periodistas creen que lo más probable es que el portero Ian Castles se marche del club después del descenso a Tercera División.",
+      "back": "Journalists believe goalkeeper Ian Castles is the most likely to leave the club after their relegation to the third division.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "El ministro de Educación Joe Bricks ha sido el último en marcharse del gobierno.",
+      "back": "The education minister Joe Bricks has become the latest to leave the government.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Se rumorea que el ministro de Finanzas Gordon Usborne es el último en marcharse del gobierno.",
+      "back": "It's rumoured that the finance minister Gordon Usborne has become the latest to leave the government.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Se rumorea que la ministra de Salud Tessa Trunchball es la última en marcharse del gobierno.",
+      "back": "It's rumoured that the health minister, Tessa Trunchball has become the latest to leave the government.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Helen, ¿por qué eres siempre la primera en llegar y la última en marcharse?",
+      "back": "Helen, why are you always the first to arrive and the last to leave?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Soy siempre la primera en llegar, pero no soy la última en marcharme.",
+      "back": "I'm always the first to arrive but I'm not the last to leave.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Entonces, ¿quién es el último en marcharse?",
+      "back": "Who's the last to leave then?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Jim está ausente este mes.",
+      "back": "Jim's on leave this month.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Quién va a sustituir a Jim mientras esté ausente?",
+      "back": "Who's covering for Jim while he's on leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Mientras que Jim esté ausente, Stuart le va a sustituir.",
+      "back": "While Jim's on leave, Stuart is covering for him.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Cuánto tiempo ha estado Mary de baja?",
+      "back": "How long has Mary been on sick leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Mary ha estado de baja por dos meses.",
+      "back": "Mary's been on sick leave for two months now.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Cuánto tiempo más va a estar ella de baja?",
+      "back": "How much longer is she going to be on sick leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Cuánto tiempo ha estado Jane de baja por maternidad?",
+      "back": "How long has Jane been on maternity leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Jane lleva tres meses de baja por maternidad.",
+      "back": "Jane's been on maternity leave for three months now.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Está el marido de Jane de baja por paternidad?",
+      "back": "Is Jane's husband on paternity leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Si un miembro de mi familia está enfermo, ¿tengo derecho a una baja por motivos familiares?",
+      "back": "If a family member is ill, am I entitled to compassionate leave?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Sí, en caso de emergencia familiar, todos los empleados tienen derecho a baja por motivos familiares.",
+      "back": "Yes, in the case of a family emergency all employees are entitled to compassionate leave.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿A cuánto tiempo de permiso por motivos familiares tengo derecho?",
+      "back": "How much compassionate leave am I entitled to?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Alguien ha visto a Andy? ¡Creo que se ha ausentado sin permiso!",
+      "back": "Has anyone seen Andy? I think he's gone AWOL!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "¡No puede ser! Andy no se ausentaría sin decir nada.",
+      "back": "Surely not. Andy wouldn't just go AWOL without saying anything.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Bueno, se ha ido sin decir nada, así que parece que está ausente sin permiso.",
+      "back": "Well, he's gone without saying anything so it looks like he's gone AWOL.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "No lo escribas con un rotulador; dejará marca en la siguiente página.",
+      "back": "Don't write with a marker pen; it'll leave a mark on the next page.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "No lo cortes sin una tabla de cortar; dejará marca en la mesa.",
+      "back": "Don't cut it without a chopping board; it'll leave a mark on the table.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Ella no usó una tabla de cortar, así que dejó una marca en la mesa.",
+      "back": "She didn't use a chopping board so it left a mark on the table.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Ten cuidado con no derramar café en tu nueva bufanda, va a dejar una mancha.",
+      "back": "Be careful not to spill coffee on your brand new scarf, it'll leave a stain.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Ten cuidado con no derramar zumo de naranja en tu nueva falda, va a dejar una mancha.",
+      "back": "Be careful not to spill orange juice on your brand new skirt, it'll leave a stain.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Ten cuidado con no derramar cola en tus nuevas zapatillas de andar por casa, va a dejar una mancha.",
+      "back": "Be really careful not to spill cola on your brand new slippers, it'll leave a stain.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Ese corte parece profundo. Puede que deje una cicatriz si no vas a que te den puntos.",
+      "back": "That looks like a deep cut. It might leave a scar if you don't get it stitched.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Ese corte parece serio. Ve a que te den puntos, o si no puede que se te quede una cicatriz fea.",
+      "back": "That looks like a serious cut. Get it stitched, otherwise it might leave a nasty scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Deja que te den puntos en ese corte, de lo contrario puede que se te quede una cicatriz fea.",
+      "back": "Get that cut stitched, otherwise it might leave a nasty scar.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "El discurso le dejó una gran impresión.",
+      "back": "The speech left a great impression on him.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "¿Por qué el discurso le dejó una gran impresión?",
+      "back": "Why did it leave a great impression on him?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "El documental les dejó una impresión duradera.",
+      "back": "The documentary left a lasting impression on them.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Es importante dejar evidencia escrita sobre lo que pasó en la sala del juzgado.",
+      "back": "It's important to leave a written record of what happened in the courtroom.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Es imprescindible dejar evidencia escrita sobre lo que pasó en la escena del crimen.",
+      "back": "It's essential to leave a written record of what happened at the crime scene.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Es fundamental dejar evidencia escrita sobre lo que pasó en la reunión. ¿Quién va a tomar el acta?",
+      "back": "It's vital to leave a written record of what happened in the meeting. Who's taking the minutes?",
+      "sourcePage": 27
+    }
+  ]
+}
