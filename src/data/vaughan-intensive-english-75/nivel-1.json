@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-75",
+  "bookTitle": "Libro 75",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Azul o verde? No importa.",
+      "back": "Blue or green? It doesn't matter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Vainilla o chocolate? No importa.",
+      "back": "Vanilla or chocolate? It doesn't matter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿El martes o el miércoles? No importa.",
+      "back": "On Tuesday or Wednesday? It doesn't matter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "No importa si la pared es azul o verde.",
+      "back": "It doesn't matter if the wall is blue or green.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "No importa si la tarta es de vainilla o chocolate.",
+      "back": "It doesn't matter if the cake is vanilla or chocolate.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "No importa si vamos el martes o el miércoles.",
+      "back": "It doesn't matter if we go on Tuesday or Wednesday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Importa si pagamos la factura el día uno o el día dos?",
+      "back": "Does it matter if we pay the bill on the 1st or the 2nd?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Importa si pagan el alquiler hoy o mañana?",
+      "back": "Does it matter if they pay the rent today or tomorrow?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Importa si pagamos las multas este mes o el mes que viene?",
+      "back": "Does it matter if we pay the fines this month or next month?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Importa? ¡Claro que importa!",
+      "back": "Does it matter? Yes, it matters!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Sí, importa que paguemos la factura hoy.",
+      "back": "Yes, it matters that we pay the bill today.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Claro que importa cuándo pagamos las multas.",
+      "back": "Of course it matters when we pay the fines.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Ella le importa muchísimo a él.",
+      "back": "She matters a great deal to him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Tú me importas muchísimo.",
+      "back": "You matter a great deal to me.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Él no le importa a ella para nada.",
+      "back": "He doesn't matter to her at all.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Vainilla o chocolate, no me importa.",
+      "back": "Vanilla or chocolate, it doesn't matter to me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "A Lucy no le importa y a Karl no le importa tampoco.",
+      "back": "It doesn't matter to Lucy and it doesn't matter to Karl either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "No nos importa.",
+      "back": "It doesn't matter to us.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No me importa si vamos o no.",
+      "back": "It doesn't matter to me whether we go or not.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "No nos importa si a ellos les gusta o no.",
+      "back": "It doesn't matter to us whether they like it or not.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Al casero no le importa si pagamos el alquiler hoy o mañana.",
+      "back": "It doesn't matter to the landlord whether we pay the rent today or tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Le importa a él?",
+      "back": "Does it matter to him?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Te importa si nos quedamos o si nos vamos?",
+      "back": "Does it matter to you whether we stay or go?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Les importa si venimos o si no venimos?",
+      "back": "Does it matter to them if we come or not?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Me importa lo que piensas.",
+      "back": "It matters to me what you think.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "A ella le importa lo que dices.",
+      "back": "It matters to her what you say.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "A Karl le importa lo que hacemos.",
+      "back": "It matters to Karl what we do.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Esto le importa a la gente.",
+      "back": "This matters to people.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "A la gente le importa la Navidad.",
+      "back": "Christmas matters to people.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "A la gente le importa porque es una época familiar.",
+      "back": "It matters to people because it's family time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Pareces triste, ¿qué te pasa? (Usa «sad».)",
+      "back": "You look sad. What's the matter?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Pareces triste, ¿qué te pasa? (Usa «down».)",
+      "back": "You look down. What's the matter?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Pareces un poco triste, ¿qué te pasa?",
+      "back": "You look a bit down. What's the matter?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Qué le pasa a Jack?",
+      "back": "What's the matter with Jack?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Fran parece triste hoy. ¿Qué le pasa a ella?",
+      "back": "Fran looks down today, what's the matter with her?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Kane y Jim parecen enfadados. ¿Qué les pasa?",
+      "back": "Kane and Jim look angry, what's the matter with them?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Pareces enfadada. ¿Pasa algo?",
+      "back": "You look angry. Is something the matter?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Le pasa algo a Christine?",
+      "back": "Is something the matter with Christine?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Jim parece triste. ¿Le pasa algo?",
+      "back": "Jim looks down. Is something the matter with him?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Le pasa algo a ella.",
+      "back": "Something's the matter with her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Christine está rara. Le pasa algo.",
+      "back": "Christine's acting weird. Something's the matter with her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Fred está raro. Le pasa algo.",
+      "back": "Fred's acting weird. Something's the matter with him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "No me pasa nada. Estoy bien.",
+      "back": "Nothing's the matter. I'm fine.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Te lo juro, no me pasa nada. Estoy bien.",
+      "back": "I swear, nothing's the matter with me. I'm fine.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Estás rara, ¿qué te pasa? No me pasa nada, te lo juro.",
+      "back": "You're acting weird, what's the matter? Nothing's the matter, I swear.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Te molesta el ruido? (Usa «mind».)",
+      "back": "Do you mind the noise?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¿A Julia le molesta la música?",
+      "back": "Does Julia mind the music?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿A él le molesta el viaje diario al trabajo?",
+      "back": "Does he mind the commute?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "No me importa el ruido.",
+      "back": "I don't mind the noise.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "A Julia no le importa la música.",
+      "back": "Julia doesn't mind the music.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "A él no le importa el viaje diario al trabajo.",
+      "back": "He doesn't mind the commute.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Claro que no me molesta la música. Es hermosa.",
+      "back": "Of course I don't mind the music. It's beautiful.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Claro que no me molesta. De hecho, me gusta.",
+      "back": "Of course I don't mind. In fact, I like it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Claro que no le molesta el ruido a él. Es de Londres.",
+      "back": "Of course he doesn't mind the noise. He's from London.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "En realidad, sí que me importa la música.",
+      "back": "Actually, I do mind the music.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "En realidad, sí que le importan las horas largas a él.",
+      "back": "Actually, he does mind the long hours.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "En realidad, sí que le importa el viaje diario al trabajo, pero no tiene otro remedio.",
+      "back": "Actually, he does mind the commute but he has no choice.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Te molesta el ruido? (Usa «bother».)",
+      "back": "Does the noise bother you?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Las largas horas no me molestan.",
+      "back": "The long hours don't bother me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "En realidad, sí que me molesta, pero no tengo otro remedio.",
+      "back": "Actually, it does bother me but I have no choice.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "No me importa si vivimos en el norte o en el sur.",
+      "back": "I don't mind whether we live in the north or the south.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "A Sam no le importa si vamos a la fiesta o no.",
+      "back": "Sam doesn't mind if we go to the party or not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "A nadie le importa si puedes venir o no.",
+      "back": "Nobody minds if you can come or not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "A mí no me importa dónde cenemos. ¡Eliges tú!",
+      "back": "I don't mind where we have dinner. You choose!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "A mí no me importa lo que cenemos. ¡Eliges tú!",
+      "back": "I don't mind what we have for dinner. You choose!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "A Sam no le importa dónde vivamos.",
+      "back": "Sam doesn't mind where we live.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Claro que no me importa si no salimos esta noche.",
+      "back": "Of course I don't mind if we stay in tonight.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Claro que a él no le importa si vamos a la fiesta o no.",
+      "back": "Of course he doesn't mind whether we go to the party or not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Claro que no nos importa si no puedes venir.",
+      "back": "Of course we don't mind if you can't come.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "De hecho, sí que me importa lo que cenemos.",
+      "back": "Actually, I do mind what we have for dinner.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "De hecho, sí que me importa qué peli veamos.",
+      "back": "Actually, I do mind what film we see.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "De hecho, sí que me importa dónde vivamos. Me importa mucho.",
+      "back": "Actually, I do mind where we live. It means a lot to me.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Me da igual si vienes a la fiesta o no.",
+      "back": "I don't care whether you come to the party or not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "De hecho, me da igual dónde vivas.",
+      "back": "Actually, I don't care where you live.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Me da igual si le pasa algo a él!",
+      "back": "I don't care if something's the matter with him!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Te importa si vamos mañana?",
+      "back": "Do you mind if we go tomorrow?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Le importa a ella si vamos mañana en lugar de hoy?",
+      "back": "Does she mind if we go tomorrow instead of today?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Te importa si tomamos pescado en lugar de carne?",
+      "back": "Do you mind if we have fish instead of meat?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "No te importa si vamos mañana, ¿verdad?",
+      "back": "You don't mind if we go tomorrow, do you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "A ella no le importa si vamos mañana en lugar de hoy, ¿verdad?",
+      "back": "She doesn't mind if we go tomorrow instead of today, does she?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "No le importa a él si tomamos pescado en lugar de carne, ¿verdad?",
+      "back": "He doesn't mind if we have fish instead of meat, does he?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Te importa si invito a Alex a venir?",
+      "back": "Is it OK if I invite Alex to come?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Te importa si nos quedamos en casa esta noche?",
+      "back": "Is it OK with you if we stay in tonight?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Le importa a Jamie si no puedo ir a la fiesta?",
+      "back": "Is it OK with Jamie if I don't make it to the party?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "No te importa si invito a Alex a venir, ¿verdad?",
+      "back": "It's OK if I invite Alex to come, isn't it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "No te importa si nos quedamos en casa esta noche, ¿verdad?",
+      "back": "It's OK with you if we stay in tonight, isn't it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "A Jamie no le importa si no podemos ir a la fiesta, ¿verdad?",
+      "back": "It's OK with Jamie if we don't make it to the party, isn't it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Te importa si no podemos ir a la fiesta?",
+      "back": "Is it alright with you if we don't make it to the party?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "No te importa si no podemos ir a la fiesta, ¿verdad?",
+      "back": "It's alright with you if we don't make it to the party, isn't it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Te importa si compramos helado de chocolate en lugar de helado de vainilla?",
+      "back": "Is it alright with you if we get chocolate ice cream instead of vanilla ice cream?",
+      "sourcePage": 13
+    }
+  ]
+}

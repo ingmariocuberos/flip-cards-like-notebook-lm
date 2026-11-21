@@ -165,3 +165,6 @@ El libro 73 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 73__h
 
 
 El libro 74 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 74__halves.ocr.txt`. Focus Points: mitades 11–16 y 21–26 (PDF 6–8 y 11–13, básico), 39–44 y 49–54 (PDF 20–22 y 25–27, intermedio), 67–72 y 77–82 (PDF 34–36 y 39–41, avanzado). Se transcribieron 90 / 90 / 91 tarjetas; el primer punto del PDF 35 contiene cuatro ejemplos. Se corrigieron erratas y discrepancias.
+
+
+El libro 75 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 75__halves.ocr.txt`. Focus Points: mitades 11–16 y 21–26 (PDF 6–8 y 11–13, básico), 39–44 y 49–54 (PDF 20–22 y 25–27, intermedio), 67–72 y 77–82 (PDF 34–36 y 39–41, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias entre columnas.

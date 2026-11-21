@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-75",
+  "bookTitle": "Libro 75",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No te preocupes por ello. No importa nada.",
+      "back": "Don't worry about it. It doesn't matter one bit.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "No pierdas el sueño por ello. ¡No importa nada!",
+      "back": "Don't lose any sleep over it. It doesn't matter one bit!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "No me importa nada lo que diga. No es el encargado.",
+      "back": "It doesn't matter one bit to me what he says. He's not in charge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "No están de acuerdo, pero no importa nada. Nos encargamos nosotros.",
+      "back": "They don't agree but it doesn't matter in the slightest. We're in charge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Él no estará de acuerdo contigo, pero no importa nada.",
+      "back": "He won't agree with you but it doesn't matter in the slightest.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "No pierdas sueño por ello. No importa nada.",
+      "back": "Don't lose any sleep over it. It doesn't matter in the slightest.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Importa mucho lo que piensas.",
+      "back": "It matters greatly what you think.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Lo que piensas nos importa mucho.",
+      "back": "What you think matters greatly to us.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "La decisión que tomamos hoy importará mucho en el futuro.",
+      "back": "The decision we make today will matter greatly in the future.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Importa poco lo que piense. Él no está a cargo.",
+      "back": "It matters little what he thinks. He isn't in charge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Lo que él quiere me importa poco.",
+      "back": "What he wants matters little to me.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Esta decisión importa poco hoy, pero importará mucho en el futuro.",
+      "back": "This decision matters little today but it will matter greatly in the future.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Lo único que importa es que estemos de acuerdo.",
+      "back": "The only thing that matters is that we agree.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Lo único que importa es que estemos juntos.",
+      "back": "The only thing that matters is that we're together.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Lo único que importa ahora es que tomemos la decisión correcta.",
+      "back": "The only thing that matters now is that we make the right decision.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Qué le pasaba a Kyle? Le vi llorando antes.",
+      "back": "What was the matter with Kyle? I saw him crying earlier.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Jenny parecía estar de bajón. ¿Qué le pasaba?",
+      "back": "Jenny seemed a bit down. What was the matter with her?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Phil parecía un poco callado antes. ¿Qué le pasaba?",
+      "back": "Phil seemed a bit quiet earlier. What was the matter with him?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Le pasaba algo a Frank? No era el mismo Frank de siempre.",
+      "back": "Was something the matter with Frank? He wasn't his usual self.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Estabas diferente en la reunión de la semana pasada. ¿Qué te pasaba?",
+      "back": "You weren't your usual self in last week's meeting. Was something the matter?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Carla parecía un poco deprimida antes. ¿Qué le pasaba?",
+      "back": "Carla seemed a bit down earlier. Was something the matter with her?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Qué le pasa a tu maleta? Parece que está coja.",
+      "back": "What's the matter with your suitcase? It looks wonky.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Qué le pasa al proyector? No funciona.",
+      "back": "What's the matter with the projector? It isn't working.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Tu silla está un poco coja. ¿Qué le pasa?",
+      "back": "Your chair's a bit wonky. What's the matter with it?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Algo le pasa al horno. No funciona bien.",
+      "back": "Something's wrong with the oven. It's not working properly.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Algo le pasaba a mi portátil ayer. No funcionaba bien.",
+      "back": "Something was wrong with my laptop yesterday. It wasn't working properly.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Mi móvil tampoco funcionaba esta mañana. Algo le pasa.",
+      "back": "My mobile wasn't working properly again this morning. Something's wrong with it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Le pasa algo a él. Ha estado raro últimamente.",
+      "back": "There's something wrong with him. He's been out of sorts lately.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Shelley estuvo rara el sábado. Creo que le pasaba algo.",
+      "back": "Shelley was out of sorts on Saturday. I think there was something wrong with her.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Estoy seguro de que antes le pasaba algo a Michael. Estaba raro.",
+      "back": "I'm sure there was something wrong with Michael earlier. He was out of sorts.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Te importaría dejar salir al perro?",
+      "back": "Would you mind letting the dog out?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Te importaría dejar entrar al gato?",
+      "back": "Would you mind letting the cat in?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Te importaría dejar entrar a Ryan?",
+      "back": "Would you mind letting Ryan in?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Te importaría cuidar de mi perra mientras estoy fuera?",
+      "back": "Would you mind looking after my dog while I'm away?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Pregúntale a Olivia si le importaría dar de comer al gato mientras estamos fuera.",
+      "back": "Ask Olivia if she would mind feeding the cat while we're away.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Te importaría regar mis plantas mientras estoy fuera?",
+      "back": "Would you mind watering my plants while I'm away?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "No me importaría cuidar de tu perra.",
+      "back": "I wouldn't mind looking after your dog.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Estoy seguro de que a ella no le importaría dar de comer al gato mientras estamos fuera.",
+      "back": "I'm sure she wouldn't mind feeding the cat while we're away.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "A Carly no le importaría regar tus plantas mientras estás fuera.",
+      "back": "Carly wouldn't mind watering your plants while you're away.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Me gustaría ver la nueva película de Clint Eastwood este fin de semana.",
+      "back": "I wouldn't mind seeing the new Clint Eastwood film this weekend.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Me gustaría tomarme las cosas con calma este fin de semana.",
+      "back": "I wouldn't mind taking it easy this weekend.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Kirsty dijo que le gustaría quedar después del trabajo.",
+      "back": "Kirsty said she wouldn't mind meeting up after work.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Me vendría bien una copa de vino.",
+      "back": "I wouldn't mind a glass of wine.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Me vendría bien un descansillo.",
+      "back": "I wouldn't mind a quick break.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Me vendría bien un paseo a lo largo de la playa.",
+      "back": "I wouldn't mind a walk on the beach.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Tenga cuidado para no introducir el pie entre coche y andén.",
+      "back": "Mind the gap!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Cuidado con el hueco cuando se abran las puertas.",
+      "back": "Mind the gap when the doors open.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Cuidado con el hueco cuando subas al tren.",
+      "back": "Mind the gap when you're getting on the train.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Cuidado con la cabeza!",
+      "back": "Mind your head!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "El techo queda muy bajo aquí, ¡así que cuidado con la cabeza!",
+      "back": "The ceiling is very low here so mind your head!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Dile a él que tenga cuidado con la cabeza. El techo queda más bajo aquí.",
+      "back": "Tell him to mind his head. The ceiling is lower here.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "¡Cuidado con el bolso! Este sitio está lleno de carteristas.",
+      "back": "Mind your handbag! This place is full of pickpockets.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Cuidado con el bolso cuando subas al tren.",
+      "back": "Mind your handbag when you're getting on the train.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Ojo con los carteristas y cuidado con tu bolso.",
+      "back": "Watch out for pickpockets and mind your handbag.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¡Cuidado con el escalón!",
+      "back": "Mind the step!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Cuidado con el escalón cuando bajes del autobús.",
+      "back": "Mind the step when you're getting off the bus.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Cuidado con el escalón. No querrás tropezar.",
+      "back": "Mind the step. You don't want to trip over.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Qué has dicho? ¡Vigila tus modales!",
+      "back": "What did you say? Mind your manners!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "La señora Burns es bastante correcta, así que vigila tus modales.",
+      "back": "Mrs. Burns is rather posh, so mind your manners.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Por favor, vigila tus modales en la casa de la señora Colbert. Es bastante correcta.",
+      "back": "Please mind your manners in Mrs. Colbert's house. She's rather posh.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Éste es un asunto muy delicado, así que ten cuidado con lo que dices.",
+      "back": "This is a very delicate matter so be careful what you say.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Sabes si esto es un asunto delicado?",
+      "back": "Do you know if this is a delicate matter?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "John dice que está aquí para hablar contigo sobre un asunto muy importante.",
+      "back": "John says he's here to talk to you about a very important matter.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Los derechos de los votantes son un asunto importante desde hace décadas.",
+      "back": "Voter rights have been a big issue for decades.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "El sueldo es un asunto importante en esta empresa desde que empezó.",
+      "back": "Pay has been a big issue in this company since it started.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "El gobierno debería centrarse en los asuntos que afectan al hombre común.",
+      "back": "The government should focus on issues that affect the common man.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Sabes cuál es el tema de la reunión?",
+      "back": "Do you know what the subject of the meeting is?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Los agujeros negros? No sé mucho sobre ese tema.",
+      "back": "Black holes? I'm not very familiar with that subject.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Es un tema que le resulta muy familiar a ella; estudió economía.",
+      "back": "It's a very familiar subject to her; she studied economics.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "El tema de mi presentación son los agujeros negros.",
+      "back": "The topic of my presentation is black holes.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "El tema del debate de hoy es la pena de muerte.",
+      "back": "Today's topic of discussion is capital punishment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Cuál es el tema del debate de mañana?",
+      "back": "What's the topic of tomorrow's discussion?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Tenemos que tratar este asunto cuanto antes. (Usa «deal with».)",
+      "back": "We have to deal with this question as soon as possible.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Es normal que se preocupen por esta cuestión.",
+      "back": "It's understandable that they're worried about this question.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Tenemos que tratar esta cuestión cuanto antes. (Usa «address».)",
+      "back": "We have to address this question as soon as possible.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¡Decídete ya!",
+      "back": "Make your mind up already!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Se ha decidido él ya?",
+      "back": "Has he made up his mind yet?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Cuándo se va a decidir él?",
+      "back": "When's he going to make his mind up?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Él ha vuelto a cambiar de idea, ¿verdad?",
+      "back": "He's changed his mind again, hasn't he?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Diane va a volver a cambiar de idea, ¿verdad?",
+      "back": "Diane's going to change her mind again, isn't she?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Lo siento, he cambiado de idea.",
+      "back": "I'm sorry, I've changed my mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Sé que no soy el mismo de siempre. Perdona, tengo muchas cosas en la cabeza.",
+      "back": "I know I'm not my usual self. Sorry, I have a lot on my mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Él no ha sido el mismo de siempre últimamente, pero está bien, es sólo que tiene muchas cosas en la cabeza.",
+      "back": "He hasn't been his usual self lately but he's OK, he just has a lot on his mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Quedé con Sarah ayer. Ella tiene muchas cosas en la cabeza.",
+      "back": "I met Sarah yesterday. She has a lot on her mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Ella ha estado pensando mucho en su exmarido últimamente.",
+      "back": "Her ex-husband has been on her mind lately.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "He estado pensando mucho en volver a la universidad últimamente.",
+      "back": "Going back to university has been on my mind lately.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Él ha estado pensando mucho en Diane.",
+      "back": "Diane's been on his mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Pareces descontento. ¿Qué te preocupa?",
+      "back": "You look upset. What's on your mind?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Pareces raro. ¿Qué te preocupa?",
+      "back": "You look out of sorts. What's on your mind?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Te pasa algo? Dime qué te preocupa.",
+      "back": "Are you going through something? Tell me what's on your mind.",
+      "sourcePage": 27
+    }
+  ]
+}
