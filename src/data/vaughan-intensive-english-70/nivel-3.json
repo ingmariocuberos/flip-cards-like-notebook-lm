@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-70",
+  "bookTitle": "Libro 70",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Más nos vale ordenar la casa si queremos causar una buena impresión.",
+      "back": "We'd better fix up the house if we want to make a good impression.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "No llevará mucho tiempo arreglar la casa; sólo hace falta darle una pasada por encima.",
+      "back": "It won't take long to fix up the house; it just needs a once over.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Aparte del salón, a la casa no le vendría mal un repaso.",
+      "back": "Aside from the living room, the house could do with fixing up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¿Me puedes organizar una reunión con el presidente?",
+      "back": "Can you fix up a meeting with the president for me?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Ella tiene un contacto, te organizará una entrevista.",
+      "back": "She has an in, she'll fix you up with an interview.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Si necesitas que alguien te organice un trabajo, sólo tienes que llamarla.",
+      "back": "If you ever need somebody to fix you up with a job, she's just a phone call away.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Si alguna vez necesitas que te encuentre un piso, házmelo saber.",
+      "back": "If you ever need me to fix you up with a flat, give me a shout.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Él tiene muchos contactos en el mundo inmobiliario, te proporcionará un buen precio para un piso.",
+      "back": "He's pretty well connected in the world of real estate, he'll fix you up with a good deal on a flat.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Él sabe regatear al máximo, pero te encontrará un buen piso.",
+      "back": "He drives a hard bargain, but he'll fix you up with a good flat.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Él lleva mucho tiempo intentando emparejarme con su hermana; ¡qué embarazoso!",
+      "back": "He's been trying to fix me up with his sister for a long time; it's so embarrassing!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Le dije que parase de tratar de emparejarme con ella; no creo que sea mi tipo de chica.",
+      "back": "I told him to stop trying to fix me up with her; I really don't think she's my type.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Él llevaba tanto tiempo intentando emparejarme con ella que al final cedí y la llamé.",
+      "back": "He had been trying to fix me up with her for so long that I finally gave in and called her.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Desde esa situación difícil en el aeropuerto, he estado intentando arreglar las cosas con Sally.",
+      "back": "Ever since that sticky situation at the airport, I've been trying to fix things up with Sally.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Llevo mucho tiempo intentando arreglar las cosas con ella.",
+      "back": "I've been trying to fix things up with her for a long time.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Escucha, Sally, si algún día quieres arreglar las cosas entre nosotros, sabes que sólo tienes que llamarme.",
+      "back": "Listen, Sally, if you ever want to fix things up between the two of us, you know I'm just a phone call away.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "La mayoría de los economistas están de acuerdo en que los gobiernos nunca deberían fijar los precios en un mercado libre.",
+      "back": "Most economists agree that governments should never fix prices in a free market economy.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "En términos generales, si fijas un precio perturbas el flujo natural de la oferta y la demanda.",
+      "back": "Generally speaking, if you fix prices you disrupt the natural flow of supply and demand.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Las empresas en general fijarán los precios por encima del valor de mercado.",
+      "back": "Companies will generally fix prices higher than the market value.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "En una economía donde se fijan los precios, la calidad de los productos tiende a bajar.",
+      "back": "In an economy where prices are fixed, the quality of products tends to go down.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "En una economía donde se fijan los precios, la competencia se desestimula.",
+      "back": "In an economy where prices are fixed, competition is discouraged.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "En una economía donde se fijan los precios, el comercio tiende a sufrir a largo plazo.",
+      "back": "In an economy where prices are fixed, trade tends to suffer over the long haul.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "La mayoría de los economistas están de acuerdo en que fijar los precios es ineficaz y malo para el comercio.",
+      "back": "Most economists agree that price fixing is inefficient and bad for trade.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "En términos generales, fijar los precios tiene un efecto negativo en la demanda.",
+      "back": "Generally speaking, price fixing has a negative effect on demand.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "En Estados Unidos se fijaron los precios para intentar terminar con la Gran Depresión. Muchos piensan que esto fue justo lo que prolongó la recesión.",
+      "back": "Price fixing was used in America in an attempt to end the Great Depression. Many think this actually prolonged the downturn.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Estoy pagando el interés del préstamo con un tipo de interés fijo.",
+      "back": "I'm paying interest on the loan at a fixed rate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "En general prefiero pagar el interés con un tipo de interés fijo en vez de pagar una tasa ajustable.",
+      "back": "I generally prefer paying interest at a fixed rate as opposed to an adjustable rate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Según lo volátil que sea el mercado, deberías elegir un tipo de interés fijo o un tipo ajustable.",
+      "back": "Depending on how volatile the market is, you should either choose a fixed rate or an adjustable rate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Ese país ha sido acusado ampliamente de fijar el tipo de cambio artificialmente.",
+      "back": "That country has been widely accused of artificially fixing its exchange rate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Antes, el tipo de cambio del peso argentino era fijo, pero después de la crisis de 2001 el gobierno dejó que su moneda flotara.",
+      "back": "The exchange rate for the Argentine peso used to be fixed, but after the crisis in 2001, the government let its currency float.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "En general, los economistas están de acuerdo en que es una mala idea que los gobiernos fijen los tipos de cambio.",
+      "back": "Economists generally agree that it's a bad idea for governments to fix exchange rates.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Resulta que la mafia amañó el partido.",
+      "back": "It turns out that the mob fixed the match.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "La mafia estaba confabulada con el árbitro y le convencieron para amañar el partido.",
+      "back": "The mob was in with the ref and convinced him to fix the match.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Cada jugada en el partido fue una farsa; todo había sido amañado desde el principio.",
+      "back": "Every play in the match was a farce; it had all been fixed from the start.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Apuesto a que la elección fue amañada.",
+      "back": "I bet the election was fixed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "No me sorprendería que el partido de la oposición tuviera información privilegiada y amañara la elección.",
+      "back": "It wouldn't surprise me if the opposing party had some inside information and fixed the election.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "¡No seas paranoico de la conspiración! No es posible que la elección estuviera amañada.",
+      "back": "Don't be a conspiracy theorist! The election couldn't have been fixed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Dudo que los resultados hubieran sido amañados.",
+      "back": "I doubt the results had been fixed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Te imaginas las molestias que deben de haberse tomado para poder amañar los resultados?",
+      "back": "Can you imagine the lengths they must have had to go to in order to fix the results?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Si no hubiéramos sido tan ingenuos, nos habríamos dado cuenta de que estaban amañando los resultados.",
+      "back": "If we hadn't been so naïve, we would have realized that they were fixing the results.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Apuesto a que tenían información privilegiada y amañaron el resultado.",
+      "back": "I bet they had inside information and fixed the outcome.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "No me sorprendería que la mafia amañara el resultado.",
+      "back": "I wouldn't be surprised if the mob fixed the outcome.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "¡Eres un paranoico de la conspiración! No me creo que se pueda amañar el resultado.",
+      "back": "You're such a conspiracy theorist! I can't imagine the outcome being fixed.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Te imaginas las molestias que deben de haberse tomado para amañar la elección?",
+      "back": "Can you imagine the lengths they must have had to go to in order to rig the election?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "El resultado fue una farsa; estuvo amañado desde el principio.",
+      "back": "The result was a farce; it was rigged from the start.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Apuesto a que el árbitro amañó el partido.",
+      "back": "I bet the ref rigged the match.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Tenemos que preparar una comida para las 20 h esta noche.",
+      "back": "We have to fix a meal for 8pm tonight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Deja que te prepare una buena comida caliente. Debes de estar agotada.",
+      "back": "Let me fix you a nice hot meal. You must be exhausted.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "La abuela nos está preparando una buena comida caliente con toda su guarnición para esta tarde.",
+      "back": "Grandma's fixing us a nice hot meal this evening, with all the trimmings.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Vamos a castrar a nuestro cachorro Butch esta semana.",
+      "back": "We're having our new puppy Butch fixed this week.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Le vamos a castrar porque está un poco loco.",
+      "back": "We're getting him fixed because he's a bit of a wild one.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Nunca lo castramos porque nos parece inhumano.",
+      "back": "We never got him fixed because we think it's inhumane.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Ya habéis decidido un sitio para la boda?",
+      "back": "Have you fixed on a location for the wedding yet?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Todavía no han decidido un sitio para la boda porque no están seguros de cuántas personas confirmarán asistencia.",
+      "back": "They haven't fixed on a location for the wedding yet because they're not sure how many people will RSVP.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "¿Han decidido ya un sitio para el banquete de boda?",
+      "back": "Have they fixed on a site for the wedding reception yet?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Voy a llamar a alguien del departamento de informática para solucionar el fallo de mi ordenador.",
+      "back": "I'm going to call someone from IT to fix the bug on my computer.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "En las clases de Informática elaboramos programas informáticos para solucionar todo tipo de fallos.",
+      "back": "In Computer Science classes, we write computer programs to fix all kinds of bugs.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Prometen que este nuevo software puede solucionar el fallo.",
+      "back": "This new software claims it can fix the bug.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Como vuelvas a acercarte a mi hermana, ajustaré las cuentas contigo.",
+      "back": "I'll fix you right if you come near my sister again.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Él me dijo que dejara de tirarle los tejos a su novia o ajustaría las cuentas conmigo.",
+      "back": "He told me to stop hitting on his girlfriend or he'd fix me right.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Deja de tirarle los tejos a mi novia o ajustaré las cuentas contigo, colega.",
+      "back": "Quit hitting on my girlfriend or I'll fix you right, mate.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Estoy en un lío. ¿Le cuento lo de la aventura o no?",
+      "back": "I'm in a fix. Should I tell her about the affair or not?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Él está metido en un buen lío.",
+      "back": "He's in a right fix.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Me encontré con el dilema sobre si debería contarle a ella lo de la aventura o no.",
+      "back": "I found myself in a fix as to whether I should tell her about the affair or not.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "La cena de Acción de Gracias tenía todas las guarniciones.",
+      "back": "Thanksgiving dinner came with all the fixings.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¡Esta gente come bien! La comida traía todas las guarniciones.",
+      "back": "These people know how to eat! The meal came with all the fixings.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Sí que tiraste la casa por la ventana con la cena de Acción de Gracias. ¡Estaban todas las guarniciones!",
+      "back": "You really went the whole hog with Thanksgiving dinner. It came with all the fixings!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Él tiene una extraña fijación por ella.",
+      "back": "He has this strange fixation on her.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Le dije a él que no es nada sano estar tan obsesionado con alguien.",
+      "back": "I told him that it's really unhealthy to be so fixated on one person.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Freud fue famoso por sus obras sobre las obsesiones humanas.",
+      "back": "Freud was famous for his writings on human fixations.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Fija el aplique de luz a la pared usando el destornillador.",
+      "back": "Attach the light fixture to the wall using a screwdriver.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "El Guernica de Picasso se ha convertido en un elemento fijo en la sección de arte moderno del Reina Sofía.",
+      "back": "Picasso's Guernica has become something of a fixture in the Modern Art section at the Reina Sofia.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Él lleva tanto tiempo en Washington que ya parece parte del mobiliario.",
+      "back": "He's been in Washington so long he's become something of a fixture there.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Las soluciones rápidas no funcionan.",
+      "back": "There's no such thing as a quick fix.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "No hay solución rápida para los problemas de nuestra economía.",
+      "back": "There's no quick fix for our economy's problems.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "El paciente de la clínica de rehabilitación no hacía más que suplicar un chute rápido.",
+      "back": "The patient at the rehab clinic kept pleading for a quick fix.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Ha sido un camino largo desde la cirugía, pero por fin me estoy recuperando.",
+      "back": "It's been a long road back from surgery, but I'm finally on the mend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "La pobre estuvo muy resfriada, pero se ha recuperado mucho últimamente.",
+      "back": "That poor thing had a terrible cold, but she's been on the mend of late.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Me alegro de que por fin te estés recuperando.",
+      "back": "I'm glad you're finally on the mend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Últimamente no le hemos hecho caso a Jim. Debemos compensarle e invitarle a comer.",
+      "back": "We've been ignoring Jim of late. We really ought to make amends and take him out for lunch.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Ella ofendió a Mark con ese comentario, la pobre, pero al menos lo arregló rápido.",
+      "back": "She really insulted Mark with that comment, the poor thing, but at least she was quick to make amends.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Tuve que reparar el daño que hice al coche del vecino después de chocarme con él dando marcha atrás.",
+      "back": "I had to make amends for the damage I caused to the neighbour's car after reversing into it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Las carreteras están en buen estado.",
+      "back": "The roads are in a good state of repair.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "La tormenta dejó destrucción tras de sí.",
+      "back": "The storm left destruction in its wake.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Los pobres habitantes del pueblo encontraron que sus casas estaban en mal estado.",
+      "back": "The poor members of the town found their homes were in a bad state of repair.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Esta reliquia parece no tener arreglo.",
+      "back": "This old thing looks beyond repair.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Tu camión no tiene arreglo. Yo no me gastaría ni un duro más en él y me compraría uno nuevo.",
+      "back": "Your truck's beyond repair. I'd cut your losses and buy a new one.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "No tiene arreglo. Tiene pinta de haber recorrido el mundo entero.",
+      "back": "It's beyond repair. It looks like it's been to hell and back.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Los daños en la central nuclear fueron irreparables.",
+      "back": "The damage at the nuclear power plant was irreparable.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "El pueblo quedó aturdido por el daño irreparable que dejó el desastre.",
+      "back": "The town was shocked at the irreparable damage left by the disaster.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Los ecologistas aprovecharon los daños irreparables para indicar que el cambio climático estaba teniendo efecto.",
+      "back": "Environmentalists seized on the irreparable damage as a sign that climate change was taking its effect.",
+      "sourcePage": 41
+    }
+  ]
+}

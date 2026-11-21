@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-70",
+  "bookTitle": "Libro 70",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No te preocupes. Él lo arregló.",
+      "back": "Don't worry. He fixed it.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Está bien. Él los arregló.",
+      "back": "It's all right. He fixed them.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Menos mal que él los arregló.",
+      "back": "Thank goodness he fixed them.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Ella lo arregló esta mañana temprano.",
+      "back": "She fixed it earlier this morning.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Ella lo arregló cuando estabas fuera esta mañana temprano.",
+      "back": "She fixed it when you were out earlier this morning.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Ella los arregló esta mañana temprano cuando estabas fuera.",
+      "back": "She fixed them earlier this morning when you were out.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Él lo arregló en un par de horas.",
+      "back": "He fixed it in a couple of hours.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Él los arregló en un santiamén.",
+      "back": "He fixed them in no time at all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Él lo arregló en un santiamén.",
+      "back": "He fixed it in a jiffy.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Ella lo arregló sin la ayuda de nadie.",
+      "back": "She fixed it without anyone else's help.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Él los arregló sin la ayuda de nadie.",
+      "back": "He fixed them without anyone else's help.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Lo arreglamos en un santiamén sin la ayuda de nadie.",
+      "back": "We fixed it in no time without anyone else's help.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Él arregló ése, pero no arregló éste.",
+      "back": "He fixed that one, but he didn't fix this one.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Ella arregló éstos, pero no arregló aquéllos.",
+      "back": "She fixed these ones, but she didn't fix those ones.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Arreglamos ésos, pero no arreglamos éstos.",
+      "back": "We fixed those ones, but we didn't fix these ones.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Ha reparado él mi ordenador ya?",
+      "back": "Has he fixed my computer yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Han reparado el problema con el software ya?",
+      "back": "Have they fixed the software problem yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Han solucionado el problema con la conectividad ya?",
+      "back": "Have they fixed the connectivity issue yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Por qué no ha reparado él el servidor ya?",
+      "back": "Why hasn't he fixed the server yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Por qué no ha reparado él el acceso remoto ya?",
+      "back": "Why hasn't he fixed the remote access yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Por qué no han reparado el problema con el sistema ya?",
+      "back": "Why haven't they fixed the problem with the system yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Por qué no ha reparado él el ordenador ya?",
+      "back": "How come he hasn't fixed the computer yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Por qué no han arreglado el problema con el software ya? (Forma coloquial)",
+      "back": "How come they haven't fixed the software problem yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Por qué no han reparado el servidor ya?",
+      "back": "How come they haven't fixed the server yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Él aún no ha arreglado el problema con el software, pero está en ello.",
+      "back": "He hasn't fixed the software problem yet, but he's on it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Aún no hemos arreglado el problema de autentificación, pero estamos en ello.",
+      "back": "We haven't fixed the login problem yet, but we're on it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "No han arreglado el servidor aún, pero dicen que están en ello.",
+      "back": "They haven't fixed the server yet, but they say they're on it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Él no ha arreglado el problema con el software, pero sí ha arreglado el problema de autentificación.",
+      "back": "He hasn't fixed the software problem, but he has fixed the login problem.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Ella no ha arreglado el problema con el servidor, pero sí ha arreglado el problema con el acceso remoto.",
+      "back": "She hasn't fixed the server issue, but she has fixed the problem with remote access.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "No han arreglado el problema con la conectividad, pero sí han arreglado dos problemas importantes con el sistema.",
+      "back": "They haven't fixed the connectivity issue, but they have fixed two major problems with the system.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Pensemos en una fecha para quedar. ¿Cómo te viene la semana que viene?",
+      "back": "Let's fix a date to meet up. How does next week sound?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Acordemos una hora para quedar. ¿Cómo te viene la semana que viene?",
+      "back": "Let's fix a time to get together. How does next week sound?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Fijemos una hora para vernos. ¿Te viene bien la semana que viene?",
+      "back": "Let's fix a time to hook up. How does next week sound?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Deberíamos fijar una hora para quedar; hace siglos que no sé nada de ti.",
+      "back": "We should fix a time to meet up; I haven't heard from you in ages.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Deberíamos acordar una fecha; ¡cuánto tiempo!",
+      "back": "We should definitely fix a date; it's been ages!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Deberíamos fijar una fecha para hablar por Skype; ¿cómo te viene este fin de semana?",
+      "back": "We should definitely fix a Skype date; how does this weekend sound?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Dijeron que fijarían una hora para charlar, pero nunca lo hicieron.",
+      "back": "They said they'd fix a time to chat, but they never did.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Dijeron que concretarían una fecha para quedar, pero al final nunca lo hicieron.",
+      "back": "They said they'd fix a date to get together, but in the end they never did.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Dijeron que acordarían una hora para verse, pero al final nunca lo hicieron.",
+      "back": "They said they'd fix a time to hook up, but in the end they never did.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Habían decidido una fecha para quedar, pero al final los dos lo cancelaron.",
+      "back": "They'd fixed a date to get together, but in the end both of them cancelled.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Habían fijado una hora para quedar, pero al final los dos estaban demasiado ocupados.",
+      "back": "They'd fixed a time to meet up, but in the end both of them were too busy.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Habíamos concretado una hora para vernos, pero al final los dos tuvimos que cancelarlo.",
+      "back": "We'd fixed a time to hook up, but in the end both of us had to cancel.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Habían fijado una fecha para quedar, pero al final ninguno de los dos pudo llegar.",
+      "back": "They'd fixed a date to get together, but in the end neither of them could make it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Habían concretado una hora para quedar, pero al final ninguno de los dos pudo ir.",
+      "back": "They'd fixed a time to meet up, but in the end neither of them could go.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Habíamos acordado una hora para vernos, pero al final ninguno de nosotros dos pudo llegar.",
+      "back": "We'd fixed a time to hook up, but in the end neither of us could make it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Qué planes tienes para el fin de semana que viene?",
+      "back": "How are you fixed for next weekend?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Qué planes tienes para este sábado?",
+      "back": "How are you fixed for this coming Saturday?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Qué planes tienes para este viernes por la noche?",
+      "back": "How are you fixed for this coming Friday night?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Mantén la mirada fija en la carretera.",
+      "back": "Keep your eyes fixed on the road ahead.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Él mantuvo la mirada fija en la carretera y no en los demás coches.",
+      "back": "He kept his eyes fixed on the road, and not on the other cars.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "El alumno se aseguró de mantener la mirada fija en la carretera en todo momento.",
+      "back": "The student made sure to keep his eyes fixed firmly on the road.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Los demás hombres llevan siguiéndola con la mirada desde que entró en la habitación.",
+      "back": "The other men have had their eyes fixed on her since she entered the room.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "La han estado siguiendo con la mirada y ella ni siquiera parece notarlo.",
+      "back": "They've had their eyes fixed on her and she doesn't even seem to notice.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "No parece darse cuenta de que llevan siguiéndola con la mirada toda la noche.",
+      "back": "She doesn't seem to notice that they've had their eyes fixed on her all night.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¡No deberías obsesionarte tanto con ella! Hay otras chicas.",
+      "back": "You shouldn't get so fixed on her! There are other fish in the sea.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Es mejor no obsesionarse tanto con una persona. No es sano.",
+      "back": "It's best not to get so fixed on one person. It's not healthy.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Intenta no obsesionarte tanto con ella. Seguro que te devolverá la llamada.",
+      "back": "Try not to get so fixed on her. I'm sure she'll call you back.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Pregúntale a ella qué planes tiene para este fin de semana.",
+      "back": "Ask her how she's fixed for this coming weekend.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Has notado que todo el mundo la sigue con la mirada?",
+      "back": "Did you notice that everybody has their eyes fixed on her?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Mantén la mirada fija en la carretera y no en los otros coches que van a tu alrededor.",
+      "back": "Keep your eyes fixed on the road ahead, and not on the other cars around you.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Ya ha remendado mis calcetines la yaya?",
+      "back": "Did Nana mend my socks yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Ya ha reparado mi coche el mecánico?",
+      "back": "Did the mechanic mend my car yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Ya ha reparado la balda el carpintero?",
+      "back": "Did the carpenter mend the shelf yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "La yaya remendó tus calcetines hace dos semanas.",
+      "back": "Nana mended your socks two weeks ago.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "El mecánico reparó tu coche anoche a última hora.",
+      "back": "The mechanic mended your car late last night.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "El carpintero reparó la balda cuando vino a arreglar la mesa.",
+      "back": "The carpenter mended the shelf when he came to mend the table.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Ya me ha remendado ella las medias?",
+      "back": "Has she mended my stockings yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Ya han reparado mi moto?",
+      "back": "Have they mended my motorbike yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Ya han reparado el marco de la puerta?",
+      "back": "Have they mended the doorframe yet?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Todavía no te ha arreglado las medias ella, pero ya te ha arreglado los calcetines.",
+      "back": "She hasn't mended your stockings yet, but she's already mended your socks.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Todavía no han reparado la moto, pero él ya ha arreglado el coche.",
+      "back": "They haven't mended the motorbike yet, but he's already mended the car.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "El carpintero aún no ha reparado el marco de la puerta, pero ya ha reparado la balda.",
+      "back": "The carpenter hasn't mended the doorframe yet, but he's already mended the shelf.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Las medias han sido remendadas, así que ya está todo.",
+      "back": "The stockings have been mended, so it's all taken care of.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "La moto ha sido reparada, así que ahora ya está todo.",
+      "back": "The motorbike's been mended, so it's all taken care of now.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Por fin ya está todo. El marco de la puerta ha sido reparado esta mañana.",
+      "back": "Finally it's all taken care of now. The doorframe's been mended this morning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Arreglaron los daños de la explosión?",
+      "back": "Did they repair the damage from the explosion?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Arreglaron las carreteras después de la tormenta?",
+      "back": "Did they repair the roads after the storm?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Arreglaron los daños de la manifestación?",
+      "back": "Did they repair the damage from the protest?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Por fin arreglaron los daños, pero tardaron bastante.",
+      "back": "They finally repaired the damage, but it took them quite a while.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Por fin el gobierno arregló las calles, pero tardaron bastante.",
+      "back": "The government finally repaired the roads, but it took them long enough.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Por fin lo arreglaron, pero tardaron bastante.",
+      "back": "They finally repaired it, but it took them long enough.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Por qué no habéis arreglado los daños causados por la tormenta?",
+      "back": "Why haven't you repaired the damage caused by the storm?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Por qué el gobierno local no ha tomado medidas y arreglado las carreteras?",
+      "back": "Why hasn't the local government taken action and repaired the roads?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Por qué todavía no han arreglado los daños?",
+      "back": "Why haven't they repaired the damage yet?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Han estado reparando los daños causados por la tormenta todo el año.",
+      "back": "They've been repairing the damage caused by the storm all year.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Han estado reparando las carreteras desde enero.",
+      "back": "They've been repairing the roads since last January.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Dicen que han estado reparando los daños, pero yo no les creo.",
+      "back": "They say they've been repairing the damage, but I don't believe them.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "No los han arreglado todavía.",
+      "back": "They haven't been repaired yet.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Los daños no han sido arreglados todavía y dicen que tardarán cinco años más.",
+      "back": "The damage hasn't been repaired yet, and they say it'll take another five years.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Los daños de la tormenta no han sido arreglados todavía y el gobierno no ha tomado ninguna acción.",
+      "back": "The damage from the storm hasn't been repaired yet, and no action has been taken by the government.",
+      "sourcePage": 27
+    }
+  ]
+}

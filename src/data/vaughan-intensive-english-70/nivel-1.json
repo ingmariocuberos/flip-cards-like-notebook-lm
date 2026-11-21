@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-70",
+  "bookTitle": "Libro 70",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Repáralo!",
+      "back": "Fix it!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Repáralos!",
+      "back": "Fix them!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Repáralo antes de que papá llegue a casa!",
+      "back": "Fix it before dad gets home!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Más te vale reparar esto antes de que tu madre llegue a casa.",
+      "back": "You'd better fix this before your mother gets home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Más le vale a él reparar eso antes de que su padre llegue a casa.",
+      "back": "He'd better fix that before his father gets home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Más te vale repararlo ahora mismo.",
+      "back": "You'd better fix it right away.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Haz que tu hermano lo repare antes de que tu madre llegue a casa.",
+      "back": "Get your brother to fix it before your mother gets home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Haz que tu hermana lo repare antes de que vuelva alguien.",
+      "back": "Get your sister to fix it before anyone comes back.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Haz que lo reparen, ¡ya!",
+      "back": "Get them to fix it, now!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Dile a ella que lo repare ahora mismo.",
+      "back": "Tell her to fix it right away.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Dile a él que los repare antes de que sus padres vuelvan a casa.",
+      "back": "Tell him to fix them before his parents get home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Dile a ella que más le vale repararlos ahora.",
+      "back": "Tell her she'd better fix them now.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Si no lo reparas, haré que ella lo repare.",
+      "back": "If you don't fix this, I'll get her to fix it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Si ella no lo repara, le diré a su madre que lo repare.",
+      "back": "If she doesn't fix it, I'll tell her mother to fix it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Si ella no los repara, más le vale que le diga a su madre que los repare.",
+      "back": "If she doesn't fix them, she'd better tell her mother to fix them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Reparáis relojes de pulsera?",
+      "back": "Do you fix watches?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Reparáis portátiles?",
+      "back": "Do you fix laptops?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Reparáis smartphones?",
+      "back": "Do you fix smartphones?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Repara él tostadoras?",
+      "back": "Does he fix toasters?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¿En aquella tienda reparan neveras?",
+      "back": "Does that shop fix refrigerators?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿En aquella tienda reparan microondas?",
+      "back": "Does that shop fix microwaves?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Puedes reparar este reloj?",
+      "back": "Can you fix this watch?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Podéis reparar esta tostadora o necesito comprar una nueva?",
+      "back": "Can you fix this toaster or do I need to buy a new one?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Puedes reparar este microondas?",
+      "back": "Can you fix this microwave?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Cuánto tiempo llevará reparar este smartphone?",
+      "back": "How long will it take to fix this smartphone?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Cuánto tardarás en reparar este ordenador portátil?",
+      "back": "How long will it take you to fix this laptop?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Cuánto tardará él en reparar la nevera?",
+      "back": "How long will it take him to fix the refrigerator?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Cuánto costará reparar este ordenador portátil?",
+      "back": "How much will it cost to fix this laptop?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Cuánto costará reparar este microondas?",
+      "back": "How much will it cost to fix this microwave?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Cuánto costará reparar este reloj?",
+      "back": "How much will it cost to fix this watch?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Sabes si ese manitas arregla goteras?",
+      "back": "Do you know if that handyman fixes leaks?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Sabes si también arregla calentadores?",
+      "back": "Do you know if he fixes boilers as well?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Sabes si también arregla apagones?",
+      "back": "Do you know if he fixes power outages as well?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Pregúntale a él si arregla calefactores.",
+      "back": "Ask him if he fixes radiators.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Pregúntale a él si también arregla alcantarillas obstruidas.",
+      "back": "Ask him if he fixes blocked drains as well.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Pregunta al manitas si también arregla cerraduras.",
+      "back": "Ask the handyman if he fixes locks as well.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Podrías preguntar al manitas si arregla goteras?",
+      "back": "Could you ask the handyman if he fixes leaks?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Le podrías preguntar a él si también arregla apagones?",
+      "back": "Could you ask him if he fixes power outages as well?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Le podrías preguntar a él si también arregla cerraduras?",
+      "back": "Could you ask him if he fixes locks as well?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Le preguntaré a él si arregla apagones y luego te lo haré saber.",
+      "back": "I'll ask him if he fixes power outages and then get back to you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Le preguntaré a él si arregla calefactores y luego te cuento.",
+      "back": "I'll ask him if he fixes radiators, and then get back to you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Le preguntaré a él si arregla calentadores y luego te digo.",
+      "back": "I'll ask him if he fixes boilers, and then get back to you.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "No sé si él arregla goteras, pero sí sé que arregla calentadores.",
+      "back": "I don't know if he fixes leaks, but I do know he fixes boilers.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "No sé si él arregla apagones, pero sí sé que arregla calefactores.",
+      "back": "I don't know if he fixes power outages, but I do know he fixes radiators.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "No sé si él arregla cerraduras, pero sí sé que arregla alcantarillas obstruidas.",
+      "back": "I don't know if he fixes locks, but I do know he fixes blocked drains.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Hay que arreglar ese reloj de pared; no funciona.",
+      "back": "That clock needs fixing; it doesn't work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Hay que arreglar esa grapadora; nunca funciona.",
+      "back": "That stapler needs fixing; it never works.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Hay que arreglar esos altavoces; no funcionan.",
+      "back": "Those speakers need fixing; they don't work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Hay que arreglar este reloj de pulsera; no funciona.",
+      "back": "This watch wants fixing; it doesn't work!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Hay que arreglar la cocina; apenas funciona.",
+      "back": "That stove wants fixing; it barely works!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Hay que arreglar los proyectores. ¡Nunca funcionan!",
+      "back": "These projectors want fixing. They never work!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Van a arreglar la cocina en dos semanas.",
+      "back": "They're fixing the stove in two weeks' time.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Van a arreglar los altavoces en tres semanas.",
+      "back": "They're fixing the speakers in three weeks' time.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Van a arreglar los proyectores en un par de semanas.",
+      "back": "They're fixing the projectors in a couple of weeks' time.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Dime cuándo lo vas a arreglar y me pasaré a ayudarte.",
+      "back": "Tell me when you're fixing it and I'll come by and help.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Dime cuándo las vas a arreglar y me pasaré a echarte una mano.",
+      "back": "Tell me when you're fixing them and I'll come by and give you a hand.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Dime cuándo lo van a arreglar y me pasaré a echarte una mano.",
+      "back": "Tell me when they're fixing it and I'll come by and give you a hand.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Todavía hoy van a estar arreglando la cocina?",
+      "back": "Are they still fixing the stove today?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Todavía van a estar arreglando los altavoces más tarde?",
+      "back": "Are they still fixing the speakers later?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Todavía hoy van a estar arreglando los proyectores?",
+      "back": "Are they still fixing the projectors today?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Voy a fijar un letrero en la puerta de la entrada.",
+      "back": "I'm going to fix a sign to the door at the entrance.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Voy a fijar un letrero en la pared del cuarto de baño.",
+      "back": "I'm going to fix a sign to the wall in the bathroom.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella va a poner una señal en el corcho de la oficina.",
+      "back": "She's going to fix a sign to the board in the office.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Voy a poner un espejo en la puerta de la oficina.",
+      "back": "I'm going to fix a mirror to the door in the office.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Voy a poner el espejo nuevo en la pared de la entrada.",
+      "back": "I'm going to fix the new mirror to the wall at the entrance.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Ella va a pegar un espejo al armario del cuarto de baño.",
+      "back": "She's going to fix a mirror to the cabinet in the bathroom.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Voy a pegar un letrero en la puerta, justo debajo del timbre.",
+      "back": "I'm going to fix a sign to the door, just under the doorbell.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Voy a fijar un espejo en el armario, justo debajo de la luz.",
+      "back": "I'm going to fix a mirror to the cabinet, just under the light.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Ella va a poner un espejo en la pared, justo debajo del programa.",
+      "back": "She's going to fix a mirror to the wall just under the schedule.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Él está poniendo la señal de advertencia en la puerta, justo encima del picaporte.",
+      "back": "He's fixing the warning sign to the door, just above the handle.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Ella está fijando la señal de advertencia justo encima de la cerradura.",
+      "back": "She's fixing the warning sign just above the lock.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Están fijando la señal de advertencia al corcho, justo encima del espejo.",
+      "back": "They're fixing the warning sign to the board, just above the mirror.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Él va a poner un letrero en la puerta que dice «¡No entrar!».",
+      "back": "He's going to fix a sign to the door saying \"Stay out!\"",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Ella va a poner una advertencia en la entrada que dice «¡Cuidado con el perro!».",
+      "back": "She's going to fix a warning to the entrance saying \"Beware of the dog!\"",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Van a fijar un letrero en el corcho que pone «Reunión el martes que viene».",
+      "back": "They're going to fix a sign to the board saying \"Meeting next Tuesday\".",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Te arreglo los calcetines?",
+      "back": "Shall I mend your socks for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Te arreglo los agujeros de tus medias?",
+      "back": "Shall I mend those holes in your stockings for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Te arreglo los agujeros de tu jersey?",
+      "back": "Shall I mend those holes in your jumper for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Quieres que yo te arregle los calcetines?",
+      "back": "Do you want me to mend your socks for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Quieres que la yaya te arregle los agujeros de tus medias?",
+      "back": "Do you want nana to mend those holes in your stockings for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Quieres que yo te arregle los agujeros de tu jersey?",
+      "back": "Do you want me to mend those holes in your jumper for you?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Tengo que reparar mi bicicleta para el miércoles que viene.",
+      "back": "I need to repair my bicycle by next Wednesday.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Él tiene que reparar el motor para la semana que viene.",
+      "back": "He needs to repair the engine by next week.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Ella tiene que reparar su motocicleta para el fin de semana que viene.",
+      "back": "She needs to repair her motorcycle by next weekend.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Tengo que encontrar a alguien que me repare la bicicleta para el jueves que viene.",
+      "back": "I need to find someone to repair my bike by next Thursday.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Tengo que encontrar a alguien que me repare el motor para el mes que viene.",
+      "back": "I need to find someone to repair my engine by next month.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Ella tiene que encontrar a alguien que le repare la scooter para el sábado que viene.",
+      "back": "She needs to find someone to repair her scooter by next Saturday.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Espero que mi abuela me pueda arreglar las medias a tiempo para el baile.",
+      "back": "I hope my nana can mend my stockings in time for the dance.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Espero que mi abuelo pueda reparar el motor a tiempo para el viaje.",
+      "back": "I hope my granddad can repair the engine in time for the trip.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Espero que mi abuela me pueda reparar el jersey a tiempo para el nuevo trimestre.",
+      "back": "I hope my grandmother can repair my jumper in time for the new school term.",
+      "sourcePage": 13
+    }
+  ]
+}
