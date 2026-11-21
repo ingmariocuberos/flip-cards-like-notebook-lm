@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-64",
+  "bookTitle": "Libro 64",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Él suele mandar una postal.",
+      "back": "He usually sends a postcard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Ella suele mandar una tarjeta de Navidad.",
+      "back": "She usually sends a Christmas card.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Ella suele mandar una tarjeta de cumpleaños.",
+      "back": "She usually sends a birthday card.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Él suele mandarle una postal a su hermana.",
+      "back": "He usually sends his sister a postcard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Ella suele mandarle una tarjeta de Navidad a su amiga.",
+      "back": "She usually sends her friend a Christmas card.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Ella suele mandarle una tarjeta de cumpleaños a su suegra.",
+      "back": "She usually sends her mother-in-law a birthday card.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Suelo mandarle unas flores a mi madre por el Día de la Madre.",
+      "back": "I usually send my mum flowers for Mother's Day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella suele mandarle una tarjeta navideña a su amigo por Navidad.",
+      "back": "She usually sends her friend a Christmas card at Christmas.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Ella suele mandarle una tarjeta de cumpleaños a su suegra por su cumpleaños.",
+      "back": "She usually sends her mother-in-law a birthday card for her birthday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Voy a mandarle a mi madre unas flores.",
+      "back": "I'm going to send my mum some flowers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Vamos a mandarle a nuestra abuela unos chocolates.",
+      "back": "We're going to send our granny some chocolates.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Van a mandarle a su hermano un regalo.",
+      "back": "They're going to send their brother a present.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Voy a mandarle a Mark una postal.",
+      "back": "I'm going to send Mark a postcard.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Vamos a mandarle a Sarah unas flores.",
+      "back": "We're going to send Sarah some flowers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Suelo mandarle a Paul una tarjeta de cumpleaños por su cumpleaños.",
+      "back": "I usually send Paul a birthday card for his birthday.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Le mando a ella flores cada año por el Día de San Valentín.",
+      "back": "I send her flowers every year on Valentine's Day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Le mandamos a ella chocolates cada año por el Día de la Madre.",
+      "back": "We send her chocolates every year on Mother's Day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Suelen mandarle a ella un regalo por su cumpleaños.",
+      "back": "They usually send her a present on her birthday.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Ella le va a mandar a él una postal.",
+      "back": "She's going to send him a postcard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Le vamos a mandar a él una tarjeta de cumpleaños.",
+      "back": "We're going to send him a birthday card.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Crees que le van a mandar a él una tarjeta de Navidad?",
+      "back": "Do you think they're going to send him a Christmas card?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Me mandarás una postal?",
+      "back": "Will you send me a postcard?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Crees que me mandarán una tarjeta de cumpleaños?",
+      "back": "Do you think they'll send me a birthday card?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Sé que él no me mandará una postal.",
+      "back": "I know he won't send me a postcard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Les mandamos una postal?",
+      "back": "Should we send them a postcard?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "No quiero mandarles una postal.",
+      "back": "I don't want to send them a postcard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Pero si siempre les mandamos una postal!",
+      "back": "But we always send them a postcard!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Voy a mandarle a Mark una postal porque siempre le mando una postal.",
+      "back": "I'm going to send Mark a postcard because I always send him a postcard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Vamos a mandar flores a Delia porque siempre le mandamos flores.",
+      "back": "We're going to send Delia some flowers because we always send her flowers.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No voy a mandar chocolates a Ian y Ruth porque nunca les mando chocolate.",
+      "back": "I'm not going to send Ian and Ruth any chocolates because I never send them chocolate.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Él se lo está mandando a ella.",
+      "back": "He's sending it to her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Ella se lo está mandando a él.",
+      "back": "She's sending it to him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Nosotros se lo estamos mandando a Mark.",
+      "back": "We're sending it to Mark.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¡Mándamelo!",
+      "back": "Send it to me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¡Mándaselo a él!",
+      "back": "Send it to him!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¡Mándaselo a Paula!",
+      "back": "Send it to Paula!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Se los voy a mandar a ella.",
+      "back": "I'm going to send them to her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Se los vamos a mandar a él.",
+      "back": "We're going to send them to him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Se los van a mandar a Mark.",
+      "back": "They're going to send them to Mark.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Mándamelos!",
+      "back": "Send them to me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Me los puedes mandar a mí ahora mismo?",
+      "back": "Can you send them to me right away?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Mándaselos a Matthew, por favor.",
+      "back": "Send them to Matthew, please.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "No me lo mandes, mándaselo a George.",
+      "back": "Don't send it to me, send it to George.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "No nos los mandes, mándaselos a Úrsula.",
+      "back": "Don't send them to us, send them to Ursula.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "No me lo mandes, mándaselo a ellos.",
+      "back": "Don't send it to me, send it to them.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Le voy a mandar a él uno.",
+      "back": "I'm going to send him one.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "No, no te preocupes; yo le mandaré uno.",
+      "back": "No, don't worry; I'll send him one.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Vale, le mandaré uno la semana que viene entonces.",
+      "back": "Ok, I'll send him one next week then.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Voy a mandar un par a todo el mundo.",
+      "back": "I'm going to send everyone a couple.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Me puedes mandar un par a mí también?",
+      "back": "Can you send me a couple too?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Te mandaré un par mañana.",
+      "back": "I'll send you a couple tomorrow.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Cuántos le mandas a él? Le mando una docena.",
+      "back": "How many are you sending him? I'm sending him a dozen.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Cuántos te manda ella? Me manda media docena.",
+      "back": "How many is she sending you? She's sending me half a dozen.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Cuántos nos mandan? Nos mandan media docena más o menos.",
+      "back": "How many are they sending us? They're sending us around half a dozen.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Me puedes mandar un puñado?",
+      "back": "Can you send me a handful?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Claro, te podemos mandar un puñado.",
+      "back": "Sure, we can send you a handful.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Podemos mandarle un puñado a tu amigo también, si quieres.",
+      "back": "We can send your friend a handful too, if you like.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "No sólo le mandaré uno a él; le mandaré un par.",
+      "back": "I won't just send him one; I'll send him a couple.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "No sólo le mandaré un par a ella; le mandaré un puñado.",
+      "back": "I won't just send her a couple; I'll send her a handful.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "No sólo les mandaré un par; ¡les mandaré media docena!",
+      "back": "I won't just send them a couple; I'll send them half a dozen!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Dile a él que me lo mande.",
+      "back": "Tell him to send it to me.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Dile a ella que nos las mande.",
+      "back": "Tell her to send them to us.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Diles a ellos que se lo manden a él.",
+      "back": "Tell them to send it to him.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Diles a ellos que le manden algunas a él lo antes posible.",
+      "back": "Tell them to send him some as soon as possible.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Dile a ella que me mande algunas lo antes posible.",
+      "back": "Tell her to send me some as soon as possible.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Dile a él que nos mande algunas lo antes posible.",
+      "back": "Tell him to send us some as soon as possible.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Dile a él que no me las mande.",
+      "back": "Tell him not to send them to me.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Diles a ellos que no se lo manden a ella.",
+      "back": "Tell them not to send it to her.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Dile a él que no nos mande ninguna.",
+      "back": "Tell him not to send us any.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Puedes decirle a ella que se lo mande a ellos, por favor?",
+      "back": "Can you tell her to send it to them, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Puedes decirles a ellos que no nos manden ninguna, por favor?",
+      "back": "Can you tell them not to send us any, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Puedes decirle a él que nos mande algunos lo antes posible, por favor?",
+      "back": "Can you tell him to send us some as soon as possible, please?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Quieres que yo le diga a ella que te los mande?",
+      "back": "Do you want me to tell her to send them to you?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Quieres que yo le diga a ella que no te mande ninguna?",
+      "back": "Do you want me to tell her not to send you any?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Quieres que yo les diga que le manden algunos a él lo antes posible?",
+      "back": "Do you want me to tell them to send him some as soon as possible?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "No te preocupes, enviaré la carta.",
+      "back": "Don't worry, I'll post the letter.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "No te preocupes, mi hermana echará la tarjeta de cumpleaños al correo.",
+      "back": "Don't worry, my sister will post the birthday card.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "No te preocupes, mi cuñado mandará la factura.",
+      "back": "Don't worry, my brother-in-law will post the invoice.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "No le voy a mandar a ella la carta ahora, se la mandaré luego.",
+      "back": "I won't post her the letter now, I'll post it to her later.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Mi sobrina no les mandará la tarjeta de cumpleaños esta tarde, se la mandará mañana.",
+      "back": "My niece won't post them the birthday card this evening, she'll post it to them tomorrow.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Mi cuñada no te mandará la factura luego, te la mandará ahora mismo.",
+      "back": "My sister-in-law won't post you the invoice later, she'll post it to you straight away.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Mi cuñada echará la carta al correo por mí.",
+      "back": "My sister-in-law will mail the letter for me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Mi cuñado enviará la tarjeta de cumpleaños por mi hermana.",
+      "back": "My brother-in-law will mail the birthday card for my sister.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Mi cuñada mandará la factura ella misma.",
+      "back": "My sister-in-law will mail the invoice herself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Me puedes mandar la factura?",
+      "back": "Can you mail me the invoice?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Te la mandaré ahora mismo.",
+      "back": "I'll mail it to you straight away.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Te mandaré la factura yo mismo.",
+      "back": "I'll mail you the invoice myself.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Mi hermana lo mandará por mí mañana a primera hora.",
+      "back": "My sister will post it for me first thing tomorrow morning.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Mi cuñado lo mandará por ella mañana a primera hora.",
+      "back": "My brother-in-law will mail it for her first thing tomorrow.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Mi cuñado lo mandará él mismo el lunes a primera hora.",
+      "back": "My brother-in-law will post it himself first thing on Monday.",
+      "sourcePage": 13
+    }
+  ]
+}

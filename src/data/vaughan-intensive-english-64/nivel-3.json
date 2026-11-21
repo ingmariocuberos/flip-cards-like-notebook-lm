@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-64",
+  "bookTitle": "Libro 64",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Si hubiera dependido de mí, habría expulsado al futbolista después de la primera falta.",
+      "back": "If it had been up to me, I would've sent the player off after the first foul.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Si hubiera dependido del portero, le habría expulsado después de que le insultara.",
+      "back": "If it had been up to the goalkeeper, he would've sent him off after he swore at him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Si hubiera dependido de ti, ¿le habrías expulsado después de la primera falta o después de que noqueara al portero?",
+      "back": "If it had been up to you, would you have sent him off after the first foul or after he knocked the goalkeeper out?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "El juicio se alargó un poco, pero al final encarcelaron al futbolista por daños corporales graves.",
+      "back": "The trial dragged on a bit, but in the end the football player was sent down for grievous bodily harm.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "¿Por cuánto tiempo le encarcelaron al final? El juicio se alargó demasiado y perdí el interés por él.",
+      "back": "How long was he sent down for in the end? The trial dragged on too long and I lost interest in it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Los abogados alargaron el juicio porque querían evitar que le encarcelaran el máximo tiempo posible.",
+      "back": "The lawyers dragged the trial on because they wanted to avoid him being sent down for as long as possible.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "La familia intentó alejar al futbolista para que no fuera el foco de atención, pero tenía demasiada ansia de estrellato.",
+      "back": "The family tried to send the player away to escape the spotlight, but he was too hungry for fame.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Su novia intentó alejarlo, pero a él le encantaba la fama y ser el foco de atención.",
+      "back": "His girlfriend tried to send him away, but he loved the fame and the spotlight.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Por fin, el representante del jugador le alejó.",
+      "back": "Finally the player was sent away by his manager.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Mandaron a un asesor para ayudarle a superar sus problemas.",
+      "back": "They sent a counselor in to help him overcome his issues.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Durante su segunda estancia en prisión, mandaron a un psiquiatra para ayudarle.",
+      "back": "During his second stint in prison, they sent in a psychiatrist to help him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Durante su periodo de rehabilitación, mandaron a un terapeuta para ayudarle a superar sus problemas de agresividad.",
+      "back": "During his stint in rehab, they sent a therapist in to help him overcome his anger issues.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Después de su primera estancia en la cárcel, él mandó a sus abogados a por su novia.",
+      "back": "After his first stint in prison, he sent his lawyers after his girlfriend.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Después de su segunda estancia en la cárcel, él mandó a sus abogados a por el árbitro que le expulsó.",
+      "back": "After his second stint in prison, he sent his lawyers after the referee who sent him off.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Después de su periodo de rehabilitación, averiguó que su representante le había robado y mandó a sus abogados a por él.",
+      "back": "After his stint in rehab, he found out his manager had stolen from him and sent his lawyers after him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Ella está metida en un buen lío; su novio la mandó a freír espárragos ayer.",
+      "back": "She's in a right pickle; her boyfriend sent her packing yesterday.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Todavía no me puedo creer que lo mandaran a freír espárragos; era un trabajador respetuoso y competente.",
+      "back": "I still can't believe they sent him packing; he was a respectful and competent worker.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "El camarero mandó a un grupo de adolescentes a freír espárragos cuando intentaron comprar una caja de cervezas.",
+      "back": "The barman sent the group of underage teenagers packing when they attempted to purchase a crate of beer.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Cuando me enteré de lo que le pasó a Bob, me dio escalofríos.",
+      "back": "When I heard the news about Bob, it sent chills down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "El incidente que tuvo lugar fuera de mi piso ayer me dio escalofríos.",
+      "back": "The incident that took place outside my flat yesterday sent chills down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Cuando el malo atacó a los padres del héroe en la película, me dio escalofríos.",
+      "back": "When the villain attacked the hero's parents in the film, it sent a chill down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Sólo de pensar en ello me pongo a temblar.",
+      "back": "Just thinking of it sends shivers down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Lo que ella me dijo fue suficiente para hacerme temblar.",
+      "back": "What she said was enough to send shivers down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Cuando oí que el jefe estaba pensando en despedir a todo su equipo, me puse a temblar.",
+      "back": "When I heard the news that the boss was thinking of sending his whole team packing, it sent a shiver down my spine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Siempre guardamos nuestros adornos en un sitio seguro antes de que venga; es un poco patoso y si no lo hacemos lo tira todo por los aires.",
+      "back": "We always put our ornaments safely away before he comes round, he's quite clumsy and he'll send everything flying if we don't.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Cuando el tío Gordon llevaba la tarta de cumpleaños al salón, se tropezó con el perro e hizo volar el maravilloso postre hasta el regazo de Nora.",
+      "back": "When uncle Gordon carried the birthday cake into the living room, he tripped over the dog and sent the lovely dessert flying into Nora's lap.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "De niño me encantaba hacer catapultas y lanzar volando cualquier objeto que pudiera encontrar.",
+      "back": "As a kid I used to enjoy making catapults and sending any objects I could get hold of flying.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Estoy en un lío; ella me ha asignado otro trabajo imposible.",
+      "back": "I'm in a pickle; she sent me on another wild-goose chase.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Ojalá mi jefe dejara de mandarme tareas imposibles.",
+      "back": "I wish my boss would stop sending me on wild-goose chases.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "No es la primera vez que me da un trabajo imposible de hacer.",
+      "back": "This is not the first time I've been sent on a wild-goose chase by him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Tus artículos se mandarán dentro de tres días.",
+      "back": "Your items will be dispatched within three days.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Los soldados van a ser enviados a la zona de conflicto a pesar de la fuerte oposición que hay dentro del país.",
+      "back": "The soldiers are going to be dispatched into the conflict zone despite strong opposition from within the country.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Hay tropas adicionales listas para ser enviadas a la zona de combate a pesar de la fuerte crítica que hay dentro del partido.",
+      "back": "Additional troops are ready to be dispatched into the combat zone despite heavy criticism from within the party.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Si su pedido incluye más de un artículo, se le avisa de que podrían ser empaquetados y enviados por separado.",
+      "back": "Should your order include more than one item, be advised that they may be packaged and shipped separately.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Si su pedido incluye más de un artículo pesado, podría ser enviado por separado y los costes de envío podrían aumentar.",
+      "back": "Should your order include more than one heavy item, it may be shipped separately and the shipping costs may increase.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Si los gastos de envío aumentan, le informaremos y usted puede decidir si quiere que le manden los artículos.",
+      "back": "Should the shipping costs increase, we'll inform you and you can decide if you want your items to be shipped.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Me mandaron un correo sobre el aumento de los gastos de envío, por eso decidí que no me lo enviaran.",
+      "back": "They emailed me about the higher shipping costs so I decided not to get it shipped.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Les dije por e-mail que había decidido que no me lo enviaran, pero me lo enviaron de todas formas.",
+      "back": "I emailed them that I had decided not to get it shipped but they shipped it anyway.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Me respondieron por e-mail diciendo que lo habían mandado porque ya había salido.",
+      "back": "They emailed back saying that they had shipped it because it had already been dispatched.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Es parte de la política de la empresa mandar un mensaje a nuestros clientes en cuanto un artículo se mande.",
+      "back": "It's company policy to text our customers as soon as an item is dispatched.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Me mandaron mensajes sobre ofertas especiales, no sólo sobre la salida y el envío de mi pedido.",
+      "back": "They texted me about special offers, not only about the dispatch and shipment of my orders.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "En cuanto empezaron a mandarme mensajes con ofertas especiales, les escribí diciendo que no estaba interesada.",
+      "back": "As soon as they started texting me about special offers, I emailed them saying that I was not interested.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Me mandaron un mensaje diciendo que mis artículos se entregarían en breve.",
+      "back": "They texted me saying that my items would be delivered shortly.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Les envié un correo diciendo que mis artículos no habían sido entregados.",
+      "back": "I emailed them saying that my items hadn't been delivered.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Me respondieron por e-mail diciendo que mis artículos definitivamente habían salido y habían sido enviados y que me enviarían un mensaje al móvil con la fecha en que se entregarían.",
+      "back": "They emailed back saying that my items were definitely dispatched and shipped and that they'd text me the date they'd be delivered.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Deberías haber visto cómo reaccionó. Cuando le dije que no la habíamos visto, le entró el pánico.",
+      "back": "You should've seen how he reacted. When I told him we hadn't seen her, it sent him into a panic.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "No deberías haberle dicho que la cuenta estaba vacía. Le provocaste pánico.",
+      "back": "You shouldn't have told him the account was empty. You sent him into a panic.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Ella siempre ha sido nerviosa, así que cuando vio el sarpullido en su brazo, le provocó pánico.",
+      "back": "She's always been nervous, so when she saw the rash on her arm, it sent her into a blind panic.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "El DJ tiene mucho encanto. Cuando mira a los ojos de una mujer, la hipnotiza.",
+      "back": "The DJ has a lot of charm. When he looks into a woman's eyes, it sends her into a trance.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Cuando sus ojos se encontraron con los míos, me hipnotizó.",
+      "back": "When his eyes locked with mine, it sent me into a trance.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Él sacó el reloj de bolsillo, lo colgó delante de mí y me hipnotizó.",
+      "back": "He took the pocket watch out, dangled it in front of me and it sent me into a trance.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Ojalá no le hubieras imitado así. ¡Me entró un ataque de risa en directo en la radio y no podía parar de reír!",
+      "back": "If only you hadn't made that impression of him. It sent me into fits of laughter on live radio and I couldn't stop laughing!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Ojalá no hubiera puesto esa cara. ¡Me entró un ataque de risa durante el discurso!",
+      "back": "If only he hadn't pulled that face. It sent me into fits of laughter during the speech!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Ojalá el profesor no se hubiera agachado. Cuando se le rompieron los pantalones, me entró un ataque de risa. ¡Qué vergüenza!",
+      "back": "If only the lecturer hadn't bent down! When his trousers ripped, it sent me into fits of laughter. It was so embarrassing!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Si le hubieras dicho a ella que le habías visto besando a otra chica, se habría vuelto loca.",
+      "back": "If you'd told her that you'd seen him kissing another girl, it would have sent her over the edge.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Si ella le hubiese dicho a él que había decidido irse a vivir con Cecil, se habría vuelto loco.",
+      "back": "If she'd told him that she'd decided to move in with Cecil, it would have sent him over the edge.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Si él se hubiera enterado de que ella le había puesto los cuernos durante el viaje de convivencia, se habría vuelto loco.",
+      "back": "If he'd found out that she'd cheated on him on the teambuilding trip, it would have sent him over the edge.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Ojalá no fuese tan aburrido. Su voz soporífera siempre me provoca sueño.",
+      "back": "I wish he weren't so boring. His dull voice always sends me to sleep!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Ojalá hubiera esperado antes de tomar esa medicina. Siempre me provoca sueño.",
+      "back": "I wish I'd waited before taking that medicine. It always sends me to sleep!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "De verdad, ojalá no tuviera que corregir sus redacciones. Siempre me provocan sueño.",
+      "back": "Honestly, I wish I didn't have to correct his essays. They always send me right to sleep!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "¿Puedes mandarnos a alguien para arreglar el tejado?",
+      "back": "Can you send someone over to fix the roof?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Si pudieras mandarnos enseguida a alguien para arreglar el tejado te lo agradeceríamos mucho.",
+      "back": "If you could send someone over to fix the roof right away we'd really appreciate it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Si nos mandaras a alguien ahora mismo, estoy seguro de que no tardaría mucho en llegar; estamos aquí en la misma calle.",
+      "back": "If you sent someone over right now, I'm sure it wouldn't take them that long to get here; we're only down the road.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¿Puedes mandarnos a uno de tus electricistas? Han saltado los plomos y realmente yo le agradecería si alguien me pudiera echar una mano.",
+      "back": "Can you send one of your electricians over? The fuse box has blown and I'd really appreciate it if someone could give me a hand.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Si nos mandaras a uno de tus electricistas ahora mismo, llegaría en media hora como mucho.",
+      "back": "If you sent one of your electricians over right now, they'd get here in half an hour tops.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Si nos mandaras a uno de tus electricistas ahora mismo, mientras tanto yo podría empezar a trabajar con los plomos para asegurarme de que no empeoran.",
+      "back": "If you sent one of your electricians over right now, in the meantime I could start to work on the fuse box to make sure it doesn't get any worse.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Os mandaré a Danny en media hora como mucho. Mientras tanto, intentad que los plomos no se calienten demasiado.",
+      "back": "I'll send Danny over in half an hour tops. In the meantime, try to keep the fuse box from overheating.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Dijo que nos mandará a Danny en media hora como mucho.",
+      "back": "He said he'll send Danny over in half an hour tops.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Os lo mando enseguida. Mientras tanto, intentad que el ático no rebose.",
+      "back": "I'll send him over right away. In the meantime, try to keep the attic from overflowing.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "¿Puedes mandarnos a uno de tus fontaneros también?",
+      "back": "Can you send over one of your plumbers too?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Si pudieras mandarnos a uno de tus fontaneros sería genial. Mientras tanto, intentaré que no rebose el inodoro.",
+      "back": "If you could send over one of your plumbers that'd be great. In the meantime, I'll try to keep the toilet from overflowing.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Estoy preocupado porque empiece a salirse agua del inodoro, así que si pudieras mandarnos a uno de tus fontaneros cuanto antes sería genial.",
+      "back": "I'm worried my toilet's going to start to leak, so if you could send over one of your plumbers the sooner the better, that'd be great.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "¿Puedes mandar a uno de tus cerrajeros a mi oficina?",
+      "back": "Can you send one of your locksmiths over to my office?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Si pudieras mandar allí a uno de tus cerrajeros cuanto antes, sería genial.",
+      "back": "If you could send one of your locksmiths over there the sooner the better, that'd be great.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Si mandas al cerrajero a la oficina ahora mismo, llegará en quince minutos como mucho.",
+      "back": "If you send the locksmith over to the office right now, he'll get there in fifteen minutes tops.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Ojalá no hubiera mandado ese e-mail! ¡Ahora el jefe me va a matar!",
+      "back": "If only I hadn't sent that email! The boss is going to kill me now!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¡Ojalá no hubiera mandado esa carta! ¡La escribí y la mandé en un momento de rabia y ahora es demasiado tarde!",
+      "back": "If only I hadn't sent that letter. I wrote it and sent it in a moment of anger and now it's too late!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "¡Ojalá no hubiera mandado ese mensaje de texto! ¡De verdad que la gente debería confiscarme el móvil cuando estoy borracho!",
+      "back": "If only I hadn't sent that text message! People really should confiscate my phone when I'm drunk!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "No debería haber mandado esa carta a Recursos Humanos. Siento haberte metido en un lío.",
+      "back": "I shouldn't have sent that letter to Human Resources. I'm sorry for getting you into trouble.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "No deberías haber mandado ese telegrama a la oficina del Presidente. ¡Ahora estamos acabados!",
+      "back": "You shouldn't have sent that telegram to the President's office. Now we're done for!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Bradley no debería haber mandado ese paquete a Patrick para que pudiera dárselo a Natalie. Fingirá que no llegó nunca.",
+      "back": "Bradley shouldn't have sent that package to Patrick so he could give it to Natalie. He'll just pretend it never arrived.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "No habría mandado ese e-mail de haber sabido lo que iba a ocurrir.",
+      "back": "I wouldn't have sent that email if I had known what was going to happen.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Él no habría mandado esa postal si hubiera sabido que iba a ponerles celosos.",
+      "back": "He wouldn't have sent that postcard if he'd known it was going to make them jealous.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "No habrían mandado las muestras a Héctor si hubieran sabido que él las perdería.",
+      "back": "They wouldn't have sent the samples to Hector if they'd known that he'd lose them!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "No puedo creer que fuese tan estúpido como para mandarle a Roger ese mensaje.",
+      "back": "I can't believe I was stupid enough to send Roger that text message.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "¡No puedo creer que fueras tan estúpido como para enviarle esa carta malhumorada a tu jefe!",
+      "back": "I can't believe you were stupid enough to send that angry letter to your boss!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "¡No puedo creer que Clara fuese tan estúpida como para mandar a su mejor empleado a otra oficina!",
+      "back": "I can't believe Clara was stupid enough to send her best employee to a different office!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "¿Cómo pude ser tan estúpido como para mandarle esa carta de amor a Josh? ¡A él sólo le gusta jugar!",
+      "back": "How could I have been so stupid as to have sent that love letter to Josh? He's just a player!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "¿Cómo pudiste ser tan estúpido como para enviarle al cliente la misma factura dos veces? ¡No va a estar contento!",
+      "back": "How could you have been so stupid as to have sent the client the same bill twice? He's not going to be happy!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "¿Cómo pudo haber sido tan estúpido como para enviarle a ella una foto de su nueva novia? ¡Tiene que haber sido un error!",
+      "back": "How could he have been so stupid as to have sent her a photo of his new girlfriend? It must have been a mistake!",
+      "sourcePage": 41
+    }
+  ]
+}

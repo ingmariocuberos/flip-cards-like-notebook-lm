@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-64",
+  "bookTitle": "Libro 64",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Le mandaste a Peter los folletos? Sí, le mandé los folletos.",
+      "back": "Did you send Peter the brochures? Yes, I sent him the brochures.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "¿Tu jefa le mandó a Sarah las cifras? Sí, le mandó las cifras.",
+      "back": "Did your boss send Sarah the figures? Yes, she sent her the figures.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "¿Le mandó el cliente a Matt el contrato? Sí, le mandó el contrato.",
+      "back": "Did the client send Matt the contract? Yes, he sent him the contract.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "¿Le has mandado a Peter los folletos? Sí, se los he mandado.",
+      "back": "Have you sent Peter the brochures? Yes, I've sent them to him.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "¿Tu jefa le ha mandado a Sarah las cifras? No, pero se las ha mandado a Marge.",
+      "back": "Has your boss sent Sarah the figures? No, but she's sent them to Marge.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "¿El cliente le ha mandado a Matt el contrato? Sí, se lo ha mandado.",
+      "back": "Has the client sent Matt the contract? Yes, he's sent it to him.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Yo les dije que me lo mandaran.",
+      "back": "I told them to send it to me.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Me dijeron que se lo mandara a ella.",
+      "back": "They told me to send it to her.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Él le dijo a ella que nos lo mandara.",
+      "back": "He told her to send it to us.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Yo antes les mandaba tarjetas de Navidad, pero ya no.",
+      "back": "I used to send them Christmas cards, but I don't any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Antes nos mandaban folletos, pero ya no.",
+      "back": "They used to send us brochures, but they don't any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "La gente antes mandaba cartas, pero ya no.",
+      "back": "People used to send letters, but they don't any more.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Les mandaste algunos? No, no les mandé ninguno.",
+      "back": "Did you send them any? No, I didn't send them any.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Les has mandado algunos? Sí, les he mandado unos cuantos.",
+      "back": "Have you sent them any? Yes, I've sent them a few.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Les mandaron un par a Claudia y Antonio, pero sólo nos mandaron uno.",
+      "back": "They sent Claudia and Antonio a couple, but they only sent us one.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Cuándo se mandó el paquete?",
+      "back": "When was the parcel sent?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Por qué se mandó la investigación?",
+      "back": "Why was the inquiry sent?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Cómo se mandaron las cajas?",
+      "back": "How were the boxes sent?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "El paquete se mandó hace tres días.",
+      "back": "The parcel was sent three days ago.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "La investigación se mandó para evaluar la situación.",
+      "back": "The inquiry was sent to assess the situation.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Las cajas se mandaron por correo urgente.",
+      "back": "The boxes were sent by special delivery.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Quién mandó el paquete? Exprésalo en pasiva.",
+      "back": "Who was the parcel sent by?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "No sé quién mandó el paquete. Exprésalo en pasiva.",
+      "back": "I don't know who the parcel was sent by.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Quién mandó ese correo basura? Exprésalo en pasiva.",
+      "back": "Who was that piece of junk mail sent by?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Cuántos folletos se han mandado en lo que va de semana?",
+      "back": "How many brochures have been sent so far this week?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Adónde se han mandado los folletos?",
+      "back": "Where have the brochures been sent?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Se han mandado ya los otros folletos?",
+      "back": "Have the other brochures been sent yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Más o menos 250 folletos se han mandado en lo que va de semana.",
+      "back": "About two hundred and fifty brochures have been sent so far this week.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Los folletos se han mandado por todo el país.",
+      "back": "The brochures have been sent all across the country.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Los otros folletos no se han mandado aún.",
+      "back": "The other brochures haven't been sent yet.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "No me mandaron el material a tiempo.",
+      "back": "I wasn't sent the material in time.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Nunca me mandan nada a tiempo!",
+      "back": "I'm never sent anything in time!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Lamentamos que no le enviaran el material a tiempo.",
+      "back": "We're sorry you weren't sent the material in time.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Nos mandaron el artículo equivocado.",
+      "back": "We were sent the wrong item.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "A menudo nos mandan artículos equivocados.",
+      "back": "We're often sent the wrong items.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Lamentamos que le enviaran el artículo equivocado.",
+      "back": "We're sorry you were sent the wrong item.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Me mandaron el que no era otra vez.",
+      "back": "I was sent the wrong one again.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "No me puedo creer que me mandaran los que no había pedido otra vez.",
+      "back": "I can't believe I was sent the wrong ones again.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Lamentamos muchísimo que le mandaran los que no había pedido otra vez.",
+      "back": "We're terribly sorry you were sent the wrong ones again.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Me mandaron la talla equivocada, así que tuve que devolverlo.",
+      "back": "I was sent the wrong size, so I had to send it back.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Nos mandaron el color equivocado, así que tuvimos que devolverlos.",
+      "back": "We were sent the wrong colour so we had to send them back.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Les mandaron el modelo equivocado, así que tuvieron que devolverlos.",
+      "back": "They were sent the wrong model so they had to send them back.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Y si te mandaron el artículo equivocado, ¿por qué no lo devolviste?",
+      "back": "Well, if you were sent the wrong item, why didn't you send it back?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Si le mandaron a ella los equivocados, ¿por qué no los devolvió?",
+      "back": "If she was sent the wrong ones, why didn't she send them back?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Si nos mandaron la talla equivocada otra vez, ¿por qué no lo devolvemos y no volvemos a utilizar su servicio?",
+      "back": "If we were sent the wrong size again, why don't we send it back and never use their service again?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¿Puedes mandarnos un e-mail con tus datos bancarios?",
+      "back": "Can you send us an email with your bank details?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Dile a él que me mande un e-mail con sus datos de contacto antes de fin de mes.",
+      "back": "Tell him to send me an email with his contact details by the end of the month.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Te mandaré un e-mail con los datos del pago ahora mismo.",
+      "back": "I'll send you an email with the payment details right away.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Has mandado un recordatorio a propósito del nuevo horario?",
+      "back": "Have you sent out a reminder regarding the new schedule?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "No, no he mandado un recordatorio a propósito del nuevo horario.",
+      "back": "No, I haven't sent out a reminder regarding the new schedule.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Dile a él que mande un recordatorio a propósito del nuevo horario ahora mismo.",
+      "back": "Tell him to send out a reminder regarding the new schedule right away.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Creo que te olvidaste de adjuntar los archivos.",
+      "back": "I think you forgot to attach the files.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Disculpa; los archivos ya están adjuntos.",
+      "back": "Apologies; the files are now attached.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Te adjunto los documentos de los que hemos hablado.",
+      "back": "Please find attached the documents we discussed.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Es vital que contestes a este e-mail antes de la fecha límite.",
+      "back": "It's vital that you reply to this email before the deadline.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Es esencial que contestes a este e-mail ahora mismo.",
+      "back": "It's essential that you reply to this email right away.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Es importante que contestes a ese e-mail antes de fin de mes.",
+      "back": "It's important that you reply to that email by the end of the month.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Dile a él que reenvíe a todo el mundo los detalles del pago antes de la fecha límite.",
+      "back": "Tell him to forward everyone the payment details before the deadline.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Es esencial que reenvíes a todo el mundo el e-mail con el nuevo horario adjunto.",
+      "back": "It's essential that you forward everyone the email with the new schedule attached.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Disculpa, les he reenviado el recordatorio, pero se me olvidó adjuntar los documentos.",
+      "back": "Apologies, I forwarded them the reminder but I forgot to attach the files.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Dónde está tu nueva secretaria personal? La mandé a hacer un recado.",
+      "back": "Where's your new PA? I sent her on an errand.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Mandé a mi secretaria personal a hacer un recado, vuelve enseguida.",
+      "back": "I sent my PA on an errand, she'll be right back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Mi jefe me mandó a hacer un recado, ¡vuelvo enseguida!",
+      "back": "My boss sent me on an errand, I'll be right back!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¿Tu secretaria personal está fuera otra vez? Sí, la mandé a buscar unas flores.",
+      "back": "Is your PA out again? Yes, I sent her for some flowers.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Su secretaria personal está fuera otra vez, creo que la mandó a buscar unos bombones.",
+      "back": "His PA is out again, I think he sent her for some chocolates.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Por qué mandó a su secretaria personal a buscar flores y bombones?",
+      "back": "Why did he send his PA for some flowers and chocolates?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Él la mandó a buscar un regalo de cumpleaños para su mujer.",
+      "back": "He sent her to get his wife a birthday present.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Me mandó a recoger su ropa de la tintorería y a comprar un regalo de cumpleaños para su mujer cuando estaba volviendo.",
+      "back": "He sent me to pick up the dry-cleaning and to get his wife a birthday present on my way back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Él también la mandó a recoger a su hija cuando estaba volviendo.",
+      "back": "He also sent her to pick up his daughter on her way back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "¡No puedo creer que esté pidiendo que venga una masajista!",
+      "back": "I can't believe he's sending for a massage therapist!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¡Ella no podía creerse que él estuviera pidiendo que viniera un pedicuro!",
+      "back": "She couldn't believe he was sending for a pedicurist!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¡La secretaria personal se está volviendo loca! ¡Que alguien llame a un médico!",
+      "back": "The PA is going crazy! Send for a doctor!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Él me dijo que encargara unas flores.",
+      "back": "He told me to send for some flowers.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Después me dijo que encargara bombones.",
+      "back": "Then he told me to send for some chocolates.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Por qué encargó flores y bombones?",
+      "back": "Why did he send for flowers and chocolates?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Quién es el que manda por aquí?",
+      "back": "Who's in charge around here?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Yo soy el que manda, así que haz lo que te digo.",
+      "back": "I'm the one in charge, so do what I tell you.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Ella es la que manda, así que hacemos lo que nos dice.",
+      "back": "She's the one in charge, so we do what she tells us.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Nos mandaron callar.",
+      "back": "We were told to be quiet.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Me mandaron salir de la sala inmediatamente.",
+      "back": "I was told to leave the room immediately.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Le mandaron que no lo volviera a hacer.",
+      "back": "He was told not to do it again.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Haz lo que te mandan si no quieres meterte en líos.",
+      "back": "Do as you're told if you don't want to get into trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Ella hizo lo que se le mandó para no meterse en líos.",
+      "back": "She did as she was told so she didn't get into trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Hicimos lo que se nos mandó para no meternos en líos.",
+      "back": "We did as we were told so we didn't get into trouble.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Ella nos mandó que formáramos al becario durante toda la mañana.",
+      "back": "She had us train the intern all morning.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "El jefe mandó al becario a que le trajera un café.",
+      "back": "The boss had the intern bring him a coffee.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Ellos les mandaron que se quedaran hasta tarde en el trabajo.",
+      "back": "They had them stay late at work.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Ella no dejaba de meterme en líos, así que la mandé a la mierda.",
+      "back": "She kept getting me into trouble so I told her to go to hell.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Mi compañero de piso no dejaba de meter en líos a su novia, así que ella le mandó a la mierda.",
+      "back": "My flatmate kept getting his girlfriend into trouble so she told him to go to hell.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Él quería estar al mando, así que mandó a su jefe a la mierda.",
+      "back": "He wanted to be the one in charge, so he told his boss to go to hell.",
+      "sourcePage": 27
+    }
+  ]
+}
