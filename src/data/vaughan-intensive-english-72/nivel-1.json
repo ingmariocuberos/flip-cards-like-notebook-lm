@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-72",
+  "bookTitle": "Libro 72",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Duermo de doce a ocho.",
+      "back": "I sleep from twelve to eight.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Duermo de once a seis.",
+      "back": "I sleep from eleven to six.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Duermen de diez a siete. ¿Duermen sus hijos de diez a siete también?",
+      "back": "They sleep from ten till seven. Do their kids sleep from ten till seven too?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Él duerme ocho horas.",
+      "back": "He sleeps for eight hours.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Ella duerme siete horas cada noche.",
+      "back": "She sleeps for seven hours a night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "El bebé duerme seis horas cada noche.",
+      "back": "The baby sleeps for six hours a night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "El bebé duerme toda la noche.",
+      "back": "The baby sleeps all night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Los niños duermen toda la noche, pero yo no duermo toda la noche.",
+      "back": "The kids sleep all night but I don't sleep all night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Mi hijo adolescente duerme todo el día.",
+      "back": "My teenage son sleeps all day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Duermes bien?",
+      "back": "Do you sleep well?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Sí, duermo muy bien.",
+      "back": "Yes, I sleep very well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Duermo bien por la tarde, pero no duermo muy bien por la noche.",
+      "back": "I sleep well in the afternoon but I don't sleep very well at night.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Buenas noches! ¡Que duermas bien!",
+      "back": "Goodnight! Sleep well!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Buenas noches, cariño, ¡que duermas bien!",
+      "back": "Goodnight, darling, sleep well!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Que duermas bien! ¡Que sueñes con los angelitos!",
+      "back": "Sleep tight! Don't let the bed bugs bite!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Normalmente me quedo dormido sobre las 12.",
+      "back": "I normally fall asleep at around 12 o'clock.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Él normalmente se queda dormido sobre las 12 y media.",
+      "back": "He normally falls asleep at around half twelve.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Mi hija normalmente se queda dormida sobre las 10.",
+      "back": "My daughter normally falls asleep at around 10 o'clock.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Normalmente me quedo dormido una hora por la tarde.",
+      "back": "I usually fall asleep for an hour in the evening.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Normalmente me quedo dormido un cuarto de hora por la tarde.",
+      "back": "I usually fall asleep for a quarter of an hour in the evening.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Siempre me quedo dormido unos minutos cuando veo la tele.",
+      "back": "I always fall asleep for a few minutes when I watch TV.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Te quedas dormido delante de la tele?",
+      "back": "Do you fall asleep in front of the telly?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Sí, siempre me quedo dormido un cuarto de hora delante de la tele.",
+      "back": "Yes, I always fall asleep for a quarter of an hour in front of the telly.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No, nunca me duermo delante de la tele.",
+      "back": "No, I never fall asleep in front of the telly.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Intenta no dormirte!",
+      "back": "Try not to fall asleep!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Intenta no dormirte en la reunión.",
+      "back": "Try not to fall asleep in the meeting.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Intenta no quedarte dormido delante de la tele.",
+      "back": "Try not to fall asleep in front of the telly.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Esta película es una basura! ¡Me estoy durmiendo!",
+      "back": "This film is rubbish. I'm falling asleep!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Esta presentación es tan aburrida! ¡Todo el mundo se está durmiendo!",
+      "back": "This presentation is so boring! Everyone's falling asleep!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Este juego es aburrido! ¡Estoy aburrido y me estoy durmiendo!",
+      "back": "This game's boring! I'm bored and I'm falling asleep!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Tienes sueño?",
+      "back": "Are you sleepy?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Sí, ¡tengo muchísimo sueño!",
+      "back": "Yeah, I'm extremely sleepy!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "No, no tengo sueño en absoluto.",
+      "back": "No, I'm not sleepy at all.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Tengo un poco de sueño hoy.",
+      "back": "I'm a little sleepy today.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Tiene Frank un poco de sueño hoy?",
+      "back": "Is Frank a little sleepy today?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Los dos tenemos un poco de sueño hoy.",
+      "back": "We're both a little sleepy today.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Tengo muchísimo sueño hoy. (Usa «feeling».)",
+      "back": "I'm feeling extremely sleepy today.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¡No tengo nada de sueño! (Usa «feeling».)",
+      "back": "I'm not feeling sleepy at all!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Los dos tenemos un poco de sueño. (Usa «feeling».)",
+      "back": "We're both feeling a little sleepy.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Te está entrando sueño?",
+      "back": "Are you getting sleepy?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Sí, me está entrando un poco de sueño.",
+      "back": "Yeah, I'm getting a little bit sleepy.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Siempre me entra un poquito de sueño después de la comida.",
+      "back": "I always get a little bit sleepy after lunch.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¡Hala! Parece que tienes mucho sueño.",
+      "back": "Wow! You look really sleepy.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Parece que Michelle tiene un poco de sueño hoy.",
+      "back": "Michelle looks a bit sleepy today.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella siempre parece que tiene sueño después de comer.",
+      "back": "She always looks sleepy after lunch.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Leslie, ¿estás durmiendo?",
+      "back": "Leslie, are you asleep?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Estás durmiendo, cariño?",
+      "back": "Are you asleep, darling?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Está el bebé durmiendo?",
+      "back": "Is the baby asleep?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Shhh! ¡Por fin él está durmiendo!",
+      "back": "Shhh! He's finally asleep!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Cállate! ¡Por fin está durmiendo el bebé!",
+      "back": "Be quiet! The baby's finally asleep!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¡Que no hagas ruido! ¡Leslie por fin está durmiendo!",
+      "back": "Keep it down! Leslie's finally asleep!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Los niños están profundamente dormidos.",
+      "back": "The kids are fast asleep.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "No te preocupes, ¡el bebé está profundamente dormido!",
+      "back": "Don't worry; the baby's fast asleep!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Por fin Leslie está durmiendo profundamente. ¡Por favor, no hagas ruido!",
+      "back": "Leslie's finally sound asleep. Please keep it down!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Cariño? ¿Estás despierto?",
+      "back": "Darling? Are you awake?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Sí, estoy despierto.",
+      "back": "Yes, I'm awake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Está bien, el peque está despierto.",
+      "back": "It's OK, the little one's awake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Estoy totalmente despierto.",
+      "back": "I'm wide awake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "No puedo dormir. Estoy totalmente despierto.",
+      "back": "I can't sleep. I'm wide awake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "No tengo sueño para nada. ¡Estoy totalmente despierto!",
+      "back": "I'm not sleepy at all. I'm wide awake!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Suelo levantarme antes del amanecer.",
+      "back": "I normally get up before dawn.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Te levantarás antes de la salida del sol?",
+      "back": "Will you get up before sunrise?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Probablemente te levantes antes de las seis, ¿no?",
+      "back": "You'll probably get up before six, right?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Él va a intentar levantarse antes del amanecer.",
+      "back": "He's going to try and get up before dawn.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Él va a intentar levantarse antes de la salida del sol de mañana.",
+      "back": "He's going to try and get up before sunrise tomorrow.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Van a intentar levantarse antes del mediodía.",
+      "back": "They're going to try and get up before midday.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Probablemente el bebé se despertará a eso de las seis y media.",
+      "back": "The baby will probably wake up around half six.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Probablemente el peque se despertará sobre las siete.",
+      "back": "The little one's probably going to wake up around seven.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Probablemente me despertaré sobre las ocho.",
+      "back": "I'm probably going to wake up around eight.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Voy a despertarme a las ocho en punto.",
+      "back": "I'm going to wake up at 8 o'clock on the dot.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Por qué te vas a despertar a las ocho en punto?",
+      "back": "Why are you going to wake up at 8 o'clock on the dot?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Me voy a despertar a las ocho en punto porque mi despertador suena a las ocho en punto.",
+      "back": "I'm going to wake up at 8 o'clock on the dot because my alarm goes off at 8 o'clock on the dot.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Probablemente tendré un poco de sueño cuando me despierte.",
+      "back": "I'll probably be a bit sleepy when I wake up.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Ella probablemente tendrá un poco de sueño cuando se levante.",
+      "back": "She'll probably be a little sleepy when she gets up.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Siempre tengo mucho sueño cuando suena mi despertador.",
+      "back": "I always feel extremely sleepy when my alarm goes off.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Me voy a la cama.",
+      "back": "I'm going to bed.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Estoy exhausto, así que me voy a la cama.",
+      "back": "I'm totally exhausted so I'm going to bed.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Ella se va a acostar porque está exhausta.",
+      "back": "She's going to bed because she's totally exhausted.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Ella vuelve a la cama cuando hace mal tiempo.",
+      "back": "She goes back to bed when the weather's bad.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Se levanta al amanecer y vuelve a la cama sobre mediodía.",
+      "back": "She gets up at sunrise and she goes back to bed around midday.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Estoy exhausto. Me voy a volver a la cama después de limpiar.",
+      "back": "I'm exhausted. I'm going back to bed after cleaning!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Estoy agotado, así que me voy a la cama temprano esta noche.",
+      "back": "I'm worn out so I'm going to bed early tonight.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Estás agotado. Intenta acostarte temprano esta noche.",
+      "back": "You're worn out. Try and go to bed early tonight.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Ella se acuesta muy temprano esta noche porque está exhausta.",
+      "back": "She's going to bed extremely early tonight because she's exhausted.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Sueles acostarte tarde?",
+      "back": "Do you usually go to sleep late?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Suelo acostarme tarde, pero hoy estoy agotada, así que voy a acostarme temprano.",
+      "back": "I usually go to sleep late, but today I'm worn out, so I'm going to sleep early.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Intenta no acostarte tarde.",
+      "back": "Try not to go to sleep late.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Tengo que acostarme temprano esta noche. ¡Tengo sueño!",
+      "back": "I have to go to sleep early tonight. I'm sleepy!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Necesitas acostarte temprano esta noche. Tienes que levantarte temprano mañana.",
+      "back": "You need to go to sleep early tonight. You have to get up early tomorrow.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Ella quiere acostarse temprano esta noche. Tiene que levantarse a las 6 en punto mañana.",
+      "back": "She wants to go to sleep early tonight. She has to wake up at 6 o'clock on the dot tomorrow.",
+      "sourcePage": 13
+    }
+  ]
+}

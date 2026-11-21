@@ -90,4 +90,6 @@ Fuente local: `sources/english/Libro NN.pdf`. Los PDF 1–20 proceden del primer
 
 | 71 | 47 | Publicado | 90 / 90 / 87 | `Add Vaughan English book 71 flashcards by level` |
 
+| 72 | 48 | Publicado | 90 / 90 / 90 | `Add Vaughan English book 72 flashcards by level` |
+
 `Tarjetas por nivel` sigue el orden básico / intermedio / avanzado. “Publicado” significa JSON validados, `npm run build` correcto y `git push origin main` completado. Los PDF y OCR se conservan localmente en `sources/english/`; no se versionan.

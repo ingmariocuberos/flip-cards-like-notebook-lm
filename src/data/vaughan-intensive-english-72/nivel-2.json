@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-72",
+  "bookTitle": "Libro 72",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Ayer me desperté a las nueve y media en punto.",
+      "back": "Yesterday, I woke up at half nine on the dot.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "El despertador sonó y me levanté.",
+      "back": "My alarm went off and I got up.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Después de ducharme, estaba totalmente despierto.",
+      "back": "After I had a shower, I was wide awake.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Me empezó a entrar el sueño después de comer.",
+      "back": "I started to get sleepy after I had lunch.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Me estaba durmiendo en la reunión por la tarde.",
+      "back": "I was falling asleep in the afternoon meeting.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Tuve sueño toda la tarde.",
+      "back": "I was sleepy all afternoon.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Me quedé dormido delante de la tele.",
+      "back": "I fell asleep in front of the telly.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Estuve profundamente dormido durante un cuarto de hora.",
+      "back": "I was fast asleep for a quarter of an hour.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Me desperté en el sofá a las ocho menos cuarto.",
+      "back": "I woke up on the sofa at a quarter to eight.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Me fui a la cama muy temprano.",
+      "back": "I went to bed very early.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "No podía dormir, así que leí un libro.",
+      "back": "I couldn't sleep so I read a book.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Finalmente me quedé dormido a las once y media.",
+      "back": "I finally fell asleep at eleven thirty.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Dormí hasta las tres de la mañana y me desperté de repente.",
+      "back": "I slept until 3am when I woke up suddenly.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Estaba totalmente despierto.",
+      "back": "I was wide awake!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Fui al baño y luego volví a la cama.",
+      "back": "I went to the toilet and then I went back to bed.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "Tengo que dormir. ¡Estoy destrozada!",
+      "back": "I need to get some sleep. I'm shattered!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "Beth tiene que dormir. ¡Parece destrozada!",
+      "back": "Beth needs to get some sleep. She looks shattered!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Intenta dormir. ¡Pareces destrozado!",
+      "back": "Try and get some sleep. You look shattered!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Te hace mucha falta una buena noche de sueño. ¡Pareces hecho polvo!",
+      "back": "You seriously need to get a good night's sleep. You look beat!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Me hace mucha falta dormir bien. ¡Estoy hecho polvo!",
+      "back": "I seriously need to get a good night's sleep. I'm beat!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Intenta dormir bien esta noche. ¡Pareces hecho polvo!",
+      "back": "Try and get a good night's sleep. You look beat!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¡Dormí muy poco anoche!",
+      "back": "I got very little sleep last night!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Hoy estoy destrozada. Dormí muy poco anoche.",
+      "back": "I'm shattered today. I got very little sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella parece hecha polvo. Durmió muy poco anoche.",
+      "back": "She looks beat. She got very little sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "No sé por qué estoy tan hecho polvo. Dormí más que de sobra anoche.",
+      "back": "I don't know why I'm so beat. I got plenty of sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "No sé por qué tengo tanto sueño. Dormí más que de sobra anoche.",
+      "back": "I don't know why I'm so sleepy. I got plenty of sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "No sé por qué tienes tanto sueño. Dormiste más que de sobra.",
+      "back": "I don't know why you're so sleepy. You got plenty of sleep.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "No, no tengo sueño. Dormí ocho horas anoche.",
+      "back": "No, I'm not sleepy. I got eight hours' sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Estoy totalmente hecho polvo. Sólo dormí cuatro horas anoche.",
+      "back": "I'm seriously beat. I only got four hours' sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Estoy completamente destrozada. Sólo dormí tres horas anoche.",
+      "back": "I'm seriously shattered. I only got three hours' sleep last night.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Llevo sin dormir hasta tarde desde el domingo pasado.",
+      "back": "I haven't slept in since last Sunday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Ella lleva sin dormir hasta tarde desde el fin de semana pasado.",
+      "back": "She hasn't slept in since last weekend.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Llevo sin dormir hasta tarde desde el mes pasado.",
+      "back": "I haven't slept in since last month.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Hace años que no se me pegan las sábanas.",
+      "back": "I haven't overslept in years.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Hace mucho tiempo que no se me pegan las sábanas.",
+      "back": "I haven't overslept in a long time.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Hace siglos que no se te pegan las sábanas.",
+      "back": "You haven't overslept in ages.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Alguna vez se te han pegado las sábanas y has perdido el autobús?",
+      "back": "Have you ever overslept and missed the bus?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Alguna vez se le han pegado las sábanas a ella y ha perdido el tren?",
+      "back": "Has she ever overslept and missed the train?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Alguna vez se le han pegado las sábanas a él y ha perdido un vuelo?",
+      "back": "Has he ever overslept and missed a flight?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Hace años que ella no sigue durmiendo cuando salta el despertador, ¿verdad?",
+      "back": "She hasn't slept through her alarm in years, has she?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Hace mucho tiempo que él no sigue durmiendo cuando salta el despertador, ¿verdad?",
+      "back": "He hasn't slept through his alarm in a long time, has he?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Hace siglos que no sigues durmiendo cuando salta el despertador, ¿verdad?",
+      "back": "You haven't slept through your alarm in ages, have you?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "¡La obra de teatro era tan lenta que me la pasé entera durmiendo!",
+      "back": "The play was so slow that I slept through the whole thing!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "El ponente tenía una voz tan suave que me dormí durante todo el discurso.",
+      "back": "The speaker had such a soft voice that I slept through the whole speech.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "La música se parecía tanto a una nana que dormí durante todo el recital.",
+      "back": "The music sounded so much like a lullaby that I slept through the whole recital.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Me desperté y no sabía qué día era.",
+      "back": "I woke up and I didn't know what day it was.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-047",
+      "front": "Ella se despertó y no sabía dónde estaba.",
+      "back": "She woke up and she didn't know where she was.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-048",
+      "front": "Cuando él se despertó, no sabía qué hora era.",
+      "back": "When he woke up, he didn't know what time it was.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-049",
+      "front": "No nos despiertes hasta mediodía.",
+      "back": "Don't wake us up until midday.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-050",
+      "front": "Hagas lo que hagas, no le despiertes hasta mediodía como muy pronto.",
+      "back": "Whatever you do, don't wake him up until midday at the earliest.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-051",
+      "front": "Hagas lo que hagas, no la despiertes hasta las 10 como muy tarde.",
+      "back": "Whatever you do, don't wake her up until 10 at the latest.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-052",
+      "front": "Tienes que volver a la realidad, James. En serio, necesitas ayuda.",
+      "back": "You have to wake up to reality, James. You seriously need help.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella tiene que volver a la realidad. En serio, necesita ayuda.",
+      "back": "She has to wake up to reality. She seriously needs help.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-054",
+      "front": "Él tiene que volver a la realidad. En serio, necesita ayuda.",
+      "back": "He has to wake up to reality. He seriously needs help.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-055",
+      "front": "¡Venga, chicos, espabilaos! No estáis prestando atención.",
+      "back": "Come on guys, wake up! You're not paying attention.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-056",
+      "front": "¡Venga, chicos, espabilaos! Ya os he dicho cinco veces la respuesta.",
+      "back": "Come on guys, wake up! I've already told you the answer five times.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-057",
+      "front": "¡Venga, chicos, espabilaos! Él ya os ha dicho varias veces la respuesta.",
+      "back": "Come on guys, wake up! He's already told you the answer several times.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-058",
+      "front": "Me desperté con el olor de huevos y beicon.",
+      "back": "I awoke to the smell of bacon and eggs.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-059",
+      "front": "Ella se despertó con el sonido del canto de los pájaros.",
+      "back": "She awoke to the sound of birdsong.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-060",
+      "front": "Él se despertó al ver a un ladrón en su habitación.",
+      "back": "He awoke to the sight of a burglar in his bedroom.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Vas a quedarte a dormir en casa de Kirsten esta noche?",
+      "back": "Are you going to sleep over at Kirsten's place tonight?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-062",
+      "front": "¿Sabes si vas a quedarte a dormir en casa de Liam el sábado?",
+      "back": "Do you know if you're going to sleep over at Liam's place on Saturday?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-063",
+      "front": "¿Por qué no te quedas a dormir?",
+      "back": "Why don't you sleep over?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-064",
+      "front": "La cama de George no está deshecha. ¿Se quedó a dormir en casa de Liam?",
+      "back": "George's bed hasn't been slept in. Did he sleep over at Liam's place?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Carmen volvió a casa anoche? Creo que no. Su cama no está deshecha.",
+      "back": "Did Carmen come home last night? I don't think so. Her bed hasn't been slept in.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Jimmy volvió a casa anoche? Creo que no. Su cama no está deshecha.",
+      "back": "Did Jimmy come home last night? I don't think so. His bed hasn't been slept in.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Marie y Tom se acostaron?",
+      "back": "Did Marie and Tom sleep together?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-068",
+      "front": "No, Tom se quedó a dormir en casa de Marie, pero no se acostaron.",
+      "back": "No, Tom slept over at Marie's place but they didn't sleep together.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-069",
+      "front": "Les dijeron a todos que no se acostaron, pero todo el mundo sabe que sí lo hicieron.",
+      "back": "They told everyone they didn't sleep together but everyone knows they did.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Jack se acostó con Amanda?",
+      "back": "Did Jack sleep with Amanda?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-071",
+      "front": "No, no se acostó con ella. No se acostó con nadie.",
+      "back": "No, he didn't sleep with her. He didn't sleep with anyone.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-072",
+      "front": "Les dijo a todos que no se acostó con ella, pero todo el mundo cree que sí lo hizo.",
+      "back": "He told everyone he didn't sleep with her but everyone thinks he did.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-073",
+      "front": "No es buena idea acostarse con cualquiera hoy en día.",
+      "back": "It's not a good idea to sleep around in this day and age.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-074",
+      "front": "Hagas lo que hagas, no te acuestes con cualquiera. No es seguro.",
+      "back": "Whatever you do, don't sleep around. It's unsafe.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Por qué la gente se acuesta con cualquiera hoy en día? Es tan peligroso.",
+      "back": "Why do people sleep around in this day and age? It's so dangerous.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Caminaba yo dormido anoche?",
+      "back": "Was I sleepwalking last night?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-077",
+      "front": "Tengo la sensación de que yo caminaba dormido anoche.",
+      "back": "I feel like I was sleepwalking last night.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-078",
+      "front": "¡No me digas que estuve caminando dormido otra vez anoche!",
+      "back": "Don't tell me I was sleepwalking again last night!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Te das cuenta de que caminabas dormido anoche?",
+      "back": "You do realize you were walking in your sleep during the night?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-080",
+      "front": "Tengo la sensación de que caminaba dormido anoche. (Usa «walking».)",
+      "back": "I feel like I was walking in my sleep during the night.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-081",
+      "front": "¡No me digas que caminaba dormido de nuevo!",
+      "back": "Don't tell me I was walking in my sleep again!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-082",
+      "front": "Siempre he sido sonámbulo.",
+      "back": "I've always been a sleepwalker.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-083",
+      "front": "¿No sabías que mi marido es sonámbulo?",
+      "back": "Didn't you know that my husband is a sleepwalker?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-084",
+      "front": "¿De verdad? ¿Eres sonámbulo? ¡Qué peligroso!",
+      "back": "Really? You're a sleepwalker? That's so unsafe!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Te das cuenta de que hablabas en sueños anoche?",
+      "back": "You do realize you were talking in your sleep last night?",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-086",
+      "front": "Tengo la sensación de que hablaba en sueños anoche. (Usa «feel like».)",
+      "back": "I feel like I was talking in my sleep during the night.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-087",
+      "front": "Tengo la sensación de que hablaba en sueños anoche. (Usa «have the feeling».)",
+      "back": "I have the feeling I was talking in my sleep last night.",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-088",
+      "front": "¡Es la hora de despertarte, dormilón!",
+      "back": "It's time to get up sleepyhead!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-089",
+      "front": "¡Qué dormilón eres! ¡Despierta!",
+      "back": "You're such a sleepyhead. Wake up!",
+      "sourcePage": 28
+    },
+    {
+      "id": "s2-090",
+      "front": "¡Venga, dormilón! ¡Vamos a llegar tarde!",
+      "back": "Come on sleepyhead! We're going to be late!",
+      "sourcePage": 28
+    }
+  ]
+}
