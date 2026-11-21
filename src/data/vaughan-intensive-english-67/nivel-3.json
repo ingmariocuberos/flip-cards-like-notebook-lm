@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-67",
+  "bookTitle": "Libro 67",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Como alguien que carece de experiencia laboral, no estoy seguro de cumplir con su perfil para candidatos potenciales.",
+      "back": "As someone who lacks work experience, I'm not sure I fit their profile for potential candidates.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Realmente no cumplo con el perfil de la clase de candidato que buscan.",
+      "back": "I don't really fit the profile of the kind of candidate they're looking for.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Creo que mi experiencia en diseño gráfico y mis habilidades como antiguo ingeniero eléctrico se ajustan perfectamente a su perfil para candidatos potenciales.",
+      "back": "I think that my background in graphic design and skill set as a former electrical engineer fit your profile for potential candidates perfectly.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "La policía no podía encontrar sospechosos potenciales que respondieran a la descripción de un señor calvo de 178 cm de unos setenta años.",
+      "back": "The cops couldn't find any potential suspects who fit the description of a five foot ten bald male in his 70s.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Las autoridades locales tienen intención de buscar por todas partes a alguien que responda a esa descripción.",
+      "back": "Local authorities intend to search far and wide for someone who fits that description.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "La guardia nacional está examinando los expedientes de los sospechosos previos que responden a esa descripción.",
+      "back": "The national guard is looking through the records of previous suspects who fit that description.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Estamos buscando por todas partes a un actor que encaje en el papel de un policía duro de Los Ángeles con mucha labia.",
+      "back": "We're searching far and wide for an actor that fits the role of a slick, tough-minded LA cop.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "A cualquiera de estos actores le irá como un guante el papel de un diseñador gráfico cerebrito.",
+      "back": "Any one of those actors will fit the role of a nerdy graphic designer to a T.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Esa actriz encaja perfectamente en el papel de una ex oficial de la guardia nacional.",
+      "back": "That actress fits the role of an ex-national guard officer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Me encanta su chaqueta. Encaja con la típica imagen de chico malo que está intentando proyectar.",
+      "back": "I love his jacket. It fits the whole bad boy image he's trying to project.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Me encanta su peinado hacia atrás. Encaja con la típica imagen setentera que está intentando representar.",
+      "back": "I love his slicked-back hair. It fits the whole 70s image he's trying to portray.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Me encantan sus gafas gruesas. Encajan con la típica imagen de diseñador gráfico cerebrito que está intentando proyectar.",
+      "back": "I love his thick glasses. They fit the whole nerdy graphic designer image he's trying to project.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Muchos manifestantes se oponen a la condena de cinco años, ya que opinan que el castigo no es acorde con el delito.",
+      "back": "Many protesters object to the five-year sentence, saying the punishment doesn't fit the crime.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Las autoridades locales afirman que el castigo es acorde con el delito en este caso mediático.",
+      "back": "Local authorities claim that the punishment fits the crime in this high-profile case.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Las autoridades locales afirman que si se estudian todos los antecedentes del caso, el castigo es acorde con el delito.",
+      "back": "Local authorities claim that if you look at the background of the case, the punishment fits the crime.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "¡Qué traje más bonito! ¡Te queda como un guante!",
+      "back": "What a beautiful suit! It fits you like a glove!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Buscamos a alguien que pueda pensar con rapidez y que tenga experiencia en el sector tecnológico, y la experiencia de Bob encaja perfectamente con esto.",
+      "back": "We're looking for someone that can think on their feet and that has experience in the technology industry, and Bob's experience fits this like a glove.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "El papel le queda como un guante, se le da muy bien interpretar a tipos duros.",
+      "back": "The role fits him like a glove, he's great at playing tough guys.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Busco algo ecológico. ¡Este coche es perfecto!",
+      "back": "I'm after something environmentally friendly. This car fits the bill!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Busco a un candidato que sea trabajador, pero con quien también puedas relajarte viendo un partido y este aspirante encaja perfectamente en ese perfil.",
+      "back": "I'm after a candidate who's hard-working, but who you can also kick back and watch a game with, and this applicant fits the bill!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Más que nada, busco un ordenador que sea barato, así que éste es perfecto.",
+      "back": "More than anything, I'm after a computer that's cheap, so this one fits the bill.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Aunque había conocido a los chicos sólo un poco antes esa misma mañana, no tardó mucho en encajar perfectamente con ellos cuando se relajaron para ver el partido.",
+      "back": "Although he had only met the guys earlier that morning, it didn't take him long to fit right in as they all kicked back and watched the game.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Como la mayoría de los empleados de FXL S.L., Randall era ex-poli, así que encajó perfectamente sin problemas.",
+      "back": "Like the majority of the employees at FXL Ltd, Randall was an ex-cop, so he fit right in without any problems.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Deberías venir a pasar el rato con los chicos algún día, encajarías perfectamente.",
+      "back": "You should come and hang out with the guys some time, you'll fit right in.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Algo no encaja; dijo que estaba comprando un traje nuevo a las seis y media, ¡pero luego lo vi viendo el partido exactamente a la misma hora!",
+      "back": "Something doesn't fit; he said he was getting a new suit at six thirty, but then I saw him watching the game at the exact same time!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Algo no encaja. Pretenden proyectar la imagen de una empresa ecológica, pero a la vez la mitad de su cadena de suministros depende del carbón.",
+      "back": "Something doesn't fit. They're trying to project the image of an environmentally friendly company but at the same time half of their supply chain relies on coal.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Algo no encaja. El presidente dijo que las empresas pequeñas deberían recortar los gastos, pero animó a que las grandes gastasen más.",
+      "back": "Something doesn't fit. The president said small businesses should cut spending but encouraged the big ones to spend more!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Le van a tomar medidas para su vestido de dama de honor a las cuatro y media.",
+      "back": "She's getting fitted for her bridesmaid's dress at half four.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Le van a tomar medidas para su vestido de novia a las cinco y media.",
+      "back": "She's getting fitted for her wedding dress at half five.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Me van a tomar medidas para mi nuevo traje a las seis y media, así que una reunión a las siete menos cuarto no me viene bien.",
+      "back": "I'm getting fitted for a new suit at half six, so meeting at a quarter to seven doesn't suit me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Los vaqueros de corte delgado realmente le favorecen a ella.",
+      "back": "Slim fit jeans really suit her.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Las rebecas te favorecen, pero no estoy seguro de que el color violeta lo haga.",
+      "back": "Cardigans suit you, but I'm not sure purple does.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Estos pantalones me quedan bien, pero el beige nunca me ha favorecido.",
+      "back": "These trousers fit well but beige never did suit me.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Su conjunto es imponente. Y el verde le realza los ojos.",
+      "back": "Her outfit is stunning. And the green really brings out her eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "El color de tu blusa realza el azul de tus ojos.",
+      "back": "The color of your blouse brings out the blue in your eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Me encanta el estampado de tu vestido. Y los azules realmente te realzan los ojos.",
+      "back": "I love the pattern on your dress. And the blues really bring out your eyes.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "No estoy seguro sobre esta corbata. ¿Crees que va bien con mi conjunto?",
+      "back": "I'm not so sure about this tie. Do you think it goes together with my outfit?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Rojo y verde sólo van bien juntos durante la Navidad.",
+      "back": "Red and green only go together at Christmas.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "El estampado de leopardo y la tela escocesa nunca deben ir juntos.",
+      "back": "Leopard print and plaid should never go together.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Esa falda de corte asiático es bastante favorecedora, ¿no?",
+      "back": "That's quite a flattering sarong, isn't it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Dicen que el negro es muy favorecedor para tu figura.",
+      "back": "They say black is very flattering for your figure.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "¡Qué vestido tan favorecedor! Hace maravillas con su figura.",
+      "back": "What a flattering dress! It does wonders for her figure.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Me encanta cómo le quedan los vaqueros, pero los colores desentonan un poco, ¿no?",
+      "back": "I love the way her jeans fit, but the colors clash a bit, don't they?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Esa blusa le realza el verde de los ojos, pero la tela escocesa desentona con el estampado de leopardo.",
+      "back": "That blouse brings out the green in her eyes, but the plaid clashes with the leopard print.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Esa falda de corte asiático es bastante favorecedora para su figura, pero desentona con su chaqueta.",
+      "back": "That sarong is quite flattering for her figure, but it clashes with her jacket.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Me han equipado el salón con un nuevo sistema de sonido envolvente.",
+      "back": "My living room's been fitted out with a new surround-sound system.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Me han equipado el coche con subwoofers y sonido envolvente.",
+      "back": "My car's been fitted out with subwoofers and surround sound.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Se ha equipado con amplificadores y sistemas de componentes. Costó un dineral.",
+      "back": "It's been fitted out with amplifiers and component systems. It cost a fortune.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Están equipando mi coche con tapizado de cuero.",
+      "back": "I'm getting my car fitted out with leather upholstery.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "¡Qué hortera! Nunca equiparía mi coche con tapizado de cuero.",
+      "back": "That's so tacky! I would never get my car fitted out with leather upholstery.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Me lo están equipando con tapizado de cuero y estampado de leopardo.",
+      "back": "I'm getting it fitted out with leather upholstery and a leopard print design.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Voy a acondicionar el SUV para su uso como vehículo donde se pueda vivir.",
+      "back": "I'm getting my SUV fitted out as a live-in vehicle.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Él está acondicionando el garaje para usarlo como taller.",
+      "back": "He's getting his car garage fitted out as a workshop.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Voy a instalar un mini frigorífico. Puede que incluso lo acondicione para su uso como cocina alternativa.",
+      "back": "I'm getting it fitted out with a mini fridge. I might even get it fitted out as an alternative kitchen.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Si no te lo hubieran equipado en otro concesionario, habría costado un dineral.",
+      "back": "If you hadn't gotten it fitted out by another car dealership, it would have cost a fortune.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Si no te lo hubiera equipado ese diseñador, igual tu salón no habría quedado tan hortera.",
+      "back": "If you hadn't gotten it fitted out by that designer, maybe your living room wouldn't have come out so tacky.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Si te lo hubieran equipado con cualquier cosa que no fuera un estampado de leopardo, ¡igual no habría quedado tan llamativo!",
+      "back": "If you'd gotten it fitted out with anything other than leopard print upholstery, maybe it wouldn't have come out so showy!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Me voy a personalizar el coche deportivo con espejos retrovisores autoajustables.",
+      "back": "I'm getting my sports car customized with self-adjusting side view mirrors.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "También lo voy a personalizar con llantas de negro mate y cristales tintados.",
+      "back": "I'm also getting it customized with matte black rims and tinted windows.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Quiero que me lo personalicen con un GPS activado por voz integrado.",
+      "back": "I want to get it customized with built-in voice-activated GPS.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Este nuevo programa es adecuado para la tarea de analizar datos en relación a varios criterios.",
+      "back": "This new program is fit for the purpose of analyzing data across multiple criteria.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "El sistema de seguridad es adecuado para la tarea de dejar que los dueños de la casa sepan si les han entrado a robar.",
+      "back": "The security system is fit for the purpose of letting home owners know when their house is being broken into.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Nuestra línea de montaje es adecuada para la tarea de sacar varios tipos de productos al mercado lo antes posible.",
+      "back": "Our production line is fit for the purpose of getting multiple goods out on the market as quickly as possible.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "En ese estado, el hombre no podía conducir.",
+      "back": "In that state, the man was unfit to drive.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Este programa no es adecuado para manejar la cantidad de datos que manejamos en esta empresa.",
+      "back": "This program is unfit to handle the amount of data we manage at this firm.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Tras perder la vista en un ataque el año pasado, al ex oficial del ejército se le declaró incapacitado para el servicio.",
+      "back": "After losing his sight in an attack last year, the ex-army officer was declared unfit to serve.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Cíñete a nuestro régimen de ejercicios y estarás rebosante de salud en un abrir y cerrar de ojos.",
+      "back": "Stick to our exercise regime and you'll be fit as a fiddle in no time.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Desde que he empezado a hacer ejercicio, me siento rebosante de salud.",
+      "back": "Since I've started working out, I feel fit as a fiddle.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "A los 90 años, mi abuelo sigue rebosante de salud. Dice que es porque dejó de fumar hace tres años.",
+      "back": "At 90, my granddad is still fit as a fiddle. He says it's because he quit smoking three years ago.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Juro que estoy hecho polvo.",
+      "back": "I swear I'm fit to drop.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Tras pasar todo el día haciendo cálculos sin parar, el analista de bolsa se fue a casa hecho polvo.",
+      "back": "After spending the whole day number crunching, the stock analyst went home fit to drop.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Me fui de casa lista para luchar contra el mundo y volví a casa aquel día hecha polvo.",
+      "back": "I left the house ready to take on the world, and I came back later that day fit to drop.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Fue un digno tributo para un cantante tan maravilloso.",
+      "back": "That was a fitting tribute to such a wonderful singer.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Esa ceremonia al final fue una forma digna de cerrar el concierto.",
+      "back": "That ceremony at the end was a fitting way to close the concert.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Ganar el campeonato en su última temporada fue un final digno para una carrera ideal.",
+      "back": "Winning a championship in his final season was a fitting end to a storybook career.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Que no te dé un síncope! Yo sólo te estaba tomando el pelo.",
+      "back": "Don't throw a fit! I was only pulling your leg.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Jack, no debería darte un síncope. Ya sabes que él sólo intentaba hacerte rabiar.",
+      "back": "Jack, you shouldn't throw a fit. You know he was only trying to wind you up.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "En serio, deberías aprender a que no te diera un síncope cada vez que no te sales con la tuya.",
+      "back": "You should really learn not to throw a fit every time you don't get your own way.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Ella sufría arrebatos de celos cada vez que él salía con su amiga de la infancia Sarah.",
+      "back": "She suffered from fits of jealousy every time he went out with his childhood friend Sarah.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "No deberías dejar que los celos te disgusten tanto. Ya sabes que él sólo está intentando hacerte rabiar.",
+      "back": "You shouldn't work yourself up into a fit of jealousy. You know he's only trying to wind you up.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Mi relación con Sarah no es como para que te dé un arrebato de celos.",
+      "back": "My relationship with Sarah is really nothing to get yourself into a fit of jealousy over.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Los espectadores se partieron de risa cuando él les contó el chiste sobre su suegra.",
+      "back": "The audience burst out into fits of laughter when he told them the one about his mother-in-law.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "No me podía controlar. Él me provocó un ataque de risa que duró del comienzo al fin.",
+      "back": "I couldn't control myself. He had me in fits of laughter from start to finish.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Cuando él empezó a tomarle el pelo a esa anciana, los espectadores se partieron de risa.",
+      "back": "When he started pulling that old woman's leg, the crowd burst out into fits of laughter.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Todo este polen me provoca ataques de tos.",
+      "back": "All this pollen gives me coughing fits.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Todo ese humo de tabaco le provoca ataques de tos a él.",
+      "back": "All that second-hand smoke gives him coughing fits.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Todo ese polvo le provoca ataques de tos a él.",
+      "back": "All that dust gives him coughing fits.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Si se hiciera a mi manera, la economía crecería de forma mucho más estable y no a trompicones.",
+      "back": "If I had it my way, the economy would grow much more steadily, and not in fits and starts.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "A no ser que los dos partidos trabajen juntos, sólo llegarán a un acuerdo a trompicones.",
+      "back": "Unless the two parties work together, they'll only reach an agreement through fits and starts.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "A no ser que el gobierno regule los gastos, la economía seguirá creciendo a trompicones.",
+      "back": "Unless the government regulates spending, the economy will continue to grow in fits and starts.",
+      "sourcePage": 41
+    }
+  ]
+}

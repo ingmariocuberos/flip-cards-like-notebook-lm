@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-67",
+  "bookTitle": "Libro 67",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Quedan bien.",
+      "back": "They fit well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Quedan muy bien.",
+      "back": "They fit really well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Quedan perfectos.",
+      "back": "They fit perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Estos pantalones me quedan muy bien.",
+      "back": "These trousers fit me really well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Estos pantalones me quedan perfectos.",
+      "back": "These trousers fit me perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Esos pantalones te quedan bastante bien.",
+      "back": "Those trousers fit you quite well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Estos vaqueros me quedan bien, pero no me quedan perfectos.",
+      "back": "These jeans fit me well, but they don't fit me perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Esos vaqueros le quedan a él bastante bien, pero no le quedan perfectos.",
+      "back": "Those jeans fit him quite well, but they don't fit him perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Te quedan bien, pero no te quedan perfectos.",
+      "back": "They fit you well, but they don't fit you perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Estos vaqueros quedan bien, pero no perfectos.",
+      "back": "These jeans fit well, but not perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Esos pantalones le quedan bastante bien a ella, pero no perfectos.",
+      "back": "Those trousers fit her quite well, but not perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Te quedan bien, pero no perfectos.",
+      "back": "They fit you well, but not perfectly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Le quedan bien a ella?",
+      "back": "Do they fit her?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Cómo te quedan?",
+      "back": "How do they fit you?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Cómo de bien te quedan esos pantalones?",
+      "back": "How well do those trousers fit you?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Queda bien debajo de los brazos.",
+      "back": "It fits well under the arms.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Queda bien por los hombros.",
+      "back": "It fits well around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Te queda bien por el cuello.",
+      "back": "It fits you well around the neck.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "No estoy seguro de cómo queda por el cuello.",
+      "back": "I'm not sure how well it fits around the neck.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "No estoy seguro de cómo queda por los hombros.",
+      "back": "I'm not sure how well it fits around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "No estoy seguro de cómo queda la chaqueta debajo de los brazos.",
+      "back": "I'm not sure how well this jacket fits under the arms.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "No creo que quede bien por el cuello.",
+      "back": "I don't think it fits well around the neck.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "No creo que quede muy bien por los hombros.",
+      "back": "I don't think it fits very well around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No creo que esa camisa te quede tan bien debajo de los brazos.",
+      "back": "I don't think that shirt fits you so well under the arms.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Esta camiseta me queda perfectamente por el cuello, pero no me queda tan bien por los hombros.",
+      "back": "This shirt fits me perfectly around the neck, but it doesn't fit so well around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Esa chaqueta te queda perfectamente debajo de los brazos, pero no te queda muy bien por los hombros.",
+      "back": "That jacket fits you perfectly under the arms, but it doesn't fit very well around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Ese jersey te queda perfectamente por los hombros, pero no te queda tan bien debajo de los brazos.",
+      "back": "That jumper fits you perfectly around the shoulders, but it doesn't fit so well under the arms.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Esta camiseta me queda bien por el cuello, pero está un poco suelta por los hombros.",
+      "back": "This shirt fits me well around the neck, but it's a bit loose around the shoulders.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Ese jersey te queda bien debajo de los brazos, pero está un poco apretado por el cuello.",
+      "back": "That jumper fits you well under the arms, but it's a bit tight around the neck.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Esa chaqueta te queda perfectamente por los hombros, pero está un poco holgada debajo de los brazos.",
+      "back": "That jacket fits you perfectly around the shoulders, but it's a bit baggy under the arms.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Qué talla te queda mejor, la pequeña o la mediana?",
+      "back": "Which size fits you better, the small or the medium?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Qué talla te queda mejor, la 40 o la 42?",
+      "back": "Which size fits you better, the forty or the forty-two?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Qué talla te queda mejor, la 14 o la 16?",
+      "back": "Which size fits you better, the fourteen or the sixteen?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Me queda bien la mediana o piensas que me iría mejor una talla más grande?",
+      "back": "Does the medium fit me or do you think I need a bigger size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Me queda bien la 40 o piensas que me iría mejor una talla más pequeña?",
+      "back": "Does the forty fit me or do you think I need a smaller size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Piensas que me queda bien la 14 o piensas que me iría mejor una talla más grande?",
+      "back": "Do you think the fourteen fits me or do you think I need a bigger size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Esa talla no te queda bien. Deberías probar con una más grande.",
+      "back": "That size doesn't fit you. You should try the next size up.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Esa talla no le queda a él bien. Debería probar con una más pequeña.",
+      "back": "That size doesn't fit him. He should try the next size down.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Esta talla no me queda bien. Debería probar con una más pequeña.",
+      "back": "This size doesn't fit me. I should try the next size down.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "La camiseta me queda bien. ¿Tienes camisas de la misma talla?",
+      "back": "The T-shirt fits me nicely. Do you have any shirts in the same size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Los vaqueros me quedan bien. ¿Tienes pantalones cortos de la misma talla?",
+      "back": "The jeans fit me nicely. Do you have any shorts in the same size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Las sandalias me quedan bien. ¿Tienes zapatillas de deporte de la misma talla?",
+      "back": "The sandals fit me nicely. Do you have any trainers in the same size?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¡No me queda bien ninguna de sus sandalias! ¡No tienen ninguna de mi talla!",
+      "back": "None of their sandals fit me! They don't have any in my size!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¡No me queda bien ninguna de sus zapatillas de deporte! ¡No tienen ningunas de mi talla!",
+      "back": "None of their trainers fit me! They don't have any in my size!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "¡No me queda bien ninguna de sus faldas! ¡No tienen ninguna de mi talla!",
+      "back": "None of their skirts fit me! They don't have any in my size!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Puedes poner una cerradura nueva en la puerta principal?",
+      "back": "Can you fit a new lock on the front door?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Necesito que pongas una cerradura nueva en la puerta del baño.",
+      "back": "I need you to fit a new lock on the bathroom door.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "El cerrajero va a poner una cerradura nueva en la puerta trasera.",
+      "back": "The locksmith's going to fit a new lock on the back door.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Por favor, ¿puedes poner una cadena nueva en la puerta principal sobre las tres?",
+      "back": "Please, can you fit a new chain on the front door at around three?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Necesito que instales una cámara de seguridad en la puerta de entrada a la hora de comer.",
+      "back": "I need you to fit a security camera on the front gate at lunchtime.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Él va a instalar un sistema de alarma nuevo sobre mediodía.",
+      "back": "He's going to fit a new alarm system at around midday.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Va a montar la cocina sobre las nueve.",
+      "back": "He's going to fit the kitchen at around nine.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Puedes montar la cocina con los enchufes nuevos?",
+      "back": "Can you fit the kitchen with new electrical sockets?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Quieres que monte la cocina con una nueva encimera también?",
+      "back": "Do you want me to fit the kitchen with a new counter too?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Primero, quiero que pongas el nuevo lavabo en el baño sobre las dos.",
+      "back": "First, I want you to fit the new sink in the bathroom at around two.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Después quiero que pongas los nuevos azulejos del baño.",
+      "back": "Then, I want you to fit the new bathroom tiles.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Después necesitas poner la nueva bañera.",
+      "back": "Then, you need to fit the new bathtub.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Necesito que pongas los estantes en el dormitorio.",
+      "back": "I need you to fit the shelves in the bedroom.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Quiero que pongas también la cama con dosel.",
+      "back": "I want you to fit the four-poster bed too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Puedes poner las cortinas sobre las once?",
+      "back": "Can you fit the curtains at around eleven?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Cabrá.",
+      "back": "It'll fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Cabrá si hacemos sitio.",
+      "back": "It'll fit if we make some room.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Te digo yo que cabrá.",
+      "back": "I'm telling you, it will fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "No cabrá.",
+      "back": "It won't fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "No cabrá, incluso si hacemos sitio.",
+      "back": "It won't fit even if we make some room.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Te digo yo que no cabrá.",
+      "back": "I'm telling you, it will not fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "No hay forma de que quepa porque es demasiado grande.",
+      "back": "It won't fit because it's too big.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Yo creo que no hay forma de que quepa porque la habitación no es lo suficientemente grande.",
+      "back": "I think it won't fit because the room isn't big enough.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "El caso es que no hay forma de que quepa.",
+      "back": "The thing is it just won't fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Entonces cabrá si hacemos sitio?",
+      "back": "Will it fit if we make some room then?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Cabrá si hacemos el sitio suficiente?",
+      "back": "Will it fit if we make enough room?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "No cabrá nunca.",
+      "back": "It will never fit.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¡Mamá! ¡Los vaqueros no me entran!",
+      "back": "Mum! My jeans won't fit!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "¡En serio, mamá! ¡Que los vaqueros no me entran!",
+      "back": "I mean it, mum! My jeans just won't fit!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Socorro! ¡La camisa tampoco me entra!",
+      "back": "Help! My shirt won't fit either!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Mi hermano está en mejor forma que yo.",
+      "back": "My brother's fitter than me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Estás en mejor forma que tu hermana.",
+      "back": "You're fitter than your sister.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Él está en mejor forma que su hermano.",
+      "back": "He's fitter than his brother.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "No estoy tan en forma como mi hermano.",
+      "back": "I'm not as fit as my brother.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Tu hermana no está tan en forma como tú.",
+      "back": "Your sister isn't as fit as you.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Su hermano no está tan en forma como él.",
+      "back": "His brother isn't as fit as him.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Mi hermano es el que está en mejor forma en su equipo de fútbol.",
+      "back": "My brother's the fittest player on his football team.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Él es el que está en mejor forma del equipo.",
+      "back": "He's the fittest one on the team.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Definitivamente él es el que está en mejor forma de nuestra familia.",
+      "back": "He's definitely the fittest one in our family.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Tengo que ponerme en forma después de Navidad.",
+      "back": "I have to get fit after Christmas.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Él quiere ponerse en forma antes del espectáculo.",
+      "back": "He wants to get fit before the show.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "El equipo de fútbol necesita ponerse en forma antes de empezar la temporada.",
+      "back": "The football team needs to get fit before the season starts.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¡Su hermana está como un tren! ¡Es la chica más buenorra del mundo!",
+      "back": "His sister is fit! She's the fittest girl in the world!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Él no está como un tren. ¡Su hermano está mucho mejor!",
+      "back": "He's not very fit. His brother is fitter!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¡La rubia no está tan buenorra como la que sabe bailar! ¡Está como un tren!",
+      "back": "The blonde one isn't as fit as the one who can dance! She's really fit!",
+      "sourcePage": 13
+    }
+  ]
+}
