@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-66",
+  "bookTitle": "Libro 66",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Ocurrió hace cinco meses.",
+      "back": "It happened five months ago.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Hoy hace cinco meses que ocurrió.",
+      "back": "It happened five months ago today.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Hoy hace un año que ocurrió.",
+      "back": "It happened one year ago today.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "No ocurrió el lunes; ocurrió el martes.",
+      "back": "It didn't happen on Monday; it happened on Tuesday.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "No ocurrió hace un año; ocurrió hace unos pocos meses.",
+      "back": "It didn't happen a year ago; it happened a few months ago.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "No ocurrió hace dos semanas; hoy hace un mes que ocurrió.",
+      "back": "It didn't happen two weeks ago; it happened a month ago today.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Qué le ha pasado a Louise?",
+      "back": "What happened to Louise?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Qué le ha pasado al coche?",
+      "back": "What happened to the car?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Qué les ha pasado?",
+      "back": "What happened to them?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Cómo ha pasado eso?",
+      "back": "How did that happen?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Cómo demonios te ha pasado eso?",
+      "back": "How on earth did that happen to you?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Cómo demonios les ha pasado eso?",
+      "back": "How on earth did that happen to them?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "No sé. ¡Todo pasó tan deprisa!",
+      "back": "I don't know. It all happened so quickly!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "No sé. ¡Todo pasó tan de repente!",
+      "back": "I don't know. It all happened so suddenly!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "¡Todo pasó en un abrir y cerrar de ojos!",
+      "back": "It all happened in the blink of an eye!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Ocurrió cuando yo estaba conduciendo.",
+      "back": "It happened when I was driving.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Ocurrió cuando yo pasaba por tu casa en coche.",
+      "back": "It happened when I was driving by your house.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Ocurrió cuando yo pasaba por la comisaría en coche.",
+      "back": "It happened when I was driving by the police station.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Ocurrió mientras él estaba esperando a que cambiara el semáforo.",
+      "back": "It happened while he was waiting for the traffic lights to change.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Ocurrió mientras ella estaba esperando a que viniera el autobús.",
+      "back": "It happened while she was waiting for the bus to come.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Ocurrió mientras él estaba esperando el tren.",
+      "back": "It happened while he was waiting for the train.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "No ocurrió hasta que se estaba acercando al semáforo.",
+      "back": "It didn't happen until he was approaching the traffic lights.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "No ocurrió hasta que se estaban acercando a la estación del tren.",
+      "back": "It didn't happen until they were approaching the train station.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "No ocurrió hasta que se estaban acercando a la comisaría.",
+      "back": "It didn't happen until they were approaching the police station.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Ocurrió cuando yo estaba aterrizando en el extranjero.",
+      "back": "It happened as I was touching down overseas.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Ocurrió cuando estaban aterrizando en Miami.",
+      "back": "It happened as they were touching down in Miami.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "Ocurrió cuando estaban despegando.",
+      "back": "It happened as they were taking off.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Ocurrió porque él no estaba prestando atención.",
+      "back": "It happened because he wasn't paying attention.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "Ocurrió porque él no estaba prestando atención mientras pasaba por mi casa en coche.",
+      "back": "It happened because he wasn't paying attention while he was driving by my house.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Ocurrió porque él estaba presumiendo mientras esperaba a que llegara el autobús.",
+      "back": "It happened because he was showing off while he was waiting for the bus to come.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Qué te pasa? (matter)",
+      "back": "What's the matter?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "¿A ti qué te pasa? (matter)",
+      "back": "What's the matter with you?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Qué le pasa a Helen?",
+      "back": "What's the matter with Helen?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Qué pasa? (up)",
+      "back": "What's up?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Qué le pasa a ella? (up)",
+      "back": "What's up with her?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Qué le pasa a ese tío de ahí?",
+      "back": "What's up with that guy over there?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Qué te pasa? (wrong)",
+      "back": "What's wrong?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "¿A ti qué te pasa? (wrong)",
+      "back": "What's wrong with you?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Qué le pasa a ese perro?",
+      "back": "What's wrong with that dog?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Le pasa algo a él. (matter)",
+      "back": "Something's the matter with him.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Le pasa algo a él. (up)",
+      "back": "Something's up with him.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "A ese tío de ahí le pasa algo.",
+      "back": "Something's wrong with that guy over there.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Está claro que hoy le pasa algo a él. (matter)",
+      "back": "Something's definitely the matter with him today.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Está claro que hoy le pasa algo a él. (up)",
+      "back": "Something's definitely up with him today.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "¡Está claro que hoy le pasa algo a él! (wrong)",
+      "back": "Something's definitely wrong with him today!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "¡¿Sabes lo que ha pasado?!",
+      "back": "Guess what's happened!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "¡¿Sabes lo que me ha pasado?!",
+      "back": "Guess what's happened to me!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "¡No te imaginas lo que ha pasado!",
+      "back": "You'll never guess what's happened!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Algo horrible ha pasado!",
+      "back": "Something awful's happened!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "¡Algo realmente traumático ha pasado!",
+      "back": "Something really traumatic's happened!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "¡Algo asombroso ha pasado! ¡Ni te lo imaginas!",
+      "back": "Something amazing's happened! You'll never guess!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Conocer a James Bond fue lo más asombroso que me ha pasado en la vida.",
+      "back": "Meeting James Bond was the most amazing thing that's ever happened to me.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Conocer a ese hombre fue lo más traumático que me ha pasado en la vida.",
+      "back": "Meeting that man was the most traumatic thing that's ever happened to me.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "¡Eres lo mejor que me ha pasado en la vida!",
+      "back": "You're the best thing that's ever happened to me!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Ha pasado muchísimo desde la última vez que te vi.",
+      "back": "An awful lot's happened since I last saw you.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "No ha pasado gran cosa desde la última vez que nos vimos.",
+      "back": "Not an awful lot's happened since I last met with you.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Me han pasado muchísimas cosas desde la última vez que te escribí.",
+      "back": "An awful lot's happened to me since I last wrote you.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Han pasado bastantes cosas desde entonces.",
+      "back": "A good deal's happened since then.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "Han pasado bastantes cosas desde anteayer.",
+      "back": "A good deal's happened since the day before yesterday.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Hoy hace cinco meses desde la última reunión. Han pasado bastantes cosas desde entonces.",
+      "back": "The last meeting was five months ago today. A great deal's happened since then.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Quiere que la admitan en Harvard. ¿Qué probabilidad hay de que pase eso?",
+      "back": "She wants to get into Harvard. What are the odds of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Él tiene que perder diez kilos antes de la semana que viene. ¿Qué probabilidad hay de que pase eso?",
+      "back": "He needs to lose ten kilos by next week. What are the odds of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "El tornado podría llegar a Miami. ¿Qué probabilidad hay de que pase eso?",
+      "back": "The tornado could reach Miami. What are the odds of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "Quiere que la admitan en Oxford. ¿Qué probabilidad hay de que pase eso?",
+      "back": "She wants to get into Oxford. What's the likelihood of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Él tiene que perder diez kilos antes de la próxima semana. ¿Qué probabilidad hay de que pase eso?",
+      "back": "He needs to drop ten kilos by this time next week. What's the likelihood of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "El huracán podría llegar a la costa este. ¿Qué probabilidad hay de que pase eso?",
+      "back": "The hurricane could reach the east coast. What's the likelihood of that happening?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "La probabilidad de que pase eso es remota.",
+      "back": "The odds of that happening are slim.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "La probabilidad de que pase eso es casi inexistente.",
+      "back": "The odds of that happening are slim to none.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "La probabilidad de que pase eso es alta.",
+      "back": "The odds of that happening are high.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "La probabilidad de que pase eso es bastante remota.",
+      "back": "The likelihood of that happening is pretty remote.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "La probabilidad de que pase eso es bastante alta. (strong)",
+      "back": "The likelihood of that happening is pretty strong.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "La probabilidad de que pase eso es bastante alta. (high)",
+      "back": "The likelihood of that happening is pretty high.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Lo más probable es que eso no ocurra nunca.",
+      "back": "Chances are that it'll never happen.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Lo más probable es que eso ocurra mañana.",
+      "back": "Chances are that it'll happen tomorrow.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "Lo más probable es que eso ocurra un día de éstos.",
+      "back": "Chances are that it'll happen some time soon.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Da la casualidad de que vivo en el piso de al lado de él.",
+      "back": "I happen to live next door to him!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Da la casualidad de que viven en el piso de al lado de tu amigo Paul.",
+      "back": "They happen to live next door to your friend Paul.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Da la casualidad de que vivo justo al lado de ese bar que te gusta.",
+      "back": "I happen to live right by that bar you like.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Da la casualidad de que sé la respuesta a esa pregunta.",
+      "back": "I happen to know the answer to that question.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Da la casualidad de que sé a ciencia cierta que le gustas a él.",
+      "back": "I happen to know, for a fact, that he likes you.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "Da la casualidad de que sé a ciencia cierta que Greg vive al lado de tu casa.",
+      "back": "I happen to know, for a fact, that Greg lives next door to you.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "No tendrás un cigarrillo, ¿no?",
+      "back": "Do you happen to have a cigarette?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "Da la casualidad de que me sobra una entrada para ese espectáculo. ¡Qué suerte!",
+      "back": "I happen to have a spare ticket for that show. How lucky!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Da la casualidad de que ella tiene un apartamento justo al lado de ese bar.",
+      "back": "She happens to have an apartment right by that bar.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Dio la casualidad de que se encontró con tu hermano en el metro la semana pasada.",
+      "back": "She happened to bump into your brother on the underground last week.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Dio la casualidad de que él se encontró con su jefe en la discoteca. ¡Qué mala suerte!",
+      "back": "He happened to bump into his boss in the nightclub. How unlucky!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Por casualidad te encontraste con mi prima Lauren en el festival?",
+      "back": "Did you happen to bump into my cousin Lauren at the festival?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Por casualidad viste las noticias anoche?",
+      "back": "Did you happen to see the news last night?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Por casualidad viste a mi hermana cuando fuiste al peluquero?",
+      "back": "Did you happen to see my sister when you went to the hairdresser's?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Dio la casualidad de que vi aquel programa del que estáis hablando la semana pasada.",
+      "back": "I happened to see that show you're talking about last week.",
+      "sourcePage": 26
+    }
+  ]
+}
