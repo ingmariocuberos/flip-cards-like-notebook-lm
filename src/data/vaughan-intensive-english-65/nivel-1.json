@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-65",
+  "bookTitle": "Libro 65",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Voy a llamar a John.",
+      "back": "I'm going to call John.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Voy a llamar a mi jefe.",
+      "back": "I'm going to call my boss.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Voy a llamar a mis padres.",
+      "back": "I'm going to call my parents.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Vas a llamar a Bob también?",
+      "back": "Are you going to call Bob as well?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Vas a llamar al fontanero también?",
+      "back": "Are you going to call the plumber as well?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Vas a llamar a la escuela de Peter también?",
+      "back": "Are you going to call Peter's school as well?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Llámale a su casa.",
+      "back": "Call him at his house.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Llámale a su oficina.",
+      "back": "Call him at his office.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Llámale a su móvil.",
+      "back": "Call him on his mobile.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Llamo para pedir cita.",
+      "back": "I'm calling to make an appointment.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Llamo para hacer una reserva. (booking)",
+      "back": "I'm calling to make a booking.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Llamo para hacer una reserva. (reservation)",
+      "back": "I'm calling to make a reservation.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Puedes volver a llamarme más tarde?",
+      "back": "Can you call me back later?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Puedo volver a llamarte más tarde?",
+      "back": "Can I call you back later?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Voy a volver a llamarlos más tarde.",
+      "back": "I'm going to call them back later.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿De parte de quién, por favor? (Who's)",
+      "back": "Who's calling, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿De parte de quién, por favor? (Can I ask)",
+      "back": "Can I ask who's calling, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿De parte de quién, por favor? (May I ask)",
+      "back": "May I ask who's calling, please?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Tienes una llamada.",
+      "back": "There's a call for you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tienes una llamada en la línea uno.",
+      "back": "There's a call for you on line one.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Tienes una llamada en la línea tres.",
+      "back": "I have a call for you on line three.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Dile a él que me llame más tarde, estoy ocupado.",
+      "back": "Tell him to call me back later, I'm busy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Dile a ella que me llame más tarde, estoy ocupado.",
+      "back": "Tell her to call me back later, I'm busy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Diles que me llamen más tarde, estoy ocupado.",
+      "back": "Tell them to call me back later, I'm busy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Llámales en cuanto sea posible!",
+      "back": "Call them ASAP!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Llámales en cuanto puedas.",
+      "back": "Call them as soon as you can.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Llámales en cuanto llegues!",
+      "back": "Call them as soon as you arrive!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Odio llamar a la sede para pedir ayuda. ¡Dile a él que los llame!",
+      "back": "I hate calling head office for help. Tell him to call them!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡John odia llamar al departamento de ventas para pedir ayuda! ¡Dile a ella que los llame!",
+      "back": "John hates calling the sales department for help! Tell her to call them!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¡Odian llamarnos para pedir ayuda!",
+      "back": "They hate calling us for help!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Llámame luego.",
+      "back": "Give me a call later.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Llama a Joana esta tarde después del mediodía.",
+      "back": "Give Joana a call this afternoon.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Llama a Laura esta tarde al anochecer.",
+      "back": "Give Laura a call this evening.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Me pondré en contacto contigo la semana que viene.",
+      "back": "I'll drop you a line next week.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Ella se pondrá en contacto contigo mañana.",
+      "back": "She'll drop you a line tomorrow.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Él se pondrá en contacto conmigo dentro de unas semanas.",
+      "back": "He'll drop me a line in a few weeks.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Me puedes dar un toque mañana?",
+      "back": "Can you give me a ring tomorrow?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Le puedes dar a ella un toque luego?",
+      "back": "Can you give her a buzz later?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Le puedes dar a él un toque esta tarde?",
+      "back": "Can you give him a ring this evening?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Necesito hacer una llamada.",
+      "back": "I need to make a call.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Necesitas hacer una llamada?",
+      "back": "Do you need to make a call?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "No, no necesito hacer una llamada.",
+      "back": "No, I don't need to make a call.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Tengo que hacer unas llamadas luego.",
+      "back": "I have to make a few calls later.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Ella tiene que hacer unas llamadas esta tarde después del mediodía.",
+      "back": "She has to make a few calls this afternoon.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Él tiene que hacer unas llamadas esta tarde al anochecer.",
+      "back": "He has to make some calls this evening.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¡No me llames querido!",
+      "back": "Don't call me 'darling'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¡No me llames tío!",
+      "back": "Don't call me 'mate'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡No me llames Jackiecito!",
+      "back": "Don't call me 'Jackie boy'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡Deja de llamarle colega!",
+      "back": "Stop calling him 'pal'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¡Deja de llamarles idiotas!",
+      "back": "Stop calling them 'idiots'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¡Deja de llamarla princesa!",
+      "back": "Stop calling her 'princess'!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Por qué le llaman Smithy?",
+      "back": "Why do they call him 'Smithy'?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Por qué te llaman Mac?",
+      "back": "Why do they call you 'Mac'?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Por qué todo el mundo la llama Dizzy Lizzie?",
+      "back": "Why does everyone call her 'Dizzy Lizzie'?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Su nombre es Evelyn, pero todo el mundo la llama Evie.",
+      "back": "Her name's Evelyn, but everyone calls her 'Evie'.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Su nombre es Ian Croft, pero todo el mundo le llama por su apodo, Crofty.",
+      "back": "His name's Ian Croft, but everyone calls him by his nickname 'Crofty'.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Su nombre es Jack, pero todo el mundo le llama por su apodo, Jay.",
+      "back": "His name's Jack, but everyone calls him by his nickname, 'Jay'.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Deja de llamarla con nombres condescendientes.",
+      "back": "Stop calling her names.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Llamar a la gente con nombres condescendientes es horrible.",
+      "back": "Calling people names is horrible.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Pero llamar a la gente por sus apodos está bien.",
+      "back": "But calling people by their nicknames is fine.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Preguntan por Bob y eres tú quien contesta: «Soy yo».",
+      "back": "Speaking.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Preguntan por el señor Pearson y eres tú quien contesta: «Soy yo».",
+      "back": "Speaking.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Preguntan por Tommy Smith y eres tú quien contesta: «Soy yo».",
+      "back": "Speaking.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "El señor Jackson no puede atender su llamada. Lo siento, está hablando por teléfono.",
+      "back": "Mr Jackson can't take your call. Sorry, he's on the phone.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "La señora Lazenby no puede atender su llamada. Está hablando por teléfono en este momento.",
+      "back": "Mrs Lazenby can't take your call, she's on the phone at the moment.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Bob no puede atender su llamada en estos momentos. Está hablando por teléfono.",
+      "back": "Bob can't take your call at the moment, he's on the phone.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Me da la información por teléfono?",
+      "back": "Can you give me the information over the phone?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Se lo explicaré todo a Josh por teléfono.",
+      "back": "I'll explain everything to Josh over the phone.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "No le puedo proporcionar la información por teléfono, le mandaré un e-mail.",
+      "back": "I can't give the information over the phone, I'll email you.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Me han dejado con la llamada en espera. ¡Jamás volveré a llamar a este número!",
+      "back": "I'm on hold. I'll never call this number again!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Me han dejado con la llamada en espera. ¡Jamás volveré a llamar a esta oficina!",
+      "back": "I'm on hold. I'll never call this office again!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Me han dejado con la llamada en espera. ¡Jamás volveré a llamar a atención al cliente!",
+      "back": "I'm on hold. I'll never call customer services again!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Puedes devolver la llamada de Clarys?",
+      "back": "Can you return Clarys' call?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "El señor Smith devolverá su llamada lo antes posible.",
+      "back": "Mr Smith will return your call as soon as possible.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Dile a Jack que devuelva la llamada.",
+      "back": "Tell Jack to return the call.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Cómo se llamaba esto?",
+      "back": "What's this called again?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Cómo decías que se llamaba esa película?",
+      "back": "What's that film called again?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Cómo se llamaba ese libro?",
+      "back": "What's that book called again?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Él tiene un gato que se llama Coriander.",
+      "back": "He has a cat called Coriander.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Tienen un amigo en Alemania que se llama Hanz.",
+      "back": "They have a friend in Germany called Hanz.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Ella tiene un perro que se llama Lucas.",
+      "back": "She has a dog called Lucas.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Cómo llamas a un perro recién nacido? Un cachorro.",
+      "back": "What do you call a baby dog? A puppy.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Cómo llamas a un gato recién nacido? Un gatito.",
+      "back": "What do you call a baby cat? A kitten.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Cómo llamas a una vaca recién nacida? Un ternero.",
+      "back": "What do you call a baby cow? A calf.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Cómo llamas a alguien que le dice a todo el mundo qué hacer todo el tiempo? ¡Un mandón!",
+      "back": "What do you call someone who tells everyone what to do all the time? Bossy!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Cómo llamas a alguien que nunca gasta dinero? ¡Un tacaño!",
+      "back": "What do you call someone who never spends any money? Stingy!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Cómo llamas a alguien que es muy molesto? ¡Un pesado!",
+      "back": "What do you call someone who's really annoying? A pain in the neck!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Qué nombre le vas a poner al bebé?",
+      "back": "What are you going to call the baby?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Qué nombre le vas a poner a la empresa nueva?",
+      "back": "What are you going to call the new company?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Qué nombre le deberíamos poner al grupo de música?",
+      "back": "What should we call the band?",
+      "sourcePage": 13
+    }
+  ]
+}

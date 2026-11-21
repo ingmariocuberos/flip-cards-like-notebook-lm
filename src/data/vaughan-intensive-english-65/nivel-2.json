@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-65",
+  "bookTitle": "Libro 65",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Ha llamado Felicity; ¿puedes devolverle la llamada?",
+      "back": "Felicity called; can you call her back?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Ha llamado Edna; está esperando a que le devuelvas la llamada.",
+      "back": "Edna called; she's expecting you to call her back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Ha llamado Dave: le dije que le devolverías la llamada.",
+      "back": "Dave called; I told him you'd call him back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Ha llamado Jack mientras estabas en la oficina; está esperando a que le devuelvas la llamada.",
+      "back": "Jack called while you were at the office; he's expecting you to call back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Ha llamado Elsa mientras estabas haciendo footing; ¿puedes devolverle la llamada?",
+      "back": "Elsa called while you were out jogging; can you call her back?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Ha llamado Bob mientras estabas fuera; le dije que le devolverías la llamada.",
+      "back": "Bob called while you were out; I told him you'd call him back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Cuántos clientes llamaron ayer?",
+      "back": "How many customers called yesterday?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Ayer llamaron más de mil clientes.",
+      "back": "Over a thousand customers called yesterday.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Es verdad que ayer llamaron más de mil clientes?",
+      "back": "Is it true that over a thousand customers called yesterday?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "¿A quién llamó el señor Singh ayer? Llamó a Tom.",
+      "back": "Who did Mr Singh call yesterday? He called Tom.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "¿A quién llamó Henry el lunes? Llamó a un cliente.",
+      "back": "Who did Henry call on Monday? He called a customer.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "¿A quién acabas de llamar? Acabo de llamar a Penny, pero me dijo que la volviera a llamar.",
+      "back": "Who did you just call? I just called Penny, but she told me to call her back.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Quién llamó a Mike ayer? Jack le llamó.",
+      "back": "Who called Mike yesterday? Jack called him.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Quién me ha llamado cuando estaba haciendo footing? Eli te ha llamado.",
+      "back": "Who called me while I was out jogging? Eli called you.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Quién ha devuelto la llamada a Tom? ¿Es verdad que Sam le ha devuelto la llamada?",
+      "back": "Who called Tom back? Is it true that Sam called him back?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Ya has llamado para las carpas?",
+      "back": "Have you called about the marquees yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Ya has llamado para la música?",
+      "back": "Have you called about the music yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Ya has llamado para la comida?",
+      "back": "Have you called about the food yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Ya has llamado al proveedor de comida para el buffet?",
+      "back": "Have you called the caterer about the buffet yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Ya has llamado al DJ para la música?",
+      "back": "Have you called the DJ about the music yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Ya has llamado a Paula para las carpas?",
+      "back": "Have you called Paula about the marquees yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Ya he llamado al proveedor de comida para el buffet. ¡Recuérdame que llame a Paula!",
+      "back": "I've already called the caterer about the buffet! Remind me to call Paula!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Ya he llamado a Paula para las carpas. ¡Recuérdame que llame al DJ!",
+      "back": "I've already called Paula about the marquees. Remind me to call the DJ!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Ya le he llamado para la lista de invitados. ¡Recuérdame que le llame otra vez para los adornos!",
+      "back": "I've already called him about the guest list. Remind me to call him again about the decorations!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Ya te han llamado para los disfraces?",
+      "back": "Have they called you about the costumes yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Ya te ha llamado él para los globos?",
+      "back": "Has he called you about the balloons yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Ya te ha llamado ella para el castillo inflable?",
+      "back": "Has she called you about the bouncy castle yet?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Ya les he llamado para los disfraces, pero todavía no les he llamado para las carpas.",
+      "back": "I've already called them about the costumes, but I haven't called them about the marquees yet.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Ya la he llamado para los globos, pero todavía no la he llamado para el castillo inflable.",
+      "back": "I've already called her about the balloons, but I haven't called her about the bouncy castle yet.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Ya le he llamado para el DJ, pero todavía no le he llamado para el buffet.",
+      "back": "I've already called him about the DJ, but I haven't called him about the buffet yet.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "El presidente convocó una reunión con su gabinete.",
+      "back": "The president called a meeting with his cabinet.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "El presidente convocó una reunión con su gabinete para hablar sobre la crisis diplomática.",
+      "back": "The president called a meeting with his cabinet to discuss the diplomatic crisis.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "El partido de la oposición convocó una reunión para hablar sobre la crisis diplomática también.",
+      "back": "The opposition party called a meeting to discuss the diplomatic crisis too.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Van a convocar una huelga a menos que el diplomático extranjero dimita.",
+      "back": "They're going to call a strike unless the foreign diplomat steps down.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "El partido de la oposición ha convocado una huelga para el lunes que viene.",
+      "back": "The opposition party has called a strike for next Monday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "El partido de la oposición ha convocado una huelga general debido a la crisis diplomática.",
+      "back": "The opposition party has called a general strike because of the diplomatic crisis.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "El presidente ha convocado unas elecciones a pesar de que el diplomático extranjero ya ha dimitido.",
+      "back": "The president's called an election despite the fact that the foreign diplomat's already stepped down.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Él ya ha convocado unas elecciones para el mes de marzo del año que viene.",
+      "back": "He's already called an election for next March.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "El líder del partido de la oposición dice que él y su gabinete ya han convocado unas elecciones para el próximo martes.",
+      "back": "The opposition party leader says he and his cabinet have already called an election for next Tuesday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "El presidente convocó una reunión de última hora con su gabinete.",
+      "back": "The president called a last-minute meeting with his cabinet.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "No se sabe por qué el presidente convocó una reunión de última hora.",
+      "back": "It's not known why the president called a last-minute meeting.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "A pesar de que el presidente tuvo que convocar una elección de última hora, mira hacia el futuro con confianza.",
+      "back": "Despite the fact that the president had to call a last-minute election, he feels confident about the future.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Ya se ha convocado una reunión para hablar sobre la crisis diplomática.",
+      "back": "A meeting's already been called to discuss the diplomatic crisis.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Ya se ha convocado una elección de emergencia porque un miembro importante del partido ha dimitido.",
+      "back": "An emergency election's already been called because an important member of the party has stepped down.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Ya se ha convocado una huelga para el próximo miércoles.",
+      "back": "A strike's already been called for next Wednesday.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Vamos a tener que cancelar la reunión porque necesitamos darle prioridad a este proyecto.",
+      "back": "We're going to have to call off the meeting because we need to give priority to this project.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Hemos cancelado la reunión para poder centrarnos en esta tarea.",
+      "back": "We've called the meeting off so we can concentrate on this assignment.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "La cancelaron para poder centrarse en un asunto más urgente.",
+      "back": "They called it off so they could focus on a more urgent matter.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "La conferencia se canceló ya que el jefe tuvo que darle prioridad a otra tarea.",
+      "back": "The conference was called off as the boss had to give priority to another task.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "La reunión de feedback se canceló ya que tuvimos que centrarnos en la preparación de la presentación.",
+      "back": "The feedback meeting was called off as we needed to concentrate on preparing the presentation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "El inventario se canceló porque la dirección tuvo que centrarse en un asunto más importante.",
+      "back": "The stock-take was called off as the management had to focus on a more important matter.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Yo que tú, llamaría a varios sitios antes de decidirme por una compañía de seguros.",
+      "back": "If I were you, I'd call around before you decide which insurance company to go for.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Yo que tú, llamaría a varios sitios para asegurarme de que encuentras el mejor precio.",
+      "back": "If I were you, I'd call around to ensure you get the best deal.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Yo que tú, llamaría a varios sitios antes de decidir dónde contratar el mejor seguro.",
+      "back": "If I were you, I'd call around before you decide where to purchase the right cover.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Este tren para en la estación de Oxford?",
+      "back": "Does this train call at Oxford Station?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Yo que tú, pararía en la tienda de camino a casa para comprarle a tu mujer un regalo.",
+      "back": "If I were you, I'd call at the shop on your way home and buy your wife a present.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Yo que tú, le haría una visita a Mark para ver cómo está.",
+      "back": "If I were you, I'd call at Mark's to check up on him.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "¡Si yo fuera tú, contestaría a la profesora cuando dice tu nombre!",
+      "back": "If I were you, I'd answer the teacher when she calls out your name!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Estaba ocupado en mi mesa centrándome en la tarea cuando el jefe gritó mi nombre.",
+      "back": "I was busy at my desk focusing on my task, when the boss called out my name.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Si la gente deja de llamarnos, podemos seguir centrándonos en el proyecto.",
+      "back": "If people stop calling out to us, we can continue to concentrate on the project.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "No uso mi móvil para hacer ninguna llamada de larga distancia.",
+      "back": "I don't use my mobile to make any long-distance calls.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Uso el teléfono de la oficina para hacer llamadas de larga distancia.",
+      "back": "I use the office phone to make long-distance calls.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Me compré una de esas tarjetas para hacer llamadas de larga distancia por sólo quince pavos.",
+      "back": "I got one of those cards for making long-distance calls for only fifteen quid.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Tengo cinco llamadas perdidas de Jezza.",
+      "back": "I've got five missed calls from Jezza.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Hazme una llamada perdida cuando salgas de la oficina.",
+      "back": "Give me a missed call when you leave the office.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Cuando miré el móvil, tenía diez llamadas perdidas de Julie.",
+      "back": "When I checked my mobile, I had ten missed calls from Julie.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Esta línea es sólo para llamadas de emergencia, señor.",
+      "back": "This line is for emergency calls only, sir.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Hicieron una llamada de emergencia desde el teléfono de la oficina.",
+      "back": "They made an emergency call from the office phone.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Mi madre me dijo que no debía hacer nunca una llamada de emergencia a menos que estuviera metido en problemas graves.",
+      "back": "My mother told me I should never make an emergency call unless I was in serious trouble.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Mi madre me dijo que no debería nunca hacer bromas por teléfono.",
+      "back": "My mother told me I should never make prank calls.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Si hacemos bromas por teléfono a Jezza, vamos a meternos en un grave problema.",
+      "back": "If we make a prank call to Jezza, we're going to get into serious trouble.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "No voy a hacer bromas por teléfono a Jezza a menos que me des quince pavos.",
+      "back": "I'm not going to make a prank call to Jezza unless you give me fifteen quid.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "No puedo enrollarme mucho porque estoy con el móvil y se me está acabando el crédito.",
+      "back": "This can't be a long call because I'm on my mobile and I'm running out of credit.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "A menos que añada crédito, sólo puedo hacer una llamada rápida.",
+      "back": "Unless I add more credit, I can only make a short call.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Ésta va a tener que ser una llamada rápida porque estoy con el teléfono de la oficina.",
+      "back": "This is going to have to be a short call because I'm on the office phone.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Le di un telefonazo a él ayer, pero se me cortó la llamada.",
+      "back": "I gave him a call yesterday, but I got cut off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Le he dado un telefonazo a ella esta mañana, pero se me cortó la llamada.",
+      "back": "I gave her a call this morning, but I got cut off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Le di un telefonazo al jefe anteayer, pero se cortó la llamada.",
+      "back": "I gave the boss a call the day before yesterday, but we got cut off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Le llamé ayer, pero me saltó el contestador.",
+      "back": "I phoned him yesterday, but it went straight into voicemail.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "La he llamado dos veces esta mañana, pero me ha saltado el contestador.",
+      "back": "I've phoned her twice this morning, but it went straight into voicemail.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Llamé al jefe anteayer, pero me saltó el contestador.",
+      "back": "I phoned the boss the day before yesterday, but it went straight into voicemail.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Él me dio un telefonazo ayer para ver cómo estaba, pero había muchas interferencias.",
+      "back": "He gave me a ring yesterday to check up on me, but there was a lot of interference.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Le di un telefonazo a él a la hora de comer, pero había muchas interferencias.",
+      "back": "I gave him a ring at lunchtime, but there was a lot of interference.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Le di un telefonazo a ella, pero saltó el contestador y luego se cortó la línea.",
+      "back": "I gave her a ring, but it went straight into voicemail and then I got cut off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Colega, llamé al timbre de tu casa de camino a la oficina, pero creo que ya te habías ido.",
+      "back": "Mate, I gave you a buzz on the way to the office but I think you had already left.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Ella me dio un telefonazo por mi cumpleaños, pero había muchas interferencias, así que no charlamos mucho.",
+      "back": "She gave me a buzz on my birthday, but there was a lot of interference, so we didn't chat much.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Él me dio un telefonazo esta mañana, pero se nos cortó la llamada.",
+      "back": "He gave me a buzz this morning, but we got cut off.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Estoy fuera por trabajo este fin de semana, pero tendré acceso a mi correo, así que avísame si necesitas algo.",
+      "back": "I'm away on business this weekend but I'll have access to my email; so give me a shout if you need anything.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Estoy trabajando en mi oficina de arriba, pero ven a verme si necesitas ayuda.",
+      "back": "I'm working in my office upstairs, but give me a shout if you need some help.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Te daré un toque después del trabajo, ¡pero asegúrate de tener el móvil encendido!",
+      "back": "I'll give you a shout after work, but make sure you have your phone switched on!",
+      "sourcePage": 27
+    }
+  ]
+}

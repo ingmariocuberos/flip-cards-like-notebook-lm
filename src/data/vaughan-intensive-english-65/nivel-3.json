@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-65",
+  "bookTitle": "Libro 65",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Creo que, tras cuarenta años dedicados al cuerpo policial, ya es hora de cerrar este capítulo.",
+      "back": "I think, after forty dedicated years in the police force, it's time to call it a day.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Después de cuarenta años duros, ¿no crees que ya es hora de cerrar el capítulo?",
+      "back": "After forty tough years, don't you think it's time to call it a day?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Después de cuarenta difíciles años en el cuerpo policial, él pensó que ya era hora de cerrar ese capítulo.",
+      "back": "After forty trying years in the police force, he thought it was time to call it a day.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Todo el mundo está agotado. Paremos por hoy y mañana lo retomamos desde aquí.",
+      "back": "Everybody's burnt out; let's call it a night and we'll pick up from here tomorrow.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Mañana lo retomamos desde aquí; ya está bien por hoy. ¡Estoy agotado!",
+      "back": "Let's pick it up from here tomorrow; it's time to call it a night. I'm burnt out!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¡Mira a todo el mundo! Están agotados. Paremos por hoy y mañana podemos retomarlo desde aquí.",
+      "back": "Look at everyone! They're burnt out. Let's call it a night and we can pick it up from here tomorrow.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "No te debo nada, te di 50 € y lo arreglamos. Me diste tu palabra.",
+      "back": "I don't owe you anything, I gave you €50 and we called it even. You gave me your word.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Pensé que no le debía nada a ella, le di 35 € y quedamos en paz. Ella me dio su palabra.",
+      "back": "I thought I didn't owe her anything, I gave her €35 and we called it even. She gave me her word.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "No le debes nada a él. Le diste 45 € y lo dejasteis arreglado. Él te dio su palabra.",
+      "back": "You don't owe him anything. You gave him €45 and you called it even. He gave you his word.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Habíamos estado caminando en círculos un buen par de meses, pero al final decidimos cortar con ello el mes pasado.",
+      "back": "We'd been going round in circles for a good few months but we finally decided to call it quits last month.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "¿De qué sirve? Estás caminando en círculos. ¿No es hora de cortar con ello?",
+      "back": "What's the point? You're going round in circles. Isn't it time to call it quits?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Están caminando en círculos. ¿Es que no ven que deberían cortar con ello?",
+      "back": "They're going round in circles. Can't they see they should call it quits?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "No recuerdo cuánto era. Lo dejamos en cinco y ya está.",
+      "back": "I can't remember how much it was. Let's just call it a fiver and that's it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "No estoy seguro de si eran cinco o diez. ¡Lo dejamos en cinco y me invitas a una copa!",
+      "back": "I'm not sure if it was a fiver or a tenner. Let's just call it a fiver and you can buy me a drink!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "No podría haber sido más de diez. Lo dejamos en cinco y me invitas al café.",
+      "back": "It couldn't have been more than a tenner. Let's call it a fiver and you can pay for the coffee.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Pasemos por casa de Robert para ver cómo está.",
+      "back": "Let's call in at Robert's house and see how he's doing.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "El jefe pasó por la oficina esta mañana para decir que iba a llegar tarde a la reunión de esta tarde.",
+      "back": "The boss called into the office this morning to say he'll be late for the meeting this afternoon.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Jane, un cliente acaba de pasar para darte este regalo.",
+      "back": "Jane, a client just called in to give you this gift.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Hagamos venir al jefe para que nos dé su opinión.",
+      "back": "Let's call the boss in and ask him for his opinion.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Creo que deberíamos hacer venir a un artista para que retoque los diseños del embalaje.",
+      "back": "I do think we should call in an artist to touch up the designs on the packaging.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "La reunión iba bien hasta que la pantalla se congeló y tuvimos que hacer venir a un técnico para que volviera a funcionar.",
+      "back": "The meeting was going well until the screen froze and we had to call in a technician to get it going again.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "No soy la mejor persona del mundo tomando notas, pero me pidieron que hiciera el acta de la reunión.",
+      "back": "I'm not the best note taker in the world but I was called on to take the minutes in the meeting.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Pidieron al abogado de la empresa que resolviera la disputa entre el director general y un antiguo empleado.",
+      "back": "The in-house lawyer was called on to settle the dispute between the CEO and a former employee.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Sabéis que sois verdaderos amigos cuando podéis pediros ayuda el uno al otro sin sentiros incómodos a la hora de hacerlo.",
+      "back": "You know you're true friends when you can call on each other for help without ever feeling awkward doing so.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "¡Por fin me caso! ¡Hay que tomar champán!",
+      "back": "I'm finally getting married! This calls for champagne!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Esto es un problema gordo. Requiere acción inmediata.",
+      "back": "This is a big problem. It calls for immediate action.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "¡Te has ganado ese ascenso! ¡Esto se merece un brindis!",
+      "back": "You earned that promotion! This calls for a toast!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "¿Qué te parece si paso por tu casa a buscarte de vuelta del trabajo y vamos a comer algo a ese restaurante elegante?",
+      "back": "How about I call for you on the way back from work and we can go for something to eat in that fancy restaurant?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Debería haberle llamado antes de ir a su casa a buscarle. ¡Hice todo el camino hasta su casa y al final nadie me abrió la puerta!",
+      "back": "I should've called him before I called for him; I went all that way to his house and in the end no one answered the door!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "¿No es el cumpleaños de Jimmy hoy? Esto hay que celebrarlo. ¿Qué te parece si vamos a su casa a buscarle y le hacemos salir para tomar algo?",
+      "back": "Isn't it Jimmy's birthday today? This calls for a celebration; so how about we call for him and take him out for drinks?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Ha habido una gran demanda de médicos y enfermeros en Australia en los últimos diez años.",
+      "back": "There's been a call for more doctors and nurses in Australia in the last ten years.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Hubo una gran demanda de ingenieros y arquitectos en Oriente Lejano en los ochenta.",
+      "back": "There was a call for more engineers and architects in the Far East in the 80s.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Ha habido una gran demanda de radiólogos en Estados Unidos en los últimos veinte años.",
+      "back": "There's been a call for more radiologists in the United States in the last twenty years.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Hay un gran clamor por un cambio de política. Las cosas han permanecido inalteradas desde hace demasiado tiempo.",
+      "back": "There's much call for a change in policy. Things have stayed the same for too long now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Hay un gran clamor por un cambio. Los ciudadanos están cansados del régimen.",
+      "back": "There's much call for a change. The citizens are tired of the regime.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Hay un gran clamor por la investigación en ese campo. Estoy convencida de que esta enfermedad es fácil de tratar.",
+      "back": "There's much call for research in that field. I'm convinced that this illness is easy to treat.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Necesitamos subrayar el hecho de que los esfuerzos para reducir el consumo de petróleo son muy deseables.",
+      "back": "We need to stress the fact that efforts to reduce oil consumption are much called-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "De verdad necesitamos subrayar el hecho de que un repaso de la política de la empresa es muy deseable.",
+      "back": "We really need to stress the fact that a review of company policy is much called-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Debemos subrayar el hecho de que una sala de maternidad más moderna en este hospital es muy deseable.",
+      "back": "We must stress the fact that a more modern maternity ward in this hospital is much called-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Me da igual lo buenas que sean tus excusas; no justifican ese comportamiento.",
+      "back": "I don't care how good your excuses are; there's no call for that behaviour.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Me da igual lo convincentes que sean tus argumentos; no justifican la violencia en ninguna circunstancia.",
+      "back": "I don't care how convincing your arguments are; there's no call for violence in any circumstances.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Me da igual lo mucho que intentes explicar tu comportamiento; no hay justificación para ese nivel de envidia.",
+      "back": "I don't care how hard you try to justify your behaviour; there's no call for that amount of jealousy.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "No lo podía creer cuando él simplemente perdió los estribos en la reunión; aquello fue totalmente injustificable.",
+      "back": "I couldn't believe it when he just lost it in the meeting; that was completely uncalled-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Me quedé sin palabras cuando él perdió los estribos delante de todo el mundo; eso fue totalmente injustificable.",
+      "back": "I was speechless when he lost his temper in front of everyone; that was completely uncalled-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "¡Él claramente acaba de ofenderte! Estoy contigo en eso; fue totalmente injustificable.",
+      "back": "He just downright offended you! I'm with you on this one; that was totally uncalled-for.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "El guía turístico hizo señas al grupo para que se acercara a ver el cambio de guardia en el exterior del palacio real.",
+      "back": "The tour guide beckoned the group to watch the changing of the guards outside the royal palace.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "El sol durante todo el año y las playas doradas atraen a turistas de todo el mundo.",
+      "back": "The year-round sunshine and golden beaches beckon tourists from all over the world.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "El olor a galletas haciéndose me atrajo a la cocina.",
+      "back": "The smell of baking cookies beckoned me to the kitchen.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "La gente a menudo tacha a los adolescentes de meros hooligans. ¡Lo siento, pero no estoy de acuerdo!",
+      "back": "People often label teenagers as nothing but hooligans, but I beg to differ!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "La tacharon como una simple bocazas, ¡pero yo no estaba de acuerdo!",
+      "back": "She was labeled as nothing but a loudmouth, but I begged to differ!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "¡Pues lo siento, pero no estoy de acuerdo! ¡No puedes tachar a toda la gente de ese país de maleducados!",
+      "back": "Well I beg to differ! You can't label all the people from that country rude!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "El gobierno ha solicitado ayuda internacional después del desastroso terremoto que sembró el caos por todo el país el mes pasado.",
+      "back": "The government has appealed for international aid after the disastrous earthquake that wreaked havoc across the country last month.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "El catastrófico huracán ha sembrado el caos por toda la región y los residentes están solicitando cualquier tipo de ayuda.",
+      "back": "The catastrophic hurricane has wreaked havoc across the region and the residents are appealing for any kind of help.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Para atrapar a los saqueadores que sembraron el caos por toda la ciudad después del terremoto, la policía está solicitando testigos.",
+      "back": "In order to catch the looters that wreaked havoc across the city after the earthquake, police are appealing for witnesses.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Los ciudadanos han solicitado más espacios para aparcar en la ciudad.",
+      "back": "Citizens have requested more public parking spaces in the city.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Los ciudadanos están solicitando normas más estrictas para la venta de alcohol a menores de edad.",
+      "back": "Citizens are requesting tighter regulations on the sale of alcohol to those under age.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Responder a los ciudadanos, que han pedido controles fronterizos más estrictos, es una de las preocupaciones principales del partido.",
+      "back": "Responding to the citizens, who are requesting stricter border controls, is one of the party's main concerns.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "La gente a menudo invoca a Dios para que le ayude a salir del paso en épocas difíciles.",
+      "back": "In times of trouble people often invoke God to help them make it through.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "El abogado invocó una ley antigua que acabó salvando al acusado.",
+      "back": "The lawyer invoked an old law that eventually saved the defendant.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "El acusado dijo que había invocado a Dios para ayudarle a superar el juicio.",
+      "back": "The defendant said he had invoked God to help him through the trial.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Ojalá pudiera tener un intérprete a mi entera disposición cuando voy de vacaciones a Francia.",
+      "back": "I wish I could have an interpreter at my beck and call when I go on holiday to France.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Quiero dejar esto bien claro: este gobierno no está a la entera disposición de los medios de comunicación.",
+      "back": "Let me make this clear: this government is not at the beck and call of the media.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Por qué ella siempre está a su entera disposición? ¿Qué es lo que quiere de él?",
+      "back": "Why is she always at his beck and call? What is she trying to get out of him?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¡Lo siento, la naturaleza me llama!",
+      "back": "Sorry, the call of nature!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Necesito contestar a la llamada de la naturaleza.",
+      "back": "I need to answer the call of nature.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Hay varias estaciones de servicio en el camino, por si los niños sintiesen la llamada de la naturaleza.",
+      "back": "There are plenty of service stations on the way, should the children feel the call of nature.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Prefiero que la gente llame a las cosas por su nombre y me diga lo que en realidad piensa.",
+      "back": "I prefer people to call a spade a spade and tell me what they actually think.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Vamos a llamar a las cosas por su nombre y no complicarlo todo en exceso.",
+      "back": "Let's call a spade a spade and not overcomplicate things.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Él no tiene pelos en la lengua y siempre llama a las cosas por su nombre.",
+      "back": "He doesn't mince his words and always calls a spade a spade.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Él estaba tan enfadado cuando le rechazaron en las primeras fases de The V Factor que empezó a poner verdes a los miembros del jurado.",
+      "back": "He was so angry when he was turned down during the first stages of The V Factor that he started calling the jury members every name under the sun.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "¿Quién se cree ella que es? ¿La escuchaste insultarlo? Lo puso verde.",
+      "back": "Who does she think she is? Did you hear her swearing at him? She called him every name under the sun.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "¿Estás de guasa? No vuelvo a salir con él ni en broma. Cuando rompimos me puso verde.",
+      "back": "Are you kidding? There's no way I'm going back to him. When we split up, he called me every name under the sun.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Es claramente una situación en que le dijo la sartén al cazo.",
+      "back": "This is clearly a case of the pot calling the kettle black.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "No puedo creer que Mark le pusiera verde por hacer algo que él también hacía. ¡Le dijo la sartén al cazo!",
+      "back": "I can't believe Mark called him every name under the sun for doing something he also did - talk about the pot calling the kettle black!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "El jefe dijo que teníamos que trabajar más, pero después se fue a comer durante dos horas. ¡Le dijo la sartén al cazo!",
+      "back": "The boss said that we needed to work harder, but then went for a two-hour lunch break. Pot calling the kettle black!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "A diferencia de su hermana Lola, Lilly siempre ha buscado llamar la atención de su padre.",
+      "back": "Unlike her sister Lola, Lilly's always sought her dad's attention.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "Seguro que esa estatua llamará la atención del público. Es una gran atracción.",
+      "back": "That statue's sure to get the audience's attention. It's a crowd-puller.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Seguro que él llama la atención de la gente. Es alguien que atrae mucho al público.",
+      "back": "He's sure to attract people's attention. He's a crowd-puller.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "A Sam se le da tan bien contar cuentos que seguro que llamará la atención de todo el grupo.",
+      "back": "Sam's so good at storytelling that he's sure to draw the attention of everyone in the group.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Gracias por su correo. Nadie me había llamado la atención sobre este tema antes.",
+      "back": "Thanks for your email. No one had ever drawn my attention to this issue before.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "¿Podrían dirigir su atención al próximo punto en nuestro orden del día?",
+      "back": "Could I draw your attention to the next item on our agenda?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Lo primero que me llamó la atención fue la corbata tan indiscreta que llevaba Jeff.",
+      "back": "What first caught my eye was the flashy tie Jeff was wearing.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Seguro que esos tacones llaman la atención a cualquiera.",
+      "back": "Those heels are sure to catch anyone's eye.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Seguro que su estilo tan llamativo llama la atención de la gente dondequiera que vaya.",
+      "back": "Her flashy style's sure to catch people's eyes wherever she goes.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Lo que llama la atención del sofá es que no es tan grande como el mío ni por asomo y aun así caben sentadas el mismo número de personas.",
+      "back": "What's remarkable about the couch is that it's nowhere near as big as mine, and yet it seats as many people.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Lo que a mí me llama la atención es que el estadio no estaba lleno ni por asomo y aun así no nos dejaban entrar.",
+      "back": "What I find remarkable is that the stadium was nowhere near full, and yet they wouldn't let us in.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Lo llamativo es que no es tan guapa como tú ni por asomo y aun así ganó el concurso.",
+      "back": "The remarkable thing is that she's nowhere near as pretty as you, and yet she won the contest.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "La parte más llamativa del plan era aquella que presentó Leigh.",
+      "back": "The most striking part of the plan was that submitted by Leigh.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Sus llamativos ojos azules hacían difícil concentrarse en su explicación.",
+      "back": "Her striking blue eyes made it hard to focus on her explanation.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "De Cleopatra se dice que fue una de las mujeres más atractivas de la historia.",
+      "back": "Cleopatra's said to have been one of the most striking women in history.",
+      "sourcePage": 41
+    }
+  ]
+}

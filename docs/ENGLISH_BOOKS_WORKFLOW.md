@@ -135,3 +135,6 @@ El libro 63 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 63__h
 
 
 El libro 64 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 64__halves.ocr.txt`. Focus Points: mitades 11–16 y 21–26 (PDF 6–8 y 11–13, básico), 39–44 y 49–54 (PDF 20–22 y 25–27, intermedio), 67–72 y 77–82 (PDF 34–36 y 39–41, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias entre columnas.
+
+
+El libro 65 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 65__halves.ocr.txt`. Focus Points: mitades 11–16 y 21–26 (PDF 6–8 y 11–13, básico), 39–44 y 49–54 (PDF 20–22 y 25–27, intermedio), 67–72 y 77–82 (PDF 34–36 y 39–41, avanzado). Se transcribieron 90 tarjetas por nivel; el bloque PDF 25 tiene encabezados OCR alterados y el de PDF 40 presenta los puntos en orden inverso. Se corrigieron erratas y discrepancias.
