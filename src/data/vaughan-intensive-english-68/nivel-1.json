@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-68",
+  "bookTitle": "Libro 68",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Quién va a pagar estos cafés?",
+      "back": "Who's going to pay for these coffees?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Pues yo no voy a pagarlos.",
+      "back": "Well, I'm not going to pay for them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "¡No te preocupes! Los pago yo.",
+      "back": "Don't worry! I'll pay for them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Quién va a pagar esta comida?",
+      "back": "Who's going to pay for this meal?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Pues yo no voy a pagarla.",
+      "back": "Well, I'm not going to pay for it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "¡No te preocupes! La pago yo.",
+      "back": "Don't worry! I'll pay for it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Quién suele pagar las copas después del trabajo?",
+      "back": "Who usually pays for after-work drinks?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Normalmente las paga Mick.",
+      "back": "Mick usually pays for them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Debbie nunca paga las copas después del trabajo.",
+      "back": "Debbie never pays for after-work drinks.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Es mi ronda. La pago yo.",
+      "back": "It's my round. I'll pay for it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Es su ronda. La paga él.",
+      "back": "It's his round. He'll pay for it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Es su ronda. La pagan ellos.",
+      "back": "It's their round. They'll pay for it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Pagas mucho por tus clases de guitarra?",
+      "back": "Do you pay much for your guitar lessons?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "No, no pago mucho por ellas.",
+      "back": "No, I don't pay much for them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Sí, pago mucho por ellas.",
+      "back": "Yeah, I pay a lot for them.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¡No te olvides de pagar la cuenta antes de salir del bar!",
+      "back": "Don't forget to pay the bill before you leave the bar!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Puedes pagar la cuenta? Sólo tengo cinco libras.",
+      "back": "Can you pay the bill? I only have a fiver.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Pagaré la cuenta.",
+      "back": "I'll pay the bill.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No te olvides de pagar el recibo del gas hoy.",
+      "back": "Don't forget to pay the gas bill today.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Hay que pagar el recibo del teléfono. ¡No te olvides de pagarlo!",
+      "back": "The phone bill's due. Don't forget to pay it!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No te olvides de pagar el recibo de la luz. ¡Hay que pagar!",
+      "back": "Don't forget to pay the electricity bill. It's due!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Tenemos que pagar el alquiler hoy. Hace tiempo que hay que pagarlo.",
+      "back": "We have to pay the rent today. It's overdue.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Tenemos que pagar el alquiler pronto. Hace tiempo que hay que pagarlo.",
+      "back": "We have to pay our rent soon. It's overdue.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Hace tiempo que hay que pagar el alquiler. Tenemos que pagarlo pronto.",
+      "back": "The rent is overdue. We have to pay it soon.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "¡No te olvides de pagar la hipoteca! Hace tiempo que hay que pagarla.",
+      "back": "Don't forget to pay the mortgage! It's overdue.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Cuándo tenemos que pagar la hipoteca?",
+      "back": "When do we have to pay the mortgage?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Tenemos que pagarla hoy.",
+      "back": "We have to pay it today.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "No sé cómo voy a pagar los gastos del médico.",
+      "back": "I don't know how I'm going to pay the medical fees.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "No sé cómo voy a pagar la inscripción.",
+      "back": "I don't know how I'm going to pay the registration fee.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "No sé cómo él va a pagar las cuotas.",
+      "back": "I don't know how he's going to pay the membership fees.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "¡Págale a él!",
+      "back": "Pay him!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Paga al fontanero mañana.",
+      "back": "Pay the plumber tomorrow.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Págame cuando puedas.",
+      "back": "Pay me when you can.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Cuándo vas a pagar al fontanero por la ducha?",
+      "back": "When are you going to pay the plumber for the shower?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Cuándo vas a pagarle por el trabajo?",
+      "back": "When are you going to pay him for the work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Cuándo vas a pagarles por los azulejos?",
+      "back": "When are you going to pay them for the tiles?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Cuándo me lo vas a devolver?",
+      "back": "When are you going to pay me back?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Devuélvemelo cuando puedas.",
+      "back": "Pay me back when you can.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Cuándo me vas a devolver el dinero del alquiler?",
+      "back": "When are you going to pay me back for the rent?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Pagamos a Mary para limpiar la casa.",
+      "back": "We pay Mary to clean the house.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Estamos pagando a un fontanero para alicatar el baño.",
+      "back": "We're paying a plumber to tile the bathroom.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Están pagando a una empresa de seguridad para protegerle.",
+      "back": "They're paying a security company to protect him.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Le pagan a ella una pequeña fortuna por limpiar la casa.",
+      "back": "They pay her a small fortune to clean the house.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Estamos pagando una pequeña fortuna al fontanero por alicatar el baño.",
+      "back": "We're paying the plumber a small fortune to tile the bathroom.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Están pagando una pequeña fortuna a la empresa de seguridad para protegerle.",
+      "back": "They're paying the security company a small fortune to protect him.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Siempre pago la compra con tarjeta de débito.",
+      "back": "I always pay for the shopping by debit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Ella siempre paga cosas con tarjeta de débito.",
+      "back": "She always pays for things by debit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Mi madre paga todo con tarjeta de débito.",
+      "back": "My mother pays for everything by debit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Hoy en día pago todo con tarjeta de crédito.",
+      "back": "These days I pay for everything by credit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Hoy en día pago la compra con tarjeta de crédito.",
+      "back": "These days I pay for the shopping by credit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Hoy en día mi padre paga las facturas con tarjeta de crédito.",
+      "back": "These days my father pays the bills by credit card.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "Prefiero pagar en efectivo.",
+      "back": "I prefer to pay in cash.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Prefieres pagar la compra con tarjeta o en efectivo?",
+      "back": "Do you prefer to pay for the shopping by card or in cash?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Hoy en día, prefiero pagar todo en efectivo.",
+      "back": "These days, I prefer to pay for everything in cash.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Es muy caro. ¿Puedo pagar en cuotas?",
+      "back": "It's very expensive. Can I pay in installments?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Me gusta el sofá rojo, pero es muy caro. ¿Puedo pagar en cuotas?",
+      "back": "I like the red sofa but it's very dear. Can I pay in installments?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Hoy en día se puede pagar todo en cuotas.",
+      "back": "These days you can pay for everything in installments.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "No se puede pagar en cuotas. Tienes que pagar por adelantado.",
+      "back": "You can't pay in installments. You have to pay upfront.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Prefieres pagar por adelantado?",
+      "back": "Do you prefer to pay upfront?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Es muy caro. ¿Tengo que pagar por adelantado?",
+      "back": "It's very dear. Do I have to pay upfront?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Te invitaré a tomar una copa.",
+      "back": "I'll buy you a drink.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Te invitaré a desayunar.",
+      "back": "I'll buy you breakfast.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Te invitaré a cenar.",
+      "back": "I'll buy you dinner.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Te puedo invitar a tomar una copa algún día?",
+      "back": "Can I buy you a drink sometime?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Algún día te puedo invitar a comer?",
+      "back": "Can I buy you lunch sometime?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Algún día te puedo invitar a cenar?",
+      "back": "Can I buy you dinner sometime?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Me encantaría invitarte a una cerveza para darte las gracias.",
+      "back": "I'd love to buy you a beer to say thanks.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Realmente me encantaría invitarte a comer para darte las gracias.",
+      "back": "I'd really love to buy you lunch to say thanks.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Realmente me encantaría invitarte a un café para darte las gracias.",
+      "back": "I'd really love to buy you a coffee to say thanks.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Deja que te invite a cenar para darte las gracias por ayudarme.",
+      "back": "Let me buy you dinner to say thanks for helping me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Deja que te invite a un café para darte las gracias por ayudarme.",
+      "back": "Let me buy you a coffee to say thanks for helping me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Deja que te invite a una cerveza para darte las gracias por ayudarme.",
+      "back": "Let me buy you a beer to say thanks for helping me.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Deja que te invite a cenar, te debo una.",
+      "back": "Let me buy you dinner, I owe you one.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "¡Realmente te debo una! Deja que te invite a comer algún día.",
+      "back": "I really owe you one! Let me buy you lunch sometime.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Muchas gracias. ¡Te debo una! ¿Puedo invitarte a una copa algún día?",
+      "back": "Thanks so much. I owe you one! Can I buy you a drink sometime?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Cuál es el sueldo?",
+      "back": "What's the pay like?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Sabes cuál es el sueldo?",
+      "back": "Do you know what the pay is like?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Pregúntale a él cuál es el sueldo.",
+      "back": "Ask him what the pay is like.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Es un trabajo bien remunerado.",
+      "back": "It's a well-paid job.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Suzanne está bien pagada.",
+      "back": "Suzanne is well-paid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Christopher está bien pagado y Melanie está bien pagada también.",
+      "back": "Christopher is well-paid and Melanie is well-paid too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Esa empresa paga bien.",
+      "back": "That company pays well.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "La enfermería no está bien remunerada.",
+      "back": "Nursing doesn't pay well.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "La contabilidad suele estar bien remunerada.",
+      "back": "Accounting usually pays very well.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Cuándo te pagan?",
+      "back": "When do you get paid?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Salgamos de marcha cuando te paguen.",
+      "back": "Let's go out when you get paid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Te invito a cenar cuando me paguen.",
+      "back": "I'll buy you dinner when I get paid.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Me pagan el último día del mes.",
+      "back": "I get paid on the last day of the month.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Te pagan el último día del mes o el primer día del mes?",
+      "back": "Do you get paid on the last day of the month or the first day of the month?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Te pagan el primer día del mes? No, me pagan una vez cada quince días.",
+      "back": "Do you get paid on the first day of the month? No, I get paid once a fortnight.",
+      "sourcePage": 12
+    }
+  ]
+}
