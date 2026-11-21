@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-71",
+  "bookTitle": "Libro 71",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Aquí! ¡Tírame la pelota!",
+      "back": "Over here! Throw me the ball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Allí! ¡Tírale la pelota a él!",
+      "back": "Over there! Throw him the ball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Allí! ¡Tírale la pelota a Joe!",
+      "back": "Over there! Throw Joe the ball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "No le voy a tirar la pelota a él.",
+      "back": "I'm not throwing him the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "No le voy a tirar la pelota a ella.",
+      "back": "I'm not throwing her the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "No te voy a tirar la pelota.",
+      "back": "I'm not throwing you the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Por favor, ¿nos tiras la pelota?",
+      "back": "Will you please throw us the ball?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Nos tiras la pelota, por favor?",
+      "back": "Will you throw us the ball, please?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Por favor, ¿me tiras la pelota?",
+      "back": "Please will you throw me the ball?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Por qué no quieres tirarle la pelota a él?",
+      "back": "Why won't you throw him the ball?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Por qué no quieres tirarle la pelota a ella?",
+      "back": "Why won't you throw her the ball?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Por qué no quieres tirarme la pelota?",
+      "back": "Why won't you throw me the ball?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "No le tiraré la pelota a él porque no tiene ni idea de cómo jugar.",
+      "back": "I won't throw him the ball because he has no idea how to play.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "No le tiraré la pelota a ella porque no tiene ni idea de cómo jugar.",
+      "back": "I won't throw her the ball because she has no idea how to play.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "No te tiraré la pelota porque no tienes ni idea de cómo jugar.",
+      "back": "I won't throw you the ball because you have no idea how to play.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¡Aquí! Tírame la pelota. (Usa «to».)",
+      "back": "Over here! Throw the ball to me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¡Ahí! Tírale la pelota a él. (Usa «to».)",
+      "back": "Over there! Throw the ball to him.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¡Ahí! Tírale la pelota a Joe. (Usa «to».)",
+      "back": "Over there! Throw the ball to Joe.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Tíramelo; ¡lo cogeré!",
+      "back": "Throw it to me; I'll catch it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Tíraselo a Sam; ¡él lo cogerá!",
+      "back": "Throw it to Sam; he'll catch it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Tíraselo a ella; ¡ella lo cogerá!",
+      "back": "Throw it to her; she'll catch it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¡No me la tires a mí! Soy malísimo en la recepción.",
+      "back": "Don't throw it to me! I'm rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¡No se la tires a Sam! Es malísimo en la recepción.",
+      "back": "Don't throw it to Sam! He's rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¡No se la tires a ella! Es malísima en la recepción.",
+      "back": "Don't throw it to her! She's rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¡Él siempre se la tira a él!",
+      "back": "He always throws it to him!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¡Ella siempre se la tira a ella!",
+      "back": "She always throws it to her!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¡Ella se la tira a él cada vez que juegan!",
+      "back": "She throws it to him every time they play!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "John no se la tira a Jim porque Jim es malísimo en la recepción.",
+      "back": "John's not throwing it to Jim because Jim's rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Sheila no se la tira a Beth porque Beth es malísima en la recepción.",
+      "back": "Sheila's not throwing it to Beth because Beth's rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Pat no se la tira a Ken porque Ken es malísimo en la recepción.",
+      "back": "Pat's not throwing it to Ken because Ken's rubbish at catching.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¡No le tires cosas a la policía!",
+      "back": "Don't throw things at the police!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¡No le tires verduras a los actores!",
+      "back": "Don't throw vegetables at the actors!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¡No le tires cacahuetes al profesor!",
+      "back": "Don't throw peanuts at the teacher!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Los manifestantes están tirando cosas a la policía.",
+      "back": "The demonstrators are throwing things at the police.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "La audiencia está tirando verduras a los actores.",
+      "back": "The audience is throwing vegetables at the actors.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Están tirándose cacahuetes entre ellos.",
+      "back": "They're throwing peanuts at each other.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Quién está tirando piedrecitas a los tiburones? ¡Les enfadarás!",
+      "back": "Who's throwing stones at the sharks? You'll make them angry!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Quién está tirando huevos a los manifestantes? ¡Les enfadarás!",
+      "back": "Who's throwing eggs at the demonstrators? You'll make them angry!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Quién está tirando cacahuetes al profesor? ¡Le enfadarás!",
+      "back": "Who's throwing peanuts at the teacher? You'll make him angry!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Veo a un soldado tirando granadas al enemigo.",
+      "back": "I can see a soldier throwing grenades at the enemy.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Ves a algunos soldados tirándonos granadas?",
+      "back": "Can you see any soldiers throwing grenades at us?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "No, no veo a nadie tirándonos nada.",
+      "back": "No, I can't see anyone throwing anything at us.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¡Adam no deja de tirarme su comida!",
+      "back": "Adam keeps throwing his food at me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "¡Y ella no deja de tirarme su comida!",
+      "back": "And she keeps throwing her food at me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Pues no veo a nadie tirándote nada. ¡Cómete tu comida y cállate!",
+      "back": "Well I can't see anyone throwing anything at you. Eat your food and shut up!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Tíralo!",
+      "back": "Throw it away!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Tíralos!",
+      "back": "Throw them away!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Tira eso ahora mismo!",
+      "back": "Throw that away right now!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡No tires eso! Lo necesito.",
+      "back": "Don't throw that away! I need it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "No lo tires. Es importante.",
+      "back": "Don't throw it away. It's important.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¡No tires nada!",
+      "back": "Don't throw anything away!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Me puedes tirar esto?",
+      "back": "Can you throw this away for me?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Me puedes tirar esa ropa?",
+      "back": "Can you throw those clothes away for me?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Me puedes tirar estos juguetes?",
+      "back": "Can you throw these toys away for me?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Me cuesta tirar mi ropa vieja.",
+      "back": "It's hard for me to throw my old clothes away.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Me cuesta tirar muebles viejos.",
+      "back": "It's hard for me to throw old furniture away.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Me cuesta tanto tirar juguetes viejos.",
+      "back": "It's so hard for me to throw old toys away.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Me resulta difícil tirar algunas cosas.",
+      "back": "I find it hard to throw some stuff away.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "De hecho, me resulta muy difícil tirar los libros.",
+      "back": "In fact, I find it really hard to throw books away.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Te resulta difícil tirar las cosas también?",
+      "back": "Do you find it hard to throw stuff away too?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Puedes sacar la basura? (Inglés británico.)",
+      "back": "Can you throw the rubbish out?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Claro que la puedo sacar.",
+      "back": "Sure, I can throw it out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "No tengo tiempo de sacar la basura. (Usa «rubbish».)",
+      "back": "I don't have time to throw out the rubbish.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Sacas la basura? (Usa «trash».)",
+      "back": "Will you throw out the trash?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Claro que la saco.",
+      "back": "Sure, I'll throw it out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "No tengo tiempo de sacar la basura. (Usa «trash».)",
+      "back": "I haven't got time to throw the trash out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿A quién le toca sacar la basura?",
+      "back": "Whose turn is it to throw the garbage out?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "No me toca a mí sacar la basura.",
+      "back": "It isn't my turn to throw the garbage out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Le toca a Helen sacar la basura.",
+      "back": "It's Helen's turn to throw out the garbage.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Tira esa chatarra.",
+      "back": "Throw that junk out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "Esas cosas son trastos. ¡Tíralas!",
+      "back": "That stuff is junk. Throw it out!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "Los muebles viejos son trastos. ¡Tíralos!",
+      "back": "The old furniture is junk. Throw it out!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Puedo tirar esta porquería?",
+      "back": "Can I throw this crap out?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Nadie quiere esa porquería. Puedes tirarla.",
+      "back": "No one wants that crap. You can throw it out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Esas cosas son porquerías. Puedes tirarlas.",
+      "back": "That stuff is crap. You can throw it out.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Van a lanzar un nuevo producto en junio.",
+      "back": "They're launching a new product in June.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Cuándo vas a lanzar el nuevo producto?",
+      "back": "When are you launching the new product?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Vas a lanzar el nuevo modelo pronto?",
+      "back": "Are you launching the new model soon?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Están planeando lanzar un nuevo producto en junio.",
+      "back": "They're planning to launch a new product in June.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Cuándo estás planeando lanzar el nuevo modelo?",
+      "back": "When are you planning to launch the new model?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Estás planeando lanzar la campaña pronto?",
+      "back": "Are you planning to launch the campaign soon?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Estamos planeando lanzar la nueva campaña en un futuro cercano.",
+      "back": "We're planning to launch the campaign in the near future.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Estás planeando lanzar un nuevo modelo en un futuro cercano?",
+      "back": "Are you planning to launch a new model in the near future?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Están planeando lanzar la marca en un futuro cercano.",
+      "back": "They're planning to launch the brand in the near future.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Estamos pensando en lanzarlo en mayo.",
+      "back": "We're thinking about launching it in May.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Estoy pensando en lanzar el libro a fin de mes.",
+      "back": "I'm thinking about launching the book at the end of the month.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Él está pensando en lanzar la campaña a finales del año que viene.",
+      "back": "He's thinking about launching the campaign at the end of next year.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Vienes a la fiesta de lanzamiento?",
+      "back": "Are you coming to the launch party?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "No estaré para el lanzamiento de la marca.",
+      "back": "I won't be here for the brand launch.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿El lanzamiento del libro es antes o después de la comida?",
+      "back": "Is the book launch before lunch or after lunch?",
+      "sourcePage": 13
+    }
+  ]
+}

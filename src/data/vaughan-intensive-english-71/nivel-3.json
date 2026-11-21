@@ -1,0 +1,532 @@
+{
+  "bookId": "vaughan-intensive-english-71",
+  "bookTitle": "Libro 71",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Llévese esta impresora láser y le regalamos este cartucho de tinta.",
+      "back": "Get this laser printer and we'll throw in this ink cartridge too.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Llévese este maravilloso sistema de sonido envolvente y le regalamos una estantería para CDs.",
+      "back": "Get this amazing surround sound system and we'll throw in a CD rack too.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Llévese esta barbacoa totalmente nueva y le regalamos un pack de seis cervezas para poner la fiesta en marcha!",
+      "back": "Get this all-new barbecue and we'll throw in a six pack of beer to get the party started!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¡Me ofrecí a regalarle un pack de seis cervezas, pero ella me devolvió el ofrecimiento con desprecio!",
+      "back": "I offered to throw in a six pack of beer but she threw the offer back in my face!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "¡No me habría ofrecido si hubiera sabido que despreciarías mi ofrecimiento!",
+      "back": "I wouldn't have offered if I'd known you'd throw it back in my face!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "¡No le habría pedido a ella que se casara conmigo si hubiera sabido que me rechazaría con desprecio!",
+      "back": "I wouldn't have proposed to her if I'd known she'd throw it back in my face!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Me habría metido de lleno en la tarea si hubiera sabido que era tan importante.",
+      "back": "I would've thrown myself into the assignment if I'd known it was so important.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Si hubiera sabido el tiempo que se tarda, me habría metido de lleno en ello el mes pasado.",
+      "back": "If I'd known how long it'd take I'd have thrown myself into it last month.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "¡Claro que lo podrás acabar! ¡Tú métete de lleno en ello con todas tus fuerzas!",
+      "back": "Of course you'll get it done! Just throw yourself head first into it!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Si alguna vez le cogen, seguro que le meten en la cárcel.",
+      "back": "If they ever catch up with him they'll definitely throw him in jail.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Al final le cogieron, pero ¿sabes qué? No le metieron en la cárcel.",
+      "back": "They eventually caught up with him but get this; they didn't throw him in jail.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Le metieron en la cárcel durante diez años y, ojo al dato, ni siquiera tuvo un juicio justo.",
+      "back": "They threw him in jail for 10 years and get this; he didn't even get a fair trial.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Estaba totalmente seguro de que sabía lo que ella quería, pero su pregunta me desconcertó bastante.",
+      "back": "I was positive I knew what she wanted but her question really threw me off.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-014",
+      "front": "Ella estaba absolutamente segura de que él quería el trabajo. Su decisión la desconcertó totalmente.",
+      "back": "She was certain that he wanted the job. His decision really threw her off.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-015",
+      "front": "Todo el mundo estaba seguro de que él diría que sí, así que su negativa les desconcertó totalmente.",
+      "back": "Everyone was sure he'd say yes, so his refusal really threw them off.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-016",
+      "front": "Yo estaba convencida de que no me pediría que me casara con él, así que su declaración me descolocó.",
+      "back": "I was convinced he wouldn't ask me to marry him so his proposal threw me off balance.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Estábamos seguros de que él aceptaría el trabajo, así que su negativa nos descolocó.",
+      "back": "We were certain he'd take the job so his refusal threw us off balance.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "Él casi se cae de la bici cuando una ráfaga de viento le desequilibró.",
+      "back": "He almost fell off his bike when a gust of wind threw him off balance.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Alguien del público tosió y me distrajo por un segundo.",
+      "back": "Someone coughed in the audience and it threw me off track for a second.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Alguien estornudó durante el discurso y eso distrajo al ponente un segundo.",
+      "back": "Someone sneezed during the speech and that threw the speaker off track for a second.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Sonó el teléfono de alguien durante la actuación y eso distrajo a los músicos un momentito.",
+      "back": "Someone's phone rang during the performance and that threw the musicians off track for a bit.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Él desapareció en Guatemala y despistó a los detectives por algún tiempo.",
+      "back": "He disappeared in Guatemala and threw the detectives off the trail for a bit.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Los zorros atravesaron corriendo el río y despistaron a los perros.",
+      "back": "The foxes ran through a river and threw the dogs off the trail.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "El presidiario despistó a los polis una vez que dejó de usar su tarjeta de crédito.",
+      "back": "The convict threw the cops off the trail once he stopped using his credit card.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Desaparecieron en Tailandia y consiguieron que los investigadores perdieran su rastro por un tiempo.",
+      "back": "They disappeared in Thailand and threw the investigators off the scent for a bit.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Los cazadores perdieron el rastro cuando las liebres corrieron por el bosque.",
+      "back": "The hunters were thrown off the scent when the hares ran through the woods.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "El fugitivo hizo perder el rastro a los polis al cruzar la frontera.",
+      "back": "The fugitive threw the cops off the scent once he crossed the border.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Te compensaría hacer todos los exámenes de un tirón.",
+      "back": "You're better off doing all the exams in one go.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-029",
+      "front": "Vi todas las películas del Señor de los Anillos de un tirón.",
+      "back": "I watched all the Lord of the Rings films in one go.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-030",
+      "front": "Te compensaría leer todos los libros de un tirón.",
+      "back": "You're better off reading all the books in one go.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-031",
+      "front": "Fueron a Las Vegas y se casaron del tirón. Fue divertido y eso, pero les costó una fortuna.",
+      "back": "They went to Las Vegas and got married all at once. It was fun and everything but it cost them a fortune.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Compramos los regalos de Navidad de toda la familia del tirón. Fue divertido y eso, pero ahora estamos totalmente sin blanca.",
+      "back": "We bought the whole family's Christmas presents all at once. It was fun and everything but now we're totally broke!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Odio pagar las facturas, así que siempre las pago del tirón.",
+      "back": "I hate paying my bills so I always pay them all at once.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Estábamos remodelando la cocina y del tirón hicimos el baño también.",
+      "back": "We were remodeling the kitchen and while we were at it, we did the bathroom too.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "Estábamos haciendo la mudanza, así que del tirón nos compramos un coche nuevo.",
+      "back": "We were moving house so while we were at it, we got a new car.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Nos estábamos haciendo la rinoplastia, así que del tirón nos pusimos bótox también.",
+      "back": "We were getting nose jobs so while we were at it, we got some botox too.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Me tomé el vaso entero de agua de un tirón. ¡Casi me atraganto!",
+      "back": "I drank the whole glass of water in one gulp. I almost choked!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Teníamos prisa, así que lo tomé rápido de un tirón. ¡Casi me atraganto!",
+      "back": "We were in a hurry so I downed it in one gulp. I almost choked!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Cuando te tomas un chupito te lo tienes que tomar rápido de un tirón.",
+      "back": "When you do a shot you have to down it in one gulp.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Estaba exhausto después de la maratón. ¡Dormí 12 horas de un tirón!",
+      "back": "I was exhausted after the marathon. I slept for 12 hours in a row!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Ella vio los ocho episodios de la serie de un tirón el sábado. Es un buen programa y eso, ¡pero es un poco exagerado!",
+      "back": "She watched all eight episodes of the series in a row on Saturday. It's a good programme and everything but that's a bit much!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Ella tuvo cuatro sesiones de bótox de un tirón. Tiene buen aspecto y eso, pero no parece la de antes.",
+      "back": "She had four sessions of botox in a row. She looks great and everything but not like her old self.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Tíralo por aquí. Yo le echaré un vistazo por ti.",
+      "back": "Toss it over here. I'll take a look at it for you.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-044",
+      "front": "Dile a ella que lo tire por aquí si no lo puede abrir. Yo lo abriré.",
+      "back": "Tell her to toss it over here if she can't open it. I'll get it open.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-045",
+      "front": "No le tires eso a él. Si se cae, se romperá en mil pedazos.",
+      "back": "Don't toss that over to him. If it falls, it'll smash.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-046",
+      "front": "Tira el anzuelo lo más lejos que puedas y a ver lo que coges.",
+      "back": "Cast your line out as far as you can and see what you can catch.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Él tiró el anzuelo a unos diez metros del muelle.",
+      "back": "He cast his line out about ten metres from the dock.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "¡No es de extrañar que no cogiera nada! Él sólo tiró el anzuelo a unos dos metros.",
+      "back": "It's no wonder he didn't catch anything! He only cast his line out about two metres.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Le dejé solo diez segundos y tiró sus cereales por toda la cocina.",
+      "back": "I left him alone for ten seconds and he flung his cornflakes all over the kitchen.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "No es de extrañar que su tren de juguete se rompiera en mil pedazos. ¡Lo estuvo tirando por todo el salón!",
+      "back": "It's no wonder his train set smashed. He flung it all over the living room!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Es imposible vestirle a él. ¡Tira su ropa por todas partes!",
+      "back": "It's impossible to dress him. He flings his clothes all over the place!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Él tiró un guijarro a la ventana y la rompió en mil pedazos.",
+      "back": "He hurled a pebble at the window and smashed it to smithereens.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Él se puso furioso y se lanzó sobre el árbitro.",
+      "back": "He got really mad and hurled himself at the referee.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Él arrojó la caja por la mesa e hizo que todo volara por todas partes.",
+      "back": "He hurled the box across the table and knocked everything all over the place.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "¡Tíralo por aquí! (Usa «chuck».)",
+      "back": "Chuck it over here!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "No tires el arroz por aquí; se derramará por todas partes.",
+      "back": "Don't chuck the rice over here; it'll go all over the place.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Tira esa caja por aquí cuando hayas terminado con ella.",
+      "back": "Chuck that box over here when you've finished it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Tendrás que pagar una multa de unos trescientos euros en el acto si tiras basura a la calle.",
+      "back": "There's a three hundred euro on-the-spot fine if you litter.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-059",
+      "front": "El otro día pillaron a John tirando basura a la calle y tuvo que pagar en el acto trescientos euros de multa.",
+      "back": "The other day John got done for littering and had to pay a three hundred euro on-the-spot fine.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-060",
+      "front": "¡Se lo merece él! La gente que tira la basura a la calle debería ir a la cárcel.",
+      "back": "Serves him right! People who litter should be thrown in jail.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-061",
+      "front": "Yo que tú no tiraría ese papel al suelo. Hay una multa por tirar basura al suelo que tendrás que pagar en el acto.",
+      "back": "I wouldn't chuck that paper on the floor if I were you. There's an on-the-spot fine for littering.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Él tiró su chicle en el sendero y le pusieron una multa por tirar basura al suelo.",
+      "back": "He chucked his chewing gum on the footpath and he got done for littering.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Si Tom no viene a recoger sus cosas, voy a tirarlas.",
+      "back": "If Tom doesn't come to claim his stuff back, I'm going to chuck it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "¡Escucha! Si no vas a utilizar ese abrigo que te compré, lo voy a tirar a la basura.",
+      "back": "Listen! If you're not going to make use of that coat I bought you I'm going to bin it!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¿Puedo tirar a la basura esa caja de artículos de papelería que se han dejado en el cuarto libre?",
+      "back": "Can I bin that box of stationery that's been left in the spare room?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Sí, puedes tirarla. Nunca voy a hacer buen uso de ella.",
+      "back": "Yeah, you can bin it. I'm never going to make any use of it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Aquel hombre ha desaprovechado cada oportunidad que ha tenido.",
+      "back": "That guy's squandered every single opportunity that has come his way.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Él ganó mucho dinero cuando tenía unos veinte años, pero lo malgastó todo en los casinos.",
+      "back": "He made a load of money in his twenties but he squandered it all in the casinos.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "No aprovecha bien el tiempo, lo desperdicia.",
+      "back": "He doesn't make good use of his time, he squanders it.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "No le voy a dar oportunidades. Las malgastará todas.",
+      "back": "I'm not giving him any chances. He'll just fritter them all away.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Él heredó mucho dinero cuando su padre se murió. Pero lo malgastó todo después de unos años.",
+      "back": "He inherited a load of money when his father died. But he frittered it away in a few years.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "No aprovecha bien su tiempo. Lo malgasta todo.",
+      "back": "He doesn't make good use of his time. He fritters it all away!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Por lo visto, el nombre de Karen se ha mencionado en relación al comité consultivo.",
+      "back": "Apparently, Karen's name is being thrown around for the advisory committee.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Tienes idea de a quién están considerando para el puesto de director? No, pero he oído mencionar el nombre de Derek.",
+      "back": "Any idea who they're considering for the director's position? No, but I heard Derek's name being thrown around.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-075",
+      "front": "Parece que el nombre de Elika Hood se estaba mencionando en relación al papel principal, pero al final lo consiguió Chris Foyle.",
+      "back": "It seems Elika Hood's name was being thrown around for the lead role but, in the end, Chris Foyle got it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-076",
+      "front": "Ese tío siempre se hace el mandón. ¡No le hagas caso!",
+      "back": "That guy is always throwing his weight around. Don't mind him!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Por qué a nadie le cae bien el director? Bueno, por lo visto, siempre se hace el mandón.",
+      "back": "Why doesn't anyone like the director? Well apparently, he's always throwing his weight around.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Parece que siempre se hace el mandón en las reuniones.",
+      "back": "It seems he's always throwing his weight around in meetings.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Tenemos varias viviendas amplias que están a tiro de piedra de la playa.",
+      "back": "We have several spacious properties that are only a stone's throw from the beach.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "No compres ese lugar. Está a tiro de piedra del barrio más chungo de Fiddlesboro.",
+      "back": "Don't buy that place. It's only a stone's throw away from the dodgiest estate in Fiddlesboro.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Ese lugar que vimos es muy amplio, pero está a tiro de piedra del barrio más chungo del pueblo.",
+      "back": "That place we saw is really spacious but it's only a stone's throw from the dodgiest estate in town.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "De adolescente siempre me comportaba como un imprudente, pero últimamente voy con más precaución.",
+      "back": "In my teens I always threw caution to the wind but, lately, I'm a lot more cautious.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "A mis veinte siempre me comportaba como un imprudente, pero hoy en día voy con más precaución.",
+      "back": "In my twenties I always threw caution to the wind but these days I'm a lot more cautious.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "El piso está a tiro de piedra de un barrio chungo, pero dejé de lado la prudencia y lo compré.",
+      "back": "The flat's only a stone's throw from a dodgy estate but I threw caution to the wind and bought it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Por lo visto, su jefe le echó a él a los leones en la rueda de prensa.",
+      "back": "Apparently, his boss threw him to the lions in the press conference.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Parece que necesitaban un cabeza de turco. La echaron a los leones.",
+      "back": "It seems they needed a scapegoat. They threw her to the lions.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Si hubiera sabido que me echarían a los leones, no habría hecho la rueda de prensa.",
+      "back": "If I'd known they'd throw me to the lions, I wouldn't have done the press conference.",
+      "sourcePage": 41
+    }
+  ]
+}
