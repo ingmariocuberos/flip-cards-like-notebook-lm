@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-74",
+  "bookTitle": "Libro 74",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No entendí ni una palabra de lo que dijo él.",
+      "back": "I didn't understand a word he said.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Carmen no entendió ni una palabra de lo que dijo Andrew. Estaba hablando entre dientes.",
+      "back": "Carmen didn't understand a word Andrew said. He was mumbling.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "No entendiste ni una palabra de lo que dijo ese tipo, ¿verdad? Estaba hablando entre dientes.",
+      "back": "You didn't understand a word the guy said, did you? He was mumbling.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "No entendí nada de lo que él dijo.",
+      "back": "I did not understand a thing he said.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "James no entendió nada de lo que dijo María. Ella estaba hablando entre dientes todo el tiempo.",
+      "back": "James did not understand a thing María said. She was mumbling the whole time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "El tipo estaba hablando entre dientes todo el tiempo. No entendí nada de lo que dijo.",
+      "back": "The guy was mumbling the whole time. I did not understand a thing he said.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Apuesto a que no entendiste ni una palabra. El interlocutor estaba hablando entre dientes todo el tiempo.",
+      "back": "I bet you didn't understand a word. The speaker was mumbling the whole time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Vieron una película en francés. Apuesto a que Jerry no entendió nada.",
+      "back": "They watched a film in French. I bet Jerry didn't understand a thing.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Apuesto a que el equipo de ventas no entendió ni una palabra de eso.",
+      "back": "I bet the sales team didn't understand a word of that.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Pillé unas cuantas palabras, pero Shreena no entendió nada en absoluto.",
+      "back": "I picked up a few words, but Shreena didn't understand at all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "No entendiste nada en absoluto, ¿verdad? Yo pillé unas cuantas palabras.",
+      "back": "You didn't understand at all, did you? I picked up a few words.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Ed pilló unas cuantas palabras, pero yo no entendí nada en absoluto.",
+      "back": "Ed picked up a few words, but I didn't understand at all.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "No entendí del todo lo que estabas diciendo. ¿Podrías repetirlo, por favor?",
+      "back": "I didn't fully understand what you were on about. Could you say it again?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "El tipo no entendió del todo lo que yo estaba diciendo.",
+      "back": "The guy didn't fully understand what I was on about.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "No entendimos del todo lo que decía el interlocutor, pero pillamos unas cuantas palabras.",
+      "back": "We didn't fully understand what the speaker was on about, but we picked up a few words.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Qué entiende ella por el término «puntual»?",
+      "back": "What does she understand by the term \"punctual\"?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Qué entiendes por «humor británico»?",
+      "back": "What do you understand by \"British humour\"?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Qué entiendes por «terrorismo»?",
+      "back": "What do you understand by \"terrorism\"?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Te lo tomaste como una invitación para todo el mundo?",
+      "back": "Did you understand it to be an open invitation?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Me lo tomé a broma.",
+      "back": "I understood it to be a joke.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Nos lo tomamos como una advertencia amistosa.",
+      "back": "We understood it to be a friendly warning.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Según tenía entendido, querían hacernos una advertencia amistosa.",
+      "back": "As I understood it, they wanted to give us a friendly warning.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Según teníamos entendido, era una invitación para todo el mundo.",
+      "back": "As we understood it, it was an open invitation.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Según teníamos entendido, no necesitan ayuda.",
+      "back": "As we understood it, they don't need any help.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Fue una broma, por lo que yo entendí.",
+      "back": "It was just a joke, as I understood it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Por lo que ellos entendieron, estaban invitados también.",
+      "back": "As they understood it, they were invited too.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "No quieren ayuda, por lo que yo entiendo.",
+      "back": "They don't want any help, as I understand it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Si he entendido bien, sólo es una advertencia amistosa.",
+      "back": "If I understand, it's just a friendly warning.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Si lo he entendido bien, no necesitan ayuda.",
+      "back": "If I understand, they don't need any help.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Si he entendido bien, no deberíamos hacer preguntas.",
+      "back": "If I understand, we shouldn't ask any questions.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Perdona, ¡no lo pillo!",
+      "back": "Sorry, I don't get it!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Perdona, pero aún no lo pillo!",
+      "back": "Sorry, but I still don't get it!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Apuesto a que François no pilla la broma. Es humor británico.",
+      "back": "I bet François doesn't get the joke. It's British humour.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "No es complicado. ¿Lo pillas?",
+      "back": "It isn't complicated. Do you get it?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Ya lo pillas?",
+      "back": "Do you get it yet?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "He explicado mi argumento tres veces. ¿Ya lo pillas?",
+      "back": "I've explained my argument three times. Do you get it yet?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Pillas de qué está hablando él?",
+      "back": "Do you get what he's on about?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Pilla Sophie de qué está hablando él?",
+      "back": "Does Sophie get what he's on about?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Pilla alguien qué quiere decir él?",
+      "back": "Does anyone get what he means?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Vale, vale, lo pillo.",
+      "back": "OK, OK, I get it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "Gracias por explicármelo. Ahora lo pillo.",
+      "back": "Thanks for explaining it to me. I get it now.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "Pienso que lo pilla ella. Se lo he explicado cinco veces.",
+      "back": "I think she gets it. I've explained it to her five times.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Perdona, todavía no lo pillo del todo.",
+      "back": "Sorry, I still don't fully get it.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "No, no lo pillo para nada.",
+      "back": "No, I don't get it at all.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Ella no pilla del todo lo que está diciendo él.",
+      "back": "She doesn't fully get what he's on about.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Ésta es tu última oportunidad. ¿Queda claro?",
+      "back": "This is your last chance. Do I make myself understood?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "No hay segundas oportunidades. ¿Queda claro?",
+      "back": "There are no second chances. Do I make myself understood?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "No volverás a hacer eso. ¿Queda claro?",
+      "back": "You will not do that again. Do I make myself understood?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Quizás no me explicase bien. No se permite que nadie entre ahí.",
+      "back": "Perhaps I didn't make myself understood. No one is allowed to go in there.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Quizás no me explicase bien. No existen las segundas oportunidades.",
+      "back": "Perhaps I didn't make myself understood. There are no second chances.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Quizás no me explicase bien. ¡No estoy interesada en ti!",
+      "back": "Perhaps I didn't make myself understood. I'm not interested in you!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Espero que ella se explicase bien cuando dijo por qué se iba.",
+      "back": "I hope she made herself understood when she explained why she was leaving.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Espero que ella se explicase bien cuando le dijo a él que era su última oportunidad.",
+      "back": "I hope she made herself understood when she told him it was his last chance.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Espero que ella se explicase bien cuando les dijo que no entrasen allí.",
+      "back": "I hope she made herself understood when she told them not to go in there.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "No lograron hacerse entender la primera vez.",
+      "back": "They failed to make themselves understood the first time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "No lograron hacerse entender y ahora tienen que repetirse.",
+      "back": "They failed to make themselves understood and now they have to repeat themselves.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Si no logras hacerte entender la primera vez, tendrás que repetirte.",
+      "back": "If you fail to make yourself understood the first time, you'll have to repeat yourself.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "A él le cuesta hacerse entender. Siempre tiene que repetirse.",
+      "back": "He finds it difficult to make himself understood. He always has to repeat himself.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Es un poco rarito. Le cuesta hacerse entender.",
+      "back": "He's a bit awkward. He finds it difficult to make himself understood.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Era un poco rarito. Creo que le costaba hacerse entender.",
+      "back": "He was awkward. I think he found it difficult to make himself understood.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Intenté hablar con ellos, pero no entienden por lo que estoy pasando.",
+      "back": "I tried talking to them but they don't understand what I'm going through.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Ella intentó hablar con sus amigos, pero no entienden por lo que está pasando.",
+      "back": "She tried talking to her friends but they don't understand what she's going through.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Él intentó hablar con ella, pero él no entiende por lo que ella está pasando.",
+      "back": "He tried talking to her but he doesn't understand what she's going through.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Nadie entiende lo que es eso.",
+      "back": "No one understands what it's like.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Nadie entiende lo que es ser yo.",
+      "back": "No one understands what it's like to be me.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Intenté hablar con ella, pero ella dice que no entiendo lo que es eso.",
+      "back": "I tried talking to her but she says I don't understand what it's like.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Entiendes lo que se siente al ser despedido?",
+      "back": "Do you understand what it feels like to be sacked?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Entiende alguien lo que se siente al perderlo todo?",
+      "back": "Does anyone understand what it feels like to lose everything?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Entienden lo que se siente al ser acosado?",
+      "back": "Do they understand what it feels like to be bullied?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Entiendo lo que se siente al ser despedido.",
+      "back": "I understand how it feels to be sacked.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Intenta hablar con Caroline. Ella entiende lo que se siente al perderlo todo.",
+      "back": "Try talking to Caroline. She understands how it feels to lose everything.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Mucha gente entiende lo que se siente al ser intimidado.",
+      "back": "A lot of people understand how it feels to be bullied.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "No entiendes lo difícil que fue para mí romper con ella.",
+      "back": "You don't understand how difficult it was for me to break up with her.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Mi familia no entiende lo difícil que fue dejar el país.",
+      "back": "My family doesn't understand how difficult it was to leave the country.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "La gente no entiende lo difícil que fue tomar la decisión.",
+      "back": "People don't understand how difficult it was to make the decision.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Ella es una persona muy comprensiva. No le importará.",
+      "back": "She's a very understanding person. She won't mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Dile la verdad. Es una mujer muy comprensiva.",
+      "back": "Tell her the truth. She's an understanding woman.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Gracias por ser tan comprensivo.",
+      "back": "Thank you for being so understanding.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Es un error comprensible. ¡No me importa!",
+      "back": "It's an understandable mistake. I don't mind!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Es una decisión comprensible.",
+      "back": "It's an understandable decision.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Fue un error comprensible, pero no hay segundas oportunidades.",
+      "back": "It was an understandable mistake, but there are no second chances.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Has leído su redacción? ¡Es incomprensible!",
+      "back": "Have you read his essay? It's incomprehensible!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Su letra es casi incomprensible, pero no me importa.",
+      "back": "His handwriting is almost incomprehensible, but I don't mind.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Nunca cometería semejante error. ¡Sería incomprensible!",
+      "back": "I would never make such a terrible mistake. It would be incomprehensible!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Has entendido lo que quería decir él? Pensé que era un poco ambiguo.",
+      "back": "Did you understand what he meant? I thought it was a bit ambiguous.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Él no se hizo entender. Todo fue un poco ambiguo.",
+      "back": "He didn't make himself understood. It was all a bit ambiguous.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "No saben hacerse entender. ¡Todo lo que dicen es ambiguo!",
+      "back": "They don't know how to make themselves understood. Everything they say is ambiguous!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "No hay nada ambiguo sobre ello. Está más claro que el agua.",
+      "back": "There's nothing ambiguous about it. It's as clear as day.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "No creo que la redacción sea incomprensible. Está más clara que el agua para mí.",
+      "back": "I don't think the essay is incomprehensible. It's as clear as day to me.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "¡Lo que tenemos que hacer está más claro que el agua! Tenemos que trabajar nuestra pronunciación para hacernos entender.",
+      "back": "What we have to do is as clear as day! We have to work on our pronunciation and make ourselves understood.",
+      "sourcePage": 27
+    }
+  ]
+}

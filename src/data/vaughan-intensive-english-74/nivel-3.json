@@ -1,0 +1,556 @@
+{
+  "bookId": "vaughan-intensive-english-74",
+  "bookTitle": "Libro 74",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Tengo entendido que es usted logopeda. Debe de ser un trabajo muy gratificante.",
+      "back": "I understand you're a speech therapist. It must be very rewarding work.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Tengo entendido que él es el jefe de los ingenieros de software en Macrosoft. ¡Debe de estar forrado!",
+      "back": "I understand he's the head software engineer at Macrosoft. He must be loaded!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Tengo entendido que ella trabaja como agente que vigila la libertad condicional. ¡Eso debe de ser un gran tema de conversación!",
+      "back": "I understand she's a parole officer. That must be quite a talking point!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Tengo entendido que es usted socio del señor Chambers. ¿Cómo se conocieron ustedes dos?",
+      "back": "I understand you're an associate of Mr. Chambers'. How did you two come to meet?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Tengo entendido que eres un conocido de Roger. ¿Cómo le conociste?",
+      "back": "I understand you're an acquaintance of Roger's. How did you get to know him?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Tengo entendido que Miley y Ross son socios nuevos tuyos. ¿Cómo les conociste?",
+      "back": "I understand Miley and Ross are new associates of yours. How did you come to meet them?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Tengo entendido que fuiste a Harvard. ¡Eso debe de dar mucho que hablar!",
+      "back": "I understand you went to Harvard. That must be quite a talking point!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Tengo entendido que él montó una empresa textil en los 90 y le ha ido bien con ella.",
+      "back": "I understand he started up a textile business in the nineties and he's done well from it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Tengo entendido que eras logopeda antes de hacerte ingeniera de software.",
+      "back": "I understand you were a speech therapist before you became a software engineer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Tengo entendido que eres nuevo en la ciudad. ¡Qué emoción! ¿Cuándo llegaste?",
+      "back": "I understand you're new in town. How exciting! When did you get here?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "Tengo entendido que no eres de por aquí. ¿De dónde eres?",
+      "back": "I understand you're not from round these parts. Where do you come from?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Tengo entendido que él es de fuera, pero no sé de dónde exactamente.",
+      "back": "I understand he's from out of town but I don't know where from exactly.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Tengo entendido que los negocios están prosperando en la calle Shandon.",
+      "back": "I understand business is booming over on Shandon Street.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Tengo entendido que los negocios no le van muy bien al señor Chambers y a sus socios.",
+      "back": "I understand business is slow for Mr. Chambers and his associates.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Tengo entendido que a Roger y a sus amigos de fuera les está yendo bien con su nueva empresa.",
+      "back": "I understand Roger and his out-of-town friends are doing well from their new venture.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "Según tengo entendido, van a contratar a gente nueva.",
+      "back": "It's my understanding that they're going to take on some new people.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Sí? Eso no es lo que yo tengo entendido.",
+      "back": "Really? That's not my understanding.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "La gente siempre entiende cosas distintas sobre esto.",
+      "back": "People's understanding of this is always different.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Yo siempre he entendido que reducirían el número de trabajadores.",
+      "back": "It's always been my understanding that they'd reduce the number of workers.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Los trabajadores han llegado a un acuerdo con la dirección.",
+      "back": "The workers have come to an understanding with management.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "Todavía tenemos muchos problemas, pero hemos llegado a un acuerdo.",
+      "back": "We still have a lot of issues, but we've come to an understanding.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Chris y Nora han llegado a un acuerdo: ella fregará los platos si él cocina.",
+      "back": "Chris and Nora have reached an understanding: she'll do the washing up if he does the cooking.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Después de haber pasado unos meses aquí, estoy empezando a entender a la gente.",
+      "back": "Having been here a few months now, I'm beginning to gain an understanding of the people.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Después de haber hablado con las dos partes, estoy empezando a entender los problemas que nos ocupan.",
+      "back": "Having spoken to both parties, I'm starting to gain an understanding of the issues at hand.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Después de haber trabajado aquí un año, estoy empezando a entender las reglas.",
+      "back": "After having worked here for a year, I'm beginning to gain an understanding of the rules.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "La experiencia sólo ampliará tu conocimiento del mundo.",
+      "back": "The experience will only broaden your understanding of the world.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "Viajar es importante porque así profundizas en tu conocimiento de cómo funciona el mundo.",
+      "back": "Travelling is important because it deepens your understanding of how the world works.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "La investigación nos ayudó a aumentar nuestro conocimiento de los problemas que nos ocupan.",
+      "back": "The research helped us to heighten our understanding of the issues at hand.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "La gente conoce vagamente el problema que nos ocupa.",
+      "back": "People's understanding of the issue at hand is vague.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Investigando más conseguiremos un entendimiento más profundo de cómo funciona el mundo.",
+      "back": "Further research will lead to a deeper understanding of how the world works.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Después de hablar con ambas partes, creo que entiendo mejor lo que sienten.",
+      "back": "Having spoken to both parties, I think I have a greater understanding of their feelings.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "Creo que malinterpreté lo que querías decir. ¡Lo siento!",
+      "back": "I think I misunderstood what you meant. Sorry about that!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "¡Él malinterpreta constantemente lo que queremos decir!",
+      "back": "He constantly misunderstands what we mean!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "Él malinterpretó cuál era el restaurante que queríamos decir. No es su culpa, es de fuera de la ciudad.",
+      "back": "He misunderstood which restaurant we meant. It's not his fault; he's from out of town.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "La impresión de la gente sobre el nuevo no es buena, ¡pero yo creo que es sólo un incomprendido!",
+      "back": "People's impression of the new guy isn't great, but I think he's just misunderstood!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Mi correo electrónico fue malinterpretado y ahora la gente piensa que soy un maleducado. ¡Lo siento!",
+      "back": "My email was misunderstood and now people think I'm rude. Sorry about that!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Es fácil ser malinterpretado cuando escribes correos electrónicos en tu segundo idioma.",
+      "back": "It's easy to be misunderstood when you're writing emails in your second language.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Pensé que era un socio del señor Chambers, así que le invité. ¡Fue un malentendido!",
+      "back": "I thought he was an associate of Mr. Chambers so I invited him. It was a misunderstanding!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "¡Creo que ha habido un malentendido! ¿No querías decir el restaurante que hay en la calle Clarence?",
+      "back": "I think there's been a misunderstanding! Didn't you mean the restaurant on Clarence Street?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "No es su culpa. Creía que empezaba a las ocho. Sólo fue un malentendido.",
+      "back": "It's not their fault. I thought it started at eight. It was just a misunderstanding.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Carey y Sam tuvieron un pequeño malentendido ayer, pero ahora están bien.",
+      "back": "Carey and Sam had a little misunderstanding yesterday, but they're fine now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "No fue una pelea seria, sólo un pequeño malentendido.",
+      "back": "It wasn't a serious row, just a little misunderstanding.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Tuvimos un malentendido tonto ayer sobre quién debe fregar los platos, pero ahora estamos bien.",
+      "back": "We had a silly misunderstanding yesterday over the washing up, but we're fine now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "La primera impresión de la gente sobre él no fue muy buena. Todos confundieron su confianza con arrogancia.",
+      "back": "People's first impression of him wasn't very good. Everyone mistook his confidence for arrogance.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "No confundas mi pregunta con una duda. Sólo necesito que me aclares unos asuntos.",
+      "back": "Don't mistake my question for doubt. I just need you to clear up a few issues for me.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Confundieron su oferta con aprobación. ¡Él quiere incluirlos, pero no le gustan!",
+      "back": "They mistook his offer for approval. He wants to include them but he doesn't like them!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-047",
+      "front": "Su mujer por fin se dio cuenta de lo que ha ocurrido.",
+      "back": "His wife has finally sussed out what's been going on.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "No puedo creer que ella no se haya dado cuenta de que han estado teniendo una aventura.",
+      "back": "I can't believe she hasn't sussed out that they've been having an affair.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Me di cuenta de ello cuando les vi juntos en el aparcamiento.",
+      "back": "I sussed it out after I saw them together in the car park.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "No es culpa mía que la gente no llegue a entenderme; tengo un sentido del humor raro.",
+      "back": "It's not my fault people don't get me; I've got an unusual sense of humor.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Mike cree que ella es la octava maravilla del mundo, pero yo no llego a entenderla.",
+      "back": "Mike thinks she's the best thing since sliced bread but I don't get her.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "La verdad es que a él no le entiendo. ¡Se cree la octava maravilla del mundo!",
+      "back": "I really don't get him. He thinks he's the best thing since sliced bread!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Creo que ella se ha dado cuenta de que algo pasa.",
+      "back": "I reckon she's twigged that something's up.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Estoy planificando una fiesta sorpresa para él, pero creo que se ha dado cuenta de que algo pasa.",
+      "back": "I'm planning a surprise party for him but I reckon he's twigged something's up.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Todavía él no se ha dado cuenta de que hay una fiesta sorpresa, pero sabe que pasa algo.",
+      "back": "He hasn't twigged that there's a surprise party but he knows something's up.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "¡No te preocupes! ¡Ya le cogerás el tranquillo!",
+      "back": "Don't worry, you'll get the gist of it.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "La salsa es bastante complicada, pero se le coge el tranquillo después de unas semanas.",
+      "back": "Salsa's pretty complicated but you get the gist of it after a few weeks.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Vale, es derecha, izquierda, izquierda, deslizar. ¡Creo que le voy cogiendo el tranquillo!",
+      "back": "Oh OK, so it's right, left, left, slide. I think I'm getting the gist of it!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Su mujer falleció el mes pasado. Va a tardar un tiempo en asumirlo.",
+      "back": "His wife passed away last month. It's going to take a while for it to sink in.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "No puedo creer que me hayan ascendido. ¡Aún no he asumido la noticia!",
+      "back": "I can't believe I got the promotion. It hasn't sunk in yet!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Después de que ella se diera cuenta de lo que estaba pasando, le dejó. Va a tardar un tiempo en asumir que ahora está solo.",
+      "back": "After she sussed out what had been going on, she left him. It's going to take a while for it to sink in that he's alone now.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "Se sabe que un hombre ha sido arrestado.",
+      "back": "A man is understood to have been arrested.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "Se sabe que ha sido arrestado un hombre de entre 20 y 29 años por asesinato.",
+      "back": "A man in his twenties is understood to have been arrested for murder.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Se sabe que ha sido arrestado un hombre de entre 30 y 33 años por ser sospechoso de homicidio.",
+      "back": "A man in his early thirties is understood to have been arrested on suspicion of manslaughter.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "Se sabe que el ministro ha dicho que apoyará el plan.",
+      "back": "The minister is understood to have said that he will back the plan.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Se sabe que el juez ha dicho que no apoyará el plan.",
+      "back": "The judge is understood to have said that he won't back the plan.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Se sabe que el Ministro de Vivienda ha dicho que apoyará la reforma de vivienda pública que estaba planeada.",
+      "back": "The Minister for Housing is understood to have said he will back the planned public housing reform.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Se sabe que el Ministro de Asuntos Exteriores conocía el plan desde hace algún tiempo.",
+      "back": "The Minister for Foreign Affairs is understood to have known about the plan for some time.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Se sabe que él era consciente de que el ministro apoyaría el plan.",
+      "back": "He's understood to have known that the Minister would back the plan.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Se sabe que el hombre que ha sido arrestado por ser sospechoso de homicidio conocía a la víctima.",
+      "back": "The man arrested on suspicion of manslaughter is understood to have known the victim.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Se sabe que el sospechoso conoció a su víctima a las 20 horas de la noche del ataque.",
+      "back": "The suspect is understood to have met his victim at 8pm on the night of the attack.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Se sabe que el Ministro de Vivienda conoció al Ministro de Asuntos Exteriores ayer por la mañana.",
+      "back": "The Minister for Housing is understood to have met the Minister for Foreign Affairs yesterday morning.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Se sabe que el señor Kavanagh y la señorita Jones se conocieron hace tres años en una fiesta.",
+      "back": "Mr. Kavanagh and Ms. Jones are understood to have met three years ago at a party.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Se sabe que la familia de la víctima se dio cuenta de que pasaba algo el viernes.",
+      "back": "The victim's family is understood to have twigged that something was up on Friday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Se sabe que los investigadores se dieron cuenta de quién era el asesino el sábado.",
+      "back": "Investigators are understood to have twigged who the murderer was on Saturday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Se sabe que los medios de comunicación se dieron cuenta de que alguien fue arrestado el domingo.",
+      "back": "The media is understood to have twigged that someone was arrested on Sunday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Es difícil comprender la magnitud del desastre.",
+      "back": "It's difficult to comprehend the scale of the disaster.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "A la gente le está costando comprender la magnitud de esta pérdida.",
+      "back": "People are struggling to comprehend the scale of this loss.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Nadie puede comprender la magnitud del premio gordo todavía.",
+      "back": "No one can comprehend the scale of the win yet.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "La magnitud de lo que ha pasado aquí sigue siendo muy difícil de comprender.",
+      "back": "The magnitude of what has happened here is still very difficult to comprehend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "La magnitud de la pérdida es demasiado grande como para comprenderla en este momento.",
+      "back": "The magnitude of the loss is too massive to comprehend at the moment.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Nos sigue costando comprender la magnitud del desastre.",
+      "back": "We're still struggling to comprehend the magnitude of the disaster.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "La magnitud de la destrucción causada por el terremoto es muy difícil de comprender.",
+      "back": "The sheer scale of the destruction left by the earthquake is very hard to comprehend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "No resulta fácil comprender la magnitud del volumen de refugiados que cruza la frontera.",
+      "back": "It isn't easy to comprehend the sheer volume of refugees moving across the border.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Se está haciendo cada vez más difícil de comprender la magnitud del problema.",
+      "back": "The sheer scale of the problem is becoming more and more difficult to comprehend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Hasta ahora hemos sido incapaces de comprender la magnitud del problema.",
+      "back": "As of yet, we're unable to comprehend the sheer magnitude of the problem.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Las familias todavía son incapaces de comprender lo que ha pasado aquí.",
+      "back": "The families are still unable to comprehend what has happened here.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Los organizadores fueron incapaces de comprender la magnitud de manifestantes que se presentarían.",
+      "back": "The organizers were unable to comprehend the sheer scale of protesters that would turn up.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Los niños más jóvenes son menos capaces de comprender lo que ha pasado.",
+      "back": "The younger children are less able to comprehend what has happened.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "A medida que pasa el tiempo, la gente es cada vez menos capaz de comprender la magnitud de la pobreza en esta región.",
+      "back": "As time goes on, people are less able to comprehend the sheer scale of the poverty in this region.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-091",
+      "front": "Somos menos capaces de comprender la magnitud de este problema que los del barrio.",
+      "back": "We are less able to comprehend the sheer scale of the problem than the locals.",
+      "sourcePage": 41
+    }
+  ]
+}

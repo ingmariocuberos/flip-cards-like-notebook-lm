@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-74",
+  "bookTitle": "Libro 74",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Entiendo el francés.",
+      "back": "I understand French.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Entendemos las reglas.",
+      "back": "We understand the rules.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Entienden el juego.",
+      "back": "They understand the game.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Lo entiendo.",
+      "back": "I understand it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Las entendemos.",
+      "back": "We understand them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Lo entienden.",
+      "back": "They understand it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Felix entiende el sueco.",
+      "back": "Felix understands Swedish.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Shania entiende el juego, pero no entiende las reglas.",
+      "back": "Shania understands the game, but she doesn't understand the rules.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Martin entiende las reglas, pero no entiende el juego.",
+      "back": "Martin understands the rules but he doesn't understand the game.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Entiendes la idea?",
+      "back": "Do you understand the point?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Entiendes lo que quiere decir Felix?",
+      "back": "Do you understand Felix's point?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Entienden Shania y Martin tu punto de vista?",
+      "back": "Do Shania and Martin understand your point of view?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Entiende él algo de las instrucciones?",
+      "back": "Does he understand any of the instructions?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Entiende Shania algo de las reglas?",
+      "back": "Does Shania understand any of the rules?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Entiende Martin algo del libro?",
+      "back": "Does Martin understand any of the book?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Mi esposa me entiende.",
+      "back": "My wife understands me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Todo el mundo me entiende.",
+      "back": "Everyone understands me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Nadie me entiende.",
+      "back": "Nobody understands me.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Lo siento, pero ella no te entiende.",
+      "back": "I'm sorry but she doesn't understand you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Jeremy no te entiende.",
+      "back": "Jeremy doesn't understand you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Lo siento, pero el padre de Mila no te entiende.",
+      "back": "Sorry but Mila's father doesn't understand you.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Él me entiende mejor que nadie.",
+      "back": "He understands me better than anyone else.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Jeremy entiende a Carly mejor que nadie.",
+      "back": "Jeremy understands Carly better than anyone else.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Mila entiende a su padre mejor que nadie.",
+      "back": "Mila understands her father better than anyone else.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Jeremy y Carly se entienden.",
+      "back": "Jeremy and Carly understand each other.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Mila y su padre se entienden.",
+      "back": "Mila and her father understand each other.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "El médico y la enfermera no se entienden.",
+      "back": "The doctor and the nurse don't understand each other.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Los profesores y los alumnos se entienden?",
+      "back": "Do the teachers and the students understand one another?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Carly y sus hermanos se entienden.",
+      "back": "Carly and her brothers understand one another.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Los médicos y las enfermeras no se entienden.",
+      "back": "The doctors and the nurses don't understand one another.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Entienden los chicos lo que está pasando?",
+      "back": "Do the children understand what's happening?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "No, no entienden lo que está pasando.",
+      "back": "No, they don't understand what's happening.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Entiendo lo que está diciendo, doctor.",
+      "back": "I understand what you're saying, doctor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Entiendes cuál es el plan?",
+      "back": "Do you understand what the plan is?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "El mecánico no entiende lo que es.",
+      "back": "The mechanic doesn't understand what it is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Los actores no entienden en qué consiste el concepto.",
+      "back": "The actors don't understand what the concept is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Nadie sabe lo difícil que es.",
+      "back": "Nobody understands how difficult it is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Entiendes lo raro que es?",
+      "back": "Do you understand how strange it is?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Él no entiende lo raro que es.",
+      "back": "He doesn't understand how weird it is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Todo el mundo entiende por qué te gusta él.",
+      "back": "Everyone understands why you like him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Entiendes por qué no quieren venir?",
+      "back": "Do you understand why they don't want to come?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Entiendo por qué no quieres ir, pero Carmen no.",
+      "back": "I understand why you don't want to go but Carmen doesn't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Los niños entienden por qué está pasando eso?",
+      "back": "Do the children understand why it's happening?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "No, no entienden por qué está pasando.",
+      "back": "No, they don't understand why it's happening.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Entiendo por qué te vas, pero mamá no.",
+      "back": "I understand why you're leaving but Mum doesn't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "No te entiendo.",
+      "back": "I can't understand you.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "No entiendo lo que está pasando.",
+      "back": "I can't understand what's happening.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "El juego es complicado. ¡No lo entienden!",
+      "back": "The game is complicated. They can't understand it!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "No logro entender por qué quieres vivir en Siberia.",
+      "back": "I just can't understand why you want to live in Siberia.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Él no logra entender por qué quiero ser mecánico.",
+      "back": "He just can't understand why I want to be a mechanic.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Mamá no logra entender por qué Sarah se quiere ir de casa.",
+      "back": "Mom just can't understand why Sarah wants to leave home.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Entiendes mi punto de vista?",
+      "back": "Can you understand my point of view?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Entiende Sarah lo que quiere decir su padre?",
+      "back": "Can Sarah understand her father's point?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Alguien entiende por qué Felix se quiere ir de casa?",
+      "back": "Can anyone understand why Felix wants to leave home?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Puedo entender lo difícil que es.",
+      "back": "I can understand how difficult it is.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Puedo entender por qué quieres mudarte.",
+      "back": "I can understand why you want to move out.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Tu madre puede entender por qué quieres irte de casa, pero yo no puedo.",
+      "back": "Your mother can understand why you want to leave home but I can't.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Podrán entenderlo los niños?",
+      "back": "Will the kids be able to understand?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Tom podrá entender lo extraño que es.",
+      "back": "Tom will be able to understand how strange it is.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Él podrá entenderlo mejor que nadie.",
+      "back": "He'll be able to understand better than anyone else.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Nunca entenderé el álgebra.",
+      "back": "I'll never understand algebra.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Él nunca entenderá el polaco.",
+      "back": "He'll never understand Polish.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Mientras viva, nunca entenderé a las mujeres.",
+      "back": "As long as I live, I'll never understand women.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Él nunca logrará entender el álgebra.",
+      "back": "He'll never be able to understand algebra.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Steve nunca logrará entender el polaco.",
+      "back": "Steve'll never be able to understand Polish.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Mientras viva, nunca lograré entender a las mujeres.",
+      "back": "As long as I live, I'll never be able to understand women.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Algún día entenderás todas estas cosas.",
+      "back": "One day, you'll understand all these things.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Algún día él entenderá por qué no le gusta a Ursula.",
+      "back": "One day, he'll understand why Ursula doesn't like him.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Algún día lograrás entender todas estas cosas.",
+      "back": "Someday, you'll be able to understand all this stuff.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Algún día entenderá él por qué no gusta a las mujeres?",
+      "back": "Will he ever understand why women don't like him?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Algún día entenderemos el universo?",
+      "back": "Will we ever understand the universe?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Algún día lograrán entenderse Steve y Ursula?",
+      "back": "Will Steve and Ursula ever be able to understand one another?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Espero entenderlo.",
+      "back": "I hope I'll understand it.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Espero entender algún día todas estas cosas.",
+      "back": "I hope one day I'll understand all this stuff.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Espero que algún día logremos entendernos.",
+      "back": "I hope one day we'll be able to understand each other.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Escucha, no entiendo lo que significa este letrero.",
+      "back": "Listen, I don't understand what this sign means.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Entiendes lo que significa la palabra «rotafolio»?",
+      "back": "Do you understand what the word \"flipchart\" means?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Entiende ella lo que significa la carta?",
+      "back": "Does she understand what the letter means?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "No entiendo lo que quiere decir Joe.",
+      "back": "I don't understand what Joe means.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Nuestros móviles tienen que ser más fáciles de usar. ¿Entiendes lo que quiero decir?",
+      "back": "Our phones need to be more user-friendly. Do you understand what I mean?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "No lo entiendo. ¿Qué quieres decir?",
+      "back": "I don't understand. What do you mean?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Entiendes que este puesto implica más trabajo y menos dinero?",
+      "back": "Do you understand that this job means more work and less money?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Entiende él que esta reunión implica malas noticias?",
+      "back": "Does he understand that this meeting means bad news?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Entienden que esto implica que están despedidos?",
+      "back": "Do they understand that this means they're fired?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Lo entiendo, señor. No volverá a pasar, lo digo en serio.",
+      "back": "I understand, sir. It won't happen again, I mean it.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Él dice que lo entiende. ¿Lo dice en serio?",
+      "back": "He says he understands. Does he mean it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Él no lo entiende y lo que dice no va en serio.",
+      "back": "He doesn't understand and he doesn't mean what he says.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Ella lo es todo para mí. Espero que lo entienda.",
+      "back": "She means everything to me. I hope she understands that.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Este trabajo significa mucho para mí. Espero que mi jefe lo entienda.",
+      "back": "This job means a lot to me. I hope my boss understands that.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "El dinero no significa nada para mí. Seguro que no lo entiendes.",
+      "back": "Money means nothing to me. I'm sure you don't understand that.",
+      "sourcePage": 13
+    }
+  ]
+}
