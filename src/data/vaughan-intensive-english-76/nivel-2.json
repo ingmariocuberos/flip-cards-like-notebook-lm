@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-76",
+  "bookTitle": "Libro 76",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "A estas alturas supongo que ya ha viajado por todo el mundo.",
+      "back": "I suppose he's been all over the world by now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "A estas alturas supongo que ya ha ido a Bombay.",
+      "back": "I suppose he's been to Mumbai by now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "A estas alturas supongo que ya has viajado a cada rincón del mundo.",
+      "back": "I suppose you've been to every corner of the world by now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Supongo que aún no os sentís como en casa; os comprasteis la casa el mes pasado.",
+      "back": "I suppose you haven't settled in yet, you only bought the house last month.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Supongo que aún no se sienten como en casa en su nuevo piso.",
+      "back": "I suppose they haven't settled into their new flat yet.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Supongo que María aún no ha sentado la cabeza, sólo tiene 23 años.",
+      "back": "I suppose Maria hasn't settled down yet, she's only 23.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Supongo que el viaje te gustó, ¡viajaste por todo el mundo!",
+      "back": "I suppose you liked the trip, you travelled all over the world!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Supongo que se enamoraron y sentaron la cabeza.",
+      "back": "I suppose they fell in love and settled down.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Supongo que se fueron a la cama pronto anoche. No cogieron el teléfono.",
+      "back": "I suppose they went to bed early last night. They didn't answer the phone.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Supongo que no te gustó cuando Jane se fue para hacer su viaje alrededor del mundo.",
+      "back": "I suppose you didn't like it when Jane left to go on her round-the-world trip.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Supongo que no te gustó que se fueran.",
+      "back": "I suppose you didn't like it when they left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Supongo que a Ruth no le molestó que Jane se fuera. ¡Nunca se han llevado bien!",
+      "back": "I suppose Ruth didn't mind when Jane left. They never got on!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "A estas alturas supongo que ya han viajado por toda África.",
+      "back": "I suppose they've been all over Africa by now.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Supongo que aún no te has adaptado a tu nuevo trabajo.",
+      "back": "I suppose you haven't settled into your new job yet.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Supongo que no te gustó cuando Ruth se fue del país.",
+      "back": "I suppose you didn't like it when Ruth left the country.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Por casualidad no tendrás un cigarrillo?",
+      "back": "I don't suppose you have a cigarette?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Por casualidad conoces a Ralph James?",
+      "back": "I don't suppose you know Ralph James?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Por casualidad sabes bucear?",
+      "back": "I don't suppose you know how to scuba dive, do you?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Me podrías hacer un favor?",
+      "back": "I don't suppose you could do me a favour?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "¿Me podrías dar un cigarrillo?",
+      "back": "I don't suppose you could spare a cigarette?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Me podrías dar un cigarrillo? (Añade una coletilla.)",
+      "back": "I don't suppose you could spare a cigarette, could you?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Crees que podemos hablar sobre lo que pasó la semana pasada?",
+      "back": "Do you suppose we could have a chat about what happened last week?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Crees que John conoce a Ralph?",
+      "back": "Do you suppose John knows Ralph?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "¿Crees que Alberto puede darme un cigarro?",
+      "back": "Do you suppose Alberto could spare a cigarette?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Qué crees que él quiere?",
+      "back": "What do you suppose he wants?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Qué crees que piensan?",
+      "back": "What do you suppose they think?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Qué crees que piensan sobre lo que pasó la semana pasada?",
+      "back": "What do you suppose they think about what happened last week?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿De quién crees que están hablando?",
+      "back": "Who do you suppose they're talking about?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿A quién crees que van a elegir?",
+      "back": "Who do you suppose they're going to pick?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¿A quién crees que van a elegir? ¿A John o a Ralph?",
+      "back": "Who do you suppose they're going to choose? John or Ralph?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Él tenía que estar allí, pero canceló en el último momento. ¡Me decepcionó mucho!",
+      "back": "He was supposed to be there but he cancelled at the last minute. He really let me down!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Tenía que estar allí a las 12, pero he pillado un atasco.",
+      "back": "I was supposed to be there at 12 but I'm stuck in traffic.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Tenía que encontrarme con ella antes de la reunión, pero pillé un atasco.",
+      "back": "I was supposed to meet her before the meeting but I got stuck in traffic.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Se supone que no tenías que ver eso.",
+      "back": "You weren't supposed to see that.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Se supone que no teníamos que enterarnos de que están juntos.",
+      "back": "We weren't supposed to find out that they're together.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Se supone que no tenían que estar allí.",
+      "back": "They weren't supposed to be there.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Cuánto se supone que tenía que durar la reunión?",
+      "back": "How long was the meeting supposed to last?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Cuánto se supone que tenía que durar ese dinero?",
+      "back": "How long was that money supposed to last?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¡Se supone que ese dinero tenía que durar hasta el viernes! ¡Vaya decepción!",
+      "back": "That money was supposed to last until Friday! You've really let me down!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Se supone que eso es un pato o un perro?",
+      "back": "Is that supposed to be a duck or a dog?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "¡Qué disfraz más bonito! ¿De qué se supone que vas?",
+      "back": "Nice costume! What are you supposed to be?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Se supone que vas de zombi o de demonio?",
+      "back": "Are you supposed to be a zombie or a devil?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Se supone que Venecia está espectacular a finales de primavera.",
+      "back": "Venice is supposed to be spectacular in late spring.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Se supone que ella es muy de fiar. Nunca decepciona a la gente.",
+      "back": "She's supposed to be very reliable. She never lets people down.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "¡Se supone que el nuevo de ventas es guapísimo!",
+      "back": "The new guy in sales is supposed to be gorgeous!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Se supone que mañana va a llover.",
+      "back": "It's supposed to rain tomorrow.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Se supone que mañana va a diluviar.",
+      "back": "It's supposed to pour down tomorrow.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "No creo que debamos hacer senderismo. Se supone que va a diluviar.",
+      "back": "I don't think we should go hiking. It's supposed to pour down.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Se supone que va a hacer bueno este fin de semana.",
+      "back": "It's supposed to be nice at the weekend.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Se supone que va a hacer malo este fin de semana.",
+      "back": "It's supposed to be lousy this weekend.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Se supone que va a hacer malo en los próximos días. No creo que debiéramos hacer rafting.",
+      "back": "It's supposed to be lousy for the next few days. I don't think we should go rafting.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Se supone que va a hacer sol todo el fin de semana. Vayamos de paseo en bicicleta.",
+      "back": "It's supposed to be sunny all weekend. Let's go cycling.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Se supone que va a hacer mucho viento pasado mañana, así que hagamos senderismo hoy.",
+      "back": "It's supposed to be very windy the day after tomorrow, so let's go hiking today.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Se supone que va a estar nublado toda la semana.",
+      "back": "It's supposed to be overcast all week.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Se suponía que iba a hacer un calor espantoso el fin de semana pasado, pero no.",
+      "back": "It was supposed to be roasting last weekend, but it wasn't.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Se suponía que iba a hacer un frío horrible la semana pasada, pero no.",
+      "back": "It was supposed to be freezing last week, but it wasn't.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "No fuimos a hacer rafting porque se suponía que iba a hacer un frío horrible, pero al final resultó que hacía bueno.",
+      "back": "We didn't go rafting because it was supposed to be freezing, but it turned out to be nice.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Se supone que va a hacer un tiempo malísimo mañana. Quedémonos en casa.",
+      "back": "The weather is supposed to be awful tomorrow. Let's stay in.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Se supone que va a hacer muy buen tiempo toda la semana. ¡Vayamos de paseo en bicicleta!",
+      "back": "The weather is supposed to be glorious all week. Let's go cycling.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Se supone que va a hacer un tiempo horroroso los próximos días.",
+      "back": "The weather is supposed to be atrocious for the next few days.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "Supongamos que tomamos tres genes diferentes.",
+      "back": "Let's suppose we take three different genes.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "Supongamos que tomamos una muestra de cada grupo.",
+      "back": "Let's suppose we take one sample from each group.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Supongamos que no introducimos un nuevo gen en la muestra. ¿Qué pasaría?",
+      "back": "Let's suppose we don't introduce a new gene to the sample. What would happen?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Supongamos que el cliente rechaza la oferta.",
+      "back": "Let's just suppose that the customer rejects the offer.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Supongamos por un momento que a nadie le gusta el nuevo producto.",
+      "back": "Let's just suppose for a moment that nobody likes the new product.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Supongamos por un momento que el científico toma una muestra de cada grupo.",
+      "back": "Let's just suppose for a moment that the scientist takes one sample from each group.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Si tomáramos una muestra de agua del río, ¿qué encontraríamos?",
+      "back": "Were we to take a water sample from the river, what would we find?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Si probáramos el grupo A, ¿qué pasaría?",
+      "back": "Were we to test group A, what would happen?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Si nos saliera un resultado positivo, continuaríamos el experimento.",
+      "back": "Were we to get a positive result, we would continue the experiment.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Supongamos que tomáramos una muestra nueva del río.",
+      "back": "Let's suppose we were to take a new sample from the river.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Supongamos que los científicos probaran el grupo B antes del grupo A.",
+      "back": "Let's suppose the scientists were to test group B before group A.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Supongamos que nos saliera un resultado negativo. ¿Qué pasaría?",
+      "back": "Let's just suppose we were to get a negative result, what would happen?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Supongamos que damos el producto a tres grupos.",
+      "back": "Let's say we give the product to three groups.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Supongamos que el primer grupo rechaza el producto.",
+      "back": "Let's say the first group rejects the product.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Supongamos que nos sale un resultado positivo del segundo y tercer grupos.",
+      "back": "Let's say we get a positive result from the second and third group.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Supongo que Jane y Tom irán a cada uno de los rincones de la India.",
+      "back": "I imagine Jane and Tom will go to every corner of India.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Supongo que viajarás por todo el mundo.",
+      "back": "I imagine you'll travel all over the world.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Supongo que se asentarán en la ciudad.",
+      "back": "I imagine they'll settle down in the city.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Supongo que él estará de vuelta en casa por Navidad.",
+      "back": "I assume he'll be home for Christmas.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Supongo que no se acomodarán hasta después de Navidad.",
+      "back": "I assume they won't settle in until after Christmas.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Supongo que el novio de Corinne estará aquí para las vacaciones de verano.",
+      "back": "I presume Corinne's boyfriend will be here for the summer holidays.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Supongo que él abandonará el país si pierde su trabajo.",
+      "back": "I figure he'll leave the country if he loses his job.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Supongo que él abandonará la empresa si no consigue su ascenso.",
+      "back": "I figure he'll leave the company if he doesn't get his promotion.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Crees que irán de caminata el domingo? ¡Supongo!",
+      "back": "Do you think they'll go hiking on Sunday? I figure!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Supongo que estaremos ahí a las 12.",
+      "back": "I guess we'll be there at 12 o'clock.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Los científicos tomarán muestras de ambos grupos, supongo.",
+      "back": "The scientists will take samples from both groups, I guess.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Supongo que no harán ciclismo este fin de semana. Se supone que va a hacer muy malo.",
+      "back": "I guess they won't go cycling this weekend. The weather's supposed to be awful.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Supongo que me quedaré en casa esta noche. Se supone que va a hacer mucho viento.",
+      "back": "I reckon I'll stay in tonight. It's supposed to be really windy.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Supongo que obtendremos un resultado positivo si introducimos un gen nuevo a la muestra.",
+      "back": "I reckon we'll get a positive result if we introduce a new gene to the sample.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Supongo que mañana será un día precioso.",
+      "back": "I reckon it will be a lovely day tomorrow.",
+      "sourcePage": 27
+    }
+  ]
+}

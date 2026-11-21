@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-76",
+  "bookTitle": "Libro 76",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Nos vamos? ¡Bueno!",
+      "back": "Shall we go? I suppose!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Nos vamos a casa? ¡Bueno!",
+      "back": "Shall we go home? I suppose!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Nos vamos a la cama? ¡Bueno!",
+      "back": "Shall we go to bed? I suppose!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Supongo que él estará en casa ahora.",
+      "back": "I suppose he's at home now.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Supongo que él estará en la cama ahora.",
+      "back": "I suppose he's in bed now.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Supongo que él estará listo ahora.",
+      "back": "I suppose he's ready now.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Supongo que ella no estará lista aún.",
+      "back": "I suppose she isn't ready yet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Supongo que ella no estará en el trabajo aún.",
+      "back": "I suppose she isn't at work yet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Supongo que ella no estará contenta por ello.",
+      "back": "I suppose she isn't happy about it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Supongo que querrán irse a casa.",
+      "back": "I suppose they want to go home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Supongo que querrán un coche nuevo.",
+      "back": "I suppose they want a new car.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "No están contentos con el plan. Supongo que querrán cambiarlo.",
+      "back": "They aren't happy about the plan. I suppose they want to change it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Supongo que no querrás cambiar el plan.",
+      "back": "I suppose you don't want to change the plan.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Supongo que no querrás nada.",
+      "back": "I suppose you don't want anything.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Supongo que los niños no querrán acostarse.",
+      "back": "I suppose the children don't want to go to bed.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Se irá Jim a casa a las once? Supongo.",
+      "back": "Will Jim go home at eleven? I suppose.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Lo entenderán? Supongo.",
+      "back": "Will they understand it? I suppose.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Entenderán lo que él quiere decir? Supongo.",
+      "back": "Will they understand what he means? I suppose.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Supongo que él llegará tarde.",
+      "back": "I suppose he'll be late.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Supongo que él se alegrará por ello.",
+      "back": "I suppose he'll be happy about it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Supongo que él se disgustará por ello.",
+      "back": "I suppose he'll be upset about it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Supongo que a ella no le importará.",
+      "back": "I suppose she won't mind.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Supongo que a ella no le preocupará.",
+      "back": "I suppose she won't care about it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Supongo que ella no se acostará hasta las once.",
+      "back": "I suppose she won't go to bed until 11.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Supongo que querrán más dinero.",
+      "back": "I suppose they'll want more money.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Supongo que querrán más mantas.",
+      "back": "I suppose they'll want extra blankets.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Supongo que querrán más sillas.",
+      "back": "I suppose they'll want extra chairs.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Supongo que no querrán hacerlo.",
+      "back": "I suppose they won't want to do it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Supongo que no querrán cambiar el plan.",
+      "back": "I suppose they won't want to change the plan.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Supongo que no querrán irse a la cama.",
+      "back": "I suppose they won't want to go to bed.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Está Claire en el teatro con James? Supongo que sí.",
+      "back": "Is Claire at the theatre with James? I suppose so.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿A James le gusta el teatro? Supongo que sí.",
+      "back": "Does James like the theatre? I suppose so.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Irá Claire a la obra de teatro el mes que viene? Supongo que sí.",
+      "back": "Will Claire go to the play next month? I suppose so.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Claire no estará en casa todavía. No, supongo que no.",
+      "back": "Claire won't be at home yet. No, I suppose not.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "A James no le gusta el deporte. No, supongo que no.",
+      "back": "James doesn't like sports. No, I suppose not.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Paddy no irá al ballet. No, supongo que no.",
+      "back": "Paddy won't go to the ballet. No, I suppose not.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Está Claire con James en el ballet? Supongo que sí.",
+      "back": "Is Claire at the ballet with James? I suppose she is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "No están en la biblioteca. No, supongo que no.",
+      "back": "They aren't at the library. No, I suppose they aren't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "James está disgustado por lo de Claire. Sí, supongo que sí.",
+      "back": "James is upset about Claire. Yeah, I suppose he is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿A James le gusta el teatro? Supongo que sí. (Usa «he does».)",
+      "back": "Does James like the theatre? I suppose he does.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "A James no le gusta la pesca. No, supongo que no.",
+      "back": "James doesn't like fishing. No, I suppose he doesn't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "A Paddy no le gusta el arte. No, supongo que no.",
+      "back": "Paddy doesn't like art. No, I suppose he doesn't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "A Fred le alegrará. ¡Supongo que sí!",
+      "back": "Fred will be happy about it. I suppose he will!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "A Martha no le hará gracia. Supongo que no.",
+      "back": "Martha won't be pleased. I suppose she won't.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "A Derek le caerá bien Claire. ¡Supongo que sí!",
+      "back": "Derek will like Claire. I suppose he will!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Tu hermano va al baile, así que supongo que tú también puedes ir.",
+      "back": "Your brother is going to the prom so I suppose you can go too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Kyle viene a la fiesta, así que supongo que tú también puedes venir.",
+      "back": "Kyle is coming to the party so I suppose you can come too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Sophie se lo está diciendo a todo el mundo, así que supongo que tú se lo puedes decir a Mike.",
+      "back": "Sophie is telling everyone so I suppose you can tell Mike.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Puedo ir al baile? Pues va tu hermano, así que supongo que puedes.",
+      "back": "Can I go to the prom? Well, your brother's going, so I suppose you can.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Puede venir Kyle a la fiesta? Pues no viene Sophie, así que supongo que él puede.",
+      "back": "Can Kyle come to the party? Well, Sophie isn't coming so I suppose he can.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Se lo podemos decir a Mike? Pues lo sabe todo el mundo, así que supongo que podéis.",
+      "back": "Can we tell Mike? Well, everyone knows so I suppose you can.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "A Derek le gusta Claire, así que supongo que él estará en su fiesta.",
+      "back": "Derek likes Claire so I suppose he'll be at her party.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "María es la madrina, así que supongo que estará en el bautizo.",
+      "back": "Maria is the godmother so I suppose she'll be at the christening.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "A James no le gusta el teatro, así que supongo que no estará en la obra de teatro.",
+      "back": "James doesn't like the theatre so I suppose he won't be at the play.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Estará Derek en la fiesta de Claire? Pues a él le gusta Claire, así que supongo que sí.",
+      "back": "Will Derek be at Claire's party? Well, he likes Claire, so I suppose he will.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Estará María en el bautizo? Pues es la madrina, así que supongo que sí.",
+      "back": "Will Maria be at the christening? Well, she's the godmother so I suppose she will.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Estará James en la obra? Pues a él no le gusta el teatro, así que supongo que no.",
+      "back": "Will James be at the play? Well, he doesn't like the theatre, so I suppose he won't.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Puedo ir al baile de fin de curso? Pues va tu hermano, así que supongo que sí.",
+      "back": "Can I go to the graduation ball? Well, your brother is going, so I suppose so.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Estará James en el ballet? Pues no le gusta la danza, así que supongo que no.",
+      "back": "Will James be at the ballet? Well, he hates dance, so I suppose not.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Vas a la fiesta? Pues no estoy invitado, así que supongo que no.",
+      "back": "Are you going to the party? Well, I'm not invited, so I suppose not.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Ánimo. No es tan grave. Sí, ¡supongo!",
+      "back": "Cheer up. It's not that bad. Yeah, I guess!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Ánimo, cariño. No es tan grave. Sí, supongo.",
+      "back": "Cheer up, baby. It's not that serious. Yeah, I guess.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Ánimo, cielo. No es tan grave. Sí, supongo.",
+      "back": "Cheer up, honey. It's not that bad. Yeah, I guess.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Supongo que deberíamos decir la verdad.",
+      "back": "I guess we should tell the truth.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Supongo que yo debería decirte la verdad.",
+      "back": "I guess I should tell you the truth.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Supongo que deberían decirles la verdad.",
+      "back": "I guess they should tell them the truth.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Supongo que está bien decir una mentira piadosa.",
+      "back": "I guess it's OK to tell a white lie.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Supongo que está bien ir a la fiesta.",
+      "back": "I guess it's OK to go to the party.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Supongo que está bien esperar hasta el lunes.",
+      "back": "I guess it's OK to wait until Monday.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Está bien esperar hasta el lunes? ¡Supongo que sí!",
+      "back": "Is it OK to wait until Monday? I guess so!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Deberíamos ir a la fiesta? ¡Supongo que sí!",
+      "back": "Should we go to the party? I guess so!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Está bien decir una mentira piadosa? ¡Supongo que sí!",
+      "back": "Is it OK to tell a white lie? I guess so!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "No es tan grave, ¿no? No, supongo que no.",
+      "back": "It's not that serious, right? No, I guess not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "No es tan malo, ¿no? No, supongo que no.",
+      "back": "It's not that bad, right? No, I guess not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Ánimo, cariño. No es tan grave. No, supongo que no.",
+      "back": "Cheer up, baby. It's not that serious. No, I guess not.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Supone un nuevo gobierno.",
+      "back": "It means a new government.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Supone más reglas.",
+      "back": "It means more rules.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Supone contar una mentira piadosa.",
+      "back": "It means telling a white lie.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Hay un nuevo gobierno? Eso supone más impuestos.",
+      "back": "There's a new government? That means more taxes.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Hay jugadores distintos? Eso supone nuevas reglas.",
+      "back": "There are different players? That means new rules.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Tienes un nuevo empleo? Eso supone más dinero.",
+      "back": "You have a new job? That means more money.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Probablemente suponga más trabajo y menos dinero.",
+      "back": "It probably means more work and less money.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "Eso probablemente suponga un cambio de reglas.",
+      "back": "That probably means a change of rules.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Va a haber más impuestos? Eso probablemente suponga que la gente no estará contenta.",
+      "back": "Are there going to be more taxes? That probably means people won't be pleased.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Supongo que eso supone una subida de sueldo.",
+      "back": "I suppose that means a pay rise.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Supongo que eso supone más trabajo.",
+      "back": "I suppose that means more work.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Supongo que eso supone un nuevo gobierno.",
+      "back": "I suppose that means a new government.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Supongo que eso supone que Martha es la madrina.",
+      "back": "I guess that means Martha is the godmother.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Supongo que eso supone que ella va al bautizo.",
+      "back": "I guess that means she's going to the christening.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Supongo que eso supone que tienes hambre.",
+      "back": "I guess that means you're hungry.",
+      "sourcePage": 13
+    }
+  ]
+}

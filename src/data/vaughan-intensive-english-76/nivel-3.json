@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-76",
+  "bookTitle": "Libro 76",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Suponiendo que haya un apagón, ¿qué debemos hacer?",
+      "back": "Suppose there's a power outage, what should we do?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "Imagínate que hay un apagón en medio de la noche, ¿qué se debe hacer?",
+      "back": "Suppose there's a power cut in the middle of the night, what should you do?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "Y si hay un apagón y todos los ordenadores se apagan, ¿qué debemos hacer?",
+      "back": "Suppose there's a blackout and all the computers go down, what should we do?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "Imagínate que la alarma de incendios suena y la salida está obstruida.",
+      "back": "Just suppose the fire alarm goes off and the exit is blocked.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "Imagínate por un momento que no hubiera guerra ni hambre.",
+      "back": "Just suppose for a moment that there was no war and no famine.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Imagínate por un momento que no fuera necesario tener un sistema de respaldo.",
+      "back": "Just suppose for a moment that there was no need for a back up system.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Imagínate que los ordenadores se apagan y no hay ningún técnico cerca.",
+      "back": "Supposing the computers go down and there are no technicians around...",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Y si no hay conductores de guardia, ¿cómo llegaremos a la estación?",
+      "back": "Supposing there are no drivers on call, how will we get to the station?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "Imagínate que no hay técnicos de guardia y el sistema entero se apaga.",
+      "back": "Supposing there are no technicians on call and the whole system goes down...",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "Incluso suponiendo que la guerra no hubiera ocurrido, todavía habría habido hambruna.",
+      "back": "Even supposing that the war hadn't happened, there still would have been famine.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "El gobierno se interpondría, incluso suponiendo que no fuera necesario.",
+      "back": "The government would still intervene, even supposing that there was no need to do so.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Incluso suponiendo que viviéramos en un mundo perfecto, habría alguien que no sería feliz.",
+      "back": "Even supposing we lived in a perfect world, someone would still be unhappy.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Sólo una idea: ¿y si nos olvidamos de salir en Nochevieja y nos quedamos en casa?",
+      "back": "I'm just throwing this out there: supposing we forget about going out on New Year's Eve and stay in.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Sólo una idea: ¿y si traemos unas velas por si acaso hay un apagón?",
+      "back": "I'm just throwing this out there; suppose we get some candles in just in case there's a power outage.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Sólo una idea: ¿y si no les contamos nuestros planes para Nochevieja?",
+      "back": "Just throwing this out there but just suppose we don't bother telling them our plans for New Year's.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "La retirada de las tropas de la zona de guerra supondría una amenaza seria para los civiles.",
+      "back": "The withdrawal of troops from the warzone would pose a serious threat to civilians.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "La retirada de fondos europeos supone un serio riesgo financiero para nuestra empresa.",
+      "back": "The withdrawal of European funding poses a serious financial risk to our company.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "La falta de recursos en la biblioteca está suponiendo un problema para los estudiantes de ciencias.",
+      "back": "The lack of resources in the library is posing a problem for science majors.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "La decisión de diversificar nuestro abanico de productos va a suponer mucha investigación.",
+      "back": "The decision to diversify our range of products is going to involve a lot of research.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Solucionar esto va a suponer un montón de trabajo duro e ingenio.",
+      "back": "Turning this around is going to involve a lot of hard work and ingenuity.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "El proyecto va a suponer muchas noches en vela y madrugones.",
+      "back": "The project is going to involve a lot of late nights and early mornings.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Que nuestro vuelo se retrase supondrá perder el tren a Dublín.",
+      "back": "Our flight being delayed means our missing the train in Dublin.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Que Sarah se mude con su novio supondría que yo tendría que buscar un nuevo compañero de piso.",
+      "back": "Sarah moving in with her boyfriend would mean my having to look for a new flatmate.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Mudarse a la ciudad nos supondría absorber un gran incremento en gastos diarios.",
+      "back": "Moving to the city would mean our absorbing a big jump in living expenses.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "La diversificación del mercado supone una mayor elección para los clientes.",
+      "back": "The diversification of the market implies a greater choice for customers.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Solucionar este desastre supone muchas noches en vela.",
+      "back": "Turning this disaster around implies a lot of late nights.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "La retirada del apoyo del sindicato nos supone serios problemas en las negociaciones.",
+      "back": "The withdrawal of the union's support implies serious problems for us in the negotiations.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "La aparición de nuevos reglamentos supone algunas dificultades cuando se aplican en un ámbito nacional.",
+      "back": "The appearance of the new regulations presents us with some difficulties when they're applied at national level.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Tu decisión de abandonar la empresa sin previo aviso nos supone un problema.",
+      "back": "Your decision to leave the company without giving notice presents us with a problem.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "La forma en la que me habéis tratado supone que no tengo otra opción que dejar la agencia sin previo aviso.",
+      "back": "The way you've treated me presents me with no option but to leave the agency without giving notice.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Irás al partido esta noche? Supongo que sí que iré, si lo hay.",
+      "back": "Will you be at the game tonight? I suppose I will if it's on.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "¿Traerá James un balón de fútbol al partido? Supongo que sí, si es que tiene.",
+      "back": "Will James bring a football to the game? I suppose he will if he has one.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "¿Nos hará Louise de traductora? ¡A nosotros nos cuesta mucho! Supongo que sí, si puede.",
+      "back": "Will Louise translate for us? It's too difficult for us! I suppose she will if she can.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Considerarías la idea de dejar de fumar? Supongo que lo haría si tuviera que hacerlo.",
+      "back": "Would you consider giving up smoking? I suppose I would if I had to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Volvería Jeremy a mudarse a Londres? Supongo que lo haría si pudiera.",
+      "back": "Would Jeremy move back to London? I suppose he would if he could.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Si el sueldo fuera más alto, ¿aceptarías el trabajo? Mira, supongo que lo haría si lo fuera, pero no lo es.",
+      "back": "If the pay were higher would you take the job? Look, I suppose I would if it were, but it isn't.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Si hubiera podido, supongo que lo habría hecho.",
+      "back": "If I'd been able to, I suppose I would've.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "¿Crees que le habrías dado una entrada a John también? Supongo que lo habría hecho si hubiera tenido una.",
+      "back": "Do you think you'd have given John a ticket too? I suppose I would've if I'd had one.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "¿Consiguieron entradas gratis? ¡Qué potra han tenido! Sí, pero supongo que las habrían comprado si hubieran tenido que hacerlo.",
+      "back": "They got free tickets? They lucked out! Yeah, but I suppose they would've bought some if they'd had to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Sí, supongo que debería hacerlo.",
+      "back": "Yeah, I suppose I should.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Sí, supongo que podría, si me hiciera falta.",
+      "back": "Yeah, I suppose I could if I needed to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Si no te quedara más remedio que mudarte, lo harías. Claro, supongo que puede que me mudara si tuviera que hacerlo.",
+      "back": "If you had no option but to move, you would. Sure, I suppose I might if I had to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "¿No fuiste a su fiesta de cumpleaños? No, no fui, pero supongo que debería haber ido.",
+      "back": "Didn't you go to her birthday party? No, I didn't but I suppose I should've.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Podrías haberte cogido el día libre sin problema. Supongo que podría haberlo hecho, pero no quería.",
+      "back": "You could easily have taken the day off. I suppose I could've but I didn't want to.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "¿Se acordó alguien de comprar una tarta de cumpleaños? John no, pero supongo que puede que se acordara Joe.",
+      "back": "Did anyone remember to pick up a birthday cake? John didn't but I suppose Joe might've.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "Por lo visto, Mark está a punto de cancelar su compromiso de casarse, pero no se lo cuentes a nadie.",
+      "back": "Supposedly Mark is about to call off the engagement, but keep that to yourself.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Por lo visto, Frieda pensaba cancelarlo de todas maneras, pero no se lo cuentes a nadie.",
+      "back": "Supposedly Frieda was thinking of calling it off anyway, but keep that to yourself.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "Por lo visto, su relación entera fue una farsa de todas maneras, pero no se lo cuentes a nadie.",
+      "back": "Supposedly their whole relationship was a sham anyway, but keep that to yourself.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Bueno, por lo visto, RRHH no tiene intención ninguna de aumentar los sueldos, pero no se lo cuentes a nadie.",
+      "back": "Well, apparently, HR has no intention of upping salaries, but keep that under your hat.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "No se lo cuentes a nadie, pero por lo visto el contable está tramando despidos para 2013.",
+      "back": "Keep this under your hat but apparently the accountant is looking at redundancies for 2013.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "¡Por lo visto la empresa va a aumentar el sueldo del director a un importe de seis cifras! Pero no se lo cuentes a nadie.",
+      "back": "Apparently, the company is upping the CEO's salary to a six-figure sum! Keep it under your hat though.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "La inundación de inmigrantes de los países fronterizos se debió presuntamente a la expectativa de unas condiciones de vida mejores.",
+      "back": "The flood of immigration from the bordering nations was presumably due to the expectation of better living conditions.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Hay una migración masiva de refugiados hacia el Líbano, pero presuntamente se les negará la entrada.",
+      "back": "There's mass migration of refugees towards Lebanon but presumably they'll be denied entry.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "El nuevo funcionario de inmigración presuntamente cobrará un sueldo de seis cifras.",
+      "back": "The new immigration officer will presumably receive a six-figure salary.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Según se alega, los altos funcionarios hicieron la vista gorda respecto a la evasión de impuestos.",
+      "back": "The senior officials allegedly turned a blind eye to the tax evasion.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "Según se alega, él dijo que estaba segurísimo de quién era el responsable del fraude.",
+      "back": "He allegedly said that he was full sure who was responsible for the fraud.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "Según se alega, la comisión era consciente de lo que pasaba, pero no se lo contó a nadie.",
+      "back": "Allegedly, the committee was aware of what was going on but kept it under wraps.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "Por lo que entiendo, se perdieron en un barrio malo y los asaltaron.",
+      "back": "From what I can gather, they got lost in a bad neighbourhood and got jumped.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "Bueno, por lo que entiendo según la versión de Wade, no les asaltaron, se metieron en una pelea.",
+      "back": "Well, from what I gathered from Wade's account of it, they didn't get jumped, they got into a fight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "Por lo que pude entender, Vinny se metió en una pelea y Wade tuvo que meterse para salvarle.",
+      "back": "From what I could gather, Vinny got into a fight and Wade had to wade in to save him.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "No deberías ir por ahí diciendo a la gente que María está embarazada. Sólo es una suposición.",
+      "back": "You shouldn't go around telling people Maria's pregnant. That's just an assumption.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Yo que tú no iría por ahí diciendo a la gente que estás seguro si sólo es una suposición.",
+      "back": "I wouldn't go around telling people you're sure if it's just an assumption.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¡Es una locura hacer esa suposición! Creo que deberías guardártela para ti misma.",
+      "back": "That's a crazy assumption to make! I think you should keep that to yourself.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Ella está segurísima de que conseguirá el contrato. Eso es una suposición ridícula.",
+      "back": "She's full sure she'll get the contract. That's a crazy presumption.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "¡Bueno! No hace falta que te enfades. Sólo ha sido una suposición.",
+      "back": "Alright! There's no need to get mad. It was just a presumption.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "Existía la suposición de que al final la empresa se iniciaría en el sector de las energías verdes.",
+      "back": "There was a presumption that the company would eventually break into the green energy sector.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "La suposición de que algún día las energías verdes serían un sector rentable no se les había ocurrido.",
+      "back": "The notion that green energy would one day be a profitable sector hadn't occurred to them.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Ella tenía una suposición ridícula de que yo estaba embarazada. Ella no debería ir por ahí haciendo esa clase de suposiciones.",
+      "back": "She had some crazy notion that I was pregnant. She shouldn't go around making assumptions like that.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Es sólo que no entiendo la suposición de que cuanto más grande, mejor.",
+      "back": "The notion that bigger is better is one that I just don't understand.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Tienes que vigilarla. Tiene la costumbre de cancelar reuniones importantes en un arrebato.",
+      "back": "You have to watch her. She has a tendency to call off important meetings on a whim.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "¡No puedes simplemente dejar tu trabajo e irte de mochilero siguiendo un deseo repentino!",
+      "back": "You can't just decide to give up your job and go travelling on a whim!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "¡Ella dejó un sueldo de seis cifras y un futuro prometedor siguiendo un deseo repentino!",
+      "back": "She gave up a six-figure salary and a bright future on a whim!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Basándose en la suposición de que la demanda impulsa la oferta, podemos suponer que aumentarán los pedidos.",
+      "back": "Based on the supposition that demand drives supply, we can assume that orders will go up.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Es justo suponer que la autora es feminista.",
+      "back": "It is a fair supposition that the author is a feminist.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Dado que mucha información proviene de los blogs, es difícil diferenciar entre la suposición y la realidad.",
+      "back": "Since a lot of information comes from blogs, it's difficult to differentiate supposition from fact.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "Estamos completamente seguros de que no hay nada más que hacer sobre este asunto.",
+      "back": "We're absolutely certain there's nothing more to be done on the issue.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Estás completamente seguro de que no hay nada más que puedas hacer?",
+      "back": "Are you absolutely positive that there's nothing further you can do?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Oye, han dicho que están completamente seguros de que no hay nada más que hacer y ya está.",
+      "back": "Listen, they've said they're absolutely sure that there's nothing else to be done and that's that.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "El cirujano no habría hecho el procedimiento a menos que estuviera cien por cien seguro de que funcionaría.",
+      "back": "The surgeon wouldn't have done the procedure unless he was 100% confident it'd work.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "¿Estaba él cien por cien seguro de que podrían llegar a tiempo?",
+      "back": "Was he 100% positive they'd be able to get here on time?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Te digo la verdad, no estoy cien por cien seguro, pero estoy dispuesto a arriesgarme.",
+      "back": "To tell you the truth, I'm not 100% certain but I'm willing to take the gamble.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "¿Qué quieres decir con que él no apareció? Pensaba que no había ninguna duda en absoluto de que aparecería.",
+      "back": "What do you mean he didn't show up? I thought there was no doubt whatsoever he would.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "La última vez que lo vi, no había ninguna duda en absoluto de que el procedimiento fuera a tener éxito.",
+      "back": "The last time I saw him there was no doubt whatsoever the procedure would be successful.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Si tienes algún tipo de duda de que valdrá la pena, no te arriesgues.",
+      "back": "If you're in any doubt whatsoever that it's worth the gamble, don't do it.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Sin la más mínima duda, la retirada de fondos de la UE supondrá el final del plan.",
+      "back": "Beyond a shadow of a doubt, the withdrawal of EU funds will mean the end of the scheme.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Sin la más mínima duda, la retirada de tropas de la región representará riesgos.",
+      "back": "The withdrawal of troops from the region will, beyond a shadow of a doubt, pose risks.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "¿Estás cien por cien seguro de que les va a gustar la idea? Sí, sin la más mínima duda.",
+      "back": "Are you 100% confident they'll like the idea? Yes, beyond a shadow of a doubt.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "El problema de la hambruna en el país es innegable.",
+      "back": "The problem of famine in the country is undeniable.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Las últimas cifras prueban, sin la más mínima duda, que el país está en recesión. Ahora es innegable.",
+      "back": "The latest figures prove beyond a shadow of a doubt that the country's in recession. It is now undeniable.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Están intentando encubrir el fraude, pero pronto será un hecho innegable.",
+      "back": "They're trying to cover up the fraud but soon it will be an undeniable fact.",
+      "sourcePage": 41
+    }
+  ]
+}
