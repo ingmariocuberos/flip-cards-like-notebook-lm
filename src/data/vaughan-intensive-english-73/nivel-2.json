@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-73",
+  "bookTitle": "Libro 73",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Qué quisiste decir? No lo entendí.",
+      "back": "What did you mean? I didn't understand.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "¿Quisiste decir el día uno de diciembre o el día uno de enero?",
+      "back": "Did you mean the first of December or the first of January?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Dijiste alemán, pero ¿quisiste decir holandés?",
+      "back": "You said German but did you mean Dutch?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "Él quiso decir que no tiene tiempo suficiente.",
+      "back": "He meant that he doesn't have enough time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "Ella no quiso decir alemán. Quiso decir holandés.",
+      "back": "She didn't mean German. She meant Dutch.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "Creo que él quiso decir el día uno de diciembre.",
+      "back": "I think he meant the first of December.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "¿Qué quiso él decir con eso?",
+      "back": "What did he mean by that?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Qué quiso él decir con «motivación»?",
+      "back": "What did he mean by \"motivation\"?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "¿Qué crees que quisieron decir con «lo que sea necesario»?",
+      "back": "What do you think they meant by \"whatever's necessary\"?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Lo que él quiso decir con eso era que tenemos que trabajar más rápido.",
+      "back": "What he meant was we need to work faster.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Lo que él quiso decir con «motivación» era algo que te hace querer tener éxito.",
+      "back": "What he meant by \"motivation\" was something that makes you want to succeed.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Lo que quise decir con «lo que sea necesario» era que haremos cualquier cosa.",
+      "back": "What I meant by \"whatever's necessary\" was that we'll do absolutely anything.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¡En ese momento lo dije en serio!",
+      "back": "I meant it at the time!",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Estoy segura de que en ese momento ella lo dijo en serio.",
+      "back": "I'm sure she meant it at the time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Parece extraño ahora, pero en ese momento él lo dijo en serio.",
+      "back": "It seems strange now but he meant it at the time.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Quisiste llamarme?",
+      "back": "Did you mean to call me?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Quiso él decepcionarla?",
+      "back": "Did he mean to upset her?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "Pregúntale a ella si quiso pegarle o si fue sin querer.",
+      "back": "Ask her if she meant to hit him or if it was an accident.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Sí, quise llamarte.",
+      "back": "Yes, I meant to call you.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "Quise ir a la ferretería de camino a casa, pero se me olvidó.",
+      "back": "I meant to go to the hardware store on the way home but I forgot.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Ella dijo que sí quiso pegarle. No fue sin querer.",
+      "back": "She said that she meant to hit him. It wasn't an accident.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "No quise decepcionarte.",
+      "back": "I didn't mean to upset you.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Nunca quise hacerte daño.",
+      "back": "I never meant to hurt you.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Nunca quise marcar tu número. Fue sin querer.",
+      "back": "I didn't mean to dial your number. It was a mistake.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Hace tiempo que quiero hablar contigo.",
+      "back": "I've been meaning to talk to you.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Hace tiempo que quiero llamarte.",
+      "back": "I've been meaning to call you for a while.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Escucha, llevo tiempo queriendo disculparme por lo que pasó el verano pasado.",
+      "back": "Listen, I've been meaning to apologize for what happened last summer.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Quería que fuera una sorpresa, pero él se enteró.",
+      "back": "I meant it to be a surprise but he found out.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Creo que ella quería que pareciera un accidente.",
+      "back": "I think she meant it to look like an accident.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "No fue un secreto. Él quiso que se oyera.",
+      "back": "It wasn't a secret. He meant it to be heard.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Tenía que estar allí a las 12, pero estoy en un atasco.",
+      "back": "I was meant to be there at 12 but I'm stuck in traffic.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Tenía que encontrarme con ella antes de la reunión, pero me pilló un atasco.",
+      "back": "I was meant to meet her before the meeting but I got stuck in traffic.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Se supone que me tenías que llamar anoche. ¿Qué pasó?",
+      "back": "You were meant to call me last night. What happened?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Se supone que no tenías que haber visto eso.",
+      "back": "You weren't meant to see that.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Se supone que no teníamos que enterarnos de que están juntos.",
+      "back": "We weren't meant to find out that they're together.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "No tenían que estar allí hasta las 12.",
+      "back": "They weren't meant to be there until 12.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Cuánto tenía que durar la reunión?",
+      "back": "How long was the meeting meant to last?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Cuánto tenía que durar ese dinero?",
+      "back": "How long was that money meant to last?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Tenía que durar hasta el final de la semana o hasta final de mes?",
+      "back": "Was it meant to last until the end of the week or the end of the month?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Son una pareja perfecta. Estaban destinados a estar juntos.",
+      "back": "They're a perfect couple. They were meant to be together.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "No sé por qué lo suyo no funcionó. ¡Supongo que no estaba escrito!",
+      "back": "I don't know why they didn't work out. I guess it wasn't meant to be!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "No me dieron el trabajo. ¡Supongo que no era mi destino!",
+      "back": "I didn't get the job. I guess it wasn't meant to be!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Dicen que Venecia es espectacular hacia el final de la primavera.",
+      "back": "Venice is meant to be spectacular in late spring.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Ella tiene fama de que se le dan muy bien los niños.",
+      "back": "She's meant to be really good with children.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "¡Dicen que el nuevo de Ventas es guapísimo!",
+      "back": "The new guy in sales is meant to be gorgeous!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Ser hijo único no significa que puedas hacer lo que quieras.",
+      "back": "Being an only child doesn't mean you can do whatever you want.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Ser el más joven no significa que puedas conseguir lo que quieras.",
+      "back": "Being the youngest doesn't mean you can get whatever you want.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Ser el mayor no significa que tengas que cuidar de los demás.",
+      "back": "Being the oldest doesn't mean you have to take care of others.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "Tener un buen sueldo no implica necesariamente que seas feliz.",
+      "back": "Having a good salary doesn't necessarily mean you'll be happy.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Tener novia no quiere decir que puedas dejar de ver a tus amigos.",
+      "back": "Having a girlfriend doesn't mean you can stop seeing your friends.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Tener muchos amigos no quiere decir que nunca te sientas solo.",
+      "back": "Having a lot of friends doesn't mean you never feel lonely.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Vivir en España no significa que pases todo el día comiendo tapas y echando siestas.",
+      "back": "Living in Spain doesn't mean you spend all day eating tapas and napping.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Vivir en Irlanda no significa que bebas todos los días Guinness.",
+      "back": "Living in Ireland doesn't mean you drink Guinness every day.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Vivir en el extranjero no significa que olvides tu país.",
+      "back": "Living abroad doesn't mean you forget about your country.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Aprender inglés implica hacer un esfuerzo personal enorme.",
+      "back": "Learning English means making a huge personal effort.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Aprender a conducir implica pasar mucho tiempo estudiando el código de circulación.",
+      "back": "Learning to drive means spending a lot of time studying the highway code.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Aprender a hacer cualquier cosa implica tener paciencia.",
+      "back": "Learning to do anything means being patient.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Casarse implica contraer un gran compromiso con alguien.",
+      "back": "Getting married means making a big commitment to someone.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Quedarse embarazada implica hacer muchos sacrificios.",
+      "back": "Getting pregnant means making a lot of sacrifices.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "Envejecer implica ir con más calma por la vida.",
+      "back": "Getting old means slowing things down.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¿Cuál es el significado de esa palabra?",
+      "back": "What's the meaning of that word?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¿El sentido es literal o figurado?",
+      "back": "Is the meaning literal or figurative?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Hay varias acepciones distintas.",
+      "back": "There are several different meanings.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "Ella tiene bastante éxito con el jefe, ¿sabes lo que te digo?",
+      "back": "She's quite popular with the boss, if you get my meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "No es el tío más listo que he conocido, ¿me explico?",
+      "back": "He's not the brightest fellow I've ever met, if you get my meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Se llevan muy bien, ¿sabes por dónde voy?",
+      "back": "They get along really well, if you get my meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "Él no sabe lo que es trabajar mucho.",
+      "back": "He doesn't know the meaning of the words hard work!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "No saben lo que es llegar a un acuerdo en una negociación.",
+      "back": "They don't know the meaning of the word compromise.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "No sabes lo que es disculparse, ¿verdad?",
+      "back": "You don't know the meaning of the word apologise, do you?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Qué está pasando aquí?",
+      "back": "What's the meaning of this?!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Qué narices está pasando aquí?",
+      "back": "What the hell is the meaning of this?!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Qué está pasando aquí? ¡Sabes que no deberías estar aquí!",
+      "back": "What's the meaning of this? You know you're not meant to be here!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella es un poco irritante, pero es bienintencionada.",
+      "back": "She's a bit annoying but she's well-meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "No seas tan dura con ella. Es bienintencionada.",
+      "back": "Don't be so hard on her. She's well-meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "No seas tan duro con ellos. Son bienintencionados.",
+      "back": "Don't be so hard on them. They're well-meaning.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Él era muy cruel con ella cuando eran niños.",
+      "back": "He was really mean to her when they were kids.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Por qué fuiste tan cruel con Jane ayer?",
+      "back": "Why were you so mean to Jane yesterday?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Nunca he sido cruel con nadie.",
+      "back": "I've never been mean to anyone.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Oíste que ella rompió con él por teléfono? Fue una maldad por su parte.",
+      "back": "Did you hear she broke up with him over the phone? It was mean of her.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Ella le dejó en el altar. Eso fue malo.",
+      "back": "She left him at the altar. That was mean.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Fue una maldad por parte de él. Le mintió a ella acerca de todo.",
+      "back": "It was really mean of him. He lied to her about everything.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Él es tan tacaño que nunca sale.",
+      "back": "He's so mean that he never goes out.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Nunca he conocido a nadie tan tacaño. Él no paga nada cuando salimos.",
+      "back": "I've never met anyone so mean. He doesn't pay for anything when we go out.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "Él se negó a pagar nada. Es muy tacaño.",
+      "back": "He refused to pay for anything. He's really mean.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Él hizo la maratón en menos de 4 horas. ¡Eso no es poca cosa!",
+      "back": "He did the marathon in under 4 hours. That's no mean feat!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Hacer la maratón en menos de 4 horas no es poca cosa.",
+      "back": "Doing the marathon in under 4 hours is no mean feat.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Nadar el Canal de la Mancha no es poca cosa.",
+      "back": "Swimming the English Channel is no mean feat.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "La distancia media entre los puntos es 10,5 metros.",
+      "back": "The mean distance between the points is 10.5 meters.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "El valor medio de sus participaciones es setenta céntimos.",
+      "back": "The mean value of their shares is seventy cents.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Cuál es la altura media sobre el nivel del mar en los pueblos de Devon?",
+      "back": "What's the mean height above sea level of villages in Devon?",
+      "sourcePage": 27
+    }
+  ]
+}

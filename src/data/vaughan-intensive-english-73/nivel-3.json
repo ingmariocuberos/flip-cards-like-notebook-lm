@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-73",
+  "bookTitle": "Libro 73",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "«No tienes lo que hay que tener para estar al cargo». ¿Y eso qué quiere decir?",
+      "back": "You don't have what it takes to be in charge. What's that supposed to mean?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-002",
+      "front": "«No tienes piernas para lucir ese vestido». ¿Y eso qué quiere decir?",
+      "back": "You don't have the legs for that dress. What's that supposed to mean?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-003",
+      "front": "«Tienes una cara ideal para la radio». ¿Y eso qué quiere decir?",
+      "back": "You have a face for radio. What's that supposed to mean?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-004",
+      "front": "¡No seas tan sensible! ¡No iba con segundas!",
+      "back": "Don't be so touchy! I didn't mean anything by it!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-005",
+      "front": "No creo que él lo dijera con ninguna intención. Estás muy sensible hoy.",
+      "back": "I don't think he meant anything by it. You're very touchy today.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-006",
+      "front": "Dije que ella no tiene lo que hace falta para estar al cargo, pero no era nada personal.",
+      "back": "I said that she doesn't have what it takes to be in charge but I didn't mean anything personal by it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-007",
+      "front": "Oye, estás malinterpretando las cosas. No era mi intención ofenderte con lo que dije.",
+      "back": "Listen, you're taking this the wrong way. I meant no offense by what I said.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-008",
+      "front": "Él no pretende ofender, pero es difícil no tomárselo a mal.",
+      "back": "He means no offense by it but it's hard not to take it the wrong way.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-009",
+      "front": "No pretendía ofenderte cuando dije que no tenías piernas para ese vestido.",
+      "back": "I meant no offense when I said you don't have the legs for that dress.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-010",
+      "front": "No era mi intención hacerte daño. Espero no haberte herido.",
+      "back": "I didn't mean you any harm. I hope I haven't hurt you.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-011",
+      "front": "No creo que ella tuviera intención de hacerle daño a él. ¡Es que él está un poco sensible!",
+      "back": "I don't think she meant him any harm. He's just a bit touchy!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-012",
+      "front": "Puede que no tuvieras intención de hacerle daño a él, pero es un chico muy sensible.",
+      "back": "You may not have meant him any harm but he's a very sensitive kind of guy.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-013",
+      "front": "Él dijo que lo dijo como un piropo, pero yo no me lo creo.",
+      "back": "He said that he meant it as a compliment but I don't believe that.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-014",
+      "front": "Su comentario era una crítica dirigida al gobierno, no a ti. Estás malinterpretando las cosas.",
+      "back": "His comment was meant as a criticism of the government, not of you. You're taking this the wrong way.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-015",
+      "front": "Si le dices a alguien que tiene una cara ideal para la radio, es obvio que lo dices como un insulto.",
+      "back": "If you tell someone they have a face for radio it's obvious that it's meant as an insult.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Te importaría si me fuera pronto hoy? No, por supuesto que puedes hacerlo.",
+      "back": "Would you mind if I snuck away early today? No, by all means go ahead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-017",
+      "front": "Por supuesto que puedes irte pronto hoy si hace falta.",
+      "back": "By all means sneak away early today if you need to.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-018",
+      "front": "¿Puedo irme cinco minutos antes hoy? ¡Por supuesto!",
+      "back": "Can I sneak off five minutes early today? Go ahead, by all means!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-019",
+      "front": "Necesitamos que se haga el trabajo como sea.",
+      "back": "We need the work done by any means.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-020",
+      "front": "Conseguiremos que se hagan los cambios como sea.",
+      "back": "We'll get the changes made by any means.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-021",
+      "front": "¡Ni siquiera pienses en escabullirte del trabajo pronto hoy! Termina esa presentación sea como sea.",
+      "back": "Don't even think about sneaking away early today! Get that presentation done by any means.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-022",
+      "front": "Verás, me da igual cómo consigas hacerlo; sólo acábalo, haciendo lo que haga falta.",
+      "back": "Look, I don't care how you get it done, just get it done, by any means necessary.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-023",
+      "front": "Es despiadado. Conseguirá lo que necesite haciendo lo que haga falta.",
+      "back": "He's ruthless. He'll get what he needs by any means necessary.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-024",
+      "front": "Vas a tener que ser despiadado para conseguir hacer esto; eso significa acabar el trabajo haciendo lo que haga falta.",
+      "back": "You're going to have to be ruthless to get this done, that means finishing the job by any means necessary.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-025",
+      "front": "Viven holgadamente, pero no son, de ninguna manera, ricos.",
+      "back": "They're pretty comfortable but they're by no means rich.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-026",
+      "front": "Es un tío con talento, pero no tiene, de ninguna manera, lo que hace falta para liderar el equipo.",
+      "back": "He's a talented guy but he by no means has what it takes to lead the team.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-027",
+      "front": "No tienen lo que hace falta para dirigir la empresa, pero no son, de ninguna manera, incompetentes.",
+      "back": "They don't have what it takes to run the company but they're by no means incompetent.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-028",
+      "front": "Viven holgadamente, pero no son ricos, de ninguna manera. (Usa «not by any means».)",
+      "back": "They're pretty comfortable but they're not rich by any means.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-029",
+      "front": "Se le da bien lo que hace, pero no tiene talento, de ninguna manera.",
+      "back": "He's good at what he does but he's not talented by any means.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-030",
+      "front": "Me cae bien, pero no tiene lo que hace falta para dirigir la empresa, ¡de ninguna manera!",
+      "back": "I like him but he doesn't have what it takes to run the company, not by any means!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-031",
+      "front": "Menos mal que él tiene recursos para pagar el tratamiento.",
+      "back": "It's a good thing he has the means to pay for the treatment.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-032",
+      "front": "Menos mal que no tienen recursos para terminar el proyecto. Habría sido un desastre.",
+      "back": "It's a good thing they don't have the means to finish the project. It would have been a disaster.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-033",
+      "front": "Menos mal que tenemos recursos para seguir con el tratamiento.",
+      "back": "It's a good thing we have the means to keep going with the treatment.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-034",
+      "front": "John no pudo encontrar los fondos para pagar el tratamiento. ¡Pobrecito!",
+      "back": "John wasn't able to find the means to pay for the treatment. Poor little thing!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Crees que la empresa encontrará los recursos para construir otra sede central?",
+      "back": "Do you think the company will find the means to build another headquarters?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-036",
+      "front": "Menos mal que Patrick no encontró los fondos para montar un negocio. ¡Habría sido un desastre!",
+      "back": "It's a good thing Patrick didn't find the means to start up a business. It would have been a disaster!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-037",
+      "front": "Claro que Stephen se puede permitir el lujo de pagar el tratamiento. Ahora es un hombre con posibles.",
+      "back": "Of course Stephen can afford to pay for the treatment. He's a man of means now.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-038",
+      "front": "Josephine es una mujer de fortuna gracias al negocio que montó en los años noventa.",
+      "back": "Josephine is a woman of substantial means thanks to the business she started up in the nineties.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-039",
+      "front": "Hombre con posibles busca mujer con posibles para una vida glamurosa y feliz juntos.",
+      "back": "Man of means seeks woman of means for glamorous, happy life together.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-040",
+      "front": "Vas a tener que aprender a apañarte con el sueldo que tienes.",
+      "back": "You're going to have to learn to live within your means.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-041",
+      "front": "Tienes que aprender a apañarte con el sueldo que tienes. Este exceso de gastos no puede continuar.",
+      "back": "You need to learn to live within your means. This overspending can't go on!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-042",
+      "front": "Tony gasta más de lo que tiene todos los meses. Nunca aprendió a apañarse con lo que tenía.",
+      "back": "Tony overspends every single month. He never learned to live within his means.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-043",
+      "front": "Es evidente que estás gastando más de lo que ganas. Deja de gastar tanto.",
+      "back": "You're obviously living beyond your means. Stop overspending.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-044",
+      "front": "Tara siempre está fundiéndose el dinero. Está gastando más de lo que gana.",
+      "back": "Tara is always blowing money. She's living beyond her means.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-045",
+      "front": "Este exceso de gastos no puede continuar. Estás gastando más de lo que ganas.",
+      "back": "This overspending can't go on. You're living beyond your means.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s3-046",
+      "front": "No me hace mucha ilusión aceptar el puesto, pero es un medio para alcanzar un fin. Con un poco de suerte conseguiré un ascenso.",
+      "back": "I'm not crazy about accepting the job but it's a means to an end. Hopefully I'll get a promotion.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-047",
+      "front": "Creía que a él le hacía mucha ilusión estudiar francés, pero dijo que sólo era un medio para alcanzar un fin.",
+      "back": "I thought he was crazy about studying French but he said it was just a means to an end.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-048",
+      "front": "La verdad es que no le hace mucha ilusión a él vivir en Nueva York. Dice que sólo es un medio para alcanzar un fin.",
+      "back": "He isn't actually crazy about living in New York. He says it's just a means to an end.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-049",
+      "front": "Explotaron la empresa para servir a sus propios fines.",
+      "back": "They exploited the company as a means to their own ends.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-050",
+      "front": "Se aprovecharon de mí. Sólo fui una herramienta para sus propios fines.",
+      "back": "They took advantage of me. I was just a means to their own ends.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-051",
+      "front": "Él no me cae muy bien que digamos. Creo que piensa que todo el mundo es una herramienta para sus propios fines.",
+      "back": "I'm not crazy about him. I think he thinks of everyone as a means to his own ends.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-052",
+      "front": "Sé que fue cruel mentirle a ella, pero en este caso creo que el fin justifica los medios.",
+      "back": "I know it was ruthless to lie to her but in this case I think the end justifies the means.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-053",
+      "front": "Tuvimos que despedir a una persona para salvar al resto del equipo. El fin justifica los medios.",
+      "back": "We had to fire one person to save the rest of the team. The end justifies the means.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-054",
+      "front": "Parecía que estaban explotando a la empresa, pero los beneficios aumentaron, así que supongo que el fin justifica los medios.",
+      "back": "It seemed like they were exploiting the company but profits went up so I guess the end justifies the means.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-055",
+      "front": "Si quieres hacerte con un billete, hay modos de hacerlo.",
+      "back": "If you want to get your hands on a ticket there are ways and means of doing so.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-056",
+      "front": "¿Hay forma de conseguir que se hagan los cambios?",
+      "back": "Are there ways and means of getting the changes made?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Hay algún modo de hacerse con la nueva Game Station antes de Navidad?",
+      "back": "Are there ways and means of getting your hands on the new Game Station before Christmas?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-058",
+      "front": "No estoy de acuerdo con subir los impuestos como medida para reducir el déficit.",
+      "back": "I don't agree with raising taxes as a means of reducing the deficit.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-059",
+      "front": "No creo que las dietas de choque sean una buena forma de perder peso.",
+      "back": "I don't think crash dieting is a good means of losing weight.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-060",
+      "front": "No me entusiasma la idea de bajar los sueldos como medida para recortar costes.",
+      "back": "I'm not crazy about the idea of lowering salaries as a means of cutting costs.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-061",
+      "front": "Eso significaría que me tendría que mudar a Londres y no estoy seguro de estar dispuesto a eso.",
+      "back": "That would mean me moving to London and I'm not sure I'm up for that.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-062",
+      "front": "Me han pedido que tome el mando en la oficina de Londres. ¿Eso significaría que me tendría que mudar a Londres?",
+      "back": "They've asked me to take over the London office. Would that mean me moving to London?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-063",
+      "front": "¿Quieres que sea yo el jefe del Reino Unido? Eso significaría que me tendría que mudar a Manchester, ¿no?",
+      "back": "Do you want me to be the UK manager? That would mean me moving to Manchester, wouldn't it?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-064",
+      "front": "Eso significaría que tendría que renunciar a todo lo que tengo aquí y mudarme a Manchester.",
+      "back": "That would mean my giving up everything I have here and moving to Manchester.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-065",
+      "front": "No estoy dispuesto a aceptar el ascenso si eso significara que tengo que renunciar a todo lo que tengo aquí.",
+      "back": "I'm not up for the promotion if it would mean my giving up everything I have here.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-066",
+      "front": "No voy a dimitir. Eso significaría que tendría que renunciar a todo lo que he ganado.",
+      "back": "I'm not going to resign. That would mean my giving up everything I've earned.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-067",
+      "front": "Vamos a decirle a él que sabemos que está mintiendo. Eso significaría que él tendría que decir la verdad.",
+      "back": "Let's tell him we know he's lying. That would mean him having to tell the truth.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-068",
+      "front": "Claro que él no quiere dimitir. Eso significaría que tendría que renunciar a todo.",
+      "back": "Of course he doesn't want to resign. That would mean him having to give up everything.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-069",
+      "front": "Tal vez su padre deje de darle dinero. Eso significaría que tendría que vivir dentro de sus posibilidades.",
+      "back": "His father might stop giving him money. That would mean his having to live within his means.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-070",
+      "front": "Gracias a Dios que no perdiste el vuelo. Eso habría supuesto cancelar todas las vacaciones.",
+      "back": "Thank god you didn't miss the flight. That would have meant us cancelling the whole holiday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-071",
+      "front": "Me alegro mucho de que no te perdieras la reunión. Eso habría supuesto cancelar la comida también.",
+      "back": "I'm so glad you didn't miss the meeting. That would have meant our cancelling the lunch as well.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-072",
+      "front": "Todo el mundo se alegra de que no dimitieras. Eso habría supuesto cancelar la fiesta de Navidad.",
+      "back": "Everyone's glad you didn't resign. That would have meant us cancelling the Christmas party.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-073",
+      "front": "Me alegro de que ella no se enterara de lo de su ex de él. Eso habría supuesto su ruptura.",
+      "back": "I'm glad she didn't find out about his ex. That would have meant them breaking up.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-074",
+      "front": "Estoy muy contento de que no pudieran vender la casa. Eso habría supuesto que se mudaran.",
+      "back": "I'm so happy they couldn't sell the house. That would have meant them moving away.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-075",
+      "front": "Estoy muy aliviado de que John no aceptara el trabajo. Eso habría supuesto que se mudaran a Liverpool.",
+      "back": "I'm so relieved John didn't accept the job. That would have meant their moving to Liverpool.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-076",
+      "front": "¿Por qué les dijiste que no podrían venir? Eso ha sido muy cruel por tu parte.",
+      "back": "Why did you tell them they couldn't come? That was very mean-spirited of you!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-077",
+      "front": "¿Cómo te atreves a decirles que no están invitados? ¡Qué cruel por tu parte!",
+      "back": "How dare you tell them they are not invited! How mean-spirited of you!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-078",
+      "front": "Fue muy cruel por su parte no invitar a Rosa.",
+      "back": "It was very mean-spirited of him not to invite Rosa.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-079",
+      "front": "Él le dijo a ella que tiene una cara ideal para la radio. ¡Eso es muy cruel!",
+      "back": "He told her she had a face for radio. That's just plain mean!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-080",
+      "front": "Creo que de verdad él quiso hacerle daño. Es un mezquino.",
+      "back": "I think he really meant her harm. He's just plain mean.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-081",
+      "front": "Ella dijo que él no tenía lo que hace falta para ser un líder. Eso fue muy cruel por su parte.",
+      "back": "She said he didn't have what it takes to be a leader. That was just plain mean of her.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-082",
+      "front": "Hay algo desagradable en él. Creo que tiene algo de mezquino.",
+      "back": "There's something nasty about him. I think he has a mean streak.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-083",
+      "front": "Él siempre ofende a la gente. Creo que tiene algo de mezquino.",
+      "back": "He's always offending people. I reckon he has a mean streak.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-084",
+      "front": "Ella tiene algo. Tiene algo de mezquino.",
+      "back": "There's something about her. She has a mean streak.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-085",
+      "front": "Jonathan no tiene ni una pizca de maldad. Nunca haría daño a nadie.",
+      "back": "Jonathan doesn't have a mean bone in his body. He would never hurt anyone.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-086",
+      "front": "Estoy seguro de que él no quiso ofender. No tiene ni una pizca de maldad.",
+      "back": "I'm sure he meant no offence. He doesn't have a mean bone in his body.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-087",
+      "front": "Rebecca es muy agradable. ¡No tiene ni una pizca de maldad!",
+      "back": "Rebecca is just plain lovely. She doesn't have a mean bone in her body!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-088",
+      "front": "Jodi me ha pegado, mamá. No le hagas caso, cariño. Es mala.",
+      "back": "Jodi hit me, mom. Don't mind her, darling. She's just a meanie.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-089",
+      "front": "Él era muy malo cuando estaba en el colegio.",
+      "back": "He was a real meanie when he was in school.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s3-090",
+      "front": "Me insultó el otro día. Es malo.",
+      "back": "He called me names the other day. He's a meanie.",
+      "sourcePage": 41
+    }
+  ]
+}

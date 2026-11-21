@@ -1,0 +1,538 @@
+{
+  "bookId": "vaughan-intensive-english-73",
+  "bookTitle": "Libro 73",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¿Qué significa «mattress»?",
+      "back": "What does \"mattress\" mean?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Qué significa la palabra «duvet»?",
+      "back": "What does the word \"duvet\" mean?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "¿Qué significa «double bed»?",
+      "back": "What does \"double bed\" mean?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Significa «mattress» «edredón»?",
+      "back": "Does \"mattress\" mean \"edredón\"?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "¿Significa la palabra «duvet» «colchón»?",
+      "back": "Does the word \"duvet\" mean \"colchón\"?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "¿Significa «double bed» «litera»?",
+      "back": "Does \"double bed\" mean \"litera\"?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "No, «mattress» no significa «edredón».",
+      "back": "No, \"mattress\" doesn't mean \"edredón\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "No, la palabra «duvet» no significa «colchón».",
+      "back": "The word \"duvet\" doesn't mean \"colchón\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "No, «double bed» no significa «litera».",
+      "back": "No, \"double bed\" doesn't mean \"litera\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Qué significa el símbolo > en matemáticas?",
+      "back": "What does the > symbol mean in mathematics?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Qué significa ese símbolo con las flechas?",
+      "back": "What does that symbol with the arrows mean?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Significa el símbolo > «menos que» o «más que»?",
+      "back": "Does the > symbol mean \"less than\" or \"greater than\"?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "El letrero no significa «para», significa «baja la velocidad».",
+      "back": "The sign doesn't mean \"stop\", it means \"slow down\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Aquel letrero con el signo de exclamación significa «presta atención».",
+      "back": "That sign with the exclamation mark means \"pay attention\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Significa «ten cuidado».",
+      "back": "It means \"be careful\".",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Qué quieres decir?",
+      "back": "What do you mean?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "No eres feliz. ¿Qué quieres decir?",
+      "back": "You're not happy. What do you mean?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Qué quieres decir con que no estás contento?",
+      "back": "What do you mean you're unhappy?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Qué quieres decir con que no estás contento en esta empresa?",
+      "back": "What do you mean you're unhappy in this company?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Qué quieres decir con que no vienes a la fiesta?",
+      "back": "What do you mean you're not coming to the party?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Quieres decir que vas a dejar la empresa?",
+      "back": "Do you mean you're leaving the company?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Te refieres al primer estante o al segundo?",
+      "back": "Do you mean the first shelf or the second one?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Quieres decir Highbury Lane o Shrewsbury Lane?",
+      "back": "Do you mean Highbury Lane or Shrewsbury Lane?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Quiero decir que estoy buscando un nuevo trabajo.",
+      "back": "I mean I'm looking for a new job.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Me refiero al primer estante.",
+      "back": "I mean the first shelf.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Quiero decir la calle que está a la izquierda después del hospital.",
+      "back": "I mean the road on the left after the hospital.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿A quién te refieres?",
+      "back": "Who do you mean?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿A quién te refieres? ¿La hermana mayor o la menor?",
+      "back": "Who do you mean? The oldest sister or the youngest one?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Dónde quieres decir? ¿El hospital que hay en la ciudad o el de las afueras?",
+      "back": "Where do you mean? The hospital in the city or the one in the suburbs?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Sabes lo que quiero decir?",
+      "back": "Do you know what I mean?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-031",
+      "front": "Ella tiene algo. ¿Sabes lo que quiero decir?",
+      "back": "There's something about her. Do you know what I mean?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Hay algo que no me gusta de ella. ¿Sabes lo que quiero decir?",
+      "back": "There's something about her I don't like. Do you know what I mean?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Hay algo raro en ella. ¿Sabes lo que quiero decir?",
+      "back": "There's something odd about her. Do you know what I mean?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Hay algo raro en George también. ¿Sabes lo que quiero decir?",
+      "back": "There's something odd about George too. Do you know what I mean?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Sí, sé lo que quieres decir.",
+      "back": "Yeah, I know what you mean.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Sé lo que quieres decir. Indudablemente él tiene algo.",
+      "back": "I know what you mean. There's definitely something about him.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Creo que sé lo que quieres decir.",
+      "back": "I think I know what you mean.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Sé exactamente lo que quieres decir.",
+      "back": "I know exactly what you mean.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Sé exactamente lo que quieres decir sobre George. Es un poco raro.",
+      "back": "I know exactly what you mean about George. He's a bit odd.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "¿Sabes lo que quiero decir? Sí, sé exactamente lo que quieres decir sobre ella.",
+      "back": "Do you know what I mean? Yeah, I know exactly what you mean about her.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "No, no sé lo que quieres decir.",
+      "back": "No, I don't know what you mean.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "No sé lo que quieres decir sobre Julia. No es rara.",
+      "back": "I don't know what you mean about Julia. She isn't odd.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "No sé si quieres decir el segundo estante o el tercer estante.",
+      "back": "I don't know if you mean the second shelf or the third shelf.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "El pitido implica que la comida está lista.",
+      "back": "The beep means the food's ready.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-045",
+      "front": "Una reunión por la mañana implica malas noticias.",
+      "back": "A morning meeting means bad news.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-046",
+      "front": "Una reunión por la tarde implica buenas noticias.",
+      "back": "An evening meeting means good news.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "El próximo martes cae en una festividad religiosa. Eso implica un día libre.",
+      "back": "Next Tuesday is a holy day. That means a day off.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "El próximo lunes es festivo. Eso implica un día libre.",
+      "back": "Next Monday is a bank holiday. That means a day off.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "Hay una reunión mañana por la mañana. Eso implica malas noticias.",
+      "back": "There's a meeting tomorrow morning. That means bad news.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Implica más trabajo para nosotros.",
+      "back": "It means more work for us.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Implica una mañana muy ocupada para nosotros.",
+      "back": "It means a very busy morning for us.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Implica una subida de sueldo para él.",
+      "back": "It means a pay rise for him.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Eso implica más dinero?",
+      "back": "Does that mean more money?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Eso implica el lunes que viene libre?",
+      "back": "Does that mean a day off next Monday?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Eso implica buenas noticias o malas noticias?",
+      "back": "Does that mean good news or bad news?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Implica más trabajo y menos dinero.",
+      "back": "It means more work and less money.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Implica menos trabajo y más dinero para nosotros.",
+      "back": "It means less work and more money for us.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Implica más buenas noticias y menos malas noticias.",
+      "back": "It means more good news and less bad news.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Jim tiene 30 años. Digo, tiene 40 años.",
+      "back": "Jim is 30 years old. I mean, he's 40 years old.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-060",
+      "front": "La hermana de Karen vive en Ontario. Digo, su hermano vive en Ontario.",
+      "back": "Karen's sister lives in Ontario. I mean, her brother lives in Ontario.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-061",
+      "front": "Está en el primer estante. Digo, está en el segundo estante.",
+      "back": "It's on the first shelf. I mean, it's on the second shelf.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "Él vive en el número 39, digo en el 40, digo en el 41.",
+      "back": "He lives in number 39, I mean, 40, I mean 41.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella tiene una hija y dos hijos, digo, un hijo y dos hijas.",
+      "back": "She has one daughter and two sons, I mean, one son and two daughters.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Necesitamos dos, digo, tres tenedores más.",
+      "back": "We need two, I mean, three more forks.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Me quieres? ¿Lo dices en serio?",
+      "back": "You love me? Do you mean it?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "No lo harás otra vez, ¿no? ¿Lo dices en serio?",
+      "back": "You won't do it again, will you? Do you mean it?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Él dice que te quiere. ¿Lo dice en serio?",
+      "back": "He says he loves you. Does he mean it?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Sí, lo digo en serio.",
+      "back": "Yes, I truly mean it.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "¡No vuelvas a hacer eso! ¡Lo digo en serio!",
+      "back": "Don't do that again. I mean it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¡No llegues tarde! ¡Lo digo en serio!",
+      "back": "Don't be late. I mean it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "No lo digo en serio. No te quiero.",
+      "back": "I don't mean it. I don't love you.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¡No le hagas caso a él! No lo dice en serio.",
+      "back": "Don't mind him! He doesn't mean it.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "No le creo a él. ¡No lo dice en serio!",
+      "back": "I don't believe him. He doesn't mean it!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Gracias. Significa mucho para mí.",
+      "back": "Thank you. It means a lot to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-075",
+      "front": "Tu preocupación significa mucho para mí.",
+      "back": "Your concern means a lot to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-076",
+      "front": "Gracias por venir, significa mucho para nosotros.",
+      "back": "Thanks for coming, it really means a lot to us.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Sus palabras no significan nada para mí.",
+      "back": "His words mean nothing to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Mi relación con él no significa nada.",
+      "back": "My relationship with him means nothing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "No te preocupes por ello. No significa nada.",
+      "back": "Don't be concerned about it. It means nothing.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¡Este trabajo significa todo para mí!",
+      "back": "This job means everything to me!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Mi familia lo es todo para mí.",
+      "back": "My family means everything to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Este nuevo contrato es lo más importante para el jefe.",
+      "back": "This new contract means everything to the boss.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "El dinero significa más de lo que puedes imaginar para ella.",
+      "back": "Money means more than you can imagine to her.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "El éxito no significa nada para él, pero significa más de lo que puedes imaginar para mí.",
+      "back": "Success means nothing to him but it means more than you can imagine to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Nuestros hijos significan más de lo que puedes imaginar para nosotros.",
+      "back": "Our children mean more than you can imagine to us.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "Significa muchísimo para ella que vengas a verla.",
+      "back": "It means the world to her that you're coming to visit her.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Gracias por la oportunidad. Significa muchísimo para mí.",
+      "back": "Thank you for the opportunity. It means the world to me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Cómo que no significa nada para ti? ¡Significa muchísimo para mí!",
+      "back": "What do you mean it means nothing to you? It means the world to me!",
+      "sourcePage": 13
+    }
+  ]
+}
