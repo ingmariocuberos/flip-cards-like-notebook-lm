@@ -147,3 +147,6 @@ El libro 67 tiene 47 pliegos PDF y OCR selectivo en `sources/english/Libro 67__h
 
 
 El libro 68 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 68__halves.ocr.txt`. Focus Points: mitades 9–14 y 19–24 (PDF 5–7 y 10–12, básico), 37–42 y 47–52 (PDF 19–21 y 24–26, intermedio), 65–70 y 75–80 (PDF 33–35 y 38–40, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias entre columnas.
+
+
+El libro 69 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 69__halves.ocr.txt`. Focus Points: mitades 11–16 y 19–24 (PDF 6–8 y 10–12, básico), 37–42 y 47–52 (PDF 19–21 y 24–26, intermedio), 65–70 y 75–80 (PDF 33–35 y 38–40, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias entre columnas.

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-69",
+  "bookTitle": "Libro 69",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Siempre ganamos.",
+      "back": "We always win.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Ellos ganan a veces.",
+      "back": "They sometimes win.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Ellos nunca ganan.",
+      "back": "They never win.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Mi equipo siempre gana en casa.",
+      "back": "My team always wins at home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Nuestro equipo a veces gana fuera de casa.",
+      "back": "Our team sometimes wins away from home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Su equipo (de él) nunca gana fuera de casa.",
+      "back": "His team never wins away.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "Siempre gano cuando juego así.",
+      "back": "I always win when I play like this.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "Ella a veces gana cuando juega así.",
+      "back": "She sometimes wins when she plays like that.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "Nunca ganan cuando juegan así.",
+      "back": "They never win when they play like that.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Él siempre gana cuando juega contra Tom.",
+      "back": "He always wins when he plays against Tom.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella gana a veces cuando juega contra Jackie.",
+      "back": "She sometimes wins when she plays against Jackie.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Nunca gano cuando juego contra ellos.",
+      "back": "I never win when I play against them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Su equipo (de ellos) siempre gana cuando juega en casa contra ellos.",
+      "back": "Their team always wins when they play against them at home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "Nuestro equipo gana a veces cuando jugamos contra ellos fuera de casa.",
+      "back": "Our team sometimes wins when we play against them away.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "Mi equipo nunca gana cuando jugamos contra ellos fuera de casa.",
+      "back": "My team never wins when we play against them away from home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Quién va ganando?",
+      "back": "Who's winning?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Qué equipo va ganando?",
+      "back": "Which team's winning?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Van ganando?",
+      "back": "Are they winning?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "En este momento, el Manchester United va ganando.",
+      "back": "At the moment, Manchester United are winning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Ahora mismo, su equipo va ganando.",
+      "back": "Right now, their team's winning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "En este momento, van ganando.",
+      "back": "At the moment, they're winning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Van ganando por un gol.",
+      "back": "They're winning by one goal.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Su equipo va ganando por tres goles.",
+      "back": "Their team's winning by three goals.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Vamos ganando por mucho.",
+      "back": "We're winning by a mile.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Todavía van ganando por mucho.",
+      "back": "They're still winning by a mile.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Su equipo todavía va ganando por dos goles.",
+      "back": "Their team's still winning by two goals.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Él todavía va ganando por un gol.",
+      "back": "He's still winning by one goal.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Ya no van ganando por mucho.",
+      "back": "They aren't winning by a mile anymore.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Ya no vamos ganando por tres goles.",
+      "back": "We aren't winning by three goals anymore.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Él ya no va ganando por un gol.",
+      "back": "He's not winning by one goal anymore.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Quién crees que ganará el premio?",
+      "back": "Who do you think'll win the prize?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Quién crees que ganará el Oscar?",
+      "back": "Who do you think'll win the Oscar?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Quién crees que ganará el trofeo?",
+      "back": "Who do you think'll win the trophy?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "De verdad pienso que podemos ganar el premio.",
+      "back": "I really think we can win the award.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Pienso seriamente que él puede ganar el título de empleado del mes.",
+      "back": "I seriously think he can win employee of the month.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Sinceramente, creo que pueden ganar el premio.",
+      "back": "I honestly think they can win the award.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Creo que podemos ganarlo si nos preparamos bien.",
+      "back": "I think we can win it if we prepare well.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "Creo que ella puede ganarlo si trabaja mucho.",
+      "back": "I think she can win it if she works hard.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Creo que pueden ganarlo si juegan bien juntos.",
+      "back": "I think they can win it if they play well together.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Creo que podemos ganarlo porque somos mejores que ellos.",
+      "back": "I think we can win it because we're better than they are.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Creo que ella puede ganarlo porque es más fuerte que él.",
+      "back": "I think she can win it because she's stronger than he is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "En serio creo que pueden ganarlo porque son más rápidos que los otros equipos.",
+      "back": "I seriously think they can win it because they're faster than the other teams.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Creo que podemos ganarlo porque no son tan buenos como nosotros.",
+      "back": "I think we can win it because they're not as good as we are.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Creo que ella puede ganarlo porque su contrincante no es tan fuerte como ella.",
+      "back": "I think she can win it because her opponent isn't as strong as she is.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "Sinceramente, creo que pueden ganarlo porque los otros equipos no son tan rápidos como ellos.",
+      "back": "I honestly think they can win it because the other teams aren't as fast as they are.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Ella le va a ganar a ella.",
+      "back": "She's going to beat her.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Les van a ganar.",
+      "back": "They're going to beat them.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Él le va a ganar a él.",
+      "back": "He's going to beat him.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Sandy va a ganar a la campeona actual en la final de la semana que viene.",
+      "back": "Sandy's going to beat the current titleholder in next week's final.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Los Ducks van a ganar a los ganadores anteriores en el partido de mañana.",
+      "back": "The Ducks are going to beat the previous winners in tomorrow's match.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Mark va a ganar al antiguo campeón en la final de la copa del mes que viene.",
+      "back": "Mark's going to beat the former champion in next month's cup final.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "Sandy va a volver a ganarle a ella al tenis la semana que viene.",
+      "back": "Sandy's going to beat her at tennis again next week.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Van a volver a ganarles al fútbol.",
+      "back": "They're going to beat them at football again.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Él va a volver a ganarle a él al golf este fin de semana.",
+      "back": "He's going to beat him at golf again this weekend.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Ella no gana a la antigua ganadora en el London Stadium ni en broma.",
+      "back": "There's no way she's going to beat the former winner at London Stadium.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "No ganan a los campeones actuales en su campo ni en broma.",
+      "back": "There's no way in hell they're going to beat the current champions at their grounds.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Él no le gana a él en el Ninox Arena ni en broma.",
+      "back": "There's no way he's going to beat him at the Ninox Arena.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "No les ganan al rugby ni en broma.",
+      "back": "There's no chance they're going to beat them at rugby.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Ella no le gana a ella al tenis de mesa ni en broma.",
+      "back": "There's no chance she's going to beat her at table-tennis.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "No les ganan al hockey sobre hielo ni en broma.",
+      "back": "There's no chance they're going to beat them at ice-hockey.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Él va a vencer a todo el mundo y a ganar la copa.",
+      "back": "He's going to beat everyone and win the cup.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Ellos van a vencerlos este año y a ganar el derbi.",
+      "back": "They're going to beat them this year and win the derby.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella va a vencer al antiguo campeón en la final y a ganar el torneo.",
+      "back": "She's going to beat the former champion in the final and win the tournament.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "El torneo casi ha terminado y si vencemos a Vaughan FC, lo ganaremos.",
+      "back": "The tournament is nearly finished, and if we beat Vaughan FC we'll win it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Sí, pero si Vaughan FC nos gana, ¡lo ganarán ellos!",
+      "back": "Yes, but if Vaughan FC beat us, they'll win it!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "No, si Vaughan FC nos gana, y si gana el resto de sus partidos, lo ganará.",
+      "back": "No, if Vaughan FC beat us, and if they win the rest of their matches, they'll win it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Si el Liverpool gana al Tottenham hoy, ganará la liga.",
+      "back": "If Liverpool beat Tottenham today, they'll win the league.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Si el Manchester United gana a los campeones actuales, ganará el torneo.",
+      "back": "If Manchester United beat the current titleholders, they'll win the tournament.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Si el Fulham gana a los campeones actuales, ganará la liga.",
+      "back": "If Fulham beat the current titleholders, they'll win the league.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Si ganan a los campeones actuales, entonces ganarán la liga.",
+      "back": "If they beat the current champions, then they'll win the league.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Si él gana al campeón actual, entonces ganará el torneo.",
+      "back": "If he beats the current titleholder, then he'll win the tournament.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Si ella gana al campeón actual, entonces ganará la copa.",
+      "back": "If she beats the current titleholder, then she'll win the cup.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Ganarán la copa si ganan a los antiguos campeones hoy.",
+      "back": "They'll win the cup if they beat the former titleholders today.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Él ganará el torneo si gana al antiguo campeón mañana.",
+      "back": "He'll win the tournament if he beats the former champion tomorrow.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Ganarán la liga si ganan a los antiguos campeones esta tarde.",
+      "back": "They'll win the league if they beat the former champions this afternoon.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Cuánto gana él?",
+      "back": "How much does he earn?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Cuánto gana ella?",
+      "back": "How much does she earn?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Cuánto ganan ellos?",
+      "back": "How much do they earn?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Él gana 5 euros por hora.",
+      "back": "He earns 5 euro an hour.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Ella gana 10 euros por hora.",
+      "back": "She earns 10 euro an hour.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Mi padre gana 12,50 por hora.",
+      "back": "My dad earns 12.50 an hour.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Él gana un pastón.",
+      "back": "He makes a fortune.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Ella gana mucho.",
+      "back": "She makes a lot.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Él gana un dineral.",
+      "back": "He makes a packet.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Ella gana más del salario mínimo.",
+      "back": "She makes above the minimum wage.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Ella gana el sueldo mínimo.",
+      "back": "She makes the minimum wage.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Él gana menos del salario mínimo.",
+      "back": "He makes below the minimum wage.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Ellos ganan más que nosotros.",
+      "back": "They earn more than we do.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Ganamos menos que ellos.",
+      "back": "We earn less than they do.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Ella gana más que él.",
+      "back": "She earns more than he does.",
+      "sourcePage": 12
+    }
+  ]
+}

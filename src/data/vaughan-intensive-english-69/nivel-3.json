@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-69",
+  "bookTitle": "Libro 69",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Habríamos ganado si el árbitro no hubiera concedido ese ridículo penalti.",
+      "back": "We'd have won if it hadn't been for the ref giving them that ridiculous penalty.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "Si East Grinstead Town no nos hubiera ganado por tantos goles, habríamos tenido posibilidades de ganar el título.",
+      "back": "If East Grinstead Town hadn't beaten us by so many goals, we'd have had a shot at the title.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Ojalá hubiésemos ganado la segunda carrera! Habríamos tenido posibilidades de ganar el título.",
+      "back": "If only we'd won the second race! We'd have had a chance at the title.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "Si yo soliera apostar, apostaría bastante dinero a que Jack ganará la carrera.",
+      "back": "If I were a betting man, I'd put good money on Jack winning the race.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "Si yo soliera apostar, apostaría bastante dinero a que el Redhill ganará al Crowborough Athletic esta noche.",
+      "back": "If I were a gambling man, I'd put good money on Redhill beating Crowborough Athletic tonight.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "Si yo soliera apostar, apostaría bastante por Usain Bolt. Parece seguro que va a ganar la carrera.",
+      "back": "If I were a betting man, I'd put good money on Usain Bolt. He seems a dead cert to win the race.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "¡No sólo nos ganaron, sino que nos dieron una paliza! Ahora sí que no vamos a ganar la liga.",
+      "back": "They didn't just beat us, they absolutely thrashed us! We'll never win the league now.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "Nos dieron una paliza en un partido crucial. Ahora, para tener alguna posibilidad de ganar la copa, tenemos que ganar todos los partidos que nos quedan.",
+      "back": "They clobbered us in a crucial match. Now, if we're going to have any chance of winning the cup, we need to win all our remaining matches.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Los Knicks dan una paliza a los Atlanta Hawks en una actuación impresionante.",
+      "back": "The Knicks blow out the Atlanta Hawks in a breathtaking performance.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "Después de haber ganado a los favoritos, los Chicago Blackhawks tienen posibilidades de ganar el título.",
+      "back": "After having beaten the favorites, the Chicago Blackhawks have a shot at the title.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Ahora, después de haber perdido un partido que deberían haber ganado fácilmente, los LA Lakers se encuentran en una posición complicada.",
+      "back": "Now, after having lost a match that they should have easily won, the LA Lakers are in a very tough position.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Después de haber dado una paliza a los campeones actuales, el Manchester City tiene una sensación de confianza renovada.",
+      "back": "After having thrashed the current titleholders, Man City have a renewed sense of confidence.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "Después de su victoria contra los Jets, los Houston Rockets han roto su mala racha de tres partidos perdidos.",
+      "back": "Following their victory over the Jets, the Houston Rockets have broken their three-game losing streak.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "El Atlético sigue con su buena racha con una victoria impresionante contra el Getafe.",
+      "back": "Atlético continue their winning streak with a stunning victory over Getafe.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "Después de romper su mala racha con una victoria impresionante contra el Arsenal, el Tottenham tiene oportunidad de entrar en la Champions.",
+      "back": "After having broken their losing streak with a breathtaking victory over Arsenal, Tottenham have a shot at getting into the Champions League.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "¡Él tiene un pico de oro! Es imposible que no te conquiste.",
+      "back": "He's a smooth-talker! It's impossible not to be won over by him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "¡Él tiene un pico de oro! Era difícil no caer en sus redes.",
+      "back": "He has a silver tongue! It was hard not to be won over by him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "Es difícil que ella no te conquiste. ¡Es encantadora!",
+      "back": "It's difficult not to be won over by her. She's so loveable!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "Sí que es persuasivo el argumento que él expone. ¡Puede que me convenza!",
+      "back": "He does make a very persuasive argument. Maybe I can be won round!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "No me convenció, aunque sí que expuso un argumento persuasivo.",
+      "back": "He didn't win me round even though he did make a very persuasive argument.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "Sí que expones un argumento persuasivo, pero no me vas a convencer.",
+      "back": "You do make a very persuasive argument but you're not going to win me round.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "La democracia no habría salido adelante si la revuelta no hubiera tenido éxito.",
+      "back": "Democracy wouldn't have won through if the uprising hadn't succeeded.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "Si fuera jugador, apostaría a que la democracia saldrá adelante al final.",
+      "back": "If I were a gambling man, I'd bet on democracy winning through in the end.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "Gracias a la revuelta, la democracia tiene la oportunidad de seguir adelante.",
+      "back": "Thanks to the uprising, democracy has a shot at winning through.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "Estos chicos han venido hoy aquí para recuperar el trofeo.",
+      "back": "These boys have come here today to win back the trophy.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "Tienes un pico de oro, pero no vas a recuperar mi confianza tan fácilmente.",
+      "back": "You're a smooth-talker but you're not going to win back my trust that easily.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "Los demócratas recuperaron el parlamento después de una victoria aplastante en el sur.",
+      "back": "Democrats won back the House after a landslide victory in the south.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "Me convenciste acerca de ese tema, ¡pero no me has ganado del todo!",
+      "back": "You won me round on that issue, but you haven't won me over completely!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Él no convenció a todo el mundo, pero su propuesta salió al final.",
+      "back": "He didn't win everyone round, but his proposal won through in the end.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Fuimos campeones de 1999 a 2001. En 2002, Fibsboro recuperó el trofeo.",
+      "back": "We were titleholders from 1999 to 2001. In 2002, Fibsboro won back the trophy.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "Hace falta ser un verdadero cobarde para aporrear a alguien más pequeño que tú.",
+      "back": "It takes a real coward to beat up someone who's smaller than you are.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "¡Él aporreó a ese tipo sin motivo! Hace falta ser un verdadero cobarde para hacer semejante cosa.",
+      "back": "He beat up that guy for no reason! It takes a real coward to do such a thing.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "¡No puedo creer que hayas aporreado a ese carterista! Hace falta mucho coraje para hacer eso.",
+      "back": "I can't believe you beat up that pickpocket! It takes a lot of guts to do that.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "Si recurres a aporrearle, empeorarás las cosas.",
+      "back": "If you resort to beating him up, you'll make matters worse.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "No puedo creer que le hayas aporreado. Ahora has empeorado las cosas.",
+      "back": "I can't believe you beat him up! Now you've made matters worse!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "Nunca deberías recurrir a golpear a alguien; solo empeorarás las cosas.",
+      "back": "You should never resort to beating someone up; you'll only make matters worse.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "Él hizo el ridículo anoche, pero no puede comerse la cabeza por ello.",
+      "back": "He made a fool of himself last night, but he can't beat himself up about it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Él suspendió la prueba por un 1 %, pero no debería comerse la cabeza por ello.",
+      "back": "He failed the test by 1%, but he shouldn't beat himself up about it.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "No sirve de nada comerte la cabeza por ello. Ya está zanjado.",
+      "back": "There's no point in beating yourself up about it. It's done and dusted.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Los ladrones habrían huido con todo si no les hubieras espantado.",
+      "back": "The burglars would have gotten away with everything if you hadn't beaten them off.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "¡Tienes muy buen aspecto! Apuesto a que vas a estar toda la noche quitándote a los chicos de encima.",
+      "back": "You look great! I bet you're going to spend the whole evening beating off the guys.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "Él está que te mueres. Siempre está quitándose a las chicas de encima vaya donde vaya.",
+      "back": "He's drop-dead gorgeous. He's always beating off the women wherever he goes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Da igual qué tácticas emplees, nunca ganarás a la competencia.",
+      "back": "No matter what tactics you use, you'll never beat off the competition.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "Por muy bueno que sea el equipo, nunca ganará a la competencia.",
+      "back": "No matter how good the team is, they'll never beat off the competition.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Por mucho que entrenes, nunca ganarás a los otros finalistas.",
+      "back": "No matter how hard you train, you'll never beat off the other finalists.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "¿Has oído hablar de lo que pasó en el parque? ¡No entiendo cómo alguien puede haber hecho semejante cosa!",
+      "back": "Have you heard about what happened in the park? It beats me how anyone could have done such a thing!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "Acabo de oír hablar sobre lo que pasó en el cine. ¡No entiendo cómo alguien querría hacer semejante cosa!",
+      "back": "I've just heard about what happened at the cinema, it beats me how anyone would want to do such a thing!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "¿Cómo podría alguien hacer semejante cosa? No lo entiendo.",
+      "back": "How could someone do such a thing? It beats me.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "No me entusiasma trabajar un turno de 12 horas, pero es mejor que trabajar los sábados.",
+      "back": "I'm not thrilled about working a 12 hour shift, but it beats working Saturdays.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "No estaba tocando el cielo con la punta de los dedos por tener que trabajar un turno de 10 horas, pero era mejor que trabajar el domingo.",
+      "back": "I wasn't over the moon about having to work a 10 hour shift, but it beat working on Sunday.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "No le vuelve loco tener que trabajar los domingos, ¡pero es mejor que trabajar a las 6 de la mañana todos los días!",
+      "back": "He isn't chuffed about having to work on Sundays but it beats working at 6am every day!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "¡Me muero de ganas de ir a casa por Navidad! No hay nada mejor que una cena familiar navideña.",
+      "back": "I can't wait to go home for Christmas! You can't beat a family Christmas dinner.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Me muero de ganas de ir a casa. ¡No hay nada mejor que una comida británica al horno!",
+      "back": "I can't wait to go home... you can't beat a Sunday roast dinner!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "Ella se muere de ganas de venir a casa; dice que no hay nada mejor que un pudin de Yorkshire casero.",
+      "back": "She can't wait to come home; she says you can't beat a homemade Yorkshire pudding.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "¡Deja de andarte con rodeos y sigue con ello! No tengo todo el día, ¿sabes?",
+      "back": "Stop beating about the bush and get on with it! I haven't got all day, you know!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "No tenemos todo el día. ¡Canta y deja de andarte por las ramas!",
+      "back": "We haven't got all day... spit it out and stop beating about the bush!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "¡Canta! Él no tiene todo el día. ¡Díselo y deja de andarte con rodeos!",
+      "back": "Spit it out! He hasn't got all day. Just tell him and stop beating about the bush!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "No voy a tener una discusión contigo. Si no te gusta el servicio, ¡lárgate!",
+      "back": "I'm not going to get into an argument with you. If you don't like the service, beat it!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "Le pedí a ella que me prestara dinero, ¡pero me dijo que me largara!",
+      "back": "I asked her to lend me money, but she told me to beat it!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Has tenido seis Momentos Verbales para practicar los verbos ganar y vencer. ¡Ahora lárgate!",
+      "back": "You've had six Momentos Verbales to practice the verbs \"to win\" and \"to beat\"... now beat it!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "¡Empezamos con el concurso! ¡Que gane el mejor!",
+      "back": "Let's get this contest going. May the best man win!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "¡Ya es hora de empezar este acontecimiento! ¡Que gane el mejor!",
+      "back": "It's time to get this event going. May the best man win!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "¡Que comiencen los juegos y que gane el mejor!",
+      "back": "Let the games commence and may the best man win!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "Fue probablemente su sentido del humor lo que hizo que él entablara tantas amistades en el trabajo.",
+      "back": "It was probably his sense of humour that won him so many friends at work.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Lo que conquistó su corazón de ella fue entregarle seis rosas blancas en persona.",
+      "back": "What won her heart was delivering her six white roses personally.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "Creo que me gané su afecto de él cuando me escuchó tocando el piano.",
+      "back": "I think I won his affection when he heard me playing the piano.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "Da igual lo que diga, él no me escucha. No se puede ganar con alguna gente.",
+      "back": "It doesn't matter what I say, he doesn't listen to me. You can't win with some people.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Da igual lo que haga, ella nunca está contenta. ¡No se puede ganar con ella!",
+      "back": "It doesn't matter what I do, she's never happy. You can't win with her!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "Da igual lo que diga, mi jefe es imposible de complacer. ¡No se puede ganar con él!",
+      "back": "It doesn't matter what I say, my boss is impossible to please. You can't win with him!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Dio igual lo duro que jugamos, nos ganaron. ¡Pero bueno! No se puede ganar todo, ¿no?",
+      "back": "It didn't matter how hard we played, they beat us. Well, you can't win them all, can you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "Dio igual lo mucho que lo intentamos, fueron imposibles de vencer. ¡Pero bueno! No se puede ganar todo, ¿no?",
+      "back": "It didn't matter how much we tried, they were impossible to beat. Well, you can't win them all, can you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Dio igual que quisiéramos ganar a toda costa, aun así nos vencieron. ¡Pero bueno! No se puede ganar todo, ¿no?",
+      "back": "It didn't matter how much we wanted to win, they still beat us. Well, you can't win them all, can you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Hemos perdido otra vez. ¡Bueno! A veces se gana, a veces se pierde, ¿no?",
+      "back": "We've lost again! Oh well! You win some, you lose some, don't you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "¡Vaya! Nos han ganado otra vez. ¡Bueno! A veces se gana, a veces se pierde, ¿no?",
+      "back": "They've beaten us again! Oh well! You win some, you lose some, don't you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "¡Nos han ganado esta vez! ¡Bueno! A veces se gana, a veces se pierde, ¿no?",
+      "back": "They beat us this time! Oh well! You win some, you lose some, don't you?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "Se han superado otra vez. ¡El último álbum es un auténtico clásico!",
+      "back": "They've outdone themselves again. The latest album is an absolute classic!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "El partido estuvo muy reñido, pero al final el Celtic superó a los Rangers.",
+      "back": "The match was quite tight, but in the end Celtic outdid Rangers.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "Julie no quería ser superada, así que fue a por todas con su disfraz de Halloween y se gastó más de trescientos dólares.",
+      "back": "Julie wasn't going to be outdone, so she went all-out on her Halloween costume, spending over three hundred dollars.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "La empresa ha ido a por todas con su nuevo smartphone, que supera por completo a la competencia del mercado.",
+      "back": "The company's gone all-out on its new smartphone, which completely outperforms all its competitors in the market.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Nos superaron por completo anoche; fue una humillación total.",
+      "back": "They completely outperformed us last night; it was an utter humiliation.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "Es bastante vergonzoso cuando tu hermano pequeño te supera al echar un pulso.",
+      "back": "It's pretty embarrassing when your little brother outperforms you in an arm-wrestle.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "Pensé que íbamos a ganar el contrato, pero nos superaron tácticamente en la negociación final.",
+      "back": "I thought we were going to win the contract but they outmaneuvered us in the final negotiation.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "A lo largo de los años, la propaganda ha llegado a ser una herramienta imprescindible para superar tácticamente al enemigo en una guerra.",
+      "back": "Over the years, propaganda has become an essential tool for outmaneuvering the enemy in a war.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "Algunos políticos recurren a campañas de desprestigio para intentar superar tácticamente a sus rivales.",
+      "back": "Some politicians resort to smear campaigns in an attempt to outmaneuver their opponents.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Estás complicando las cosas: el Newcastle jugó mejor que el Arsenal. Así de sencillo.",
+      "back": "You're overcomplicating things: Newcastle outplayed Arsenal. Simple as that.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "Cada vez que jugamos mejor que otro equipo, ¡pasa algo malo!",
+      "back": "Every time we're outplaying another team, something goes wrong!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "No creo que jugasen mejor que nosotros, creo que tuvieron un golpe de suerte con el lanzamiento de falta.",
+      "back": "I don't think they outplayed us, I think they had a stroke of luck with the free kick.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "Nigel ha eclipsado totalmente a todos los demás competidores en lo que va de concurso.",
+      "back": "Nigel has utterly outshone all the other competitors so far in the competition.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "Si quieres eclipsar a tus compañeros de equipo, tendrás que practicar tus regates.",
+      "back": "If you want to outshine your team-mates, you'll need to work on your dribbling.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "Nos eclipsaron en el partido de hoy, chicos, tenemos que ir a por todas para que esto no vuelva a pasar.",
+      "back": "We were outshone in today's match, guys, we've got to go all-out so that it never happens again.",
+      "sourcePage": 40
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-69",
+  "bookTitle": "Libro 69",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Los dos ganamos un premio por nuestro trabajo duro.",
+      "back": "Both of us won an award for our hard work.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Los dos ganamos un premio en la fiesta de Navidad.",
+      "back": "Both of us won a prize at the Christmas party.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Los dos ganamos dinero este fin de semana.",
+      "back": "Both of us won money on the weekend.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Los dos ganaron un premio por su trabajo duro.",
+      "back": "Both of them won an award for their hard work.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Los dos ganaron una cesta en la fiesta de Navidad.",
+      "back": "Both of them won a hamper at the Christmas party.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Los dos ganaron un premio en el sorteo.",
+      "back": "Both of them won a prize in the raffle.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Ninguno de los dos ganamos la semana pasada, fue un empate.",
+      "back": "Neither of us won last week, it was a draw.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Ninguno de los dos ganamos ayer, fue un empate.",
+      "back": "Neither of us won yesterday, it was a draw.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Ninguno de los dos ganamos el otro día, fue un empate.",
+      "back": "Neither of us won the other day, it was a draw.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Ninguna de ellas ganó el concurso, fue un empate.",
+      "back": "Neither of them won the contest, it was a tie.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Ninguno de ellos ganó la batalla, fue un empate.",
+      "back": "Neither of them won the battle, it was a tie.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "Ninguno de ellos ganó la partida de ajedrez, fue un empate.",
+      "back": "Neither of them won the game of chess, it was a tie.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Ambos boxeadores lucharon bien, pero Billy Jizz ganó la pelea.",
+      "back": "Both boxers fought well, but Billy Jizz won the fight.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Ninguno de los dos boxeadores luchó bien, pero Mike Hunt ganó el concurso.",
+      "back": "Neither boxer fought well, but Mike Hunt won the contest.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Ambos aspirantes británicos quisieron ganar el torneo, pero ninguno de los dos boxeadores ganó.",
+      "back": "Both British contenders wanted to win the tournament, but neither boxer won it.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Todos nosotros trabajamos duro, así que fue una sensación increíble cuando ganamos el concurso.",
+      "back": "All of us worked hard, so it was a great feeling when we won the contest.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Todos nosotros trabajamos duro en el entrenamiento, así que estábamos encantados cuando ganamos el partido.",
+      "back": "All of us worked hard in training, so we were delighted when we won the game.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Todos nosotros jugamos bien, así que estábamos extáticos cuando ganamos la competición.",
+      "back": "All of us played well, so we were ecstatic when we won the competition.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Todos ellos jugaron muy bien y estaban contentísimos cuando ganaron el partido.",
+      "back": "All of them played so well and they were thrilled when they won the game.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Todos ellos trabajaron muy duro y estaban extáticos cuando ganaron el premio.",
+      "back": "All of them worked so hard and they were ecstatic when they won the award.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Todos ellos lo hicieron muy bien y estaban tocando el cielo con la punta de los dedos cuando ganaron la copa.",
+      "back": "All of them did so well and they were over the moon when they won the cup.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Ninguno de nosotros esperaba ganar, así que fue una sensación increíble cuando ganamos el concurso.",
+      "back": "None of us expected to win, so it was a great feeling when we won the contest.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Ninguno de nosotros esperaba ganar, así que estábamos encantados cuando ganamos el partido.",
+      "back": "None of us expected to win, so we were delighted when we won the match.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Ninguno de nosotros esperaba ganar, así que estábamos contentísimos cuando ganamos la competición.",
+      "back": "None of us expected to win, so we were thrilled to bits when we won the competition.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Ninguno de ellos pensó que iba a ganar, pero estaban contentísimos cuando ganaron el partido.",
+      "back": "None of them thought they'd win, but they were thrilled to bits when they won the match.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Ninguno de ellos pensó que iba a ganar, pero estaban extáticos cuando ganaron el premio.",
+      "back": "None of them thought they'd win, but they were ecstatic when they won the award.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "Ninguno de ellos pensó que iba a ganar, pero estaban tocando el cielo con la punta de los dedos cuando ganaron la copa.",
+      "back": "None of them thought they'd win, but they were over the moon when they won the cup.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Todos los boxeadores están muy decididos y fue la determinación de Buffalo Brian lo que decidió la pelea.",
+      "back": "All boxers are very determined and it was Buffalo Brian's determination that won the fight.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "A ningún luchador le gusta perder, pero el campeón Pete-the-Python perdió siete veces antes de ganar su primera pelea.",
+      "back": "No wrestler likes to lose, but champion Pete-the-Python lost seven times before he won his first fight.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "A ningún jugador le gusta que le llamen tramposo.",
+      "back": "No player likes to be called a cheat.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "El Manchester United ganó al Liverpool el año pasado.",
+      "back": "Man U beat Liverpool last year.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Le ganó a otro equipo ayer.",
+      "back": "They beat them yesterday.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Ganó al Chelsea la otra semana también.",
+      "back": "They beat Chelsea the other week too.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Nos ganaron por tres a cero.",
+      "back": "They beat us three-nil.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Los Diablos ganaron a Los Pingüinos por dos a cero.",
+      "back": "The Devils beat The Penguins two-nil.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Los Tiburones ganaron a Las Águilas por uno a cero.",
+      "back": "The Sharks beat The Eagles one-nil.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Los Diablos ganaron a Los Pingüinos, pero perdieron contra Las Águilas.",
+      "back": "The Devils beat The Penguins but lost to The Eagles.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Los Tiburones ganaron a Las Águilas, pero perdieron contra Los Pingüinos.",
+      "back": "The Sharks beat The Eagles but lost to The Penguins.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "Los Pingüinos ganaron a Los Tiburones, pero perdieron contra Los Diablos.",
+      "back": "The Penguins beat The Sharks, but lost to The Devils.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Nos ganaron sin lugar a dudas.",
+      "back": "They beat us fair and square.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Él le ganó a él sin lugar a dudas.",
+      "back": "He beat him fair and square.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Ella le ganó a ella sin lugar a dudas.",
+      "back": "She beat her fair and square.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Nos ganaron con un gol en los últimos minutos del partido.",
+      "back": "They beat us with a goal in the closing minutes of the match.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Les ganamos por meter un gol en los últimos minutos del partido.",
+      "back": "We beat them by scoring a goal in the closing minutes of the match.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Les ganaron con una canasta de tres puntos en los últimos segundos del juego.",
+      "back": "They beat them with a three-pointer in the closing seconds of the game.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Nos han ganado dos veces esta temporada.",
+      "back": "They've beaten us twice this season.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Él le ha ganado a él tres veces esta temporada.",
+      "back": "He's beaten him three times this season.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Ella le ha ganado a ella una vez este año.",
+      "back": "She's beaten her once this year.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "Ellos han ganado dos partidos en lo que va de temporada.",
+      "back": "They've won two games so far this season.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "Él ha ganado tres partidos en lo que va de mes.",
+      "back": "He's won three matches so far this month.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "Ella ha ganado una vez en lo que va de año.",
+      "back": "She's won once so far this year.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Ya les hemos ganado una vez en lo que va de temporada.",
+      "back": "We've already beaten them once this season.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Ya han ganado el campeonato.",
+      "back": "They've already won the championship.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Ella ya le ha ganado tres veces en lo que va de año.",
+      "back": "She's already beaten him three times so far this year.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Puede que nos hayan ganado hoy, pero todavía no han ganado la guerra.",
+      "back": "They may have beaten us today, but they haven't won the war yet.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "Aunque ella haya ganado al actual campeón una vez esta temporada, aún no ha ganado la copa.",
+      "back": "She may have beaten the titleholder once this season, but she hasn't won the cup yet.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Aunque les hayamos ganado en casa y fuera de casa esta temporada, aún no hemos ganado la liga.",
+      "back": "We may have beaten them at home and away this season, but we haven't won the league yet.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Él le ganó el año pasado, pero no le ha ganado en lo que va de año.",
+      "back": "He beat him last year, but he hasn't beaten him so far this year.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "Ella ganó el trofeo el año pasado, pero no ha ganado nada en lo que va de año.",
+      "back": "She won the trophy last year, but she hasn't won anything so far this year.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Les ganamos la temporada pasada, pero no les hemos ganado en lo que va de temporada.",
+      "back": "We beat them last season, but we haven't beaten them so far this season.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Deberíamos marcharnos pronto si queremos evitar el tráfico.",
+      "back": "We should leave early if we want to beat the traffic.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Marchémonos ahora para poder evitar el tráfico de la mañana.",
+      "back": "Let's leave now so that we can beat the morning traffic.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Se marcharon pronto para poder evitar el tráfico.",
+      "back": "They left early so they could beat the traffic.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "Jill cogió el teléfono antes que su hermano; estaba esperando a que le llamara una amiga.",
+      "back": "Jill beat her brother to the phone; she was expecting her friend to call.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Él llegó al teléfono justo antes que yo y cogió la llamada.",
+      "back": "He just beat me to the phone and took the call.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Conseguí llegar a coger el teléfono y hablar con él antes que ella.",
+      "back": "I managed to beat her to the phone and speak to him first.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Él quería pagarlo todo, pero yo me adelanté.",
+      "back": "He wanted to pay for everything but I beat him to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "Intenté pagar la comida, pero él se me adelantó.",
+      "back": "I tried to pay for the meal but he beat me to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "Estaba buscando mi tarjeta de crédito para pagar, pero él se me adelantó.",
+      "back": "I was looking for my credit card to pay but he beat me to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "Creo que quiere proponerme matrimonio, pero me voy a adelantar y proponérselo esta noche.",
+      "back": "I think she wants to propose to me but I'm going to beat her to it and propose tonight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Él piensa organizar una fiesta de Halloween, pero me voy a adelantar y organizar una antes.",
+      "back": "He's planning on organizing a Halloween party but I'm going to beat him to it and organize one first.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "Mi amigo habla de pedirle una cita a una chica, pero me voy a adelantar y pedírselo a ella esta noche.",
+      "back": "My friend's talking about asking a girl out on a date but I'm going to beat him to it and ask her tonight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella condujo allí rápidamente para llegar primero, pero su marido ya se le había adelantado.",
+      "back": "She drove quickly to get there first but her husband had beaten her to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Ella cruzó el pasillo corriendo para hablar con el jefe, pero Jane ya se le había adelantado.",
+      "back": "She ran across the corridor to speak to the boss but Jane had already beaten her to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "El político pensaba que tenía una gran idea para su campaña, pero el partido de la oposición se le había adelantado.",
+      "back": "The politician thought he had a great idea for his campaign but the opposing party had already beaten him to it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Ella atizó el felpudo para quitar el polvo.",
+      "back": "She beat the doormat in order to remove the dust.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Él sacudió y atizó el felpudo para quitar la suciedad.",
+      "back": "He shook and beat the doormat to remove the dirt.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Él decidió utilizar un palo para atizar el felpudo.",
+      "back": "He decided to use a stick to beat the doormat.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "¿Oíste a la policía llamando a golpes a la puerta de los vecinos anoche?",
+      "back": "Did you hear the police beating on the neighbour's door last night?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "No me puedo creer el ruido que hacía la policía llamando a su puerta a golpes anoche.",
+      "back": "I can't believe how loudly the police were beating on his door last night.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "Me desperté cuando la policía empezó a llamar a golpes a la puerta de mi vecino.",
+      "back": "I woke up when the police started beating on my neighbour's door.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Ellos eran los que tocaban los tambores.",
+      "back": "They were the ones beating the drums.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "Él era el que tocaba el tambor al final del desfile.",
+      "back": "He was the one beating the drum at the back of the parade.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Ella era la que tocaba el tambor a la cabeza del desfile.",
+      "back": "She was the one beating the drum at the front of the parade.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Él aporreó la pared con la cabeza cuando se enteró de la noticia.",
+      "back": "He beat his head against the wall when he found out the news.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Él aporreó la pared con las manos cuando se enteró de lo que había pasado.",
+      "back": "He beat his hands against the wall when he heard what had happened.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "Él aporreó la pared con el puño cuando le dieron la noticia.",
+      "back": "He beat his fist against the wall when they told him the news.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "¡Dejad de golpear las mesas!",
+      "back": "Stop beating on the tables!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "Él golpeó la mesa con los puños cuando dio una respuesta incorrecta.",
+      "back": "He beat the table with his fists when he said the wrong answer.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Ella aporreó la mesa con las manos cuando le dijeron que se había equivocado.",
+      "back": "She beat her hands on the table when she was told she had got it wrong.",
+      "sourcePage": 26
+    }
+  ]
+}
