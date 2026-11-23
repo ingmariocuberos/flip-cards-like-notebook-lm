@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-77",
+  "bookTitle": "Libro 77",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Suelo llevar un maletín.",
+      "back": "I usually carry a briefcase.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Suelo llevar una maleta.",
+      "back": "I usually carry a suitcase.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Suelo llevar un bolso.",
+      "back": "I usually carry a handbag.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Llevo un maletín en todo momento.",
+      "back": "I carry a briefcase at all times.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Llevo una maleta en todo momento.",
+      "back": "I carry a suitcase at all times.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Llevo un bolso en todo momento.",
+      "back": "I carry a handbag at all times.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Lo llevas en la mano izquierda?",
+      "back": "Do you carry it in your left hand?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Lo llevas en la mano derecha?",
+      "back": "Do you carry it in your right hand?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Lo suele llevar él en la mano derecha o en la mano izquierda?",
+      "back": "Does he usually carry it in his right hand or his left hand?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Él lleva un móvil en su maletín.",
+      "back": "He carries a mobile in his briefcase.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella lleva una muda en su maleta.",
+      "back": "She carries a change of clothes in her suitcase.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Ella lleva un espejito en su bolso.",
+      "back": "She carries a small mirror in her handbag.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Lo lleva con él en todo momento.",
+      "back": "He carries it with him at all times.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Lucy lleva un espejo con ella en todo momento.",
+      "back": "Lucy carries a mirror with her at all times.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Lleva un cambio de ropa con él en todo momento. ¡Qué tipo más raro!",
+      "back": "He carries a change of clothes with him at all times. What a weirdo!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Llévatelo contigo.",
+      "back": "Carry it with you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Llévate el paquete contigo.",
+      "back": "Carry the package with you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Llévate el paquete y la maleta contigo.",
+      "back": "Carry the package and the suitcase with you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "No lo lleves encima.",
+      "back": "Don't carry it on you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "No lleves nada encima.",
+      "back": "Don't carry anything on you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No lleves dinero encima.",
+      "back": "Don't carry any cash on you.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Lleva la compra al coche.",
+      "back": "Carry the shopping to the car.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Por favor, llevad el tocador a la habitación principal.",
+      "back": "Please carry the dressing table to the master bedroom.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "No llevéis nada hasta la primera planta.",
+      "back": "Don't carry anything to the first floor.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Lleva el proyector de la primera planta a la segunda planta.",
+      "back": "Carry the projector from the first floor to the second floor.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Lleva ese escritorio de la segunda planta a la tercera planta.",
+      "back": "Carry that desk from the second floor to the third floor.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Por favor, lleva ese tocador del garaje a la habitación de invitados.",
+      "back": "Please carry that dressing table from the garage to the guest bedroom.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Llévame el bolso.",
+      "back": "Carry my handbag for me.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Lleva la mochila por ella.",
+      "back": "Carry her schoolbag for her.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Por favor, llévame ese proyector a la segunda planta.",
+      "back": "Please carry that projector to the second floor for me.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Lleva a tus amigos a la fiesta.",
+      "back": "Bring your friends to the party.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Lleva a tu perro al parque.",
+      "back": "Bring your dog to the park.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Lleva a tus hijos al parque infantil.",
+      "back": "Bring your kids to the playground.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Sam lleva las velas.",
+      "back": "Sam is bringing the candles.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Lleva Sian el queso?",
+      "back": "Is Sian bringing the cheese?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Sí, y ella lleva las galletas saladas también.",
+      "back": "Yes, and she's bringing the crackers too.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Por qué está llevando Holly esa caja?",
+      "back": "Why is Holly carrying that box?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Edwina está llevando un bebé en los brazos?",
+      "back": "Is Edwina carrying a baby in her arms?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Por qué está llevando ella esa almohada en los brazos?",
+      "back": "Why is she carrying that pillow in her arms?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "No puedo llevar esa caja. Pesa demasiado.",
+      "back": "I can't carry that box. It's too heavy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Edwina no puede llevar ese paquete en los brazos. Pesa demasiado.",
+      "back": "Edwina can't carry that package in her arms. It's too heavy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Nadie lo puede llevar. Pesa demasiado.",
+      "back": "No one can carry it. It's too heavy.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "El bebé es demasiado grande como para llevarlo.",
+      "back": "The baby is too big to carry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Ese tocador es demasiado pesado como para que yo lo lleve.",
+      "back": "That dressing table is too heavy for me to carry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Ese proyector es demasiado pesado como para que ella lo lleve.",
+      "back": "That projector is too heavy for her to carry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Te llevo eso.",
+      "back": "I'll carry that for you.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Tom te llevará eso arriba.",
+      "back": "Tom'll carry that upstairs for you.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Le llevaremos esos comestibles al coche, señora.",
+      "back": "We'll carry those groceries to your car for you, madam.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Déjame llevarte eso, no me importa.",
+      "back": "Let me carry it for you, I don't mind.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Déjeme llevarle la compra arriba, señora Brown, no me importa.",
+      "back": "Let me carry the shopping upstairs for you Mrs. Brown, I don't mind.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Déjeme llevarle esos comestibles, señor.",
+      "back": "Allow me to carry those groceries for you, sir.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Quieres que te lo lleve?",
+      "back": "Do you want me to carry it for you?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Quieres que te lleve algo al coche?",
+      "back": "Do you want me to carry anything to the car for you?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Quieres que te lleve la ropa sucia abajo?",
+      "back": "Do you want me to carry the laundry downstairs?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "No me importa llevarlo, no pesa mucho.",
+      "back": "I don't mind carrying it, it isn't heavy.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "No nos importa llevarte la compra al ascensor, no pesa.",
+      "back": "We don't mind carrying the shopping to the elevator for you, it's light.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Por supuesto que no me importa llevarte la caja, no pesa nada.",
+      "back": "Of course I don't mind carrying the box for you, it's as light as a feather.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Déjame llevarte esas bolsas, ¡no es ningún problema!",
+      "back": "Let me carry those bags for you, it's no trouble!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Quieres que te lleve el equipaje? ¡No es ningún problema!",
+      "back": "Do you want me to carry your luggage for you? It's no trouble!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "No me importa llevártelo, ¡no es ningún problema en absoluto!",
+      "back": "I don't mind carrying it for you. It's no trouble at all!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "No puedes llevar eso a bordo del avión.",
+      "back": "You can't carry that on the plane.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Por qué no lo puedo llevar a bordo del avión?",
+      "back": "Why can't I carry it on the plane?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Lo siento, señor, no puede llevar más de diez kilos a bordo del avión.",
+      "back": "Sorry, sir, you can't carry more than ten kilos on the plane.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "No puedo llevar el bolso a bordo porque tiene exceso de peso.",
+      "back": "I can't carry the bag on board because it's overweight.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "La azafata dice que no puedo llevarlo a bordo porque pesa demasiado.",
+      "back": "The flight attendant says I can't carry it on board because it's too heavy.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Por qué no puedo llevarlo a bordo? Porque pesa demasiado, señor.",
+      "back": "Why can't I carry it on board? Because it weighs too much, sir.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Tienes equipaje de mano?",
+      "back": "Do you have any carry-on baggage?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Sí, tengo un poco de equipaje de mano.",
+      "back": "Yes, I have some carry-on baggage.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Su equipaje de mano pesa demasiado, señora.",
+      "back": "Your carry-on baggage weighs too much, madam.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Sólo tengo equipaje de mano.",
+      "back": "I only have hand luggage.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Puedo llevar este equipaje de mano a bordo?",
+      "back": "Can I carry this hand luggage on board?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Tienes que facturar un bolso? No, solamente tengo equipaje de mano.",
+      "back": "Do you have to check in a bag? No, I only have hand luggage.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Solamente tengo equipaje de mano y no pesa mucho.",
+      "back": "I only have carry-on and it doesn't weigh much.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "La azafata dice que mi equipaje de mano pesa demasiado.",
+      "back": "The air hostess says my carry-on weighs too much.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Espero que mi equipaje de mano no tenga exceso de peso.",
+      "back": "I hope my carry-on isn't overweight.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "No pares. ¡Sigue!",
+      "back": "Don't stop. Carry on!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "¡Buen trabajo! ¡Sigue!",
+      "back": "Good work! Carry on!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Lo estás haciendo bien. ¡Sigue!",
+      "back": "You're doing well. Carry on!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Sigue leyendo este libro.",
+      "back": "Carry on reading this book.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Voy a seguir estudiando los verbos.",
+      "back": "I'm going to carry on studying the verbs.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Sigue escribiendo hasta que termines el primer capítulo.",
+      "back": "Carry on writing until you finish the first chapter.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Dile a ella que siga leyendo hasta que termine el capítulo.",
+      "back": "Tell her to carry on reading until she finishes the chapter.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Dile al equipo que siga trabajando hasta que termine el primer borrador.",
+      "back": "Tell the team to carry on working until they finish the first draft.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Diles a ellos que sigan repasándolo hasta que sea perfecto.",
+      "back": "Tell them to carry on reviewing it until it's perfect.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Sigue con el proyecto.",
+      "back": "Carry on with the project.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Sigue con el primer borrador hasta que sea perfecto.",
+      "back": "Carry on with the first draft until it's perfect.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Sigue con tu trabajo. ¡Lo estás haciendo bien!",
+      "back": "Carry on with your work. You're doing well!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Tenemos que seguir repasando el libro.",
+      "back": "We have to carry on reviewing the book.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Tenemos que seguir con el plan.",
+      "back": "We have to carry on with the plan.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Tenemos que seguir con esto? ¡No lo estamos haciendo bien!",
+      "back": "Do we have to carry on with this? We're not doing well!",
+      "sourcePage": 12
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-77",
+  "bookTitle": "Libro 77",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Lo llevaron desde un sitio menos elevado a un sitio más elevado.",
+      "back": "They carried it from low ground to high ground.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "¿Por qué llevaron sus pertenencias desde un sitio menos elevado a un sitio más elevado?",
+      "back": "Why did they carry their possessions from low ground to high ground?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Las llevaron desde un sitio menos elevado a un sitio más elevado porque hubo una inundación.",
+      "back": "They carried them from low ground to high ground because there was a flood.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Cuando vi a Caroline salir, llevaba la basura con ella.",
+      "back": "When I saw Caroline go out, she was carrying the trash with her.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Cuando vi a James bajar al piso de abajo, llevaba tu maleta con él.",
+      "back": "When I saw James go downstairs, he was carrying your suitcase with him.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Cuando vi a mi padre, llevaba su maletín con él.",
+      "back": "When I saw my father, he was carrying his briefcase with him.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Se lo llevaron todo al otro lado de la frontera.",
+      "back": "They carried everything across the border.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "¿Se llevaron algo ilegal al otro lado de la frontera?",
+      "back": "Did they carry anything illegal across the border?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Se llevaron cosas ilegales al otro lado de la frontera estatal.",
+      "back": "They carried illegal items across the state border.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Cuando mi hijo era pequeño, siempre llevaba un osito de peluche a todas partes.",
+      "back": "When my son was little, he always carried a teddy bear around.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Siempre llevabas un osito de peluche a todas partes contigo cuando eras pequeño.",
+      "back": "You always carried a teddy around with you when you were little.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "Ella siempre llevaba consigo ese bastón a todas partes.",
+      "back": "She always carried that walking stick around with her.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Cuando mi hijo era pequeño, siempre llevaba un osito de peluche a todas partes. (Usa «would».)",
+      "back": "When my son was little, he would always carry a teddy bear around.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Siempre llevabas un osito de peluche a todas partes cuando eras pequeño. (Usa «would».)",
+      "back": "You would always carry a teddy bear around when you were little.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Ella siempre llevaba consigo ese bastón a todas partes. (Usa «would».)",
+      "back": "She would always carry that walking stick around with her.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "La policía está llevando a cabo una investigación completa.",
+      "back": "The police are carrying out a full investigation.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Estamos llevando a cabo una investigación completa del incidente.",
+      "back": "We're carrying out a full investigation of the incident.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Están llevando a cabo una investigación del incidente?",
+      "back": "Are they carrying out an investigation of the incident?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Tenemos que llevar a cabo más investigaciones.",
+      "back": "We need to carry out more research.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Tenemos que llevar a cabo más investigaciones de la contaminación del aire.",
+      "back": "We need to carry out further research into air pollution.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Los científicos están llevando a cabo más investigaciones sobre la contaminación del aire.",
+      "back": "Scientists are carrying out further research into air pollution.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Espero que la policía ponga en práctica mis recomendaciones.",
+      "back": "I hope the police will carry out my recommendations.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Espero que pongas todas mis recomendaciones en práctica.",
+      "back": "I hope you will carry out all my recommendations.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Gracias por tus recomendaciones, pero necesitamos llevar a cabo más investigaciones.",
+      "back": "Thank you for your recommendations but we need to carry out further research.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "La empresa va a realizar una revisión completa.",
+      "back": "The company is going to carry out a full review.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Necesitamos realizar una revisión completa de los procedimientos.",
+      "back": "We need to carry out a full review of the procedures.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "La policía llevará a cabo una revisión completa de sus procedimientos y una investigación entera del incidente.",
+      "back": "The police will carry out a full review of its procedures and a full investigation of the incident.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Se llevará a cabo una investigación completa antes de julio.",
+      "back": "A full investigation will be carried out before July.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "Se llevarán a cabo más investigaciones antes de que yo haga recomendaciones.",
+      "back": "Further research will be carried out before I make recommendations.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Se llevará a cabo una revisión completa de los procedimientos.",
+      "back": "A full review of procedures will be carried out.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "Esas tuberías llevan agua al tanque.",
+      "back": "Those pipes carry water to the tank.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Esa tubería lleva agua y aquélla lleva gas.",
+      "back": "That pipe carries water and that one carries gas.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Cómo transmiten nuestros nervios señales al cerebro?",
+      "back": "How do our nerves carry signals to the brain?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "El agua es transportada al embalse por esas tuberías.",
+      "back": "The water is carried to the reservoir by those pipes.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "El gas es transportado al otro lado de la frontera por unas tuberías muy largas.",
+      "back": "The gas is carried across the border by very long pipes.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Cómo son transmitidas las señales al cerebro por nuestros nervios?",
+      "back": "How are signals carried by our nerves to the brain?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Los mosquitos transmiten la malaria.",
+      "back": "Mosquitoes carry malaria.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Muchos insectos transmiten enfermedades.",
+      "back": "Many insects carry diseases.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Qué enfermedades transmiten las ratas?",
+      "back": "What diseases do rats carry?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "¿El paludismo se transmite a través de los mosquitos?",
+      "back": "Is malaria carried by mosquitoes?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Qué enfermedades son transmitidas por las ratas?",
+      "back": "What diseases are carried by rats?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Las señales son transmitidas al cerebro por tus nervios?",
+      "back": "Are signals to the brain carried by your nerves?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Las palabras del presidente transmitían mucha esperanza.",
+      "back": "The president's words carried such hope.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "El discurso del presidente transmitía un mensaje positivo.",
+      "back": "The president's speech carried a positive message.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Qué mensaje transmitía su discurso de él?",
+      "back": "What message did his speech carry?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Ella se acaba de incorporar, pero se desenvolvió muy bien en la reunión.",
+      "back": "She's only new but she carried herself well at the meeting.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Se desenvolvió bien la chica nueva en la presentación?",
+      "back": "Did the new girl carry herself well at the presentation?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Estaba nerviosa, pero creo que me desenvolví bien.",
+      "back": "I was nervous but I think I carried myself well.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "Ya sé que Nathan se acaba de incorporar, pero no se desenvuelve bien en las reuniones.",
+      "back": "I know Nathan is only new, but he doesn't carry himself well at meetings.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "John no se desenvuelve bien en esas situaciones.",
+      "back": "John doesn't carry himself well in those situations.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "Clara y Rose no se desenvuelven bien en absoluto.",
+      "back": "Clara and Rose don't carry themselves well at all.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Mantuviste muy bien el tipo hoy.",
+      "back": "You carried yourself with dignity today.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "El funeral fue duro para ella, pero mantuvo el tipo.",
+      "back": "The funeral was difficult for her but she carried herself with dignity.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Aunque todo el mundo la criticó, ella mantuvo el tipo.",
+      "back": "Even though everyone criticized her, she carried herself with dignity.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Siempre hay que mantener la cabeza bien alta.",
+      "back": "You should always carry yourself with pride.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "Es difícil mantener la cabeza bien alta cuando todo el mundo te critica.",
+      "back": "It's difficult to carry yourself with pride when everyone criticizes you.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "No te avergüences. Mantén la cabeza bien alta.",
+      "back": "Don't be ashamed. Carry yourself with pride.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Sus hijos mantuvieron el tipo con una admirable dignidad durante el funeral.",
+      "back": "Her children carried themselves with immense dignity during the funeral.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "No estaba avergonzada. Mantuvo la cabeza bien alta.",
+      "back": "She wasn't ashamed. She carried herself with immense pride.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Se comportaron con un gran orgullo y una inmensa dignidad.",
+      "back": "They carried themselves with immense pride and dignity.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Este ascensor puede cargar mucho peso.",
+      "back": "This elevator can carry a lot of weight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Puede llevar el peso de ocho personas.",
+      "back": "It can carry the weight of eight people.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Puedo llevar un peso de 560 kilos.",
+      "back": "I can carry a weight of 560 kilos.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "He cogido unos kilos de más después de Navidad.",
+      "back": "I'm carrying some extra weight after Christmas.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Siempre gano algo de peso después de las vacaciones.",
+      "back": "I always carry some extra weight after the holidays.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Fíjate en Kieran! Creo que ha cogido algo de peso.",
+      "back": "Look at Kieran! I think he's carrying some extra weight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Parece que estás llevando el peso del mundo sobre tus hombros.",
+      "back": "You look like you're carrying the weight of the world on your shoulders.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "¡Pobre Christopher! Parece que está llevando el peso del mundo sobre sus hombros.",
+      "back": "Poor Christopher! He looks like he's carrying the weight of the world on his shoulders.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "Dicen que Atlas llevaba el peso del mundo sobre sus hombros.",
+      "back": "They say Atlas carried the weight of the world on his shoulders.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "La opinión del alcalde no tiene importancia.",
+      "back": "The mayor's opinion doesn't carry any weight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Su recomendación de él no tiene importancia.",
+      "back": "His recommendation doesn't carry any weight.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Tiene importancia el puesto del alcalde?",
+      "back": "Does the mayor's office carry any weight?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "No le doy importancia a esa teoría.",
+      "back": "That theory doesn't carry any weight with me.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "El alcalde no da importancia a tus investigaciones.",
+      "back": "Your research doesn't carry any weight with the mayor.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "El parlamento no da importancia a tu consejo.",
+      "back": "Your advice doesn't carry any weight with parliament.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Perdone, señor, no vendemos esa marca.",
+      "back": "I'm sorry sir, we don't carry that brand.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Sí, creo que vendemos esa marca.",
+      "back": "Yes, I think we carry that brand.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Disculpa, ¿vendéis algunas otras marcas aparte de las vuestras?",
+      "back": "Excuse me, do you carry any other brands besides your own?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Antes vendíamos ese modelo.",
+      "back": "We used to carry that model.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Creo que antes vendíamos ese modelo, pero han dejado de fabricarlo.",
+      "back": "I think we used to carry that model but it's been discontinued.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "Todas las tiendas vendían esa marca de ropa cuando yo era pequeño.",
+      "back": "Every store used to carry that brand of clothing when I was little.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Fíjate en si Merrison's lo vende.",
+      "back": "Check if Merrison's carries it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Por qué no te fijas en si la otra tienda lo vende?",
+      "back": "Why don't you check if the other store carries it?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Voy a fijarme en si el gran almacén vende algunas otras marcas aparte de las suyas.",
+      "back": "I'm going to check if the department store carries any other brands besides their own.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "Nadie vende esa marca de ropa ya.",
+      "back": "No one carries that brand of clothing anymore.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Nadie vende ese viejo modelo ya. Lo han dejado de fabricar.",
+      "back": "No one carries that old model anymore. It's been discontinued.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "Nadie vende ese móvil ya. Lo comprobé.",
+      "back": "No one carries that mobile anymore. I checked.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Cuál es la mejor compañía de telefonía móvil en España?",
+      "back": "Who's the best mobile carrier in Spain?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Cuál es la mejor compañía de seguros en este país?",
+      "back": "Who's the best insurance carrier in this country?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Por qué no compruebas cuál es la mejor aerolínea?",
+      "back": "Why don't you check who the best air carrier is?",
+      "sourcePage": 26
+    }
+  ]
+}
