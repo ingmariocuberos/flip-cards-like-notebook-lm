@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-85",
+  "bookTitle": "Libro 85",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Siempre lo he amado.",
+      "back": "I've always loved him.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-002",
+      "front": "Él siempre la ha amado.",
+      "back": "He's always loved her.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-003",
+      "front": "Ellos siempre se han amado el uno al otro.",
+      "back": "They've always loved each other.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-004",
+      "front": "Siempre me ha encantado ese conjunto.",
+      "back": "I've always loved that outfit.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-005",
+      "front": "A ella siempre le ha encantado la comida griega.",
+      "back": "She's always loved Greek food.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-006",
+      "front": "A nosotros siempre nos ha encantado ese programa.",
+      "back": "We've always loved that programme.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-007",
+      "front": "¡Siempre le he odiado!",
+      "back": "I've always hated him!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-008",
+      "front": "Ella siempre les ha odiado.",
+      "back": "She's always hated them.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-009",
+      "front": "Ellos siempre se han odiado los unos a los otros.",
+      "back": "They've always hated each other.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-010",
+      "front": "Yo quería que me encantara, pero siempre lo he odiado.",
+      "back": "I wanted to love it but I've always hated it.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-011",
+      "front": "Él quería que le encantara, pero siempre ha odiado el corte de pelo.",
+      "back": "He wanted to love it but he's always hated the hairstyle.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-012",
+      "front": "Ellos querían que les encantara, pero siempre han odiado a la banda.",
+      "back": "They wanted to love it but they've always hated the band.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-013",
+      "front": "Siempre me ha encantado el grupo musical, pero siempre he odiado esa canción.",
+      "back": "I've always loved the band but I've always hated that song.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-014",
+      "front": "Siempre nos ha encantado la comida griega, pero siempre hemos odiado ese restaurante.",
+      "back": "We've always loved Greek food but we've always hated that restaurant.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-015",
+      "front": "Ella siempre le ha amado, pero desgraciadamente, él siempre la ha odiado a ella.",
+      "back": "She's always loved him, but unfortunately, he's always hated her.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-016",
+      "front": "Me encantaba jugar con muñecas cuando era pequeña.",
+      "back": "I loved to play with dolls when I was little.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-017",
+      "front": "A ella le encantaba hacer tartas cuando era niña.",
+      "back": "She loved to bake cakes when she was a child.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-018",
+      "front": "A ellos les encantaba ir al parque cuando eran niños.",
+      "back": "They loved to go to the park when they were children.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-019",
+      "front": "Me encantaba ir a nadar cuando estaba en el colegio.",
+      "back": "I loved going swimming when I was at school.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-020",
+      "front": "A ellos les encantaba ver dibujos animados cuando estaban en primaria.",
+      "back": "They loved watching cartoons when they were at primary school.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-021",
+      "front": "A él le encantaba jugar al fútbol cuando estaba en secundaria.",
+      "back": "He loved playing football when he was at secondary school.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-022",
+      "front": "Yo odiaba hacer los deberes cuando estaba en el colegio.",
+      "back": "I hated doing my homework when I was at school.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella odiaba estudiar Empresariales en la universidad.",
+      "back": "She hated studying business at university.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-024",
+      "front": "Odiábamos limpiar nuestro cuarto cuando éramos niños.",
+      "back": "We hated tidying our rooms when we were children.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-025",
+      "front": "Me encantaba aprender inglés, pero odiaba hacer mis deberes.",
+      "back": "I loved learning English but hated doing my homework.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-026",
+      "front": "A ella le encantaba ir caminando a la universidad, pero odiaba ir caminando a casa.",
+      "back": "She loved walking to uni but hated walking home.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-027",
+      "front": "Ellos odiaban ver las noticias en la tele cuando eran pequeños, pero les encantaba ver dibujos en la tele.",
+      "back": "They hated watching the news when they were little but loved watching cartoons.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-028",
+      "front": "No me apasionaba ir al colegio cuando era pequeño, pero no me importaba hacerlo.",
+      "back": "I didn't love going to school when I was little, but I didn't mind it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-029",
+      "front": "A ella no le apasionaba estudiar Ingeniería en la universidad, pero no le importaba hacerlo.",
+      "back": "She didn't love studying engineering at uni, but she didn't mind it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-030",
+      "front": "No les apasionaba hacer los deberes cuando estaban en el colegio, pero no les importaba hacerlo.",
+      "back": "They didn't love doing their homework when they were at school, but they didn't mind it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-031",
+      "front": "Me encantaría una copa de vino.",
+      "back": "I'd love a glass of wine.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-032",
+      "front": "Me encantaría una cerveza fría.",
+      "back": "I'd love a cold beer.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-033",
+      "front": "Me encantaría una copa de vino tinto ahora mismo.",
+      "back": "I'd love a glass of red wine right now.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-034",
+      "front": "Lo que realmente me encantaría es una bebida fría.",
+      "back": "What I'd really love is a cold drink.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-035",
+      "front": "Lo que realmente me encantaría es una taza de café.",
+      "back": "What I'd really love is a cup of coffee.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-036",
+      "front": "Lo que realmente me encantaría es una buena taza de té.",
+      "back": "What I'd really love right now is a nice cup of tea.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Querrías una chocolatina? ¡Me encantaría una!",
+      "back": "Would you like a chocolate? I'd love one!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Querrías un refresco? ¡Me encantaría uno!",
+      "back": "Would you like a drink? I'd love one!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Querrías un sándwich? ¡Me encantaría uno!",
+      "back": "Would you like a sandwich? I'd love one!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Te gustaría ir? ¡Me encantaría ir!",
+      "back": "Would you like to go? I'd love to go!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Te gustaría venir también? ¡Me encantaría venir también!",
+      "back": "Would you like to come too? I'd love to come too!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Te gustaría acompañarnos? ¡Me encantaría acompañaros!",
+      "back": "Would you like to join us? I'd love to join you!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-043",
+      "front": "Me encantaría una, pero no puedo.",
+      "back": "I'd love one but I can't.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-044",
+      "front": "Me encantaría una, pero no debería.",
+      "back": "I'd love one but I shouldn't.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-045",
+      "front": "Me encantaría uno, pero más vale que no coja ninguno.",
+      "back": "I'd love one but I'd better not.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-046",
+      "front": "Anna y Ryan se conocieron en una fiesta. ¡Fue amor a primera vista!",
+      "back": "Anna and Ryan met at a party. It was love at first sight!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Sarah y Patrick se conocieron a través de amigos. No fue amor a primera vista.",
+      "back": "Sarah and Patrick met through friends. It wasn't love at first sight.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Gina y Gavin se conocieron en el trabajo. Sin duda, no fue amor a primera vista.",
+      "back": "Gina and Gavin met at work. It certainly wasn't love at first sight.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Anna y Ryan se enamoraron de inmediato.",
+      "back": "Anna and Ryan fell in love instantly.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Sarah y Patrick se enamoraron rápido.",
+      "back": "Sarah and Patrick fell in love quickly.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Gina y Gavin se enamoraron de forma muy paulatina.",
+      "back": "Gina and Gavin fell in love very gradually.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Estaban locamente enamorados.",
+      "back": "They were head over heels in love.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-053",
+      "front": "Los dos estaban locamente enamorados.",
+      "back": "Both of them were head over heels in love.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-054",
+      "front": "No estaban locamente enamorados exactamente.",
+      "back": "They weren't exactly head over heels in love.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-055",
+      "front": "Anna le dijo a Ryan que estaba enamorada de otro.",
+      "back": "Anna told Ryan that she was in love with someone else.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-056",
+      "front": "Patrick le dijo a Sarah que ya no estaba enamorado de ella.",
+      "back": "Patrick told Sarah that he wasn't in love with her anymore.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-057",
+      "front": "Gavin se dio cuenta de que quería a Gina pero que no estaba enamorado de ella.",
+      "back": "Gavin realized that he loved Gina but he wasn't in love with her.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-058",
+      "front": "Anna le dijo que se había desenamorado de él.",
+      "back": "Anna told him that she had fallen out of love with him.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-059",
+      "front": "Patrick tuvo que decirle a Sarah que se había desenamorado de ella.",
+      "back": "Patrick had to tell Sarah that he had fallen out of love with her.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-060",
+      "front": "Gavin le confesó a Gina que se había desenamorado de ella.",
+      "back": "Gavin confessed to Gina that he had fallen out of love with her.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-061",
+      "front": "Ella fue el gran amor de su vida de él.",
+      "back": "She was the great love of his life.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Él no fue el gran amor de su vida de ella.",
+      "back": "He wasn't her great love.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "Su gran amor de ella siempre ha sido su trabajo.",
+      "back": "Her great love has always been her work.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-064",
+      "front": "Él fue su amor verdadero.",
+      "back": "He was her true love.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-065",
+      "front": "Él no cree que exista el amor verdadero.",
+      "back": "He doesn't think true love exists.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-066",
+      "front": "Ella está buscando a su amor verdadero.",
+      "back": "She's looking for her true love.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Qué tal va tu vida amorosa pues?",
+      "back": "How's the love life, then?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "¡¿Que qué tal va mi vida amorosa?!",
+      "back": "How's my love life?!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "¡Mi vida amorosa es inexistente!",
+      "back": "My love life's non-existent!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "¡Parece ser que están teniendo una aventura!",
+      "back": "Apparently, they're having an affair!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Cómo sabes que están teniendo una aventura?",
+      "back": "How do you know they're having an affair?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "¡Todo el mundo sabe que están teniendo una aventura!",
+      "back": "Everyone knows that they're having an affair!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-073",
+      "front": "Tengo una relación de amor-odio con el chocolate.",
+      "back": "I have a love-hate relationship with chocolate.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-074",
+      "front": "Ella tiene una relación de verdadero amor-odio con su madre.",
+      "back": "She has a real love-hate relationship with her mother.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-075",
+      "front": "Ellos tienen una relación de verdadero amor-odio.",
+      "back": "They have a real love-hate relationship.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-076",
+      "front": "Espero verte pronto. Un abrazo, Tom.",
+      "back": "I hope to see you soon. Take care, Tom.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "Espero verte pronto. Un abrazo, Emma.",
+      "back": "Hope to see you soon. Take care, Emma.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "Espero verte muy pronto. Un abrazo, Nina.",
+      "back": "Really hope to see you soon. Take care, Nina.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-079",
+      "front": "Estoy ilusionado por verte. Con cariño, Tina.",
+      "back": "I look forward to seeing you. Love, Tina.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-080",
+      "front": "Tengo ganas de verte pronto. Con cariño, Anna.",
+      "back": "Looking forward to seeing you soon. Love from Anna.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-081",
+      "front": "Tengo muchas ganas de verte. Con mucho cariño, Amy.",
+      "back": "Really looking forward to seeing you. Lots of love, Amy.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-082",
+      "front": "Quedemos la semana que viene. Besos, Nicky.",
+      "back": "Let's meet up next week. Nicky x",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Pongámonos al día la semana que viene. Besitos, Laura.",
+      "back": "Let's catch up next week. Laura xx",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "Quedemos la semana que viene. Un beso, Gemma.",
+      "back": "Let's get together next week. Gemma xxx",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Mándale a Matt recuerdos míos.",
+      "back": "Give Matt my love.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Mándale a ella recuerdos nuestros.",
+      "back": "Give her our love.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "Mándales recuerdos nuestros cuando los veáis.",
+      "back": "Give them our love when you see them.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-088",
+      "front": "Paul te manda recuerdos.",
+      "back": "Paul sends you his love.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-089",
+      "front": "Mis padres te mandan recuerdos.",
+      "back": "My parents send you their love.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-090",
+      "front": "Os mandan recuerdos.",
+      "back": "They send everyone their love.",
+      "sourcePage": 45
+    }
+  ]
+}

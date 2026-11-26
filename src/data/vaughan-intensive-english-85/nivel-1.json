@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-85",
+  "bookTitle": "Libro 85",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Quiero a mis padres.",
+      "back": "I love my parents.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-002",
+      "front": "Quieren a sus abuelos.",
+      "back": "They love their grandparents.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-003",
+      "front": "Los queremos.",
+      "back": "We love them.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-004",
+      "front": "El día de San Valentín me encanta.",
+      "back": "I love Valentine's Day.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-005",
+      "front": "¡Su nuevo coche les encanta!",
+      "back": "They love their new car!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-006",
+      "front": "Nos encanta.",
+      "back": "We love it.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-007",
+      "front": "Ella quiere mucho a su familia.",
+      "back": "She really loves her family.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-008",
+      "front": "Él quiere mucho a su nuevo profesor de inglés.",
+      "back": "He really loves his new English teacher.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-009",
+      "front": "Ella le quiere mucho.",
+      "back": "She really loves him.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-010",
+      "front": "A él le encanta el día de San Valentín.",
+      "back": "He really loves Valentine's Day.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-011",
+      "front": "¡A ella le encanta ese vestido!",
+      "back": "She really loves that dress!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-012",
+      "front": "A él le encanta.",
+      "back": "He really loves it.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Te gusta esto? Sí, ¡me encanta!",
+      "back": "Do you like this? Yes, I love it!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Te gusta tu nuevo profesor de inglés? Sí, ¡me encanta!",
+      "back": "Do you like your new English teacher? Yes, I love him!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Te gustan estos libros? Sí, ¡me encantan!",
+      "back": "Do you like these books? Yes, I really love them!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-016",
+      "front": "¡Odio a mi hermano!",
+      "back": "I hate my brother!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-017",
+      "front": "Odian a su vecino.",
+      "back": "They hate their neighbour.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-018",
+      "front": "Le odiamos.",
+      "back": "We hate him.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-019",
+      "front": "Odio el queso.",
+      "back": "I hate cheese.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-020",
+      "front": "Odian el golf.",
+      "back": "They hate golf.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-021",
+      "front": "Lo odiamos.",
+      "back": "We hate it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-022",
+      "front": "Ella odia a su nuevo jefe.",
+      "back": "She really hates her new boss.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella odia al novio de su amigo.",
+      "back": "She really hates her friend's boyfriend.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-024",
+      "front": "Él la odia a ella.",
+      "back": "He really hates her.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-025",
+      "front": "Él odia ese programa.",
+      "back": "He really hates that programme.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-026",
+      "front": "Él odia su nueva escuela.",
+      "back": "He really hates his new school.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella lo odia.",
+      "back": "She really hates it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Te gusta el tenis? No, ¡lo odio!",
+      "back": "Do you like tennis? No, I hate it!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Te gusta tu trabajo? No, ¡lo odio!",
+      "back": "Do you like your job? No, I hate it!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Te gustan las coles de Bruselas? No, ¡las odio!",
+      "back": "Do you like Brussels sprouts? No, I hate them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-031",
+      "front": "Me encanta cocinar. (Infinitivo)",
+      "back": "I love to cook.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-032",
+      "front": "A mi hermana le encanta hacer repostería. (Infinitivo)",
+      "back": "My sister loves to bake.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-033",
+      "front": "A su hermano de ella le encanta nadar. (Infinitivo)",
+      "back": "Her brother loves to swim.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-034",
+      "front": "Me encanta cocinar. (Gerundio)",
+      "back": "I love cooking.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-035",
+      "front": "A mi hermana le encanta hacer repostería. (Gerundio)",
+      "back": "My sister loves baking.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-036",
+      "front": "A su hermano de ella le encanta nadar. (Gerundio)",
+      "back": "Her brother loves swimming.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-037",
+      "front": "Me encanta cocinar comida italiana.",
+      "back": "I love cooking Italian food.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "A mi hermana le encanta hacer tartas.",
+      "back": "My sister loves baking cakes.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "A su hermano de ella le encanta hacer natación en la piscina.",
+      "back": "Her brother loves swimming in the pool.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Odio limpiar.",
+      "back": "I hate cleaning.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Mi hermana odia lavar los platos.",
+      "back": "My sister hates washing up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Su hermano de ella odia bailar.",
+      "back": "Her brother hates dancing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Odio limpiar la casa.",
+      "back": "I hate cleaning the house.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Mi hermana odia lavar los platos después de la cena.",
+      "back": "My sister hates washing up after dinner.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Su hermano de ella odia bailar en público.",
+      "back": "Her brother hates dancing in public.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Me encanta cuando nieva.",
+      "back": "I love it when it snows.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "A ella le encanta cuando hace sol.",
+      "back": "She loves it when it's sunny.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "Nos encanta cuando hace bueno.",
+      "back": "We love it when it's warm.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Odio cuando llueve.",
+      "back": "I hate it when it rains.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Él odia cuando hace viento.",
+      "back": "He hates it when it's windy.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Ellos odian cuando hace demasiado calor.",
+      "back": "They hate it when it's too hot.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Me encanta cuando salimos a cenar.",
+      "back": "I love it when we go out for dinner.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-053",
+      "front": "A ella le encanta cuando sus hijos están callados.",
+      "back": "She loves it when her children are quiet.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-054",
+      "front": "A ellos les encanta cuando gana su equipo.",
+      "back": "They love it when their team wins.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-055",
+      "front": "Odio cuando llego tarde.",
+      "back": "I hate it when I'm late.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella odia cuando se pelean sus hijos.",
+      "back": "She hates it when her children fight.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-057",
+      "front": "Ellos odian cuando pierde su equipo.",
+      "back": "They hate it when their team loses.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Él odia cuando eso ocurre!",
+      "back": "He hates it when that happens!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-059",
+      "front": "¡Me encanta cuando eso ocurre!",
+      "back": "I love it when that happens!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-060",
+      "front": "¡A ellos les encanta cuando eso ocurre!",
+      "back": "They love it when that happens!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-061",
+      "front": "Odio esa canción, pero a mi amiga le encanta.",
+      "back": "I hate that song but my friend loves it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "Nos encanta ese sitio, pero ellos lo odian.",
+      "back": "We love that place but they hate it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "A ella le encanta, pero yo lo odio.",
+      "back": "She loves it but I hate it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-064",
+      "front": "A ella le gusta su trabajo, pero no tanto.",
+      "back": "She likes her job but she doesn't love it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-065",
+      "front": "A ella le gusta mucho Mark, pero no tanto.",
+      "back": "She really likes Mark but she doesn't love him.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-066",
+      "front": "Me gusta, pero no tanto.",
+      "back": "I like it but I don't love it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-067",
+      "front": "A ella no le gusta su trabajo, pero no lo odia.",
+      "back": "She doesn't like her job but she doesn't hate it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "A él no le gusta Claire, pero no la odia.",
+      "back": "He doesn't like Claire but he doesn't hate her.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "No me gusta, pero no lo odio.",
+      "back": "I don't like it but I don't hate it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "No es que me encante ir al trabajo, pero no me importa.",
+      "back": "I don't love going to work but I don't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "No es que a ella le encante hacer los trabajos domésticos, pero no le importa.",
+      "back": "She doesn't love doing the housework but she doesn't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "No es que me encante, pero no me importa.",
+      "back": "I don't love it but I don't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-073",
+      "front": "No es que me encante cuando llueve, pero no me importa.",
+      "back": "I don't love it when it rains but I don't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-074",
+      "front": "No es que le encante a ella cuando hace viento, pero no le importa.",
+      "back": "She doesn't love it when it's windy but she doesn't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-075",
+      "front": "No es que les encante cuando hace mucho calor, pero no les importa.",
+      "back": "They don't love it when it's very hot but they don't mind it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-076",
+      "front": "Él es encantador.",
+      "back": "He's lovely.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "Ella es una persona verdaderamente encantadora.",
+      "back": "She's a really lovely person.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "¡Qué gente tan encantadora son!",
+      "back": "They're such lovely people!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-079",
+      "front": "Es precioso.",
+      "back": "It's lovely.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-080",
+      "front": "Es una casa verdaderamente preciosa.",
+      "back": "It's a really lovely house.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-081",
+      "front": "¡Qué casa tan preciosa!",
+      "back": "It's such a lovely house!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-082",
+      "front": "Nos comimos una comida riquísima.",
+      "back": "We had a lovely meal.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "Comieron una cena riquísima.",
+      "back": "They had a really lovely dinner.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "¡Qué plato de pescado tan rico que me comí!",
+      "back": "I had such a lovely fish dish!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "¡Pásatelo muy bien!",
+      "back": "Have a lovely time!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "¡Pásatelo genial en Francia!",
+      "back": "Have a really lovely time in France!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "¡Pásatelo muy bien con tu familia!",
+      "back": "Have a lovely time with your family!",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-088",
+      "front": "Encantado de conocerte.",
+      "back": "It's lovely to meet you.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-089",
+      "front": "Encantado de conocerte por fin.",
+      "back": "It's lovely to finally meet you.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-090",
+      "front": "¡Es genial conocerte por fin!",
+      "back": "It's really lovely to meet you at last!",
+      "sourcePage": 17
+    }
+  ]
+}

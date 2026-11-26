@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-85",
+  "bookTitle": "Libro 85",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Me encantaría haber aprendido una lengua extranjera.",
+      "back": "I'd love to have learned a foreign language.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-002",
+      "front": "A ella le encantaría haberse ido a viajar cuando era más joven.",
+      "back": "She'd love to have gone travelling when she was younger.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-003",
+      "front": "A ellos les encantaría haberlo hecho.",
+      "back": "They'd love to have done it.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-004",
+      "front": "Odiaría haber vivido en aquel lugar.",
+      "back": "I'd hate to have lived in that place.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-005",
+      "front": "Ellos odiarían haberles acompañado.",
+      "back": "They'd hate to have gone with them.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-006",
+      "front": "Ella odiaría haberlo hecho.",
+      "back": "She'd hate to have done it.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-007",
+      "front": "Me habría encantado haber aprendido francés cuando estaba en el colegio.",
+      "back": "I'd have loved to have learned French when I was at school.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-008",
+      "front": "Nos habría encantado haber ido contigo.",
+      "back": "We'd have loved to have gone with you.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-009",
+      "front": "Les habría encantado haberlo hecho.",
+      "back": "They'd have loved to have done it.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-010",
+      "front": "Habría odiado haber trabajado ahí.",
+      "back": "I'd have hated to have worked there.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-011",
+      "front": "Ellos habrían odiado haberse ido a viajar con él.",
+      "back": "They'd have hated to have gone travelling with him.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-012",
+      "front": "Ella habría odiado haberlo hecho.",
+      "back": "She'd have hated to have done it.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-013",
+      "front": "Por mucho que me guste, odiaría tener que hacerlo a todas horas.",
+      "back": "As much as I love it, I'd hate to have to do it all the time.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-014",
+      "front": "Por mucho que lo quiera, odiaría tener que vivir con él.",
+      "back": "As much as I love him, I'd hate to have to live with him.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-015",
+      "front": "Por mucho que la odie, odiaría tener que hacerle daño.",
+      "back": "As much as I hate her, I'd hate to have to hurt her.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-016",
+      "front": "Él dejó su trabajo en el centro de la ciudad. Ahora está totalmente entregado a su familia.",
+      "back": "He left his job in the city. Now he's devoted to his family.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-017",
+      "front": "Ella no está buscando marido. Está completamente entregada a su trabajo.",
+      "back": "She's not looking for a husband. She's completely devoted to her job.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-018",
+      "front": "Él no iba a asentar la cabeza con su novia, pero ahora está totalmente entregado a ella.",
+      "back": "He wasn't going to settle down with his girlfriend but now he's absolutely devoted to her.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-019",
+      "front": "Ella adora a su novio. No se cansa de él.",
+      "back": "She worships her boyfriend. She can't get enough of him.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-020",
+      "front": "Él adora el suelo por donde ella pisa. No se cansa de ella.",
+      "back": "He worships the ground she walks on. He can't get enough of her.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-021",
+      "front": "Él realmente la adora. Cree que ella es el regalo de Dios a la Tierra.",
+      "back": "He absolutely worships her. He thinks she's God's gift to Earth.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-022",
+      "front": "Guardo como un tesoro su recuerdo de él.",
+      "back": "I cherish his memory.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-023",
+      "front": "Él atesora todos los momentos que pasan juntos como si fueran los últimos.",
+      "back": "He cherishes every moment they spend together like it's the last.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella realmente atesora cada momento que tienen juntos como si fuera el último.",
+      "back": "She absolutely cherishes each moment they have together like it's the last.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-025",
+      "front": "Él tiene predilección por su mujer. Es su ojito derecho.",
+      "back": "He dotes on his wife. She's the apple of his eye.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-026",
+      "front": "Ella tiene a su familia muy consentida. Son su ojito derecho.",
+      "back": "She dotes on her family. They're the apple of her eye.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-027",
+      "front": "Se miman el uno al otro muchísimo.",
+      "back": "They absolutely dote on each other.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-028",
+      "front": "Él está embelesado con su novia nueva. Adora el suelo por donde ella pisa.",
+      "back": "He's smitten with his new girlfriend. He worships the ground she walks on.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-029",
+      "front": "Están encandilados el uno con el otro. Están totalmente entregados a su relación.",
+      "back": "They're smitten with each other. They're absolutely devoted to their relationship.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-030",
+      "front": "Están totalmente embelesados con su nuevo bebé. No pueden evitar mimarla.",
+      "back": "They're absolutely smitten with their new baby. They can't help doting on her.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-031",
+      "front": "Me desagrada todo acerca de él.",
+      "back": "I dislike everything about him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-032",
+      "front": "Ella dice que le desagrada todo acerca de su trabajo.",
+      "back": "She says she dislikes everything about her job.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-033",
+      "front": "A ellos les desagrada la manera en la que se dirige su empresa.",
+      "back": "They dislike the way their company is run.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-034",
+      "front": "¡Detesto la manera en la que él siempre hace eso!",
+      "back": "I loathe the way he always does that!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-035",
+      "front": "Ella detesta sinceramente todo acerca de él.",
+      "back": "She absolutely loathes everything about him.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-036",
+      "front": "Detestamos cómo ella trata con la gente.",
+      "back": "We loathe how she deals with people.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-037",
+      "front": "Detesto ir al trabajo el lunes por la mañana.",
+      "back": "I detest going to work on a Monday morning.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-038",
+      "front": "¡Detesto sinceramente trabajar para ese hombre!",
+      "back": "I absolutely detest working for that man!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-039",
+      "front": "Ella detesta la manera en la que él habla con la gente.",
+      "back": "She detests the way he speaks to people.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-040",
+      "front": "Aborrecemos su comportamiento reciente.",
+      "back": "We despise his recent behavior.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-041",
+      "front": "Yo aborrezco sinceramente la manera en la que él trata con la gente.",
+      "back": "I absolutely despise the way he deals with people.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-042",
+      "front": "Ella aborrece sus modos condescendientes.",
+      "back": "She despises his patronizing manner.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-043",
+      "front": "Aborrezco ese tipo de comportamiento.",
+      "back": "I abhor this type of behavior.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-044",
+      "front": "Él aborrece su actitud condescendiente de ellos.",
+      "back": "He abhors their condescending attitude.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-045",
+      "front": "Aborrecemos sinceramente lo que ha estado sucediendo.",
+      "back": "We absolutely abhor what's been going on.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-046",
+      "front": "No te disgustes. Él me aseguró que era una relación de amigos.",
+      "back": "Don't get upset. He assured me it was platonic.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "No dejes que te afecte. Su amistad es una relación completamente de amigos.",
+      "back": "Don't let it get to you. Their friendship is completely platonic.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "Yo que tú no dejaría que me afectara. Estoy segura de que es sólo una relación de amigos.",
+      "back": "I wouldn't let it bother me. I'm sure it's just platonic.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "No es como para disgustarse. Estoy segura de que es un caso de amor no correspondido.",
+      "back": "It's not worth getting upset about. I'm sure it's a case of unrequited love.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "Yo que tú no dejaría que me afectara. Su amor claramente no es correspondido.",
+      "back": "I really wouldn't let it get to you. Her love's clearly unrequited.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "No dejes que te disguste. Probablemente sea un caso de amor no correspondido.",
+      "back": "Don't get too upset about it. It's probably a case of unrequited love.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "No te disgustes. Es sólo una riña de novios.",
+      "back": "Don't get upset. It's just a lovers' tiff.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-053",
+      "front": "No dejes que te moleste. Probablemente sólo sea una riña de novios.",
+      "back": "Don't let it bother you. It's probably just a lovers' tiff.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-054",
+      "front": "No merece la pena preocuparse por ello. Estoy segura de que sólo es una riña de novios.",
+      "back": "It's not worth worrying about. I'm sure it's just a lovers' tiff.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-055",
+      "front": "No dejes que te afecte. Todo el mundo tiene michelines.",
+      "back": "Don't let it get to you. Everyone has love handles.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-056",
+      "front": "No dejes que te moleste. Me encantan tus michelines.",
+      "back": "Don't let it bother you. I love your love handles.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-057",
+      "front": "No merece la pena preocuparse sobre ello. Simplemente son michelines.",
+      "back": "It's not worth worrying about. They're just love handles.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-058",
+      "front": "Sé que no debería dejar que me moleste, pero es una manía.",
+      "back": "I know I shouldn't let it bother me, but it's a pet hate.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-059",
+      "front": "Sé que no merece la pena disgustarse por ello, pero es una manía que tengo.",
+      "back": "I know it's not worth getting upset about, but it's really a pet hate.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-060",
+      "front": "Sé que es ridículo dejar que me afecte, pero es una manía que tengo.",
+      "back": "I know it's ridiculous to let it get to me, but it's a real pet hate of mine.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-061",
+      "front": "No me complace decirlo, pero ha sido un gran error.",
+      "back": "I hate to say it, but it was a massive mistake.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "No me complace decirlo, pero ya te avisé.",
+      "back": "I hate to say it, but I did warn you.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-063",
+      "front": "No me complace decirlo, pero ya te lo dije.",
+      "back": "I hate to say it, but I told you so.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-064",
+      "front": "No me complace decepcionarte, pero ya he hecho planes.",
+      "back": "I hate to let you down, but I've already made plans.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-065",
+      "front": "No me complace decepcionarte, pero tengo un compromiso y no puedo cancelarlo.",
+      "back": "I hate to let you down, but I can't get out of it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-066",
+      "front": "No me complace decepcionarte, pero no hay manera en la que pueda estar.",
+      "back": "I hate to let you down, but there's no way I can make it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-067",
+      "front": "No me complace darte la mala noticia, pero ella no está tan interesada en ti.",
+      "back": "I hate to break it to you, but she's not that interested in you.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "No me complace darte la mala noticia, pero ella se está metiendo contigo.",
+      "back": "I hate to break it to you, but she's messing you around.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "No me complace darte la mala noticia, pero no va a ocurrir nunca.",
+      "back": "I hate to break it to you, but it's never going to happen.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "Odio ser el portador de malas noticias, pero no vamos a poder ir adelante.",
+      "back": "I hate to be the bearer of bad news, but we're not going to be able to go ahead.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Odio ser el portador de malas noticias, pero no hay manera en la que podamos estar.",
+      "back": "I hate to be the bearer of bad news, but there's no way we can make it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-072",
+      "front": "Odio ser el portador de malas noticias, pero tengo un compromiso ineludible.",
+      "back": "I hate to be the bearer of bad news, but I can't get out of it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-073",
+      "front": "Odio ser el que lo diga, pero ya te lo dije.",
+      "back": "I hate to be the one to say it, but I told you so.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-074",
+      "front": "Odio ser el que te decepcione, pero tengo un compromiso y no puedo cancelarlo.",
+      "back": "I hate to be the one to let you down, but I can't get out of it.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-075",
+      "front": "Odio ser el que te dé la mala noticia, pero ella se está metiendo contigo.",
+      "back": "I hate to be the one to break it to you, but she's messing you around.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-076",
+      "front": "No pude conseguir uno ni por todo el oro del mundo.",
+      "back": "I couldn't get one for love nor money.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "No pude conseguir uno de ésos ni por todo el oro del mundo.",
+      "back": "I couldn't get hold of one of those for love nor money.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-078",
+      "front": "No se puede conseguir uno de ésos ni por todo el oro del mundo.",
+      "back": "You can't get hold of one of those for love nor money.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-079",
+      "front": "Son hermanos, pero no hay amor que puedan perder entre ellos.",
+      "back": "They're brothers but there's no love lost between them.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-080",
+      "front": "Sin duda, no hay amor que perder entre él y su jefa.",
+      "back": "There's definitely no love lost between him and his boss.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-081",
+      "front": "Nunca se han llevado bien. No hay amor perdido entre ellos.",
+      "back": "They've never got on. There's no love lost between them.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-082",
+      "front": "No estoy de acuerdo con lo que él hizo, pero supongo que en la guerra como en el amor, todo vale.",
+      "back": "I don't agree with what he did, but all is fair in love and war, I suppose.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "No le apoyo a él, pero en la guerra como en el amor, todo vale.",
+      "back": "I'm not on his side, but all's fair in love and war.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "No estoy tomando partido por él, pero dicen que en la guerra como en el amor, todo vale.",
+      "back": "I'm not taking his side, but they say all is fair in love and war.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "Me temo que me tendré que pirar.",
+      "back": "I'll have to love you and leave you I'm afraid.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "Odio tener que pirarme, pero me tengo que ir.",
+      "back": "I hate to have to love you and leave you, but I've got to go.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-087",
+      "front": "Odio tener que pirarme, pero más vale que me vaya.",
+      "back": "I hate to love you and leave you, but I'd better be off.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-088",
+      "front": "Quedar con ella es muy deprimente, pero a la miseria le encanta la compañía, supongo.",
+      "back": "Meeting her is so depressing, but misery loves company, I suppose.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-089",
+      "front": "Ella siempre me deprime, pero a la miseria le encanta la compañía, supongo.",
+      "back": "She always brings me down, but misery loves company, I suppose.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-090",
+      "front": "Odio quedar con ellos, pero es cierto que dicen que a la miseria le encanta la compañía.",
+      "back": "I hate meeting them, but they do say that misery loves company.",
+      "sourcePage": 73
+    }
+  ]
+}
