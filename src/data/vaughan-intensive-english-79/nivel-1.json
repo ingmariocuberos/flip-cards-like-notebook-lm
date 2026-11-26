@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-79",
+  "bookTitle": "Libro 79",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Siempre elijo vino tinto.",
+      "back": "I always pick red wine.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Siempre eliges vino blanco.",
+      "back": "You always pick white wine.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Siempre eligen vino rosado.",
+      "back": "They always pick rosé.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "No suelo elegir el vino de la casa.",
+      "back": "I don't usually pick the house wine.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "No suelo elegir el especial de la casa.",
+      "back": "I don't usually pick the house special.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Brian no suele elegir bistec.",
+      "back": "Brian doesn't usually pick steak.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Él siempre elige el vino de la casa porque es su favorito.",
+      "back": "He always picks the house wine because it's his favourite.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Liam siempre elige bistec porque es su favorito.",
+      "back": "Liam always picks steak because it's his favourite.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Diane siempre elige el especial de la casa porque es su favorito.",
+      "back": "Diane always picks the house special because it's her favourite.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Tengo que elegir?",
+      "back": "Do I have to pick?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Tengo que elegir el vino?",
+      "back": "Do I have to pick the wine?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Tenemos que elegir el restaurante?",
+      "back": "Do we have to pick the restaurant?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Liam tiene que elegir el vino.",
+      "back": "Liam has to pick the wine.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Él siempre tiene que elegir el restaurante.",
+      "back": "He always has to pick the restaurant.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Brian siempre tiene que elegir su favorito.",
+      "back": "Brian always has to pick his favourite.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Siempre elijo ropa negra.",
+      "back": "I always choose black clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Siempre elijo ropa marrón.",
+      "back": "I always choose brown clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Siempre elijo el vino de la casa.",
+      "back": "I always choose the house wine.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Ella elige ropa marrón todas las veces.",
+      "back": "She chooses brown clothes every time.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Helen elige un filete todas las veces.",
+      "back": "Helen chooses steak every time.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Él elige el mismo restaurante todas las veces.",
+      "back": "He chooses the same restaurant every time.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Suelen elegir ropa negra antes que ropa marrón.",
+      "back": "They usually choose black clothes over brown clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Katie siempre elige chicos apuestos antes que chicos simpáticos.",
+      "back": "Katie always chooses handsome guys over nice guys.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Ella elige chicos apuestos antes que chicos simpáticos todas las veces.",
+      "back": "She chooses handsome guys over nice guys every time.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Por qué siempre eliges negro en vez de marrón?",
+      "back": "Why do you always choose black instead of brown?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Por qué siempre ella elige comida china en vez de comida tailandesa?",
+      "back": "Why does she always choose Chinese food instead of Thai food?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Por qué Katie siempre elige chicos apuestos en vez de chicos simpáticos?",
+      "back": "Why does Katie always choose handsome guys instead of nice guys?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Siempre elijo carne en vez de pescado porque prefiero la carne.",
+      "back": "I always choose meat over fish because I prefer meat.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Ella siempre elige comida china en vez de comida tailandesa porque prefiere la comida china.",
+      "back": "She always chooses Chinese food instead of Thai food because she prefers Chinese food.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Por qué siempre ella elige té si prefiere café?",
+      "back": "Why does she always choose tea if she prefers coffee?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "¡A mí! ¡A mí! (Usa «pick».)",
+      "back": "Pick me! Pick me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Elígele a él. Es el mejor.",
+      "back": "Pick him. He's the best.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "No la elijas a ella. Es la peor.",
+      "back": "Don't pick her. She's the worst.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "¡A mí! ¡A mí! (Usa «choose».)",
+      "back": "Choose me! Choose me!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Elígenos a nosotros. Somos los mejores.",
+      "back": "Choose us. We're the best.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "No los elijas a ellos. Son inútiles.",
+      "back": "Don't choose them. They're useless.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Elijo a Liam para el equipo.",
+      "back": "I choose Liam for the team.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "El jefe siempre elige a Kirsty para los mejores proyectos.",
+      "back": "The boss always chooses Kirsty for the best projects.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "El entrenador siempre elige a Derek antes que a Richard para los partidos importantes.",
+      "back": "The coach always chooses Derek over Richard for important games.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Escojo a Joan para ser el líder del equipo.",
+      "back": "I pick Joan to be team leader.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Su jefe siempre la escoge a ella para ser líder.",
+      "back": "Her boss always picks her to be the leader.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Derek siempre te escoge a ti para dirigir el equipo.",
+      "back": "Derek always picks you to lead the team.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Quiero escoger a Derek para el partido.",
+      "back": "I want to choose Derek for the game.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Quiero escogerla a ella, pero tengo que escogerle a él.",
+      "back": "I want to choose her but I have to pick him.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella quiere escoger a Joan para ser la encargada.",
+      "back": "She wants to pick Joan to be in charge.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Es mi elección.",
+      "back": "It's my choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "La elección es tuya.",
+      "back": "The choice is yours.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "No es tu elección, es su elección de él.",
+      "back": "It isn't your choice. It's his choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Toma la decisión correcta.",
+      "back": "Make the right choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Sharon siempre elige bien.",
+      "back": "Sharon always makes the right choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Ella elegirá lo más adecuado, lo garantizo.",
+      "back": "She'll make the right choice, I guarantee it.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "No elijas mal.",
+      "back": "Don't make the wrong choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Richard siempre elige mal.",
+      "back": "Richard always makes the wrong choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Ellos elegirán mal, lo garantizo.",
+      "back": "They'll make the wrong choice, I guarantee it.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Hay mucha variedad en El Corte Francés.",
+      "back": "There's a lot of choice in El Corte Francés.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Tienen unos quesos agradables y hay mucha variedad.",
+      "back": "They have some nice cheese and there's a lot of choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Tienen unas botellas de vino buenas, pero no hay mucha variedad.",
+      "back": "They have some good bottles of wine but there isn't a lot of choice.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Hay una buena selección de marcas en esa tienda.",
+      "back": "There's a good choice of brands in that shop.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Hay una selección fantástica de colores.",
+      "back": "There's a fantastic choice of colours.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "No hay una selección muy buena de cervezas, pero hay una selección buena de vinos.",
+      "back": "There isn't a very good choice of beers but there is a good choice of wines.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Qué coche elegirá ella?",
+      "back": "Which car will she choose?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Qué coche elegirá ella? ¿El rojo o el verde?",
+      "back": "Which car will she choose? The red one or the green one?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Qué coche elegirá ella? ¿El pequeño o el grande?",
+      "back": "Which car will she choose? The small one or the big one?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Qué reloj elegirá él? ¿El gris o el marrón?",
+      "back": "Which watch will he pick? The grey one or the brown one?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Cuál elegirá ella? ¿El de diamantes o el de oro?",
+      "back": "Which one will she pick? The diamond one or the gold one?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Cuál elegirá él? ¿El de cuero o el de plata?",
+      "back": "Which one will he pick? The leather one or the silver one?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Elegirán el rojo, lo puedo garantizar.",
+      "back": "They'll choose the red one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Elegirán el mejor, lo puedo garantizar.",
+      "back": "They'll choose the best one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Elegirás el de cuero, lo puedo garantizar.",
+      "back": "You'll pick the leather one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Terminarás eligiendo el de plata, lo puedo garantizar.",
+      "back": "You'll end up choosing the silver one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Ellos terminarán eligiendo el de oro, lo puedo garantizar.",
+      "back": "They'll end up picking the gold one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Él terminará eligiendo el pequeño en lugar del grande, lo puedo garantizar.",
+      "back": "He'll end up choosing the small one over the big one, I guarantee it.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Sabes cuál elegir?",
+      "back": "Do you know which one to pick?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "No sé cuál elegir.",
+      "back": "I don't know which one to pick.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Michael no sabe cuál elegir: el caro o el barato.",
+      "back": "Michael doesn't know which one to choose, the expensive one or the cheap one.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "El entrenador elige a Greggs para todos los partidos.",
+      "back": "The coach picks Greggs for every game.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "El entrenador la escoge a ella para algunos partidos.",
+      "back": "The coach picks her for some games.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Él escoge a Greggs para todos los partidos porque es el mejor.",
+      "back": "He picks Greggs for every game because he's the best.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Seleccionarán a Jordi para el equipo.",
+      "back": "They'll pick Jordi for the team.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Seleccionarán a Jordi para el equipo, pero no seleccionarán a Karls.",
+      "back": "They'll pick Jordi for the team but they won't pick Karls.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "El nuevo mánager seleccionará a los mejores jugadores para el equipo.",
+      "back": "The new manager will pick the best players for the team.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Él fichará a Smith para el partido contra el Manchester United.",
+      "back": "He'll pick Smith for the game against Manchester United.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "El mánager fichará a Reynolds para el partido contra el Newcastle United.",
+      "back": "The manager will pick Reynolds for the game against Newcastle United.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Ficharán a Karls para el partido contra el Leeds, lo garantizo.",
+      "back": "They'll pick Karls for the match against Leeds, I guarantee it.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Lo elegirán para el próximo partido contra el United porque es el mejor delantero.",
+      "back": "They'll pick him for the game against United because he's the best forward.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Jordi es el mejor delantero del equipo. Lo elegirán para el partido.",
+      "back": "Jordi is the best forward in the team. They'll pick him for the game.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "No elegirán a Smith porque no es el mejor delantero.",
+      "back": "They won't pick Smith because he isn't the best forward.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "El mánager no elegirá a Thomas para el partido, porque es el peor defensa.",
+      "back": "The manager won't pick Thomas for the game because he's the worst defender.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Es la peor defensa del equipo. Es una inútil. No la cogerán.",
+      "back": "She's the worst defender in the team. She's useless. They won't pick her.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "El mánager no cogerá a Simon para el partido contra el City, porque es el peor defensa.",
+      "back": "The manager won't pick Simon for the game against City because he's the worst defender.",
+      "sourcePage": 12
+    }
+  ]
+}

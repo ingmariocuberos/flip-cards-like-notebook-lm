@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-79",
+  "bookTitle": "Libro 79",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "No se puede devolver, así que elige bien.",
+      "back": "You can't return it so choose carefully.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "No hay reembolso, así que elige bien.",
+      "back": "There are no refunds so choose carefully.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Tienes que elegir bien porque está rebajado y no hay reembolso.",
+      "back": "You have to choose carefully because it's on sale and there are no refunds.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Mira lo que hay y elige con cabeza.",
+      "back": "Shop around and choose wisely.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Siempre veo lo que hay cuando compro muebles. Prefiero elegir con cabeza.",
+      "back": "I always shop around when I buy furniture. I prefer to choose wisely.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Cuando compres cosas de segunda mano, mira lo que hay y elige con cabeza.",
+      "back": "When you buy second hand items, shop around and choose wisely.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Su nuevo piso es asombroso. Él eligió bien.",
+      "back": "His new apartment is amazing. He chose well.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Ella se compró un nuevo sofá el fin de semana pasado. Eligió bien.",
+      "back": "She bought a new couch last weekend. She chose well.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Compré un sofá de segunda mano el mes pasado. Vi lo que había y creo que elegí bien.",
+      "back": "I bought a second hand couch last month. I shopped around and I think I chose well.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Mis hermanas son todas profesoras, pero yo elegí un camino distinto.",
+      "back": "My sisters are all teachers but I chose a different path.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Sus hermanos son todos doctores, pero él eligió un camino distinto.",
+      "back": "His brothers are all doctors but he chose a different path.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "Mis padres trabajan como arquitectos, pero yo elegí un camino distinto. Soy asesor.",
+      "back": "My parents work as architects but I chose a different path. I'm a counselor.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Ella eligió trabajar en la enseñanza.",
+      "back": "She chose to work in education.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Elegí trabajar en asesoría, aunque mis padres trabajan en la enseñanza. Creo que elegí bien.",
+      "back": "I chose to work in counseling even though my parents work in education. I think I chose well.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Elegí trabajar como asesor, aunque todas mis hermanas trabajan en finanzas.",
+      "back": "I chose to work as a counselor even though all my sisters work in finance.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Ha elegido Jane un vestido de bodas ya?",
+      "back": "Has Jane picked a wedding dress yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Aún no has elegido un vestido para la fiesta?",
+      "back": "Haven't you picked a dress for the party yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Has elegido un conjunto para la fiesta ya?",
+      "back": "Have you picked an outfit for the party yet?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "No he elegido un color para el salón.",
+      "back": "I haven't picked out a colour for the living room.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "No han elegido muebles para el salón. Están buscando.",
+      "back": "They haven't picked out furniture for the front room. They're shopping around.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Has elegido un sofá para el salón?",
+      "back": "Have you picked out a couch for the front room?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Ya hemos elegido a alguien para el papel.",
+      "back": "We've already picked someone for the role.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Han elegido a alguien para el puesto de trabajo?",
+      "back": "Have they picked someone for the job?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Ya han elegido a Mike para ser el mánager. Han elegido bien.",
+      "back": "They've already chosen Mike to be the manager. They chose wisely.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Han elegido ignorar nuestro consejo.",
+      "back": "They've chosen to ignore our advice.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Por qué ha elegido él ignorar mi consejo?",
+      "back": "Why has he decided to ignore my advice?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "No sé por qué, pero él ha elegido ignorar nuestro consejo. Ha elegido otro camino.",
+      "back": "I don't know why, but he's chosen to ignore our advice. He's chosen a different path.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Identifiqué a John en la foto.",
+      "back": "I picked John out in the photo.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "La mujer identificó al agresor en una rueda de identificación.",
+      "back": "The woman picked out the attacker in an identity parade.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Es fácil identificarla en una multitud.",
+      "back": "She's easy to pick out in a crowd.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "Vernon cogió su chaqueta.",
+      "back": "Vernon picked up his jacket.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Vera cogió su móvil.",
+      "back": "Vera picked up her mobile.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Vernon y Vera cogieron sus abrigos y salieron.",
+      "back": "Vernon and Vera picked up their coats and went out.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Él lo cogió rápido.",
+      "back": "He picked it up quickly.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella lo cogió despacio y salió.",
+      "back": "She picked it up slowly and went out.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Los cogieron y se fueron sin hacer ruido.",
+      "back": "They picked them up and left quietly.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Violet cogió su bolso de mano del suelo.",
+      "back": "Violet picked up her handbag from the floor.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Ella lo cogió del suelo y se fue.",
+      "back": "She picked it up from the floor and left.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "Ella lo cogió del suelo y salió silenciosamente.",
+      "back": "She picked it up from the floor and went out quietly.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Barbara dejó el arma.",
+      "back": "Barbara put the gun down.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Bobby dejó el cuchillo.",
+      "back": "Bobby put the knife down.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Barbara y Bobby dejaron sus armas y huyeron.",
+      "back": "Barbara and Bobby put their weapons down and ran away.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Ella volvió a dejarlo.",
+      "back": "She put it back down.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Él volvió a ponerlo en la mesa.",
+      "back": "He put it back down on the table.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Los volvieron a poner en la mesa y huyeron.",
+      "back": "They put them back down on the table and ran away.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Voy a recoger a Jerry de la estación del tren.",
+      "back": "I'm going to pick Jerry up at the train station.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Voy a recoger a Jenny del colegio.",
+      "back": "I'm going to pick Jenny up at school.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Recogeré a Jerry del aeropuerto si tú recoges a Jenny de la universidad.",
+      "back": "I'll pick Jerry up at the airport if you pick Jenny up at university.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "Te recogeré si tengo tiempo.",
+      "back": "I'll pick you up if I have time.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "Mamá le recogerá a él de la estación si tiene tiempo.",
+      "back": "Mom'll pick him up at the station if she has time.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "Jerry te recogerá de la universidad si puede.",
+      "back": "Jerry will pick you up at university if he can.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Me recoges lo de la tintorería si está listo?",
+      "back": "Will you pick up the dry cleaning if it's ready?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Pregúntale a papá si puede recoger la pizza cuando esté lista.",
+      "back": "Ask Dad if he'll pick up the pizza when it's ready.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Pregúntale a Jenny si puede recoger la colada cuando esté hecha.",
+      "back": "Ask Jenny if she'll pick up the laundry when it's done.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Puedes ir a por un litro de leche?",
+      "back": "Can you pick up a litre of milk?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Podrías ir a por un litro de zumo de naranja para mí?",
+      "back": "Would you pick up a litre of orange juice for me?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Podrías comprarme un paquete de cigarrillos de camino a casa?",
+      "back": "Would you pick up a pack of cigarettes for me on your way home?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Me puedes coger un paquete de cigarrillos?",
+      "back": "Can you pick me up a pack of cigarettes?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "¿Me puedes coger un litro de leche?",
+      "back": "Can you pick me up a litre of milk?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "¿Podrías cogerme un periódico de camino a casa?",
+      "back": "Would you pick me up a newspaper on your way home?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "El ganador fue elegido el jueves.",
+      "back": "The winner was chosen on Thursday.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "El ganador fue elegido por un panel.",
+      "back": "The winner was chosen by a panel.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Los ganadores fueron elegidos por un panel de expertos.",
+      "back": "The winners were chosen by a panel of experts.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "Lorna se puso contenta de que la eligieran para el puesto.",
+      "back": "Lorna was happy to be picked for the job.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Lorna y Graham se pusieron contentos de que los eligieran para el viaje a Corea.",
+      "back": "Lorna and Graham were happy to be picked for the trip to Korea.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Te alegró que te eligieran para la tarea?",
+      "back": "Were you happy to be picked for the task?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Estaba encantado de que me eligieran para una entrevista.",
+      "back": "I was delighted to be chosen for an interview.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Estabas encantada de que te eligieran para el puesto?",
+      "back": "Were you delighted to be chosen for the job?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "Claro que estaba encantada de que me eligieran para ello. Espero estar a la altura del desafío.",
+      "back": "Of course I was delighted to be chosen for it. I hope I'm up to the task.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "El nuevo diseño aún no ha sido elegido.",
+      "back": "The new design hasn't been picked yet.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Los nuevos estampados aún no han sido elegidos.",
+      "back": "The new patterns haven't been picked yet.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "Aún no ha sido elegida una nueva oficina.",
+      "back": "A new office hasn't been picked yet.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Por lo visto, las chicas estaban muy desilusionadas por no haber sido elegidas para la obra.",
+      "back": "Apparently, the girls were disappointed not to have been chosen for the play.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Parece que Lorna estaba muy desilusionada por no haber sido elegida para una entrevista.",
+      "back": "It seems Lorna was very disappointed not to have been chosen for an interview.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "Graham estaba desilusionado por no haber sido elegido, pero no estaba a la altura del desafío.",
+      "back": "Graham was disappointed not to have been chosen, but he wasn't up to the task.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Escucha, no lo tienes que hacer. Tienes elección.",
+      "back": "Listen, you don't have to do it. You have a choice.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Ella no tiene que marcharse de la empresa. Tiene elección.",
+      "back": "She doesn't have to leave the company. She has a choice.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Sé que no te satisface, pero por lo menos tienes elección.",
+      "back": "I know you're not happy about it, but at least you have a choice.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "No me satisface tener que marcharme de la empresa, pero no tengo elección.",
+      "back": "I'm not happy about leaving the company but I have no choice.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "No me queda otra que decirle la verdad a él.",
+      "back": "I have no choice but to tell him the truth.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "No te queda otra que admitir la verdad.",
+      "back": "You have no choice but to admit the truth.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Hay una variedad importante de aperitivos en el frigorífico. ¡Sírvete!",
+      "back": "There's a good choice of snacks in the fridge. Help yourself!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "Sírvete lo que quieras. Hay una variedad importante de bebidas en el armario.",
+      "back": "Help yourself to anything you want. There's a good choice of drinks in the cabinet.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "No hay una variedad importante de colores, pero sí hay una gran variedad de estampados.",
+      "back": "There isn't a very good choice of colours but there's a good choice of patterns.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Quieres una chocolatina? ¡Elige la que quieras!",
+      "back": "Would you like a chocolate bar? Take your pick!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Hay una buena variedad de colores para el salón, así que elige el que quieras.",
+      "back": "There's a good choice of colours for the front room so take your pick.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "Yo me puedo sentar en cualquier mesa de trabajo, así que elige la que quieras.",
+      "back": "I'm happy to sit at any desk, so take your pick!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "La película de Sarrentino era la flor y nata en los Oscars.",
+      "back": "Sarrentino's film was the pick of the bunch at the Oscars.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "Daniel estaba decepcionado por no haber sido elegido. Creía que era la flor y nata.",
+      "back": "Daniel was disappointed not to be chosen. He thought he was the pick of the crop.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Nuestro cachorro Jack es tan mono. Era la flor y nata de la camada.",
+      "back": "Our puppy Jack is so cute. He was the pick of the litter.",
+      "sourcePage": 26
+    }
+  ]
+}
