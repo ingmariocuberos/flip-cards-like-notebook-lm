@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-81",
+  "bookTitle": "Libro 81",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Levanta la mesa.",
+      "back": "Lift the table.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Levanta el bote.",
+      "back": "Lift the jar.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Levanta la caja de cartón.",
+      "back": "Lift the cardboard box.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "No puedo levantar la mesa.",
+      "back": "I can't lift the table.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "No puedo levantar el bote.",
+      "back": "I can't lift the jar.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "No puedo levantar la caja de cartón.",
+      "back": "I can't lift the cardboard box.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Por qué no la puedes levantar?",
+      "back": "Why can't you lift it?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Por qué no puedes levantar el bote?",
+      "back": "Why can't you lift the jar?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Por qué no puedes levantar la caja de cartón?",
+      "back": "Why can't you lift the cardboard box?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "No puedo levantarlo porque es demasiado grande.",
+      "back": "I can't lift it because it's too big.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "No puedo levantar el bote porque pesa demasiado.",
+      "back": "I can't lift the jar because it's too heavy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "No puedo levantar la caja de cartón porque es demasiado grande.",
+      "back": "I can't lift the cardboard box because it's too big.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "Es demasiado grande para levantarla.",
+      "back": "It's too big to lift.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "La jarra pesa demasiado para levantarla.",
+      "back": "The jug is too heavy to lift.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "El contenedor es demasiado grande para levantarlo.",
+      "back": "The container is too big to lift.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Levanta el contenedor.",
+      "back": "Lift up the container.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "Levanta el jarrón.",
+      "back": "Lift up the vase.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "Levanta la guitarra.",
+      "back": "Lift up the guitar.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "Levántalo.",
+      "back": "Lift it up.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Levántalo un segundo.",
+      "back": "Lift it up for a second.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Levántala un segundito.",
+      "back": "Lift it up for a sec.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "Levanta el contenedor por encima de tu cabeza.",
+      "back": "Lift the container up above your head.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Levanta la guitarra por encima de la mesa.",
+      "back": "Lift the guitar up above the table.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Levanta el jarrón por encima de tu cabeza.",
+      "back": "Lift the vase up above your head.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Levántalo por encima de tu cabeza.",
+      "back": "Lift it up over your head.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Levanta la maleta por encima del muro.",
+      "back": "Lift the suitcase up over the wall.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Levántalo por encima de la valla.",
+      "back": "Lift it up over the fence.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Levanta el contenedor un segundo.",
+      "back": "Lift up the container for a second.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Levántalo por encima de tu cabeza un segundito.",
+      "back": "Lift it up above your head for a sec.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Levántalo por encima de la valla. (Repaso)",
+      "back": "Lift it up over the fence.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Él está levantando el cuadro.",
+      "back": "He's raising the picture.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Ella está levantando la balda.",
+      "back": "She's raising the shelf.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Qué está levantando ella? Está levantando la mano.",
+      "back": "What is she raising? She's raising her hand.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "El DJ está subiendo el volumen de la canción.",
+      "back": "The DJ is raising the volume of the song.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Él está subiendo el volumen otra vez.",
+      "back": "He's raising the volume again.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Mi vecino está subiendo el volumen de su reproductor.",
+      "back": "My neighbour is raising the volume on his stereo.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "El calentamiento global está aumentando la temperatura de la Tierra.",
+      "back": "Global warming is raising the Earth's temperature.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "¿El calentamiento global está aumentando la temperatura de la Tierra?",
+      "back": "Is global warming raising the Earth's temperature?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Los gases de efecto invernadero están aumentando la temperatura de la Tierra.",
+      "back": "Greenhouse gases are raising the Earth's temperature.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "El gobierno está subiendo el precio de la gasolina.",
+      "back": "The government is raising the price of petrol.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "¿El gobierno está subiendo el precio del tabaco?",
+      "back": "Is the government raising the price of tobacco?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "El gobierno está subiendo el precio del alcohol.",
+      "back": "The government is raising the price of alcohol.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "¿El propietario está subiendo el alquiler?",
+      "back": "Is the landlord raising the rent?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Sí, él está subiendo el alquiler otra vez.",
+      "back": "Yes, he's raising the rent again.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "El propietario no está subiendo el alquiler.",
+      "back": "The landlord isn't raising the rent.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Sale el sol.",
+      "back": "The sun rises.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-047",
+      "front": "Sale a las siete de la mañana.",
+      "back": "It rises at 7 a.m.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "Sale por el este.",
+      "back": "It rises in the east.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "La temperatura de la Tierra está subiendo.",
+      "back": "The Earth's temperature is rising.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "La temperatura está subiendo lentamente.",
+      "back": "The temperature is rising slowly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Está subiendo debido a los gases de efecto invernadero.",
+      "back": "It's rising because of greenhouse gases.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Los precios van a subir el año que viene.",
+      "back": "Prices are going to rise next year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Los precios van a subir lentamente.",
+      "back": "Prices are going to rise slowly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Van a subir debido a la inflación.",
+      "back": "They're going to rise because of inflation.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Su popularidad sube cada año.",
+      "back": "His popularity rises every year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Sube lentamente.",
+      "back": "It rises slowly.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Sube debido a su trabajo duro.",
+      "back": "It rises because of his hard work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Cuándo sale el sol?",
+      "back": "When does the sun rise?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Por qué está subiendo la temperatura?",
+      "back": "Why is the temperature rising?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Van a subir los precios el año que viene?",
+      "back": "Are prices going to rise next year?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Vas a obtener un aumento de sueldo?",
+      "back": "Are you going to get a pay rise?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Va ella a obtener un aumento de sueldo también?",
+      "back": "Is she going to get a pay rise too?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Va él a obtener un aumento de sueldo también?",
+      "back": "Is he going to get a pay rise as well?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Voy a obtener un aumento de sueldo.",
+      "back": "I'm going to get a raise.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "Ella va a obtener un aumento de sueldo también.",
+      "back": "She's going to get a raise too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "Ella no va a obtener un aumento y él tampoco.",
+      "back": "She isn't going to get a raise and he isn't either.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi marido va a pedir un aumento de sueldo el año que viene.",
+      "back": "My husband's going to ask for a pay rise next year.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Mi jefe va a pedir hoy un aumento de sueldo.",
+      "back": "My boss is going to ask for a pay rise today.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Todo el mundo va a pedir un aumento de sueldo.",
+      "back": "Everyone's going to ask for a pay rise.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "¿Cuándo vas a pedir un aumento de sueldo?",
+      "back": "When are you going to ask for a raise?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Vas a pedir un aumento de sueldo pronto?",
+      "back": "Are you going to ask for a raise soon?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Pero vas a pedir un aumento de sueldo o no?",
+      "back": "Are you ever going to ask for a raise?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "Le van a dar un aumento de sueldo a mi mujer el año que viene.",
+      "back": "They're going to give my wife a raise next year.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "El jefe me va a dar un aumento de sueldo el mes que viene.",
+      "back": "The boss is going to give me a raise next month.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "No van a dar un aumento de sueldo nunca a nadie.",
+      "back": "They're never going to give anyone a raise.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Alguien me suele llevar al trabajo.",
+      "back": "I usually get a lift to work.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-077",
+      "front": "Alguien suele llevar a Sam al aeropuerto.",
+      "back": "Sam usually gets a lift to the airport.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "Alguien nos suele llevar a la clase.",
+      "back": "We usually get a lift to the class.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "Sam me lleva de vez en cuando.",
+      "back": "I sometimes get a lift from Sam.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "Jodie lleva a Sam de vez en cuando.",
+      "back": "Sam sometimes gets a lift from Jodie.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "Ed suele llevar a Jodie.",
+      "back": "Jodie usually gets a lift from Ed.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "Voy a pedirle a Jodie que me lleve.",
+      "back": "I'm going to ask Jodie for a lift.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Vas a pedirle a Ed que te lleve?",
+      "back": "Are you going to ask Ed for a lift?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Vamos a pedirle a él que nos lleve a la clase.",
+      "back": "We're going to ask him for a lift to the class.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Voy a pedirle a Jodie que me lleve a casa.",
+      "back": "I'm going to ask Jodie for a lift home.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Vas a pedirle a ella que te lleve a casa?",
+      "back": "Are you going to ask her for a lift home?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Voy a pedirle a ella que me lleve a casa.",
+      "back": "I'm going to ask her for a lift home.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Te voy a llevar al aeropuerto.",
+      "back": "I'm going to give you a lift to the airport.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "Sharon va a llevar a Peter a casa.",
+      "back": "Sharon's going to give Peter a lift home.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "Voy a llevar a Jodie a casa y Sharon va a llevar a Max al trabajo.",
+      "back": "I'm going to give Jodie a lift home and Sharon's going to give Max a lift to work.",
+      "sourcePage": 13
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-81",
+  "bookTitle": "Libro 81",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Él izó la bandera.",
+      "back": "He raised the flag.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "Él izó la bandera a media asta.",
+      "back": "He raised the flag to half-mast.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "Él izó la bandera hasta arriba.",
+      "back": "He raised the flag to full mast.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "El gobierno ha subido los impuestos.",
+      "back": "The government has raised taxes.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "El gobierno ha subido los impuestos por segunda vez este año.",
+      "back": "The government has raised taxes for the second time this year.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "El gobierno ha subido los impuestos por tercera vez este año.",
+      "back": "The government has raised taxes for the third time this year.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Los impuestos subieron hasta el 20% el año pasado.",
+      "back": "Taxes rose to 20% last year.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Los impuestos subieron del 17,5% al 20% el año pasado.",
+      "back": "Taxes rose from 17.5% to 20% last year.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Los impuestos subieron dos veces el año pasado.",
+      "back": "Taxes rose twice last year.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "El precio de la gasolina ha subido un 2%.",
+      "back": "The price of petrol has risen by 2%.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "El precio del combustible ha subido un 2,3%.",
+      "back": "The price of fuel has risen by 2.3%.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "El precio de la gasolina ha subido un 2,5%.",
+      "back": "The price of gas has risen by 2.5%.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Cuándo izó la bandera?",
+      "back": "When did he raise the flag?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Cuántas veces ha subido el gobierno los impuestos?",
+      "back": "How many times has the government raised taxes?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "¿Cuánto han subido los impuestos?",
+      "back": "How much have taxes risen by?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Por qué levantaste la caja?",
+      "back": "Why did you lift the box?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "La levanté porque estaba en medio.",
+      "back": "I lifted it because it was in the way.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "La levantaste mal.",
+      "back": "You lifted it the wrong way.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Sólo hice pesas ligeras en el gimnasio hoy.",
+      "back": "I only lifted light weights at the gym today.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "No hice nada de pesas en el gimnasio hoy.",
+      "back": "I didn't lift any weights at the gym today.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Sólo hice algo de pesas en el gimnasio hoy.",
+      "back": "I only lifted a few weights at the gym today.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Él lo levantó y lo puso sobre la camilla.",
+      "back": "He lifted him onto the stretcher.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella lo levantó y lo metió en la ambulancia.",
+      "back": "She lifted him into the ambulance.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Ellos lo levantaron y lo pusieron sobre la cama.",
+      "back": "They lifted him onto the bed.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Tu visita verdaderamente le ha levantado el ánimo.",
+      "back": "Your visit has really lifted his spirits.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Los bombones realmente le han levantado el ánimo.",
+      "back": "The chocolates have really lifted his spirits.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "El rato que me has acompañado realmente me ha levantado el ánimo.",
+      "back": "Your company has really lifted my spirits.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "Gracias por visitarme. ¡Me has animado muchísimo!",
+      "back": "Thanks for visiting. You've given me a real lift!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "Gracias por los bombones. ¡Me has animado muchísimo!",
+      "back": "Thanks for the chocolates. You've given me a lift!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "Gracias por venir. Tu visita realmente me ha animado.",
+      "back": "Thanks for coming. Your visit has given me a lift.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "Bobby nació en Brooklyn, pero se crió en el Bronx.",
+      "back": "Bobby was born in Brooklyn, but he was raised in the Bronx.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "Vanessa nació en Nueva York, pero se crió en Londres.",
+      "back": "Vanessa was born in New York, but she was raised in London.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "Kevin nació en Manchester, pero se crió en Los Ángeles.",
+      "back": "Kevin was born in Manchester, but he was raised in Los Angeles.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Él se crió con unos padres de acogida en el Bronx.",
+      "back": "He was raised by foster parents in the Bronx.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella se crió con sus abuelos en Londres.",
+      "back": "She was raised by her grandparents in London.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Él se crió en Los Ángeles con sus hermanos.",
+      "back": "He was raised in Los Angeles by his siblings.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "Siempre fue católico, pero se convirtió al judaísmo.",
+      "back": "He was raised Catholic, but he converted to Judaism.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "Siempre fue judía, pero se convirtió al catolicismo.",
+      "back": "She was raised Jewish, but she converted to Catholicism.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "Siempre fue musulmán, pero se convirtió al hinduismo.",
+      "back": "He was raised Muslim, but he converted to Hinduism.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Dónde se crió él? Se crió en el Bronx.",
+      "back": "Where was he brought up? He was brought up in the Bronx.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Quién la crió? Se crió con sus abuelos.",
+      "back": "Who was she brought up by? She was brought up by her grandparents.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Fue educado como católico o como musulmán?",
+      "back": "Was he brought up Catholic or Muslim?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Él se crió en el Nueva York de los años 80.",
+      "back": "He was brought up in 1980s New York.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Ella se crió en el Londres de los años 60.",
+      "back": "She was brought up in 1960s London.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "Él se crió en el Los Ángeles de los años 70.",
+      "back": "He was brought up in 1970s LA.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "Se ha registrado una importante subida en el índice de crímenes en el centro urbano.",
+      "back": "There has been a sharp rise in crime in the city center.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "Se ha producido una drástica subida del precio de la gasolina.",
+      "back": "There has been a dramatic rise in the price of gas.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "Ha habido una subida repentina del precio del combustible.",
+      "back": "There has been a sudden rise in the price of fuel.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "La Roma de la década de los 60 fue donde comenzó su subida al poder de ellos.",
+      "back": "1960s Rome was home to their rise to power.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "El Nueva York de la década de los 80 fue donde comenzó su ascenso a la fama de él.",
+      "back": "1980s New York was home to his rise to fame.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "En el Los Ángeles de la década de los 90 fue donde comenzó su subida al poder de ella.",
+      "back": "1990s LA was home to her rise to power.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "No hay muchos edificios altos en las zonas residenciales.",
+      "back": "There aren't many high-rises in the suburbs.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Hay muchos edificios altos en las afueras?",
+      "back": "Are there a lot of high-rises in the outskirts?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Hay un montón de edificios altos en el centro urbano.",
+      "back": "There are loads of high-rises in the city center.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Ese edificio alto tiene ascensor?",
+      "back": "Does that high-rise have a lift?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Aquellos edificios altos no tienen ascensores.",
+      "back": "Those high-rises don't have any elevators.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Para llegar a la cumbre, tienes que usar un telesilla.",
+      "back": "To reach the peak you have to use a chairlift.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Parece que ella se ha hecho un lifting, ¿verdad?",
+      "back": "It looks like she had a face lift, doesn't it?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "Ella parece como si se hubiera hecho un lifting, ¿verdad?",
+      "back": "She looks like she's had a face lift, doesn't she?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "No se nota que ella se haya hecho un lifting, ¿verdad?",
+      "back": "You can't tell she's had a face lift, can you?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "El tráiler ha despertado expectativas sobre la película.",
+      "back": "The trailer has raised expectations for the film.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "La canción ha despertado expectativas sobre el álbum.",
+      "back": "The song has raised expectations for the album.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Su rendimiento de ellos en este partido ha despertado expectativas sobre la final.",
+      "back": "Their performance in this match has raised expectations for the final.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Habla más alto! ¿Quieres? Apenas te oyen al fondo.",
+      "back": "Speak up, will you? They can hardly hear you at the back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "Tendrás que hablar un poco más alto; apenas te oyen al fondo.",
+      "back": "You'll have to speak up a bit; they can hardly hear you at the back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "Tendrás que hablar más alto si quieres que te oigan al fondo.",
+      "back": "You'll have to speak up if you want them to hear you at the back.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "¡Ni se te ocurra levantarme la voz!",
+      "back": "Don't you dare raise your voice at me!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "¡¿Cómo te atreves a levantarle la voz a tu abuela?!",
+      "back": "How dare you raise your voice at your grandma!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "¡No le levantes la voz a él! ¡¿Cómo te atreves?!",
+      "back": "Don't raise your voice at him! How dare you?!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "Dicen que el Omega-3 reduce los niveles de colesterol.",
+      "back": "They say that omega-3 lowers cholesterol.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "Por lo visto, las nueces y las almendras reducen los niveles de colesterol.",
+      "back": "Apparently, walnuts and almonds lower your cholesterol.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Supuestamente, la avena te reduce los niveles de colesterol.",
+      "back": "Supposedly, oatmeal lowers your cholesterol.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Todo el mundo sabe que fumar eleva la presión sanguínea.",
+      "back": "Everybody knows that smoking raises blood pressure.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "No todo el mundo sabe que el estrés puede elevar la presión sanguínea.",
+      "back": "Not everybody knows that stress can raise your blood pressure.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Sabías que la sal puede elevar la presión sanguínea?",
+      "back": "Did you know that salt can raise your blood pressure?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "Estuvieron de fiesta hasta el amanecer.",
+      "back": "They partied until sunrise.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "Me fui a casa, pero ellos estuvieron de fiesta hasta el amanecer.",
+      "back": "I went home, but they partied until sunrise.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Después de la fiesta fueron a ver amanecer en el muelle.",
+      "back": "After the party, they went to watch the sunrise at the pier.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "Me voy al puerto para ver el atardecer, ¿vienes?",
+      "back": "I'm going to the harbour to watch the sunset, are you coming?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "¿Vienes con nosotros a ver el atardecer en el muelle?",
+      "back": "Are you coming with us to watch the sunset at the pier?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "Vamos a ver el atardecer en la playa, ¿vienes?",
+      "back": "We are going to watch the sunset at the beach, are you coming?",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "Me encanta la vista desde el muelle al anochecer.",
+      "back": "I love the view from the pier at dusk.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Las vistas del puerto son geniales; de sol a sol.",
+      "back": "The views from the harbour are great; from dusk till dawn.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "A ella le encanta la vista desde la playa al anochecer.",
+      "back": "She loves the view from the beach at dusk.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "Dawn se despierta al romper el alba todos los días.",
+      "back": "Dawn wakes up at the crack of dawn every day.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Siobhan se despierta al romper el alba todos los días.",
+      "back": "Siobhan wakes up at the crack of dawn every day.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Richard Vaughan se despierta al romper el alba todos los días.",
+      "back": "Richard Vaughan wakes up at the crack of dawn every day.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Tengo que levantarme a las cuatro de la madrugada mañana.",
+      "back": "I have to get up at four in the morning tomorrow.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Tengo que levantarme a las cinco menos cuarto de la madrugada todos los días.",
+      "back": "I have to get up at quarter to five in the morning, every day!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Él se levanta a las tres y media de la madrugada, ¡todos los días!",
+      "back": "He gets up at half past three in the morning, every day!",
+      "sourcePage": 27
+    }
+  ]
+}
