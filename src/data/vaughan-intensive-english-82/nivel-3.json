@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-82",
+  "bookTitle": "Libro 82",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Los albañiles rellenaron el agujero con cemento.",
+      "back": "The builders filled in the hole with cement.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "Vamos a tener que rellenar esto con yeso.",
+      "back": "We're going to have to fill this in with plaster.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "Rellenaron la grieta con pegamento.",
+      "back": "They filled the crack in with adhesive.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "Estoy sustituyendo a Roger durante su baja por enfermedad.",
+      "back": "I'm filling in for Roger whilst he's off sick.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "¡¿Quién va a sustituir a Hailey?! ¡Nadie más sabe cómo hacer su trabajo!",
+      "back": "Who's going to fill in for Hailey!? No one else knows how to do her job!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "¡La verdad es que no me apetece sustituir a Stan!",
+      "back": "I'm not really up for filling in for Stan!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "Estoy ocupado; que otra persona informe a Steve de todo.",
+      "back": "I'm busy; get someone else to fill Steve in on everything.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "Francine ha estado de baja una semana. ¿Puedes informarle sobre lo que ha pasado?",
+      "back": "Francine's been off sick for a week. Can you fill her in on what's been going on?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "No sé nada en absoluto sobre este proyecto. ¿Me puedes informar sobre los detalles?",
+      "back": "I've no idea whatsoever about this project. Can you fill me in on the details?",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "Me hicieron un resumen de lo que había pasado y tuve que llenar las lagunas yo mismo.",
+      "back": "They gave me an outline of what had happened and left me to fill in the blanks for myself.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Lo único que nos dijeron fue que el nuevo diseño se había pospuesto y nosotros tuvimos que llenar las lagunas.",
+      "back": "All we were told was the new design had been shelved, leaving us to fill in the blanks.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "En esta empresa te cuentan lo mínimo y tienes que llenar las lagunas por tu cuenta.",
+      "back": "In this company they just tell you the bare minimum and leave you to fill in the blanks yourself.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "Si Klaus no hubiera sustituido a Stan, ¡habríamos tenido todo tipo de problemas!",
+      "back": "If Klaus hadn't filled in for Stan, then we'd have been in all kinds of trouble!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "Si me hubieras informado sobre lo que estaba pasando, ¡nada de esto habría pasado!",
+      "back": "If you'd filled me in on what was going on, then none of this would've happened!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "Si alguien me hubiera dicho qué demonios estaba pasando, ¡no tendría que haber llenado las lagunas por mi cuenta!",
+      "back": "If someone had told me what the hell was going on, I wouldn't have had to fill in the blanks for myself!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "Me encanta este cuadro, está repleto de color.",
+      "back": "I love this painting, it's bursting with colour.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "El equipo estaba rebosante de ideas nuevas después de su reunión.",
+      "back": "The team was bursting with fresh ideas following their meeting.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "La tierra está repleta de recursos naturales.",
+      "back": "The land is bursting with natural resources.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "Johnson entró en la habitación hecho una furia, reventando de rabia.",
+      "back": "Johnson stormed into the room, bristling with rage.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "La ciudad estaba rebosante de vida.",
+      "back": "The city was bristling with life.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "Encontramos una página web repleta de vídeos subidos por los usuarios.",
+      "back": "We came across a website bristling with videos uploaded by users.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "El sitio está hasta arriba de adolescentes, ¿sigues queriendo ir?",
+      "back": "The place is overflowing with teenagers, are you still up for going?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "En cuestión de minutos, la plaza estaba hasta arriba de manifestantes.",
+      "back": "After a matter of minutes, the square was overflowing with protesters.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "A pesar de lo temprano que era, el centro comercial estaba hasta arriba de gente que iba de compras.",
+      "back": "Despite the early hour, the mall was overflowing with shoppers.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "La mayoría de los apartamentos de ese edificio están plagados de cucarachas.",
+      "back": "Most of the flats in that building are teeming with cockroaches.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "La ciudad donde nos alojamos estaba rebosante de vida, llena de color.",
+      "back": "The town where we stayed was teeming with life, bursting with colour.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "El área estaba plagada de policías después del incidente.",
+      "back": "The area was teeming with police following the incident.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "El último dispositivo incluye hasta el último detalle del hardware más moderno.",
+      "back": "The latest handset is full to the brim with the latest hardware.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Normalmente las ideas me rebosan, pero hoy no fluyen.",
+      "back": "I'm normally brimming with ideas, but today they're just not flowing.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Sally ha dicho que está llenísima, así que ha ido a bajarlo caminando.",
+      "back": "Sally's said that she's full to the brim, so she's gone to walk it off.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "Los vuelos de esa compañía siempre se llenan muy rápidamente.",
+      "back": "That company's flights always fill up really fast.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "Tenemos que empezar a llenar la nevera durante el fin de semana; nunca llegamos al final de la semana.",
+      "back": "We've got to start filling up the fridge on the weekend; we never make it to the end of the week.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "Los ojos se le llenaron a él de lágrimas cuando vio la foto.",
+      "back": "His eyes filled up with tears when he saw the photo.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "¿Has llenado el depósito? Me dirijo a Los Ángeles mañana.",
+      "back": "Have you filled up the tank? I'm heading to Los Angeles tomorrow.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "Necesito llenar el depósito, se está quedando sin gasolina.",
+      "back": "I need to fill the tank up, it's running low.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "Más vale que repostemos pronto, el depósito se está quedando sin gasolina.",
+      "back": "We'd better fill up soon, the tank's running low.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "Los niños no querían cenar porque se habían llenado picoteando.",
+      "back": "The kids didn't want dinner because they'd filled up on snacks.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Ya me había llenado de galletas, así que no tenía nada de hambre.",
+      "back": "I'd already filled up on cookies, so I wasn't hungry at all.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "¡No te llenes de comida basura! ¡Vamos a comer de un momento a otro!",
+      "back": "Don't fill up on junk food! We're going to eat any minute now!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Deberíamos conseguir suministros, vamos a parar en la próxima estación.",
+      "back": "We'd better fill up on supplies, let's stop off at the next station.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "En el puerto vimos un crucero reabasteciéndose.",
+      "back": "In the harbor we saw a cruise ship filling up on supplies.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "Cuando pasemos un pueblo tendremos que reabastecernos, nos estamos quedando peligrosamente con pocos suministros.",
+      "back": "Once we come across a town we'll have to fill up on supplies, we're running dangerously low.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Si no hubiéramos repostado en Albuquerque, habríamos tenido que hacerlo en Los Ángeles.",
+      "back": "If we hadn't filled up in Albuquerque, we'd have had to do it in LA.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "Si no te hubieras llenado de comida basura antes de la cena, habrías tenido hueco para el postre.",
+      "back": "If you hadn't filled up on junk food before dinner, you'd have had room for dessert.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Si la tripulación no se hubiera reabastecido, nunca habrían llegado a casa.",
+      "back": "If the crew hadn't filled up on supplies, they'd have never made it home.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "¡Este sitio está siempre a tope!",
+      "back": "This place is always full to the rafters!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "¡Este sitio está a tope! ¡Ni siquiera sé si vamos a llegar a la barra para pedir una copa!",
+      "back": "This place is full to the rafters! I don't even know if we'll make it to the bar to get a drink!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "La discoteca estaba a tope; ¡nos costaba incluso respirar!",
+      "back": "The club was full to the rafters; we had a hard time breathing!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "Con la gente amontonándose de esta manera, ¡vamos a estar apretadísimos dentro de nada!",
+      "back": "The way people are piling in, we're going to be full in no time!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "Una oleada de gente se acumuló en el bar justo después de las diez.",
+      "back": "A mass of people piled into the bar just after ten o'clock.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "Todos se amontonaron al mismo tiempo, causando estragos.",
+      "back": "Everyone piled in at the same time, causing havoc.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "Organicemos la caja antes de que todos los clientes habituales empiecen a entrar en tropel.",
+      "back": "Let's sort out the cash register before all the regulars start pouring in.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Antes de que todos los clientes habituales entraran en tropel, Dave cambió los barriles y volvió a llenar las neveras.",
+      "back": "Before all the regulars poured in, Dave changed the barrels and filled the fridges back up.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "Cuando todos empezaron a entrar en tropel, Tom se dio cuenta de que iba a ser una larga noche en el bar.",
+      "back": "When everyone started pouring in, Tom realized it was going to be a long night on the bar.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "Todos salieron en tropel a la calle a las tres de la mañana más o menos. Era un caos.",
+      "back": "Everyone poured out onto the street at around 3 a.m.; it was chaos.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "Cuando todos los fiesteros salen en tropel a la calle a la vez, suelen surgir problemas.",
+      "back": "When all the clubbers pour out onto the street all at once, there's usually trouble.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Todos salieron en tropel a la calle a la vez. A la policía le costó lidiar con el caos.",
+      "back": "Everyone poured out onto the street all at once. The police had a hard time dealing with the chaos.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "La gente empezó a entrar. El sitio pronto se llenaría.",
+      "back": "People started pouring in; soon the place would be full.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "El sitio se empezó a llenar. El bar pronto estaría hasta los topes.",
+      "back": "The place started filling up; soon the bar would be full to the rafters.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Mientras el sitio se empezó a vaciar, Jack se dio cuenta de que dentro de poco estaría solo.",
+      "back": "As the place started emptying, Jack realized that he would soon be alone.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "Thomas es una persona genial con quien trabajar, está lleno de ideas geniales.",
+      "back": "Thomas is great to work with; he's full of great ideas.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "George es una persona genial con quien trabajar, está lleno de ideas muy originales.",
+      "back": "George is great to work with; he's full of such original ideas.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "Me cuesta seguir el ritmo a Diana, se le ocurren continuas ideas asombrosas.",
+      "back": "I have a hard time keeping up with Diana; she's so full of such amazing ideas.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "Es difícil seguir el ritmo a Bob. ¡Está lleno de energía!",
+      "back": "It's difficult to keep up with Bob. He's full of energy!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Los niños están siempre tan llenos de energía, ¡no puedo seguirles el ritmo!",
+      "back": "The kids are always so full of energy; I can't keep up!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "¡¿Cómo es que estás tan lleno de energía?! ¡Es demasiado temprano para todo esto!",
+      "back": "How come you're so full of energy?! It's too early in the morning for all this!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "¡Me encanta venir aquí! ¡Está siempre tan lleno de vida!",
+      "back": "I love coming here! It's always so full of life!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Desde que empecé a hacer footing ¡me siento lleno de vida!",
+      "back": "Since I started jogging, I feel full of life!",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "Todos entraron en tropel después del partido y en un visto y no visto el bar se llenó de vida.",
+      "back": "Everyone poured in after the match and in no time the bar was full of life.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Esa casa está llena de recuerdos, viví allí durante más de veinte años.",
+      "back": "That house is full of memories; I lived there for over twenty years.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "Me costó salir, ese sitio está tan lleno de recuerdos para mí.",
+      "back": "I had a hard time leaving; that place is so full of memories for me.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Ese sitio estaba demasiado lleno de recuerdos para mí; en cualquier caso, no tuve problemas para salir.",
+      "back": "That place was too full of memories for me; I had no problem whatsoever leaving.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Simon es tan creído, me saca de quicio.",
+      "back": "Simon is so full of himself, he gets on my nerves.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Me cuesta aguantar a Fred, es tan creído.",
+      "back": "I have a hard time dealing with Fred; he's so full of himself.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "No, no me apetece ir a casa de Sarah, es demasiado creída.",
+      "back": "No, I don't feel like going to Sarah's; she's way too full of herself.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "Me estoy quedando sin fuerzas; tengo unas ganas locas de devorar una hamburguesa ahora mismo.",
+      "back": "I'm running on empty; I could murder a burger right now.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Me estoy quedando sin fuerzas; ¿te apetece un café?",
+      "back": "I'm running on empty; are you up for a coffee?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "Hace mucho que me quedé sin fuerzas; creo que es hora de tomarme un descanso.",
+      "back": "I've been running on empty for a while; I think a break is in order.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "Comimos hasta saciarnos.",
+      "back": "We ate until we'd had our fill.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Una vez que se sació, se reclinó y se encendió un cigarrillo.",
+      "back": "Once he'd eaten his fill, he sat back and lit a cigarette.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "Una vez que cubrieron el cupo de montañas rusas, encontraron un pub cerca y cenaron.",
+      "back": "Once they'd had their fill of rollercoasters, they found a pub nearby and had dinner.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "Este Nick siempre se está dando atracones. No es de extrañar que le estén saliendo michelines.",
+      "back": "That Nick's always filling his face. No wonder he's developing love handles.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "Deja de zampar; aún nos queda el plato principal.",
+      "back": "Stop filling your face; we've still got the main course to come!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "Si ella no deja de darse atracones todo el rato, va a empezar a engordar.",
+      "back": "If she doesn't stop filling her face all the time, she's going to start putting on weight.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Un amigo mío corrió 10 kilómetros con el estómago vacío ayer.",
+      "back": "A friend of mine ran 10 kilometres on an empty stomach yesterday.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "Odio ir al trabajo con el estómago vacío.",
+      "back": "I hate going to work on an empty stomach.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "No puedo escribir un discurso de venta con el estómago vacío; vamos a comer algo.",
+      "back": "I can't write a sales pitch on an empty stomach; let's stock up.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "¡No puedo creer que te hayas quedado con las manos vacías!",
+      "back": "I can't believe you've come away empty-handed!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "Tras horas de negociaciones e idas y venidas, nos quedamos con las manos vacías.",
+      "back": "After hours of negotiation, hours of back and forth, we came away empty-handed.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "El proyecto se arrinconó y nos quedamos con las manos vacías.",
+      "back": "The project was shelved and we came away empty-handed.",
+      "sourcePage": 40
+    }
+  ]
+}

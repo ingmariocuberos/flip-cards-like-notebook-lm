@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-82",
+  "bookTitle": "Libro 82",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Llena el vaso.",
+      "back": "Fill the glass.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Llena la taza.",
+      "back": "Fill the cup.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Llena el cubo.",
+      "back": "Fill the bucket.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Llena el vaso de zumo.",
+      "back": "Fill the glass with juice.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Llena la taza de zumo.",
+      "back": "Fill the cup with juice.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Llena el cubo de agua.",
+      "back": "Fill the bucket with water.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Me puedes llenar el vaso, por favor?",
+      "back": "Can you fill my glass, please?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Me puedes llenar la taza, por favor?",
+      "back": "Can you fill my cup, please?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Me puedes llenar el cubo, por favor?",
+      "back": "Can you fill my bucket, please?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "No llenes esa botella, llena ésta.",
+      "back": "Don't fill that bottle, fill this one.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "No llenes ese cubo, llena éste.",
+      "back": "Don't fill that bucket, fill this one.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No llenes este vaso, llena ése.",
+      "back": "Don't fill this glass, fill that one.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "No llenes esos vasos, llena éstos.",
+      "back": "Don't fill those glasses, fill these ones.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "No llenes estos cubos, llena ésos.",
+      "back": "Don't fill these buckets, fill those ones.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No llenes esas botellas, llena éstas.",
+      "back": "Don't fill those bottles, fill these ones.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Él está llenando la botella. (Fill up)",
+      "back": "He's filling up the bottle.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Ella está llenando el tarro.",
+      "back": "She's filling up the jar.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Están llenando la taza.",
+      "back": "They're filling up the mug.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Él está llenando la botella. (Fill... up)",
+      "back": "He's filling the bottle up.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Están llenando el cubo.",
+      "back": "They're filling the bucket up.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Ella está llenando el bote.",
+      "back": "She's filling the jar up.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Por qué está él llenando la botella?",
+      "back": "Why is he filling up the bottle?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Por qué está ella llenando el bote?",
+      "back": "Why is she filling the jar up?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Por qué la está llenando él?",
+      "back": "Why is he filling it up?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Por qué están llenando ésa?",
+      "back": "Why are they filling up that one?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Por qué la están llenando?",
+      "back": "Why are they filling it up?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Por qué están llenando ésta?",
+      "back": "Why are they filling up this one?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Por qué están llenando aquéllos?",
+      "back": "Why are they filling those ones up?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Él está llenando éstos, no ésos.",
+      "back": "He's filling up these ones, not those ones.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Ella está llenando ésas, no éstas.",
+      "back": "She's filling those ones up, not these ones.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "¡Vacía el cubo de la basura! (Británico)",
+      "back": "Empty the bin!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "¡Vacía el cubo de la basura! (Trash can)",
+      "back": "Empty the trash can!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "¡Vacía el cubo de la basura! (Garbage)",
+      "back": "Empty the garbage!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Realmente necesitamos tirar la basura, ¡huele!",
+      "back": "We really need to empty the garbage, it smells!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Realmente necesitamos vaciar los cubos de la basura, ¡apestan!",
+      "back": "We really need to empty the bins, they stink!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Realmente necesitamos vaciar el cubo de la basura, ¡huele mal!",
+      "back": "We really need to empty the trash can, it smells bad!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "Tira la basura al salir, ¡huele mal!",
+      "back": "Empty the rubbish on your way out, it smells bad!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Vacía el cubo de la basura al salir, ¡huele mal!",
+      "back": "Empty the bin on your way out, it smells bad!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Vacía el cubo de la basura al salir, ¡huele realmente mal!",
+      "back": "Empty the trash can on your way out, it smells really bad!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "¡Pero John siempre tira la basura!",
+      "back": "But John always empties the trash!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Pero Susan siempre tira la basura! ¡Deja que ella lo haga!",
+      "back": "But Susan always empties the trash! Let her do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Pero Jack siempre tira la basura! ¡Deja que él lo haga!",
+      "back": "But Jack always empties the rubbish! Let him do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Sí, normalmente John tira la basura, pero no está aquí. ¡Hazlo tú!",
+      "back": "Yes, John normally empties the trash, but he's not here. You do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Vale, Susan siempre tira la basura, pero no está aquí. ¡Hazlo tú!",
+      "back": "OK, Susan always empties the garbage, but she's not here. You do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Es verdad, Jack suele tirar la basura, pero no está aquí. ¡Hazlo tú!",
+      "back": "It's true, Jack usually empties the rubbish, but he's not here. You do it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Te importa vaciar los barriles?",
+      "back": "Do you mind emptying the barrels?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Te importa vaciar el cubo de hielo?",
+      "back": "Do you mind emptying the ice bucket?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Te importa llenar el lavavajillas?",
+      "back": "Do you mind filling up the dishwasher?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¿Por qué no vacías tú los barriles y yo llenaré los frigoríficos?",
+      "back": "Why don't you empty the barrels, and I'll fill up the fridges.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "¿Por qué no vacías tú las cajas y yo llenaré el cubo de hielo?",
+      "back": "Why don't you empty the crates, and I'll fill up the ice bucket.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Por qué no vacías el cubo de hielo y yo llenaré los frigoríficos?",
+      "back": "Why don't you empty the ice bucket and I'll fill up the fridges.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Podrías vaciar los barriles?",
+      "back": "Could you empty the barrels?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Podrías llenar las cajas?",
+      "back": "Could you fill up the crates?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Podrías vaciar los vasos?",
+      "back": "Could you empty the glasses?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "En serio, deberíamos vaciar los barriles.",
+      "back": "We should really empty the barrels.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "En serio, deberíamos vaciar las cajas.",
+      "back": "We should really empty the crates.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "En serio, deberíamos llenar los frigoríficos.",
+      "back": "We should really fill up the fridges.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "En serio, tenemos que vaciar las papeleras. Hazlo al salir.",
+      "back": "We really have to empty the bins. Do it on your way out.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "En serio, tenemos que vaciar los barriles. Hazlo al salir.",
+      "back": "We really have to empty the barrels. Do it on your way out.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "En serio, tenemos que vaciar los frigoríficos. Hazlo al salir.",
+      "back": "We really have to empty the fridges. Do it on your way out.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "¡No eches más agua, está lleno!",
+      "back": "Don't put any more water in, it's full!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "No metas más tarros, ¡está llena!",
+      "back": "Don't put any more jars in, it's full!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "No metas más, ¡está lleno!",
+      "back": "Don't put any more in, it's full!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "Echa más café, no está lleno todavía.",
+      "back": "Put some more coffee in, it's not full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Echa más, no está llena todavía.",
+      "back": "Put some more in, it's not full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Mete más tarros, no está lleno todavía.",
+      "back": "Put some more jars in, it's not full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Echa un poco más de leche, no está lleno todavía.",
+      "back": "Put a little more milk in; it isn't full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Echa un poco más de agua, no está llena todavía.",
+      "back": "Put a little more water in; it isn't full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Echa un poco más de gasolina, no está lleno todavía.",
+      "back": "Put a little more petrol in; it isn't full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Voy a echar una pizca más de agua, no está llena todavía.",
+      "back": "I'm going to put a tad more water in; it isn't full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Voy a echar una pizca más de leche, no está lleno todavía.",
+      "back": "I'm going to put a tad more milk in; it isn't full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Voy a echar una pizca más de hielo, no está lleno todavía.",
+      "back": "I'm going to put a tad more ice in; it isn't full yet.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Echa una pizca más, sólo está medio lleno.",
+      "back": "Put a tad more in; it's only half full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Echa más, sólo está medio lleno.",
+      "back": "Put some more in; it's only half full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Echa un poco más, sólo está medio lleno.",
+      "back": "Put a little more in; it's only half full.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "El bar se llena rápido los viernes.",
+      "back": "The bar fills up quickly on Fridays.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "El restaurante se llena rápido después de las 8.",
+      "back": "The restaurant fills up quickly after 8.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "El pub se llena rápido los fines de semana.",
+      "back": "The pub fills up quickly on the weekend.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Ese sitio se llena rápido. Deberíamos irnos ya.",
+      "back": "That place fills up quickly. We should go now.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Ese restaurante se llena rápido los sábados. Deberíamos irnos ya.",
+      "back": "That restaurant fills up quickly on Saturdays. We should go now.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Ese pub se llena muy rápido. Deberíamos irnos ya.",
+      "back": "That pub fills up really quickly. We should go right now.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Deberíamos salir temprano. Ese sitio se llena muy rápido los fines de semana.",
+      "back": "We should go early. That place fills up really quickly on weekends.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Tenemos que salir temprano. El bar se llena rápido.",
+      "back": "We need to go early. The bar fills up really quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Tenemos que salir temprano. El restaurante se llena muy rápido.",
+      "back": "We have to go early. The restaurant fills up really quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Llega allí temprano. Ese pub se llena muy rápido.",
+      "back": "Get there early. That pub fills up really quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Tienes que llegar allí temprano. Ese pub se llena muy rápido.",
+      "back": "You need to get there early. That pub fills up really quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Deberíamos llegar allí temprano. Ese pub se llena muy rápido.",
+      "back": "We should get there early. That pub fills up really quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Ese pub se llena rápido los fines de semana.",
+      "back": "That pub gets full quickly on weekends.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Ese sitio se llena rápido los fines de semana.",
+      "back": "That place gets full quickly on the weekend.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Ese bar se llena rápido después de las 9.",
+      "back": "That bar gets full quickly after 9.",
+      "sourcePage": 12
+    }
+  ]
+}
