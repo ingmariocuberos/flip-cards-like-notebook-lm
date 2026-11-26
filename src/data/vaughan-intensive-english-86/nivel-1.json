@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-86",
+  "bookTitle": "Libro 86",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡No gastes dinero mañana!",
+      "back": "Don't spend any money tomorrow!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-002",
+      "front": "¡No gastes dinero este fin de semana!",
+      "back": "Don't spend any money this weekend!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-003",
+      "front": "¡No gastes dinero en el bar!",
+      "back": "Don't spend any money at the pub!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-004",
+      "front": "Él gasta demasiado dinero cuando está de vacaciones.",
+      "back": "He spends too much money when he's on holiday.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-005",
+      "front": "Ella gasta demasiado dinero los fines de semana. Necesita recortar gastos.",
+      "back": "She spends too much money on the weekend. She needs to cut down.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-006",
+      "front": "Jack gasta mucho dinero todos los fines de semana. Necesita recortar gastos.",
+      "back": "Jack spends a lot of money every weekend. He needs to cut down.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Cómo puedes gastar tanto dinero? ¡Necesitas recortar gastos!",
+      "back": "How can you spend so much money? You need to cut down!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Cómo puedes gastar tanto dinero al mes? ¡En serio, necesitas recortar gastos!",
+      "back": "How can you spend so much money every month? You really need to cut down!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Cómo puedes gastar tanto dinero cada vez que te vas de vacaciones? ¡Necesitas recortar gastos!",
+      "back": "How can you spend so much money every time you go on holiday? You need to cut down!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-010",
+      "front": "¡Deja de gastarte tanto dinero!",
+      "back": "Stop spending so much money!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-011",
+      "front": "¡Ella tiene que dejar de gastarse tanto dinero!",
+      "back": "She needs to stop spending so much money!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-012",
+      "front": "¡Tienen que dejar de gastarse tanto dinero!",
+      "back": "They need to stop spending so much money!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-013",
+      "front": "¡Es hora de gastar, gastar y gastar! ¡No te sientas culpable!",
+      "back": "It's time to spend, spend, spend! Don't feel guilty!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Gástatelo todo! ¡No te sientas culpable!",
+      "back": "Spend the lot! Don't feel guilty!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Gástatelo todo! ¡No te sientas mal!",
+      "back": "Spend it all! Don't feel bad!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-016",
+      "front": "Gasto un poco más de cien a la semana en comida.",
+      "back": "I spend a little over a hundred a week on food.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-017",
+      "front": "Él gasta un poco más de cuatrocientos al mes en alquiler.",
+      "back": "He spends a little over four hundred a month on rent.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-018",
+      "front": "Ella gasta un poco más de seiscientos al año en su seguro del coche.",
+      "back": "She spends a little over six hundred a year on her car insurance.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-019",
+      "front": "Gasto un montón de dinero en chocolate todas las semanas.",
+      "back": "I spend loads of money on chocolate every week.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-020",
+      "front": "Ella gasta un montón de dinero en zapatos todos los meses.",
+      "back": "She spends loads of money on shoes every month.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-021",
+      "front": "Él gasta un montón de dinero en ropa todos los fines de semana.",
+      "back": "He spends loads of money on clothes every weekend.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-022",
+      "front": "Gasto todo mi dinero en comida cara.",
+      "back": "I spend all my money on expensive food.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-023",
+      "front": "Él gasta todo su dinero en cigarrillos caros. Tiene que gastar menos.",
+      "back": "He spends all his money on expensive cigarettes. He needs to cut down.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-024",
+      "front": "Ella gasta todo su dinero en zapatos caros. Tiene que gastar menos.",
+      "back": "She spends all her money on expensive shoes. She needs to cut down.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-025",
+      "front": "Gasto la mayor parte de mi dinero en cosas que ni siquiera necesito.",
+      "back": "I spend most of my money on things I don't even need.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-026",
+      "front": "Él gasta la mayor parte de su dinero en cosas que ni siquiera necesita.",
+      "back": "He spends most of his money on things he doesn't even need.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella gasta la mayor parte de su dinero en cosas que ni siquiera necesita.",
+      "back": "She spends most of her money on things she doesn't even need.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-028",
+      "front": "Si gastas tanto en chocolate, deberías empezar a bajar el consumo.",
+      "back": "If you spend that much on chocolate, you should start cutting down.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-029",
+      "front": "Si él gasta tanto en cigarrillos, debería pensar en bajar el consumo.",
+      "back": "If he spends that much on cigarettes, then he should think about cutting down.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-030",
+      "front": "Si gastan tanto en ropa, deberían pensar en bajar el consumo.",
+      "back": "If they spend that much on clothes, then they should think about cutting down.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-031",
+      "front": "Él gasta mucho dinero en su hija. ¡La mima!",
+      "back": "He spends a lot on his daughter. He spoils her!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-032",
+      "front": "Ella gasta mucho dinero en sus hijos. ¡Los mima!",
+      "back": "She spends a lot on her children. She spoils them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-033",
+      "front": "Gastan demasiado dinero en sus nietos. ¡Deberían gastar menos en ellos!",
+      "back": "They spend too much on their grandkids. They should cut down!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-034",
+      "front": "¿Cuánto gastas en tus hijos en sus cumpleaños? ¡Los estás mimando!",
+      "back": "How much do you spend on your kids for their birthdays? You're spoiling them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Cuánto gastas en tu novia en el día de San Valentín?",
+      "back": "How much do you spend on your girlfriend for Valentine's Day?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Cuánto gastas en tu madre en el Día de la Madre?",
+      "back": "How much do you spend on your mother for Mother's Day?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-037",
+      "front": "Yo gasto demasiado en mis hijos por sus cumpleaños. Debería gastar menos.",
+      "back": "I spend way too much on my children for their birthdays. I should cut down.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-038",
+      "front": "Él gasta demasiado en su esposa todas las Navidades. ¡La mima!",
+      "back": "He spends way too much on his wife every Christmas. He spoils her!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-039",
+      "front": "Él gasta demasiado en sus nietos todos los cumpleaños. ¡Los mima!",
+      "back": "He spends way too much on his grandchildren every birthday. He spoils them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-040",
+      "front": "Él gasta demasiado en ropa para sus hijos. ¡Los mima!",
+      "back": "He spends way too much on clothes for his children. He spoils them!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-041",
+      "front": "Ella gasta demasiado en comida para su gato. ¡Debería gastar menos en él!",
+      "back": "She spends way too much on food for her cat. She should cut down!",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-042",
+      "front": "Ellos gastan demasiado en joyas para sus esposas.",
+      "back": "They spend way too much on jewelry for their wives.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-043",
+      "front": "La semana pasada ella se gastó trescientos euros en zapatos.",
+      "back": "Last week she spent three hundred euros on shoes.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-044",
+      "front": "El mes pasado él se gastó trescientos euros en una guitarra.",
+      "back": "Last month he spent three hundred euros on a guitar.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-045",
+      "front": "El año pasado nos gastamos cuatrocientos euros en unas vacaciones en Francia.",
+      "back": "Last year we spent four hundred euros on a holiday in France.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-046",
+      "front": "Ella pasa mucho tiempo con sus hijos.",
+      "back": "She spends lots of time with her children.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-047",
+      "front": "Paso mucho tiempo con mis amigos los sábados.",
+      "back": "I spend a lot of time with my friends on Saturdays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-048",
+      "front": "Él pasa mucho tiempo con sus padres los domingos.",
+      "back": "He spends a lot of time with his parents on Sundays.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-049",
+      "front": "Él pasa mucho tiempo ocupándose del jardín.",
+      "back": "He spends a lot of time doing the gardening.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-050",
+      "front": "Paso mucho tiempo leyendo.",
+      "back": "I spend a lot of time reading.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-051",
+      "front": "Ella pasa mucho tiempo viendo la tele.",
+      "back": "She spends a lot of time watching TV.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-052",
+      "front": "Ella pasa mucho tiempo jugando con sus amigas.",
+      "back": "She spends a lot of time playing with her friends.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-053",
+      "front": "Paso mucho tiempo yendo a museos con mi novia.",
+      "back": "I spend a lot of time going to museums with my girlfriend.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-054",
+      "front": "A él le gusta pasar mucho tiempo jugando al fútbol con sus primos.",
+      "back": "He likes to spend a lot of time playing football with his cousins.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-055",
+      "front": "Paso mucho tiempo en el gimnasio.",
+      "back": "I spend a lot of time at the gym.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella pasa mucho tiempo en la biblioteca.",
+      "back": "She spends a lot of time at the library.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-057",
+      "front": "Él pasa mucho tiempo en los museos.",
+      "back": "He spends a lot of time in museums.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Ven a pasar el fin de semana con nosotros!",
+      "back": "Come and spend the weekend with us!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-059",
+      "front": "¡Venid a pasar el verano en nuestra casa! ¡Será divertido!",
+      "back": "Come and spend the summer in our house! It'll be fun!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-060",
+      "front": "¡Ven a pasar la semana en mi casa! ¡Será divertido!",
+      "back": "Come and spend the week at mine! It'll be fun!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-061",
+      "front": "Ahorro un poco de dinero todos los meses.",
+      "back": "I save a little money every month.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-062",
+      "front": "Él ahorra un poco de dinero todos los meses.",
+      "back": "He saves a bit of money every month.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-063",
+      "front": "Ella no ahorra dinero en absoluto.",
+      "back": "She doesn't save any money at all.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-064",
+      "front": "Si fumas menos, ahorrarás dinero también.",
+      "back": "If you cut down on smoking, you'll save money too.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-065",
+      "front": "Si él sale menos, ahorrará dinero también.",
+      "back": "If he cuts down on going out, he'll save money too.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-066",
+      "front": "Si ella sale menos, ahorrará dinero también.",
+      "back": "If she cuts down on going out, she'll save money too.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-067",
+      "front": "Estoy fumando menos para ahorrar dinero.",
+      "back": "I'm cutting down on smoking to save money.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-068",
+      "front": "Ella está yendo menos al cine para ahorrar dinero.",
+      "back": "She's cutting down on going to the cinema to save money.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-069",
+      "front": "Él está saliendo menos para ahorrar dinero.",
+      "back": "He's cutting down on going out to save money.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-070",
+      "front": "Tengo que ahorrar dinero. ¡Siempre estoy sin un duro!",
+      "back": "I need to save some money. I'm always broke!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-071",
+      "front": "Él debería ahorrar dinero. ¡Siempre está sin un duro!",
+      "back": "He should save some money. He's always broke!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-072",
+      "front": "Ella debería ahorrar dinero. ¡Siempre está sin un duro!",
+      "back": "She should save some money. She's always broke!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-073",
+      "front": "Él siempre está ahorrando dinero; ¡es tan aburrido!",
+      "back": "He's always saving money; he's so boring!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-074",
+      "front": "Ella no viene con nosotros porque está ahorrando dinero; ¡es tan aburrida!",
+      "back": "She's not coming out because she's saving money; she's so boring!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-075",
+      "front": "No puedo salir porque estoy ahorrando dinero; ¡estoy tan aburrido!",
+      "back": "I can't go out because I'm saving money; I'm so bored!",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-076",
+      "front": "Estoy ahorrando para irme de vacaciones.",
+      "back": "I'm saving up to go on holiday.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-077",
+      "front": "Él está ahorrando para comprarse una guitarra.",
+      "back": "He's saving up to buy a guitar.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-078",
+      "front": "Ella está ahorrando para ir a viajar.",
+      "back": "She's saving up to go travelling.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-079",
+      "front": "Nunca salgo porque estoy ahorrando para un coche. ¡Estoy muy aburrido!",
+      "back": "I never go out because I'm saving up for a car. I'm really bored!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-080",
+      "front": "Ella nunca sale porque está ahorrando para irse de vacaciones. ¡Ella está muy aburrida!",
+      "back": "She never goes out because she's saving up for a holiday. She's really bored!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-081",
+      "front": "Nunca salen porque están ahorrando para irse de viaje. ¡Están muy aburridos!",
+      "back": "They never go out because they're saving up to go travelling. They're really bored!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-082",
+      "front": "Como estoy ahorrando para comprar un nuevo ordenador, estoy fumando menos.",
+      "back": "Since I'm saving up to buy a new computer, I'm cutting down on smoking.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-083",
+      "front": "Como estoy ahorrando para irme de vacaciones, estoy yendo menos de compras.",
+      "back": "Since I'm saving to go on holiday, I'm cutting down on going shopping.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-084",
+      "front": "Como estoy ahorrando para irme de viaje, estoy saliendo menos.",
+      "back": "Since I'm saving up to go travelling, I'm cutting down on going out.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-085",
+      "front": "Aún tengo que ahorrar más dinero antes de que pueda irme de viaje.",
+      "back": "I still need to save up some more money before I can go travelling.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-086",
+      "front": "Él aún tiene que ahorrar más dinero antes de que pueda comprarse ese coche.",
+      "back": "He still needs to save up some more money before he can buy that car.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-087",
+      "front": "Ella aún tiene que ahorrar más dinero antes de que pueda irse de vacaciones.",
+      "back": "She still needs to save up some more money before she can go on holiday.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Quieres ahorrar para un piano? ¡Deberías salir menos!",
+      "back": "You want to save up for a piano? You should cut down on going out!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Quieres ahorrar para irte de vacaciones? ¡Deberías ir menos al cine!",
+      "back": "You want to save up for a holiday? You should cut down on going to the cinema!",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Quieres ahorrar para irte de viaje? ¡Deberías comprar menos zapatos!",
+      "back": "You want to save up to go travelling? You should cut down on buying shoes!",
+      "sourcePage": 10
+    }
+  ]
+}

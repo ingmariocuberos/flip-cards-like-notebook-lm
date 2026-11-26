@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-86",
+  "bookTitle": "Libro 86",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Se me da bien ahorrar dinero.",
+      "back": "I'm good at saving money.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-002",
+      "front": "A William se le da bien ahorrar dinero.",
+      "back": "William's good at saving money.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-003",
+      "front": "A Jake se le da muy bien ahorrar dinero.",
+      "back": "Jake's very good at saving money.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-004",
+      "front": "Tardé seis meses en ahorrar para mi coche.",
+      "back": "It took me six months to save up for my car.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-005",
+      "front": "William tardó un año en ahorrar para el viaje.",
+      "back": "It took William one year to save up for the trip.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-006",
+      "front": "Jake tardó cinco años en ahorrar para el depósito para comprar una casa. Se le da bien ahorrar dinero.",
+      "back": "It took Jake five years to save up for the house deposit. He's good at saving money.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-007",
+      "front": "Nunca podrás ahorrar suficiente dinero para ese coche.",
+      "back": "You'll never be able to save up enough money for that car.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-008",
+      "front": "William nunca podrá ahorrar suficiente dinero para ese viaje.",
+      "back": "William will never be able to save up enough money for that trip.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-009",
+      "front": "Jake nunca podrá ahorrar suficiente dinero para ese depósito para comprarse una casa.",
+      "back": "Jake will never be able to save up enough money for that house deposit.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Cuánto tardarás en ahorrar para ese coche?",
+      "back": "How long will it take you to save up for that car?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Cuánto tardará William en ahorrar para ese viaje?",
+      "back": "How long will it take William to save up for that trip?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Cuánto tardará Jake en ahorrar para ese depósito para la casa? ¿Se le da bien ahorrar dinero?",
+      "back": "How long will it take Jake to save up for that house deposit? Is he good at saving money?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-013",
+      "front": "Nunca ahorraré lo suficiente para ese coche. Soy un negado para ahorrar.",
+      "back": "I'll never save up enough for that car. I'm useless at saving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-014",
+      "front": "Edward nunca ahorrará lo suficiente para ese viaje. Es un negado para ahorrar.",
+      "back": "Edward will never save up enough for that trip. He's useless at saving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-015",
+      "front": "Anna nunca ahorrará lo suficiente para el depósito para comprar una casa. Es una negada para ahorrar.",
+      "back": "Anna will never save up enough for the house deposit. She's useless at saving.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s2-016",
+      "front": "¿Has hecho ya una copia de seguridad de tu trabajo?",
+      "back": "Have you backed up your work yet?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-017",
+      "front": "¿Has hecho ya una copia de seguridad de esos archivos?",
+      "back": "Have you backed up those files yet?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-018",
+      "front": "¿Has hecho ya una copia de seguridad de esos documentos?",
+      "back": "Have you backed up those documents yet?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-019",
+      "front": "Asegúrate de que haces una copia de seguridad de tu trabajo según vayas avanzando.",
+      "back": "Make sure you back up your work as you go along.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-020",
+      "front": "Asegúrate de que haces una copia de seguridad de tus archivos según vayas avanzando.",
+      "back": "Make sure you back up your files as you go along.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-021",
+      "front": "Asegúrate de que haces una copia de seguridad de los datos según vayas avanzando.",
+      "back": "Make sure you back up the data as you go along.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-022",
+      "front": "Recordaste hacer una copia de seguridad de tu trabajo, ¿verdad?",
+      "back": "You did remember to back up your work, didn't you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-023",
+      "front": "Recordaste hacer una copia de seguridad de tus archivos, ¿verdad?",
+      "back": "You did remember to back up your files, didn't you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-024",
+      "front": "Recordaste hacer una copia de seguridad de tus documentos, ¿verdad?",
+      "back": "You did remember to back up your documents, didn't you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-025",
+      "front": "No olvidaste hacer una copia de seguridad de tu trabajo, ¿verdad?",
+      "back": "You didn't forget to back up your work, did you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-026",
+      "front": "No olvidaste hacer una copia de seguridad de tus archivos, ¿verdad?",
+      "back": "You didn't forget to back up your files, did you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-027",
+      "front": "No olvidaste hacer una copia de seguridad de los datos, ¿verdad?",
+      "back": "You didn't forget to back up the data, did you?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-028",
+      "front": "¡No puedo creer que se te haya olvidado hacer una copia de seguridad de tus archivos! ¡Ahora has perdido horas de trabajo!",
+      "back": "I can't believe you forgot to back up your files! Now you've lost hours of work!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-029",
+      "front": "¡No puedo creer que se te haya olvidado hacer una copia de seguridad del documento! ¡Ahora has perdido horas de trabajo!",
+      "back": "I can't believe you forgot to back up the document. Now you've lost hours of work!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-030",
+      "front": "¡No puedo creer que se te haya olvidado hacer una copia de seguridad de los datos! ¡Ahora has perdido horas de trabajo!",
+      "back": "I can't believe you forgot to back up the data. Now you've lost hours of work!",
+      "sourcePage": 18
+    },
+    {
+      "id": "s2-031",
+      "front": "Pasamos la noche en un hotel y después pasamos el día en el pueblo.",
+      "back": "We spent the night in the hotel, and then spent the day in the village.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-032",
+      "front": "Pasamos la noche en una casa de huéspedes y después pasamos el día juntos.",
+      "back": "We spent the night in a guesthouse, and then spent the day together.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-033",
+      "front": "Pasamos la noche en una posada y después pasamos el día en la zona.",
+      "back": "We spent the night in an inn, and then spent the day in the local area.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-034",
+      "front": "Estábamos agotados, así que pasamos la noche en una casa de huéspedes.",
+      "back": "We were exhausted so we spent the night at a guesthouse.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-035",
+      "front": "No podíamos conducir más, así que pasamos la noche en una posada.",
+      "back": "We couldn't drive anymore so we spent the night at an inn.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-036",
+      "front": "Se estaban quedando dormidos al volante, así que pasaron la noche en un hotel.",
+      "back": "They were falling asleep at the wheel so they spent the night at a hotel.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-037",
+      "front": "¡No puedo creer que hayan pasado la noche juntos!",
+      "back": "I can't believe they spent the night together!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-038",
+      "front": "¡No puedo creer que hayáis pasado la noche juntos!",
+      "back": "I can't believe you guys spent the night together!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-039",
+      "front": "¡No puedo creer que hayáis pasado la noche juntos! ¡Creía que él no era de tu tipo!",
+      "back": "I can't believe you guys spent the night together, I thought he wasn't your type!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-040",
+      "front": "Insistieron en pasar todo el día allí. Fue una tortura.",
+      "back": "They insisted on spending the whole day there. It was torture.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-041",
+      "front": "Él insistió en pasar todo el día con nosotros. Fue una tortura.",
+      "back": "He insisted on spending the whole day with us. It was torture.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-042",
+      "front": "Insistieron en pasar todo el día en el museo. Aparentemente, fue una tortura.",
+      "back": "They insisted on spending the whole day in the museum. Apparently, it was torture.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-043",
+      "front": "¿Pasamos la noche en este motel?",
+      "back": "Shall we spend the night in this motel?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-044",
+      "front": "No puedo conducir más. ¿Pasamos la noche en esta casa de huéspedes?",
+      "back": "I can't drive anymore. Shall we spend the night at this guesthouse?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-045",
+      "front": "Me estoy quedando dormido al volante. ¿Pasamos la noche en esta posada?",
+      "back": "I'm falling asleep at the wheel. Shall we spend the night at this inn?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-046",
+      "front": "Pasaron todo el verano viajando por Australia.",
+      "back": "They spent the whole summer travelling around Australia.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-047",
+      "front": "Pasamos toda la primavera viajando por Europa.",
+      "back": "We spent the whole spring travelling around Europe.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-048",
+      "front": "Pasé todo el invierno viajando por Asia.",
+      "back": "I spent the whole winter travelling around Asia.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-049",
+      "front": "Pasaste muchísimo tiempo en ese proyecto.",
+      "back": "You spent way too long on that project.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-050",
+      "front": "¡Tardaste muchísimo tiempo en eso! Tienes que darte prisa.",
+      "back": "You spent way too long on that! You need to speed up!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-051",
+      "front": "Greg pasó muchísimo tiempo en ese proyecto. Tiene que darse prisa.",
+      "back": "Greg spent way too long on that project. He needs to speed up.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-052",
+      "front": "¿Te has gastado toda la paga ya?",
+      "back": "Have you spent all your allowance already?",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-053",
+      "front": "Él se ha gastado toda su paga ya.",
+      "back": "He's spent all of his allowance already.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-054",
+      "front": "No puedo creer que se hayan gastado toda su paga ya.",
+      "back": "I can't believe they've spent all their allowance already.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-055",
+      "front": "Gasté toda mi paga en ropa.",
+      "back": "I spent all my allowance on clothes.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-056",
+      "front": "Él gastó toda su paga en música.",
+      "back": "He spent all his allowance on music.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-057",
+      "front": "Ellos gastaron toda su paga en alcohol.",
+      "back": "They spent all their allowance on alcohol.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-058",
+      "front": "Han gastado demasiado este mes.",
+      "back": "They've spent too much this month.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Has gastado demasiado este fin de semana!",
+      "back": "You've spent too much this weekend!",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-060",
+      "front": "Él ha gastado demasiado en ropa este mes. Tiene que hacerse un presupuesto.",
+      "back": "He's spent too much on clothes this month. He needs to go on a budget.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-061",
+      "front": "Gastaste más de la cuenta el mes pasado. Necesitas ceñirte al presupuesto.",
+      "back": "You overspent last month. You need to stay within budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-062",
+      "front": "Lee gastó más de la cuenta el mes pasado. De verdad necesita ceñirse al presupuesto.",
+      "back": "Lee overspent last month. He really needs to learn to stay within budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-063",
+      "front": "Harriet gastó más de la cuenta el mes pasado. De verdad, necesita aprender a ceñirse al presupuesto.",
+      "back": "Harriet overspent last month. She really needs to learn to stay within budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Has vuelto a gastar más de la cuenta este mes!",
+      "back": "You've overspent again this month!",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-065",
+      "front": "¡Has vuelto a gastar más de la cuenta este mes! ¿Cuándo vas a aprender a presupuestar?",
+      "back": "You've overspent again this month! When are you going to learn to budget?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Él ha vuelto a gastar más de la cuenta este mes! ¿Cuándo va a aprender a presupuestar?",
+      "back": "He's overspent again this month! When is he going to learn to budget?",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-067",
+      "front": "Mi jefa me ha dicho que me ciña a un presupuesto.",
+      "back": "My boss has told me to stick to a budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-068",
+      "front": "Mi mujer me ha dicho que me ciña a un presupuesto.",
+      "back": "My wife has told me to stick to a budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-069",
+      "front": "El director de contabilidad nos ha dicho que nos ciñamos a un presupuesto ajustado.",
+      "back": "The accounts manager has told us to stick to a tight budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-070",
+      "front": "Él sobrepasó el presupuesto el mes pasado. Es un negado para ceñirse al presupuesto.",
+      "back": "He went over budget last month. He's useless at staying within budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-071",
+      "front": "Ella sobrepasó el presupuesto el mes pasado. De verdad que ella necesita ceñirse al presupuesto.",
+      "back": "She went over budget last month. She really has to stay within budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-072",
+      "front": "Sobrepasé el presupuesto el mes pasado. Mi jefa me ha dicho que me ciña a un presupuesto ajustado.",
+      "back": "I went over budget last month. My boss has told me to stick to a tight budget.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-073",
+      "front": "Si no te ciñes al presupuesto, perderás tu cuenta de gastos.",
+      "back": "If you don't stay within budget, you'll lose your expenses account.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-074",
+      "front": "Si sobrepasas el presupuesto, perderás tu cuenta de gastos.",
+      "back": "If you go over budget, you'll lose your expenses account.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-075",
+      "front": "Si vuelves a gastar más de la cuenta, perderás tu cuenta de gastos.",
+      "back": "If you overspend again, you'll lose your expenses account.",
+      "sourcePage": 23
+    },
+    {
+      "id": "s2-076",
+      "front": "Asegúrate de que hay unos flotadores en el barco. Podrían salvar una vida.",
+      "back": "Make sure there are some rubber rings on the boat. They could save a life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-077",
+      "front": "Asegúrate de que hay un chaleco salvavidas debajo del asiento. Podría salvar una vida.",
+      "back": "Make sure there's a life jacket under the seat. It could save a life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-078",
+      "front": "Asegúrate de que hay unas lanchas neumáticas en el barco. Podrían salvar una vida.",
+      "back": "Make sure there are some dinghies on the boat. They could save a life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-079",
+      "front": "Gracias a Dios que había un flotador en el barco. Sin duda le salvó la vida a él.",
+      "back": "Thank goodness there was a rubber ring on the boat. It definitely saved his life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-080",
+      "front": "Gracias a Dios que había un chaleco salvavidas en el barco. Sin duda le salvó la vida a ella.",
+      "back": "Thank goodness there was a life jacket on the boat. It definitely saved her life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-081",
+      "front": "Gracias a Dios que había una lancha neumática en el barco. Sin duda les salvó la vida.",
+      "back": "Thank goodness there was a dinghy on the boat. It definitely saved their lives.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-082",
+      "front": "Debes dejar de fumar; te salvará la vida.",
+      "back": "You must stop smoking; it'll save your life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-083",
+      "front": "Él debe dejar de beber; le salvará la vida.",
+      "back": "He must stop drinking; it'll save his life.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-084",
+      "front": "Deben dejar de comer carne roja; les salvará la vida.",
+      "back": "They must stop eating red meat; it'll save their lives.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-085",
+      "front": "Por favor, ¿puedes cubrir mi turno? ¡Me salvarías la vida!",
+      "back": "Please can you cover for me? You'll be saving my life!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-086",
+      "front": "Por favor, ¿puedes ayudarme hoy? ¡Me salvarías la vida!",
+      "back": "Please can you help me out today? You'll be saving my life!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-087",
+      "front": "Por favor, ¿puedes echarme una mano? ¡Me salvarías la vida!",
+      "back": "Please can you give me a hand? You'll be saving my life!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-088",
+      "front": "Muchas gracias por cubrir mi puesto. ¡Me has salvado la vida!",
+      "back": "Thank you so much for covering for me. You saved my life!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-089",
+      "front": "Muchas gracias por ayudarme hoy. ¡Me has salvado la vida!",
+      "back": "Thank you so much for helping me out today. You saved my life!",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-090",
+      "front": "Muchas gracias por echarme una mano. ¡Me has salvado la vida!",
+      "back": "Thank you so much for giving me a hand. You saved my life!",
+      "sourcePage": 24
+    }
+  ]
+}
