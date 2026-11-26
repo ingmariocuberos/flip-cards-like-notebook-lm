@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-84",
+  "bookTitle": "Libro 84",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿La fuente? Simplemente pasa la iglesia que ves allí y gira a la izquierda.",
+      "back": "The fountain? Just go past the church you can see over there and turn left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-002",
+      "front": "¿El ayuntamiento? Sólo tienes que pasar las obras que ves allí y girar a la derecha.",
+      "back": "The town hall? Just go past the construction site you can see over there and turn right.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-003",
+      "front": "¿La catedral? Simplemente pasa la rotonda que ves allí y gira a la derecha.",
+      "back": "The cathedral? Just go past the roundabout you can see over there and turn right.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-004",
+      "front": "¿La carnicería? Creo que está allí, justo después de la plaza.",
+      "back": "The butcher's? I think it's over there just past the square.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-005",
+      "front": "¿El mercado? Creo que está allí, justo después de la catedral.",
+      "back": "The market? I think it's over there just past the cathedral.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-006",
+      "front": "¿El ayuntamiento? Creo que está allí, justo después de la rotonda.",
+      "back": "The town hall? I think it's over there just past the roundabout.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-007",
+      "front": "Una vez que hayas pasado el castillo, el museo está justo ahí a tu izquierda.",
+      "back": "Once you've passed the castle, the museum is just there on your left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-008",
+      "front": "Una vez que hayas pasado el ayuntamiento, la estación está justo ahí a tu derecha.",
+      "back": "Once you've passed the town hall, the station is just there on your right.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-009",
+      "front": "Una vez que hayas pasado la fuente, el quiosco está justo ahí a tu izquierda.",
+      "back": "Once you've passed the fountain, the newsstand is just there on your left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-010",
+      "front": "Bien, acabamos de pasar la catedral, así que el restaurante debería estar justo aquí a la izquierda.",
+      "back": "OK, we've just passed the cathedral, so the restaurant should be just here on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-011",
+      "front": "Bien, acabamos de pasar el ayuntamiento, así que el museo debería estar justo aquí a la izquierda.",
+      "back": "OK, we've just passed the town hall so the museum should be just here on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-012",
+      "front": "Bien, acabamos de pasar el quiosco, así que la carnicería debería estar justo aquí a la izquierda.",
+      "back": "OK, we've just passed the newsstand, so the butcher's should be just here on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-013",
+      "front": "Creo que sólo con pasar ese edificio caminando, el pub debería estar a la izquierda.",
+      "back": "I think that if we just walk past that building, the pub should be on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-014",
+      "front": "Creo que sólo con pasar ese quiosco caminando, el ayuntamiento debería estar a la derecha.",
+      "back": "I think that if we just walk past that newsstand, the town hall should be on the right.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-015",
+      "front": "Creo que sólo con pasar esa iglesia caminando, la carnicería debería estar a la izquierda.",
+      "back": "I think that if we just walk past that church, the butcher's should be on the left.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-016",
+      "front": "La carretera atraviesa la ciudad.",
+      "back": "The road passes through the city.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-017",
+      "front": "El pez atravesó la red y escapó.",
+      "back": "The fish passed through the net and escaped.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-018",
+      "front": "La bala le atravesó el hombro a él.",
+      "back": "The bullet passed right through his shoulder.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-019",
+      "front": "Deberías poder pasar el puesto de control de seguridad sin problema.",
+      "back": "You should pass through the security checkpoint without any problem.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-020",
+      "front": "No nos dejan pasar el control de carretera.",
+      "back": "They won't let us pass through the roadblock.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-021",
+      "front": "Me quedé mirando admirado cuando pasamos por el valle.",
+      "back": "As we passed through the valley I gazed in wonder.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-022",
+      "front": "Cuando pasamos el gas por el agua, se produce una reacción.",
+      "back": "When we pass the gas through water, there's a reaction.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-023",
+      "front": "La planta procesadora pasa gas por una tubería a Michigan.",
+      "back": "The processing plant passes gas through a pipe to Michigan.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-024",
+      "front": "Si se pasa una corriente a través del material, se pone rígido.",
+      "back": "If you pass a current through the material, it becomes rigid.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-025",
+      "front": "Mucha gente importante ha pasado por estos pasillos.",
+      "back": "A lot of important people have passed through these corridors.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-026",
+      "front": "Un 5% más de criminales pasó por el sistema penal el año pasado.",
+      "back": "5% more criminals passed through the penal system last year.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-027",
+      "front": "Una vez que has pasado por los niveles inferiores de dirección, hay una lucha enormemente competitiva por el puesto más alto.",
+      "back": "Once you've passed through the lower levels of management, there's a highly competitive fight for the top spot.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Cuándo fue la última vez que pudiste atravesar paredes de ladrillo? ¡Nunca he podido atravesarlas!",
+      "back": "When was the last time you were able to pass through brick walls? I've never been able to pass through brick walls!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Cuándo fue la última vez que un balón pudo atravesar una puerta de titanio? ¡Nunca ha podido hacerlo!",
+      "back": "When was the last time a football was able to pass through a titanium door? A football's never been able to pass through a titanium door!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Cuándo fue la última vez que dejaron pasar a los elefantes por el control? ¡Nunca les han dejado!",
+      "back": "When was the last time elephants were allowed to pass through the roadblock? Elephants have never been allowed to pass through the roadblock!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-031",
+      "front": "La multitud armó un estruendo cuando pasaron los futbolistas.",
+      "back": "The crowd roared as the footballers passed by.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-032",
+      "front": "La multitud estaba armando un estruendo cuando pasó el ciclista.",
+      "back": "The crowd was roaring as the cyclist passed by.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-033",
+      "front": "La multitud empezó a clamar cuando pasó el candidato.",
+      "back": "The crowd started to roar as the candidate passed by.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-034",
+      "front": "Pasaba por aquí y se me ocurrió hacerte una visita.",
+      "back": "I was just passing by and thought I'd drop in.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella pasaba por ahí y les hizo una visita para saludar.",
+      "back": "She was just passing by and dropped in on them to say hello.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-036",
+      "front": "Pasaba por ahí y se me ocurrió hacer una visita para saludar.",
+      "back": "I was just passing by and thought I'd drop in to say hi.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-037",
+      "front": "La procesión pasó por delante del monumento.",
+      "back": "The procession passed by the memorial.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-038",
+      "front": "El desfile pasó por el monumento.",
+      "back": "The parade passed by the memorial.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-039",
+      "front": "La caravana de vehículos oficiales pasó por delante del monumento.",
+      "back": "The motorcade passed by the memorial.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-040",
+      "front": "Se sintieron aliviados cuando cruzaron la frontera.",
+      "back": "They felt relieved as they passed over the border.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-041",
+      "front": "El desfile de Carnaval cruza la calle Mayor todos los años.",
+      "back": "The carnival parade passes over Main Street every year.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-042",
+      "front": "El desfile militar cruzó el Puente de Londres.",
+      "back": "The military parade passed over London Bridge.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-043",
+      "front": "Todo el mundo miró hacia arriba cuando los aviones pasaron por encima del estadio.",
+      "back": "Everyone looked up as the planes passed over the stadium.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-044",
+      "front": "Todos miramos hacia arriba cuando el dirigible pasó por encima del campo.",
+      "back": "We all looked up as the blimp passed over the pitch.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-045",
+      "front": "La multitud miró hacia arriba cuando los helicópteros les pasaron por encima.",
+      "back": "The crowd looked up as the helicopters passed over them.",
+      "sourcePage": 22
+    },
+    {
+      "id": "s2-046",
+      "front": "¡Oye! ¡Pásame una llave inglesa!",
+      "back": "Hey! Pass me up a wrench!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-047",
+      "front": "¡Oye! ¡Pásame un destornillador!",
+      "back": "Oi! Pass me up a screwdriver!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Podrías pasarme una linterna?",
+      "back": "Could you pass me up a torch?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-049",
+      "front": "¡Ya te he pasado un destornillador! ¡Echa un vistazo a tu alrededor!",
+      "back": "I've already passed you up a screwdriver! Have a look around you!",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-050",
+      "front": "Te acabo de pasar una linterna; ¿ya la has perdido?",
+      "back": "I've just passed you up a torch; have you already lost it?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-051",
+      "front": "Te pasé una llave inglesa hace unos minutos; ¿no la encuentras?",
+      "back": "I passed you up a wrench a few minutes ago; can't you find it?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-052",
+      "front": "Pasa la llave inglesa, a menos que todavía la estés usando.",
+      "back": "Pass down the wrench, unless you're still using it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-053",
+      "front": "Pasa la linterna, a menos que todavía la necesites.",
+      "back": "Pass down the torch, unless you still need it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-054",
+      "front": "Pasa el destornillador, a menos que no hayas terminado con él.",
+      "back": "Pass the screwdriver down, unless you haven't finished with it.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-055",
+      "front": "Mi padre me dejó en herencia el reloj.",
+      "back": "My father passed the watch down to me.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-056",
+      "front": "Su padre le dejó ese anillo en herencia a él.",
+      "back": "His father passed that ring down to him.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-057",
+      "front": "Mi abuelo le dejó esta mesa a mi padre en herencia, y él me la dejó a mí.",
+      "back": "My grandfather passed this table down to my father, and he passed it down to me.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-058",
+      "front": "Estos rituales se han transmitido de generación a generación.",
+      "back": "These rituals have been passed down from generation to generation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-059",
+      "front": "La leyenda se transmitió de una generación a otra.",
+      "back": "The legend was passed down from one generation to the next.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-060",
+      "front": "La sabiduría se transmite a través de las generaciones.",
+      "back": "Knowledge is passed down through the generations.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-061",
+      "front": "¡Asegúrate de no olvidarte de tu tarjeta de embarque!",
+      "back": "Make sure you don't forget your boarding pass!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-062",
+      "front": "¡Siempre me olvido de mi tarjeta de embarque!",
+      "back": "I always forget my boarding pass!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-063",
+      "front": "Siempre imprimo la tarjeta de embarque el día antes de volar, por si acaso.",
+      "back": "I always print off my boarding pass the day before I fly, just in case.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-064",
+      "front": "¡Qué pase más excelente!",
+      "back": "What a brilliant pass!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-065",
+      "front": "¿Has visto ese pase?",
+      "back": "Did you see that pass?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-066",
+      "front": "¡Ese fue el mejor pase del partido!",
+      "back": "That was the best pass of the match!",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-067",
+      "front": "La oferta incluye un pase gratis para el spa.",
+      "back": "The offer includes a free pass for the spa.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-068",
+      "front": "Él me dio un pase gratis para el parque de atracciones.",
+      "back": "He gave me a free pass to the amusement park.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-069",
+      "front": "Ganamos un pase gratis para la bolera.",
+      "back": "We won a free pass for the bowling alley.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-070",
+      "front": "En mi gimnasio te regalan dos pases para la familia y amigos.",
+      "back": "In my gym you get two guest passes for friends and family.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Me puedes conseguir un pase para la ceremonia?",
+      "back": "Can you get me a guest pass for the ceremony?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-072",
+      "front": "Estoy tratando de conseguir un pase para la biblioteca de la universidad.",
+      "back": "I'm trying to get a guest pass for the university library.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-073",
+      "front": "Mi bonobús ha caducado; tendré que comprar otro.",
+      "back": "My bus pass has expired; I'll have to get a new one.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-074",
+      "front": "Su bonometro de él ha caducado; tendrá que comprar otro.",
+      "back": "His metro pass has expired; he'll have to get a new one.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-075",
+      "front": "Tu bonometro ha caducado; tendrás que comprar otro.",
+      "back": "Your metro pass has expired; you'll have to get a new one.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-076",
+      "front": "La señorita es mala, ¡pásalo!",
+      "back": "The teacher's mean; pass it on!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-077",
+      "front": "¡Tengo que hacer pis, pásalo!",
+      "back": "I need to pee; pass it on!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-078",
+      "front": "Esta clase es aburrida, ¡pásalo!",
+      "back": "This class is boring; pass it on!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-079",
+      "front": "¡Eh! Pasa este mensaje.",
+      "back": "Hey! Pass this message around.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-080",
+      "front": "Jack, ¡¿otra vez estás pasando mensajes groseros?!",
+      "back": "Jack, are you passing rude messages around again?!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-081",
+      "front": "¡Hoy en clase de Biología Jodi me pasó un mensaje para ligar conmigo!",
+      "back": "Jodi passed me a flirty message in biology today!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-082",
+      "front": "El jefe me ha transferido muchas responsabilidades.",
+      "back": "The boss has passed on a lot of responsibilities to me.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-083",
+      "front": "Le hemos pasado tus datos a recursos humanos.",
+      "back": "We've passed your details on to human resources.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-084",
+      "front": "¡Eh, Jack, este correo electrónico es graciosísimo, pásaselo a todo el mundo!",
+      "back": "Hey, Jack, this email is hilarious, pass it on to everyone!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-085",
+      "front": "¡Me alegro de ver que les has transmitido tu ética laboral a tus hijos!",
+      "back": "I'm glad to see you've passed your work ethic on to your children!",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-086",
+      "front": "Siempre me preocupaba el haber transmitido mi daltonismo a mis hijos, pero afortunadamente no fue así.",
+      "back": "I was always worried about passing my colour blindness on to my kids, but luckily it never happened.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-087",
+      "front": "Cuando tenemos invitados, suelo servir queso y embutido.",
+      "back": "When we have guests over, I usually pass around cheese and cold meats.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-088",
+      "front": "Le he regalado mi reloj a mi hijo por su boda.",
+      "back": "I've passed on my watch to my son for his wedding.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-089",
+      "front": "Me encanta poner golosinas a los nietos.",
+      "back": "I love passing sweets around the grandkids.",
+      "sourcePage": 27
+    },
+    {
+      "id": "s2-090",
+      "front": "Le he pasado el control de mi cuenta bancaria a mi hijo.",
+      "back": "I've passed control of my bank account on to my son.",
+      "sourcePage": 27
+    }
+  ]
+}

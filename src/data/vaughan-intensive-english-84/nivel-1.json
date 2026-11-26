@@ -1,0 +1,556 @@
+{
+  "bookId": "vaughan-intensive-english-84",
+  "bookTitle": "Libro 84",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Pasa el balón!",
+      "back": "Pass the ball!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-002",
+      "front": "Pásale el balón a él.",
+      "back": "Pass the ball to him.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-003",
+      "front": "Pásale el balón a ella.",
+      "back": "Pass the ball to her.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-004",
+      "front": "Pásale a él el balón.",
+      "back": "Pass him the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-005",
+      "front": "Pásale a ella el balón.",
+      "back": "Pass her the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-006",
+      "front": "Pásame a mí el balón.",
+      "back": "Pass me the ball.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-007",
+      "front": "¡Pásalo aquí!",
+      "back": "Pass it over here!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Pasa el balón aquí!",
+      "back": "Pass the ball over here!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-009",
+      "front": "¡Pásalo ahí!",
+      "back": "Pass it over there!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-010",
+      "front": "Él pasa el balón muy bien.",
+      "back": "He passes the ball really well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-011",
+      "front": "Ella pasa el balón muy bien.",
+      "back": "She passes the ball really well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-012",
+      "front": "Él suele pasar el balón muy bien.",
+      "back": "He normally passes the ball really well.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-013",
+      "front": "En el rugby sólo se puede pasar el balón con las manos.",
+      "back": "In rugby, you can only pass the ball with your hands.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-014",
+      "front": "En el fútbol sólo se puede pasar el balón con los pies.",
+      "back": "In football, you can only pass the ball with your feet.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-015",
+      "front": "En el baloncesto sólo se puede pasar el balón con las manos.",
+      "back": "In basketball, you can only pass with your hands.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-016",
+      "front": "Pásame el mando de la tele, por favor. Gracias.",
+      "back": "Pass me the remote, please. Ta.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-017",
+      "front": "¿Le podrías pasar la sal a Susan? Gracias.",
+      "back": "Could you pass the salt to Susan? Cheers.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Me podrías pasar el chocolate? Gracias.",
+      "back": "Could you pass the chocolate? Thanks.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Me podrías pasar la sal? Gracias.",
+      "back": "Could you pass over the salt? Cheers.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-020",
+      "front": "Perdona, ¿me podrías pasar el chocolate, por favor? Gracias.",
+      "back": "Excuse me, could you pass over the chocolate, please? Ta.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-021",
+      "front": "Oye, ¿me podrías pasar el mando de la tele? Gracias.",
+      "back": "Hey, could you pass over the remote? Thanks.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-022",
+      "front": "¿De quién es esa botella? Pásamela, ¿quieres?",
+      "back": "Whose bottle is that? Pass it over here, would you?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿De quién son esas gafas? Pásamelas, ¿quieres?",
+      "back": "Whose glasses are those? Pass them over here, would you?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿De quién son esos guantes? Pásamelos, ¿quieres?",
+      "back": "Whose gloves are those? Pass them over here, would you?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Es ése el libro de Sanjay? Pásamelo un segundo.",
+      "back": "Is that Sanjay's book? Pass it here a sec.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Son ésas las gafas de Danny? Pásamelas un segundo.",
+      "back": "Are those Danny's glasses? Pass them here a sec.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Son esos los guantes de Craig? Pásamelos un segundo.",
+      "back": "Are those Craig's gloves? Pass them here a sec.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¡Él nunca me pasa el mando de la tele cuando se lo pido!",
+      "back": "He never passes the remote when I ask him for it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¡Ella nunca me pasa la sal cuando se lo pido!",
+      "back": "She never passes me the salt when I ask her for it!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Nunca le paso a él mi mechero cuando me lo pide.",
+      "back": "I never pass him my lighter when he asks me for it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Si no apruebo este examen, ¡mis padres me matarán!",
+      "back": "If I don't pass this exam, my parents will kill me!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Si no aprobamos el examen, tendremos que repetir el curso.",
+      "back": "If we don't pass this exam, we'll have to repeat the year.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Si no apruebo este examen, tendré que volver a presentarme.",
+      "back": "If I don't pass this exam, I'll have to re-sit it.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Me está costando aprobar este examen.",
+      "back": "I'm finding it difficult to pass this exam.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Me está costando aprobar este examen. ¡No quiero repetir curso!",
+      "back": "I'm finding it difficult to pass this exam. I don't want to repeat the year!",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Me está costando aprobar el examen. No quiero volver a presentarme.",
+      "back": "I'm finding it difficult to pass this exam. I don't want to re-sit it.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "La gente casi nunca aprueba este examen a la primera.",
+      "back": "People hardly ever pass this exam the first time.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-038",
+      "front": "La gente que no estudia casi nunca aprueba este examen.",
+      "back": "People who don't study hardly ever pass this exam.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-039",
+      "front": "Yo casi nunca apruebo los exámenes a la primera vez; suelo tener que volver a presentarme.",
+      "back": "I hardly ever pass exams the first time; I usually have to re-sit them.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-040",
+      "front": "Voy a hacer todo lo posible por aprobar este examen.",
+      "back": "I'm going to do whatever it takes to pass this exam.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-041",
+      "front": "Voy a hacer todo lo posible por aprobar el examen; no quiero repetir el curso.",
+      "back": "I'm going to do whatever it takes to pass the exam; I don't want to repeat the course.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-042",
+      "front": "Tienes que hacer todo lo posible por aprobar el examen.",
+      "back": "You have to do whatever it takes to pass the exam.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-043",
+      "front": "Si no apruebo este examen, lloraré. No quiero volver a presentarme.",
+      "back": "If I don't pass this exam, I'll cry. I don't want to do a re-sit.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-044",
+      "front": "Tienes que hacer todo lo posible para aprobar.",
+      "back": "You have to do whatever it takes to pass.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-045",
+      "front": "La gente que no estudia casi nunca aprueba.",
+      "back": "People who don't study hardly ever pass.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-046",
+      "front": "Me está costando aprobar este examen. (Repaso)",
+      "back": "I'm finding it difficult to pass this exam.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-047",
+      "front": "¡Él no me deja adelantarle!",
+      "back": "He won't let me pass!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-048",
+      "front": "¡El idiota de delante no me deja adelantarle!",
+      "back": "The idiot in front won't let me pass!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-049",
+      "front": "¡El tipo de delante no me deja adelantarle!",
+      "back": "The guy in front won't let me pass!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-050",
+      "front": "Paso por delante de la fábrica de camino al trabajo. (The way)",
+      "back": "I pass the factory on the way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-051",
+      "front": "Ella pasa por delante de la iglesia de camino al trabajo. (The way)",
+      "back": "She passes the church on the way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-052",
+      "front": "Él pasa por delante de un lago de camino al trabajo. (The way)",
+      "back": "He passes a lake on the way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-053",
+      "front": "Paso por delante de la fábrica de camino al trabajo. (My way)",
+      "back": "I pass the factory on my way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-054",
+      "front": "Ella pasa por delante de la iglesia de camino al trabajo. (Her way)",
+      "back": "She passes the church on her way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-055",
+      "front": "Él pasa por delante de un lago de camino al trabajo. (His way)",
+      "back": "He passes a lake on his way to work.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-056",
+      "front": "Pasamos por delante de una casita de campo preciosa antes.",
+      "back": "We passed a pretty cottage earlier.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-057",
+      "front": "Pasé por delante de una iglesia de camino hacia aquí.",
+      "back": "I passed a church on the way here.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-058",
+      "front": "Pasaron por delante de un lago de camino hacia aquí.",
+      "back": "They passed a lake on the way here.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-059",
+      "front": "Pasé por delante de un lago precioso de camino a la fábrica.",
+      "back": "I passed a very beautiful lake on my way to the factory.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-060",
+      "front": "Pasamos por delante de una casita de campo preciosísima de camino al lago.",
+      "back": "We passed a very pretty cottage on our way to the lake.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-061",
+      "front": "Pasaron por delante de una fábrica fea de camino a la iglesia.",
+      "back": "They passed an ugly factory on their way to the church.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Tenemos que atravesar el túnel para llegar a Dover.",
+      "back": "We need to pass through the tunnel to get to Dover.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-063",
+      "front": "Atravieso un túnel de camino al trabajo.",
+      "back": "I pass through a tunnel on the way to work.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-064",
+      "front": "Tendremos que atravesar un valle caminando.",
+      "back": "We'll have to pass through the valley on foot.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Cuánto se tarda en atravesar el túnel del Canal de la Mancha?",
+      "back": "How long does it take to pass through the Channel Tunnel?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Cuánto se tarda en atravesar el valle en coche?",
+      "back": "How long does it take to pass through the valley by car?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Cuánto se tarda en atravesar las montañas?",
+      "back": "How long does it take to pass through the mountains?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-068",
+      "front": "Se tarda unos diez minutos en atravesar el túnel.",
+      "back": "It takes about ten minutes to pass through the tunnel.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-069",
+      "front": "Se tarda media hora más o menos en atravesar el valle en coche.",
+      "back": "It takes about half an hour to pass through the valley by car.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-070",
+      "front": "Se tarda unas dos horas en atravesar las montañas.",
+      "back": "It takes about two hours to pass through the mountains.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-071",
+      "front": "¿Cuánto se tarda normalmente en atravesar Andorra?",
+      "back": "How long does it normally take to pass through Andorra?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-072",
+      "front": "¿Cuánto se tarda normalmente en atravesar el pueblo?",
+      "back": "How long does it normally take to pass through the town?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Cuánto se tarda normalmente en atravesar el valle a caballo?",
+      "back": "How long does it normally take to pass through the valley on horseback?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-074",
+      "front": "Se suele tardar media hora más o menos en atravesar Andorra.",
+      "back": "It usually takes about half an hour to pass through Andorra.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-075",
+      "front": "Se suele tardar media hora más o menos en atravesar el pueblo.",
+      "back": "It usually takes about half an hour to pass through the town.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-076",
+      "front": "Se suele tardar media hora más o menos en atravesar el valle a caballo.",
+      "back": "It usually takes about half an hour to pass through the valley on horseback.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Podrías pasarle la pimienta a Stacy, por favor? (Pass along)",
+      "back": "Could you pass along the pepper to Stacy, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Podrías pasarle las verduras a Jack, por favor? (Pass along)",
+      "back": "Could you pass along the vegetables to Jack, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Podrías pasarle el cordero a tu hermano, por favor? (Pass along)",
+      "back": "Could you pass along the lamb to your brother, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Podrías pasarle la pimienta a Stacy, por favor? (Pass... along)",
+      "back": "Could you pass the pepper along to Stacy, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Podrías pasarle las verduras a Jack, por favor? (Pass... along)",
+      "back": "Could you pass the vegetables along to Jack, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Podrías pasarle el cordero a tu hermano, por favor? (Pass... along)",
+      "back": "Could you pass the lamb along to your brother, please?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Podrías repartir la tarta?",
+      "back": "Could you pass around the cake?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-084",
+      "front": "Reparte la tarta, todos quieren un poco.",
+      "back": "Pass around the cake, everybody wants some.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-085",
+      "front": "Repartamos la tarta primero.",
+      "back": "Let's pass around the cake first.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-086",
+      "front": "En la iglesia hacen pasar una bandeja para recoger donaciones.",
+      "back": "At church they pass around a tray to collect donations.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-087",
+      "front": "Jack suele ofrecer vino caro en sus fiestas.",
+      "back": "Jack usually passes around expensive wine at his parties.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-088",
+      "front": "Estamos haciendo pasar su tarjeta de ella en la oficina para que todos la puedan firmar.",
+      "back": "We're passing her card around in the office so everybody can sign it.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Vas a ofrecer vino en tu fiesta?",
+      "back": "Are you going to pass around wine at your party?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Vamos a hacer pasar su tarjeta de ella en la oficina para que todos la puedan firmar?",
+      "back": "Are we going to pass her card around in the office so everybody can sign it?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-091",
+      "front": "¿Van a hacer pasar una bandeja para recoger dinero?",
+      "back": "Are they going to pass a tray around to collect money?",
+      "sourcePage": 13
+    }
+  ]
+}
