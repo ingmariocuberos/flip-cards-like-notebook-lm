@@ -1,0 +1,640 @@
+{
+  "bookId": "vaughan-intensive-english-78",
+  "bookTitle": "Libro 78",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Sabes qué carrera vas a estudiar?",
+      "back": "Do you know what degree you're going to study?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Voy a estudiar una carrera de márketing.",
+      "back": "I'm going to study a degree in marketing.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Voy a estudiar una carrera de finanzas porque quiero una buena trayectoria profesional.",
+      "back": "I'm going to study a finance degree because I want to have a good career.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "La mayoría de los estudiantes universitarios viven en el campus.",
+      "back": "Most undergraduates live on campus.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Soy estudiante universitario y no vivo en el campus.",
+      "back": "I'm an undergrad and I don't live on campus.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Estoy estudiando una carrera universitaria de márketing.",
+      "back": "I'm studying an undergraduate degree in marketing.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "La mayoría de los estudiantes graduados viven fuera del campus.",
+      "back": "Most postgraduates live off campus.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Estoy estudiando una carrera de posgrado de Relaciones Internacionales.",
+      "back": "I'm studying a postgrad in international relations.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Mi hija mayor está estudiando una carrera de posgrado de Finanzas.",
+      "back": "My eldest daughter is doing a finance postgrad.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Voy a hacer un máster en edición el año que viene.",
+      "back": "I'm going to do a master's in publishing next year.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Espero hacer un máster de Bioquímica cuando termine la carrera.",
+      "back": "I'm hoping to do a master's in biochemistry when I finish my degree.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "Hoy en día la mayoría de los estudiantes universitarios hacen después un máster.",
+      "back": "Most undergrads go on to do a master's these days.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Mi hijo tiene un doctorado en Medicina por Harvard.",
+      "back": "My son has a doctorate in medicine from Harvard.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "¿Crees que harás un doctorado cuando termines el máster?",
+      "back": "Do you think you'll do a doctorate when you finish your master's?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Espero hacer un doctorado en Bioquímica el año que viene.",
+      "back": "I'm hoping to study a doctorate in biochemistry next year.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Después del bachillerato quiero ir a la universidad. (Inglés británico.)",
+      "back": "After my A-Levels, I want to go to university.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Después del instituto quiero ir a la universidad. (Inglés estadounidense.)",
+      "back": "After high school, I want to go to college.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Después del bachillerato voy a la universidad para estudiar Derecho. (Inglés británico.)",
+      "back": "After my A-Levels, I'm going to university to study law.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Después del instituto voy a la universidad para estudiar Derecho. (Inglés estadounidense.)",
+      "back": "After high school, I'm going to college to study law.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Después del bachillerato mi hijo va a la universidad para estudiar Periodismo. (Inglés británico.)",
+      "back": "After his A-Levels, my son's going to university to study journalism.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Después del instituto mi hijo va a la universidad para estudiar Periodismo. (Inglés estadounidense.)",
+      "back": "After high school, my son's going to college to study journalism.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "¿Dónde fuiste a la universidad? (Usa «uni».)",
+      "back": "Where did you go to uni?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "¿Dónde fuiste a la universidad? (Usa «school».)",
+      "back": "Where did you go to school?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Fui a la universidad en Birmingham. (Usa «uni».)",
+      "back": "I went to uni in Birmingham.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Fui a la universidad en Birmingham. (Usa «school».)",
+      "back": "I went to school in Birmingham.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Quiero ir a la universidad en Birmingham. (Usa «uni».)",
+      "back": "I want to go to uni in Birmingham.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "Quiero ir a la universidad en Birmingham. (Usa «school».)",
+      "back": "I want to go to school in Birmingham.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Puedes acordarte de lo que hizo Nacho en la universidad? (Usa «did».)",
+      "back": "Can you remember what Nacho did at university?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Puedes acordarte de lo que estudió Nacho en la universidad? (Usa «majored in».)",
+      "back": "Can you remember what Nacho majored in at college?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "Sí, lo recuerdo. Hizo Económicas. (Usa «did».)",
+      "back": "Yeah, I remember. He did economics.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "Sí, lo recuerdo. Se especializó en Económicas.",
+      "back": "Yeah, I remember. He majored in economics.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Hiciste Matemáticas en la universidad? (Usa «did».)",
+      "back": "Did you do maths at university?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Te especializaste en Matemáticas en la universidad?",
+      "back": "Did you major in math at college?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-034",
+      "front": "Hice un módulo de Físicas cuando estaba en la universidad.",
+      "back": "I did a module in physics when I was at university.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-035",
+      "front": "Cursé estudios secundarios de Físicas cuando estaba en la universidad.",
+      "back": "I minored in physics when I was at college.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-036",
+      "front": "Hice Biología y un módulo de Matemáticas. Odiaba las matemáticas.",
+      "back": "I did biology and a module in maths. I hated maths.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-037",
+      "front": "Me especialicé en Biología y cursé estudios secundarios de Matemáticas. Odiaba las matemáticas.",
+      "back": "I majored in biology and minored in math. I hated math.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Puedes recordar qué módulo hizo Jessica en la universidad?",
+      "back": "Can you remember what module Jessica did at university?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Puedes recordar qué estudios secundarios cursó Jessica en la universidad?",
+      "back": "Can you remember what Jessica minored in at college?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Sacaste buenas notas en la universidad? (Usa «marks».)",
+      "back": "Did you get good marks at uni?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-041",
+      "front": "¿Sacaste buenas notas en la universidad? (Usa «grades».)",
+      "back": "Did you get good grades at school?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-042",
+      "front": "No saqué muy buenas notas en el bachillerato. (Usa «marks».)",
+      "back": "I didn't get very good marks on my A-Levels.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-043",
+      "front": "No saqué muy buenas notas en el instituto. (Usa «grades».)",
+      "back": "I didn't get very good grades in high school.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-044",
+      "front": "Saqué buenas notas en Derecho, pero en Periodismo no. (Usa «marks».)",
+      "back": "I got good marks in law but not in journalism.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-045",
+      "front": "Saqué buenas notas en Derecho, pero en Periodismo no. (Usa «grades».)",
+      "back": "I got good grades in law, but not in journalism.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-046",
+      "front": "Si no estudias para el examen, no aprobarás.",
+      "back": "If you don't study for the exam, you won't pass.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-047",
+      "front": "Vas a suspender si no estudias para el examen de Inglés.",
+      "back": "You're going to fail if you don't study for the English exam.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-048",
+      "front": "Te va a caer un suspenso si no estudias para el examen de Biología.",
+      "back": "You're going to get an F if you don't study for the biology exam.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-049",
+      "front": "No puedes pretender obtener un sobresaliente a menos que estudies.",
+      "back": "You can't expect to get a first unless you study.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-050",
+      "front": "Sólo vas a obtener un suficiente si no empiezas a estudiar.",
+      "back": "You're only going to get a third if you don't start studying.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-051",
+      "front": "No creo que él obtenga un sobresaliente en Economía a menos que empiece a estudiar ya.",
+      "back": "I don't think he'll get a first in economics unless he starts studying right now.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-052",
+      "front": "Creo que tendrías un promedio de 4,0 si estudiaras un poco más.",
+      "back": "I think you would have a 4.0 average if you studied a bit harder.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-053",
+      "front": "Podrías tener un promedio de notas muy alto si trabajaras un poco más.",
+      "back": "You could have a really high GPA if you worked a bit harder.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-054",
+      "front": "Ella tendría un promedio de notas increíble si se pusiera manos a la obra.",
+      "back": "She'd have an amazing GPA if she put in the work.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-055",
+      "front": "Él no se ha puesto manos a la obra, así que ahora le toca empollar.",
+      "back": "He hasn't put in the work so now he has to cram.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-056",
+      "front": "Llevo días hincando los codos. Espero que sea suficiente.",
+      "back": "I've been cramming for days. I hope it's enough.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-057",
+      "front": "Jean lleva toda la semana hincando los codos para el examen. Espero que sea suficiente.",
+      "back": "Jean's been cramming for the exam all week. I hope it will be enough.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-058",
+      "front": "El examen es en dos semanas. ¡Ya es hora de hincar los codos!",
+      "back": "The test is in two weeks. Time to hit the books!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-059",
+      "front": "¿No es hora de hincar los codos? El examen es pasado mañana.",
+      "back": "Isn't it time to hit the books? The exam is the day after tomorrow.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-060",
+      "front": "Los exámenes empiezan en un mes. ¡Ya es hora de hincar los codos!",
+      "back": "The exams start in a month. Time to hit the books!",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-061",
+      "front": "Van a echar a John del colegio porque hizo trampa en un examen.",
+      "back": "John is getting kicked out of school because he cheated on a test.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-062",
+      "front": "Van a echar a Louise porque hizo trampa en un examen.",
+      "back": "Louise is going to be kicked out because she cheated on an exam.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-063",
+      "front": "Josephine hizo trampa en sus exámenes finales. Llevaba una chuleta en el bolso.",
+      "back": "Josephine cheated on her finals. She had a cheat sheet in her bag.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-064",
+      "front": "No estudiaba en absoluto, pero sacó un sobresaliente. El profesor cree que es un tramposo.",
+      "back": "He didn't study at all but he got an A+. The lecturer thinks he's a cheater.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-065",
+      "front": "El profesor cree que soy un tramposo porque me va bien en los exámenes, aunque no voy a las clases.",
+      "back": "The lecturer thinks I'm a cheat because I do well in exams even though I don't go to lectures.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-066",
+      "front": "Karen debe de ser una tramposa. No se aplicó nada, pero sacó un 95% en el examen.",
+      "back": "Karen must be a cheater. She didn't put in any work but she got a 95% in the test.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-067",
+      "front": "El profesor pilló a Trevor copiando.",
+      "back": "The teacher caught Trevor copying.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-068",
+      "front": "El profesor de la universidad pilló a Lisa copiándose de Mark en el examen.",
+      "back": "The lecturer caught Lisa copying from Mark during the exam.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-069",
+      "front": "El tutor me pilló copiando de la chica que había al lado mío en el examen. Me van a echar de la uni.",
+      "back": "The tutor caught me copying from the girl beside me during the test. They're going to kick me out of uni.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-070",
+      "front": "Nuestro tutor nos avisó de que no plagiáramos.",
+      "back": "Our tutor warned us not to plagiarize.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-071",
+      "front": "Nuestro profesor de la universidad nos avisó de que no plagiáramos en nuestro primer día de clase.",
+      "back": "Our lecturer warned us not to plagiarize during our first day of classes.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-072",
+      "front": "Nuestro profesor nos avisó de que no plagiáramos en el primer día de clase en la universidad.",
+      "back": "Our professor warned us not to plagiarize during our first day of class at university.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-073",
+      "front": "Te pueden echar de la universidad por plagio.",
+      "back": "You can be kicked out of university for plagiarism.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-074",
+      "front": "Te pueden expulsar de la universidad por plagio.",
+      "back": "You can be expelled from university for plagiarism.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-075",
+      "front": "Creo que echaron a Sam del colegio por plagio.",
+      "back": "I think Sam was kicked out of school for plagiarism.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-076",
+      "front": "Tengo que empollar más autores españoles antes del examen.",
+      "back": "I need to study up on more Spanish authors before the exam.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-077",
+      "front": "Nos dijeron que necesitamos empollar la Guerra Civil antes del examen.",
+      "back": "They told us we need to study up on the Civil War before the exam.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-078",
+      "front": "El profesor nos avisó de que empollemos el Imperio Otomano.",
+      "back": "The professor warned us to study up on the Ottoman Empire.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-079",
+      "front": "Tengo que refrescar mi alemán antes de irme de Erasmus.",
+      "back": "I need to brush up on my German before I go on Erasmus.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-080",
+      "front": "¡Es hora de refrescar mi inglés! Me voy de Erasmus a Bristol.",
+      "back": "Time to brush up on my English! I'm going to Bristol on Erasmus.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-081",
+      "front": "Voy a París para estudiar en el extranjero el semestre que viene. Tengo que refrescar mi francés.",
+      "back": "I'm going to Paris to study abroad next semester. I need to brush up on my French.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-082",
+      "front": "Vete a la biblioteca y busca la ópera de Lorca Lola, la comedianta.",
+      "back": "Go to the library and look up Lorca's opera, Lola, the Actress.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-083",
+      "front": "Entra en la web y busca ensayos sobre El corazón de las tinieblas, de Conrad.",
+      "back": "Go online and look up essays on Conrad's Heart of Darkness.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-084",
+      "front": "Te recomiendo que entres en Wikipedia y busques ensayos sobre el solitario George.",
+      "back": "I recommend that you go on Wikipedia and look up essays on \"Lonesome George\".",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-085",
+      "front": "Tengo que entregar mi tesis el mes que viene, así que no voy a salir.",
+      "back": "I have to give in my thesis next month so I'm not going out.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-086",
+      "front": "No voy a salir hasta que haya entregado mi tesis.",
+      "back": "I'm not going out until I've given in my thesis.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Recuerdas cuándo tenemos que entregar nuestra tesis? ¿Era septiembre u octubre?",
+      "back": "Do you remember when we have to give our thesis in? Was it September or October?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Entregaste tu ensayo a tiempo?",
+      "back": "Did you hand in your essay on time?",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-089",
+      "front": "Entregué mi ensayo sobre El corazón de las tinieblas de Conrad a tiempo.",
+      "back": "I handed in my essay on Conrad's Heart of Darkness on time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-090",
+      "front": "No entregué mi tesis a tiempo.",
+      "back": "I didn't hand my thesis in on time.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-091",
+      "front": "Estudiar es cada vez más caro. Tuve que pagar 3.000 euros de matrícula este año.",
+      "back": "Studying is getting more and more expensive. I had to pay 3,000 euro in tuition fees this year.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Cuánto pagaste de matrícula el año pasado?",
+      "back": "How much did you pay in fees last year?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-093",
+      "front": "El año pasado solamente pagué 2.500 euros de matrícula.",
+      "back": "Last year I only paid 2,500 euro in registration fees.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-094",
+      "front": "En Reino Unido, la mayoría de las personas piden préstamos para estudiantes para pagar la matrícula.",
+      "back": "In the UK, most people get student loans to pay their fees.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-095",
+      "front": "Conseguí un préstamo para estudiantes para pagar la cuota de la matrícula el año pasado.",
+      "back": "I got a student loan to pay my registration fees last year.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-096",
+      "front": "Sigo devolviendo mi préstamo para estudiantes.",
+      "back": "I'm still paying off my student loan.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-097",
+      "front": "Obtuve una beca en mi primer año porque mi padre estaba desempleado.",
+      "back": "I got a grant in first year because my father was unemployed.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-098",
+      "front": "Espero obtener una beca cuando me vaya a la universidad.",
+      "back": "I hope I get a grant when I go to uni.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-099",
+      "front": "¿Piensas que obtendrás una beca cuando vayas a la universidad?",
+      "back": "Do you think you'll get a grant when you go to university?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-100",
+      "front": "Él obtuvo una beca para una de las mejores universidades del país.",
+      "back": "He got a scholarship to one of the best schools in the country.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-101",
+      "front": "Si no recibo una beca, no podré ir a la universidad.",
+      "back": "If I don't get a scholarship I won't be able to go to uni.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-102",
+      "front": "Él fue un alumno brillante. Consiguió una beca para una universidad americana de gran prestigio.",
+      "back": "He was a brilliant student. He got a scholarship to an Ivy League school.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-103",
+      "front": "Estoy solicitando una beca para hacer prácticas en un bufete en Nueva York.",
+      "back": "I'm applying for an internship at a law firm in New York.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-104",
+      "front": "Voy a solicitar becas para hacer prácticas en un par de periódicos en Londres.",
+      "back": "I'm going to apply for internships with a couple of newspapers in London.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-105",
+      "front": "Acabo de obtener una beca para hacer prácticas en la empresa de unos amigos de mi padre.",
+      "back": "I've just got an internship in my father's friends' company.",
+      "sourcePage": 26
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-78",
+  "bookTitle": "Libro 78",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Estudio todos los días.",
+      "back": "I study every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Estudio absolutamente todos los días.",
+      "back": "I study every single day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "No estudio absolutamente todos los días.",
+      "back": "I don't study every single day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Él estudia todos los días.",
+      "back": "He studies every day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Karen estudia absolutamente todos los días.",
+      "back": "Karen studies every single day.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Mike estudia todos los días, sin falta.",
+      "back": "Mike studies every day, without fail.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "¿Qué estudias?",
+      "back": "What do you study?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Dónde estudia Mike?",
+      "back": "Where does Mike study?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "¿Dónde estudia Mike? ¿En la biblioteca o en casa?",
+      "back": "Where does Mike study? In the library or at home?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Estudio inglés todos los días, sin falta.",
+      "back": "I study English every day, without fail.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Harry estudia francés y alemán.",
+      "back": "Harry studies French and German.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Harry estudia español en casa y estudia Empresariales en la biblioteca.",
+      "back": "Harry studies Spanish at home and he studies business studies in the library.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "No estudio lo suficiente.",
+      "back": "I don't study enough.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Harry no estudia inglés lo suficiente.",
+      "back": "Harry doesn't study English enough.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Estudio español absolutamente todos los días, pero no estudio alemán lo suficiente.",
+      "back": "I study Spanish every single day but I don't study German enough.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¿Estás estudiando?",
+      "back": "Are you studying?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Sí, estoy estudiando en casa.",
+      "back": "Yes, I'm studying at home.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Qué estás estudiando?",
+      "back": "What are you studying?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Mike está estudiando Empresariales.",
+      "back": "Mike's studying business studies.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Harriett está estudiando Filosofía.",
+      "back": "Harriett's studying philosophy.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Karen y Harry están estudiando Filosofía, pero Freddy está estudiando inglés.",
+      "back": "Karen and Harry are studying philosophy but Freddy's studying English.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "No estás estudiando lo suficiente.",
+      "back": "You aren't studying hard enough.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "No estoy estudiando lo suficiente.",
+      "back": "I'm not studying hard enough.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Mi hijo está estudiando lo suficiente.",
+      "back": "My son is studying hard enough.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Están estudiando los efectos de la globalización.",
+      "back": "They're studying the effects of globalization.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Los científicos están estudiando los efectos de la globalización.",
+      "back": "Scientists are studying the effects of globalization.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Estamos estudiando los efectos del cambio climático.",
+      "back": "We're studying the effects of climate change.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Están estudiando lo que ocurre cuando uno escucha la música alta.",
+      "back": "They're studying what happens when you listen to loud music.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Los científicos están estudiando lo que ocurre en los pulmones cuando uno fuma.",
+      "back": "Scientists are studying what happens in the lungs when you smoke.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Estamos estudiando lo que ocurre cuando uno comete un error.",
+      "back": "We're studying what happens when you make a mistake.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Estudiamos Matemáticas en el primer año.",
+      "back": "We do maths in the first year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Estudias Matemáticas en el primer año o en el segundo año?",
+      "back": "Do you do maths in the first year or second year?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Sólo estudias Matemáticas en el primer año.",
+      "back": "You only do maths in the first year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Se estudia Historia en el segundo año del curso.",
+      "back": "You do history in the 2nd year of the course.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "¿Estudiáis Historia en ese curso?",
+      "back": "Do you do history in that course?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Sí, estudiamos Historia en el segundo año.",
+      "back": "Yeah, we do history in the second year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Qué curso estás estudiando? Estoy estudiando Química.",
+      "back": "What course are you doing? I'm doing chemistry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Freddy no está estudiando Matemáticas, está estudiando Química.",
+      "back": "Freddy isn't doing maths, he's doing chemistry.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Karen está estudiando Química también?",
+      "back": "Is Karen doing chemistry too?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Estudiamos Geografía el año que viene.",
+      "back": "We're doing geography next year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "¿Estudiamos Geografía en el cuarto año también?",
+      "back": "Are we doing geography in the fourth year too?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "No, estudiamos Geografía este año, pero no la estudiamos el año que viene.",
+      "back": "No, we're doing geography this year but we're not doing it next year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Mi hija está estudiando Ciencia. Es muy difícil.",
+      "back": "My daughter is doing science. It's very hard.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Estás estudiando Ciencia?",
+      "back": "Are you doing science?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Caroline está estudiando Ciencia, pero no estudia lo suficiente.",
+      "back": "Caroline is doing science, but she isn't studying hard enough.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Mi hija Sheila va a la universidad.",
+      "back": "My daughter Sheila is at university.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Ella va a la universidad en Málaga.",
+      "back": "She's at university in Málaga.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Él va a la universidad hasta el año que viene.",
+      "back": "He's at university until next year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "¿A qué te dedicas? Voy a la universidad.",
+      "back": "What do you do? I'm in university.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "¿A qué se dedica Sheila? Ella va a la universidad en Málaga.",
+      "back": "What does Sheila do? She's in university in Málaga.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Él va a la universidad hasta finales del año.",
+      "back": "He's in university until the end of the year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "¿A qué universidad vas?",
+      "back": "Where do you go to university?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Voy a la universidad en Cambridge.",
+      "back": "I go to university in Cambridge.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Sheila va a la universidad el año que viene.",
+      "back": "Sheila's going to university next year.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Qué carrera estudias?",
+      "back": "What degree are you studying?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Estoy estudiando la carrera de Empresariales.",
+      "back": "I'm studying a degree in Business Studies.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Karen está estudiando la carrera de Filología francesa.",
+      "back": "Karen's doing a degree in French.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Voy a Londres cuando termine mi carrera.",
+      "back": "I'm going to London when I finish my degree.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Qué vas a hacer cuando termines tu carrera?",
+      "back": "What are you going to do when you finish your degree?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Voy a empezar a trabajar cuando termine mi carrera.",
+      "back": "I'm going to start working when I finish my degree.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Dónde están tus hijos? Están en el colegio.",
+      "back": "Where are your kids? They're at school.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "No voy a la universidad. Todavía estoy en el colegio.",
+      "back": "I'm not at university. I'm still at school.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Vas al colegio o a la universidad?",
+      "back": "Are you in school or in university?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "James va a la escuela en autobús.",
+      "back": "James goes to school by bus.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Harriet va caminando a la escuela.",
+      "back": "Harriet goes to school on foot.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Mis hijos van a la escuela desde las 9am hasta las 3pm.",
+      "back": "My kids go to school from 9am to 3pm.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Mi hijo mayor está en tercero de primaria.",
+      "back": "My eldest son is in 3rd grade.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Está tu hija mayor en cuarto o en quinto de primaria?",
+      "back": "Is your eldest daughter in 4th grade or 5th grade?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Ahora, el mayor de Caroline está en sexto de primaria.",
+      "back": "Caroline's eldest is in 6th grade now.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Nuestra hija más joven está en segundo de primaria.",
+      "back": "Our youngest daughter is in 2nd year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Nuestro hijo más joven, Harry, todavía está en primero de primaria.",
+      "back": "Our youngest son Harry is still in 1st year.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "El pequeño de Ad ahora está en quinto de primaria.",
+      "back": "Ad's youngest is in 5th year now.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Chris está aprendiendo el alfabeto en el colegio.",
+      "back": "Chris is learning the alphabet at school.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Georgina está estudiando la tabla periódica en el colegio.",
+      "back": "Georgina is studying the periodic table in school.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Qué estás aprendiendo en el colegio?",
+      "back": "What are you learning at school?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Karen aprueba todos los exámenes.",
+      "back": "Karen passes every exam.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Mike aprueba todas las pruebas.",
+      "back": "Mike passes every test.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Normalmente apruebas tus exámenes de Matemáticas?",
+      "back": "Do you usually pass your Math exams?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Voy a suspender Química.",
+      "back": "I'm going to fail Chemistry.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Por qué vas a suspender Geografía?",
+      "back": "Why are you going to fail Geography?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Voy a suspender Ciencias porque no estudio lo suficiente.",
+      "back": "I'm going to fail Science because I don't study hard enough.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Sheila normalmente saca sobresaliente en Empresariales.",
+      "back": "Sheila usually gets an A in Business Studies.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Chris siempre saca notables en Matemáticas.",
+      "back": "Chris always gets B's in Maths.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Nunca saco menos que un aprobado en Inglés.",
+      "back": "I never get less than a C in English.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Normalmente saco un 60% en Historia.",
+      "back": "I usually get around 60% in History.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Mi hijo mayor nunca saca menos de un 80% en sus exámenes.",
+      "back": "My eldest son never gets less than 80% in his tests.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Normalmente sacas un 90% en Francés.",
+      "back": "You usually get around 90% in French.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Siempre clavas el Francés.",
+      "back": "You always ace French.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Harriett va a clavar su examen de Historia otra vez.",
+      "back": "Harriett's going to ace her History exam again.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Harriett siempre clava Francés e Historia.",
+      "back": "Harriett always aces French and History.",
+      "sourcePage": 12
+    }
+  ]
+}
