@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-87",
+  "bookTitle": "Libro 87",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Me gusta caminar.",
+      "back": "I like walking.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "A Luke le gusta caminar.",
+      "back": "Luke likes walking.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "A Kelly le gusta caminar y a Mark le gusta caminar también.",
+      "back": "Kelly likes walking and Mark likes walking too.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "¿Te gusta caminar por el parque?",
+      "back": "Do you like walking in the park?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "No, a mí no me gusta caminar por el parque.",
+      "back": "No, I don't like walking in the park.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "A veces me gusta caminar por el parque.",
+      "back": "I like walking in the park sometimes.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "A Luke no le gusta cruzar el bosque.",
+      "back": "Luke doesn't like walking through the forest.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "¿Te gusta caminar por el bosque?",
+      "back": "Do you like walking through the forest?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "A veces me gusta caminar por el bosque.",
+      "back": "I like walking through the forest sometimes.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "No me gusta caminar a lo largo del río.",
+      "back": "I don't like walking along the river.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "A Luke a veces le gusta caminar a lo largo del río.",
+      "back": "Luke likes walking along the river sometimes.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Le gusta a Mark caminar a lo largo del río?",
+      "back": "Does Mark like walking along the river?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Me gusta caminar por el parque los domingos.",
+      "back": "I like walking in the park on Sundays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "A Luke le gusta caminar por el río los domingos.",
+      "back": "Luke likes walking along the river on Sundays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "A Mark le gusta caminar por el bosque los domingos.",
+      "back": "Mark likes walking through the forest on Sundays.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Normalmente voy al trabajo andando.",
+      "back": "I normally walk to work.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Él normalmente va al colegio andando.",
+      "back": "He normally walks to school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Ella normalmente va al instituto andando.",
+      "back": "She normally walks to college.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Voy al instituto andando todos los días.",
+      "back": "I walk to college every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Él va al trabajo andando todos los días.",
+      "back": "He walks to work every day.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Va ella al colegio andando todos los días?",
+      "back": "Does she walk to school every day?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Vas normalmente al trabajo andando?",
+      "back": "Do you normally walk to work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Él va normalmente al colegio andando?",
+      "back": "Does he normally walk to school?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Ella va normalmente al instituto andando?",
+      "back": "Does she normally walk to college?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "Voy andando a casa todos los días.",
+      "back": "I walk home every day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Él va andando a casa todos los días.",
+      "back": "He walks home every day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Ella va andando a casa todos los días.",
+      "back": "She walks home every day.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Vas a casa andando todos los días?",
+      "back": "Do you walk home every day?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Va él a casa andando todos los días?",
+      "back": "Does he walk home every day?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Va ella a casa andando todos los días?",
+      "back": "Does she walk home every day?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "¿Con qué frecuencia vas caminando al colegio?",
+      "back": "How often do you walk to school?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "¿Con qué frecuencia Eddie va caminando al colegio?",
+      "back": "How often does Eddie walk to school?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿Con qué frecuencia Beth va caminando al instituto?",
+      "back": "How often does Beth walk to college?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Voy andando al trabajo un día sí, otro no.",
+      "back": "I walk to work every other day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Eddie va andando al colegio un día sí, otro no.",
+      "back": "Eddie walks to school every other day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Beth va andando al instituto un día sí, otro no.",
+      "back": "Beth walks to college every other day.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Luke camina a lo largo de la orilla del río un día sí, otro no.",
+      "back": "Luke walks along the riverbank every other day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Carol camina por el bosque un día sí, otro no.",
+      "back": "Carol walks through the forest every other day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Camino por el parque un día sí, otro no.",
+      "back": "I walk in the park every other day.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Voy andando a casa una vez a la semana.",
+      "back": "I walk home once a week.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Eddie va andando a casa una vez a la semana.",
+      "back": "Eddie walks home once a week.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Beth va andando a casa una vez a la semana.",
+      "back": "Beth walks home once a week.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Normalmente voy andando al trabajo. (Usually)",
+      "back": "I usually walk to work.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Él normalmente va andando a la universidad.",
+      "back": "He usually walks to university.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella normalmente va andando a la universidad.",
+      "back": "She usually walks to university.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "¿Con qué frecuencia paseas al perro?",
+      "back": "How often do you walk your dog?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Con qué frecuencia pasea Jane al perro?",
+      "back": "How often does Jane walk her dog?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Con qué frecuencia pasea Luke al perro?",
+      "back": "How often does Luke walk his dog?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Paseo al perro tres veces al día.",
+      "back": "I walk the dog three times a day.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Jane pasea al perro cuatro veces al día.",
+      "back": "Jane walks the dog four times a day.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Luke pasea al perro dos veces al día.",
+      "back": "Luke walks the dog twice a day.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Deberías pasear al perro tres veces al día.",
+      "back": "You should walk the dog three times a day.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Deberías pasear al perro por lo menos tres veces al día.",
+      "back": "You should walk the dog at least three times a day.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Dicen que deberías pasear al perro al menos tres veces al día.",
+      "back": "They say that you should walk the dog at least three times a day.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Tienes que pasear al perro más a menudo.",
+      "back": "You have to walk your dog more often.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Él tiene que pasear al perro más a menudo.",
+      "back": "He has to walk his dog more often.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Tienes que sacarlo más a menudo.",
+      "back": "You have to walk him more often.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Él pasea al perro una vez al día. Eso no es suficiente.",
+      "back": "He walks his dog once a day. That's not enough.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Él pasea al perro dos veces al día. Eso no es suficiente.",
+      "back": "He walks his dog twice a day. That's not enough.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Ella pasea al perro una o dos veces al día. Eso no es suficiente.",
+      "back": "She walks her dog once or twice a day. That isn't enough.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Necesito sacar al perro a pasear.",
+      "back": "I need to take the dog for a walk.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "No necesitamos sacar al perro a pasear.",
+      "back": "We don't need to take the dog for a walk.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Necesitas sacar al perro a pasear?",
+      "back": "Do you need to take the dog for a walk?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Saca al perro a pasear antes de irte al trabajo.",
+      "back": "Take the dog for a walk before you go to work.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Saca al perro a pasear antes de salir.",
+      "back": "Take the dog for a walk before you go out.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Saca al perro a pasear antes de irte a la cama.",
+      "back": "Take the dog for a walk before you go to bed.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Puedes sacar al perro a pasear antes de irte al trabajo?",
+      "back": "Can you take the dog for a walk before you go to work?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Puedes sacar al perro a pasear antes de salir?",
+      "back": "Can you take the dog for a walk before you go out?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Puedes sacar al perro a pasear antes de irte a la cama?",
+      "back": "Can you take the dog for a walk before you go to bed?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Debes sacarlo a pasear tres veces al día.",
+      "back": "You should take him for a walk three times a day.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Debes sacarlo a pasear por lo menos tres veces al día.",
+      "back": "You should take him for a walk at least three times a day.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Deben sacarlo a pasear al menos tres veces al día.",
+      "back": "They should take him for a walk three times a day at least.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Ella saca a su perro a pasear dos veces al día, pero eso no es suficiente.",
+      "back": "She takes her dog for a walk twice a day, but that's not enough.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Él saca a su perro a pasear una vez al día, pero eso no es suficiente.",
+      "back": "He takes his dog for a walk once a day, but that's not enough.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Sacan a su perro a pasear una o dos veces al día, pero eso no es suficiente.",
+      "back": "They take their dog for a walk once or twice a day, but that's not enough.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Normalmente doy un paseo después de cenar.",
+      "back": "I normally go for a walk after dinner.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Nathan normalmente da un paseo después de comer.",
+      "back": "Nathan normally goes for a walk after lunch.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Michelle normalmente da un paseo después de desayunar.",
+      "back": "Michelle normally goes for a walk after breakfast.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Demos un paseo en el parque.",
+      "back": "Let's go for a walk in the park.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Demos un paseo por el bosque.",
+      "back": "Let's go for a walk through the forest.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Demos un paseo por el río.",
+      "back": "Let's go for a walk along the river.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Damos un paseo por el bosque?",
+      "back": "Shall we go for a walk through the forest?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Damos un paseo por el río?",
+      "back": "Shall we go for a walk along the river?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Damos un paseo en el parque?",
+      "back": "Shall we go for a walk in the park?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Me voy a dar un paseo. ¿Quieres venir?",
+      "back": "I'm going for a walk. Do you want to come?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Nos vamos a dar un paseo. ¿Quieres venir con nosotros?",
+      "back": "We're going for a walk. Do you want to come with us?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Me voy a dar un paseo por el río. ¿Quieres venir conmigo?",
+      "back": "I'm going for a walk along the river. Do you want to come with me?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Demos un paseo por el parque después de desayunar.",
+      "back": "Let's take a walk in the park after breakfast.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Damos un paseo por el bosque después de comer?",
+      "back": "Shall we take a walk through the forest after lunch?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Me voy a dar un paseo por el río después de cenar. ¿Quieres venir?",
+      "back": "I'm taking a walk along the river after dinner. Do you want to come?",
+      "sourcePage": 19
+    }
+  ]
+}

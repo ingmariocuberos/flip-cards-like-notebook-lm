@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-87",
+  "bookTitle": "Libro 87",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Me acerqué a él andando y le pregunté la hora.",
+      "back": "I walked up to him and asked him for the time.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Ella se acercó a él andando y le pidió un cigarrillo.",
+      "back": "She walked up to him and asked him for a cigarette.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Me acerqué a él andando y le pedí un mechero.",
+      "back": "I walked up to him and asked him for a lighter.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Ella lo pasó andando.",
+      "back": "She walked past him.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "¡Ella lo pasó andando y él ni siquiera se dio cuenta!",
+      "back": "She walked past him and he didn't even notice!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "¡Él la pasó andando y ella ni siquiera se dio cuenta!",
+      "back": "He walked past her and she didn't even notice!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Él cruzó el parque andando para llegar al otro lado.",
+      "back": "He walked through the park to get to the other side.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Ellos cruzaron el aparcamiento andando para llegar al otro lado.",
+      "back": "They walked through the car park to get to the other side.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Cruzamos la multitud andando para llegar al otro lado.",
+      "back": "We walked through the crowd to get to the other side.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Jane anduvo al lado de la orilla.",
+      "back": "Jane walked along the shore.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "John anduvo a lo largo del paseo.",
+      "back": "John walked along the promenade.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Sarah anduvo al lado de la orilla anoche.",
+      "back": "Sarah walked along the shore last night.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Pasé alrededor del lago andando para llegar al otro lado.",
+      "back": "I walked around the lake to get to the other side.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Pasamos alrededor del estanque andando para llegar al paseo del otro lado.",
+      "back": "We walked around the pond to get to the promenade on the other side.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Lo rodearon andando porque estaban demasiado vagos para nadar.",
+      "back": "They walked around it because they were too lazy to swim.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Vamos a dar un paseo.",
+      "back": "Let's go for a walk.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Vamos a dar un paseo al lado de la orilla.",
+      "back": "Let's go for a walk along the shore.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Vamos a dar un paseo al lado del paseo marítimo.",
+      "back": "Let's go for a walk along the promenade.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Se tarda quince minutos en llegar al paseo marítimo a pie.",
+      "back": "It takes fifteen minutes to get to the promenade on foot.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Se tarda quince minutos en llegar al otro lado a pie.",
+      "back": "It takes fifteen minutes to get to the other side on foot.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Se tarda más o menos quince minutos en llegar allí a pie.",
+      "back": "It takes about fifteen minutes to get there on foot.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Ella me dijo que era un paseo de cinco minutos al paseo marítimo.",
+      "back": "She told me it was a five-minute walk to the promenade.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Le dijeron a él que era un paseo de cinco minutos al castillo.",
+      "back": "They told him it was a five-minute walk to the castle.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Él le dijo a ella que era un paseo de cinco minutos al otro lado.",
+      "back": "He told her it was a five-minute walk to the other side.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Por lo que recuerdo, es un paseo de diez minutos al paseo marítimo.",
+      "back": "As far as I remember, it's a ten-minute walk to the promenade.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Por lo que recuerdo, es un paseo de diez minutos al otro lado.",
+      "back": "As far as I remember, it's a ten-minute walk to the other side.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Por lo que recuerdo, es un paseo de diez minutos al castillo.",
+      "back": "As far as I remember, it's a ten-minute walk to the castle.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Es un paseo de veinte minutos del faro al paseo marítimo.",
+      "back": "It's a twenty-minute walk from the lighthouse to the promenade.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Hasta donde sé, es un paseo de veinte minutos del faro al paseo marítimo.",
+      "back": "As far as I know, it's a twenty-minute walk from the lighthouse to the promenade.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Es un paseo de veinte minutos de mi casa a la oficina.",
+      "back": "It's a twenty-minute walk from my house to the office.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Ya has sacado al perro a pasear? (Walk)",
+      "back": "Have you walked the dog yet?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "No he sacado al perro a pasear todavía. (Walk)",
+      "back": "I haven't walked the dog yet.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Por qué no has sacado al perro a pasear todavía? (Walk)",
+      "back": "Why haven't you walked the dog yet?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Saqué al perro a pasear una vez ayer.",
+      "back": "I walked the dog once yesterday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Él sacó al perro a pasear dos veces ayer.",
+      "back": "He walked the dog twice yesterday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Sacaron al perro a pasear tres veces ayer.",
+      "back": "They walked the dog three times yesterday.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Ya has sacado al perro a pasear? (Take)",
+      "back": "Have you taken the dog for a walk yet?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "No he sacado al perro a pasear todavía. (Take)",
+      "back": "I haven't taken the dog for a walk yet.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Por qué no has sacado al perro a pasear todavía? (Take)",
+      "back": "Why haven't you taken the dog for a walk yet?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Deberías sacarlo a pasear más de una vez al día.",
+      "back": "You should walk him more than once a day.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Deberías sacarlo a pasear más de dos veces al día.",
+      "back": "You should walk him more than twice a day.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Deberías sacarlo a pasear tres veces al día por lo menos.",
+      "back": "You should walk him three times a day at least.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Saqué al perro a pasear por el parque ayer.",
+      "back": "I took the dog for a walk in the park yesterday.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Saqué al perro a pasear por el bosque ayer.",
+      "back": "I took the dog for a walk through the forest yesterday.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Saqué al perro a pasear al lado del río ayer.",
+      "back": "I took the dog for a walk along the river yesterday.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "A Jane le encanta hacer senderismo en las montañas.",
+      "back": "Jane loves to hike through the mountains.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "A Saskia le gusta hacer senderismo en las colinas.",
+      "back": "Saskia likes to hike through the hills.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Yo prefiero hacer senderismo en las montañas antes que en las colinas.",
+      "back": "I prefer to hike through the mountains rather than through the hills.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Podríamos irnos de senderismo por España este verano.",
+      "back": "We could go hiking through Spain this summer.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "O podríamos irnos de senderismo por Francia este verano.",
+      "back": "Or we could go hiking through France this summer.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Podríamos irnos de senderismo por España o Francia este verano.",
+      "back": "We could go hiking through Spain or France this summer.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Me gusta ir de excursión por las colinas.",
+      "back": "I like trekking through the hills.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Saskia odia ir de excursión en las montañas.",
+      "back": "Saskia hates trekking through the mountains.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Nos encanta ir de excursión en el Gran Cañón.",
+      "back": "We love trekking through the Grand Canyon.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "¿Nos vamos de senderismo este verano?",
+      "back": "Shall we go trekking this summer?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "¿Nos vamos de senderismo por Francia este verano?",
+      "back": "Shall we go trekking in France this summer?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Nos vamos de senderismo por España este verano?",
+      "back": "Shall we go trekking through Spain this summer?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "¿Te gustaría ir de senderismo por España conmigo este verano?",
+      "back": "Would you like to hike through Spain with me this summer?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Preferiría ir de excursión por las colinas del sur que por las del norte.",
+      "back": "I'd prefer to trek through the hills in the south rather than the ones in the north.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Odiaría hacer senderismo en las montañas hoy. ¡Está lloviendo!",
+      "back": "I'd hate to go hiking in the mountains today. It's raining!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Yo iba caminando hacia casa cuando lo vi.",
+      "back": "I was walking home when I saw it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Ella iba caminando hacia casa cuando lo oyó.",
+      "back": "She was walking home when she heard it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Él iba caminando hacia casa cuando se tropezó.",
+      "back": "He was walking home when he tripped.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Yo iba caminando a lo largo del río cuando oí el estallido.",
+      "back": "I was walking along the river when I heard the bang.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Saskia iba caminando a lo largo del río cuando vio la pelea.",
+      "back": "Saskia was walking along the river when she saw the fight.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Nathan iba caminando a lo largo del río cuando se tropezó.",
+      "back": "Nathan was walking along the river when he tripped.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Yo iba caminando en el parque cuando fui testigo de ello.",
+      "back": "I was walking in the park when I witnessed it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Yo iba paseando al perro en el parque cuando fui testigo de ello.",
+      "back": "I was walking the dog in the park when I witnessed it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Claudia iba caminando en el parque cuando fue testigo de ello.",
+      "back": "Claudia was walking in the park when she witnessed it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Dónde estabas cuando fuiste testigo de ello? Iba caminando a lo largo del paseo marítimo.",
+      "back": "Where were you when you witnessed it? I was walking along the promenade.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Dónde estabas cuando fuiste testigo de ello? Iba caminando por el parque.",
+      "back": "Where were you when you witnessed it? I was walking in the park.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Dónde estabas cuando fuiste testigo de ello? Iba caminando hacia casa.",
+      "back": "Where were you when you witnessed it? I was walking home.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Él iba caminando al trabajo cuando de repente se tropezó.",
+      "back": "He was walking to work when suddenly he tripped.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Yo iba caminando al trabajo cuando de repente oí un estallido.",
+      "back": "I was walking to work when suddenly I heard a bang.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Iban caminando al trabajo cuando de repente se puso a llover.",
+      "back": "They were walking to work when suddenly it started to rain.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "¡Él ha estado andando dormido otra vez!",
+      "back": "He's been sleepwalking again!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Ella ha estado caminando dormida otra vez?",
+      "back": "Has she been sleepwalking again?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Una vez más, él ha estado caminando sonámbulo.",
+      "back": "Once again, he's been sleepwalking.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Tenemos que andar de puntillas por la casa.",
+      "back": "We have to tip-toe around the house.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "¿Por qué tenemos que andar de puntillas por la casa?",
+      "back": "Why do we have to tip-toe around the house?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Tenemos que andar de puntillas por la casa porque la abuela está dormida.",
+      "back": "We have to tip-toe around the house because grandma's asleep.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Los depredadores se arrastran hacia su presa y luego atacan.",
+      "back": "Predators creep towards their prey then they attack.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Vi el depredador arrastrarse hacia su presa y luego atacar.",
+      "back": "I saw the predator creep toward its prey then attack.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "El león se arrastró hacia el ciervo y lo atacó.",
+      "back": "The lion crept toward the deer and then attacked.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "El portero se le acercó.",
+      "back": "The bouncer approached him.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "El portero se le acercó a él y le pidió que se fuera.",
+      "back": "The bouncer approached him and asked him to leave.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Él se acercó a ella y le pidió un cigarrillo.",
+      "back": "He approached her and asked her for a cigarette.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Me apetece ir a dar una vuelta por el paseo marítimo.",
+      "back": "I feel like going for a stroll along the promenade.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "¿Te apetece dar una vuelta por el río?",
+      "back": "Are you up for a stroll along the river?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "Hoy no me apetece dar una vuelta.",
+      "back": "I'm not really up for a stroll today.",
+      "sourcePage": 47
+    }
+  ]
+}

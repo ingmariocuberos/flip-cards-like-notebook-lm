@@ -201,3 +201,6 @@ El libro 85 tiene 82 páginas PDF individuales, no pliegos: no se deben dividir 
 
 
 El libro 86 tiene 43 pliegos PDF; se dividieron y reconocieron todas las mitades en `sources/english/Libro 86__halves.ocr.txt`. Focus Points: mitades 5–10 y 15–20 (PDF 3–5 y 8–10, básico), 33–38 y 43–48 (PDF 17–19 y 22–24, intermedio), 61–66 y 71–76 (PDF 31–33 y 36–38, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.
+
+
+El libro 87 tiene 85 páginas PDF individuales; se reconocieron directamente en `sources/english/Libro 87.ocr.txt`, sin dividirlas. Focus Points: PDF 4–9 y 14–19 (básico), 32–37 y 42–47 (intermedio), 59–64 y 69–74 (avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.
