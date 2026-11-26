@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-83",
+  "bookTitle": "Libro 83",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "El gobierno difundió una declaración ayer por la creciente preocupación sobre su manejo de la crisis.",
+      "back": "The government issued a statement yesterday amid growing concerns over its handling of the crisis.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-002",
+      "front": "A pesar de la creciente preocupación, todavía no se ha hecho ninguna declaración pública.",
+      "back": "In spite of growing concerns, no public statement has yet been made.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-003",
+      "front": "Ha habido una preocupación creciente sobre el nuevo rumbo de la política.",
+      "back": "There have been growing concerns over the new direction the policy has taken.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-004",
+      "front": "La creciente oposición en respuesta a los planes propuestos ha motivado un cambio de política.",
+      "back": "Growing opposition in response to proposed plans has resulted in a change in policy.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-005",
+      "front": "A pesar de la creciente oposición a los recientes recortes, no se espera que el gobierno modifique su línea de conducta.",
+      "back": "In spite of growing opposition to recent budget cuts, the government is not expected to alter its course of action.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-006",
+      "front": "Se ha producido una oposición creciente respecto a las medidas recientes que se han tomado como respuesta a la crisis actual.",
+      "back": "There has been growing opposition to the recent measures taken in response to the current crisis.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-007",
+      "front": "El primer ministro se enfrenta a críticas crecientes sobre las decisiones recientes.",
+      "back": "The Prime Minister is facing growing criticism over recent decisions.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-008",
+      "front": "Ha habido críticas crecientes sobre las medidas recientes que se han tomado para combatir la crisis.",
+      "back": "There has been growing criticism of recent measures taken to combat the crisis.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-009",
+      "front": "Un portavoz del gobierno ha difundido hoy una declaración en medio de críticas crecientes sobre los recortes.",
+      "back": "A government spokesperson made a statement today amid growing criticism over budget cuts.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-010",
+      "front": "Se ha levantado una intranquilidad creciente acerca del estado de salud del rey, a pesar de las reiteradas garantías sobre lo contrario.",
+      "back": "There has been growing unease about the King's state of health, despite repeated assurances to the contrary.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-011",
+      "front": "Ha habido una intranquilidad creciente en el país en relación con la línea de conducta actual.",
+      "back": "There has been growing unease throughout the country regarding the current course of action.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-012",
+      "front": "Hasta la fecha, no se ha difundido ninguna declaración en respuesta a la intranquilidad creciente del electorado.",
+      "back": "To date no statement has been issued in response to the growing unease of the electorate.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-013",
+      "front": "El gobierno ha sido instado a tomar medidas decisivas en respuesta al malestar social creciente.",
+      "back": "The government has been urged to take decisive action in response to growing civil unrest.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-014",
+      "front": "Se ha producido un creciente malestar en el partido por la manera que ha tenido el gabinete de manejar el tema.",
+      "back": "There has been growing unrest in the party regarding the Cabinet's handling of the issue.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-015",
+      "front": "Se espera que el malestar social creciente fomente un cambio de política.",
+      "back": "It is hoped that growing unrest nationally will spark a change in policy.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s3-016",
+      "front": "Él no es la misma persona de hace cinco años. Ha madurado mucho.",
+      "back": "He's not the same person he was five years ago. He's really grown as a person.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-017",
+      "front": "Fue una época muy estresante, pero me ayudó mucho a madurar.",
+      "back": "It was an extremely stressful time but it really helped me grow as a person.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-018",
+      "front": "Será muy exigente, pero ella definitivamente madurará por la experiencia.",
+      "back": "It will be challenging, but she'll certainly grow as a person from the experience.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-019",
+      "front": "Ella necesita madurar y empezar a comportarse de acuerdo a su edad.",
+      "back": "She needs to grow up and start acting her age.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-020",
+      "front": "Él debería madurar de verdad y dejar de comportarse como un niño.",
+      "back": "He really should grow up and stop acting like a child.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-021",
+      "front": "¡Madura y deja de comportarte como un niño!",
+      "back": "Grow up and stop behaving like a child!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-022",
+      "front": "Antes tenía dolores de cabeza terribles, pero se me han quitado.",
+      "back": "I used to get terrible headaches but I grew out of them.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-023",
+      "front": "Mi hija está teniendo rabietas terribles. Espero que se le quiten.",
+      "back": "My daughter's having terrible tantrums. I hope she'll grow out of them soon.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-024",
+      "front": "No te preocupes, es sólo una fase. ¡Se le pasará a él!",
+      "back": "Don't worry. It's just a phase. He'll grow out of it!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-025",
+      "front": "¡A los niños la ropa les queda pequeña muy rápido!",
+      "back": "Children grow out of things so quickly!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-026",
+      "front": "A mi hijo ya se le ha quedado pequeño su uniforme del colegio.",
+      "back": "My son's grown out of his new school uniform already.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-027",
+      "front": "Debería haberlo comprado más grande para que a él no se le hubiera quedado pequeño tan rápido.",
+      "back": "I should've bought it bigger so he wouldn't grow out of it so quickly.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-028",
+      "front": "Siempre compro la ropa de mi hijo demasiado grande para que le pueda quedar mejor.",
+      "back": "I always buy my son's clothes too big so he can grow into them.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-029",
+      "front": "Asegúrate de que lo compras un poco grande para que le pueda quedar mejor.",
+      "back": "Make sure you buy it a bit big so he can grow into it.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-030",
+      "front": "Es una chaqueta usada de su hermano mayor. Le quedará mejor pronto.",
+      "back": "The jacket's a hand-me-down from his older brother. He'll grow into it soon.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s3-031",
+      "front": "Ellos realmente no se llevaban bien al principio, pero han ido intimando mucho con los años.",
+      "back": "They really didn't get on at first, but they've grown very close over the years.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-032",
+      "front": "Son personas muy diferentes, pero han trabajado juntos durante tanto tiempo que han conectado bastante.",
+      "back": "They're very different people but they've worked together for so long that they've grown quite close.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-033",
+      "front": "Antes tenían una relación bastante antagonista, pero han ido intimando más con el tiempo.",
+      "back": "They used to have quite an antagonistic relationship, but they've grown closer over time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-034",
+      "front": "Nunca pensé que lo diría, pero le he cogido mucho cariño.",
+      "back": "I never thought I'd say it, but I've grown really fond of him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-035",
+      "front": "Hace poco que la conocemos, pero le estamos cogiendo bastante cariño.",
+      "back": "We haven't known her very long, but we're growing quite fond of her.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-036",
+      "front": "No lo parece ahora, pero estoy seguro de que le cogerás cariño con el tiempo.",
+      "back": "It doesn't seem like it now, but I'm sure you'll grow fond of her over time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-037",
+      "front": "Él no me cayó especialmente bien al principio, pero me he acostumbrado a su presencia.",
+      "back": "I didn't particularly like him at first, but I've grown used to his presence.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-038",
+      "front": "Nunca seremos íntimos amigos, pero me he acostumbrado a él con el tiempo.",
+      "back": "We'll never be close, but I've grown used to him over time.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-039",
+      "front": "Antes él me sacaba de quicio, pero me he acostumbrado a su comportamiento.",
+      "back": "He used to drive me mad, but I've grown used to his ways.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-040",
+      "front": "Antes pensaba que era una verdadera pesada, pero poco a poco me ha caído mejor.",
+      "back": "I used to think she was a real pain in the neck, but she's grown on me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-041",
+      "front": "Sé que parece un poco perdedor, pero confía en mí, poco a poco te caerá bien.",
+      "back": "I know he seems like a bit of a loser, but trust me, he'll grow on you.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-042",
+      "front": "Sé que es difícil creerme ahora, ¡pero te prometo que poco a poco te gustará!",
+      "back": "I know it's hard to believe now, but I promise it'll grow on you!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-043",
+      "front": "Desafortunadamente, nos hemos alejado con los años.",
+      "back": "Unfortunately, we've grown apart over the years.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-044",
+      "front": "Eran inseparables de niños, pero de adolescentes se alejaron.",
+      "back": "They were inseparable as children but as teenagers they grew apart.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-045",
+      "front": "Antes eran íntimos, es una verdadera lástima que se hayan alejado.",
+      "back": "They used to be so close, it's such a shame they've grown apart.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s3-046",
+      "front": "Sé que es difícil, cariño, pero todo forma parte de hacerte mayor.",
+      "back": "I know it's hard, darling, but it's all part of growing up.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-047",
+      "front": "Aprender a valerte por ti mismo es el objetivo de madurar.",
+      "back": "Learning to stand on your own two feet is what growing up's all about.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-048",
+      "front": "Es muy inmaduro. Le queda mucho por madurar.",
+      "back": "He's so immature. He's got a lot of growing up to do.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-049",
+      "front": "A mi hija le dan unos dolores terribles de crecimiento en las piernas.",
+      "back": "My daughter gets terrible growing pains in her legs.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-050",
+      "front": "El doctor dijo que los calambres que le han estado dando a mi hijo son sólo dolores de crecimiento y que con el tiempo se le pasarán.",
+      "back": "The doctor said the cramps my son's been getting are just growing pains and he'll grow out of them.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-051",
+      "front": "La angustia y otros dolores de crecimiento forman parte de hacerse mayor.",
+      "back": "Heartache and other growing pains are all part of growing up.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-052",
+      "front": "Ella ha pegado un estirón y es más alta que todos sus compañeros de clase.",
+      "back": "She's had a growth spurt and is taller than all her classmates.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-053",
+      "front": "Él probablemente será bastante alto, pero aún no ha pegado un estirón.",
+      "back": "He'll probably be quite tall, but he hasn't had a growth spurt yet.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-054",
+      "front": "Las chicas de la clase sacan cuatro cabezas a los chicos, porque ellas tienden a pegar el estirón a una edad más joven.",
+      "back": "The girls in the class tower over the boys because they tend to have growth spurts younger.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-055",
+      "front": "La falta de nutrientes contribuye al crecimiento retrasado.",
+      "back": "Lack of nutrients contributes to stunted growth.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-056",
+      "front": "La malnutrición es un factor significativo entre los niños que sufren crecimiento retrasado.",
+      "back": "Malnutrition is a significant factor among children who suffer from stunted growth.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-057",
+      "front": "Las comidas de bajo valor nutricional pueden ser un factor causante del crecimiento retrasado.",
+      "back": "Meals low in nutritional value can be a causal factor in stunted growth.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-058",
+      "front": "Él se ha encontrado un bulto en la espalda. Espero que sea benigno.",
+      "back": "He's discovered a growth on his back. I hope it's benign.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-059",
+      "front": "Se le ha desarrollado a ella un bulto en el labio de arriba. ¡Gracias al cielo que no es maligno!",
+      "back": "She's developed a growth on her upper lip. Thank goodness it's not malignant!",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-060",
+      "front": "Él tiene un bulto en el lóbulo de la oreja, pero el doctor dijo que es improbable que sea cancerígeno.",
+      "back": "He's got a growth on his earlobe but the doctor said it's unlikely to be cancerous.",
+      "sourcePage": 38
+    },
+    {
+      "id": "s3-061",
+      "front": "La tierra ha sido cultivada por su familia durante generaciones.",
+      "back": "The land has been cultivated by his family for generations.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-062",
+      "front": "Los agricultores han recibido una subvención no para cultivar la tierra, sino para dejarla en barbecho.",
+      "back": "The farmers have received a subsidy not to cultivate the land but to leave it fallow.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-063",
+      "front": "Ella está cultivando una nueva actitud guay.",
+      "back": "She's cultivating a new cool attitude.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-064",
+      "front": "Estas plantas tienen la tendencia de medrar en condiciones húmedas y con mucha sombra.",
+      "back": "These plants tend to thrive in damp, shady conditions.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-065",
+      "front": "Él es del tipo que trabaja muy bien cuando hay cambios constantes.",
+      "back": "He's the type that thrives on constant change.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-066",
+      "front": "Ella está trabajando realmente muy bien con el reto de su nuevo papel, ¿no?",
+      "back": "She's really thriving on the challenge of her new role, isn't she?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-067",
+      "front": "Las semillas deberían brotar a principios de primavera.",
+      "back": "The seeds should sprout up in early spring.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-068",
+      "front": "Hay nuevas sucursales de ese café apareciendo por todas partes.",
+      "back": "There are new branches of that café sprouting up everywhere.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-069",
+      "front": "Tu hijo ha crecido mucho últimamente, ¿verdad?",
+      "back": "Your son's really sprouted up recently, hasn't he?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-070",
+      "front": "Él ha cogido bastante peso desde la última vez que lo vi.",
+      "back": "He's really filled out since the last time I saw him.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-071",
+      "front": "Pero claro, los chicos sí que tienen la tendencia de coger más peso a esa edad.",
+      "back": "But then, boys do tend to fill out at that age.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-072",
+      "front": "Él se parece a su hermano ahora que ha cogido peso, ¿verdad que sí?",
+      "back": "He looks just like his brother since he's filled out, doesn't he?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-073",
+      "front": "Sheila ha envejecido mucho peor que su marido.",
+      "back": "Sheila's aged so much worse than her husband.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-074",
+      "front": "Ella ha envejecido diez años en los últimos dos.",
+      "back": "She's aged about ten years in the last two.",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-075",
+      "front": "Pero él ha envejecido muy bien, ¿verdad que sí?",
+      "back": "But he's aged really well, hasn't he?",
+      "sourcePage": 39
+    },
+    {
+      "id": "s3-076",
+      "front": "No nos permitiremos el lujo de comprárnoslo. El dinero no crece en los árboles, ¿sabes?",
+      "back": "We won't be able to afford it. Money doesn't grow on trees, you know!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-077",
+      "front": "Ella ha estado gastando dinero como si no hubiera mañana. ¿Cree que el dinero crece en los árboles?",
+      "back": "She's been spending like there's no tomorrow. Does she think that money grows on trees?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-078",
+      "front": "Pensarías que el dinero crece en los árboles al ver la manera en que ellos gastan el dinero.",
+      "back": "You'd think that money grew on trees, the way that they spend.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-079",
+      "front": "Ir a esos seminarios es insoportable. Es como ver crecer la hierba.",
+      "back": "Going to those seminars is excruciating. It's like watching grass grow.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-080",
+      "front": "Su voz es muy monótona. Escucharle es como ver crecer la hierba.",
+      "back": "His voice is so monotonous. Listening to him is like watching grass grow.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-081",
+      "front": "¡No estoy exagerando! Es tan tedioso que es como ver crecer la hierba.",
+      "back": "I'm not exaggerating! It's so tedious it's like watching grass grow.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-082",
+      "front": "Los niños crecen a pasos agigantados a esta edad, ¿no es cierto?",
+      "back": "Children grow like weeds at this age, don't they?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-083",
+      "front": "Él está creciendo a pasos agigantados y dilapidando toda nuestra fortuna.",
+      "back": "He's growing like a weed and eating us out of house and home.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-084",
+      "front": "Nick está creciendo a pasos agigantados en estos momentos. Tenemos que seguir comprándole ropa nueva.",
+      "back": "Nick's growing like a weed at the moment. We have to keep buying him new clothes.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-085",
+      "front": "Tenemos que ponernos en marcha. No podemos perder el tiempo.",
+      "back": "We need to get going. We can't let the grass grow under our feet.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-086",
+      "front": "Él nunca ha sido de los que pierden el tiempo.",
+      "back": "He's never been one to let the grass grow under his feet.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-087",
+      "front": "Deberías hacerlo ahora. No pierdas el tiempo.",
+      "back": "You should do it now. Don't let the grass grow under your feet.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-088",
+      "front": "Tienen una relación a distancia. Supongo que la ausencia hace que aprecien más al otro.",
+      "back": "They have a long-distance relationship. I suppose absence makes the heart grow fonder.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-089",
+      "front": "Tienen que vivir separados por motivos de trabajo, pero dicen que la ausencia hace que se aprecien más.",
+      "back": "They have to live apart for work, but they say that absence makes the heart grow fonder.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s3-090",
+      "front": "Estarán separados durante varios meses. Esperemos que la ausencia haga que se aprecien más el uno al otro.",
+      "back": "They'll be apart for several months. Let's hope that absence makes the heart grow fonder.",
+      "sourcePage": 40
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-83",
+  "bookTitle": "Libro 83",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "El pelo me crece rápidamente.",
+      "back": "My hair grows quickly.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "A mi hermana le crece el pelo rápidamente también.",
+      "back": "My sister's hair grows quickly too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "A mi madre le crece el pelo muy rápidamente también.",
+      "back": "My mother's hair grows very quickly too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Las uñas me crecen bastante lentamente.",
+      "back": "My nails grow quite slowly.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Las uñas de los pies me crecen bastante lentamente también.",
+      "back": "My toenails grow quite slowly, too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "El pelo me crece muy lentamente también.",
+      "back": "My hair grows very slowly too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "A mi marido le crece muy rápidamente la barba.",
+      "back": "My husband's beard grows really quickly.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "A mi marido le crece muy rápidamente el bigote también.",
+      "back": "My husband's moustache grows really quickly too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "A él le crece muy rápidamente el pelo también.",
+      "back": "His hair grows really quickly too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "A ella no le crecen tan rápidamente las uñas de los dedos.",
+      "back": "Her fingernails don't grow that quickly.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "A ella no le crece tan rápidamente el pelo tampoco.",
+      "back": "Her hair doesn't grow that quickly either.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "A mi hija no le crece tan rápidamente el pelo tampoco.",
+      "back": "My daughter's hair doesn't grow that quickly either.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "A mi hermana le crece más rápido el pelo que a mí.",
+      "back": "My sister's hair grows quicker than my hair.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "A mi marido le crece más rápido el pelo que a mí también.",
+      "back": "My husband's hair grows quicker than my hair too.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "A mi madre le crece muy lentamente el pelo. Le crece más lentamente que a mí.",
+      "back": "My mother's hair grows really slowly. It grows slower than my hair.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Las naranjas crecen en el sur de España, pero no crecen en el norte de España.",
+      "back": "Oranges grow in the south of Spain, but they don't grow in the north of Spain.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Las naranjas crecen en el sur de España, pero no en el norte de España.",
+      "back": "Oranges grow in the south of Spain, but not in the north of Spain.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Crecen en el sur de España, no en el norte.",
+      "back": "They grow in the south of Spain, not the north.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Las flores crecen en primavera, pero no crecen en otoño.",
+      "back": "Flowers grow in the spring, but they don't grow in the autumn.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Las flores crecen en primavera, pero no en otoño.",
+      "back": "Flowers grow in the spring, but not in the autumn.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Crecen en primavera, no en otoño.",
+      "back": "They grow in the spring, not the autumn.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "El césped crece rápidamente en verano, pero no crece rápidamente en invierno.",
+      "back": "Grass grows quickly in the summer, but it doesn't grow quickly in the winter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "El césped crece rápidamente en verano, pero no en invierno.",
+      "back": "Grass grows quickly in the summer, but not in the winter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Crece rápidamente en verano, no en invierno.",
+      "back": "It grows quickly in the summer, not the winter.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "El café crece bien cerca del ecuador, pero no crece bien en el hemisferio norte.",
+      "back": "Coffee grows well near the equator, but it doesn't grow well in the northern hemisphere.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "El café crece bien cerca del ecuador, pero no en el hemisferio sur.",
+      "back": "Coffee grows well near the equator, but not in the southern hemisphere.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Crece bien cerca del ecuador, no en el hemisferio norte ni en el sur.",
+      "back": "It grows well near the equator, not in the northern or southern hemispheres.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "Los tréboles crecen silvestres en Irlanda, pero no crecen silvestres en Inglaterra.",
+      "back": "Shamrock grows wild in Ireland, but it doesn't grow wild in England.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "Los tréboles crecen silvestres en Irlanda, pero no en Inglaterra.",
+      "back": "Shamrock grows wild in Ireland, but not in England.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "Crecen silvestres en Irlanda, no en Inglaterra.",
+      "back": "It grows wild in Ireland, not in England.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "La economía está creciendo.",
+      "back": "The economy is growing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Nuestra empresa está creciendo también.",
+      "back": "Our company is growing too.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Nuestra empresa está creciendo porque la economía está creciendo.",
+      "back": "Our company is growing because the economy is growing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "La economía no está creciendo.",
+      "back": "The economy isn't growing.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Nuestra empresa no está creciendo tampoco.",
+      "back": "Our business isn't growing either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Nuestra empresa no está creciendo, así que nuestros beneficios no están creciendo tampoco.",
+      "back": "Our business isn't growing so our profits aren't growing either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Se cree que la economía crecerá este año?",
+      "back": "Do they think the economy will grow this year?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "¿Piensa el director general que la empresa crecerá este año?",
+      "back": "Does the CEO think the company will grow this year?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "¿Crees que tu empresa crecerá este año?",
+      "back": "Do you think your business will grow this year?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Piensan que la economía crecerá este año.",
+      "back": "They think the economy will grow this year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "El director general piensa que la empresa crecerá este año también.",
+      "back": "The CEO thinks the company will grow this year too.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Ella piensa que tanto la empresa como sus beneficios crecerán este año.",
+      "back": "She thinks both the company and its profits will grow this year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "No se piensa que la economía crecerá este año.",
+      "back": "They don't think the economy will grow this year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "El director general no piensa que la economía crecerá este año tampoco.",
+      "back": "The CEO doesn't think the economy will grow this year either.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Él no piensa que la empresa ni sus beneficios crecerán este año.",
+      "back": "He doesn't think either the company or its profits will grow this year.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Cultivamos zanahorias y guisantes en nuestro jardín.",
+      "back": "We grow carrots and peas in our garden.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "También cultivamos patatas en nuestro jardín.",
+      "back": "We grow potatoes in our garden too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Nuestros vecinos cultivan repollos y lechugas en el suyo.",
+      "back": "Our neighbours grow cabbages and lettuces in theirs.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "Mi vecino cultiva manzanas y peras en su huerto.",
+      "back": "My neighbour grows apples and pears in his orchard.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Él cultiva ciruelas en su huerto también.",
+      "back": "He grows plums in his orchard too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Mi tío cultiva cerezas y melocotones en el suyo.",
+      "back": "My uncle grows cherries and peaches in his.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "El agricultor cultiva trigo y cebada en sus campos.",
+      "back": "The farmer grows wheat and barley in his fields.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Su vecino de él cultiva maíz y patatas en sus campos.",
+      "back": "His neighbour grows corn and potatoes in his fields.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "El otro vecino del agricultor cultiva nabos y repollos en el suyo.",
+      "back": "The farmer's other neighbour grows turnips and cabbages in his.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "Mi tía cultiva fresas en su parcela.",
+      "back": "My aunt grows strawberries in her allotment.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella cultiva frambuesas en su parcela también.",
+      "back": "She grows raspberries in her allotment too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "Su vecina de ella cultiva zanahorias y guisantes en la suya.",
+      "back": "Her neighbour grows carrots and peas in hers.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Mi vecino cultiva sus propias frutas y verduras en su invernadero.",
+      "back": "My neighbour grows his own fruit and vegetables in his greenhouse.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Mi madre cultiva sus propias frutas y verduras en su invernadero también.",
+      "back": "My mum grows her own fruit and vegetables in her greenhouse too.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Quiero cultivar mis propias frutas y verduras en el mío.",
+      "back": "I want to grow my own fruit and vegetables in mine.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Ella será alta cuando se haga mayor.",
+      "back": "She'll be tall when she grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Serán altos cuando se hagan mayores.",
+      "back": "They'll be tall when they grow up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Él será alto cuando sea mayor también.",
+      "back": "He'll be tall when he grows up too.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "Cuando él sea mayor será muy guapo.",
+      "back": "When he grows up, he'll be very handsome.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Cuando ella sea mayor será muy guapa.",
+      "back": "When she grows up, she'll be very pretty.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "Cuando sean mayores los dos serán muy guapos.",
+      "back": "When they grow up, they'll both be very good-looking.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Ella será baja como su padre cuando sea mayor.",
+      "back": "She'll be short like her father when she grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Serán bajos como su madre cuando sean mayores.",
+      "back": "They'll be short like their mother when they grow up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Seré bajo como el resto de mi familia cuando sea mayor.",
+      "back": "I'll be short like the rest of my family when I grow up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "Él quiere ser astronauta cuando sea mayor.",
+      "back": "He wants to be an astronaut when he grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "Ella quiere ser actriz cuando sea mayor.",
+      "back": "She wants to be an actress when she grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "Mi hija quiere ser cantante cuando sea mayor.",
+      "back": "My daughter wants to be a singer when she grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Mi hijo quiere ser arquitecto como su padre cuando sea mayor.",
+      "back": "My son wants to be an architect like his father when he grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "Mi hija quiere ser enfermera como su tía cuando sea mayor.",
+      "back": "My daughter wants to be a nurse like her aunt when she grows up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "Mis hijos quieren ser profesores como sus padres cuando sean mayores.",
+      "back": "My children want to be teachers like their parents when they grow up.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Mi hijo creció dos pulgadas el año pasado.",
+      "back": "My son grew two inches last year.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Mi hija creció al menos dos pulgadas el año pasado.",
+      "back": "My daughter grew at least two inches last year.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "Mi hija creció más que mi hijo el año pasado.",
+      "back": "My daughter grew more than my son last year.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Las fresas crecieron bastante rápidamente.",
+      "back": "The strawberries grew quite quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Las frambuesas crecieron muy rápidamente.",
+      "back": "The raspberries grew very quickly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "Las cerezas crecieron bastante rápidamente también.",
+      "back": "The cherries grew quite quickly too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "El pelo me creció bastante lentamente.",
+      "back": "My hair grew quite slowly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Las uñas me crecieron muy lentamente.",
+      "back": "My nails grew really slowly.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "Las uñas de los pies me crecieron muy lentamente también.",
+      "back": "My toenails grew very slowly too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Mi vecino cultivó manzanas y peras en su huerto.",
+      "back": "My neighbour grew apples and pears in his orchard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Él cultivó ciruelas en su huerto también.",
+      "back": "He grew plums in his orchard too.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "Mi tío cultivó cerezas y melocotones en su huerto.",
+      "back": "My uncle grew cherries and peaches in his orchard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Mi madre cultivó sus propias frutas y verduras en su invernadero.",
+      "back": "My mother grew her own fruit and vegetables in her greenhouse.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Mi tía cultivó sus propias frutas y verduras en su huerto.",
+      "back": "My aunt grew her own fruit and vegetables in her orchard.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "Cultivé mis propias frutas y verduras en mi jardín.",
+      "back": "I grew my own fruit and vegetables in my garden.",
+      "sourcePage": 12
+    }
+  ]
+}

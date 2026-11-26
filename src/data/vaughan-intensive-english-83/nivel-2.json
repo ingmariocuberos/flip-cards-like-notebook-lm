@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-83",
+  "bookTitle": "Libro 83",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Su pelo de ella ha crecido mucho desde que se lo tintó.",
+      "back": "Her hair's grown quite a bit since she dyed it.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "Su pelo de él ha crecido mucho desde que se lo afeitó.",
+      "back": "His hair's grown a lot since he shaved it.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "Mi pelo ha crecido un montón desde que me lo corté.",
+      "back": "My hair's grown loads since I cut it.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Voy a dejar que me crezca el pelo.",
+      "back": "I'm going to let my hair grow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Voy a dejar que me crezca el pelo hasta que esté muy largo.",
+      "back": "I'm going to let my hair grow really long.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Me aburre tener el pelo corto. Voy a dejar que me crezca.",
+      "back": "I'm bored of short hair. I'm going to let it grow.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Jim empezó a dejarse bigote cuando tenía veinte años.",
+      "back": "Jim started growing a moustache when he was twenty.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Jack empezó a dejarse barba cuando tenía dieciocho años.",
+      "back": "Jack started growing a beard when he was eighteen.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "John empezó a dejarse patillas antes de que Jim empezara a dejarse bigote, pero después de que Jack empezara a dejarse barba.",
+      "back": "John started growing sideburns before Jim started growing a moustache but after Jack started growing a beard.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "¡¿Qué pasó con todo tu bonito pelo?! No pasa nada, volverá a crecer.",
+      "back": "What happened to all your beautiful hair?! Never mind; it'll grow back.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "¡El peluquero me cortó todo el pelo! No pasa nada, volverá a crecer pronto.",
+      "back": "The hairdresser cut all my hair off! Never mind; it'll grow back soon.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "El barbero le cortó el pelo a él demasiado corto. No pasa nada, al menos volverá a crecer hasta su medida habitual algún día.",
+      "back": "The barber cut his hair too short. Never mind; at least it'll grow back to its usual length some day.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "Su nuevo corte de pelo de ella en realidad no le sienta bien, pero crecerá.",
+      "back": "Her new haircut doesn't really suit her but it will grow out.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "El peinado no le sienta bien a ella, pero pronto crecerá.",
+      "back": "The hairstyle doesn't suit her but it'll grow out soon.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "El flequillo en realidad no le sienta nada bien a ella, pero le crecerá con el tiempo.",
+      "back": "A fringe doesn't really suit her but it'll grow out eventually.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Mi padrino creció en Sídney.",
+      "back": "My godfather grew up in Sydney.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Mi madrina creció en Melbourne.",
+      "back": "My godmother grew up in Melbourne.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Mis dos padres crecieron en Canberra.",
+      "back": "My parents both grew up in Canberra.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Nací en Dublín, pero crecí en Estados Unidos.",
+      "back": "I was born in Dublin but grew up in the United States.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Él nació en Cork, pero creció en Estados Unidos.",
+      "back": "He was born in Cork but grew up in the States.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Ella nació en Belfast, pero creció en EE.UU.",
+      "back": "She was born in Belfast but grew up in the US.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Él creció en Glasgow, pero no tiene un acento marcado.",
+      "back": "He grew up in Glasgow, but he doesn't have a strong accent.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Crecieron en Londres, pero no tienen acentos londinenses marcados.",
+      "back": "They grew up in London but they don't have strong London accents.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella creció en Cardiff, pero no tiene un acento galés marcado.",
+      "back": "She grew up in Cardiff but she doesn't have a strong Welsh accent.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Anna no creció en Toronto. Creció en Vancouver.",
+      "back": "Anna didn't grow up in Toronto. She grew up in Vancouver.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Peter no creció en Vancouver. Creció en Montreal.",
+      "back": "Peter didn't grow up in Vancouver. He grew up in Montreal.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "John y Mary no crecieron en Quebec. Crecieron en Ottawa.",
+      "back": "John and Mary didn't grow up in Quebec. They grew up in Ottawa.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "¿Dónde creciste? Crecí en el norte de Inglaterra.",
+      "back": "Where did you grow up? I grew up in Northern England.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "¿Dónde crecieron tus padres? Crecieron en el sureste.",
+      "back": "Where did your parents grow up? They grew up in the South East.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Dónde creció tu marido? Creció en Oriente Próximo.",
+      "back": "Where did your husband grow up? He grew up in the Middle East.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "Cuando era pequeño siempre íbamos de vacaciones a Irlanda.",
+      "back": "When I was growing up, we always went on holiday to Ireland.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "Cuando mi amiga era pequeña siempre iba de vacaciones a Francia.",
+      "back": "When my friend was growing up, she always went on holiday to France.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "Cuando mi madre era pequeña siempre iba de vacaciones a Gales.",
+      "back": "When my mum was growing up, she always went on holiday to Wales.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Cuando éramos pequeños siempre jugábamos al fútbol en el parque.",
+      "back": "When we were growing up, we always used to play football in the park.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Cuando eran pequeños siempre jugaban en su jardín.",
+      "back": "When they were growing up, they always used to play in their garden.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Cuando mis padres eran pequeños siempre jugaban en la calle.",
+      "back": "When my parents were growing up, they always used to play in the street.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "Nunca jugábamos en la calle cuando éramos pequeños.",
+      "back": "We never used to play in the street when we were growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Mi hermano nunca jugaba al fútbol en el parque cuando era pequeño.",
+      "back": "My brother never used to play football in the park when he was growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "Mi padre nunca iba a nadar cuando era pequeño.",
+      "back": "My dad never used to go swimming when he was growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Siempre íbamos a nadar cada semana cuando éramos pequeños.",
+      "back": "We would always go swimming every week when we were growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Siempre comíamos helado los viernes cuando éramos pequeños.",
+      "back": "We would always have ice cream on Fridays when we were growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Siempre veíamos dibujos animados los sábados por la mañana cuando éramos pequeños.",
+      "back": "We would always watch cartoons on Saturday mornings when we were growing up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "Cuando él era pequeño nunca hacía sus deberes.",
+      "back": "When he was growing up he would never do his homework.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Cuando ellos eran pequeños nunca ayudaban con las tareas de la casa.",
+      "back": "When they were growing up they would never help with the housework.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Cuando mi hermana era pequeña nunca iba a nadar.",
+      "back": "When my sister was growing up she would never go swimming.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Se espera cierto crecimiento en el sector.",
+      "back": "Growth in the sector is expected.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "Se espera cierto crecimiento en la región en un futuro cercano.",
+      "back": "Growth in the region is expected in the near future.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "Se espera cierto crecimiento en la industria en un futuro cercano.",
+      "back": "Growth in the industry is expected in the near future.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "Se anticipa un crecimiento mínimo.",
+      "back": "Minimal growth is anticipated.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "Se anticipa un crecimiento mínimo a corto plazo.",
+      "back": "Minimal growth is anticipated in the short term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "Se anticipa un crecimiento mínimo en la industria a largo plazo.",
+      "back": "Minimal growth in the industry is anticipated in the long term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Se predice un crecimiento moderado.",
+      "back": "Moderate growth is predicted.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "Se predice un crecimiento moderado a medio plazo.",
+      "back": "Moderate growth is predicted in the medium term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Se predice un crecimiento moderado en el sector a corto o a medio plazo.",
+      "back": "Moderate growth in the sector is predicted in the short to medium term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Se estima un crecimiento significativo.",
+      "back": "Significant growth is forecast.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "Se estima un crecimiento significativo a medio o a largo plazo.",
+      "back": "Significant growth is forecast in the medium to long term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Se estima un crecimiento significativo en la región a medio o a largo plazo.",
+      "back": "Significant growth is forecast in the region in the medium to long term.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Se espera un crecimiento constante desde el comienzo.",
+      "back": "Steady growth is expected from the outset.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "Se anticipa un crecimiento constante desde el comienzo.",
+      "back": "Steady growth is anticipated from the outset.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Se predice un crecimiento constante en el sector desde el comienzo.",
+      "back": "Steady growth in the sector is predicted from the outset.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Nos iremos a vivir a la costa cuando envejezcamos.",
+      "back": "We'll move to the coast when we grow old.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "Se irán a vivir a una casa más pequeña cuando envejezcan.",
+      "back": "They'll move into a smaller house when they grow old.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "Ella se irá a vivir con su hijo cuando envejezca.",
+      "back": "She'll move in with her son when she grows old.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "Nos cansamos de la situación.",
+      "back": "We grew tired of the situation.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Ellos se cansaron de su compañía de él.",
+      "back": "They grew tired of his company.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Ella se cansó de sus mentiras de él.",
+      "back": "She grew tired of his lies.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "La situación ha empeorado desde ayer.",
+      "back": "The situation's grown worse since yesterday.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "El problema ha empeorado mucho desde el comienzo.",
+      "back": "The problem's grown a lot worse since the start.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "El asunto ha empeorado mucho desde entonces.",
+      "back": "The issue's grown a lot worse since then.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "Había refrescado para cuando cayó la tarde.",
+      "back": "It had grown cold by evening.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Había refrescado mucho para cuando cayó la noche.",
+      "back": "It had grown very cold by dusk.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "Había refrescado un poco para cuando cayó la noche.",
+      "back": "It had grown chilly by nightfall.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "Estaba oscureciendo para cuando llegamos. (Arrive)",
+      "back": "It was growing dark by the time we arrived.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "Estaba oscureciendo para cuando llegamos. (Get there)",
+      "back": "It was growing dark by the time we got there.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "Estaba oscureciendo para cuando llegamos todos a casa.",
+      "back": "It was growing dark by the time we all got home.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Antes ella me parecía molesta, pero ha llegado a caerme bien.",
+      "back": "I used to find her annoying but I've grown to like her.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Antes ellos me parecían irritantes, pero han llegado a caerme bien.",
+      "back": "I used to find them irritating, but I've grown to like them.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "Sé que antes él me parecía tedioso, pero ha llegado a caerme bien.",
+      "back": "I know I used to find him tedious, but I've grown to like him.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Al principio no me gustaba mi nuevo trabajo, pero ha llegado a encantarme.",
+      "back": "I didn't like my new job at first, but I've grown to love it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "No me gustaba mucho, pero ha llegado a encantarme.",
+      "back": "I didn't like it very much at first, but I've grown to love it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "Sé que ni siquiera me caía bien cuando nos conocimos, pero ahora ha llegado a encantarme.",
+      "back": "I know I didn't even like him when we met, but now I've grown to love him.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Me gustaba al principio, pero ahora he llegado a odiarlo.",
+      "back": "I liked it at first, but now I've grown to hate it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "No me importaba al principio, pero he llegado a odiarlo.",
+      "back": "I didn't mind it at the beginning, but I've grown to hate it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Sé que me daba igual al principio, pero de verdad que he llegado a odiarlo.",
+      "back": "I know I was indifferent to it to start with, but I've really grown to hate it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "No tuvo mucho éxito al principio, pero han llegado a aceptarlo.",
+      "back": "It was unpopular at the beginning, but they've grown to accept it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Aunque fue difícil al principio, han llegado a apreciarlo.",
+      "back": "Although it was hard at first, they've grown to appreciate it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "Sé que fue desagradable al principio, pero la gente ha llegado a aceptarlo.",
+      "back": "I know it was unpleasant at first, but people have grown to accept it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "Al principio no me entusiasmaba, pero me ha conquistado.",
+      "back": "I wasn't crazy about it at first, but it's grown on me.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "No les entusiasmaba al principio, pero les ha conquistado.",
+      "back": "They weren't thrilled to begin with, but it's grown on them.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Al principio queríamos odiarlo, pero nos ha conquistado.",
+      "back": "At first we wanted to hate it, but it's grown on us.",
+      "sourcePage": 26
+    }
+  ]
+}
