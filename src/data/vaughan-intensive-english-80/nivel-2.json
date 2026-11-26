@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-80",
+  "bookTitle": "Libro 80",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¿Cuánto tardas en vestirte?",
+      "back": "How long does it take you to get dressed?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-002",
+      "front": "¿Cuánto tarda tu esposo en vestirse?",
+      "back": "How long does it take your husband to get dressed?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-003",
+      "front": "¿Cuánto tarda él en vestirse?",
+      "back": "How long does it take him to get dressed?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-004",
+      "front": "Tardo media hora en vestirme.",
+      "back": "It takes me half an hour to get dressed.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-005",
+      "front": "Los niños tardan cinco minutos en vestirse.",
+      "back": "It takes the children five minutes to get dressed.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-006",
+      "front": "Él tarda unos minutos en vestirse.",
+      "back": "It takes him a few minutes to get dressed.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-007",
+      "front": "Sólo tardé cinco minutos en vestirme esta mañana.",
+      "back": "It only took me five minutes to get dressed this morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-008",
+      "front": "Sólo tardaron unos minutos en vestirse.",
+      "back": "It only took them a few minutes to get dressed.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-009",
+      "front": "Tardé media hora en vestirme, pero él sólo tardó unos minutos.",
+      "back": "It took me half an hour to get dressed but it only took him a few minutes.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-010",
+      "front": "Ella tardó una eternidad en vestirse para la fiesta.",
+      "back": "It took her forever to get dressed for the party.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-011",
+      "front": "Tardé una eternidad en vestirme para la reunión.",
+      "back": "It took me forever to get dressed for the meeting.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Cuánto tardó tu hijo en vestirse para el baile de graduación? ¡Tardó una eternidad!",
+      "back": "How long did it take your son to get dressed for the prom? It took him forever!",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-013",
+      "front": "¿Cuánto tardaste en vestirte? (Usa «ready».)",
+      "back": "How long did it take you to get ready?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-014",
+      "front": "Sólo tardé un cuarto de hora en vestirme.",
+      "back": "It only took me a quarter of an hour to get ready.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-015",
+      "front": "Ella tardó una eternidad en vestirse para el espectáculo.",
+      "back": "It took her forever to get ready for the show.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s2-016",
+      "front": "Vestí a mis hijos y los llevé al parque.",
+      "back": "I dressed my children and took them out to the park.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-017",
+      "front": "Las enfermeras vistieron a los pacientes y los llevaron a dar un paseo en el parque.",
+      "back": "The nurses dressed the patients and took them out for a walk in the park.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-018",
+      "front": "Vestimos a los pacientes y los llevamos a comer por ahí.",
+      "back": "We dressed the patients and took them out for lunch.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-019",
+      "front": "Nos vestimos y salimos corriendo.",
+      "back": "We dressed and hurried out.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-020",
+      "front": "Jim se vistió y salió corriendo a la tienda.",
+      "back": "Jim dressed and hurried out to the shop.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-021",
+      "front": "Kylie se vistió deprisa y llevó a los niños al parque.",
+      "back": "Kylie dressed in a hurry and took the kids out to the park.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-022",
+      "front": "Era una fiesta muy elegante, así que nos pusimos elegantes.",
+      "back": "It was a very posh party so we dressed up.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella se puso de punta en blanco para el espectáculo.",
+      "back": "She dressed up to the nines for the show.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-024",
+      "front": "Anoche te arreglaste. ¿Intentabas gustar a alguien?",
+      "back": "You dressed up last night. Were you trying to impress someone?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-025",
+      "front": "Era una fiesta de Halloween. Me disfracé de hombre lobo.",
+      "back": "It was a Halloween party. I dressed up as a werewolf.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-026",
+      "front": "Ella se disfrazó de vampiresa y salió corriendo a la fiesta de Halloween.",
+      "back": "She dressed up as a vampire and hurried out to the Halloween party.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Te pusiste un disfraz? Sí, me disfracé de científico loco.",
+      "back": "Did you wear a costume? Yes, I dressed up as a mad scientist.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-028",
+      "front": "Ibas despampanante anoche. ¿Intentabas gustarle a alguien?",
+      "back": "You were dressed to impress last night. Were you trying to impress someone?",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-029",
+      "front": "Él iba despampanante porque era un espectáculo muy elegante.",
+      "back": "He was dressed to impress because it was a very posh show.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-030",
+      "front": "¿Viste a Helena en la fiesta de los empleados? Estaba despampanante.",
+      "back": "Did you see Helena at the staff party? She was dressed to impress.",
+      "sourcePage": 20
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Qué llevabas puesto el martes pasado?",
+      "back": "What were you wearing last Tuesday?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Ah, sí! Yo llevaba mis botas nuevas.",
+      "back": "Ah yes, I was wearing my new boots.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Llevabas tu vestido verde también? No, no lo llevaba.",
+      "back": "Were you wearing your green dress too? No, I wasn't wearing it.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-034",
+      "front": "Ella se vestía de negro todos los días cuando era adolescente.",
+      "back": "She wore black every day when she was a teenager.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-035",
+      "front": "Vera se vistió de rojo en su cita.",
+      "back": "Vera wore red on her date.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-036",
+      "front": "Alex siempre se vestía de negro cuando trabajaba.",
+      "back": "Alex always wore black when he was working.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Alguna vez te has puesto un vestido de espalda descubierta?",
+      "back": "Have you ever worn a backless dress?",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-038",
+      "front": "Nunca me he vestido de rojo en una cita.",
+      "back": "I've never worn red on a date.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-039",
+      "front": "Nunca me he puesto aquellas botas con este vestido.",
+      "back": "I've never worn those boots with that dress.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-040",
+      "front": "Hace mucho que Chris no tiene el pelo así.",
+      "back": "Chris hasn't worn his hair like that for a long time.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-041",
+      "front": "Hace siglos que Nancy no tiene el pelo así.",
+      "back": "Nancy hasn't worn her hair like that for ages.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-042",
+      "front": "Hace mucho que Betty no tiene el pelo recogido.",
+      "back": "Betty hasn't worn her hair up for ages.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-043",
+      "front": "No llevaba maquillaje ayer. Fui a la playa.",
+      "back": "I didn't wear any make-up yesterday. I went to the beach.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-044",
+      "front": "Debbie tenía puesto demasiado maquillaje ayer.",
+      "back": "Debbie wore too much make-up yesterday.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-045",
+      "front": "Me disfracé de hombre lobo así que tenía puesto mucho maquillaje.",
+      "back": "I dressed up as a werewolf so I wore a lot of make-up.",
+      "sourcePage": 21
+    },
+    {
+      "id": "s2-046",
+      "front": "Me voy a poner mi top favorito.",
+      "back": "I'm going to put on my favorite top.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-047",
+      "front": "¿Te vas a poner el top sin mangas?",
+      "back": "Are you going to put on the sleeveless top?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-048",
+      "front": "No, no voy a ponerme el top sin mangas. Voy a ponerme el otro top.",
+      "back": "No, I'm not going to put on the sleeveless top. I'm going to put on the other top.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-049",
+      "front": "¿Te vas a poner tu americana?",
+      "back": "Are you going to wear your blazer?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-050",
+      "front": "Sí, voy a ponerme mi americana ajustada por encima de mi top sin mangas.",
+      "back": "Yes, I'm going to wear my fitted blazer over my sleeveless top.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-051",
+      "front": "No, no me voy a poner mi americana ajustada. Ya no me gusta.",
+      "back": "No, I'm not going to wear my fitted blazer. I don't like it anymore.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-052",
+      "front": "Decidí ponerme medias debajo de los pantalones porque hacía frío.",
+      "back": "I decided to wear tights under my trousers because it was cold.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Te pusiste tus medias lisas?",
+      "back": "Did you wear your plain tights?",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-054",
+      "front": "Me puse medias negras lisas con mi vestido gris.",
+      "back": "I wore plain black tights with my grey dress.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-055",
+      "front": "Decidí no llevar chaqueta debajo del abrigo. Hoy hace bueno.",
+      "back": "I decided not to wear a cardigan under my coat. It's warm today.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-056",
+      "front": "Ella decidió no llevar su chaqueta a rayas encima de su top sin mangas.",
+      "back": "She decided not to wear her stripy cardigan over her sleeveless top.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-057",
+      "front": "Él decidió no llevar chaqueta. No tenía frío.",
+      "back": "He decided not to wear a cardi. He didn't feel cold.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-058",
+      "front": "Normalmente me pongo un jersey con capucha cuando llego a casa después de trabajar.",
+      "back": "I usually put on a hoody when I get home after work.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-059",
+      "front": "Siempre me pongo un jersey con capucha holgado cuando me voy a correr.",
+      "back": "I always put on a baggy hoody when I go running.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-060",
+      "front": "Nick siempre lleva su jersey con capucha a rayas y holgado cuando se va a montar en bici.",
+      "back": "Nick always wears his stripy, baggy hoody when he goes cycling.",
+      "sourcePage": 24
+    },
+    {
+      "id": "s2-061",
+      "front": "Los chicos me agotaron en el parque infantil hoy.",
+      "back": "The kids wore me out at the playground today.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-062",
+      "front": "El perro me agotó en el parque hoy.",
+      "back": "The dog wore me out at the park today.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-063",
+      "front": "El proyecto en el que trabajé el mes pasado me agotó.",
+      "back": "The project I worked on last month wore me out.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-064",
+      "front": "El perro se agotó a sí mismo en la playa hoy.",
+      "back": "The dog wore himself out at the beach today.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-065",
+      "front": "Los hijos se agotaron a sí mismos en el parque hoy.",
+      "back": "The kids wore themselves out at the park today.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-066",
+      "front": "Nosotros nos agotamos a nosotros mismos, pero respetamos nuestra fecha límite.",
+      "back": "We wore ourselves out but we met our deadline.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-067",
+      "front": "Ella usaba ese secador de pelo todos los días hasta que lo desgastó.",
+      "back": "She used that hairdryer every day until she wore it out.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-068",
+      "front": "Desgastarás esa bicicleta si no compras una nueva cadena.",
+      "back": "You will wear that bicycle out if you don't get a new chain.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-069",
+      "front": "Conducía ese coche todos los días hasta que desgasté los neumáticos.",
+      "back": "I drove that car every day until I wore the tires out.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-070",
+      "front": "Estoy completamente agotado, pero respeté la fecha límite.",
+      "back": "I'm completely worn out but I met the deadline.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-071",
+      "front": "Estaba agotado cuando regresé de la India, pero fue un viaje asombroso.",
+      "back": "I was worn out when I came back from India but it was an amazing trip.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-072",
+      "front": "El coche estaba completamente fundido pasados un par de años.",
+      "back": "The car was completely worn out after a couple of years.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-073",
+      "front": "El tacón de mi zapato está bastante desgastado.",
+      "back": "The heel of my shoe is quite worn.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-074",
+      "front": "La correa del bolso está un poco desgastada.",
+      "back": "The strap on the bag is a bit worn.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-075",
+      "front": "La cadena de la bicicleta está bastante desgastada.",
+      "back": "The chain on the bicycle is quite worn.",
+      "sourcePage": 25
+    },
+    {
+      "id": "s2-076",
+      "front": "Perdona, ¿dónde está la sección de señoras?",
+      "back": "Excuse me, where's the womenswear section?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-077",
+      "front": "Encontrará la sección de señoras en la tercera planta.",
+      "back": "You'll find womenswear on the third floor.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-078",
+      "front": "¿La sección de señoras está en la planta de arriba o en la planta de abajo?",
+      "back": "Is womenswear upstairs or downstairs?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-079",
+      "front": "Perdona, ¿sabes dónde está la sección de caballeros?",
+      "back": "Excuse me, do you know where the menswear department is?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-080",
+      "front": "Creo que la sección de caballeros está en la última planta.",
+      "back": "I think menswear is on the top floor.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-081",
+      "front": "¿La sección de caballeros está en la planta baja o en la primera planta?",
+      "back": "Is menswear on the ground floor or on the first floor?",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-082",
+      "front": "Deberías haber visto el conjunto de Kristy ayer. Se puso de punta en blanco.",
+      "back": "You should've seen Kristy's outfit yesterday. She dressed up to the nines.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-083",
+      "front": "Deberías haber visto el conjunto que se puso en la gala de premios. Era alucinante.",
+      "back": "You should have seen the outfit she wore to the awards. It was amazing.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-084",
+      "front": "Deberías haber visto el conjunto de Henry. Era ridículo.",
+      "back": "You should've seen Henry's outfit. It was ridiculous.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-085",
+      "front": "El disfraz de Rick era genial. Deberías haberlo visto.",
+      "back": "Rick's costume was brilliant. You should have seen it.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-086",
+      "front": "Deberías haber visto el disfraz de Mike. Se disfrazó de pirata.",
+      "back": "You should have seen Mike's costume. He dressed up as a pirate.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-087",
+      "front": "¿No viste mi disfraz? Me disfracé de científico loco.",
+      "back": "Didn't you see my costume? I dressed up as a mad scientist.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-088",
+      "front": "Él se puso un disfraz para pasar inadvertido por la policía.",
+      "back": "He wore a disguise to get past the police.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-089",
+      "front": "El villano se puso un disfraz y escapó.",
+      "back": "The villain put on a disguise and escaped.",
+      "sourcePage": 26
+    },
+    {
+      "id": "s2-090",
+      "front": "Cuando el villano se quitó el disfraz, ¡todo el mundo se asombró al ver quién era!",
+      "back": "When the villain took off the disguise, everyone was shocked to see who it was!",
+      "sourcePage": 26
+    }
+  ]
+}

@@ -180,3 +180,6 @@ El libro 78 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 78__h
 
 
 El libro 79 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 79__halves.ocr.txt`. Focus Points: mitades 9–14 y 19–24 (PDF 5–7 y 10–12, básico), 37–42 y 47–52 (PDF 19–21 y 24–26, intermedio), 65–70 y 75–80 (PDF 33–35 y 38–40, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.
+
+
+El libro 80 tiene 46 pliegos PDF y OCR selectivo en `sources/english/Libro 80__halves.ocr.txt`. Focus Points: mitades 9–14 y 19–24 (PDF 5–7 y 10–12, básico), 37–42 y 47–52 (PDF 19–21 y 24–26, intermedio), 65–70 y 75–80 (PDF 33–35 y 38–40, avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.

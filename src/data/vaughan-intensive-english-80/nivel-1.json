@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-80",
+  "bookTitle": "Libro 80",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Vístete y vete al trabajo.",
+      "back": "Get dressed and go to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-002",
+      "front": "Vístete y ve al supermercado.",
+      "back": "Get dressed and go to the supermarket.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-003",
+      "front": "Vístete y abre la puerta.",
+      "back": "Get dressed and answer the door.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-004",
+      "front": "Vístete deprisa y vente.",
+      "back": "Get dressed quickly and come over.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-005",
+      "front": "Vístete deprisa y vente a mi casa.",
+      "back": "Get dressed quickly and come to my house.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-006",
+      "front": "Vístete deprisa y vámonos.",
+      "back": "Get dressed quickly and let's go.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-007",
+      "front": "Me visto después de ducharme.",
+      "back": "I get dressed after I have a shower.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Me visto antes de cepillarme los dientes.",
+      "back": "I get dressed before I brush my teeth.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Me visto después de tomar café.",
+      "back": "I get dressed after I have coffee.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "William se viste a las 8 de la mañana.",
+      "back": "William gets dressed at 8am.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Sandra se viste después de ducharse.",
+      "back": "Sandra gets dressed after she has a shower.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "Timmy se viste deprisa antes de cepillarse los dientes.",
+      "back": "Timmy gets dressed quickly before he brushes his teeth.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Es hora de vestirse.",
+      "back": "It's time to get dressed.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Vístete. Es hora de ir a trabajar.",
+      "back": "Get dressed. It's time to go to work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Es hora de irse, así que vístete deprisa.",
+      "back": "It's time to leave, so get dressed quickly.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Me pongo ropa cómoda.",
+      "back": "I wear comfortable clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Helen se pone zapatos cómodos para trabajar.",
+      "back": "Helen wears comfortable shoes to work.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Catherine se pone ropa incómoda.",
+      "back": "Catherine wears uncomfortable clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "¿Qué tipo de ropa te pones?",
+      "back": "What kind of clothes do you wear?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Qué tipo de ropa se pone ella?",
+      "back": "What kind of clothes does she wear?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "¿Qué tipo de ropa lleva ella al trabajo?",
+      "back": "What kind of clothes does she wear to work?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Llevo ropa informal al trabajo.",
+      "back": "I wear casual clothes to work.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-023",
+      "front": "Julie se pone ropa informal el fin de semana.",
+      "back": "Julie wears casual clothes at the weekend.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-024",
+      "front": "Michael no se pone ropa informal. Se pone ropa de vestir.",
+      "back": "Michael doesn't wear casual clothes. He wears dressy clothes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-025",
+      "front": "Greg lleva una corbata de seda y zapatos de piel.",
+      "back": "Greg's wearing a silk tie and leather shoes.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-026",
+      "front": "Mike lleva una camisa azul y pantalones grises.",
+      "back": "Mike's wearing a blue shirt and grey trousers.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-027",
+      "front": "Julie lleva un vestido verde y un collar de diamantes.",
+      "back": "Julie's wearing a green dress and a diamond necklace.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Qué te vas a poner esta noche?",
+      "back": "What are you wearing tonight?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Qué se va a poner ella para la fiesta?",
+      "back": "What's she wearing to the party?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Qué te vas a poner para la boda? ¿Un vestido o un traje?",
+      "back": "What are you wearing to the wedding? A dress or a suit?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-031",
+      "front": "Ponte una bufanda.",
+      "back": "Put on a scarf.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-032",
+      "front": "Ponte unos guantes.",
+      "back": "Put on some gloves.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-033",
+      "front": "Ponte algo de ropa.",
+      "back": "Put some clothes on.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-034",
+      "front": "Póntelo y abre la puerta.",
+      "back": "Put it on and answer the door.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-035",
+      "front": "Póntelo antes de cepillarte los dientes.",
+      "back": "Put it on before you brush your teeth.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-036",
+      "front": "Póntelos antes de salir.",
+      "back": "Put them on before you go out.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-037",
+      "front": "¿Dónde está Jackie? Ella se está poniendo algo de ropa.",
+      "back": "Where's Jackie? She's putting some clothes on.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Karl se está poniendo una bufanda.",
+      "back": "Karl's putting a scarf on.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Me estoy poniendo unos guantes. Me los estoy poniendo porque hace frío.",
+      "back": "I'm putting on some gloves. I'm putting them on because it's cold.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Quítate el abrigo.",
+      "back": "Take off your coat.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "Por favor, quítate los zapatos antes de entrar.",
+      "back": "Please take off your shoes before you come in.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Quítate la chaqueta y entra.",
+      "back": "Take your jacket off and come in.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Dónde está Karl? Se está quitando el abrigo.",
+      "back": "Where's Karl? He's taking his coat off.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Él se lo está quitando porque tiene calor.",
+      "back": "He's taking it off because he's hot.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Me estoy quitando los guantes. Me los estoy quitando porque hace calor.",
+      "back": "I'm taking my gloves off; I'm taking them off because it's hot.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Visto a los niños a las 7 de la mañana todos los días.",
+      "back": "I dress the children every day at 7am.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-047",
+      "front": "Después de hacer el desayuno, visto a los niños.",
+      "back": "After I make breakfast, I dress the children.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-048",
+      "front": "Vestimos a los niños y luego hacemos el desayuno.",
+      "back": "We dress the kids and then we make breakfast.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-049",
+      "front": "En Roma todo el mundo viste igual.",
+      "back": "Everyone dresses the same in Rome.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-050",
+      "front": "Todo el mundo viste igual que Stephen.",
+      "back": "Everyone dresses the same as Stephen.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-051",
+      "front": "Nadie viste igual que ella. Es única.",
+      "back": "No one dresses the same as her. She's unique.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-052",
+      "front": "Los italianos visten muy bien.",
+      "back": "Italian people dress very well.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-053",
+      "front": "Todo el mundo viste bien en este país.",
+      "back": "Everyone dresses well in this country.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-054",
+      "front": "Su marido viste muy bien en el trabajo.",
+      "back": "Her husband dresses very well at work.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-055",
+      "front": "En mi oficina puedes vestir de manera informal.",
+      "back": "You can dress casually in my office.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-056",
+      "front": "Para esta fiesta se puede vestir de manera informal.",
+      "back": "You can dress casually for this party.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Puedo vestir de manera informal los viernes?",
+      "back": "Can I dress casually on Fridays?",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-058",
+      "front": "Puedes desvestirte en el dormitorio.",
+      "back": "You can undress in the bedroom.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-059",
+      "front": "Siempre me quito la ropa antes de ducharme.",
+      "back": "I always undress before I have a shower.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-060",
+      "front": "Voy a quitarme la ropa y a ponerme el pijama.",
+      "back": "I'm going to undress and put on my pyjamas.",
+      "sourcePage": 10
+    },
+    {
+      "id": "s1-061",
+      "front": "Me encanta su ropa de ella.",
+      "back": "I love her clothes.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-062",
+      "front": "Su ropa de él es muy linda.",
+      "back": "His clothes are very nice.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-063",
+      "front": "Su ropa de él es muy informal.",
+      "back": "His clothes are very casual.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-064",
+      "front": "¡Ése es un conjunto precioso!",
+      "back": "That's a lovely outfit!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-065",
+      "front": "Su conjunto de ella es precioso.",
+      "back": "Her outfit is lovely.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-066",
+      "front": "El conjunto de Kevin es raro.",
+      "back": "Kevin's outfit is weird.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-067",
+      "front": "Necesitas ropa especial para el senderismo.",
+      "back": "You need special clothing for hiking.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-068",
+      "front": "Necesitas ropa de abrigo para la escalada.",
+      "back": "You need warm clothing for climbing.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-069",
+      "front": "Necesitas ropa ligera para montar en bicicleta.",
+      "back": "You need light clothing for cycling.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Qué vestido más precioso!",
+      "back": "What a lovely dress!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Qué ropa más preciosa!",
+      "back": "What lovely clothes!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Qué conjunto más raro!",
+      "back": "What a weird outfit!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-073",
+      "front": "Me gusta esta prenda: la camisa. Es preciosa.",
+      "back": "I like this top. It's lovely.",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Te gusta esa prenda: el vestido?",
+      "back": "Do you like that dress?",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Qué prenda más bonita: la chaqueta!",
+      "back": "What a lovely jacket!",
+      "sourcePage": 11
+    },
+    {
+      "id": "s1-076",
+      "front": "Liz se viste a las 8 de la mañana.",
+      "back": "Liz gets dressed at 8 o'clock in the morning.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-077",
+      "front": "Frank se viste hacia el mediodía.",
+      "back": "Frank gets dressed at around midday.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-078",
+      "front": "James se viste en su dormitorio.",
+      "back": "James gets dressed in his bedroom.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-079",
+      "front": "Liz tiene que ir vestida formalmente para ir a trabajar.",
+      "back": "Liz has to dress formally for work.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-080",
+      "front": "Frank va vestido informalmente en el trabajo.",
+      "back": "Frank dresses casually at work.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-081",
+      "front": "James siempre se viste bien para las fiestas.",
+      "back": "James always dresses well for parties.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-082",
+      "front": "Liz se pone tacones todos los días.",
+      "back": "Liz puts on high heels every day.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-083",
+      "front": "Frank se pone una corbata de seda y zapatos de cuero todos los días.",
+      "back": "Frank puts on a silk tie and leather shoes every day.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-084",
+      "front": "James se pone un conjunto diferente todos los días.",
+      "back": "James puts on a different outfit every day.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-085",
+      "front": "Liz lleva maquillaje todos y cada uno de los días.",
+      "back": "Liz wears make-up every single day.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-086",
+      "front": "Frank lleva reloj todos los días, sin excepción.",
+      "back": "Frank wears a watch every day, without fail.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-087",
+      "front": "James lleva camisa y corbata todos los días.",
+      "back": "James wears a shirt and tie every single day.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-088",
+      "front": "Liz se quita los zapatos cuando llega a casa.",
+      "back": "Liz takes off her shoes when she comes home.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-089",
+      "front": "Frank se quita el reloj cuando se va a la cama.",
+      "back": "Frank takes off his watch when he goes to bed.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-090",
+      "front": "James se quita la ropa y se pone el pijama cuando llega a casa.",
+      "back": "James takes off his clothes and puts on his pyjamas when he gets home.",
+      "sourcePage": 12
+    }
+  ]
+}
