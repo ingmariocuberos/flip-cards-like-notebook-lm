@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-88",
+  "bookTitle": "Libro 88",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Salí antes de las seis, pero no volví hasta tarde.",
+      "back": "I left before six o'clock but didn't get back until late.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "Salimos a las 3 de la madrugada, pero no volvimos hasta la medianoche.",
+      "back": "We left at 3 a.m. and didn't get back until midnight.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Salieron pronto aquella mañana y volvieron tarde aquella noche.",
+      "back": "They left early that morning and got back late that night.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Ella se fue a estudiar a York, pero volvió después de una semana.",
+      "back": "She went to study in York but came back after a week.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Él se fue a estudiar inglés a Manchester, pero volvió después de sólo unas semanas.",
+      "back": "He went to study English in Manchester but came back after only a few weeks.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Se fueron a Australia a vivir durante un año, pero volvieron después de sólo seis meses.",
+      "back": "They went to live in Australia for a year but came back after only six months.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Nos fuimos a estudiar a Londres durante el verano y volveremos el año que viene.",
+      "back": "We went to study in London for the summer and will go back next year.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Ella se fue a estudiar alemán a Hamburgo un mes y volverá pronto.",
+      "back": "She went to study German in Hamburg for a month and will go back again soon.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Fui a visitar a mi hermano a Nueva Zelanda un mes y volveré el año que viene.",
+      "back": "I went to visit my brother in New Zealand for a month and will go back again next year.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Vinieron a vernos primero en 1964 y volvieron cada año durante veinte años.",
+      "back": "They first came to see us in 1964 and came back every year for twenty years.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Su primera visita fue en 1999 y volvieron dos veces al año hasta 2012.",
+      "back": "Their first visit was in 1999 and they came back twice a year until 2012.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Mi primer viaje aquí fue en 2006 y he vuelto a menudo desde entonces.",
+      "back": "My first trip here was in 2006 and I've come back regularly ever since.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Fuimos a Francia primero en 2003 y hemos vuelto cada año desde entonces.",
+      "back": "We first went to France in 2003 and we've gone back every year since.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Fuimos a visitarles primero a Gales en 1989 y hemos vuelto a menudo.",
+      "back": "We first visited them in Wales in 1989 and have gone back regularly.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Viajé por primera vez a la India en 1982 y he vuelto varias veces desde entonces.",
+      "back": "I first travelled to India in 1982 and have gone back several times since then.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Ya le he devuelto su teléfono a él.",
+      "back": "I've already given him back his phone.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Ella ya le ha devuelto su reproductor de mp3 a él.",
+      "back": "She's already given him his mp3 player back.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Ya le hemos devuelto su DVD a él.",
+      "back": "We've already given his DVD back to him.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "No le he devuelto su blusa a ella todavía.",
+      "back": "I haven't given her back her blouse yet.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Ella no me ha devuelto mis cosas todavía.",
+      "back": "She hasn't given me my stuff back yet.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "No le hemos devuelto su portátil a ella todavía.",
+      "back": "We haven't given her laptop back to her yet.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Aún no le he devuelto a mi madre su libro.",
+      "back": "I still haven't given my mum back her book.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Aún no le hemos devuelto a mis padres su llave de repuesto.",
+      "back": "We still haven't given my parents their spare key back.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella aún no le ha devuelto sus cosas a él.",
+      "back": "She still hasn't given his stuff back to him.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Ya me lo han devuelto.",
+      "back": "They've already given it back to me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Él no me lo ha devuelto aún.",
+      "back": "He still hasn't given it back to me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "No me lo han devuelto aún.",
+      "back": "They haven't given it back yet.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Ya le he devuelto a él el libro que me prestó.",
+      "back": "I've already given him back the book he lent me.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Ella aún no ha devuelto el dinero que les pidió prestado.",
+      "back": "She hasn't given them back the money she borrowed yet.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Ella aún no me ha devuelto el bolso que le presté.",
+      "back": "She still hasn't given me back the bag I lent her.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¡Guarda eso!",
+      "back": "Put that back!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¡Guárdalos donde los has encontrado!",
+      "back": "Put them back where you found them!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¡Guárdalo en su sitio!",
+      "back": "Put it back where it belongs!",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Puedes guardarlo, por favor?",
+      "back": "Can you put it back, please?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Puedes guardarlo en su sitio, por favor? (In its place)",
+      "back": "Can you put it back in its place, please?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Puedes guardarlo en su sitio, por favor? (Where it belongs)",
+      "back": "Can you put it back where it belongs, please?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Por favor, guárdalo en su sitio cuando hayas acabado de usarlo.",
+      "back": "Please put it back when you've finished with it.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Que no se te olvide guardarlo cuando hayas acabado de usarlo.",
+      "back": "Don't forget to put it back when you've finished with it.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Acuérdate de guardarlos cuando hayas terminado de usarlos.",
+      "back": "Remember to put them back when you've finished with them.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Mis hijos nunca colocan las cosas donde las encontraron.",
+      "back": "My children never put things back where they found them.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Mi compañero de piso nunca guarda las cosas en su sitio.",
+      "back": "My flatmate never puts things back where they belong.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "Mi marido nunca guarda las cosas cuando ha acabado de usarlas.",
+      "back": "My husband never puts things back when he's finished with them.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Mis hijos son tan desordenados... Nunca guardan las cosas en su sitio.",
+      "back": "My children are so messy. They never put things back where they belong.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Mis compañeros de piso son un desastre... Nunca colocan las cosas en su sitio.",
+      "back": "My flatmates are so untidy. They never put stuff back in its place.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Mi marido es tan desordenado... Nunca coloca las cosas donde las encontró.",
+      "back": "My husband's so disorganized. He never puts things back where he found them.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Le devolveré la llamada más tarde.",
+      "back": "I'll return his call later.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Le he dejado muchos mensajes, pero ella no me devuelve las llamadas nunca.",
+      "back": "I've left loads of messages but she never returns my calls.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Tuve que dejar muchos mensajes antes de que los de la empresa me devolvieran la llamada.",
+      "back": "I had to leave a lot of messages before the company returned my call.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Hablaremos más de la situación cuando él vuelva.",
+      "back": "We'll discuss the situation further on his return.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Considerarán el asunto a su regreso de él al trabajo.",
+      "back": "They'll consider the issue on his return to work.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "El asunto se tratará cuando él vuelva de vacaciones.",
+      "back": "The matter will be discussed on his return from holiday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Después de un par de años los síntomas volvieron.",
+      "back": "After a couple of years, the symptoms returned.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Después de un par de semanas, los dolores volvieron.",
+      "back": "After a couple of weeks, the pains returned.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Por desgracia, después de tan sólo una semana o dos el malestar volvió.",
+      "back": "Unfortunately, after only a week or two, the discomfort returned.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Me invitó a comer a cambio de mi ayuda.",
+      "back": "He bought me lunch in return for my help.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Le dieron a él un premio a cambio de la información.",
+      "back": "They gave him a reward in return for the information.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Ella le dio a él un regalo a cambio de su amabilidad.",
+      "back": "She gave him a gift in return for his kindness.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Te ayudará, pero siempre quiere algo a cambio.",
+      "back": "He'll help you out, but he always wants something in return.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Están siempre dispuestos a ayudar y nunca quieren nada a cambio.",
+      "back": "They're always happy to help and never want anything in return.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "No hace nada nunca sin querer algo a cambio.",
+      "back": "He never does anything without wanting something in return.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Esto es pésimo. ¡Tendremos que hacerlo de nuevo!",
+      "back": "This is dreadful. We'll have to redo it!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Esto es horrible. Ella tendrá que rehacerlo.",
+      "back": "This is absolutely awful. She'll just have to redo it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Esto es una basura total. Tendrán que rehacerlo cuanto antes.",
+      "back": "This is complete rubbish. They'll have to redo it as soon as possible.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "No recuerdo los detalles. Tendré que leer su correo electrónico de ella de nuevo.",
+      "back": "I can't remember the details. I'll need to reread her email.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "No recuerdo toda la información. Tendré que leer el documento de nuevo.",
+      "back": "I can't remember all the information. I'll need to reread the document.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "No recuerdo todos los hechos. Tendré que releer el informe.",
+      "back": "I can't remember all the facts. I'll need to reread the report.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Ha cambiado la situación. Tenemos que escribir la carta de nuevo.",
+      "back": "The situation has changed. We need to rewrite the letter.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Las cosas han cambiado. Tengo que volver a escribir partes del informe.",
+      "back": "Things have changed. I need to rewrite parts of the report.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Algunas partes de la información no están actualizadas. Tienen que volver a escribir el párrafo.",
+      "back": "Some of the information is out of date. They need to rewrite that paragraph.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Tuvo tanto éxito que tuvieron que volver a imprimirlo.",
+      "back": "It was so successful they had to reprint it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Tuvo tanto éxito que lo tuvieron que volver a imprimir cuatro veces.",
+      "back": "It was such a success they had to reprint it four times.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Debido a su éxito lo tuvieron que volver a imprimir varias veces.",
+      "back": "Due to its success, they had to reprint it several times.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella se volvió a casar después de unos pocos meses.",
+      "back": "She remarried after a few months.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Él se volvió a casar dos años después.",
+      "back": "He remarried two years later.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Los dos se volvieron a casar al poco tiempo.",
+      "back": "They both remarried within a short space of time.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Me gustaría devolver esta camiseta, por favor.",
+      "back": "I'd like to return this t-shirt, please.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "Me gustaría devolver estas zapatillas de deporte, por favor.",
+      "back": "I'd like to return these trainers, please.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Me gustaría devolver este cinturón, por favor.",
+      "back": "I'd like to return this belt, please.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Me gustaría devolver este jersey porque me queda demasiado pequeño.",
+      "back": "I'd like to return this jumper because it's too small.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Me gustaría devolver estos vaqueros porque están rotos.",
+      "back": "I'd like to return these jeans because they're torn.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Me gustaría devolver este artículo porque está roto.",
+      "back": "I'd like to return this item because it's broken.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Querrías un reembolso?",
+      "back": "Would you like a refund?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Querrías hacer un cambio?",
+      "back": "Would you like to make an exchange?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "¿Querrías algo a cambio o un reembolso?",
+      "back": "Would you like an exchange or a refund?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Quisiera un reembolso, por favor.",
+      "back": "I'd like a refund, please.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Quisiera hacer un cambio, por favor.",
+      "back": "I'd like to make an exchange, please.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Quisiera cambiar estos vaqueros por estos pantalones, por favor.",
+      "back": "I'd like to exchange these jeans for these trousers, please.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "Tengo mi recibo, así que quisiera un reembolso, por favor.",
+      "back": "I have my receipt so I'd like a refund, please.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "No tengo mi recibo, así que quisiera hacer un cambio.",
+      "back": "I don't have my receipt so I'd like to make an exchange.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "No tengo mi recibo, así que quisiera un vale de abono, por favor.",
+      "back": "I don't have my receipt so I'd like a credit note, please.",
+      "sourcePage": 47
+    }
+  ]
+}
