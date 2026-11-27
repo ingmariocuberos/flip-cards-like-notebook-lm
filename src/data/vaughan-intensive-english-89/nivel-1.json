@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-89",
+  "bookTitle": "Libro 89",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Vivo en Londres.",
+      "back": "I live in London.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Jenny vive en Hong Kong.",
+      "back": "Jenny lives in Hong Kong.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Linda vive en París.",
+      "back": "Linda lives in Paris.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Vivo en una casa.",
+      "back": "I live in a house.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Jenny vive en un piso.",
+      "back": "Jenny lives in an apartment.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Linda vive en una mansión.",
+      "back": "Linda lives in a mansion.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Vivo en una casa en Londres.",
+      "back": "I live in a house in London.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Jenny vive en un piso en Hong Kong.",
+      "back": "Jenny lives in an apartment in Hong Kong.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Linda vive en una mansión en París.",
+      "back": "Linda lives in a mansion in Paris.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Vives en un piso?",
+      "back": "Do you live in an apartment?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Vives en una casa?",
+      "back": "Do you live in a house?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Vives en una casa o en un piso?",
+      "back": "Do you live in a house or in an apartment?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Dónde vives? Vivo a las afueras.",
+      "back": "Where do you live? I live in the suburbs.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Dónde vive Jenny? Vive en el centro.",
+      "back": "Where does Jenny live? She lives in the city centre.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Dónde vive Linda? Vive en el campo.",
+      "back": "Where does Linda live? She lives in the country.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Vivo cerca de un parque.",
+      "back": "I live near a park.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Lucía vive cerca de una panadería.",
+      "back": "Lucía lives near a bakery.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "Sofía vive cerca de la estación de tren.",
+      "back": "Sofía lives near the train station.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Sofía vive cerca de su oficina.",
+      "back": "Sofía lives near her office.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Vivo cerca de mi universidad.",
+      "back": "I live near my university.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Lucía vive cerca de su familia.",
+      "back": "Lucía lives near her family.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "¿Vives cerca de tu familia o lejos de tu familia?",
+      "back": "Do you live near your family or far from your family?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "¿Vive Lucía cerca de su trabajo o lejos de su trabajo?",
+      "back": "Does Lucía live near her work or far from her work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Vive Sofía cerca de su universidad o lejos de su universidad?",
+      "back": "Does Sofía live near her university or far from her university?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "No vivo cerca de mi oficina.",
+      "back": "I don't live near my office.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Lucía no vive cerca de su universidad.",
+      "back": "Lucía doesn't live near her university.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "Sofía vive cerca de su familia, pero no vive cerca de sus amigos.",
+      "back": "Sofía lives near her family, but she doesn't live near her friends.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Sofía vive un poco lejos de la oficina.",
+      "back": "Sofía lives quite far from the office.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Vivo bastante cerca de la playa.",
+      "back": "I live quite near the beach.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Lucía vive bastante cerca del río.",
+      "back": "Lucía lives quite near the river.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Meryl vive en el último piso.",
+      "back": "Meryl lives on the top floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Vivo en la planta baja.",
+      "back": "I live on the ground floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "¿También vive Alicia en la planta baja?",
+      "back": "Does Alicia live on the ground floor too?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Él vive en la segunda planta.",
+      "back": "He lives on the second floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Él vive en la tercera planta.",
+      "back": "He lives on the third floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Viven en la cuarta planta.",
+      "back": "They live on the fourth floor.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "¿En qué planta vive él? Vive en la primera planta.",
+      "back": "Which floor does he live on? He lives on the first floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "¿En qué planta vive ella? Vive en la planta baja.",
+      "back": "Which floor does she live on? She lives on the ground floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "¿En qué planta viven? Viven en la tercera planta.",
+      "back": "Which floor do they live on? They live on the third floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Vivo en un piso en la cuarta planta.",
+      "back": "I live in an apartment on the fourth floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Alicia vive en un piso en la primera planta.",
+      "back": "Alicia lives in an apartment on the first floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Meryl vive en un piso en la última planta.",
+      "back": "Meryl lives in an apartment on the top floor.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Viven en un edificio de cinco plantas.",
+      "back": "They live in a five-storey building.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Karen vive en un edificio de tres plantas.",
+      "back": "Karen lives in a three-storey building.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Ella vive en la segunda planta de un edificio de tres plantas.",
+      "back": "She lives on the second floor of a three-storey building.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Los peces morirán si olvidas alimentarlos.",
+      "back": "The fish will die if you forget to feed them.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "El galápago morirá si olvidas darle agua.",
+      "back": "The tortoise will die if you forget to give it water.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "La planta morirá si olvidas regarla.",
+      "back": "The plant will die if you forget to water it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "La planta se está muriendo.",
+      "back": "The plant's dying.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Las plantas se están muriendo. Vamos a regarlas.",
+      "back": "The plants are dying. Let's water them.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "La planta se está muriendo. Vamos a ponerla al lado de la ventana.",
+      "back": "The plant's dying. Let's put it by the window.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "La planta se va a morir si no le das de beber.",
+      "back": "The plant's going to die if you don't water it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "La batería se va a acabar si no la recargas.",
+      "back": "The battery's going to die if you don't recharge it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Los peces van a morir si no les das de comer.",
+      "back": "The fish are going to die if you don't feed them.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "La batería de mi móvil se está acabando.",
+      "back": "My mobile's dying.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "La batería de mi portátil se está acabando. Necesito recargarla.",
+      "back": "My laptop's dying. I need to recharge it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "La batería de tu teléfono se está acabando. Necesitas recargarla.",
+      "back": "Your phone's dying. You need to recharge it.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Los peces están muertos.",
+      "back": "The fish are dead.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¡La tortuga también está muerta!",
+      "back": "The tortoise is dead too!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Está muerta la planta?",
+      "back": "Is the plant dead?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Me encanta vivir cerca del mar.",
+      "back": "I love living near the sea.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "A Anthony le encanta vivir cerca de las montañas.",
+      "back": "Anthony loves living near the mountains.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "A Hilda le encanta vivir cerca de la playa.",
+      "back": "Hilda loves living near the beach.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Odio vivir al lado de la autopista.",
+      "back": "I hate living by the motorway.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Alicia odia vivir al lado de la playa.",
+      "back": "Alicia hates living by the beach.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Anthony odia vivir al lado de la autopista. (EE.UU.)",
+      "back": "Anthony hates living by the highway.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Cómo es vivir al lado del mar?",
+      "back": "What's it like living by the sea?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Cómo es vivir cerca de las montañas? Está muy bien vivir cerca de las montañas.",
+      "back": "What's it like living near the mountains? It's great living near the mountains.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Cómo es vivir al lado de la playa? Está bien vivir al lado de la playa.",
+      "back": "What's it like living by the beach? It's nice living by the beach.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Mis padres viven cerca.",
+      "back": "My parents live nearby.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "El novio de Hilda vive cerca.",
+      "back": "Hilda's boyfriend lives nearby.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "El hermano de Anthony vive cerca.",
+      "back": "Anthony's brother lives nearby.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "¿Tus padres viven cerca?",
+      "back": "Do your parents live nearby?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "¿Los abuelos de Hilda viven cerca?",
+      "back": "Do Hilda's grandparents live nearby?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "Los padres de Hilda viven cerca, ¿pero sus abuelos viven cerca también?",
+      "back": "Hilda's parents live nearby, but do her grandparents live nearby too?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Elizabeth y su novio viven juntos.",
+      "back": "Elizabeth and her boyfriend live together.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Hilda y su mejor amiga viven juntas.",
+      "back": "Hilda and her best friend live together.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Viven juntos Anthony y su novia?",
+      "back": "Do Anthony and his girlfriend live together?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Elizabeth vive con su novio.",
+      "back": "Elizabeth lives with her boyfriend.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Anthony vive con sus padres.",
+      "back": "Anthony lives with his parents.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Laura vive con sus padres.",
+      "back": "Laura lives with her parents.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Estamos viviendo juntos.",
+      "back": "We're living together.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Charlie y Jane están viviendo juntos.",
+      "back": "Charlie and Jane are living together.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Estáis vosotros dos viviendo juntos?",
+      "back": "Are you two living together?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Jake y su hermano están viviendo juntos por un tiempo.",
+      "back": "Jake and his brother are living together temporarily.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Anthony y su novia están viviendo juntos por un tiempo.",
+      "back": "Anthony and his girlfriend are living together temporarily.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Elizabeth y sus padres están viviendo juntos por un tiempo.",
+      "back": "Elizabeth and her parents are living together temporarily.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Estamos pensando en vivir juntos.",
+      "back": "We're thinking about living together.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Están pensando en vivir juntos?",
+      "back": "Are they thinking about living together?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "No estamos pensando en vivir juntos.",
+      "back": "We're not thinking about living together.",
+      "sourcePage": 19
+    }
+  ]
+}

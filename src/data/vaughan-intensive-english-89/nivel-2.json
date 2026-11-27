@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-89",
+  "bookTitle": "Libro 89",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Algunas familias viven con muy poco hoy en día.",
+      "back": "Some families live on very little these days.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "La mayoría de la gente en el África subsahariana vive con muy poco dinero.",
+      "back": "Most people in sub-Saharan Africa live on very little.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "La mayoría de los estudiantes en Inglaterra viven con muy poco dinero.",
+      "back": "Most students in England live on very little.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Es muy fácil vivir con un sueldo de abogado.",
+      "back": "It's very easy to live on a lawyer's salary.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Es fácil vivir con un sueldo de ingeniero.",
+      "back": "It's easy to live on an engineer's salary.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Es imposible vivir con mi sueldo.",
+      "back": "It's impossible to live on my salary.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "A ella le resulta fácil vivir con su sueldo.",
+      "back": "It's easy for her to live on her salary.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "A él le cuesta vivir con su sueldo.",
+      "back": "It's difficult for him to live on his salary.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "A mí me resulta imposible vivir con mi sueldo.",
+      "back": "It's impossible for me to live on my salary.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Cuando yo era estudiante, vivía con 50 euros a la semana.",
+      "back": "When I was a student, I lived on €50 per week.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Cuando él era becario, vivía con 250 euros al mes.",
+      "back": "When he was an intern, he lived on €250 per month.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Cuando Lucy era consultora, vivía con 85.000 euros al año.",
+      "back": "When Lucy was a consultant, she lived on €85,000 per year.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Si crees que tu sueldo es bajo, intenta vivir con el mío. (Salary)",
+      "back": "If you think your salary's low, try living on mine.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Si crees que tu sueldo es bajo, intenta vivir con la pensión de mi abuela.",
+      "back": "If you think your wages are low, try living on my grandmother's pension.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Si crees que tu sueldo es bajo, intenta vivir con el mío. (Wages)",
+      "back": "If you think your wages are low, try living on mine.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "El señor Jones murió de viejo.",
+      "back": "Mr. Jones died of old age.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "La señora Sinclair murió también de vieja.",
+      "back": "Mrs. Sinclair also died of old age.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "El señor Smith murió de un infarto de corazón.",
+      "back": "Mr. Smith died of a heart attack.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Por lo menos él murió apaciblemente mientras dormía.",
+      "back": "At least he died peacefully in his sleep.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Por lo menos él murió apaciblemente con su familia a su lado.",
+      "back": "At least he died peacefully with his family by his side.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Por lo menos ella murió apaciblemente en casa mientras dormía.",
+      "back": "At least she died peacefully in her sleep at home.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Él tuvo una muerte lenta y dolorosa.",
+      "back": "He died a slow, painful death.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "No quiero tener una muerte lenta y dolorosa; quiero morir apaciblemente.",
+      "back": "I don't want to die a slow painful death; I want to die peacefully.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Ella tuvo una muerte lenta y dolorosa. Fue horrible.",
+      "back": "She died a slow, painful death. It was horrible.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "¿Cómo murió él? Tuvo un accidente. Murió instantáneamente.",
+      "back": "How did he die? In an accident. He died instantly.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "¿Cómo murió ella? Se electrocutó. Murió instantáneamente.",
+      "back": "How did she die? She was electrocuted. She died instantly.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Es cierto que él se electrocutó y murió instantáneamente?",
+      "back": "Is it true that he was electrocuted and died instantly?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Creo que al final se me ha acabado la batería del portátil.",
+      "back": "I think my laptop has finally died.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Parece que al final se me ha acabado la batería del móvil.",
+      "back": "It looks like my phone has finally died.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Parece que el microondas por fin ha pasado a mejor vida.",
+      "back": "It looks like my microwave has finally died.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "Esa marisquería sólo vende langostas vivas.",
+      "back": "That seafood shop only sells live lobsters.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "Si miras con atención, los peces vivos son mucho más brillantes que los peces muertos.",
+      "back": "If you look closely, live fish are much shinier than dead fish.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Pones almejas vivas en tus guisos?",
+      "back": "Do you put live clams into your stews?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Me encanta la música en directo. Es mucho más emocionante que cualquier cosa grabada, ¿verdad?",
+      "back": "I love live music. It's much more moving than anything recorded, isn't it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Hay música en directo cada viernes noche en ese bar.",
+      "back": "There's live music every Friday evening at that bar.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Habrá música en directo y comida gratis si quieres venir.",
+      "back": "There'll be live music and free food if you want to come along.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Cualquier cosa puede salir mal en las retransmisiones en directo.",
+      "back": "Anything can go wrong on live TV.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "Esto no es realmente una retransmisión en directo, hay un retraso de cinco segundos.",
+      "back": "This isn't really live TV, there's a five-second delay.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "El partido no se retransmite en directo; lo retransmitirán más tarde esta noche.",
+      "back": "The game isn't on live TV; they'll only play it later tonight.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "¡Estamos retransmitiendo en directo desde Times Square!",
+      "back": "We're broadcasting live from Times Square!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Están poniendo el fútbol en directo desde el estadio.",
+      "back": "They're playing the football live from the stadium.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Están retransmitiendo el partido en directo o lo pondrán luego esta noche?",
+      "back": "Are they broadcasting the game live or will they play it later tonight?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "¡No digas palabrotas! ¡Estamos en directo!",
+      "back": "Don't swear! We're live!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "¡No puedes decir eso por la tele! ¡Estamos en directo!",
+      "back": "You can't say that on television! We're live!",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Estamos en directo? ¿Qué tal tengo el pelo?",
+      "back": "Are we live? Does my hair look OK?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Casi me muero cuando abrí la puerta y vi su cara de él.",
+      "back": "I nearly died when I opened the door and saw his face.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Casi me muero cuando cogí el teléfono y oí su voz de ella.",
+      "back": "I nearly died when I picked up the phone and heard her voice.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "Casi me muero cuando lo vi en la fiesta.",
+      "back": "I nearly died when I saw him at the party.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Él era tan gracioso que casi me muero de la risa.",
+      "back": "He was so funny that I nearly died of laughter.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Siempre que él cuenta chistes, casi me muero de la risa.",
+      "back": "Whenever he tells jokes, I almost die of laughter.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "Es tan gracioso que cuando cuenta chistes casi me muero de la risa.",
+      "back": "He's so funny that whenever he tells jokes, I nearly die of laughter.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Casi me muero de la vergüenza cuando mi madre se presentó.",
+      "back": "I nearly died of embarrassment when my mum turned up.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella casi se muere de vergüenza cuando su novio se presentó borracho.",
+      "back": "She nearly died of embarrassment when her boyfriend turned up drunk.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Ellos casi se mueren de vergüenza cuando su padre se presentó vestido así.",
+      "back": "They nearly died of embarrassment when their dad turned up in those clothes.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Si eso me pasara a mí, me moriría.",
+      "back": "If that happened to me, I'd just die!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Si yo estuviera en tu pellejo, me moriría.",
+      "back": "If I were in your shoes, I would just die!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "Si ella se presentara con mi exmarido, me moriría.",
+      "back": "If she turned up with my ex-husband, I would die!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Me muero de ganas de probar ese restaurante nuevo.",
+      "back": "I'm dying to try that new restaurant.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Me muero de ganas de probar ese perfume nuevo.",
+      "back": "I'm dying to try that new perfume.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Me muero de ganas de contártelo, ¡pero es un secreto!",
+      "back": "I'm dying to tell you, but it's a secret!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Todos los pasajeros fueron hallados sanos y salvos. Sólo tenían un poco de frío.",
+      "back": "All the passengers were found alive and well. They were just a little cold.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Todos los invitados fueron hallados sanos y salvos. Sólo estaban un poco perturbados.",
+      "back": "All the guests were found alive and well. They were just a little shaken.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Todo el alumnado fue hallado sano y salvo. Sólo estaban un poco asustados.",
+      "back": "The whole student body was found alive and well. They were just a little frightened.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Él es el mejor escritor contemporáneo de España.",
+      "back": "He's the greatest living writer in Spain.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Ella es la mejor actriz contemporánea de Australia.",
+      "back": "She's the greatest living actress in Australia.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Estás considerado como el mejor pintor contemporáneo del mundo. ¿No estás orgulloso de ti mismo?",
+      "back": "You're considered the world's greatest living painter. Aren't you proud of yourself?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Ten cuidado con los cables eléctricos, llevan corriente.",
+      "back": "Be careful of the live wires; they carry an electric current.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "Aquellos son cables eléctricos. Si los tocas, morirás instantáneamente de una descarga eléctrica.",
+      "back": "Those are live wires. If you touch them, you'll die instantly from an electric shock.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "Lleva siempre guantes cuando manejes cables eléctricos. No querrás morir de una descarga eléctrica, ¿verdad?",
+      "back": "Always wear gloves when you're handling live wires. You don't want to die of an electric shock, do you?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "El grupo acaba de sacar un álbum de sus mejores grabaciones en directo.",
+      "back": "The band's just released an album of their best live tracks.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Es un álbum de estudio, pero tiene grabaciones en directo al final.",
+      "back": "It's a studio album but it has live tracks at the end.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "Su último álbum es una mezcla de grabaciones en directo y de grabaciones de estudio.",
+      "back": "Their latest album is a mixture of live tracks and studio tracks.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Ha estado usted en contacto con cualquier tipo de ganado antes de su llegada, caballero?",
+      "back": "Have you come into contact with any livestock prior to your arrival, sir?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Hay una feria de ganado en el pueblo este fin de semana.",
+      "back": "There's a livestock market in the village this weekend.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Creo que ese camión está transportando ganado.",
+      "back": "I think that truck's transporting livestock.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "Bob Marley murió hace muchos años, pero vivirá para siempre en los corazones de sus admiradores.",
+      "back": "Bob Marley died many years ago, but he'll live forever in the hearts of his fans.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "John Lennon murió hace mucho tiempo, pero vivirá para siempre en nuestros recuerdos.",
+      "back": "John Lennon died a long time ago, but he'll live forever in our memories.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "Whitney Houston murió hace poco, pero vivirá para siempre en mi corazón.",
+      "back": "Whitney Houston died recently, but she'll live forever in my heart.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Bob Marley murió hace muchos años, pero pervivirá a través de su música.",
+      "back": "Bob Marley died many years ago, but he'll live on through his music.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "John Lennon murió hace mucho, pero pervivirá a través de sus composiciones.",
+      "back": "John Lennon died long ago, but he'll live on through his compositions.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Whitney Houston murió el año pasado, pero pervivirá a través de su música.",
+      "back": "Whitney Houston died last year, but she'll live on through her music.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "Puede que ella haya muerto, pero su espíritu perdura.",
+      "back": "She may have died, but her spirit lives on.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "Puede que él haya muerto, pero su espíritu perdura en nuestros corazones.",
+      "back": "He may have died, but his spirit lives on in our hearts.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "Puede que Elvis haya muerto, pero su espíritu aún perdura en los corazones de sus admiradores.",
+      "back": "Elvis may have died, but his spirit still lives on in the hearts of his fans.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "Dejar de fumar es un asunto de vida o muerte.",
+      "back": "Giving up smoking is a matter of life and death.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "Conseguir el tratamiento correcto es un asunto de vida o muerte.",
+      "back": "Getting the right treatment is a matter of life and death.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "Tomar la medicación es un asunto de vida o muerte.",
+      "back": "Taking your medication is a matter of life and death.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "¿Tengo que asistir a la reunión? ¿Es un asunto de vida o muerte?",
+      "back": "Do I have to go to the meeting? Is it a matter of life and death?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "Puede que no sea un asunto de vida o muerte, pero sí que es importante.",
+      "back": "It may not be a matter of life and death, but it is important.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¡Venga! ¡No es exactamente un asunto de vida o muerte!",
+      "back": "Come on! It's not exactly a matter of life and death!",
+      "sourcePage": 47
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-89",
+  "bookTitle": "Libro 89",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Los deportes de riesgo, como el paracaidismo, son para la gente que disfruta viviendo peligrosamente.",
+      "back": "Extreme sports such as skydiving are for people who enjoy living dangerously.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Si de verdad quieres vivir peligrosamente, ¿por qué no invertir todo lo que tienes y montar tu propio negocio?",
+      "back": "If you really want to live dangerously, why not invest everything you have and set up your own business?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "He sido empleado de oficina toda mi vida. Ahora siento la imperiosa necesidad de dejarlo todo y vivir peligrosamente.",
+      "back": "I've been an office worker all my life. Now I feel the overwhelming urge to pack it all in and live dangerously.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Puedes vivir holgadamente con muy poquito si te lo propones.",
+      "back": "You can live comfortably on very little if you put your mind to it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Después de ganar un sueldo de seis cifras durante años, Dan estaba convencido de que nunca podría vivir holgadamente con menos.",
+      "back": "After years of earning a six-figure salary, Dan really believed that he would never be able to live comfortably on anything less.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Aunque no estoy ganando una cantidad de dinero enorme, vivo holgadamente con lo que tengo.",
+      "back": "Even though I'm not earning a huge amount of money, I'm living comfortably on what I have.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Así que la princesa se casó con el príncipe, vivieron felices y comieron perdices.",
+      "back": "So, the princess married the prince and they lived happily ever after.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Qué historia tan predecible. ¡Se sabe que van a vivir felices y comer perdices!",
+      "back": "This is such a predictable story. You know they're just going to live happily ever after!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Qué pena que Romeo y Julieta no vivieran felices y comieran perdices.",
+      "back": "It's such a shame that Romeo and Juliet didn't live happily ever after.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "El difunto señor Jones tenía fama de vivir de manera extravagante.",
+      "back": "The late Mr. Jones was known for living extravagantly.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "La difunta señora Sinclair tenía fama de vivir de manera extravagante y disfrutar de su riqueza.",
+      "back": "The late Mrs. Sinclair was known for living extravagantly and enjoying her wealth.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "El difunto señor Smith no tenía fama de vivir de manera extravagante a pesar de su riqueza.",
+      "back": "The late Mr. Smith wasn't known for living extravagantly, despite his wealth.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Se podría vivir bien con ese sueldo en Oklahoma, pero en Chicago no daría para mucho.",
+      "back": "You could live well on that salary in Oklahoma, but in Chicago it wouldn't go far.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "En general, los ingenieros petroleros pueden vivir muy bien con sus sueldos en Canadá.",
+      "back": "In general, petroleum engineers can live very well on their salaries in Canada.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Con esa pensión puedes vivir bien en Costa Rica, pero no dará para mucho en la ciudad de Nueva York.",
+      "back": "You can live well in Costa Rica on that pension, but it won't go far in New York City.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Él vive de una pensión que recibe de la Marina Real.",
+      "back": "He lives off a pension that he gets from the Royal Navy.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Ella vive de una paga que recibe de sus padres.",
+      "back": "She lives off an allowance that she gets from her parents.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Ganaron la demanda de indemnización hace años y llevan viviendo de ese dinero desde entonces.",
+      "back": "They won the compensation claim years ago and they've been living on that money ever since.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Me encantaría pasar mis últimos años de vida en una de esas comunidades para jubilados de Florida.",
+      "back": "I'd love to live out my final years in one of those retirement communities in Florida.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "No podría soportar pasar el resto de mis días en la capital.",
+      "back": "I couldn't bear to live out the rest of my days in the capital.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "No podría imaginarme pasando mis últimos años de vida en una residencia de ancianos.",
+      "back": "I couldn't imagine living out my final years in a retirement home.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Siento que de un tiempo a esta parte vivo para trabajar. La verdad es que tendría que ser al revés.",
+      "back": "I feel like I'm living to work these days. It really should be the other way around.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Él estaba ganando un sueldo de seis cifras, pero sentía que estaba viviendo para trabajar.",
+      "back": "He was earning a six-figure salary but he felt he was living to work.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella estaba viviendo para trabajar y acabó por sufrir agotamiento.",
+      "back": "She was living to work and ended up suffering burnout.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Estoy empezando a admirar verdaderamente a mis abuelos por sobrevivir a la guerra.",
+      "back": "I'm really starting to admire my grandparents for living through the war.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Cuando vives algo tan traumático como eso, lo cierto es que acaba haciéndote más fuerte.",
+      "back": "When you live through something as traumatizing as that, it really makes you stronger.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Ella tuvo que pasar por un divorcio doloroso, pero es mucho más fuerte por ello.",
+      "back": "She had to live through a painful divorce, but she's a lot stronger because of it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Esa chica le dejó plantado y nunca dejaron de recordárselo.",
+      "back": "He was stood up by that girl and he never lived it down.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Nunca dejaron de recordarle que había perdido aquel partido por 5 a 0.",
+      "back": "After he'd lost that match five nil, he never lived it down.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Estaba tan seguro de que iba a ganar que todavía le recuerdan el hecho de que ella le ganara a él.",
+      "back": "He was so sure that he was going to win that he never lived it down after she beat him.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "No le des tantas vueltas. Viviendo se aprende.",
+      "back": "Don't dwell on it for so long. You live and learn.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "No hay por qué darle tantas vueltas. ¡Viviendo se aprende!",
+      "back": "There's no point in dwelling on it. You live and learn!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "No esperaba esa reacción. Bueno, supongo que viviendo se aprende.",
+      "back": "I wasn't expecting that reaction. Well, you live and learn I suppose.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Trabajo mucho todo el año para poder tirar la casa por la ventana en Ibiza cada agosto.",
+      "back": "I work hard all year so I can live it up in Ibiza every August.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Ella lleva todo el verano disfrutando de la vida en Marbella.",
+      "back": "She's been living it up in Marbella all summer.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "No me sorprende mucho que ella haya tirado la casa por la ventana últimamente. ¡Le tocó la lotería!",
+      "back": "It's no surprise that she's been living it up lately. She won the lottery!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "Nadie sabe qué es lo que pasará mañana, así que vive el presente.",
+      "back": "Nobody knows what tomorrow will bring, so live for today.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "No hay por qué obsesionarse por el futuro. ¡Deberíamos vivir el presente!",
+      "back": "There's no point in dwelling on the future. We should live for today!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "¡Vive el presente! Nunca se sabe qué es lo que pasará mañana.",
+      "back": "Live for today! You never know what tomorrow will bring.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "James fue conocido por vivir al límite. Nunca se contenía.",
+      "back": "James was known for living life on the edge. He never held back.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "No me sorprende que su vida se interrumpiera. Siempre fue conocido por vivir al límite.",
+      "back": "It's no surprise that his life was cut short. He was always known for living life on the edge.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "A Shannon le encantaba vivir al límite. Ojalá su vida no se hubiera interrumpido.",
+      "back": "Shannon loved living life on the edge. I wish her life hadn't been cut short.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Lo que me encanta de él es que siempre quiere vivir la vida a tope.",
+      "back": "What I love about him is that he always wants to live life to the fullest.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Me encanta que ella nunca se contenga. Vive la vida a tope.",
+      "back": "I love that she never holds back. She lives life to the fullest.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Ojalá me hubiera esforzado más por vivir la vida a tope cuando era más joven.",
+      "back": "I wish I'd made more of an effort to live life to the fullest when I was younger.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Él tuvo una larga vida, pero supongo que ahora estará criando malvas.",
+      "back": "He had a good innings, but I guess he's pushing up the daisies now.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Ella no está ya entre nosotros. Supongo que estará criando malvas ahora.",
+      "back": "She's not with us anymore. I guess she's pushing up the daisies now.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Tenemos que aceptar que un día estaremos todos criando malvas.",
+      "back": "We just have to accept the fact that one day we'll all be pushing up the daisies.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "Ella quiere que él esté bajo tierra para poder heredarlo todo.",
+      "back": "She wants him six feet under so she can inherit everything.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Era tan asqueroso que querían verlo bajo tierra.",
+      "back": "He was so horrible that they wanted to see him six feet under.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Fue tan malvado durante años, pero ahora está bajo tierra.",
+      "back": "He was so mean for years, but he's six feet under now.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Hay tantas cosas que quiero hacer antes de estirar la pata.",
+      "back": "There are so many things that I want to do before I kick the bucket.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Más que nada quiero hacer paracaidismo antes de estirar la pata.",
+      "back": "More than anything I want to go parachuting before I kick the bucket.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Quiero ver el Kilimanjaro más que nada antes de estirar la pata.",
+      "back": "I want to see Kilimanjaro more than anything before I kick the bucket.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "¡Creo que ha estirado la pata!",
+      "back": "I reckon he's snuffed it!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "¡Él la palmó el año pasado!",
+      "back": "He snuffed it last year!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "Él siempre vivía al límite. ¡Apuesto a que la habrá palmado ya!",
+      "back": "He was always living life on the edge. I bet you he's snuffed it by now!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Ha sido un chico de mala fama y ahora duerme en el fondo del mar.",
+      "back": "He's been a bad boy and now he sleeps with the fishes.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "No te metas con ellos o acabarás en el fondo del mar.",
+      "back": "Don't mess with them or else you'll end up sleeping with the fishes.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "La mafia le localizó y ahora duerme en el fondo del mar.",
+      "back": "The mafia tracked him down and now he sleeps with the fishes.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "A este paso, los osos polares se van a extinguir antes del cambio de siglo.",
+      "back": "At this rate, polar bears are going to die out before the turn of the century.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Dicen que a este paso los osos panda se extinguirán antes de 2045.",
+      "back": "They say that at this rate, panda bears will die out by 2045.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Si no tenemos cuidado, todas las ballenas jorobadas se extinguirán antes del cambio de siglo.",
+      "back": "If we're not careful, all the humpback whales will die out before the turn of the century.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Podía oír los ecos alto y claro, pero rápidamente se desvanecieron.",
+      "back": "I could hear the echoes loud and clear, but they quickly died away.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Cuando el sonido de las pisadas se desvaneció, supieron que era seguro.",
+      "back": "When the sound of the footsteps died away, they knew it was safe.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Me quedé en la cabaña hasta que los aullidos se desvanecieron.",
+      "back": "I stayed in the cabin until the howling died away.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "La tormenta está empezando a mostrar signos de amainar.",
+      "back": "The storm's starting to show signs of dying down.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "La tormenta no está mostrando ningún signo de amainar. Mejor nos vendrá esperar en el coche por el momento.",
+      "back": "The storm's showing no signs of dying down. We may as well wait in the car for now.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "La lluvia cesará cuando amaine la tormenta.",
+      "back": "The rain'll die down when the storm dies down.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "La población de los delfines está desapareciendo debido a la pesca excesiva en la zona.",
+      "back": "Dolphin populations are dying off due to excessive fishing in the area.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Oí que la población de salmones estaba desapareciendo en Escocia debido a la sobrepesca que se registra allí.",
+      "back": "I heard that salmon populations were dying off in Scotland due to overfishing there.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "La población de águilas calvas se está extinguiendo en Norteamérica.",
+      "back": "Bald eagle populations are dying off in North America.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "La anciana falleció apaciblemente cuando estaba durmiendo.",
+      "back": "The elderly lady passed away peacefully in her sleep.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "El anciano falleció después de una batalla larga contra el cáncer.",
+      "back": "The elderly gentleman passed away after a long battle with cancer.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "La mujer bondadosa falleció mientras estaba durmiendo, pero dijeron que había muerto de causas naturales.",
+      "back": "The kind lady passed away in her sleep, but they said she'd died of natural causes.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "A ella le encantan los tipos rebeldes que viven con sus propias reglas.",
+      "back": "She loves rebellious guys who live by their own rules.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Ella vive con la regla de que el fracaso es inevitable si estás en el camino del éxito.",
+      "back": "She lives by the rule that failure is inevitable if you're on the path to success.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Él es un tipo tan rebelde. Siempre vive con sus propias reglas.",
+      "back": "He's such a rebellious guy. He always lives by his own rules.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "¿Por qué eres tan estrecho de miras? Vive y deja vivir, digo yo.",
+      "back": "Why are you so narrow-minded? Live and let live, I say.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "¿Por qué te molesta tanto lo que están haciendo con sus vidas? Vive y deja vivir es lo que digo yo.",
+      "back": "Why does it bother you so much what they're doing with their lives? Live and let live is what I say.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Tu punto de vista no tiene nada que ver con la realidad. ¿Por qué no puedes vivir y dejar vivir?",
+      "back": "Your point of view is so out of touch. Why can't you just live and let live?",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Debes de estar viviendo en las nubes si crees que voy a volver contigo.",
+      "back": "You must be living in cloud cuckoo land if you think I'm going to get back with you.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Ella debe de estar viviendo en las nubes si cree que va a conseguir un trabajo en la tele.",
+      "back": "She must be living in cloud cuckoo land if she thinks she's going to land a job in TV.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Deben de estar viviendo en las nubes si creen que nos van a ganar.",
+      "back": "They must be living in cloud cuckoo land if they think they're going to beat us.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Vivir allí es como vivir en una burbuja. Eres totalmente ajeno a lo que está pasando en el resto del mundo.",
+      "back": "Living there is like living in a bubble. You're totally unaware of all that's going on in the rest of the world.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Cuando me mudé al extranjero, fue como vivir en una burbuja porque no entendía el mundo que había a mi alrededor.",
+      "back": "When I moved abroad, it was like living in a bubble because I didn't understand the world around me.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "La hija del rey pasó la mayoría de su infancia viviendo en una burbuja, ajena a la pobreza que había a su alrededor.",
+      "back": "The king's daughter spent most of her childhood living in a bubble, unaware of the poverty all around her.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Malcolm nunca logró cumplir con las expectativas de sus padres.",
+      "back": "Malcolm never managed to live up to his parents' expectations.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "A pesar de ser profesor de la universidad y de hablar un japonés fluido, él nunca logró cumplir con sus expectativas de ellos.",
+      "back": "Despite being a university professor and speaking fluent Japanese, he never lived up to their expectations.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Hiciera lo que hiciera él, nunca logró cumplir con sus expectativas de ellos.",
+      "back": "No matter what he did, he never managed to live up to their expectations.",
+      "sourcePage": 75
+    }
+  ]
+}
