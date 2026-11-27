@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-94",
+  "bookTitle": "Libro 94",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "¡Eso me dolió, James!",
+      "back": "That hurt, James!",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-002",
+      "front": "¡Cuidado! ¡Eso me dolió!",
+      "back": "Careful! That hurt!",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-003",
+      "front": "¡Ay! ¡Eso me dolió!",
+      "back": "Ouch! That hurt!",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-004",
+      "front": "Me herí el brazo en un accidente.",
+      "back": "I hurt my arm in an accident.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-005",
+      "front": "Él se hizo daño en el brazo jugando al fútbol.",
+      "back": "He hurt his arm playing football.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-006",
+      "front": "Ella se hizo daño en el brazo en el accidente.",
+      "back": "She hurt her arm in the accident.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-007",
+      "front": "Ella se hizo daño jugando al baloncesto por lo que tiene que tener la rodilla en reposo.",
+      "back": "She got hurt playing basketball so she has to rest her knee.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-008",
+      "front": "Él se hizo daño jugando al béisbol. Ahora está con la pierna en reposo.",
+      "back": "He got hurt playing baseball. Now he's resting his leg.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-009",
+      "front": "Me hice daño en el accidente, pero no es serio. Solo tengo que tener la pierna en reposo por unos días.",
+      "back": "I got hurt in the accident but it's not serious. I just have to rest my leg for a few days.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-010",
+      "front": "Hubo un accidente hace un rato, pero no te preocupes, nadie salió herido.",
+      "back": "There was an accident earlier, but don't worry; nobody got hurt.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-011",
+      "front": "Hubo una pequeña explosión en la fábrica, pero nadie salió herido.",
+      "back": "There was a minor explosion at the factory, but nobody got hurt.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-012",
+      "front": "Lo importante es que nadie salió herido.",
+      "back": "The important thing is that nobody got hurt.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-013",
+      "front": "Tengo que dejar de usar estos zapatos. ¡Me mataron los pies toda la noche!",
+      "back": "I have to stop wearing these shoes. My feet hurt like hell all night!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-014",
+      "front": "Anoche tuve un dolor de cabeza ensordecedor. ¡Me dolía muchísimo!",
+      "back": "I had a splitting headache last night. It hurt like hell!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-015",
+      "front": "No puedo usar más estos zapatos; ¡me duelen demasiado los pies!",
+      "back": "I can't wear these shoes anymore; my feet hurt like hell!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-016",
+      "front": "Su oponente hizo todo lo que él pudo para dañar la reputación de ella.",
+      "back": "Her opponent did everything he could to damage her reputation.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-017",
+      "front": "Le pillaron haciendo trampas y eso dañó su reputación por completo.",
+      "back": "He was caught cheating and it completely damaged his reputation.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-018",
+      "front": "Al hacer aquel comentario racista, él dañó su reputación por completo.",
+      "back": "By making that racist comment, he completely damaged his reputation.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-019",
+      "front": "¿Fue dañado el edificio por el terremoto?",
+      "back": "Was the building damaged by the earthquake?",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-020",
+      "front": "El museo fue dañado por el terremoto.",
+      "back": "The museum was damaged by the earthquake.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-021",
+      "front": "El ayuntamiento fue dañado parcialmente por el terremoto.",
+      "back": "The town hall was only partially damaged by the earthquake.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-022",
+      "front": "Hemos dañado acres y acres de bosque con el paso de los años.",
+      "back": "We've damaged acres of forest over the years.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-023",
+      "front": "Acres y acres de bosque han sido dañados por los seres humanos con el paso de los años.",
+      "back": "Acres of forest have been damaged by humans over the years.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-024",
+      "front": "Los incendios forestales han dañado acres de bosque.",
+      "back": "The forest fires have damaged acres of forest.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-025",
+      "front": "No se puede devolver mercancía estropeada.",
+      "back": "Damaged goods cannot be returned.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-026",
+      "front": "No podemos reembolsarle la factura si la mercancía está estropeada.",
+      "back": "We cannot give you a refund if the goods are damaged.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-027",
+      "front": "Lo siento, pero me temo que no podemos devolverle el dinero si la mercancía está estropeada.",
+      "back": "I'm sorry but I'm afraid we can't refund you the money if the goods are damaged.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-028",
+      "front": "No lo estropees, ¿de acuerdo? Me costó mucho dinero.",
+      "back": "Don't damage it, ok? It cost me a lot of money.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-029",
+      "front": "Puedes usar mi raqueta de tenis. ¡Pero esta no me la estropees!",
+      "back": "You can use my tennis racquet. But don't damage this one!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-030",
+      "front": "Te presto mi bicicleta siempre que no la estropees.",
+      "back": "You can borrow my bike as long as you don't damage it.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-031",
+      "front": "Las tarántulas no te harán daño, a no ser que las provoques.",
+      "back": "Tarantulas won't harm you unless you provoke them.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-032",
+      "front": "No te hará daño a no ser que la intentes coger.",
+      "back": "It won't harm you unless you try to pick it up.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-033",
+      "front": "Las tarántulas no te harán daño a no ser que pises una sin llevar los zapatos puestos.",
+      "back": "Tarantulas won't harm you unless you stand on one with no shoes on.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-034",
+      "front": "Las serpientes no te harán daño mientras que las dejes en paz.",
+      "back": "Snakes won't harm you as long as you leave them alone.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-035",
+      "front": "No te hará daño siempre y cuando lo dejes en paz.",
+      "back": "It won't harm you as long as you leave it alone.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-036",
+      "front": "Las serpientes venenosas no te harán daño siempre y cuando las dejes en paz.",
+      "back": "Poisonous snakes won't harm you as long as you leave them alone.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-037",
+      "front": "¡Gracias a Dios nadie salió herido en el accidente!",
+      "back": "Thank goodness nobody was harmed in the accident!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-038",
+      "front": "El vehículo sufrió grandes daños, pero por lo menos nadie salió herido.",
+      "back": "The vehicle was severely damaged, but at least nobody was harmed.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-039",
+      "front": "La furgoneta sufrió grandes daños, pero afortunadamente nadie salió herido.",
+      "back": "The van was severely damaged, but thankfully, nobody was harmed.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-040",
+      "front": "60 personas fueron heridas durante los disturbios.",
+      "back": "60 people were harmed during the riot.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-041",
+      "front": "85 personas salieron heridas durante las protestas.",
+      "back": "85 people were harmed during the protests.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-042",
+      "front": "15 personas salieron heridas durante el terremoto.",
+      "back": "15 people were harmed during the earthquake.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-043",
+      "front": "Podrías dañar tu reputación si dices eso.",
+      "back": "You might harm your reputation if you say that.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-044",
+      "front": "Si se entera la prensa de lo que él hizo, su reputación se verá muy dañada.",
+      "back": "If the press finds out what he did, it'll really harm his reputation.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-045",
+      "front": "Ten cuidado. No te conviene arriesgarte a dañar tu reputación.",
+      "back": "Be careful. You don't want to risk harming your reputation.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-046",
+      "front": "Nunca fue mi intención causarte daño.",
+      "back": "It was never my intention to cause you any harm.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Nunca quise causarte daño.",
+      "back": "I never wanted to cause you any harm.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Lo siento si te he causado algún daño. Nunca fue mi intención.",
+      "back": "I'm sorry if I've caused you any harm. It was never my intention.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Las ayudas monetarias pueden hacer mucho daño si caen en las manos equivocadas.",
+      "back": "Aid money can do a lot of harm if it gets into the wrong hands.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Algunos tratamientos médicos pueden hacer más daño que bien.",
+      "back": "Some medical treatments can do more harm than good.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Tienes el hábito de hacer más daño que bien.",
+      "back": "You have a habit of doing more harm than good.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Nunca fue mi intención hacerte daño.",
+      "back": "I never meant to do you any harm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-053",
+      "front": "Siento haberte herido. Nunca fue mi intención hacerte daño.",
+      "back": "I'm sorry I hurt you. I never meant to do you any harm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-054",
+      "front": "Es un buen hombre. Estoy seguro de que no era su intención hacerte daño.",
+      "back": "He's a good guy. I'm sure he never meant to do you any harm.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-055",
+      "front": "No te haría ningún mal hacer un poco de ejercicio de vez en cuando.",
+      "back": "It wouldn't do you any harm to do a little exercise every now and again.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-056",
+      "front": "No te haría ningún mal ser amable con ella de vez en cuando.",
+      "back": "It wouldn't do you any harm to be nice to her every now and again.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Por qué no puedes ser amable con ella? ¡No te haría ningún mal! ¿Sabes?",
+      "back": "Why can't you just be nice to her? It wouldn't do you any harm, you know!?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-058",
+      "front": "Lo siento. ¡No quería dejarlo caer! No te preocupes. ¡No pasa nada!",
+      "back": "Sorry, I didn't mean to drop it! Don't worry! No harm done!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-059",
+      "front": "¡Oops, no quería pisarte el dedo! ¡Está bien, no pasa nada!",
+      "back": "Oops, I didn't mean to step on your toe! It's OK! No harm done!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-060",
+      "front": "¡No! Se me acaban de caer las bolsas. ¡No te preocupes! ¡No pasa nada!",
+      "back": "Oh no! I've just dropped the bags! Don't worry! No harm done!",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-061",
+      "front": "La mala prensa le hizo mucho daño a la reputación de él.",
+      "back": "The bad press did a lot of damage to his reputation.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "El artículo incriminatorio le hizo un daño irreparable a la reputación de él.",
+      "back": "The damning article did irreparable damage to his reputation.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "Fue un artículo incriminatorio. Le hizo mucho daño a la fama de él.",
+      "back": "It was a damning article. It did a lot of damage to his fame.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-064",
+      "front": "Ya es tarde. El daño ya está hecho.",
+      "back": "It's too late. The damage has already been done.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-065",
+      "front": "Puedes disculparte todo lo que quieras, pero el daño ya está hecho.",
+      "back": "You can apologize all you want, but the damage has been done.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-066",
+      "front": "Me da igual lo arrepentido que estés. El daño ya está hecho.",
+      "back": "I don't care how sorry you are. The damage has already been done.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-067",
+      "front": "La noticia publicada ayer causó daños irreparables a la carrera de ella.",
+      "back": "The news released yesterday caused irreparable damage to her career.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "Juana insiste en que pagarán por el daño causado.",
+      "back": "Juana insists that they will pay for the damage caused.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Ellos causaron mucho daño a la reputación de ella.",
+      "back": "They caused a lot of damage to her reputation.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "No es la primera vez que la prensa rosa causa grandes daños a la reputación de alguien.",
+      "back": "It's not the first time that tabloids cause severe damage to someone's reputation.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "El daño causado a la carrera de ella fue muy grave.",
+      "back": "The damage caused to her career was severe.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "Ella pondrá una demanda por los grandes daños causados.",
+      "back": "She will sue for the severe damage caused.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-073",
+      "front": "Vale, ¡veamos la dolorosa!",
+      "back": "OK, let's see the damage!",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Puedes traer la cuenta para ver cuánto es?",
+      "back": "Can you bring the bill so I can see the damage?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Sabes cuánto es la cuenta?",
+      "back": "Do you know what the damage is?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-076",
+      "front": "Creo que realmente herí sus sentimientos al no invitarla.",
+      "back": "I think I really hurt her feelings by not inviting her.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "Realmente hirieron mis sentimientos cuando no me invitaron a la boda.",
+      "back": "It really hurt my feelings when they didn't invite me to the wedding.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "Ella le dijo que parecía gordo, y creo que realmente hirió sus sentimientos.",
+      "back": "She told him he looked fat, and I think it really hurt his feelings.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-079",
+      "front": "Lo herí y me siento realmente mal por ello.",
+      "back": "I hurt him and I feel really bad about it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-080",
+      "front": "Ella me hirió, pero creo que se siente mal por ello.",
+      "back": "She hurt me but I think she feels bad about it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-081",
+      "front": "Él la hirió y ¡ni siquiera se siente mal por ello!",
+      "back": "He hurt her and he doesn't even feel bad about it!",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-082",
+      "front": "Ya me has herido demasiadas veces.",
+      "back": "You've hurt me too many times now.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Me has herido demasiadas veces. Te dejo.",
+      "back": "You've hurt me too many times now. I'm leaving you.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "Él me ha herido demasiadas veces. Esta vez, lo dejaré.",
+      "back": "He's hurt me too many times. This time, I'm leaving him.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Me han herido más veces de las que puedo recordar.",
+      "back": "I've been hurt more times than I can remember.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Él dice que le han herido más veces de las que puede recordar.",
+      "back": "He says he's been hurt more times than he can remember.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "Él siente pena de sí mismo. Dice que le han herido más veces de las que puede recordar.",
+      "back": "He feels sorry for himself. He says he's been hurt more times than he can remember.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-088",
+      "front": "Si vuelves a cometer el mismo error, te volverán a herir.",
+      "back": "If you make the same mistake again, you'll get hurt again.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-089",
+      "front": "Solo te volverán a hacer daño si vuelves con ella.",
+      "back": "You'll only get hurt again if you go back to her.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-090",
+      "front": "No vuelvas con ella; solo saldrás herido otra vez.",
+      "back": "Don't go back to her; you'll only get hurt again.",
+      "sourcePage": 45
+    }
+  ]
+}

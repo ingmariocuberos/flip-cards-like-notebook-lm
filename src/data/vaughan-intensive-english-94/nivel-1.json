@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-94",
+  "bookTitle": "Libro 94",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "¡Eso duele!",
+      "back": "That hurts!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-002",
+      "front": "¡Ay! ¡Eso duele!",
+      "back": "Ouch! That hurts!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-003",
+      "front": "¡Eso duele! ¡Para!",
+      "back": "That hurts! Stop it!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-004",
+      "front": "¡No hagas eso! ¡Me duele!",
+      "back": "Don't do that. It hurts!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-005",
+      "front": "No me pellizques; ¡me duele!",
+      "back": "Don't pinch me; it hurts!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-006",
+      "front": "¡Duele, doctor!",
+      "back": "It hurts, doctor!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-007",
+      "front": "Me duele la espalda.",
+      "back": "My back hurts.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-008",
+      "front": "Le duele el brazo a ella.",
+      "back": "Her arm hurts.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-009",
+      "front": "A Joanne le duele la pierna.",
+      "back": "Joanne's leg hurts.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-010",
+      "front": "Me duele cuando mi hermano dice eso.",
+      "back": "It hurts when my brother says that.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-011",
+      "front": "Me duele cuando mi hermana hace eso.",
+      "back": "It hurts when my sister does that.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-012",
+      "front": "Me duele cuando mi madre me habla así.",
+      "back": "It hurts when my mother talks to me like that.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-013",
+      "front": "¿Dónde te duele?",
+      "back": "Where does it hurt?",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-014",
+      "front": "¿Te duele mucho?",
+      "back": "Does it hurt a lot?",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-015",
+      "front": "¿Te duele aquí?",
+      "back": "Does it hurt here?",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-016",
+      "front": "La contaminación hace daño al medio ambiente.",
+      "back": "Pollution harms the environment.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-017",
+      "front": "Los humos de los coches hacen daño al planeta.",
+      "back": "Car fumes harm the planet.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-018",
+      "front": "Los humos de las fábricas hacen daño al medio ambiente.",
+      "back": "Factory fumes harm the environment.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-019",
+      "front": "Los humos de las fábricas están perjudicando al planeta.",
+      "back": "Factory fumes are harming the planet.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-020",
+      "front": "La contaminación está perjudicando a nuestro medio ambiente.",
+      "back": "Pollution is harming our environment.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-021",
+      "front": "Los humos de los coches están dañando nuestra capa de ozono.",
+      "back": "Car fumes are harming our ozone layer.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-022",
+      "front": "Las toxinas del río están haciendo daño a los peces.",
+      "back": "The toxins in the river are harming the fish.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-023",
+      "front": "La basura del mar está haciendo daño a la fauna y a la flora.",
+      "back": "The rubbish in the sea is harming the wildlife.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-024",
+      "front": "¿Están las toxinas del río haciendo daño a los peces?",
+      "back": "Are the toxins in the river harming the fish?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-025",
+      "front": "No hagas eso. Estás haciendo daño al planeta.",
+      "back": "Don't do that. You're harming the planet.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-026",
+      "front": "No tires basura al mar. Estás haciendo daño al medio ambiente.",
+      "back": "Don't throw rubbish into the sea. You're harming the environment.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-027",
+      "front": "No contamines el río; estás haciendo daño a la flora y a la fauna.",
+      "back": "Don't pollute the river; you're harming the wildlife.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-028",
+      "front": "Este espray antipulgas no hace daño a los perros.",
+      "back": "This flea spray doesn't harm dogs.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-029",
+      "front": "Ese desodorante no daña la capa de ozono.",
+      "back": "That deodorant doesn't harm the ozone layer.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-030",
+      "front": "Este espray no hace daño al medio ambiente.",
+      "back": "This spray doesn't harm the environment.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-031",
+      "front": "Si pones ese tejido en la lavadora, lo estropearás.",
+      "back": "If you put that fabric in the washing machine, you'll damage it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-032",
+      "front": "Si pones esa lana en la lavadora, la estropearás.",
+      "back": "If you put that wool in the washing machine, you'll damage it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-033",
+      "front": "Si pones eso en la lavadora, lo estropearás.",
+      "back": "If you put that in the washing machine, you'll damage it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-034",
+      "front": "Ese espray daña la capa de ozono.",
+      "back": "That spray damages the ozone layer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-035",
+      "front": "Los humos de los coches dañan la capa de ozono.",
+      "back": "Car fumes damage the ozone layer.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-036",
+      "front": "¿Este espray daña la capa de ozono?",
+      "back": "Does this spray damage the ozone layer?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-037",
+      "front": "El alcohol daña al hígado y al corazón.",
+      "back": "Alcohol damages the liver and the heart.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Fumar daña al cuerpo y al medio ambiente.",
+      "back": "Smoking damages the body and the environment.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "La contaminación daña al medio ambiente y a la capa de ozono.",
+      "back": "Pollution damages the environment and the ozone layer.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Asegúrate de que no lo viertes sobre la lana; la estropearás.",
+      "back": "Make sure you don't spill it on the wool; you'll damage it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Por favor, asegúrate de que no dañas la tela!",
+      "back": "Please make sure you don't damage the fabric!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "Asegúrate de que lo lavas a mano, si no, se estropeará.",
+      "back": "Make sure you wash it by hand; if not you'll damage it.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "El exceso de sol daña la piel.",
+      "back": "Too much sun damages your skin.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Demasiados caramelos dañan los dientes.",
+      "back": "Too many sweets damage your teeth.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "El alcohol en exceso daña el cerebro.",
+      "back": "Too much alcohol damages your brain.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "¡Ay! ¡Me estás haciendo daño!",
+      "back": "Ouch! You're hurting me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "¿Por qué me estás haciendo daño?",
+      "back": "Why are you hurting me?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "¡Deja de hacerme daño!",
+      "back": "Stop hurting me!",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Sus comentarios de él le están haciendo daño a ella.",
+      "back": "His comments are hurting her feelings.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Sus insultos de ella los están hiriendo.",
+      "back": "Her insults are hurting their feelings.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Ella lo está hiriendo.",
+      "back": "She's hurting his feelings.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Estamos dañando la capa de ozono.",
+      "back": "We're damaging the ozone layer.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-053",
+      "front": "Te estás dañando la piel.",
+      "back": "You're damaging your skin.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-054",
+      "front": "Se están dañando la salud.",
+      "back": "They're damaging their health.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-055",
+      "front": "Él se está dañando la salud poco a poco.",
+      "back": "He's slowly damaging his health.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-056",
+      "front": "Ella se está dañando los pulmones poco a poco.",
+      "back": "She's slowly damaging her lungs.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-057",
+      "front": "Tim se está dañando el hígado poco a poco.",
+      "back": "Tim's slowly damaging his liver.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-058",
+      "front": "No planches esa camiseta; estás dañando el tejido.",
+      "back": "Don't iron that shirt; you're damaging the fabric.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-059",
+      "front": "No lo laves con agua caliente; estás dañando la lana.",
+      "back": "Don't wash it in hot water; you're damaging the wool.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-060",
+      "front": "No lo pongas en la lavadora; estás dañando el cuero.",
+      "back": "Don't put it in the washing machine; you're damaging the leather.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Este insecticida para pulgas hará daño a mi perro?",
+      "back": "Will this flea spray harm my dog?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Le hará daño a mi niño ese perro?",
+      "back": "Will that dog harm my child?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Esos gases harán daño al medio ambiente?",
+      "back": "Will those fumes harm the environment?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-064",
+      "front": "¿Esta lejía dañará la tela?",
+      "back": "Will this bleach damage the fabric?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-065",
+      "front": "¿Dañará la lana ese detergente?",
+      "back": "Will that detergent damage the wool?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-066",
+      "front": "¿Dañará el cuero el agua caliente?",
+      "back": "Will the hot water damage the leather?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-067",
+      "front": "Ese insecticida no hará daño al perro.",
+      "back": "That flea spray won't harm the dog.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "Ese perro no hará daño al niño.",
+      "back": "That dog won't harm the child.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "Ese perro es inofensivo. No hará daño al niño.",
+      "back": "That dog is harmless. It won't harm the child.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "Esa lejía no dañará la tela.",
+      "back": "That bleach won't damage the fabric.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "El agua caliente no dañará el algodón.",
+      "back": "The hot water won't damage the cotton.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "Ese detergente no dañará la lana.",
+      "back": "That detergent won't damage the wool.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-073",
+      "front": "No digas eso; ¡herirás sus sentimientos de ella!",
+      "back": "Don't say that; you'll hurt her feelings!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-074",
+      "front": "No hagas eso; ¡herirás sus sentimientos de él!",
+      "back": "Don't do that; you'll hurt his feelings!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-075",
+      "front": "No levantes esa caja; te harás daño en la espalda.",
+      "back": "Don't lift that box; you'll hurt your back.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-076",
+      "front": "No dolerá.",
+      "back": "It won't hurt.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "No te preocupes; no dolerá.",
+      "back": "Don't worry; it won't hurt.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "Te prometo que no dolerá.",
+      "back": "I promise it won't hurt.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-079",
+      "front": "No quiero hacerte daño.",
+      "back": "I don't want to hurt you.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-080",
+      "front": "No te voy a hacer daño.",
+      "back": "I'm not going to hurt you.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-081",
+      "front": "No te preocupes; ¡no te voy a hacer daño!",
+      "back": "Don't worry; I'm not going to hurt you!",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-082",
+      "front": "No hará daño.",
+      "back": "It won't do any harm.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "No te preocupes; la medicina no hará daño.",
+      "back": "Don't worry; the medicine won't do any harm.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "Toma otra copa; no te hará daño.",
+      "back": "Have another drink; it won't do you any harm.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "Estoy segura de que no hará daño.",
+      "back": "I'm sure it won't do any harm.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "Estoy seguro de que no dolerá.",
+      "back": "I'm sure it won't hurt.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "Estoy segura de que ella no te quiere hacer daño.",
+      "back": "I'm sure she doesn't want to hurt you.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-088",
+      "front": "Dudo que usar detergente estropee el material.",
+      "back": "I doubt that using detergent will damage the material.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-089",
+      "front": "Dudo que plancharlo estropee el algodón.",
+      "back": "I doubt that ironing will damage the cotton.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-090",
+      "front": "Dudo que lavar el tejido con agua caliente lo estropee.",
+      "back": "I doubt that washing the fabric in hot water will damage it.",
+      "sourcePage": 17
+    }
+  ]
+}

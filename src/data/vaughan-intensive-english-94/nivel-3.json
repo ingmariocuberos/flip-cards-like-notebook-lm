@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-94",
+  "bookTitle": "Libro 94",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Puede que yo lo pueda arreglar. ¡Ni hablar! ¡¿No crees que ya has hecho suficiente daño?!",
+      "back": "Maybe I can fix it! No way! Don't you think you've done enough damage already?!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-002",
+      "front": "Lo siento. Déjame intentar arreglar esto. ¡No! ¿No crees que ya has hecho suficiente daño?",
+      "back": "I'm sorry. Let me try and put this right. No! Don't you think you've done enough damage already?!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-003",
+      "front": "¡Lo siento mucho! ¡Por favor, déjame hablar con ella! ¡No! ¡¿No crees que ya has hecho suficiente daño?!",
+      "back": "I'm so sorry! Please let me speak to her! No! Don't you think you've done enough damage already?!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-004",
+      "front": "Es hora de que te vayas. ¿No crees que has hecho suficiente daño por un día?",
+      "back": "It's time you were leaving. Don't you think you've done enough damage for one day?",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-005",
+      "front": "En serio, creo que deberías irte ya. ¿No crees que has hecho suficiente daño por un día?",
+      "back": "I really think you should be off now. Don't you think you've done enough damage for one day?",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-006",
+      "front": "En serio, creo que te deberías ir. Creo que has hecho suficiente daño por un día.",
+      "back": "I really think you should be leaving. I think you've done enough damage for one day.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-007",
+      "front": "¿Por qué sigue aquí él? ¡¿No ha hecho suficiente daño ya?!",
+      "back": "Why is he still here? Hasn't he done enough damage already?!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-008",
+      "front": "Él tiene mucha cara quedándose por aquí. ¿No ha hecho ya suficiente daño?",
+      "back": "He has a nerve sticking around here. Hasn't he done enough damage already?!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-009",
+      "front": "¿Qué hace él aquí todavía? ¿No ha hecho ya suficiente daño?",
+      "back": "What is he still doing here? Hasn't he done enough damage already?!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-010",
+      "front": "¡Mira todo el daño que él ha hecho!",
+      "back": "Just look at all the damage he's done!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-011",
+      "front": "¡Mira todo el daño que él ha hecho! Vamos a tardar meses en arreglar esto.",
+      "back": "Just look at all the damage he's done! It's going to take us months to put this right.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-012",
+      "front": "¡Quiero a ese hombre fuera de mi casa ya! ¡Mira todo el daño que ha hecho!",
+      "back": "I want that man out of my house now! Just look at the damage he's done!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-013",
+      "front": "¿No has causado suficiente daño ya?",
+      "back": "Haven't you caused enough damage already?",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-014",
+      "front": "En serio, creo que te deberías ir. ¿No has causado suficiente daño por un día?",
+      "back": "I really think you should be off. Haven't you caused enough damage for one day?",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-015",
+      "front": "En serio, creo que deberías irte. ¿No has causado suficiente daño ya?",
+      "back": "I really think you should be leaving. Haven't you caused enough damage already?",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-016",
+      "front": "En serio, no te haría daño aplicarte un poco más.",
+      "back": "It really wouldn't hurt you to try a little harder!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-017",
+      "front": "En serio, no te haría daño esforzarte un poco más.",
+      "back": "It really wouldn't hurt you to make a bit more effort.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-018",
+      "front": "No te haría daño decirme algo bonito de vez en cuando.",
+      "back": "It wouldn't hurt you to say something nice to me every once in a while!",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-019",
+      "front": "Tener antecedentes penales podría perjudicarte a la hora de encontrar un buen trabajo.",
+      "back": "If you have a criminal record, it could really hurt your chances of getting a good job.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-020",
+      "front": "No tener un historial impecable te podría arruinar la oportunidad de conseguir el permiso de residencia.",
+      "back": "If you don't have a clean record, it could really hurt your chances of getting a green card.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-021",
+      "front": "Tener tatuajes visibles te podría arruinar la oportunidad de conseguir un puesto en un lugar de trabajo conservador.",
+      "back": "Having visible tattoos might hurt your chances of getting a job in a conservative workplace.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-022",
+      "front": "El dolor en los ojos de ella lo decía todo.",
+      "back": "The hurt in her eyes said it all.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-023",
+      "front": "Podía ver literalmente el dolor en los ojos de él después de que le dijeras que le dejabas.",
+      "back": "I could literally see the hurt in his eyes after you told him you were leaving him.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella está intentando ser fuerte, pero veo el dolor en sus ojos.",
+      "back": "She's trying to be strong but I can see the hurt in her eyes.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-025",
+      "front": "He estado intentando seguir adelante, pero el dolor no se va.",
+      "back": "I've been trying to move on but the hurt just won't go away.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-026",
+      "front": "Ojalá pudiera seguir adelante, pero el dolor no se va.",
+      "back": "I wish I could move on but the hurt just won't go away.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-027",
+      "front": "Ojalá pudiera superar esto y seguir adelante con mi vida, pero el dolor no se va.",
+      "back": "I wish I could just get over this and get on with my life, but the hurt just won't go away.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Un poco de trabajo duro nunca le ha hecho daño a nadie!",
+      "back": "A little hard work has never hurt anybody!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-029",
+      "front": "Aprende algo de mí: ¡un poquito de trabajo duro y constancia nunca le hizo daño a nadie!",
+      "back": "Take this from me; a little hard work and perseverance never hurt anyone!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-030",
+      "front": "¡Para de hacer el vago! ¡Sabes que currar un poco nunca le ha hecho daño a nadie!",
+      "back": "Stop lazing around! You know a little bit of grafting has never hurt anybody!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-031",
+      "front": "Hay muchas maneras de prevenir el daño en la piel.",
+      "back": "There are many ways you can prevent skin damage.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-032",
+      "front": "Antes de nada, tienes que tomar más precauciones con el sol para evitar dañarte la piel.",
+      "back": "First of all, you need to take more precautions in the sun in order to avoid skin damage.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-033",
+      "front": "Dejar el tabaco y el alcohol te puede ayudar también a reducir el daño en la piel.",
+      "back": "Cutting out cigarettes and alcohol can also help you to reduce skin damage.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-034",
+      "front": "Los médicos tardaron un buen rato en averiguar que él tenía daño cerebral.",
+      "back": "It took the doctors a good while to discover that he had brain damage.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-035",
+      "front": "No tenía ni idea de que una escasez de oxígeno podía causar daño cerebral.",
+      "back": "I had no idea that a shortage of oxygen could cause brain damage.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-036",
+      "front": "El mayor miedo de ellos era que su cerebro quedara dañado, pero al final él se recuperó.",
+      "back": "Their biggest fear was that he'd be left brain damaged, but he recovered in the end.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-037",
+      "front": "Si te secas el pelo con secador todas las mañanas, lo podrías dañar permanentemente.",
+      "back": "If you blow-dry your hair every morning, you could cause permanent damage to it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-038",
+      "front": "Usa un champú suave para cabellos teñidos, si no te arriesgarás a dañar permanentemente el estado de tu pelo.",
+      "back": "Use a mild shampoo in coloured hair otherwise you'll risk permanent damage to your hair's condition.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-039",
+      "front": "Si te castigas el pelo tanto con la plancha lo puedes llegar a dañar permanentemente.",
+      "back": "If you punish your hair with hair straighteners you can cause it permanent damage.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-040",
+      "front": "Han tomado decisiones imprudentes que han causado daños a largo plazo en la economía.",
+      "back": "They've made unwise decisions that have caused long-term damage to the economy.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-041",
+      "front": "Poca gente se da cuenta del daño a largo plazo que el hábito de fumar puede causar al cuerpo.",
+      "back": "Very few people are aware of the long-term damage that smoking can do to your body.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-042",
+      "front": "Si yo fuera tú, no me preocuparía; no se han causado daños a largo plazo.",
+      "back": "I wouldn't worry about it if I were you; no long-term damage has been done.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-043",
+      "front": "Aparentemente, su café estaba demasiado caliente y ahora él va a reclamar un millón de dólares por daños y perjuicios porque se quemó la lengua.",
+      "back": "Apparently, his coffee was too hot and now he's claiming for $1 million in damages because he burnt his tongue.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-044",
+      "front": "Le dieron a ella 500.000 dólares por daños y perjuicios después de haber sufrido un infarto en el trabajo.",
+      "back": "She was awarded $500,000 in damages after she suffered a heart attack at work.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-045",
+      "front": "¡A él le dio un infarto y lo único que le ofrecieron fueron 650 dólares por daños y perjuicios!",
+      "back": "He suffered a heart attack and all they offered him was $650 in damages!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-046",
+      "front": "Quizás la idea de él no funcione; pero no estará de más probarla.",
+      "back": "Maybe his idea won't work; but there's no harm in trying it out.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "No está de más intentarlo; ¿qué tienes que perder?",
+      "back": "There's no harm in trying; what have you got to lose?",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "¡No asumas que vas a fracasar! Nunca está de más intentarlo.",
+      "back": "Don't just assume that you're going to fail! There's no harm in giving it a shot.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "Quizás no funcione, ¿pero qué hay de malo en intentarlo?",
+      "back": "Perhaps it won't work, but what's the harm in giving it a shot?",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "¿Qué hay de malo en pedirle un aumento? Lo peor que puede pasar es que diga que no.",
+      "back": "What's the harm in asking him for a raise? The worst thing he'll do is say no.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "Solo me estaba ofreciendo a invitarle a beber algo; ¡¿qué hay de malo en eso?!",
+      "back": "I was only offering to get her a drink; what's the harm in that?!",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "Haz lo que te digo y no sufriréis ni tú ni tu familia.",
+      "back": "Do as I say and no harm will come to you or your family.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-053",
+      "front": "Haz exactamente lo que te digo y no sufriréis ni tú ni tu familia.",
+      "back": "Do exactly what I tell you to do and no harm will come to you or your family.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-054",
+      "front": "Solo os pedimos que cooperéis y así no sufriréis ni tú ni tu familia.",
+      "back": "All we ask is that you cooperate, and that way no harm will come to you or your family.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-055",
+      "front": "Antes de nada, pongamos a los residentes fuera de peligro.",
+      "back": "First things first; let's get all the locals out of harm's way.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-056",
+      "front": "Me sentí mucho más tranquilo una vez que me dijeron que todo el mundo estaba fuera de peligro.",
+      "back": "I felt so much more reassured once they told me everyone was out of harm's way.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-057",
+      "front": "Vamos a vaciar el local. Tenemos que poner a todo el mundo fuera de peligro.",
+      "back": "Let's evacuate the premises. We have to get everyone out of harm's way.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-058",
+      "front": "Solo estaba bromeando. No quise hacerte daño.",
+      "back": "I was only joking. I didn't mean any harm.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-059",
+      "front": "Puede que él parezca maleducado, pero no es su intención hacer daño.",
+      "back": "He may come across as rude, but he doesn't mean any harm.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-060",
+      "front": "Él tiende a ser directo, pero no es su intención hacer daño.",
+      "back": "He has the tendency to be direct, but he doesn't mean any harm.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-061",
+      "front": "No te preocupes por nuestro perro Lucas; ladra mucho, pero es inofensivo.",
+      "back": "Don't worry about our dog Lucas; he barks a lot but he's harmless.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "No hagas caso al CEO. Grita mucho, pero es inofensivo.",
+      "back": "Don't pay any attention to the CEO. He shouts a lot but he's harmless.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-063",
+      "front": "Puede dar la impresión de ser un poquito agresivo, pero es inofensivo; lo prometo.",
+      "back": "He may come across as slightly aggressive, but he's harmless; I promise.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-064",
+      "front": "El arsénico es una de las sustancias más dañinas que se me ocurren.",
+      "back": "Arsenic is one of the most harmful substances I can think of.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-065",
+      "front": "Tus gafas de sol filtran los rayos ultravioletas más dañinos, protegiéndote así los ojos.",
+      "back": "Your sunglasses filter the most harmful ultraviolet rays, thus protecting your eyes.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-066",
+      "front": "La mayoría de los protectores solares filtran gran parte de los rayos ultravioletas dañinos, ayudando así a prevenir el daño a la piel.",
+      "back": "Most sunscreens filter most of the harmful UV rays, thus helping to reduce skin damage.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-067",
+      "front": "Ya he tenido suficiente con los comentarios hirientes de ella.",
+      "back": "I've had enough of all her hurtful comments.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "¡No toleraré más los comentarios hirientes de él!",
+      "back": "I'm not putting up with his hurtful comments anymore!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "Asegúrate de hacer caso omiso a sus insultos hirientes.",
+      "back": "Make sure you pay no attention whatsoever to their hurtful insults.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "La exposición al amianto es, sin lugar a dudas, extremadamente dañina para la salud.",
+      "back": "Exposure to asbestos is without a shadow of a doubt, extremely damaging to your health.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Decir algo incorrecto por error puede finalmente ser muy dañino para tu imagen.",
+      "back": "Saying the wrong thing by mistake can ultimately be very damaging to your image.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-072",
+      "front": "Si se filtra esa historia, dañará la reputación de él sin lugar a dudas.",
+      "back": "If that story leaks out, it'll damage his reputation without a shadow of a doubt.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-073",
+      "front": "El muñeco de nieve del vecino quedó totalmente derretido por el incendio, pero el nuestro salió ileso.",
+      "back": "The neighbour's snowman was melted down by the fire, but ours was left unscathed.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-074",
+      "front": "Dado que todos se escondieron en sus sótanos, todos escaparon ilesos.",
+      "back": "Since everyone hid in their basements, they all escaped unscathed.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-075",
+      "front": "El mercado negro ha salido relativamente ileso de la crisis económica global.",
+      "back": "The black market has been left relatively unscathed by the global economic crisis.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-076",
+      "front": "¡Mira mi vestido! ¡Está arruinado!",
+      "back": "Look at my dress! It's ruined!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "¡Lo estábamos pasando tan bien antes de que ella apareciera y nos arruinara el día!",
+      "back": "We were having such a good time before she turned up and ruined the day!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-078",
+      "front": "¿Por qué pusiste el gas con tanta intensidad? ¡Mira al pavo! ¡Se ha echado a perder!",
+      "back": "Why did you turn the gas on so high? Look at the turkey! It's ruined!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Ella no viene de ninguna manera! Solo estropearía la fiesta, como siempre hace.",
+      "back": "There's no way she's coming! She'd just spoil the party like she always does.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-080",
+      "front": "Le dije a él que no arruinara la sorpresa pero, ¿me hizo caso? ¡No!",
+      "back": "I told him not to spoil the surprise, but did he listen to me?! No!",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-081",
+      "front": "No dejes la leche fuera de la nevera demasiado tiempo; se echará a perder.",
+      "back": "Don't leave the milk out of the fridge for too long; it'll spoil.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-082",
+      "front": "Docenas de personas fueron heridas durante la estampida, pero afortunadamente no hubo muertos.",
+      "back": "Dozens of people were injured during the stampede but luckily there were no fatalities.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "Se hirió el brazo al comienzo de la temporada y ha estado inactivo desde entonces.",
+      "back": "He injured his arm at the start of the season and he's been out of action since then.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "¿Por qué sigue él inactivo? ¡Debe haberse herido gravemente!",
+      "back": "Why is he still out of action? He must have been very badly injured!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "Utilizaron explosivos para demoler el edificio.",
+      "back": "They used explosives to demolish the building.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "Todos aclamaron cuando las excavadoras demolieron el edificio de muchos pisos.",
+      "back": "Everyone cheered when the bulldozers demolished the high rise.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-087",
+      "front": "Demolieron los edificios para así poder construir un barrio más bonito en su lugar.",
+      "back": "They demolished the buildings so they could build a nicer neighbourhood in their place.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-088",
+      "front": "No puedes dañar la imagen de nuestra compañía vistiéndote así.",
+      "back": "You can't tarnish our company image by dressing like that.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-089",
+      "front": "No olvides que tratas directamente con los clientes. Vestirte así dañará nuestra imagen.",
+      "back": "Don't forget that you deal directly with customers. Dressing like that will tarnish our image.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-090",
+      "front": "¡Escupe ese chicle! ¡No quiero que dañes nuestra imagen por masticar chicle delante de los clientes!",
+      "back": "Spit out that gum! I don't want you tarnishing our image by chewing gum in front of clients!",
+      "sourcePage": 73
+    }
+  ]
+}
