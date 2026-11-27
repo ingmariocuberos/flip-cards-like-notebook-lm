@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-91",
+  "bookTitle": "Libro 91",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Ocúpate tú.",
+      "back": "Deal with it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "¿Puedes lidiar con ello, por favor?",
+      "back": "Can you deal with it, please?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "No te quejes, ocúpate tú.",
+      "back": "Don't complain, just deal with it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Ocúpate de los clientes uno por uno. (One by one)",
+      "back": "Deal with the customers one by one.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "No te quejes, lidia con los problemas uno por uno.",
+      "back": "Don't complain, just deal with the problems one by one.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Ocúpate de ellos uno por uno. (One by one)",
+      "back": "Deal with them one by one.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Lidia con los problemas uno por uno.",
+      "back": "Deal with the problems one at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Ocúpate de ellos uno por uno. (One at a time)",
+      "back": "Deal with them one at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Ocúpate de los clientes uno por uno. (One at a time)",
+      "back": "Deal with the customers one at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "Lidia con ello paso a paso. (One step at a time)",
+      "back": "Deal with it one step at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "Lidia con el problema paso a paso. (One step at a time)",
+      "back": "Deal with the problem one step at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "No te quejes, lidia con ello paso a paso. (One step at a time)",
+      "back": "Don't complain, just deal with it one step at a time.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Lidia con ello paso a paso. (Step by step)",
+      "back": "Deal with it step by step.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Lidia con el problema paso a paso. (Step by step)",
+      "back": "Deal with the problem step by step.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "No te quejes, lidia con ello paso a paso. (Step by step)",
+      "back": "Don't complain, just deal with it step by step.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "¡No puedo con eso!",
+      "back": "I can't handle that!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "¡No puedo con esto!",
+      "back": "I can't handle this!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¡No puedo con ello!",
+      "back": "I can't handle it!",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Él no puede con la presión.",
+      "back": "He can't handle the pressure.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Ella no puede con el trabajo.",
+      "back": "She can't handle the work.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "No puedo con aquella gente.",
+      "back": "I can't handle those people.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Él no puede con la presión en el trabajo.",
+      "back": "He can't handle the pressure at work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Ella no puede con la presión en casa.",
+      "back": "She can't handle the pressure at home.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "No pueden con la gente en la facultad.",
+      "back": "They can't handle the people at university.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "¿Puedes con la presión?",
+      "back": "Can you handle the pressure?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "¿Puedes con el trabajo?",
+      "back": "Can you handle the work?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Puedes con aquella gente?",
+      "back": "Can you handle those people?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Puedo con el trabajo, pero no puedo con la presión.",
+      "back": "I can handle the work but I can't handle the pressure.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "Ella puede con la presión pero no puede con la gente.",
+      "back": "She can handle the pressure but she can't handle the people.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "Él puede con la presión en la facultad, pero no puede con la presión en el trabajo.",
+      "back": "He can handle the pressure at university but he can't handle the pressure at work.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Él se las apañará.",
+      "back": "He'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "Ella se las apañará.",
+      "back": "She'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "Ellos se las apañarán.",
+      "back": "They'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Es difícil, pero él lo conseguirá.",
+      "back": "It's difficult, but he'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "Es difícil, pero ella lo conseguirá.",
+      "back": "It's tough, but she'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "Es difícil, pero lo conseguirán.",
+      "back": "It's hard, but they'll manage.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Se las arreglarán solos.",
+      "back": "They'll manage on their own.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Nos las arreglaremos solos.",
+      "back": "We'll manage on our own.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Se las arreglará sola.",
+      "back": "She'll manage on her own.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "Es difícil, pero se apañarán solos.",
+      "back": "It's difficult, but they'll manage by themselves.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "Es duro, pero me apañaré solo.",
+      "back": "It's tough, but I'll manage by myself.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "Es duro, pero se apañará solo.",
+      "back": "It's hard, but he'll manage by himself.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Ella se las arreglará sin ayuda de nadie.",
+      "back": "She'll manage without any help.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Él se las arreglará sin ningún tipo de ayuda.",
+      "back": "He'll manage without any assistance.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "Es difícil, pero me las arreglaré sin ayuda de nadie.",
+      "back": "It's tough, but I'll manage without any help.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Dile a él que se ocupe de ello.",
+      "back": "Tell him to deal with it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Dile a ella que se apañe con el problema.",
+      "back": "Tell her to deal with the problem.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "Diles que se ocupen del asunto.",
+      "back": "Tell them to deal with the issue.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Pídeles que se ocupen del asunto.",
+      "back": "Ask them to deal with the issue.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "Pídele a él que se ocupe de la situación.",
+      "back": "Ask him to deal with the situation.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "Pídele a ella que se ocupe de ello.",
+      "back": "Ask her to deal with it.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "¿Puedes decirles que se ocupen de esto?",
+      "back": "Can you tell them to deal with this?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "¿Puedes pedirles que se ocupen del asunto?",
+      "back": "Can you ask them to deal with the issue?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "¿Puedes decirles que se ocupen del problema?",
+      "back": "Can you please tell them to deal with the problem?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "¿Puedes decirle a él que le pida a ella que se ocupe de ello?",
+      "back": "Can you tell him to ask her to deal with it?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "¿Puedes decirle a ella que le pida a él que se ocupe de ello, por favor?",
+      "back": "Can you please tell her to ask him to deal with it?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "¿Les puedes decir que le pidan a ella que se ocupe del problema?",
+      "back": "Can you tell them to ask her to deal with the problem?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "¿Puedes pedirle a él que se ocupe de ello en cuanto pueda?",
+      "back": "Can you ask him to deal with it as soon as he can?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "¿Puedes decirle a ella que se ocupe del problema en cuanto pueda?",
+      "back": "Can you please tell her to deal with the problem as soon as she can?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Puedes decirle a ella que le pida a él ocuparse del asunto en cuanto pueda?",
+      "back": "Can you tell her to ask him to deal with the issue as soon as he can?",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "¿Crees que puedes con el problema?",
+      "back": "Do you think you can handle the problem?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "¿Crees que puedes con la presión?",
+      "back": "Do you think you can handle the pressure?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "¿Cree él que puede con ello?",
+      "back": "Does he think he can handle it?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Creo que no puedo con todo eso.",
+      "back": "I don't think I can handle all that.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Creo que no puedo con todo ese trabajo.",
+      "back": "I don't think I can handle all that work.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Creo que no puedo con todo ese estrés.",
+      "back": "I don't think I can handle all that stress.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "¿Estás seguro de que puedes con el ambiente?",
+      "back": "Are you sure you can handle the environment?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "¿Está él seguro de que puede con el estrés?",
+      "back": "Is he sure he can handle the stress?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "¿Están seguros de que pueden con toda esa presión?",
+      "back": "Are they sure they can handle all that pressure?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Estoy bastante seguro de que puedo con el estrés.",
+      "back": "I'm pretty sure I can handle the stress.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "Están bastante seguros de que pueden con la presión.",
+      "back": "They're pretty sure they can handle the pressure.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Estamos bastante seguros de que podemos con ello.",
+      "back": "We're pretty sure we can handle it.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "No estoy muy seguro de que pueda con eso.",
+      "back": "I'm not so sure I can handle that.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "No estoy muy seguro de que pueda con todo eso.",
+      "back": "I'm not so sure I can handle all that.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "No están muy seguros de que puedan con toda esa presión.",
+      "back": "They're not so sure they can handle all that pressure.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Siempre me las apaño para acabar antes de las seis.",
+      "back": "I always manage to finish before six.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Nunca se apañan para acabar antes de las seis.",
+      "back": "They never manage to finish before six.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "Él normalmente se apaña para acabar antes de las siete.",
+      "back": "He normally manages to finish before seven.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Estás seguro de que te apañarás para acabar antes de las seis y media?",
+      "back": "Are you sure you'll manage to finish before half six?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Estás seguro de que te apañarás para acabar a las siete y media?",
+      "back": "Are you sure you'll manage to finish at half seven?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Están seguras de que se apañarán para acabar a las seis y media?",
+      "back": "Are they sure they'll manage to finish at half six?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "No estamos tan seguros de que nos las apañaremos para terminar puntualmente.",
+      "back": "We're not so sure we'll manage to finish on time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "No están tan seguros de que se las apañarán para terminar puntualmente.",
+      "back": "They're not so sure they'll manage to finish on time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Estamos bastante seguros de que nos las apañaremos para terminar puntualmente.",
+      "back": "We're pretty sure we'll manage to finish on time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "Creo que nos las apañaremos para terminar el proyecto con la suficiente antelación.",
+      "back": "I think we'll manage to finish the project in time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "No creo que nos las apañemos para terminar el proyecto con la suficiente antelación.",
+      "back": "I don't think we'll manage to finish the project in time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Crees que te las apañarás para terminarlo con la suficiente antelación?",
+      "back": "Do you think you'll manage to finish it in time?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "Nos las apañaremos para terminar si empezamos puntualmente.",
+      "back": "We'll manage to finish if we start on time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Si empieza puntualmente, él se las apañará para terminar con la suficiente antelación.",
+      "back": "If he starts on time, he'll manage to finish in time.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "No se las apañarán para terminar el proyecto puntualmente si no empiezan puntualmente.",
+      "back": "They won't manage to finish the project on time if they don't start on time.",
+      "sourcePage": 19
+    }
+  ]
+}

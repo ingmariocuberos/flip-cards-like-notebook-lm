@@ -1,0 +1,730 @@
+{
+  "bookId": "vaughan-intensive-english-91",
+  "bookTitle": "Libro 91",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "En mi último puesto de trabajo traté con muchos clientes.",
+      "back": "In my last job I dealt with a lot of customers.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "En su último puesto de trabajo ella trató con muchos banqueros.",
+      "back": "In her last job she dealt with a lot of bankers.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "En su último puesto de trabajo él trató con mucha gente difícil.",
+      "back": "In his last job he dealt with a lot of difficult people.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Tratamos con ellos cara a cara.",
+      "back": "We dealt with them face to face.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "Tratamos con muchos banqueros cara a cara.",
+      "back": "We dealt with a lot of bankers face to face.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "Tratamos con muchos clientes cara a cara.",
+      "back": "We dealt with a lot of customers face to face.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Tratamos con la mayor parte de nuestros clientes por teléfono. (Most)",
+      "back": "We dealt with most of our customers over the telephone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Tratamos con la mayor parte de nuestros clientes por teléfono. (Majority)",
+      "back": "We dealt with the majority of our customers over the phone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Ellos trataron la mayor parte de sus quejas por teléfono.",
+      "back": "They dealt with most of their complaints over the phone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "No tratamos con ellos por teléfono, tratamos con ellos por correo electrónico.",
+      "back": "We didn't deal with them over the telephone, we dealt with them via email.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "No trataron con nosotros cara a cara, trataron con nosotros por correo electrónico.",
+      "back": "They didn't deal with us face to face, they dealt with us via email.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "No trataron con ellos por correo electrónico, sino por teléfono.",
+      "back": "They didn't deal with them via email, but rather over the phone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Antes hemos tratado estos problemas por teléfono, pero nunca cara a cara.",
+      "back": "We've dealt with these problems over the phone before, but never face to face.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "A menudo hemos tratado estos asuntos por correo electrónico, pero nunca cara a cara.",
+      "back": "We've often dealt with these issues via email, but never face to face.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Antes han tratado con esta gente cara a cara, pero nunca por teléfono.",
+      "back": "They've dealt with these people face to face before, but never over the phone.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Ella se tomó la noticia bien.",
+      "back": "She handled the news well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Ella lo manejó muy bien.",
+      "back": "She handled it very well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Ellos se tomaron la noticia del divorcio de buena manera.",
+      "back": "They handled the news of the divorce well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "Ellos no se tomaron la noticia muy bien.",
+      "back": "They didn't handle the news very well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "No nos tomamos muy bien la noticia del divorcio.",
+      "back": "We didn't handle the news of the divorce very well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "Su hermano de ella se tomó bien la noticia, pero ella no tanto.",
+      "back": "Her brother handled the news well, but she didn't handle it very well.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Ella se lo tomó mejor que su hermano.",
+      "back": "She handled it better than her brother did.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Ellos se tomaron la noticia mejor que todos los demás.",
+      "back": "They handled the news better than everyone else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Ellos se lo tomaron mejor que todos los demás.",
+      "back": "They handled it better than everyone else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Ella se ha tomado la noticia mucho mejor que su hermano.",
+      "back": "She's handled the news much better than her brother.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Ellos se lo han tomado muchísimo mejor que el resto.",
+      "back": "They've handled it far better than everyone else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "Ellos se han tomado la noticia del divorcio muchísimo mejor que el resto.",
+      "back": "They've handled the news of the divorce way better than everyone else.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Él no se ha tomado la noticia tan bien como lo ha hecho ella.",
+      "back": "He hasn't handled the news as well as she has.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Ellos no se han tomado la noticia tan bien como el resto.",
+      "back": "They haven't handled the news as well as everyone else has.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Ella no se ha tomado la noticia del divorcio tan bien como lo ha hecho su hermano.",
+      "back": "She hasn't handled the news of the divorce as well as her brother has.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Cómo lo está llevando él? (Deal with)",
+      "back": "How is he dealing with it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Cómo lo está llevando él? (Handle)",
+      "back": "How is he handling it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Cómo lo está llevando él? (Manage)",
+      "back": "How is he managing?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "¿Cómo lo están llevando ellos? (Deal with)",
+      "back": "How are they dealing with it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "¿Cómo lo están llevando ellos? (Handle)",
+      "back": "How are they handling it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "¿Cómo lo están llevando ellos? (Manage)",
+      "back": "How are they managing?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "¿Cómo lo estás llevando? (Deal with)",
+      "back": "How are you dealing with it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-038",
+      "front": "¿Cómo lo estás llevando? (Handle)",
+      "back": "How are you handling it?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-039",
+      "front": "¿Cómo lo estás llevando? (Manage)",
+      "back": "How are you managing?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-040",
+      "front": "Ellos lo están llevando muy bien. (Deal with)",
+      "back": "They're dealing with it just fine.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-041",
+      "front": "Ellos lo están llevando muy bien. (Handle)",
+      "back": "They're handling it just fine.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-042",
+      "front": "Ellos lo están llevando muy bien. (Manage)",
+      "back": "They're managing just fine.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-043",
+      "front": "Lo estoy llevando muy bien, gracias. (Deal with)",
+      "back": "I'm dealing with it just fine, thank you.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-044",
+      "front": "Lo estoy llevando muy bien, gracias. (Handle)",
+      "back": "I'm handling it just fine, thank you.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-045",
+      "front": "Lo estoy llevando muy bien, gracias. (Manage)",
+      "back": "I'm managing just fine, thank you.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-046",
+      "front": "Ella lo está llevando muy bien, gracias. (Deal with)",
+      "back": "She's dealing with it just fine, thanks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-047",
+      "front": "Ella lo está llevando muy bien, gracias. (Handle)",
+      "back": "She's handling it just fine, thanks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-048",
+      "front": "Ella lo está llevando muy bien, gracias. (Manage)",
+      "back": "She's managing just fine, thanks.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-049",
+      "front": "Él lo estaba llevando muy bien hasta que llegaste. (Deal with)",
+      "back": "He was dealing with it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-050",
+      "front": "Él lo estaba llevando muy bien hasta que llegaste. (Handle)",
+      "back": "He was handling it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-051",
+      "front": "Él lo estaba llevando muy bien hasta que llegaste. (Manage)",
+      "back": "He was managing just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-052",
+      "front": "Ella lo estaba llevando muy bien hasta que llegaste. (Deal with)",
+      "back": "She was dealing with it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-053",
+      "front": "Ella lo estaba llevando muy bien hasta que llegaste. (Handle)",
+      "back": "She was handling it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-054",
+      "front": "Ella lo estaba llevando muy bien hasta que llegaste. (Manage)",
+      "back": "She was managing just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-055",
+      "front": "Ellos lo estaban llevando muy bien hasta que llegaste. (Deal with)",
+      "back": "They were dealing with it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-056",
+      "front": "Ellos lo estaban llevando muy bien hasta que llegaste. (Handle)",
+      "back": "They were handling it just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-057",
+      "front": "Ellos lo estaban llevando muy bien hasta que llegaste. (Manage)",
+      "back": "They were managing just fine until you got here.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-058",
+      "front": "Ellos lo han estado llevando muy bien. (Deal with)",
+      "back": "They've been dealing with it just fine.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-059",
+      "front": "Ellos lo han estado llevando muy bien. (Handle)",
+      "back": "They've been handling it just fine.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-060",
+      "front": "Ellos lo han estado llevando muy bien. (Manage)",
+      "back": "They've been managing just fine.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-061",
+      "front": "Lo he estado llevando muy bien, gracias. (Deal with)",
+      "back": "I've been dealing with it just fine, thank you.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-062",
+      "front": "Lo he estado llevando muy bien, gracias. (Handle)",
+      "back": "I've been handling it just fine, thank you.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-063",
+      "front": "Lo he estado llevando muy bien, gracias. (Manage)",
+      "back": "I've been managing just fine, thank you.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-064",
+      "front": "Lo hemos estado llevando muy bien, gracias. (Deal with)",
+      "back": "We've been dealing with it just fine, thanks.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-065",
+      "front": "Lo hemos estado llevando muy bien, gracias. (Handle)",
+      "back": "We've been handling it just fine, thanks.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-066",
+      "front": "Lo hemos estado llevando muy bien, gracias. (Manage)",
+      "back": "We've been managing just fine, thanks.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-067",
+      "front": "¿Cómo lo han estado llevando ellos? (Deal with)",
+      "back": "How've they been dealing with it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-068",
+      "front": "¿Cómo lo han estado llevando ellos? (Handle)",
+      "back": "How've they been handling it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-069",
+      "front": "¿Cómo lo han estado llevando ellos? (Manage)",
+      "back": "How've they been managing?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-070",
+      "front": "¿Cómo lo ha estado llevando ella? (Deal with)",
+      "back": "How's she been dealing with it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-071",
+      "front": "¿Cómo lo ha estado llevando ella? (Handle)",
+      "back": "How's she been handling it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Cómo lo ha estado llevando ella? (Manage)",
+      "back": "How's she been managing?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-073",
+      "front": "¿Cómo lo ha estado llevando él? (Deal with)",
+      "back": "How's he been dealing with it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-074",
+      "front": "¿Cómo lo ha estado llevando él? (Handle)",
+      "back": "How's he been handling it?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-075",
+      "front": "¿Cómo lo ha estado llevando él? (Manage)",
+      "back": "How's he been managing?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-076",
+      "front": "Tienes que ocuparte de esto.",
+      "back": "You've got to deal with this.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-077",
+      "front": "Tienen que ocuparse de estas quejas.",
+      "back": "They've got to deal with these complaints.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-078",
+      "front": "Tienen que ocuparse de ella.",
+      "back": "They've got to deal with her.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-079",
+      "front": "Tienes que ocuparte de esto lo antes posible.",
+      "back": "You've got to deal with this ASAP.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-080",
+      "front": "Tenemos que ocuparnos de estas quejas lo antes posible.",
+      "back": "We've got to deal with these complaints ASAP.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-081",
+      "front": "Tienen que ocuparse de ellos lo antes posible.",
+      "back": "They've got to deal with them ASAP.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-082",
+      "front": "Deberíamos ocuparnos de las quejas antes de ocuparnos de las sugerencias.",
+      "back": "We should deal with the complaints before dealing with the suggestions.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-083",
+      "front": "Ellos deberían ocuparse de él antes de ocuparse de cualquier persona más.",
+      "back": "They should deal with him before dealing with anyone else.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-084",
+      "front": "Deberían ocuparse de esto antes de ocuparse de cualquier otra cosa.",
+      "back": "They should deal with this before dealing with anything else.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-085",
+      "front": "No deberíamos ocuparnos de ella hasta que nos hayamos ocupado de él.",
+      "back": "We shouldn't deal with her until we've dealt with him.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-086",
+      "front": "No deberías ocuparte de las sugerencias hasta que te hayas ocupado de las quejas.",
+      "back": "You shouldn't deal with the suggestions until you've dealt with the complaints.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-087",
+      "front": "No deberías ocuparte de otras cosas hasta que te hayas ocupado de esto.",
+      "back": "You shouldn't deal with anything else until you've dealt with this first.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-088",
+      "front": "¿No deberíamos ocuparnos de las sugerencias primero?",
+      "back": "Shouldn't we deal with the suggestions first?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-089",
+      "front": "¿No deberíamos ocuparnos de los clientes primero?",
+      "back": "Shouldn't we deal with the customers first?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-090",
+      "front": "¿No deberían ocuparse de las quejas primero antes de ocuparse de cualquier otra cosa?",
+      "back": "Shouldn't they deal with the complaints first before dealing with anything else?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-091",
+      "front": "Él sabe llevar este tipo de cosas.",
+      "back": "He knows how to handle this kind of thing.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-092",
+      "front": "¿Sabe él llevar este tipo de cosas?",
+      "back": "Does he know how to handle this kind of thing?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-093",
+      "front": "Él no sabe llevar este tipo de cosas.",
+      "back": "He doesn't really know how to handle this kind of thing.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-094",
+      "front": "A él se le da bien llevar este tipo de cosas.",
+      "back": "He's good at handling this sort of stuff.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-095",
+      "front": "A ellos no se les da bien llevar este tipo de cosas.",
+      "back": "They aren't good at handling this sort of thing.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-096",
+      "front": "A él se le da muy bien llevar este tipo de cosas.",
+      "back": "He's great at handling these sorts of things.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-097",
+      "front": "El volumen de papeleo aquí es difícil de llevar.",
+      "back": "The volume of paperwork here is hard to handle.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-098",
+      "front": "La cantidad de trabajo aquí es difícil de llevar.",
+      "back": "The amount of work here is tough to handle.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-099",
+      "front": "La cantidad de estrés aquí es bastante difícil de llevar.",
+      "back": "The amount of stress here is pretty hard to handle.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-100",
+      "front": "Me cuesta llevar bien el estrés.",
+      "back": "I have a hard time handling stress.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-101",
+      "front": "A ella le cuesta llevar bien el papeleo.",
+      "back": "She has a hard time handling paperwork.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-102",
+      "front": "¿Por qué a ella le cuesta llevar bien el papeleo?",
+      "back": "Why does she have a hard time handling paperwork?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-103",
+      "front": "Me costó llevar la carga de trabajo.",
+      "back": "I had a hard time handling the workload.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-104",
+      "front": "A ellos les costó llevar bien el estrés.",
+      "back": "They had a hard time handling the stress.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-105",
+      "front": "¿Por qué a él le costó llevar el papeleo?",
+      "back": "Why did he have a hard time handling the paperwork?",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-106",
+      "front": "No sé cómo se van a apañar.",
+      "back": "I don't know how they're going to manage.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-107",
+      "front": "No tengo ni idea de cómo se van a apañar.",
+      "back": "I have no idea how they're going to manage.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-108",
+      "front": "No tenemos ni la más remota idea de cómo se van a apañar.",
+      "back": "We have absolutely no idea how they're going to manage.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-109",
+      "front": "No tengo ni idea de cómo se van a apañar con 500 euros al mes.",
+      "back": "I have no idea how they're going to manage on €500 a month.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-110",
+      "front": "No tenemos ni idea de cómo se van a apañar con 60 euros por semana.",
+      "back": "We have no idea how they're going to manage on €60 a week.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-111",
+      "front": "Ella no sabe cómo me voy a apañar con tan poco.",
+      "back": "She doesn't know how I'm going to manage on so little.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-112",
+      "front": "Lograron apañarse.",
+      "back": "They managed to get by.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-113",
+      "front": "Lograron apañarse con 60 euros por semana.",
+      "back": "They managed to get by on €60 a week.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-114",
+      "front": "Lograron apañarse con 60 euros por semana sin ayuda.",
+      "back": "They managed to get by on €60 a week without any help.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-115",
+      "front": "No sé cómo, pero logré apañarme.",
+      "back": "I don't know how, but I managed to get by.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-116",
+      "front": "No tengo ni la más remota idea de cómo lo hice, pero me apañé para salir del paso.",
+      "back": "I have absolutely no idea how, but I managed to get by.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-117",
+      "front": "No sé cómo lo hicimos, pero logramos apañarnos con 500 euros al mes.",
+      "back": "I don't know how, but we managed to get by on €500 per month.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-118",
+      "front": "Nos apañamos con 50 euros por semana sin pedir ayuda a nadie.",
+      "back": "We managed on €50 a week without asking anyone for help.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-119",
+      "front": "Lograron salir del paso sin pedir ayuda a nadie.",
+      "back": "They managed to get by without asking anyone for help.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-120",
+      "front": "No tengo ni la más remota idea de cómo, pero lograron apañarse sin pedir ayuda a nadie.",
+      "back": "I have absolutely no idea how, but they managed to get by without asking anyone for help.",
+      "sourcePage": 47
+    }
+  ]
+}

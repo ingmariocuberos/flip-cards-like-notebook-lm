@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-91",
+  "bookTitle": "Libro 91",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "El tema de la Francia de la posguerra ha sido tratado incontables veces en el pasado.",
+      "back": "Post-war France has been dealt with countless times in the past.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "El tema de la Alemania de preguerra ha sido tratado tanto por académicos como por políticos.",
+      "back": "Pre-war Germany has been dealt with by academics and politicians alike.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "El tema de la Inglaterra de la posguerra ha sido tratado tanto por la literatura como por los periódicos.",
+      "back": "Post-war England has been dealt with by literature and journals alike.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Aunque este tema ha sido tratado incontables veces antes, el artículo arroja nueva luz sobre él.",
+      "back": "Although this issue has been dealt with countless times before, the article sheds a new light on it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Aunque este tema ha sido tratado incontables veces en el pasado, el libro lo presenta desde un ángulo diferente.",
+      "back": "Although this topic has been dealt with countless times in the past, the book presents it from a different angle.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Aunque este tema ha sido tratado previamente, este texto ofrece una percepción nueva.",
+      "back": "Although this subject has been dealt with previously, this text offers fresh insight.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "A pesar de que ofrece una percepción nueva sobre la Francia de preguerra, el artículo no logra tratar otros temas importantes.",
+      "back": "Despite offering fresh insight on pre-war France, the article fails to deal with other important issues.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "A pesar de que arroja una nueva luz sobre ello, la publicación no logra tratar otros temas importantes.",
+      "back": "Despite shedding a new light on it, the journal fails to deal with other important topics.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "A pesar de presentar el tema de la Inglaterra de preguerra desde otro ángulo, el texto no logra tratar algunos temas clave.",
+      "back": "Despite presenting pre-war England from a different angle, the text fails to deal with some key issues.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "A pesar de tratar el tema de la Inglaterra de preguerra, el artículo ignora completamente la Francia de preguerra.",
+      "back": "It may well deal with pre-war England. However, the article totally overlooks pre-war France.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "A pesar de tratar el tema de la Francia de posguerra, el periódico se deja ciertos temas clave.",
+      "back": "It may well deal with post-war France. However, there are some key points that the journal misses.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "A pesar de tratar el tema de la Alemania de preguerra, hay algunas cosas que el texto ignora.",
+      "back": "It may well deal with pre-war Germany. However, there are some things the text overlooks.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "El libro no trató el tema de la Francia de posguerra; no obstante presentó ciertos temas clave desde un ángulo diferente.",
+      "back": "The book didn't deal with post-war France; nevertheless it presented certain key issues from a new angle.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "El artículo no trató el tema de la Europa de la posguerra; no obstante ofreció una nueva percepción sobre la situación política de la preguerra.",
+      "back": "The article didn't deal with post-war Europe; nevertheless, it offered fresh insight on the pre-war political situation.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "El texto no trató el tema de la Alemania de la posguerra; no obstante arrojó una nueva luz sobre el tema de la Inglaterra de la posguerra.",
+      "back": "The text didn't deal with post-war Germany; nevertheless it shed a new light on post-war England.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Él lo tiene bajo control.",
+      "back": "He's got a handle on it.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "Él sabe exactamente lo que debe hacer en estas situaciones.",
+      "back": "He has a good handle on what he's supposed to do in these situations.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "Saben exactamente lo que deberían hacer para poder empezar con el pie derecho.",
+      "back": "They've got a good handle on what they should do in order to hit the ground running.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "No tengo muy claro qué es lo que debería hacer ahora.",
+      "back": "I don't have a good handle on what it is I'm supposed to do.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "No tenemos muy claro por qué tenemos que hacer esto nosotros.",
+      "back": "We haven't got a good handle on why it is we're supposed to do this.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "No tengo muy claro a dónde tengo que llegar con esto.",
+      "back": "I haven't got a good handle on where it is I'm supposed to be going with this.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Siguen sin dominarlo del todo, pero ya se lo aprenderán sobre la marcha.",
+      "back": "They don't have a good handle on it yet, but they'll pick it up as they go along.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "Siguen sin dominarlo del todo, pero ya se harán una idea sobre la marcha.",
+      "back": "They haven't got a good handle on it yet, but they'll get a feel for it as they go along.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Siguen sin dominarlo del todo, pero ya le cogerán el truco sobre la marcha.",
+      "back": "They haven't got a good handle on it yet, but they'll get the hang of it as they go along.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Estoy intentando llegar a entender esto, pero sigo sin aclararme con ello.",
+      "back": "I'm trying to get a handle on this but I haven't quite gotten my head around it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "Estamos intentando llegar a entender esto, pero seguimos sin cogerle el truco.",
+      "back": "We're trying to get a handle on this, but we haven't quite gotten the hang of it.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "Intento llegar a entender esto para que, cuando lo consiga, podamos empezar con el pie derecho.",
+      "back": "I'm trying to get a handle on this so that when I do, we'll hit the ground running.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "Él dijo que lo tenía controlado, pero los demás dicen que no tiene ni idea de lo que está haciendo.",
+      "back": "He said he had a handle on it, but everybody else says he's got no idea what he's doing.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "Ella dice que lo tenía controlado, pero los demás piensan lo contrario.",
+      "back": "She says she had a handle on it, but everybody else thinks the opposite.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "Ellos dijeron que lo tenían controlado, pero nadie más piensa así.",
+      "back": "They said they had a handle on it, but nobody else thinks so.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Estoy acostumbrada a dirigir a mucha gente a la vez.",
+      "back": "I'm used to managing a lot of people at once.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "Él no está acostumbrado a dirigir a tanta gente.",
+      "back": "He's not used to managing that many people.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "Ella no está acostumbrada a dirigir a tanta gente a la vez.",
+      "back": "She's not used to managing that many people at once.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "Él está acostumbrándose a dirigir al equipo bajo presión.",
+      "back": "He's getting used to managing the team under pressure.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Están acostumbrándose a dirigir al equipo bajo limitaciones de tiempo.",
+      "back": "They're getting used to managing the team under time constraints.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Ella se acostumbró enseguida a dirigir al equipo bajo estrés.",
+      "back": "She quickly got used to managing the team under stress.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "La junta directiva antes nos decía que no cogiéramos más de una hora para comer.",
+      "back": "Management used to tell us not to take any longer than one hour for lunch.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "La junta directiva antes les decía que llegaran al trabajo no más tarde de las diez de la mañana.",
+      "back": "Management used to tell them not to come to work any later than 10 a.m.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "La junta directiva antes les decía que se vistieran de manera formal para el trabajo.",
+      "back": "Management used to tell them that they had to dress formally for work.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "Tardaron mucho tiempo en acostumbrarse a su manera de dirigir de él.",
+      "back": "It took a long time for them to get used to his management style.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¿Por qué tardaron tanto en acostumbrarse a su estilo de dirigir de él?",
+      "back": "How come it took them so long to get used to his management style?",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "Tardaron tanto tiempo en acostumbrarse a su estilo de dirigir de él porque estaban acostumbrados al modo anterior de hacer las cosas.",
+      "back": "It took them that long to get used to his management style because they were used to the previous way of doing things.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Estoy acostumbrado a tener a Sheila ocupándose de los contratos y a John de las ventas.",
+      "back": "I'm used to having Sheila manage contracts, and having John manage sales.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Estoy acostumbrado a tener a nuestro equipo legal ocupándose de este tipo de casos.",
+      "back": "I'm used to having our law team manage those kinds of cases.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Estaban acostumbrados a tener a Jack ocupándose de sus asuntos.",
+      "back": "They were used to having Jack manage their affairs.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "Reparte la baraja completa en el sentido de las agujas del reloj.",
+      "back": "Deal out the entire pack clockwise.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "Baraja las cartas y reparte siete a cada persona en el sentido de las agujas del reloj.",
+      "back": "Shuffle the deck and deal out seven cards a person clockwise.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "Toma, corta la baraja antes de que yo reparta las cartas.",
+      "back": "Here, cut the deck before I deal out the cards.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "El trato sólo será oficial cuando nos demos la mano.",
+      "back": "The deal will only be official when we shake on it.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "¡Perfecto! Trato hecho.",
+      "back": "There you go! It's a deal.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "Tienes un trato, amigo.",
+      "back": "You've got yourself a deal, buddy.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "Pues le eché un vistazo a las cartas antes de repartirlas. ¿Por qué tanto alboroto?",
+      "back": "So I sneaked a peek at the cards before I dealt them. What's the big deal?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Pues no lo acepté con un apretón de manos. ¿Hay algún problema?",
+      "back": "So I didn't shake on it. What's the big deal?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "Así que él no ofreció la baraja para que cortáramos antes de que repartiese las cartas. ¡No pasa nada!",
+      "back": "So he didn't cut the deck before he dealt out the cards. It's no big deal!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "Es una oferta muy buena. Si te apuntas a las clases de agosto conseguirás un reloj de oro gratis.",
+      "back": "It's a pretty good deal, if you sign up for classes in August, you get a free gold watch.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "Conseguí una auténtica ganga con estas zapatillas, ¡me costaron la mitad!",
+      "back": "I got an amazing deal on these sneakers, they were half off!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "No es una mala oferta, ¿la seguís teniendo?",
+      "back": "That's not a bad deal, is it still on?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "Ella firmó un contrato discográfico con una de las empresas de espectáculos más importantes.",
+      "back": "She signed a record deal with one of the top entertainment companies out there.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "Firmaron un acuerdo anoche por una cantidad de 40 millones en cinco años.",
+      "back": "They inked a deal last night, to the tune of 40 million over five years.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "Al parecer, firmaron un lucrativo acuerdo de alrededor de 125 millones.",
+      "back": "Apparently they signed a lucrative deal in the ballpark of 125 million.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "El presidente manejó las preguntas de la prensa con facilidad.",
+      "back": "The president handled the questions from the press with ease.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "Él está versado en política exterior, por lo que manejó con soltura las preguntas sobre la insurgencia.",
+      "back": "He's well versed in foreign policy, so he handled the questions about the insurgency with ease.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "Su conocimiento incompleto sobre los asuntos de exteriores propició que él no fuese capaz de manejar las preguntas sobre la insurgencia tan bien como le hubiese gustado.",
+      "back": "His somewhat patchy knowledge of foreign affairs meant he wasn't able to handle the question about the insurgency as well as he'd have liked.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "El paquete dice que deberías manejar las flores con cuidado.",
+      "back": "The package says you should handle the flowers with care.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "El hombre que está al teléfono dijo que si no los tratas con cuidado podrían romperse durante el transporte.",
+      "back": "The man on the phone said that if you don't handle them with care, they're likely to fall apart during transport.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Hay un cartel en la verdulería que pide a los clientes no tocar la fruta.",
+      "back": "There's a sign at the greengrocer's that asks customers not to handle the fruit.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "¿Qué me pasa con la manilla de la puerta? ¡Cada vez que la toco me da una descarga eléctrica!",
+      "back": "What is it with me and that door handle? Whenever I touch it, it gives me an electric shock!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "Parece que las manillas de tu bicicleta se están torciendo un poco.",
+      "back": "Those handlebars on your bicycle are looking a bit wonky.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "He estado pensando en cambiar los pomos de madera de las puertas por unos de hierro forjado.",
+      "back": "I've been thinking about replacing the wooden handles on the doors with wrought iron ones instead.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Mi padre perdió los estribos cuando se enteró de que yo había estrellado el coche.",
+      "back": "My dad flew off the handle when he found out I had crashed the car.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Mi madre perdió los estribos cuando descubrió que mi padre se había olvidado del día de San Valentín.",
+      "back": "My mom flew off the handle when she found out my dad had forgotten it was Valentine's Day.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Cuando mi padre descubrió que las flores que había comprado a mi madre por San Valentín se habían deshecho durante el transporte, perdió los estribos.",
+      "back": "When he found out that the flowers he had bought my mom for Valentine's Day had fallen apart during transport, my dad totally flew off the handle.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Estoy siguiendo una nueva dieta para librarme de estos michelines de una vez por todas.",
+      "back": "I'm on a new diet to get rid of these love handles once and for all.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "Mi entrenador dice que para perder estos michelines de una vez por todas debería seguir una dieta alta en proteínas y baja en carbohidratos.",
+      "back": "My trainer says that in order to get rid of my love handles once and for all, I should get on a high protein, low carb diet.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "Personalmente encuentro los michelines en cierta manera atractivos.",
+      "back": "I personally find love handles somewhat attractive.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Parece ser que el técnico está listo para cambiar a Valcott por Drogban.",
+      "back": "It looks like the manager is ready to sub in Valcott for Drogban.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Parece que el técnico no tiene idea de qué hacer.",
+      "back": "The manager looks as though he hasn't a clue what to do.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "El técnico está mirando a través del campo al portero y encogiéndose de hombros como diciendo: ¿qué haces?",
+      "back": "The manager's looking across the field at the goalkeeper and shrugging as if to say \"what are you doing?\".",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "La situación parece manejable para el equipo local, visto que el equipo rival está sin su mejor jugador.",
+      "back": "The situation looks manageable for the home team, seeing as the opposing team is playing without its best player.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Ahora que el equipo opuesto ha anotado, la situación no parece tan manejable para el Crawley FC.",
+      "back": "Now that the opposing team has scored, the situation doesn't look quite as manageable for Crawley FC.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Parece que tienen una tarea inmanejable en sus manos.",
+      "back": "It looks like they've got an unmanageable task on their hands.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Es como si el último gol les hubiera dado el golpe mortal.",
+      "back": "It looks like that last goal has dealt the fatal blow.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Les dieron un serio golpe con el último gol, y luego parecía como si se hubiesen dado por vencidos.",
+      "back": "They were dealt a serious blow with that last goal, and after that it looked like they just gave up.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Fue un golpe duro para ellos cuando el mejor jugador fue obligado a abandonar el partido con el tobillo torcido.",
+      "back": "They were dealt a heavy blow when their best player was forced to leave the game with a sprained ankle.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "¡El técnico manejó la situación tan mal que era como si nunca hubiese dirigido un partido en su vida!",
+      "back": "The manager mishandled the situation so badly, it looked like he'd never managed a game in his life!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "¡Los jugadores manejaron la pelota tan mal que parecía que nunca hubieran jugado al fútbol antes!",
+      "back": "The players mishandled the ball so badly, it looked as if they'd never played football before!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Cuando la prensa le preguntó por qué había manejado la situación tan mal, él miró hacia otro lado y esquivó la pregunta.",
+      "back": "When the press asked him why he'd mishandled the situation so badly, he looked away and dodged the question.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "No pinta bien para el equipo local. ¡Les están vapuleando!",
+      "back": "Things are looking rough for the home team. They're getting manhandled!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Los jugadores están desmoralizados después de la paliza de anoche del equipo visitante.",
+      "back": "The players look demoralized after getting manhandled by the visiting team all night.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Los jugadores están impactados después del vapuleo que sufrieron por parte del equipo rival durante toda la noche.",
+      "back": "The players looked shocked at the fact they had been manhandled by the opposing team the entire night.",
+      "sourcePage": 75
+    }
+  ]
+}
