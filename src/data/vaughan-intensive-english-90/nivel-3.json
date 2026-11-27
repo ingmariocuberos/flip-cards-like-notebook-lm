@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-90",
+  "bookTitle": "Libro 90",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Cuanto más aprendes, mejor.",
+      "back": "The more you learn the better.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-002",
+      "front": "Cuanto más tiempo pasas aprendiendo, más abres tu mente.",
+      "back": "The more time you spend learning, the more you open your mind.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-003",
+      "front": "¿Es verdad que cuanto más aprendes, más avanzas?",
+      "back": "Is it true that the more you learn, the more you advance?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-004",
+      "front": "Cuanto más tiempo te dediques a enseñar, mejor se te dará enseñar.",
+      "back": "The longer you teach, the better you'll become at teaching.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-005",
+      "front": "Cuantas más clases des, antes adquirirás la habilidad.",
+      "back": "The more classes you teach, the sooner you'll get the hang of it.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-006",
+      "front": "Supongo que es verdad que cuanto más tiempo dediques a enseñar, mejor se te dará.",
+      "back": "I guess it's true that the longer you teach, the better you'll become at teaching.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-007",
+      "front": "Por mucho que aprendas, nunca llegarás al nivel de competencia de ella.",
+      "back": "No matter how much you learn, you'll never reach her level of expertise.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-008",
+      "front": "Por mucho árabe que aprendas, nunca lograrás hablarlo como un nativo.",
+      "back": "No matter how much Arabic you learn, you'll never be able to speak it like a native.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-009",
+      "front": "Por mucho que lo intentes, nunca conseguirás que aprendan nada más.",
+      "back": "No matter how hard you try, you'll never get them to learn anything else.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-010",
+      "front": "Por muy bien que se te dé enseñar, nunca serás tan bueno como él.",
+      "back": "No matter how good you are at teaching, you'll never be as good as he is.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-011",
+      "front": "Por mucho tiempo que lleves enseñando, nunca enseñarás tan bien como él.",
+      "back": "No matter how long you spend teaching, you'll never teach as well as he does.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-012",
+      "front": "Por mucho que lo intentes, nunca conseguirás enseñarles nada.",
+      "back": "No matter how hard you try, you'll never actually teach them anything.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-013",
+      "front": "Él me dijo que cuanto más aprendiera, más puertas se abrirían para mí.",
+      "back": "He told me that the more I learned the more doors would open for me.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-014",
+      "front": "Ella me dijo que por mucho árabe que aprendiera, nunca lo hablaría como un nativo.",
+      "back": "She told me that no matter how much Arabic I learned, I'd never speak it like a native.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-015",
+      "front": "Me dijeron que por mucho que lo intentara, nunca conseguiría que aprendieran nada más.",
+      "back": "They told me that no matter how hard I tried, I'd never get them to learn anything else.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-016",
+      "front": "Tenemos que educar al público sobre los peligros de conducir bajo los efectos del alcohol.",
+      "back": "We need to educate the public on the dangers of drink-driving.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-017",
+      "front": "¿Les has informado sobre la importancia de la planificación familiar?",
+      "back": "Have you educated them on the importance of family planning?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-018",
+      "front": "A estos estudiantes hay que informarles sobre los peligros del abuso de drogas.",
+      "back": "These students need to be educated on the dangers of substance abuse.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-019",
+      "front": "Ojalá hubiera tenido el privilegio de haber tenido una educación bilingüe.",
+      "back": "I wish I'd been privileged enough to have had a bilingual education.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-020",
+      "front": "El sistema educativo de Canadá es de los mejores del mundo.",
+      "back": "The educational system in Canada is among the best in the world.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-021",
+      "front": "Nuestra organización benéfica tiene el objetivo de educar a los niños africanos que actualmente no tienen acceso a una educación decente.",
+      "back": "Our charity aims to educate kids in Africa who currently don't have access to a decent education.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-022",
+      "front": "Mi madre me crió para tener respeto hacia los demás.",
+      "back": "My mother brought me up to have respect for others.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-023",
+      "front": "¡He criado a mi Howard para que pueda cuidarse por sí mismo!",
+      "back": "I brought my Howard up to look after himself!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella no ha criado a sus hijos para tener valores humanos básicos.",
+      "back": "She didn't bring her kids up to have basic human values.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-025",
+      "front": "Hace falta que me enseñen a usar el software nuevo lo antes posible.",
+      "back": "I need to be trained to use the new software package as soon as possible.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-026",
+      "front": "¡Hace falta que tu perro sea entrenado cuanto antes! ¡No hay quien lo domine!",
+      "back": "Your dog needs to be trained as soon as possible! He's out of control!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-027",
+      "front": "A Lucinda no le hace falta formación sobre cómo trabajar con los clientes. Tiene un don natural.",
+      "back": "Lucinda doesn't need to be trained to work with customers. She's a natural.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-028",
+      "front": "¡Alguien te tiene que enseñar modales, chaval!",
+      "back": "Someone needs to teach you some manners, young man!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-029",
+      "front": "¿Es que no tienes modales? ¿Naciste en un establo? ¡Cierra la puerta cuando salgas!",
+      "back": "Have you no manners? Were you born in a barn? Close that door after you!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-030",
+      "front": "¡Está claro que a ese hombre no le enseñaron modales de pequeño!",
+      "back": "That man obviously wasn't taught any manners when he was growing up!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-031",
+      "front": "Ella es una de esas personas que aprende idiomas sin esforzarse.",
+      "back": "She's one of those people that just pick up languages without difficulty.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-032",
+      "front": "¡Nos mudamos a Francia y nuestra hija de cinco años aprendió francés sin esforzarse en cuestión de segundos!",
+      "back": "We moved to France and our five-year-old daughter picked up French in no time!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-033",
+      "front": "¡Se te ha pegado el acento durante tu estancia en Gales!",
+      "back": "You've picked up an accent during your time in Wales!",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-034",
+      "front": "No creo que él haya absorbido todo; el caso es que le cuesta fijar su atención durante mucho tiempo.",
+      "back": "I don't think he took it all in; the thing is, he has a short attention span.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-035",
+      "front": "Él me dijo que había demasiada información y que no pudo absorberla toda.",
+      "back": "He told me that there was too much information and he couldn't take it all in.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-036",
+      "front": "Él entendió la mayoría del discurso, pero no lo absorbió todo.",
+      "back": "He understood most of the speech but he didn't take it all in.",
+      "sourcePage": 64
+    },
+    {
+      "id": "s3-037",
+      "front": "A Daniel le cuesta conseguir que sus alumnos capten el concepto de la semiótica.",
+      "back": "It's difficult for Daniel to get his students to grasp the concept of semiotics.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-038",
+      "front": "¡Si sólo pudiera conseguir que captaran el concepto de calentamiento global!",
+      "back": "If only I could get them to grasp the concept of global warming!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-039",
+      "front": "Ciertas herramientas e imágenes pueden usarse para ayudarles a captar este concepto.",
+      "back": "Certain tools and images can be used to help them grasp this concept.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-040",
+      "front": "¡Es impresionante cómo los niños absorben las cosas tan fácilmente!",
+      "back": "It's amazing how kids just absorb things so easily!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-041",
+      "front": "¡Los cerebros de los niños son como esponjas! Absorben las cosas muy rápidamente.",
+      "back": "Children have brains like sponges! They absorb things so easily.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-042",
+      "front": "¡Si me hubiera mudado a Inglaterra a los cuatro años, habría absorbido el inglés en cuestión de segundos!",
+      "back": "If I'd moved to England at the age of four, I'd have absorbed English in no time!",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-043",
+      "front": "Les enseñé el subjuntivo en castellano, pero aún no lo han asimilado.",
+      "back": "I taught them the Spanish subjunctive but they haven't assimilated it yet.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-044",
+      "front": "Siguen asimilando el subjuntivo; sólo se lo enseñé la semana pasada.",
+      "back": "They are still assimilating the subjunctive; I only taught them it last week.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-045",
+      "front": "Ya lo han asimilado, aunque lo aprendieron hace sólo unos días.",
+      "back": "They've already assimilated it, even though they only learned it a few days ago.",
+      "sourcePage": 65
+    },
+    {
+      "id": "s3-046",
+      "front": "¡Te han castigado! ¡Eso te enseñará!",
+      "back": "So, you've been given detention! That'll teach you!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-047",
+      "front": "¡Tu padre te ha castigado! ¡Eso te enseñará a no ser insolente con tu abuela!",
+      "back": "So, your father's grounded you! That'll teach you not to give cheek to your grandma!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-048",
+      "front": "¡Te han pillado robando! ¡Eso te enseñará a no hacerlo otra vez!",
+      "back": "So, you finally got caught shoplifting! That'll teach you not to do it again!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-049",
+      "front": "¡Finalmente la detuvieron por embriaguez y desorden! ¡Eso le enseñó!",
+      "back": "She finally got arrested for being drunk and disorderly! That taught her!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-050",
+      "front": "Pues le han despedido por llegar siempre tarde. ¡Fue una lección para él!",
+      "back": "So, he's been fired for persistent lateness. That taught him a lesson!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-051",
+      "front": "¡Oí que a Tom le pusieron una multa por exceso de velocidad! ¡Fue una lección para él!",
+      "back": "I heard that Tom finally got a speeding ticket! That taught him a lesson!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-052",
+      "front": "¿Cuántas veces tengo que decírtelo? De verdad, ¡nunca aprendes!",
+      "back": "How many times do I have to tell you?! Seriously, you never learn!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-053",
+      "front": "Uno habría pensado que él habría aprendido de sus errores, ¡pero nunca aprende!",
+      "back": "You'd have thought that he would have learned from his mistakes, but he never learns!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-054",
+      "front": "¡Te han despedido de tres puestos de trabajo por la misma razón! De verdad, ¡nunca aprendes!",
+      "back": "You've been fired from three jobs for the same reason! Honestly, you never learn!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-055",
+      "front": "¿Recibiste otra multa de estacionamiento? ¿Es que nunca vas a aprender?",
+      "back": "Did you get another parking fine? Are you ever going to learn?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-056",
+      "front": "¡No me digas que lo has vuelto a hacer! En serio, ¿es que nunca vas a aprender?",
+      "back": "Don't tell me you did it again! Honestly, are you ever going to learn?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-057",
+      "front": "¿Me estás diciendo que te han detenido otra vez? En serio, ¿nunca vas a aprender?",
+      "back": "Are you telling me that you got arrested yet again? Seriously, are you ever going to learn?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-058",
+      "front": "¿Cuándo vas a aprender que el dinero no crece en los árboles?",
+      "back": "When are you going to learn that money doesn't grow on trees?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-059",
+      "front": "¿Cuándo va a aprender ella que no puede actuar como una desesperada cuando está con un chico?",
+      "back": "When is she going to learn that she can't act desperate when she's with a guy?!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-060",
+      "front": "¿Cuándo vas a aprender que tienes que respetar a la autoridad?",
+      "back": "When are you going to learn that you need to respect authority?!",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-061",
+      "front": "Con la tecnología moderna, la educación a distancia se ha hecho más fácil.",
+      "back": "With modern technology, distance learning has become easier.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-062",
+      "front": "En los últimos años la educación a distancia se ha hecho popular.",
+      "back": "Distance learning has become popular in recent years.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-063",
+      "front": "La educación a distancia ayuda a la gente a combinar su carrera profesional y su educación.",
+      "back": "Distance learning helps people juggle their career and their education.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-064",
+      "front": "Lo que me encanta de los cursos online es que puedo aprender a mi propio ritmo.",
+      "back": "What I love about online courses is that I can learn at my own pace.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-065",
+      "front": "Los cursos online son especialmente buenos para aquellas personas que viven en zonas rurales y no pueden asistir a clases.",
+      "back": "Online courses are especially good for those who live in rural areas and can't get to class.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-066",
+      "front": "Lo que me fascina de los cursos online es que puedo realizarlos en mi tiempo libre.",
+      "back": "What I love about online courses is that I can do them in my own time.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-067",
+      "front": "Tengo un tutor personal porque aprendo más en clases particulares.",
+      "back": "I have a personal tutor because I learn more in private lessons.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-068",
+      "front": "No puedo soportar las clases grupales porque no saco nada de ellas. Prefiero las clases particulares.",
+      "back": "I can't stand group classes because I get nothing out of them. I prefer private lessons.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-069",
+      "front": "Yo solía tener un tutor francés. Si puedes costearlo, ¡yo siempre recomiendo clases particulares!",
+      "back": "I used to have a private French tutor. If you can afford it, I always recommend private lessons!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-070",
+      "front": "Me acabo de comprar un libro para aprender por mí mismo polaco. ¡Ahora estoy listo para mi viaje a Cracovia!",
+      "back": "I've just bought myself a teach-yourself Polish pack. Now I'm all set for my trip to Krakow!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-071",
+      "front": "Desde que me compré la guía para aprender a jugar ajedrez, ¡me he convertido en una experta!",
+      "back": "Since I bought myself that teach-yourself chess guide, I've become a chess expert!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-072",
+      "front": "Mi guía de estudio de danés está ahora mismo acumulando polvo en mi estantería.",
+      "back": "My teach-yourself Danish pack is currently gathering dust on my bookshelf.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-073",
+      "front": "Dicen que cuando aprendes un idioma, más del 80% de lo que se te queda es lo que has aprendido mientras estudias por tu cuenta.",
+      "back": "They say that when you learn a language, over 80% of what you pick up is through self-study.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-074",
+      "front": "¿Es cierto que cuando aprendes un idioma más del 80% de lo que se te queda es a través del estudio que realizas por tu cuenta?",
+      "back": "Is it true that when you learn a language, over 80% of what you pick up is through self-study?",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-075",
+      "front": "No puedo subestimar la importancia de estudiar por cuenta propia.",
+      "back": "I cannot underestimate the importance of self-study.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-076",
+      "front": "Intentamos enseñarle a conducir, pero a un perro viejo no se le pueden enseñar trucos nuevos.",
+      "back": "We tried to teach him to drive but you can't teach an old dog new tricks.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-077",
+      "front": "Eso demuestra que a un perro viejo no se le pueden enseñar trucos nuevos.",
+      "back": "It just goes to show, you can't teach an old dog new tricks!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-078",
+      "front": "Dicen que a un perro viejo no se le pueden enseñar trucos nuevos, pero al abuelo le encantan las redes sociales.",
+      "back": "They say you can't teach an old dog new tricks but grandpa loves social media!",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-079",
+      "front": "¡Quédate aquí! Podrías aprender algo.",
+      "back": "Stick around! You could learn a thing or two.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-080",
+      "front": "Eso demuestra que si escuchas lo que él dice podrías aprender algo.",
+      "back": "It just goes to show that if you listen to what he has to say you could learn a thing or two.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-081",
+      "front": "Quédate aquí y escucha lo que él dice. Podrías aprender algo.",
+      "back": "Stick around and listen to what he has to say. You could learn a thing or two.",
+      "sourcePage": 74
+    },
+    {
+      "id": "s3-082",
+      "front": "Aprendí mi lección después de hacer eso, pero tuve que aprenderla a golpes.",
+      "back": "I learned my lesson after I did that but I had to learn the hard way.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-083",
+      "front": "Lo intenté, pero aprendí a las malas que a un perro viejo no se le pueden enseñar trucos nuevos.",
+      "back": "I tried, but I learned the hard way that you can't teach an old dog new tricks.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-084",
+      "front": "Puedes aprenderlo fácilmente o a la fuerza; ¡tú decides!",
+      "back": "You can either learn the easy way or the hard way; your choice!",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-085",
+      "front": "Yo que tú, no entraría en pánico. Aún estás pillando el truco.",
+      "back": "I wouldn't panic if I were you. You're still learning the ropes.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-086",
+      "front": "Yo que tú, no sería tan duro con él. Aún está pillando el truco.",
+      "back": "I wouldn't be so hard on him if I were you. He's still learning the ropes.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-087",
+      "front": "Él aún está pillando el truco. Dale seis meses y será un gran recurso.",
+      "back": "He's still learning the ropes. Give him six months and he'll be a great asset.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-088",
+      "front": "Aprendimos a golpes que necesitamos concienciar al público sobre conducir con alcohol.",
+      "back": "We learned the hard way that we need to educate the public on drink-driving.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-089",
+      "front": "Lleva tiempo pillarle el truco. Hay que interiorizar mucha información.",
+      "back": "It takes a while to learn the ropes. There's a lot of information to take in.",
+      "sourcePage": 75
+    },
+    {
+      "id": "s3-090",
+      "front": "Por mucho que sepas, aún podrías aprender algo.",
+      "back": "No matter how much you know you could still learn a thing or two.",
+      "sourcePage": 75
+    }
+  ]
+}

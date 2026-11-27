@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-90",
+  "bookTitle": "Libro 90",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Estoy estudiando alemán.",
+      "back": "I'm learning German.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-002",
+      "front": "Greg está estudiando portugués.",
+      "back": "Greg's learning Portuguese.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-003",
+      "front": "Ana está estudiando inglés.",
+      "back": "Ana's learning English.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-004",
+      "front": "Estoy aprendiendo a conducir.",
+      "back": "I'm learning how to drive.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-005",
+      "front": "Will está aprendiendo a cocinar.",
+      "back": "Will's learning how to cook.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-006",
+      "front": "Natalie está aprendiendo a escribir con el ordenador.",
+      "back": "Natalie's learning how to type.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-007",
+      "front": "Estoy estudiando alemán en una academia.",
+      "back": "I'm learning German at an academy.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-008",
+      "front": "Greg está aprendiendo portugués en el colegio.",
+      "back": "Greg's learning Portuguese at school.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-009",
+      "front": "Ana está aprendiendo inglés en una academia.",
+      "back": "Ana's learning English at an academy.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-010",
+      "front": "¿Por qué estás aprendiendo a conducir? Es por el trabajo.",
+      "back": "Why are you learning to drive? It's for work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-011",
+      "front": "¿Por qué está Natalie aprendiendo a escribir con el ordenador? Es para su trabajo.",
+      "back": "Why's Natalie learning to type? It's for her job.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-012",
+      "front": "¿Por qué está él aprendiendo a conducir? Es por el trabajo.",
+      "back": "Why is he learning to drive? It's for work.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-013",
+      "front": "Greg está estudiando portugués porque lo necesita.",
+      "back": "Greg's learning Portuguese because he needs to.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-014",
+      "front": "Ana está estudiando inglés porque quiere.",
+      "back": "Ana's learning English because she wants to.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-015",
+      "front": "Estoy estudiando francés porque lo necesito.",
+      "back": "I'm learning French because I need to.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-016",
+      "front": "Mi mujer enseña yoga por las tardes.",
+      "back": "My wife teaches yoga in the evening.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-017",
+      "front": "Mi marido enseña contabilidad por las mañanas.",
+      "back": "My husband teaches accounting in the morning.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-018",
+      "front": "¿Enseñas matemáticas por las tardes?",
+      "back": "Do you teach maths in the evening?",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-019",
+      "front": "Mi madre enseña en un instituto.",
+      "back": "My mum teaches at a high school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-020",
+      "front": "Mi padre enseña en una escuela primaria.",
+      "back": "My dad teaches at an elementary school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-021",
+      "front": "Mi mujer enseña en una escuela primaria.",
+      "back": "My wife teaches at a primary school.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-022",
+      "front": "Enseño Geografía en un instituto.",
+      "back": "I'm teaching Geography in a high school.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-023",
+      "front": "Mi mujer enseña Matemáticas en una escuela primaria.",
+      "back": "My wife's teaching Maths in an elementary school.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-024",
+      "front": "Tu marido no enseña Ciencias en un instituto, enseña en una universidad.",
+      "back": "Your husband isn't teaching Science in a high school, he's teaching in a university.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-025",
+      "front": "George está enseñando inglés a media jornada.",
+      "back": "George is teaching English part-time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-026",
+      "front": "Ethel está dando clases de Matemáticas a jornada completa.",
+      "back": "Ethel is teaching Maths full-time.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-027",
+      "front": "¿Estás enseñando alemán a media jornada o a jornada completa?",
+      "back": "Are you teaching German part-time or full-time?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-028",
+      "front": "Estoy enseñándole a él a escribir a máquina.",
+      "back": "I'm teaching him how to type.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Estás enseñándola a conducir?",
+      "back": "Are you teaching her how to drive?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-030",
+      "front": "No estoy enseñándoles a cocinar.",
+      "back": "I'm not teaching them how to cook.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-031",
+      "front": "Me encanta aprender alemán.",
+      "back": "I love learning German.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-032",
+      "front": "A Ethel le encanta aprender a cocinar.",
+      "back": "Ethel loves learning how to cook.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-033",
+      "front": "A Natalie le encanta aprender a escribir a máquina.",
+      "back": "Natalie loves learning how to type.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-034",
+      "front": "Me gusta mucho aprender cosas nuevas.",
+      "back": "I really like to learn new things.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-035",
+      "front": "A Hannah no le gusta mucho aprender cosas nuevas.",
+      "back": "Hannah doesn't really like to learn new things.",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-036",
+      "front": "¿A Craig le gusta mucho aprender cosas nuevas?",
+      "back": "Does Craig really like to learn new things?",
+      "sourcePage": 8
+    },
+    {
+      "id": "s1-037",
+      "front": "Sabrina disfruta aprendiendo a cocinar.",
+      "back": "Sabrina enjoys learning how to cook.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-038",
+      "front": "Natalie no disfruta aprendiendo a conducir.",
+      "back": "Natalie doesn't enjoy learning how to drive.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-039",
+      "front": "Ana disfruta mucho aprendiendo a escribir a máquina.",
+      "back": "Ana enjoys learning how to type.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-040",
+      "front": "A John le gusta aprender alemán.",
+      "back": "John likes learning German.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-041",
+      "front": "A Ethel no le gusta aprender a cocinar.",
+      "back": "Ethel doesn't like to learn how to cook.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-042",
+      "front": "A Philip le gusta aprender a conducir.",
+      "back": "Philip likes to learn how to drive.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-043",
+      "front": "Lisa odia aprender cosas nuevas.",
+      "back": "Lisa hates learning new things.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-044",
+      "front": "Philip odia aprender a escribir a máquina. Tampoco se le da bien.",
+      "back": "Philip hates learning how to type. He's not very good at it either.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-045",
+      "front": "John odia aprender francés.",
+      "back": "John hates learning French.",
+      "sourcePage": 9
+    },
+    {
+      "id": "s1-046",
+      "front": "Lucinda quiere enseñar inglés.",
+      "back": "Lucinda wants to teach English.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-047",
+      "front": "Stephanie quiere enseñar Arte.",
+      "back": "Stephanie wants to teach Art.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-048",
+      "front": "¿Charlotte quiere enseñar Historia?",
+      "back": "Does Charlotte want to teach History?",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-049",
+      "front": "Me gusta enseñar inglés a adultos.",
+      "back": "I like teaching English to adults.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-050",
+      "front": "A ella le gusta enseñar alemán a niños.",
+      "back": "She likes teaching German to children.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-051",
+      "front": "A Greg le gusta enseñar francés a sus hijos.",
+      "back": "Greg likes teaching French to his children.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-052",
+      "front": "Ella disfruta mucho enseñando inglés a adultos.",
+      "back": "She really enjoys teaching adults English.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-053",
+      "front": "Disfrutan mucho enseñando Ciencias a niños.",
+      "back": "They really enjoy teaching children Science.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-054",
+      "front": "Él disfruta enseñando Historia a niños.",
+      "back": "He enjoys teaching children History.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-055",
+      "front": "Cuando él sea mayor, quiere enseñar.",
+      "back": "When he grows up, he wants to teach.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-056",
+      "front": "Cuando yo sea mayor, quiero enseñar Ciencias a niños.",
+      "back": "When I grow up, I want to teach children Science.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-057",
+      "front": "Cuando ella sea mayor, quiere enseñar Arte a niños.",
+      "back": "When she grows up, she wants to teach Art to children.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-058",
+      "front": "Quiero ser profesora de escuela primaria cuando sea mayor.",
+      "back": "I want to be an elementary school teacher when I grow up.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-059",
+      "front": "Cuando sea mayor, quiero ser profesora de escuela primaria.",
+      "back": "When I grow up, I want to be a primary school teacher.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-060",
+      "front": "Ella quiere ser profesora de instituto cuando sea mayor.",
+      "back": "She wants to be a high school teacher when she grows up.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-061",
+      "front": "Aprendemos de nuestros errores.",
+      "back": "We learn from our mistakes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-062",
+      "front": "Necesitas aprender de tus errores.",
+      "back": "You need to learn from your mistakes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-063",
+      "front": "Normalmente aprendemos de nuestros errores.",
+      "back": "We normally learn from our mistakes.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-064",
+      "front": "Puedes aprender de ella.",
+      "back": "You can learn from her.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-065",
+      "front": "Aprende de él. Tiene mucho que enseñarte.",
+      "back": "Learn from him. He has a lot to teach you.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-066",
+      "front": "Puedes aprender de mí. Tengo años de experiencia.",
+      "back": "You can learn from me. I have years of experience.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-067",
+      "front": "Cuando cometas un error, aprende de él.",
+      "back": "Whenever you make a mistake, learn from it.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-068",
+      "front": "Si cometes un error, aprende de él.",
+      "back": "If you make a mistake, learn from it.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-069",
+      "front": "Si cometes un error, no te sientas mal; aprende de él.",
+      "back": "If you make a mistake, don't feel bad; learn from it.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-070",
+      "front": "Todos aprendemos del pasado.",
+      "back": "All of us learn from the past.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-071",
+      "front": "No todos aprendemos del pasado.",
+      "back": "Not all of us learn from the past.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-072",
+      "front": "Algunos de nosotros aprendemos del pasado.",
+      "back": "Some of us learn from the past.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-073",
+      "front": "Estoy aprendiendo de un libro.",
+      "back": "I'm learning from a book.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-074",
+      "front": "Él está aprendiendo de un CD.",
+      "back": "He's learning from a CD.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-075",
+      "front": "¿Él está aprendiendo de un libro o de un CD?",
+      "back": "Is he learning from a book or a CD?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-076",
+      "front": "Mañana voy a dar una clase de Estadística.",
+      "back": "I'm teaching a class on statistics tomorrow.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-077",
+      "front": "Él va a dar una clase de Geometría la semana que viene.",
+      "back": "He's teaching a class on geometry next week.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Vas a dar una clase de Contabilidad después de comer?",
+      "back": "Are you teaching a class on accounting after lunch?",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-079",
+      "front": "Doy clases particulares de Informática.",
+      "back": "I offer private computing classes.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-080",
+      "front": "Joyce da clases particulares de Piano.",
+      "back": "Joyce offers private piano lessons.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-081",
+      "front": "Sabrina no da clases particulares de alemán.",
+      "back": "Sabrina doesn't offer private German classes.",
+      "sourcePage": 18
+    },
+    {
+      "id": "s1-082",
+      "front": "Doy clases de español por las tardes.",
+      "back": "I give Spanish classes in the evening.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-083",
+      "front": "Clive da clases de Piano los fines de semana.",
+      "back": "Clive gives piano lessons at the weekend.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-084",
+      "front": "Henry da clases de Informática por las mañanas.",
+      "back": "Henry gives computing classes in the morning.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Me enseñas los comparativos?",
+      "back": "Can you teach me the comparatives?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-086",
+      "front": "Te puedo enseñar los verbos irregulares.",
+      "back": "I can teach you the irregular verbs.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-087",
+      "front": "Lucinda no te puede enseñar las reglas.",
+      "back": "Lucinda can't teach you the rules.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Me puedes enseñar a hacer eso?",
+      "back": "Can you teach me how to do that?",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-089",
+      "front": "Te puedo enseñar a escribir con el ordenador.",
+      "back": "I can teach you how to type.",
+      "sourcePage": 19
+    },
+    {
+      "id": "s1-090",
+      "front": "Jeremy te puede enseñar a cocinar.",
+      "back": "Jeremy can teach you how to cook.",
+      "sourcePage": 19
+    }
+  ]
+}

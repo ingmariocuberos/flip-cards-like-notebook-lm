@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-90",
+  "bookTitle": "Libro 90",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Enseñé en una escuela secundaria durante años.",
+      "back": "I taught at a high school for years.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-002",
+      "front": "James enseñó en una escuela primaria durante años.",
+      "back": "James taught at an elementary school for years.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-003",
+      "front": "Anita enseñó en una escuela primaria durante muchos años.",
+      "back": "Anita taught at a primary school for many years.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-004",
+      "front": "Nunca he enseñado inglés a niños.",
+      "back": "I've never taught English to children.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-005",
+      "front": "James nunca ha enseñado alemán a adultos.",
+      "back": "James has never taught German to adults.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-006",
+      "front": "David nunca ha enseñado informática a adolescentes.",
+      "back": "David has never taught computing to teenagers.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-007",
+      "front": "Adam me enseñó los verbos irregulares.",
+      "back": "Adam taught me the irregular verbs.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-008",
+      "front": "Clive me enseñó el condicional.",
+      "back": "Clive taught me the conditional.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-009",
+      "front": "Scott me enseñó el pasado continuo.",
+      "back": "Scott taught me the past continuous.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-010",
+      "front": "Clive me enseñó a conducir.",
+      "back": "Clive taught me how to drive.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-011",
+      "front": "Richard me enseñó a cocinar.",
+      "back": "Richard taught me how to cook.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-012",
+      "front": "Martha me enseñó a coser.",
+      "back": "Martha taught me how to sew.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-013",
+      "front": "Enseñaba alemán a media jornada mientras estaba en la universidad.",
+      "back": "I taught German part-time while I was at university.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-014",
+      "front": "Richard enseñaba inglés a jornada completa mientras estaba viviendo en España.",
+      "back": "Richard taught English full-time while he was living in Spain.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-015",
+      "front": "Steven enseñaba informática a jornada completa mientras estaba viviendo en Glasgow.",
+      "back": "Steven taught computing full-time while he was living in Glasgow.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-016",
+      "front": "Aprendí inglés en el colegio.",
+      "back": "I learned English at school.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-017",
+      "front": "Él aprendió estadística en la universidad.",
+      "back": "He learned statistics at university.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-018",
+      "front": "Ella aprendió francés en Quebec.",
+      "back": "She learned French in Quebec.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-019",
+      "front": "No he aprendido el condicional todavía.",
+      "back": "I haven't learnt the conditional yet.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-020",
+      "front": "Ya he aprendido los verbos irregulares.",
+      "back": "I've already learnt the irregular verbs.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-021",
+      "front": "¿Has aprendido ya el pasado continuo?",
+      "back": "Have you learnt the past continuous yet?",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-022",
+      "front": "Aprendí a conducir cuando tenía dieciocho años.",
+      "back": "I learned how to drive when I was eighteen.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-023",
+      "front": "Ella aprendió a cocinar el año pasado.",
+      "back": "She learned how to cook last year.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-024",
+      "front": "Aprendimos a leer y a escribir cuando éramos niños.",
+      "back": "We learned how to read and write when we were children.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-025",
+      "front": "Él nunca ha aprendido de sus fallos.",
+      "back": "He's never learnt from his mistakes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-026",
+      "front": "Yo siempre he aprendido de mis fallos.",
+      "back": "I've always learnt from my mistakes.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-027",
+      "front": "¿Ella ha aprendido de sus fallos?",
+      "back": "Has she learnt from her mistakes?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-028",
+      "front": "Aprendí de los mejores.",
+      "back": "I learned from the best!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-029",
+      "front": "Ahora ya eres un maestro porque aprendiste de los mejores.",
+      "back": "You're a maestro now because you learned from the best.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-030",
+      "front": "Soy tan afortunado... ¡la verdad es que aprendí de los mejores!",
+      "back": "I'm so fortunate; I really learned from the best!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Has pensado alguna vez en dar clases como profesión?",
+      "back": "Have you ever thought about teaching as a profession?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-032",
+      "front": "¿Por qué nunca has pensado en la enseñanza como opción de carrera profesional?",
+      "back": "Why haven't you ever thought about teaching as a career choice?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-033",
+      "front": "¿Has considerado alguna vez la enseñanza como profesión?",
+      "back": "Have you ever considered teaching as a profession?",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-034",
+      "front": "Comencé a dar clases después de graduarme en la universidad.",
+      "back": "I went into teaching after graduating from university.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-035",
+      "front": "Comencé a dar clases como un cambio de carrera profesional.",
+      "back": "I went into teaching as a career change.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-036",
+      "front": "Comencé a dar clases para contribuir a cambiar las cosas.",
+      "back": "I went into teaching to make a difference.",
+      "sourcePage": 36
+    },
+    {
+      "id": "s2-037",
+      "front": "Llevo desde hace demasiado tiempo dando clases.",
+      "back": "I've been teaching for far too long.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-038",
+      "front": "John lleva ya demasiado tiempo dando clases, y se nota.",
+      "back": "John's been teaching for far too long and it shows.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-039",
+      "front": "Sonia lleva ya tanto tiempo dando clases que ha perdido su chispa.",
+      "back": "Sonia's been teaching for so long that she's lost her touch.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-040",
+      "front": "Vivo de dar clases.",
+      "back": "I make a living teaching.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-041",
+      "front": "Siempre he vivido de dar clases.",
+      "back": "I've always made a living teaching.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-042",
+      "front": "¿Alguna vez has pensado en vivir de la enseñanza?",
+      "back": "Have you ever thought about making a living teaching?",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-043",
+      "front": "Las enseñanzas de Gandhi han inspirado a millones de personas en todo el mundo.",
+      "back": "Gandhi's teachings have inspired millions of people worldwide.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-044",
+      "front": "Las enseñanzas del Dalai Lama sobre la meditación han ayudado a millones de personas en todo el mundo.",
+      "back": "The Dalai Lama's teachings on meditation have helped millions around the world.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-045",
+      "front": "Las enseñanzas de la Madre Teresa sobre el amor han inspirado a millones de personas en todo el mundo.",
+      "back": "Mother Teresa's teachings on love have inspired millions the world over.",
+      "sourcePage": 37
+    },
+    {
+      "id": "s2-046",
+      "front": "Me enteré de eso ayer.",
+      "back": "I learned about it yesterday.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-047",
+      "front": "Ella se enteró de eso la semana pasada.",
+      "back": "She learned about it last week.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Cuándo te enteraste de eso?",
+      "back": "When did you learn about it?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-049",
+      "front": "Jessie estaba conduciendo hacia casa cuando se enteró de eso.",
+      "back": "Jessie was driving home when she learned about it.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-050",
+      "front": "Estaba caminando de regreso a casa cuando me enteré de eso.",
+      "back": "I was walking home when I learned about it.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-051",
+      "front": "¿Qué estabas haciendo cuando te enteraste de eso?",
+      "back": "What were you doing when you learned about it?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-052",
+      "front": "Me enteré de su muerte de ella ayer.",
+      "back": "I found out about her death yesterday.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Cuándo te enteraste de su muerte de él?",
+      "back": "When did you find out about his death?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-054",
+      "front": "Mike se enteró de su muerte de él la semana pasada.",
+      "back": "Mike found out about his death last week.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-055",
+      "front": "Él no pudo averiguar por qué no arrancaba su motocicleta.",
+      "back": "He couldn't figure out why his motorbike wouldn't start.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-056",
+      "front": "Finalmente pude averiguar quién lo hizo.",
+      "back": "I finally figured out who did it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Pudiste averiguar por qué el coche no arrancaba?",
+      "back": "Did you manage to figure out why your car wouldn't start?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-058",
+      "front": "Le ascendieron después de descubrir la identidad del asesino.",
+      "back": "He was promoted after he discovered the identity of the murderer.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-059",
+      "front": "Después de varios meses de investigación, finalmente descubrieron la identidad del hombre.",
+      "back": "After months of investigation, they finally discovered the identity of the man.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-060",
+      "front": "Descubrí quién era él por casualidad.",
+      "back": "I discovered who he was by chance.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-061",
+      "front": "Las prácticas están muy bien para aprender el trabajo.",
+      "back": "Apprenticeships are great for learning on the job.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-062",
+      "front": "Las prácticas están muy bien para aquéllos que prefieren aprender mientras trabajan.",
+      "back": "Apprenticeships are great for those who prefer to learn on the job.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-063",
+      "front": "Es aprendiz. Está haciendo su aprendizaje con nosotros.",
+      "back": "He's an apprentice. He's doing his apprenticeship with us.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-064",
+      "front": "Es becario. Está haciendo prácticas en una empresa muy reconocida.",
+      "back": "He's an intern. He's doing his internship in a very reputable company.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-065",
+      "front": "Aprendí un montón cuando hice mis prácticas.",
+      "back": "I learned a great deal when I did my internship.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-066",
+      "front": "Me contrataron tan pronto como acabaron mis prácticas.",
+      "back": "They hired me as soon as my internship came to an end.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-067",
+      "front": "Realizaremos un taller el viernes sobre cómo ser más asertivo.",
+      "back": "We're running a workshop on Friday on how to be more assertive.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-068",
+      "front": "La semana que viene impartirán un taller sobre gestión del tiempo.",
+      "back": "They're running a workshop next week on time management.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-069",
+      "front": "He oído que llevarán a cabo un taller la semana que viene sobre asertividad.",
+      "back": "I heard they're running a workshop next week on assertiveness.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-070",
+      "front": "Hemos creado un curso formativo sobre qué hacer en caso de incendio.",
+      "back": "We've set up a training session on what to do in case of a fire.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-071",
+      "front": "Hemos creado una sesión formativa sobre qué hacer en caso de terremoto.",
+      "back": "We've set up a training session on what to do in case of an earthquake.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-072",
+      "front": "La asistencia al curso formativo es obligatoria.",
+      "back": "Attendance at the training session is mandatory.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-073",
+      "front": "Nuestros cursos de capacitación le permitirán alcanzar su máximo potencial.",
+      "back": "Our coaching sessions will help you to reach your maximum potential.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-074",
+      "front": "Ofrecemos cursos de capacitación para aprender a mejorar tu autoestima.",
+      "back": "We offer coaching sessions on how to improve your self-esteem.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-075",
+      "front": "Nuestros cursos de capacitación te ayudarán a convertirte en una persona más positiva.",
+      "back": "Our coaching sessions will help you to become a more positive person.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Ya te has aprendido el discurso?",
+      "back": "Have you learned the speech yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Por qué no te has aprendido aún el discurso?",
+      "back": "Why haven't you learned the speech yet?",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-078",
+      "front": "¡No me puedo creer que aún no te hayas aprendido el discurso!",
+      "back": "I can't believe you haven't learned the speech yet!",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-079",
+      "front": "Ya me he aprendido el guion de memoria.",
+      "back": "I've already learnt the script by heart.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-080",
+      "front": "Ella ya se ha aprendido el guion entero de memoria.",
+      "back": "She's already learned the entire script by heart.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-081",
+      "front": "Ya se han aprendido el guion entero de memoria.",
+      "back": "They've already learned the whole script by heart.",
+      "sourcePage": 46
+    },
+    {
+      "id": "s2-082",
+      "front": "¿Cómo esperas hacerlo bien en el escenario si todavía estás memorizando tu papel?",
+      "back": "How do you expect to be good on stage if you're still learning your lines?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-083",
+      "front": "¿Todavía estás memorizando tu papel? ¡Mañana es el estreno!",
+      "back": "Are you still learning your lines? Tomorrow's opening night!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-084",
+      "front": "¡No me puedo creer que todavía estés memorizando tu papel! ¡Mañana es el estreno!",
+      "back": "I can't believe you're still learning your lines! Tomorrow's opening night!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-085",
+      "front": "¿Ya ha aprendido el alfabeto tu sobrino?",
+      "back": "Has your nephew learned the alphabet yet?",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-086",
+      "front": "¡Aún no he aprendido el alfabeto en alemán!",
+      "back": "I haven't learned the German alphabet yet!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-087",
+      "front": "¡Aún no he conseguido aprender el alfabeto en francés!",
+      "back": "I haven't managed to learn the French alphabet yet!",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-088",
+      "front": "No tardé mucho en aprenderme la letra de la canción.",
+      "back": "It didn't take me long to learn the lyrics to the song.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-089",
+      "front": "El cantante tardó siglos en aprenderse la letra de la canción.",
+      "back": "It took the singer ages to learn the lyrics to the song.",
+      "sourcePage": 47
+    },
+    {
+      "id": "s2-090",
+      "front": "¡He tardado siglos en aprenderme la letra de la canción!",
+      "back": "It's taken me ages to learn the lyrics to the song!",
+      "sourcePage": 47
+    }
+  ]
+}
