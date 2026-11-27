@@ -216,3 +216,6 @@ El libro 90 tiene 84 páginas PDF individuales; se reconocieron directamente en 
 
 
 El libro 91 tiene 84 páginas PDF individuales; se reconocieron directamente en `sources/english/Libro 91.ocr.txt`, sin dividirlas. Focus Points: PDF 4–9 y 14–19 (básico), 32–37 y 42–47 (intermedio), 60–65 y 70–75 (avanzado). Se transcribieron 90 / 120 / 90 tarjetas; el intermedio incluye las tres variantes deal with / handle / manage de cada ejemplo de las páginas 40–41 impresas (PDF 36–37). Se corrigieron erratas y discrepancias.
+
+
+El libro 92 tiene 82 páginas PDF individuales; se reconocieron directamente en `sources/english/Libro 92.ocr.txt`, sin dividirlas. Focus Points: PDF 2–7 y 12–17 (básico), 30–35 y 40–45 (intermedio), 58–63 y 68–73 (avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.

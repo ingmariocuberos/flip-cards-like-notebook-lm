@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-92",
+  "bookTitle": "Libro 92",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "El guía nos condujo a la sala de exposiciones.",
+      "back": "The guide led us to the exhibition room.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-002",
+      "front": "El bombero les guió hasta una zona segura.",
+      "back": "The fireman led them to safety.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-003",
+      "front": "El perro rastreador les guió al escenario del crimen.",
+      "back": "The sniffer dog led them to the crime scene.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-004",
+      "front": "El camino llevó al parque.",
+      "back": "The path led to the park.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-005",
+      "front": "La callejuela llevó al cementerio.",
+      "back": "The alley led to the cemetery.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-006",
+      "front": "La carretera llevó a la intersección.",
+      "back": "The road led to the junction.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-007",
+      "front": "Llevó una vida fácil.",
+      "back": "He led an easy life.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-008",
+      "front": "Llevaron una vida dura.",
+      "back": "They led a hard life.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-009",
+      "front": "Mi padre llevó una vida fácil, pero mi tío llevó una vida dura.",
+      "back": "My father led an easy life, but my uncle led a hard life.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-010",
+      "front": "El entrenador llevó al equipo a la victoria.",
+      "back": "The coach led the team to victory.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-011",
+      "front": "Su pésima planificación financiera les llevó a la quiebra.",
+      "back": "Their bad financial planning led them to bankruptcy.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-012",
+      "front": "El ultimátum les llevó a actuar.",
+      "back": "The ultimatum led them to take action.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-013",
+      "front": "Martha iba delante.",
+      "back": "Martha led the way.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-014",
+      "front": "Mi padre iba delante y luego nos perdimos.",
+      "back": "My father led the way then we got lost.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-015",
+      "front": "No conocía la zona, por eso Philip iba delante, pero nos perdimos.",
+      "back": "I didn't know the area so Philip led the way, but we got lost.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-016",
+      "front": "Seguí al autobús.",
+      "back": "I followed the bus.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-017",
+      "front": "Sylvie siguió al taxi.",
+      "back": "Sylvie followed the taxi.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-018",
+      "front": "Lorraine siguió al coche.",
+      "back": "Lorraine followed the car.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-019",
+      "front": "Seguí la receta, pero aun así estropeé el cocido.",
+      "back": "I followed the recipe but I still ruined the stew.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-020",
+      "front": "Ella siguió la receta, pero aun así estropeó la tarta.",
+      "back": "She followed the recipe but she still ruined the cake.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-021",
+      "front": "Ellos siguieron la receta, pero aun así estropearon el pastel.",
+      "back": "They followed the recipe but they still ruined the pie.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-022",
+      "front": "Seguí las instrucciones, pero aun así no pude montar el escritorio.",
+      "back": "I followed the instructions but I still couldn't put the desk together.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-023",
+      "front": "Fernando siguió las instrucciones, pero aun así no pudo montar el armario.",
+      "back": "Fernando followed the instructions but he still couldn't put the cabinet together.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-024",
+      "front": "Adrian siguió las instrucciones, pero aun así no pudo montar el armario.",
+      "back": "Adrian followed the instructions but he still couldn't put the cupboard together.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-025",
+      "front": "Siempre he seguido las reglas.",
+      "back": "I've always followed the rules.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-026",
+      "front": "Él nunca ha seguido las reglas. Es muy rebelde.",
+      "back": "He's never followed the rules. He's such a rebel.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-027",
+      "front": "Ella siempre ha seguido sus propias reglas. Es muy rebelde.",
+      "back": "She's always followed her own rules. She's such a rebel.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-028",
+      "front": "Siempre he seguido los dictados de mi corazón.",
+      "back": "I've always followed my heart.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-029",
+      "front": "Él siempre ha seguido los dictados de su corazón, nunca se guía por su cabeza.",
+      "back": "He's always followed his heart, never his head.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-030",
+      "front": "Seguí los dictados de mi corazón y sé que tomé la decisión correcta.",
+      "back": "I followed my heart and I know I made the right choice.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-031",
+      "front": "Él tomó la delantera a mediados de la última vuelta.",
+      "back": "He took the lead halfway through the last lap.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-032",
+      "front": "Ella tomó la delantera justo antes de terminar la carrera.",
+      "back": "She took the lead just before the end of the race.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-033",
+      "front": "¡No puedo creer que ese ciclista haya tomado la delantera a mediados de la última vuelta!",
+      "back": "I can't believe that cyclist's just taken the lead halfway through the last lap!",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-034",
+      "front": "El otro corredor perdió la carrera a pesar de tener una ventaja de tres minutos.",
+      "back": "The other runner lost the race despite having a three-minute lead.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-035",
+      "front": "Ella perdió la carrera a pesar de tener una ventaja de cinco minutos.",
+      "back": "She lost the race despite the fact that she had a five-minute lead.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-036",
+      "front": "Ella ganó la carrera a pesar de que los otros corredores tenían una ventaja de tres minutos.",
+      "back": "She won the race in spite of the fact that the other runners had a three-minute lead.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-037",
+      "front": "Cuando ella empezó a ofrecer café gratis a los clientes, todas las otras peluquerías siguieron su ejemplo.",
+      "back": "When she started offering free coffee to her clients all the other salons followed her lead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-038",
+      "front": "Su padre era médico y esperaba que ella siguiera su ejemplo para estudiar Medicina.",
+      "back": "Her father was a doctor and he expected her to follow his lead and study medicine.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-039",
+      "front": "Sin embargo, no quiso seguir su ejemplo y estudió Ingeniería.",
+      "back": "However, she didn't want to follow his lead so she studied engineering.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-040",
+      "front": "¿Para qué se usa el plomo?",
+      "back": "What's lead used for?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-041",
+      "front": "El plomo se usa para muchas cosas diferentes.",
+      "back": "Lead's used for many different things.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-042",
+      "front": "Por ejemplo, se usa para crear escudos contra la radiación.",
+      "back": "For example, lead's used to create radiation shields.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-043",
+      "front": "Me he quedado sin mina en el lápiz.",
+      "back": "I've run out of pencil lead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-044",
+      "front": "El suyo (de ella) se ha quedado sin mina también.",
+      "back": "Hers has run out of lead too.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-045",
+      "front": "¿Tienes un lápiz de sobra? El mío se ha quedado sin mina.",
+      "back": "Do you have a spare pencil? Mine's run out of lead.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-046",
+      "front": "¡Él me sigue a dondequiera que vaya!",
+      "back": "He follows me everywhere I go!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "¡Ella lo sigue a donde él vaya! ¡Es una acosadora!",
+      "back": "She follows him everywhere he goes! She's a stalker!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "¿Por qué me sigues a todos lados donde voy?",
+      "back": "Why do you follow me everywhere I go?",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Creo que ese hombre me está siguiendo.",
+      "back": "I think that guy's following me around.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Estoy segura de que esa chica me está siguiendo. ¡Es una acosadora!",
+      "back": "I'm sure that girl's following me around. She's a stalker!",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Ese hombre me está poniendo nerviosa. Estoy segura de que me está siguiendo.",
+      "back": "That guy's making me nervous. I'm sure he's following me around.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Creo que me están siguiendo.",
+      "back": "I think I'm being followed.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-053",
+      "front": "¿Estás segura de que te están siguiendo?",
+      "back": "Are you sure you're being followed?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-054",
+      "front": "Estoy segura de que me están siguiendo, agente.",
+      "back": "I'm definitely being followed, officer.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-055",
+      "front": "Ese hombre me está acosando.",
+      "back": "That guy's stalking me.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-056",
+      "front": "Creo que me están acosando.",
+      "back": "I think I'm being stalked.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-057",
+      "front": "¿Estás segura de que él te está acosando?",
+      "back": "Are you sure that he's stalking you?",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-058",
+      "front": "La policía está siguiendo al sospechoso.",
+      "back": "The police are following the suspect.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-059",
+      "front": "La policía lo está siguiendo porque es sospechoso.",
+      "back": "The police are following him because he's a suspect.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-060",
+      "front": "La policía está utilizando dispositivos de localización para seguirlo.",
+      "back": "The police are using tracking equipment to follow him.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-061",
+      "front": "Los perros deben estar sujetos con correa en todo momento.",
+      "back": "Dogs must be kept on a lead at all times.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Debes ponerle una correa a ese perro si quieres ir en el tren con él.",
+      "back": "You must keep that dog on a lead if you want to ride the train with him.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "He perdido la correa y la señal del parque dice que los perros deben estar sujetos con correa en todo momento.",
+      "back": "I've lost the lead and the sign in the park says dogs must be kept on a lead at all times.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-064",
+      "front": "Ella ha perdido el cable que conecta el DVD con la televisión.",
+      "back": "She's lost the lead that connects the DVD player to the television.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-065",
+      "front": "Él ha perdido el cable que conecta el monitor con el disco duro.",
+      "back": "He's lost the lead that connects the monitor to the hard drive.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-066",
+      "front": "¿Has perdido el cable que conecta el DVD con la televisión?",
+      "back": "Have you lost the lead that connects the DVD player to the TV?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-067",
+      "front": "Un testigo anónimo nos acaba de dar una pista decisiva.",
+      "back": "An anonymous witness has just given us a vital lead.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "Resolvimos el caso después de que un testigo anónimo nos diese una pista decisiva.",
+      "back": "We solved the case after an anonymous witness gave us a vital lead.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Nos falta la pista fundamental que nos ayudaría a resolver este caso.",
+      "back": "We're just missing that vital lead that would help us to solve this case.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "El envenenamiento con plomo puede dañar el sistema nervioso.",
+      "back": "Lead poisoning can damage the nervous system.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "El envenenamiento con plomo puede afectar al desarrollo del sistema nervioso.",
+      "back": "Lead poisoning can affect the development of the nervous system.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "El envenenamiento con plomo también puede dañar los órganos internos.",
+      "back": "Lead poisoning can also damage internal organs.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-073",
+      "front": "Ella no nació siendo líder, ¿verdad?",
+      "back": "She wasn't a born leader, was she?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-074",
+      "front": "Él no nació exactamente siendo un líder. Espero que nadie siga su ejemplo.",
+      "back": "He wasn't exactly a born leader. I hope nobody follows his example.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-075",
+      "front": "Él nació siendo un líder. Otros líderes del resto del mundo deberían seguir su ejemplo.",
+      "back": "He's a born leader. Other leaders around the world should follow his example.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-076",
+      "front": "Sigue intentándolo. No te rindas.",
+      "back": "Keep trying. Don't give up.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "Sigue intentándolo. Un día todo tu duro trabajo será recompensado.",
+      "back": "Keep trying. One day your hard work will pay off.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "Sigue intentándolo. No tiene sentido rendirse ahora.",
+      "back": "Keep trying. There's no point giving up now.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-079",
+      "front": "Sigue perseverando.",
+      "back": "Keep on persevering.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-080",
+      "front": "Sigue perseverando y pronto tu duro trabajo será recompensado.",
+      "back": "Keep on persevering and soon your hard work will pay off.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-081",
+      "front": "Si sigues perseverando tu duro trabajo pronto será recompensado.",
+      "back": "If you keep on persevering, soon your hard work will pay off.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-082",
+      "front": "Seguid trabajando, chavales. No hay nada que ver aquí.",
+      "back": "Carry on working, guys. There's nothing to see here.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "Carmen, sigue trabajando. No hay nada que ver aquí.",
+      "back": "Carmen, carry on working. There's nothing to see here.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "No hay nada que ver aquí, así que vuelvan a sus puestos y sigan trabajando.",
+      "back": "There's nothing to see here so go back to your posts and carry on working.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Continúa lo que estás haciendo. Estás haciendo un gran trabajo.",
+      "back": "Carry on doing what you're doing. You're doing a great job.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Él está haciendo un buen trabajo. Si sigue haciéndolo tan bien, le daré un aumento.",
+      "back": "He's doing a good job. If he carries on doing so well, I'll give him a raise.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "Solo quiero que él continúe lo que está haciendo. Estoy muy contenta con su trabajo.",
+      "back": "I just want him to carry on doing what he's doing. I'm really happy with his work.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-088",
+      "front": "Si sigues comportándote así, no te dejaré salir de casa.",
+      "back": "If you continue to behave like that, I'll ground you.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-089",
+      "front": "Si sigue comportándose así, voy a tener que regañarle.",
+      "back": "If he continues to act like that, I'll have to tell him off.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-090",
+      "front": "Si siguen comportándose como unos gamberros, tendré que llamar a la policía.",
+      "back": "If they continue to behave like hooligans, I'll have to call the police.",
+      "sourcePage": 45
+    }
+  ]
+}

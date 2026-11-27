@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-92",
+  "bookTitle": "Libro 92",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Siga a la mujer de las gafas rosas.",
+      "back": "Follow the woman with the pink glasses.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-002",
+      "front": "Siga a la mujer del pelo rizado.",
+      "back": "Follow the woman with the curly hair.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-003",
+      "front": "Siga al hombre de la chaqueta verde.",
+      "back": "Follow the man with the green jacket.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-004",
+      "front": "Sigue a tu profesor.",
+      "back": "Follow your teacher.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-005",
+      "front": "¡Seguid todos al guía turístico!",
+      "back": "Everyone, follow the tour guide!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-006",
+      "front": "¡Sígueme!",
+      "back": "Follow me!",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-007",
+      "front": "Siga a ese coche.",
+      "back": "Follow that car.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-008",
+      "front": "Sigue a la gente que va delante de ti.",
+      "back": "Follow the people in front of you.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-009",
+      "front": "Sigue a la mujer que va delante de ella.",
+      "back": "Follow the woman in front of her.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-010",
+      "front": "Sigue al hombre que va delante de él.",
+      "back": "Follow the man in front of him.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-011",
+      "front": "Sigue las señales de la carretera y llegarás bien.",
+      "back": "Follow the road signs, and you'll be fine.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-012",
+      "front": "Sigue las señales de la carretera.",
+      "back": "Follow the road signs.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-013",
+      "front": "Sigue las señales.",
+      "back": "Follow the signs.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-014",
+      "front": "¡Siga a ese autobús turístico!",
+      "back": "Follow that tour bus!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-015",
+      "front": "¡Siga a ese taxi amarillo!",
+      "back": "Follow that yellow taxi!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-016",
+      "front": "El guía dirige a seis grupos al día.",
+      "back": "The guide leads six groups a day.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-017",
+      "front": "El guía turístico está guiando al grupo al museo.",
+      "back": "The tour guide is leading the group to the museum.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-018",
+      "front": "No conozco esta zona. ¿Puedes dirigir el camino?",
+      "back": "I don't know this area. Can you lead the way?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-019",
+      "front": "¡Encabeza el camino!",
+      "back": "Lead the way!",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-020",
+      "front": "¿Puedes dirigir el camino?",
+      "back": "Can you lead the way?",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-021",
+      "front": "Él los guía por la ciudad.",
+      "back": "He leads them around the city.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-022",
+      "front": "El camino da a la plaza.",
+      "back": "The road leads onto the square.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-023",
+      "front": "El camino de acceso llega hasta la puerta principal.",
+      "back": "The front path leads to the front door.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-024",
+      "front": "El detective Brown dirigirá la investigación.",
+      "back": "Detective Brown will lead the investigation.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-025",
+      "front": "El jefe de los detectives puede dirigir la investigación.",
+      "back": "The chief detective can lead the investigation.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-026",
+      "front": "El vestíbulo da a la cocina.",
+      "back": "The hall leads to the kitchen.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-027",
+      "front": "Esta calle da al camino principal.",
+      "back": "This street leads onto the main road.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-028",
+      "front": "La cocina da al jardín.",
+      "back": "The kitchen leads to the garden.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-029",
+      "front": "La puerta da a la calle.",
+      "back": "The door leads onto the street.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-030",
+      "front": "¿Quién dirigirá la investigación?",
+      "back": "Who's going to lead this investigation?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-031",
+      "front": "Asegúrate de seguir las normas bien.",
+      "back": "Be sure to follow the rules properly.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-032",
+      "front": "Asegúrate de seguir las normas.",
+      "back": "Be sure to follow the rules.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-033",
+      "front": "Asegúrate de seguir sus consejos (de ella) cuidadosamente.",
+      "back": "Make sure you follow her advice carefully.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-034",
+      "front": "Asegúrate de seguir sus consejos (de él).",
+      "back": "Make sure you follow his advice.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-035",
+      "front": "Asegúrate de seguir todas las normas.",
+      "back": "Be sure to follow all the rules.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-036",
+      "front": "Asegúrate de seguirlo siempre.",
+      "back": "Make sure you always follow it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-037",
+      "front": "Intenta asegurarte de seguir el plan bien.",
+      "back": "Try to make sure you follow the plan properly.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Intenta asegurarte de seguir el plan.",
+      "back": "Try to make sure you follow the plan.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Intenta asegurarte de seguirlo cuidadosamente.",
+      "back": "Try to make sure you follow it carefully.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "No estoy segura de que él las esté siguiendo.",
+      "back": "I'm not sure if he's following them.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "No estoy seguro de que ella esté siguiendo las instrucciones para nada.",
+      "back": "I'm not sure if she's following the instructions at all.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "No estoy seguro de que él esté siguiendo las instrucciones.",
+      "back": "I'm not sure if he's following the instructions.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "¿Estás segura de que estás siguiendo la receta bien?",
+      "back": "Are you sure you're following the recipe properly?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "¿Estás seguro de que estás siguiendo la receta?",
+      "back": "Are you sure you're following the recipe?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "¿Estás seguro de que estás siguiéndola cuidadosamente?",
+      "back": "Are you sure you're following it carefully?",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "El líder de Alemania es el canciller.",
+      "back": "The leader of Germany is the Chancellor.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "El líder del Reino Unido es el primer ministro.",
+      "back": "The leader of the United Kingdom is the Prime Minister.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "El líder político de Estados Unidos es el presidente.",
+      "back": "The political leader of the United States is the President.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Estoy liderando el próximo proyecto.",
+      "back": "I'm leading the next project.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Mi jefe está liderando el proyecto.",
+      "back": "My boss is leading the project.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "¿Tu jefe va a liderar el próximo proyecto?",
+      "back": "Is your boss leading the next project?",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Anna es muy buena líder.",
+      "back": "Anna's a very good leader.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-053",
+      "front": "Desafortunadamente, Sarah no es una gran líder.",
+      "back": "Unfortunately, Sarah's not a great leader.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-054",
+      "front": "Dicen que Francia es el líder mundial en la producción de vino.",
+      "back": "They say France is the world leader in wine production.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-055",
+      "front": "Finlandia es el líder mundial en educación.",
+      "back": "Finland is the world leader in education.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-056",
+      "front": "Japón es el líder mundial en tecnología.",
+      "back": "Japan is the world leader in technology.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-057",
+      "front": "La UE es el exportador principal de bienes agrícolas en el mundo.",
+      "back": "The EU is the world's leading exporter of agricultural goods.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-058",
+      "front": "Michael es un gran líder.",
+      "back": "Michael's a great leader.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-059",
+      "front": "Perú es el exportador principal de espárragos en el mundo.",
+      "back": "Peru is the world's leading exporter of asparagus.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-060",
+      "front": "¿Es Alemania el exportador principal de coches en el mundo?",
+      "back": "Is Germany the world's leading exporter of cars?",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-061",
+      "front": "Sigue adelante hasta que llegues a la carretera principal.",
+      "back": "Go straight on until you get to the main road.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "Sigue la carretera hacia Birmingham.",
+      "back": "Follow the road to Birmingham.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "Sigue la carretera que va a Birmingham hasta que llegues al pueblo.",
+      "back": "Follow the road to Birmingham until you get to the village.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-064",
+      "front": "Sigue la carretera que va a Birmingham para llegar al pueblo.",
+      "back": "Follow the road to Birmingham to get to the village.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-065",
+      "front": "Sigue todo recto en la rotonda.",
+      "back": "Go straight on at the roundabout.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-066",
+      "front": "Sigue todo recto para llegar a la carretera principal.",
+      "back": "Go straight on to get to the main road.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-067",
+      "front": "Estamos siguiendo el mapa para llegar a la playa.",
+      "back": "We're following the map for the beach.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "Estamos siguiendo las indicaciones de nuestro amigo para ir a la catedral.",
+      "back": "We're following our friend's directions for the cathedral.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "Estamos siguiendo las indicaciones de nuestro amigo para llegar a la catedral.",
+      "back": "We're following our friend's directions to get to the cathedral.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "Estamos siguiendo las indicaciones para ir a la catedral.",
+      "back": "We're following the directions for the cathedral.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "Están siguiendo el mapa para llegar a la playa.",
+      "back": "They're following the map to get to the beach.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "Están siguiendo su mapa para llegar a la playa.",
+      "back": "They're following their map to get to the beach.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-073",
+      "front": "Sigue los letreros hacia el aeropuerto.",
+      "back": "Follow the signs for the airport.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-074",
+      "front": "Sigue los letreros hasta que llegues a la autopista.",
+      "back": "Follow the signs until you get to the highway.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-075",
+      "front": "Sigue los letreros para llegar a la autopista.",
+      "back": "Follow the signs to get to the motorway.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-076",
+      "front": "¿Quién representa el papel principal en esa obra?",
+      "back": "Who's playing the lead in that play?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "¿Quién representa el papel principal en esa película?",
+      "back": "Who's playing the lead in that film?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "¿Quién representa el papel principal?",
+      "back": "Who's playing the lead?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Quién tiene el papel principal en esa obra?",
+      "back": "Who's got the lead role in that play?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Quién tiene el papel principal en esa película?",
+      "back": "Who's got the lead role in that film?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Quién tiene el papel principal?",
+      "back": "Who's got the lead role?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-082",
+      "front": "¿Quién es el guitarrista principal de esa banda? (lead guitarist)",
+      "back": "Who's the lead guitarist in that band?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "¿Quién es el guitarrista principal de esa banda? (play lead guitar)",
+      "back": "Who plays lead guitar in that band?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "¿Quién es el guitarrista principal de ese grupo? (lead guitarist)",
+      "back": "Who's the lead guitarist in that group?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "¿Quién es el guitarrista principal de ese grupo? (play lead guitar)",
+      "back": "Who plays lead guitar in that group?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "¿Quién es el guitarrista principal? (lead guitarist)",
+      "back": "Who's the lead guitarist?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "¿Quién es el guitarrista principal? (play lead guitar)",
+      "back": "Who plays lead guitar?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Quién es la cantante principal de esa banda?",
+      "back": "Who's the lead singer in that band?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Quién es la cantante principal de ese grupo?",
+      "back": "Who's the lead singer in that group?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Quién es la cantante principal?",
+      "back": "Who's the lead singer?",
+      "sourcePage": 17
+    }
+  ]
+}
