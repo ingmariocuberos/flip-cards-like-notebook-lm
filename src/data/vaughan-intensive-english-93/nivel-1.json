@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-93",
+  "bookTitle": "Libro 93",
+  "language": "en",
+  "sektionId": "nivel-basico",
+  "sektionTitle": "Nivel básico",
+  "order": 1,
+  "cards": [
+    {
+      "id": "s1-001",
+      "front": "Que no se te caiga el vaso.",
+      "back": "Don't drop the glass.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-002",
+      "front": "Que no se te caiga el plato.",
+      "back": "Don't drop the plate.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-003",
+      "front": "Que no se te caiga.",
+      "back": "Don't drop it.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-004",
+      "front": "Suelta la pelota.",
+      "back": "Drop the ball.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-005",
+      "front": "Suelta la pelota, está sucia.",
+      "back": "Drop the ball. It's dirty.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-006",
+      "front": "Suelta la pelota, Adam; está sucísima.",
+      "back": "Drop the ball Adam; it's really dirty.",
+      "sourcePage": 2
+    },
+    {
+      "id": "s1-007",
+      "front": "Que no se te caigan.",
+      "back": "Don't drop them.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-008",
+      "front": "¡Ten cuidado! Que no se te caigan las llaves.",
+      "back": "Be careful! Don't drop the keys.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-009",
+      "front": "Ten cuidado con tus llaves; que no se te caigan.",
+      "back": "Be careful with your keys, don't drop them.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-010",
+      "front": "¡Suelta la pistola!",
+      "back": "Drop the gun!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-011",
+      "front": "¡Suelta el arma!",
+      "back": "Drop the weapon!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-012",
+      "front": "¡Suelta tus armas ya!",
+      "back": "Drop your weapons now!",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-013",
+      "front": "No tirar basura.",
+      "back": "Do not drop litter.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-014",
+      "front": "No tirar basura. Por favor, utilicen la papelera.",
+      "back": "Do not drop litter. Please put it in the bin.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-015",
+      "front": "No tirar basura en este parque.",
+      "back": "Do not drop litter in this park.",
+      "sourcePage": 3
+    },
+    {
+      "id": "s1-016",
+      "front": "Si se te cae el vaso, se romperá.",
+      "back": "If you drop the glass, it'll break.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-017",
+      "front": "Si se te cae el plato, se romperá.",
+      "back": "If you drop the plate, it'll smash.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-018",
+      "front": "Si se le cae la taza a él, se romperá.",
+      "back": "If he drops the mug, it'll break.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-019",
+      "front": "El vaso se romperá si lo dejas caer.",
+      "back": "The glass will smash if you drop it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-020",
+      "front": "El plato se romperá si lo dejas caer.",
+      "back": "The plate will smash if you drop it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-021",
+      "front": "La taza se romperá si la dejas caer.",
+      "back": "The mug will break if you drop it.",
+      "sourcePage": 4
+    },
+    {
+      "id": "s1-022",
+      "front": "Si se te cae el cuchillo, no se romperá.",
+      "back": "If you drop the knife, it won't break.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-023",
+      "front": "No te preocupes. Si se te cae, no se romperá.",
+      "back": "Don't worry. If you drop it, it won't break.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-024",
+      "front": "Aunque se te caiga, no se romperá.",
+      "back": "Even if you drop it, it won't break.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-025",
+      "front": "El tenedor no se romperá si se te cae.",
+      "back": "The fork won't break if you drop it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-026",
+      "front": "El vaso no se romperá si se te cae en la alfombra.",
+      "back": "The glass won't smash if you drop it on the carpet.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-027",
+      "front": "No se romperá si se te cae.",
+      "back": "It won't break if you drop it.",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-028",
+      "front": "¿Se romperá este vaso si se me cae?",
+      "back": "Will this glass break if I drop it?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-029",
+      "front": "¿Se romperá si se me cae?",
+      "back": "Will it break if I drop it?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-030",
+      "front": "Si se me cae, ¿se romperá?",
+      "back": "If I drop it, will it break?",
+      "sourcePage": 5
+    },
+    {
+      "id": "s1-031",
+      "front": "Por favor, ten cuidado de que no se te caiga.",
+      "back": "Please, be careful you don't drop it.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-032",
+      "front": "Ten cuidado de que no se te caiga el portátil.",
+      "back": "Be careful you don't drop the laptop.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-033",
+      "front": "Por favor, ten cuidado de que no se te caigan.",
+      "back": "Please, be careful you don't drop them.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-034",
+      "front": "Ten cuidado de que no se te caiga ese vaso.",
+      "back": "Mind you don't drop that glass.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-035",
+      "front": "Ten cuidado de que no se te caiga ese plato. Es caro.",
+      "back": "Mind you don't drop that plate. It's expensive.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-036",
+      "front": "Ten cuidado de que no se te caiga esa taza. Es cara.",
+      "back": "Mind you don't drop that mug. It's expensive.",
+      "sourcePage": 6
+    },
+    {
+      "id": "s1-037",
+      "front": "Si no tienes cuidado, puede que se te caigan los vasos.",
+      "back": "If you're not careful, you might drop the glasses.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-038",
+      "front": "Puede que se le caiga el portátil a ella si no tiene cuidado.",
+      "back": "She might drop the laptop if she's not careful.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-039",
+      "front": "Puede que se les caigan si no tienen cuidado.",
+      "back": "They might drop them if they're not careful.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-040",
+      "front": "Hagas lo que hagas, que no se te caiga la taza.",
+      "back": "Whatever you do, don't drop the mug.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-041",
+      "front": "¡Que no se te caigan los platos, hagas lo que hagas!",
+      "back": "Don't drop the plates, whatever you do!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-042",
+      "front": "¡Que no se te caiga el vaso, hagas lo que hagas!",
+      "back": "Don't drop the glass, whatever you do!",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-043",
+      "front": "Asegúrate de que no se te caiga el portátil.",
+      "back": "Make sure you don't drop the laptop.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-044",
+      "front": "Escucha, asegúrate de que no se te caiga el cuenco.",
+      "back": "Listen, make sure you don't drop the bowl.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-045",
+      "front": "Hagas lo que hagas, asegúrate de que no se te caiga la pecera.",
+      "back": "Whatever you do, make sure you don't drop the fish tank.",
+      "sourcePage": 7
+    },
+    {
+      "id": "s1-046",
+      "front": "Asegúrate de que no se te caiga al agua.",
+      "back": "Make sure you don't drop it in the water.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-047",
+      "front": "Asegúrate de que no se te caiga el teléfono al agua.",
+      "back": "Make sure you don't drop the phone in the water.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-048",
+      "front": "Por favor, asegúrate de que no se te caiga al agua; lo estropearás.",
+      "back": "Please make sure you don't drop it in the water; you'll ruin it.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-049",
+      "front": "Por favor, ten cuidado de que no se te caiga al río.",
+      "back": "Please be careful you don't drop it in the river.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-050",
+      "front": "Ten cuidado de que no se te caiga la bolsa al río.",
+      "back": "Be careful you don't drop the bag in the river.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-051",
+      "front": "Ten cuidado de que no se te caigan al río.",
+      "back": "Be careful you don't drop them in the river.",
+      "sourcePage": 12
+    },
+    {
+      "id": "s1-052",
+      "front": "Asegúrate de que no se te caigan las llaves por el desagüe.",
+      "back": "Make sure you don't drop your keys down the drain.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-053",
+      "front": "Por favor, asegúrate de que no se te caigan por el desagüe.",
+      "back": "Please make sure you don't drop them down the drain.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-054",
+      "front": "Asegúrate de que no se te vuelva a caer por el desagüe.",
+      "back": "Make sure you don't drop it down the drain again.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-055",
+      "front": "¡Hagas lo que hagas, que no se te caiga eso sobre mí!",
+      "back": "Whatever you do, don't drop that on me.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-056",
+      "front": "¡Hagas lo que hagas, que no se te caiga ese helado sobre mí!",
+      "back": "Whatever you do, don't drop that ice-cream on me!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-057",
+      "front": "¡Hagas lo que hagas, que no se te caiga sobre mí! ¡Me manchará los pantalones!",
+      "back": "Whatever you do, don't drop it on me. It'll stain my trousers.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-058",
+      "front": "¡Asegúrate de que no se te caiga ese martillo en el pie!",
+      "back": "Make sure you don't drop that hammer on your foot!",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-059",
+      "front": "Por favor, asegúrate de que no se te caiga sobre mi pie.",
+      "back": "Please make sure you don't drop it on my foot.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-060",
+      "front": "Asegúrate de que no se te vuelva a caer ese martillo en el pie.",
+      "back": "Make sure you don't drop that hammer on your foot again.",
+      "sourcePage": 13
+    },
+    {
+      "id": "s1-061",
+      "front": "¡Siempre se me caen mis cosas!",
+      "back": "I'm always dropping my things!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-062",
+      "front": "Siempre se me cae mi móvil.",
+      "back": "I'm always dropping my mobile phone.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-063",
+      "front": "Soy muy torpe. ¡Siempre se me caen las cosas!",
+      "back": "I'm so clumsy. I'm always dropping things!",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-064",
+      "front": "Ten cuidado de que no se te caigan las llaves por el desagüe.",
+      "back": "Be careful not to drop your keys down the drain.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-065",
+      "front": "Ten cuidado de que no se te caiga el anillo por el desagüe.",
+      "back": "Be careful not to drop your ring down the plughole.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-066",
+      "front": "Ten cuidado de que no se te caigan las monedas por el desagüe.",
+      "back": "Be careful not to drop your coins down the plughole.",
+      "sourcePage": 14
+    },
+    {
+      "id": "s1-067",
+      "front": "¡Ojo! ¡Se te va a caer el paraguas al río!",
+      "back": "Watch out! You're going to drop your umbrella in the river!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-068",
+      "front": "¡Ojo! ¡Se te va a caer el móvil al charco!",
+      "back": "Watch out! You're going to drop your phone in the puddle!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-069",
+      "front": "¡Ojo! ¡Se te van a caer tus cosas al lago!",
+      "back": "Watch out! You're going to drop your things in the lake!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-070",
+      "front": "¡Ojo! Se te va a caer y te lo vas a derramar todo por encima.",
+      "back": "Watch out! You're going to drop it and spill it all over yourself.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-071",
+      "front": "¡Ojo! Se te va a caer y lo vas a derramar por todo el sofá.",
+      "back": "Watch out! You're going to drop it and spill it all over the sofa.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-072",
+      "front": "¡Ojo! Se te va a caer el vaso y vas a derramar tu bebida por todo el vestido.",
+      "back": "Watch out! You're going to drop your glass and spill your drink all over your dress.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-073",
+      "front": "Ten cuidado de que no se te caiga tu vaso, vas a derramar la leche por toda la moqueta.",
+      "back": "Be careful not to drop your glass, you're going to spill the milk all over the carpet.",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-074",
+      "front": "Siempre se me caen las cosas. ¡Soy muy torpe!",
+      "back": "I'm always dropping things, I'm so clumsy!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-075",
+      "front": "¡Ojo! ¡Se te va a caer el anillo por el desagüe!",
+      "back": "Watch out! You're going to drop your ring down the drain!",
+      "sourcePage": 15
+    },
+    {
+      "id": "s1-076",
+      "front": "Vente mañana si puedes.",
+      "back": "Drop by tomorrow if you can.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-077",
+      "front": "Vente mañana y te daré tu DVD.",
+      "back": "Drop by tomorrow and I'll give you your DVD.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-078",
+      "front": "Vente mañana a tomar un café.",
+      "back": "Drop by tomorrow for a coffee.",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-079",
+      "front": "¿Por qué no te pasas la semana que viene?",
+      "back": "Why don't you drop by next week?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-080",
+      "front": "¿Por qué no te pasas la semana que viene a tomar un café?",
+      "back": "Why don't you drop by next week for a coffee?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-081",
+      "front": "¿Por qué no os pasáis los dos por la oficina la semana que viene?",
+      "back": "Why don't you both drop by the office next week?",
+      "sourcePage": 16
+    },
+    {
+      "id": "s1-082",
+      "front": "Asegúrate de pasarte mañana en algún momento.",
+      "back": "Make sure you drop by tomorrow at some point.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-083",
+      "front": "Asegúrate de pasarte la semana que viene cuando vuelvas.",
+      "back": "Make sure you drop by next week when you're back.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-084",
+      "front": "Aseguraos los dos de pasaros en algún momento.",
+      "back": "Make sure you both drop by at some point.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-085",
+      "front": "No olvides pasarte mañana.",
+      "back": "Don't forget to drop by tomorrow.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-086",
+      "front": "Asegúrate de que no te olvidas de pasarte mañana.",
+      "back": "Make sure you don't forget to drop by tomorrow.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-087",
+      "front": "No olvidéis pasaros cuando volváis.",
+      "back": "Don't forget to drop by when you're back.",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-088",
+      "front": "¿Te pasarás a visitarnos mañana?",
+      "back": "Are you dropping by tomorrow?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-089",
+      "front": "¿Se pasará David a visitarnos mañana?",
+      "back": "Is David dropping by tomorrow?",
+      "sourcePage": 17
+    },
+    {
+      "id": "s1-090",
+      "front": "¿Os pasaréis los dos mañana a tomar un café?",
+      "back": "Are you both dropping by tomorrow for a coffee?",
+      "sourcePage": 17
+    }
+  ]
+}

@@ -219,3 +219,6 @@ El libro 91 tiene 84 páginas PDF individuales; se reconocieron directamente en 
 
 
 El libro 92 tiene 82 páginas PDF individuales; se reconocieron directamente en `sources/english/Libro 92.ocr.txt`, sin dividirlas. Focus Points: PDF 2–7 y 12–17 (básico), 30–35 y 40–45 (intermedio), 58–63 y 68–73 (avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.
+
+
+El libro 93 tiene 82 páginas PDF individuales; se reconocieron directamente en `sources/english/Libro 93.ocr.txt`, sin dividirlas. Focus Points: PDF 2–7 y 12–17 (básico), 30–35 y 40–45 (intermedio), 58–63 y 68–73 (avanzado). Se transcribieron 90 tarjetas por nivel y se corrigieron erratas y discrepancias.

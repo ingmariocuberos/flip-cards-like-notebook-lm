@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-93",
+  "bookTitle": "Libro 93",
+  "language": "en",
+  "sektionId": "nivel-intermedio",
+  "sektionTitle": "Nivel intermedio",
+  "order": 2,
+  "cards": [
+    {
+      "id": "s2-001",
+      "front": "Se me cayó el plato.",
+      "back": "I dropped the plate.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-002",
+      "front": "A Sylvie se le cayó la botella.",
+      "back": "Sylvie dropped the bottle.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-003",
+      "front": "Se me cayó el MP3 y dejó de funcionar.",
+      "back": "I dropped my MP3 player and it stopped working.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-004",
+      "front": "A Vicky se le volvió a caer la grapadora.",
+      "back": "Vicky dropped the stapler again.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-005",
+      "front": "A Andrew se le volvió a caer la bandeja.",
+      "back": "Andrew dropped the tray again.",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-006",
+      "front": "A Andy se le volvió a caer su taza. ¡Había café por todos lados!",
+      "back": "Andy dropped his mug again. There was coffee everywhere!",
+      "sourcePage": 30
+    },
+    {
+      "id": "s2-007",
+      "front": "¡Se me acaba de caer mi portátil!",
+      "back": "I've just dropped my laptop!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-008",
+      "front": "A Natalie se le acaba de caer su móvil.",
+      "back": "Natalie's just dropped her mobile phone.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-009",
+      "front": "Se les acaba de caer todo al suelo.",
+      "back": "They've just dropped everything on the floor.",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-010",
+      "front": "¿Se le acaba de caer el plato a Howard?",
+      "back": "Has Howard just dropped the dish?",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-011",
+      "front": "¿Se le acaba de caer el jarrón de Howard a Sylvie?",
+      "back": "Has Sylvie just dropped Howard's vase?",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-012",
+      "front": "¿Se te acaba de caer esta bandeja? ¡Hay comida por todos lados!",
+      "back": "Have you just dropped this tray? There's food everywhere!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-013",
+      "front": "¡No me puedo creer que se te cayera la taza! ¡Hay café por todos lados!",
+      "back": "I can't believe you dropped the mug! There's coffee everywhere!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-014",
+      "front": "¡No me puedo creer que se te acabe de caer mi portátil al suelo!",
+      "back": "I can't believe you've just dropped my laptop on the floor!",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-015",
+      "front": "¡No me puedo creer que se te haya vuelto a caer tu MP3! ¿Funciona?",
+      "back": "I can't believe you've dropped your MP3 player again! Does it work?",
+      "sourcePage": 31
+    },
+    {
+      "id": "s2-016",
+      "front": "He perdido tres libras en ocho meses.",
+      "back": "I've dropped three pounds in 8 months!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-017",
+      "front": "Él ha perdido ocho libras este mes con esta nueva dieta.",
+      "back": "He's dropped 8 pounds this month on this new diet.",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-018",
+      "front": "Con esta nueva dieta, ¡he perdido cinco libras en seis meses!",
+      "back": "On this new diet, I've dropped 5 pounds in 6 months!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-019",
+      "front": "¡Ella ha perdido tres tallas en seis meses!",
+      "back": "She's dropped three dress sizes in six months!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-020",
+      "front": "¡He perdido cuatro tallas en un año!",
+      "back": "I've dropped 4 dress sizes in a year!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-021",
+      "front": "Mary ha perdido cinco tallas en un año. ¡Ahora necesita renovar su armario!",
+      "back": "Mary's dropped 5 dress sizes in a year. Now she needs a new wardrobe!",
+      "sourcePage": 32
+    },
+    {
+      "id": "s2-022",
+      "front": "¡He perdido tres pulgadas de cintura!",
+      "back": "I've dropped 3 inches off my waist!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-023",
+      "front": "¡He perdido cinco pulgadas de cintura! ¡Acabo de medirlo!",
+      "back": "I've dropped 5 inches off my waist! I've just measured it!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-024",
+      "front": "¡Ella ha perdido pulgadas de cintura! ¡Me da mucha envidia!",
+      "back": "She's dropped inches off her waist! I'm so jealous!",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-025",
+      "front": "Desde que empecé con esta dieta, he estado perdiendo peso.",
+      "back": "Since I started on this diet, the weight's just been dropping off.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-026",
+      "front": "Me pusieron la banda gástrica y ahora mi peso está disminuyendo.",
+      "back": "I had my gastric band operation and now the weight's just dropping off.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-027",
+      "front": "Desde que me pusieron la banda gástrica, mi peso no ha dejado de disminuir.",
+      "back": "Since I had the gastric band operation, the weight's been dropping off.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-028",
+      "front": "Sylvie perdió cinco libras el año pasado, pero desde entonces ha recuperado tres libras.",
+      "back": "Sylvie dropped 5 pounds last year, but since then she's put 3 pounds back on.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-029",
+      "front": "Greg perdió 6,3 kilos el año pasado, pero desde entonces ya lo ha recuperado todo.",
+      "back": "Greg lost 1 stone last year but since then, he's put it all back on.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-030",
+      "front": "Anthony perdió 12,6 kilos el año pasado, pero lo ha recuperado todo desde entonces.",
+      "back": "Anthony lost 2 stone last year but he's put it all back on since then.",
+      "sourcePage": 33
+    },
+    {
+      "id": "s2-031",
+      "front": "¿Se te cayó el anillo por el desagüe? Sí, se me cayó por el desagüe.",
+      "back": "Did you drop the ring down the drain? Yes, I dropped it down the drain.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-032",
+      "front": "A Jill se le cayeron por el desagüe.",
+      "back": "Jill dropped them down the drain.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-033",
+      "front": "A ella se le cayó el pendiente por el desagüe.",
+      "back": "She dropped her earring down the drain.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-034",
+      "front": "Se me volvió a caer el móvil a un charco.",
+      "back": "I dropped my phone in a puddle again.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-035",
+      "front": "Se le volvió a caer a ella la radio a la bañera.",
+      "back": "She dropped the radio in the bath again.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-036",
+      "front": "Se le volvió a caer a él su reloj al mar.",
+      "back": "He dropped his watch in the sea again.",
+      "sourcePage": 34
+    },
+    {
+      "id": "s2-037",
+      "front": "Se te ha caído el martillo en mi pie. ¡Ten cuidado!",
+      "back": "You dropped the hammer on my foot! Be careful!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-038",
+      "front": "¡A él se le acaba de caer la aspiradora en mi pie!",
+      "back": "He just dropped the vacuum cleaner on my foot!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-039",
+      "front": "Se te acaba de volver a caer el martillo en mi pie. ¡Ten cuidado!",
+      "back": "You've just dropped the hammer on my foot again. Be careful!",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-040",
+      "front": "Pon el anillo en el armario para que no se te caiga por el desagüe.",
+      "back": "Put the ring in the cabinet so that you don't drop it down the drain.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-041",
+      "front": "Guárdate el teléfono en el bolsillo para que no se te caiga en un charco.",
+      "back": "Keep your phone in your pocket so that you don't drop it in a puddle.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-042",
+      "front": "Agarra firmemente el martillo para que no se te vuelva a caer en el pie.",
+      "back": "Hold the hammer tightly so that you don't drop it on your foot again.",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-043",
+      "front": "Agárralo firmemente. No querrás que se te caiga en el pie otra vez, ¿verdad?",
+      "back": "Hold it tightly. You don't want to drop it on your foot again, do you?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-044",
+      "front": "Métetelo en el bolsillo. No querrás que se te caiga al mar otra vez, ¿verdad?",
+      "back": "Put it in your pocket. You don't want to drop it in the sea again, do you?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-045",
+      "front": "¡Cuidado! No querrás que se te caiga el anillo por el desagüe otra vez, ¿verdad?",
+      "back": "Careful! You don't want to drop your ring down the plughole again, do you?",
+      "sourcePage": 35
+    },
+    {
+      "id": "s2-046",
+      "front": "La cosecha de pepinos se vio afectada por el súbito descenso de las temperaturas.",
+      "back": "The cucumber crop was affected by the sudden drop in temperature.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-047",
+      "front": "Los plátanos no reaccionan bien a descensos súbitos de temperatura.",
+      "back": "Bananas don't react well to sudden drops in temperature.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-048",
+      "front": "Un súbito descenso de las temperaturas afectó a la cosecha del café en Brasil.",
+      "back": "A sudden drop in temperature affected the coffee harvest in Brazil.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-049",
+      "front": "Ha habido una caída de la demanda desde que abrieron el centro comercial.",
+      "back": "There's been a drop in demand since they opened the mall.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-050",
+      "front": "Ha habido una caída en la demanda de comida rápida desde que retransmitieron el documental.",
+      "back": "There's been a drop in demand for fast food since they broadcast the documentary.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-051",
+      "front": "Hemos sufrido una gran caída de la demanda desde el artículo.",
+      "back": "We've suffered a big drop in demand since the article.",
+      "sourcePage": 40
+    },
+    {
+      "id": "s2-052",
+      "front": "Una caída de la demanda está relacionada directamente con una caída de las ventas.",
+      "back": "A drop in demand is directly linked to a drop in sales.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-053",
+      "front": "Tendremos que recortar costes si sufrimos una caída de las ventas.",
+      "back": "We'll have to cut costs if we suffer a drop in sales.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-054",
+      "front": "La leve caída de las ventas se debe al mal tiempo durante el fin de semana.",
+      "back": "The slight drop in sales is due to the bad weather over the weekend.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-055",
+      "front": "Nuestros gastos han bajado gracias a una caída del precio de las materias primas.",
+      "back": "Our costs have gone down thanks to a drop in the price of raw materials.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-056",
+      "front": "Una bajada del precio del gas beneficiaría a los ancianos.",
+      "back": "A drop in the price of gas would benefit the elderly.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-057",
+      "front": "Una bajada del precio del petróleo beneficiaría mucho a los granjeros.",
+      "back": "A drop in the price of oil would really benefit the farmers.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-058",
+      "front": "Tu mareo se debe a una caída de la presión sanguínea.",
+      "back": "Your dizziness is due to a drop in blood pressure.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-059",
+      "front": "Tomar esta medicación puede causar una caída súbita de la presión sanguínea.",
+      "back": "Taking this medication can cause a sudden drop in blood pressure.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-060",
+      "front": "La fatiga de ella se debe a una caída de la presión sanguínea.",
+      "back": "Her fatigue is due to a drop in blood pressure.",
+      "sourcePage": 41
+    },
+    {
+      "id": "s2-061",
+      "front": "Estoy cansado de escucharte. Deja el tema.",
+      "back": "I'm tired of listening to you. Drop the subject.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-062",
+      "front": "Me estoy cansando de escucharte. Deja el tema.",
+      "back": "I'm getting tired of listening to you. Drop the subject.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-063",
+      "front": "Me estoy cansando de escucharte. Deja el tema, ¿quieres?",
+      "back": "I'm getting tired of listening to you. Drop the subject, will you?",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-064",
+      "front": "Para de hablar de eso. Déjalo ya.",
+      "back": "Stop talking about it. Just drop it.",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-065",
+      "front": "Has estado hablando acerca de eso todo el día. ¡Déjalo ya!",
+      "back": "You've been talking about that all day. Just drop it!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-066",
+      "front": "Has estado hablando acerca de lo mismo todo el día. ¡Déjalo!",
+      "back": "You've been talking about the same thing all day. Drop it!",
+      "sourcePage": 42
+    },
+    {
+      "id": "s2-067",
+      "front": "Vamos a dejar el proyecto antiguo porque necesitamos centrarnos en el nuevo.",
+      "back": "We're going to drop the old project because we need to focus on the new one.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-068",
+      "front": "Este proyecto no va a tener éxito. Creo que deberíamos abandonarlo.",
+      "back": "This project isn't going to be successful. I think we should drop it.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-069",
+      "front": "Abandonaron el proyecto porque sabían que no iba a ser un éxito.",
+      "back": "They dropped the project because they knew it wasn't going to be a success.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-070",
+      "front": "Después de la mala acogida de su último álbum, la discográfica se deshizo de él.",
+      "back": "After his last album flopped, the record label dropped him.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-071",
+      "front": "El sello discográfico prescindió del grupo después de que su último álbum fracasara.",
+      "back": "The record label dropped the band after their last album flopped.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-072",
+      "front": "¿Se deshicieron de la cantante después de que su último álbum fracasara?",
+      "back": "Did they drop the singer after her last album flopped?",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-073",
+      "front": "Si sigue jugando mal, lo sacarán.",
+      "back": "If he carries on playing badly, he'll be dropped.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-074",
+      "front": "Sacaron al jugador de béisbol después del incidente.",
+      "back": "The baseball player was dropped after the incident.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-075",
+      "front": "Él está molesto porque el entrenador lo sacó del equipo.",
+      "back": "He's upset because the coach dropped him from the team.",
+      "sourcePage": 43
+    },
+    {
+      "id": "s2-076",
+      "front": "¿Querría usted un chorrito de leche en su té?",
+      "back": "Would you like a drop of milk in your tea?",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-077",
+      "front": "¿Querría usted leche en su té? Solo un chorrito, por favor.",
+      "back": "Would you like any milk in your tea? Just a drop, please.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-078",
+      "front": "¿Cómo le gusta a usted su té? Solo un azucarillo y un chorrito de leche, por favor.",
+      "back": "How do you like your tea? Just one sugar and a drop of milk, please.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-079",
+      "front": "Solo pon un poco de pomada en el corte.",
+      "back": "Just put a drop of ointment on the cut.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-080",
+      "front": "Solo pon un poco de pomada en el corte para desinfectarlo.",
+      "back": "Just put a drop of ointment on the cut to disinfect it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-081",
+      "front": "Solo pon un poco de pomada en el rasguño. Eso lo desinfectará.",
+      "back": "Just put a drop of ointment on the graze. That'll disinfect it.",
+      "sourcePage": 44
+    },
+    {
+      "id": "s2-082",
+      "front": "Solo necesitas una gota de sangre para hacer el análisis.",
+      "back": "All you need is a drop of blood to do the test.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-083",
+      "front": "No necesitamos sacar mucha sangre, señor; solo una gota.",
+      "back": "We don't need to draw a lot of blood, sir; just a drop.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-084",
+      "front": "Una gota de sangre es suficiente para hacer el análisis de sangre.",
+      "back": "One drop of blood is enough to do the blood test.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-085",
+      "front": "Hay una mancha de tinta en este contrato.",
+      "back": "There's a drop of ink on this contract.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-086",
+      "front": "Hay una mancha de tinta en este documento. ¡Eso no es muy profesional!",
+      "back": "There's a drop of ink on this document. That's not very professional!",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-087",
+      "front": "¿Puedes imprimir otra copia del contrato, por favor? Este tiene una mancha de tinta.",
+      "back": "Can you print another copy of the contract please? This one has a drop of ink on it.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-088",
+      "front": "La receta dice que necesitas una gota de vainilla.",
+      "back": "The recipe says you need one drop of vanilla.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-089",
+      "front": "Solo necesitas dos gotas de vainilla. Algo más y será demasiado.",
+      "back": "You just need two drops of vanilla. Any more and it'll be too much.",
+      "sourcePage": 45
+    },
+    {
+      "id": "s2-090",
+      "front": "¿Podrías añadir una gota de vainilla al batido para darle un poco más de sabor?",
+      "back": "Could you add a drop of vanilla to the milkshake to give it a bit more flavor?",
+      "sourcePage": 45
+    }
+  ]
+}

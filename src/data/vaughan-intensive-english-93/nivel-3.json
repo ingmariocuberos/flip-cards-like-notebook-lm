@@ -1,0 +1,550 @@
+{
+  "bookId": "vaughan-intensive-english-93",
+  "bookTitle": "Libro 93",
+  "language": "en",
+  "sektionId": "nivel-avanzado",
+  "sektionTitle": "Nivel avanzado",
+  "order": 3,
+  "cards": [
+    {
+      "id": "s3-001",
+      "front": "Funcionaría bien ahora si no lo hubieras dejado caer.",
+      "back": "It'd be working fine now if you hadn't dropped it.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-002",
+      "front": "La limpiadora estaría de camino a casa si él no hubiera dejado caer el contenedor.",
+      "back": "The cleaner would be on her way home now if he hadn't dropped the container.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-003",
+      "front": "El portátil estaría funcionando perfectamente ahora si no lo hubieras dejado caer.",
+      "back": "The laptop would be working fine now if you hadn't dropped it!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-004",
+      "front": "Ojalá que no se te hubiera caído el marco.",
+      "back": "I wish you hadn't dropped the picture frame!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-005",
+      "front": "Ojalá que a ella no se le hubiera caído el florero. Está hecho añicos.",
+      "back": "I wish she hadn't dropped the vase. It's smashed into tiny pieces.",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-006",
+      "front": "Ojalá que Frank no hubiera dejado caer la cafetera. Hay café por todo el suelo.",
+      "back": "I wish Frank hadn't dropped the coffee maker. There's coffee all over the floor!",
+      "sourcePage": 58
+    },
+    {
+      "id": "s3-007",
+      "front": "No te quejes de que el portátil no funcione; no deberías haberlo dejado caer.",
+      "back": "Don't complain that the laptop's not working; you shouldn't have dropped it!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-008",
+      "front": "No te quejes porque el florero esté roto. No deberías haberlo dejado caer para empezar.",
+      "back": "Don't moan because the vase is broken. You shouldn't have dropped it in the first place!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-009",
+      "front": "No te quejes porque haga un ruido raro. ¡No deberías haberlo dejado caer!",
+      "back": "Don't gripe because it's making a strange noise. You shouldn't have dropped it!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-010",
+      "front": "Más vale que no dejes caer esa urna. ¡Las cenizas de la abuela están dentro!",
+      "back": "You'd better not drop that urn. Grandma's ashes are in there!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-011",
+      "front": "Más vale que él no deje caer ese florero. ¡Vale un dineral!",
+      "back": "He'd better not drop that vase. It's worth a fortune!",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-012",
+      "front": "Más vale que Shelley no deje caer el teléfono, si no la pantalla se hará añicos.",
+      "back": "Shelley had better not drop the phone, otherwise the screen will smash.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-013",
+      "front": "A Ashley no habría podido caérsele el jarrón. No habría podido alcanzarlo.",
+      "back": "Ashley couldn't have dropped the vase; he wouldn't have been able to reach it.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-014",
+      "front": "Barry no podría haber dejado caer el portátil. No lo usa nunca.",
+      "back": "Barry couldn't have dropped the laptop. He never uses it.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-015",
+      "front": "A Jessica no podría habérsele caído la impresora. Ha estado en casa de su amigo todo el día.",
+      "back": "Jessica couldn't have dropped the printer. She's been at her friend's house all day.",
+      "sourcePage": 59
+    },
+    {
+      "id": "s3-016",
+      "front": "¿Me podrías dejar en la esquina de la calle Baker, por favor?",
+      "back": "Could you drop me off at the corner of Baker Street, please?",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-017",
+      "front": "Déjame en la esquina de la calle King y la calle O'Connell.",
+      "back": "Drop me off on the corner of King Street and O'Connell Street.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-018",
+      "front": "Voy a pasar por allí, por si quieres que te deje en alguna parte.",
+      "back": "I'm going that way if you want me to drop you off somewhere.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-019",
+      "front": "Jessie se quedó dormido en el coche de camino a casa desde la casa de la abuela.",
+      "back": "Jessie dropped off in the car on the way home from grandma's.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-020",
+      "front": "Tengo el hábito de quedarme dormido frente al televisor.",
+      "back": "I have a habit of dropping off in front of the TV.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-021",
+      "front": "Se quedó dormido en el cine y no tenía ni idea de dónde estaba cuando se despertó.",
+      "back": "He dropped off in the cinema and had no idea where he was when he woke up.",
+      "sourcePage": 60
+    },
+    {
+      "id": "s3-022",
+      "front": "¡Puedes pasarte por aquí cuando quieras!",
+      "back": "Feel free to drop by any time you want!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-023",
+      "front": "¡Esa mujer cree que puede pasarse por aquí cuando le apetece!",
+      "back": "That woman thinks she can just drop by any time she feels like it!",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-024",
+      "front": "Ella me dijo que yo podía pasarme cuando quisiera.",
+      "back": "She told me that I could drop by any time I wanted.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-025",
+      "front": "¿Puedo pasarme mañana y recoger la ropa de la tintorería?",
+      "back": "Can I drop in tomorrow and pick up the dry-cleaning?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-026",
+      "front": "Ella dice que puedo pasarme mañana y recoger las fotos.",
+      "back": "She says I can drop in tomorrow and pick up the photos.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-027",
+      "front": "¿Estaría bien si me paso luego para recoger los trajes?",
+      "back": "Would it be alright if I dropped in later on to pick up the suits?",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-028",
+      "front": "Ella se arrepiente de haber dejado la universidad.",
+      "back": "She regrets dropping out of university.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-029",
+      "front": "Algunos de los empresarios con más éxito del mundo dejaron la universidad.",
+      "back": "Some of the world's most successful entrepreneurs dropped out of college.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-030",
+      "front": "Ella no podía pagar las tasas abusivas de la universidad, por lo cual tuvo que dejarla.",
+      "back": "She couldn't pay the extortionate school fees so she had to drop out.",
+      "sourcePage": 61
+    },
+    {
+      "id": "s3-031",
+      "front": "¿Ves agua goteando de esa tubería de ahí? ¿Llamo a un fontanero?",
+      "back": "Can you see water dripping from that pipe over there? Shall I call a plumber?",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-032",
+      "front": "Más vale que llames al fontanero; veo agua goteando de esa tubería.",
+      "back": "You'd better call the plumber; I can see water dripping from that pipe.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-033",
+      "front": "Ella me dijo que veía agua goteando de la tubería y que más me valía llamar al fontanero.",
+      "back": "She told me that she could see water dripping from the pipe and that I'd better call the plumber.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-034",
+      "front": "¡La leche ha goteado por todas partes! Ahora tenemos que limpiar toda la nevera.",
+      "back": "The milk's leaked everywhere! Now we have to clean the fridge out!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-035",
+      "front": "¿Por qué no le pusiste el tapón correctamente? ¡Ahora la leche se ha desparramado por todas partes!",
+      "back": "Why didn't you screw the cap on properly?! Now the milk's leaked everywhere!",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-036",
+      "front": "No tengo ni idea de por dónde podría haberse fugado el gas.",
+      "back": "I have no idea where the gas could have leaked from.",
+      "sourcePage": 62
+    },
+    {
+      "id": "s3-037",
+      "front": "La información debe de haberse filtrado de alguna forma.",
+      "back": "The information must've leaked out somehow.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-038",
+      "front": "La prensa debe de haberse hecho con algunos documentos, ¿de qué otra manera podría haberse filtrado la información?",
+      "back": "The press must've got hold of some documents, how else could the information have leaked out?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-039",
+      "front": "Deben de haber pinchado los teléfonos del despacho del diplomático. ¿De qué otra manera podría haberse filtrado la información?",
+      "back": "The phones in the diplomat's office must've been bugged. How else could the information have leaked out?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-040",
+      "front": "¡Acaba de pasar un autobús y me ha salpicado por todas partes!",
+      "back": "A bus just drove past and splashed water all over me!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-041",
+      "front": "Apuesto a que él aceleró a propósito, ¡solo para salpicarme por todas partes!",
+      "back": "I bet you he sped up on purpose just to splash water all over me!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-042",
+      "front": "¡Deja de salpicar por todo el baño, Eric! ¡Estás dañando el papel de la pared!",
+      "back": "Stop splashing water all over the bathroom, Eric! You're ruining the wallpaper!",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-043",
+      "front": "¿Qué es ese líquido raro que gotea sobre el suelo?",
+      "back": "What's that strange liquid trickling onto the floor?",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-044",
+      "front": "Cuando vi el agua goteando desde el techo, supe que teníamos que llamar al fontanero.",
+      "back": "When I saw the water trickling down from the ceiling, I knew we had to call a plumber.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-045",
+      "front": "Hay un líquido raro goteando sobre la mesa desde el techo. Más vale que llames a un fontanero.",
+      "back": "There's a strange liquid trickling onto the table from the ceiling. You'd better call a plumber.",
+      "sourcePage": 63
+    },
+    {
+      "id": "s3-046",
+      "front": "La cantidad que dono cada mes es una gota en el océano comparada con lo que donas tú.",
+      "back": "The amount that I donate each month is a drop in the ocean compared to you.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-047",
+      "front": "Mi contribución resultó ser un grano de arena comparada con lo que hacía falta.",
+      "back": "My input turned out to be a drop in the ocean compared to what was needed.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-048",
+      "front": "Puede que 1.000 dólares te suenen a mucho, pero en realidad es una gota en el océano.",
+      "back": "$1,000 may sound like a lot to you, but really it's just a drop in the ocean.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-049",
+      "front": "Solté unas cuantas indirectas, pero todas en vano.",
+      "back": "I dropped a few hints, but to no avail.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-050",
+      "front": "A pesar de soltar todas aquellas indirectas, él no lo cogió.",
+      "back": "Despite dropping all those hints he didn't get it.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-051",
+      "front": "Él soltó muchas indirectas para decirle que estaba interesado en ella, pero todas en vano.",
+      "back": "He dropped so many hints to let her know that he was interested in her, but to no avail.",
+      "sourcePage": 68
+    },
+    {
+      "id": "s3-052",
+      "front": "Anita se quedó boquiabierta cuando oyó que su archienemiga Lucy estaba comprometida con su ex.",
+      "back": "Anita's jaw dropped when she heard that her arch-enemy Lucy was engaged to her ex.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-053",
+      "front": "Ella se quedó boquiabierta cuando vio que el rarito del colegio se había convertido en un guapo médico.",
+      "back": "Her jaw dropped when she saw that the school geek had grown to become a handsome doctor.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-054",
+      "front": "Él se quedó boquiabierto cuando ella le dijo que había conocido a otra persona.",
+      "back": "His jaw dropped when she told him she'd met someone else.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-055",
+      "front": "Llámame cuando llegues a San Francisco.",
+      "back": "Drop me a line when you get to San Francisco.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-056",
+      "front": "Me dijo que le llamara cuando llegara a San Francisco.",
+      "back": "He told me to drop him a line when I got to San Francisco.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-057",
+      "front": "Llámanos la próxima vez que estés en la ciudad y podemos ponernos al día.",
+      "back": "Drop us a line the next time you're in town and we can catch up.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-058",
+      "front": "Clara soltó un bombazo cuando anunció que estaba embarazada.",
+      "back": "Clara dropped a massive bombshell when she announced she was pregnant.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-059",
+      "front": "Ana soltó un bombazo durante la cena al decir que se iba.",
+      "back": "Ana dropped a massive bombshell over dinner announcing that she was leaving.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-060",
+      "front": "Desde que Henry soltó esa bomba al decir que se iba a mudar, las cosas han cambiado mucho.",
+      "back": "Since Henry dropped that bombshell saying that he was moving, things have changed a lot.",
+      "sourcePage": 69
+    },
+    {
+      "id": "s3-061",
+      "front": "El forense está intentando averiguar por qué Clive murió de repente ayer.",
+      "back": "The coroner's trying to find out why Clive dropped dead yesterday.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-062",
+      "front": "Después de la autopsia averiguaremos por qué Tim murió de repente la semana pasada.",
+      "back": "After the autopsy, we'll find out why Tim dropped dead last week.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-063",
+      "front": "El forense necesita llevar a cabo la autopsia para averiguar por qué él murió de repente.",
+      "back": "The coroner needs to carry out an autopsy to find out why he dropped dead.",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-064",
+      "front": "Si esperas que yo te aguante un segundo más, ¡vete por ahí!",
+      "back": "If you expect me to put up with you for a second longer, you can drop dead!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-065",
+      "front": "Hola Lucy, ¿nos invitas a tomar algo luego? ¡Vete por ahí!",
+      "back": "Hi Lucy, will you buy us a drink later? Drop dead!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-066",
+      "front": "¿Cómo demonios aprobaste el examen de conducir? ¿Sobornaste al examinador? ¡Vete por ahí, Tony!",
+      "back": "How on earth did you pass your driving test? Did you bribe the examiner?! Drop dead Tony!",
+      "sourcePage": 70
+    },
+    {
+      "id": "s3-067",
+      "front": "Ella piensa que él es extremadamente atractivo, pero yo no creo que sea para tanto.",
+      "back": "She reckons he's drop dead gorgeous but I don't think he's all that.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-068",
+      "front": "¡Es que no lo entiendo! ¿Cómo consiguió ese asqueroso una novia tan despampanante como ella?",
+      "back": "I just don't get it! How did that creep get a drop dead gorgeous girlfriend like her?",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-069",
+      "front": "Puede que él sea un idiota, pero es extremadamente atractivo, así que siempre se sale con la suya.",
+      "back": "He may be an idiot, but he's drop dead gorgeous, so he gets away with everything.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-070",
+      "front": "Desde el brote, los animales de las zonas afectadas han estado cayendo como moscas.",
+      "back": "Since the outbreak, the animals in the affected area have been dropping like flies.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-071",
+      "front": "Durante el brote de la peste bubónica, la gente cayó como moscas.",
+      "back": "During the bubonic plague outbreak, people were dropping like flies.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-072",
+      "front": "Si no fabricamos la vacuna ahora, entonces pronto la gente empezará a caer como moscas.",
+      "back": "If we don't manufacture the vaccine now, then soon people will start dropping like flies.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-073",
+      "front": "Ella le dijo a él que se fuera por ahí y entonces él la dejó en paz.",
+      "back": "She told him to drop dead and then he left her alone.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-074",
+      "front": "El forense despampanante sigue sin averiguar por qué Tim murió de repente.",
+      "back": "The drop dead gorgeous coroner still hasn't found out why Tim dropped dead.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-075",
+      "front": "Desde el brote de gripe en aquel lugar, la gente ha estado cayendo como moscas.",
+      "back": "Since the flu outbreak over there, people have been dropping like flies.",
+      "sourcePage": 71
+    },
+    {
+      "id": "s3-076",
+      "front": "Después de ver su extracto bancario, caí en la cuenta y fui consciente de que ella me estaba engañando.",
+      "back": "After I saw her bank statements, the penny dropped and I realized she was cheating on me.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-077",
+      "front": "Erwin no cayó en la cuenta hasta que vio el coche de ella aparcado fuera.",
+      "back": "The penny didn't drop until Erwin saw her car parked outside.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-078",
+      "front": "Intentó ocultar su embarazo a sus compañeros de trabajo, pero cayeron en la cuenta cuando comenzó a tener náuseas matutinas.",
+      "back": "She tried to hide her pregnancy from her workmates but the penny dropped when she started having morning sickness.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-079",
+      "front": "Después de tres años intentando lograr ser un futbolista profesional, su carrera se quedó a un lado.",
+      "back": "After three years trying to make it as a professional footballer, his career fell by the wayside.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-080",
+      "front": "Muchos jóvenes futbolistas intentan llegar a ser profesionales, pero la mayoría de ellos se quedan en el camino.",
+      "back": "Many young footballers try to make it as professionals, but most of them fall by the wayside.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-081",
+      "front": "Ella intentó durante muchos años tener éxito como cantante, pero desafortunadamente su carrera no siguió adelante.",
+      "back": "She tried for many years to make it as a singer, but unfortunately her career fell by the wayside.",
+      "sourcePage": 72
+    },
+    {
+      "id": "s3-082",
+      "front": "¡Ha sido un día tan ajetreado que estoy hecho polvo!",
+      "back": "It's been such a hectic day; I'm fit to drop!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-083",
+      "front": "Ha sido un día muy ajetreado, y además con este calor, ¡estoy hecho polvo!",
+      "back": "It's been such a hectic day, and with this heat as well, I'm fit to drop!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-084",
+      "front": "Anoche ella llegó a casa del viaje de negocios hecha polvo, después de una escala de seis horas.",
+      "back": "Last night she came home from her business trip fit to drop after a six-hour layover.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-085",
+      "front": "No voy mucho de compras, pero cuando lo hago, compro hasta caer rendido.",
+      "back": "I don't go shopping a lot, but when I do, I shop till I drop.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-086",
+      "front": "De vez en cuando tengo la necesidad de salir y comprar hasta caer rendido.",
+      "back": "Every now and again I get the urge to just go out and shop till I drop!",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-087",
+      "front": "Siempre compro hasta caer rendido cuando voy a París; por eso siempre estoy sin un duro cuando me voy.",
+      "back": "I always shop till I drop when I go to Paris; that's why I'm always broke when I leave.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-088",
+      "front": "Si buscas a alguien con quien jugar al golf llama a Simon, él se unirá a ti de inmediato.",
+      "back": "If you want someone to play golf with, call Simon; he'll join you at the drop of a hat.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-089",
+      "front": "Él puede hacerla llorar a la más mínima. La tiene en la palma de su mano.",
+      "back": "He can make her cry at the drop of a hat. He has her wrapped around his finger.",
+      "sourcePage": 73
+    },
+    {
+      "id": "s3-090",
+      "front": "Cuando ella lo llama, él está ahí de inmediato. Lo tiene en la palma de su mano.",
+      "back": "When she calls him, he's over there at the drop of a hat. She has him wrapped around her finger!",
+      "sourcePage": 73
+    }
+  ]
+}
